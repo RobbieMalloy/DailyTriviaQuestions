@@ -1,22 +1,23 @@
 {
-  "gameDate": "2025-12-30",
+  "gameDate": "2025-12-31",
   "difficulty": "random",
   "results": [
     {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f952274",
-      "correctAnswer": "Twice the speed of sound",
+      "category": "film_and_tv",
+      "id": "622a1c357cc59eab6f94fc3d",
+      "correctAnswer": "\"Rosebud.\"",
       "incorrectAnswers": [
-        "Twice the speed of light",
-        "200 miles per hour",
-        "2 miles per second"
+        "\"You shall not pass!\"",
+        "\"Why don't you come up sometime and see me?\"",
+        "\"Louis, I think this is the beginning of a beautiful friendship.\""
       ],
       "question": {
-        "text": "If you were travelling at mach 2 how fast would you be travelling?"
+        "text": "Which of these quotes is from the film 'Citizen Kane'?"
       },
       "tags": [
-        "science",
-        "words"
+        "quotes",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -24,20 +25,19 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd50",
-      "correctAnswer": "The Banjo",
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f95034d",
+      "correctAnswer": "Ector",
       "incorrectAnswers": [
-        "The Piano",
-        "The Harp",
-        "The Flute"
+        "Uther",
+        "Constantine",
+        "Guinevere"
       ],
       "question": {
-        "text": "With Which Instrument Is Earl Scruggs Associated?"
+        "text": "Who was King Arthur's foster-father?"
       },
       "tags": [
-        "people",
-        "music"
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -45,38 +45,19 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950312",
-      "correctAnswer": "Dr Seuss",
-      "incorrectAnswers": [
-        "J.K Rowling",
-        "Enid Blyton",
-        "Roald Dahl"
-      ],
-      "question": {
-        "text": "Who wrote the children's book 'How The Grinch Stole Christmas''"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "625fd68ddc0dd3b72da64cf9",
-      "correctAnswer": "1985",
+      "id": "622a1c357cc59eab6f94fdab",
+      "correctAnswer": "The T-Birds",
       "incorrectAnswers": [
-        "1970",
-        "1975",
-        "1980"
+        "The Wild Dogs",
+        "The Pink Ladies",
+        "The Heavy Quarters"
       ],
       "question": {
-        "text": "In which year was Back to the Future first released in the cinema?"
+        "text": "What Was The Gang Name Of John Travolta And His Cohorts In The Movie Grease?"
       },
       "tags": [
+        "nicknames",
         "film",
         "cult_films",
         "film_and_tv"
@@ -87,66 +68,18 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "645a6490158db1bd1779f198",
-      "correctAnswer": "Who prevails with God",
-      "incorrectAnswers": [
-        "God is my judge",
-        "God strengthens",
-        "God is with us"
-      ],
-      "question": {
-        "text": "What is the meaning of the name \"Israel\" in the Bible?"
-      },
-      "tags": [
-        "people",
-        "names",
-        "bible",
-        "christianity",
-        "israel",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d280f96c4efe8d773aa",
-      "correctAnswer": "Houston Dynamo",
-      "incorrectAnswers": [
-        "Houston Saints",
-        "Houston Islanders",
-        "Houston Fire"
-      ],
-      "question": {
-        "text": "Which of these is a soccer team based in Houston?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "624dba63de6018633d31f6c3",
-      "correctAnswer": "Roger Moore",
+      "id": "622a1c377cc59eab6f95069c",
+      "correctAnswer": "Jason Bateman",
       "incorrectAnswers": [
-        "George Lazenby",
-        "Sean Connery",
-        "Timothy Dalton"
+        "Javier Bardem",
+        "Colin Firth",
+        "Tim Roth"
       ],
       "question": {
-        "text": "Who played the role of James Bond in Licence to Kill?"
+        "text": "Which actor has featured in films including DodgeBall: A True Underdog Story and Up in the Air?"
       },
       "tags": [
-        "james_bond",
-        "film",
-        "acting",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -155,21 +88,172 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3b7cc59eab6f9513ca",
-      "correctAnswer": "Twilight",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdd2",
+      "correctAnswer": "R. Kelly",
       "incorrectAnswers": [
-        "Voyages Extraordinaires",
-        "Harry Potter",
-        "Percy Jackson & the Olympians"
+        "Nicki Minaj",
+        "Drake",
+        "Ludacris"
       ],
       "question": {
-        "text": "In which book series would you find the character 'Jacob Black'?"
+        "text": "Which American singer released the song 'I Believe I Can Fly'?"
       },
       "tags": [
-        "literature",
-        "young_adult",
-        "arts_and_literature"
+        "musicians",
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "6462620fab138b829b81e9ab",
+      "correctAnswer": "Spanish Armada",
+      "incorrectAnswers": [
+        "The Napoleonic Fleet",
+        "The Viking Fleet",
+        "The Scottish Armada"
+      ],
+      "question": {
+        "text": "What group of ships, commanded by the Duke of Medina, was considered invincible but was defeated by The Royal Navy in 1588?"
+      },
+      "tags": [
+        "war",
+        "military",
+        "1500s",
+        "europe",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3f7cc59eab6f952393",
+      "correctAnswer": "Herpetologist",
+      "incorrectAnswers": [
+        "Entomologist",
+        "Barologist",
+        "Seismologist"
+      ],
+      "question": {
+        "text": "What is a scientist who studies reptiles and amphibians known as?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f9500f8",
+      "correctAnswer": "Hephaistos",
+      "incorrectAnswers": [
+        "Hermes",
+        "Athena",
+        "Morpheus"
+      ],
+      "question": {
+        "text": "Who is the Greek equivalent of the Roman god Vulcan ?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "645cb12a602ff42ca52fb423",
+      "correctAnswer": "Citizen Kane",
+      "incorrectAnswers": [
+        "The Godfather",
+        "Gone with the Wind",
+        "Casablanca"
+      ],
+      "question": {
+        "text": "What is the name of the 1941 film that topped the AFI's  1998 list of the 100 greatest American films?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951008",
+      "correctAnswer": "A code-breaking computer",
+      "incorrectAnswers": [
+        "A nuclear-resistant tank",
+        "A supersonic bomber",
+        "An intercontinental missile"
+      ],
+      "question": {
+        "text": "What Was The Colossus, Developed In Buckinghamshire In 1943?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950286",
+      "correctAnswer": "Courgette ",
+      "incorrectAnswers": [
+        "Carrot",
+        "Onion",
+        "Cucumber"
+      ],
+      "question": {
+        "text": "What vegetable is known a zucchini in the USA?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62c2f9fab3eadb0437fda6b6",
+      "correctAnswer": "Horse",
+      "incorrectAnswers": [
+        "Moose",
+        "Bird",
+        "Bat"
+      ],
+      "question": {
+        "text": "Which animal would you associate with the Ralph Lauren logo?"
+      },
+      "tags": [
+        "society_and_culture",
+        "business",
+        "marketing",
+        "animals",
+        "fashion",
+        "logos",
+        "symbols"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -178,21 +262,19 @@
     },
     {
       "category": "music",
-      "id": "646089a2de964ebc39016c61",
-      "correctAnswer": "Prince",
+      "id": "622a1c357cc59eab6f94fd78",
+      "correctAnswer": "Ringo Starr",
       "incorrectAnswers": [
-        "Madonna",
-        "Michael Jackson",
-        "Elton John"
+        "John Lennon",
+        "George Harrison",
+        "Paul McCartney"
       ],
       "question": {
-        "text": "What singer's \"Lovesexy\" album caused a controversy when some stores refused to stock it due to the nude cover?"
+        "text": "Who wore the pink uniform on the cover of Sgt. Pepper's?"
       },
       "tags": [
-        "controversies",
-        "music_albums",
-        "music",
-        "musicians"
+        "the_beatles",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -201,128 +283,20 @@
     },
     {
       "category": "history",
-      "id": "622a1c3d7cc59eab6f951b8e",
-      "correctAnswer": "France",
+      "id": "622a1c3b7cc59eab6f95171f",
+      "correctAnswer": "Hadrian's Wall",
       "incorrectAnswers": [
-        "Italy",
-        "The United Kingdom",
-        "Spain"
+        "Caesar's Wall",
+        "Julius' Wall",
+        "Octavian's Wall"
       ],
       "question": {
-        "text": "In 1956, Tunisia gained independence from which country?"
+        "text": "Which wall did the Romans build to keep out marauding Scots?"
       },
       "tags": [
+        "the_romans",
+        "scotland",
         "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6243353ccfaae40c12961493",
-      "correctAnswer": "A Cow",
-      "incorrectAnswers": [
-        "A Jenny",
-        "A Worker",
-        "A Lioness"
-      ],
-      "question": {
-        "text": "What is the word for a female seal?"
-      },
-      "tags": [
-        "animals",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f951729",
-      "correctAnswer": "The Sopwith Camel",
-      "incorrectAnswers": [
-        "The Supermarine Spitfire",
-        "The Curtiss Warhawk",
-        "The P54 Mustang"
-      ],
-      "question": {
-        "text": "Which type of British fighter plane shot down 1,294 enemy aircraft in World War One?"
-      },
-      "tags": [
-        "world_war_1",
-        "aviation",
-        "wars",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95032f",
-      "correctAnswer": "George Washington",
-      "incorrectAnswers": [
-        "John Adams",
-        "Abraham Lincoln",
-        "Thomas Jefferson"
-      ],
-      "question": {
-        "text": "Who Was The First President Of The United States?"
-      },
-      "tags": [
-        "usa",
-        "presidents",
-        "people",
-        "general_knowledge",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "646140b44d46e537ca8cd9ec",
-      "correctAnswer": "Silver",
-      "incorrectAnswers": [
-        "Gold",
-        "Iron",
-        "Copper"
-      ],
-      "question": {
-        "text": "What metal corresponds to the Spanish term \"plata\"?"
-      },
-      "tags": [
-        "spanish"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740359da29df7b05f73cc",
-      "correctAnswer": "After a mathematician accepts secret work in cryptography, his life takes a turn for the nightmarish.",
-      "incorrectAnswers": [
-        "POWs are forced to build a railway, not knowing that allies are planning to destroy it.",
-        "The final secretary for Adolf Hitler tells of the Nazi dictator's final days.",
-        "The son of a former boxer is trained by his father for a mixed martial arts tournament."
-      ],
-      "question": {
-        "text": "What is the plot of the movie A Beautiful Mind?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -331,41 +305,87 @@
     },
     {
       "category": "geography",
-      "id": "625e9dcb796f721e95543f2d",
-      "correctAnswer": "Yellow",
+      "id": "625e9df1796f721e95543f35",
+      "correctAnswer": "Red",
       "incorrectAnswers": [
-        "Green",
-        "Black",
-        "Orange"
+        "Blue",
+        "Gold",
+        "Maroon"
       ],
       "question": {
-        "text": "Which of these colors is included on the flag of Argentina?"
+        "text": "Which of these colors would you find on the flag of Bolivia?"
       },
       "tags": [
         "flags",
         "geography"
       ],
       "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056f007a97013de78b53ac",
+      "correctAnswer": "James Cook",
+      "incorrectAnswers": [
+        "Neil Armstrong",
+        "Francisco Pizarro",
+        "Vasco da Gama"
+      ],
+      "question": {
+        "text": "Which explorer was killed on the Hawaiian Islands?"
+      },
+      "tags": [
+        "history",
+        "exploration",
+        "people",
+        "hawaii"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63d9531d168979b94b2e4f9d",
+      "correctAnswer": "Jonas Salk",
+      "incorrectAnswers": [
+        "Edward Jenner",
+        "Alexander Fleming",
+        "Louis Pasteur"
+      ],
+      "question": {
+        "text": "Who developed the polio vaccine?"
+      },
+      "tags": [
+        "science",
+        "medicine",
+        "scientific_discoveries",
+        "people"
+      ],
+      "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "62ab32d25202de619af28129",
-      "correctAnswer": "Porsche",
+      "category": "science",
+      "id": "648888d35dba6c873ef65088",
+      "correctAnswer": "Filly",
       "incorrectAnswers": [
-        "Volkswagen",
-        "Rolls-Royce",
-        "Citroën"
+        "Pony",
+        "Stallion",
+        "Mare"
       ],
       "question": {
-        "text": "The 911 is a model of car made by which manufacturer?"
+        "text": "What term is used for a female horse that is aged four years or under?"
       },
       "tags": [
-        "motoring",
-        "business",
-        "society_and_culture"
+        "horses",
+        "animals",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -373,21 +393,25 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "64860e82113d76c6b6317a00",
-      "correctAnswer": "Battlestar Galactica",
+      "category": "society_and_culture",
+      "id": "62c2f9e2b3eadb0437fda6ac",
+      "correctAnswer": "NBC",
       "incorrectAnswers": [
-        "Westworld",
-        "The Terminator",
-        "RoboCop"
+        "Slazenger",
+        "Porsche",
+        "ING Group"
       ],
       "question": {
-        "text": "What 2005-2009 TV show featured Cylons and cyborgs?"
+        "text": "Which of these brands has a peacock on its logo?"
       },
       "tags": [
-        "film_and_tv",
-        "tv",
-        "science_fiction"
+        "society_and_culture",
+        "business",
+        "marketing",
+        "animals",
+        "birds",
+        "logos",
+        "symbols"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -395,85 +419,68 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9507c3",
-      "correctAnswer": "Nicole Kidman",
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f9513a1",
+      "correctAnswer": "Harry Potter",
       "incorrectAnswers": [
-        "Natalie Portman",
-        "Kate Winslet",
-        "Maggie Smith"
+        "Twilight",
+        "His Dark Materials",
+        "Red Rising"
       ],
       "question": {
-        "text": "Which actress has featured in films including Moulin Rouge! and Aquaman?"
+        "text": "In which book series does 'Minerva McGonagall' appear?"
       },
       "tags": [
-        "film",
-        "dc",
-        "acting",
-        "comics",
-        "film_and_tv"
+        "literature",
+        "young_adult",
+        "fictitious_characters",
+        "general_knowledge",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3a7cc59eab6f951074",
-      "correctAnswer": "Xenon",
-      "incorrectAnswers": [
-        "Halogen",
-        "Neon",
-        "Radon"
-      ],
-      "question": {
-        "text": "What chemical element gets is name from the greek word meaning 'stranger'?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f95004e",
-      "correctAnswer": "Pele",
-      "incorrectAnswers": [
-        "Ronaldinho",
-        "Neymar",
-        "Socrates"
-      ],
-      "question": {
-        "text": "Who is 'Edson Arantes do Nascimento' better known as?"
-      },
-      "tags": [
-        "people",
-        "nicknames",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "geography",
-      "id": "623742f2cb85f7ce9e949e01",
-      "correctAnswer": "Vietnam",
+      "id": "647203881068407b3d7e9718",
+      "correctAnswer": "The English Channel",
       "incorrectAnswers": [
-        "Slovenia",
-        "Guatemala",
-        "Nepal"
+        "The Alps",
+        "The Mediterranean Sea",
+        "The Rhine"
       ],
       "question": {
-        "text": "Hanoi is the capital city of which country?"
+        "text": "What geographical feature, is referred to as 'la Manche' (the sleeve) by the French?"
       },
       "tags": [
-        "geography"
+        "france",
+        "geography",
+        "europe"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64626250ab138b829b81e9f8",
+      "correctAnswer": "Heartbreak Hotel'l",
+      "incorrectAnswers": [
+        "Hound Dog",
+        "Jailhouse Rock",
+        "Love Me Tender"
+      ],
+      "question": {
+        "text": "What was the name of the first of Elvis Presley's 114 Top 40 hits?"
+      },
+      "tags": [
+        "rock_and_roll",
+        "elvis_presley",
+        "music",
+        "songs"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -481,65 +488,87 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f9503d3",
-      "correctAnswer": "The Hula Hoop",
+      "category": "society_and_culture",
+      "id": "646089a9de964ebc39016c64",
+      "correctAnswer": "Mount Olympus",
       "incorrectAnswers": [
-        "Rubix Cube",
-        "Slinky",
-        "Pog"
+        "Mount Everest",
+        "Mont Blanc",
+        "Mount Etna"
       ],
       "question": {
-        "text": "What toy was released in 1957, creating an instant craze among children?"
+        "text": "Which mountain was believed by the ancient Greeks to be the center of the Earth?"
       },
       "tags": [
-        "1950's",
-        "toys",
-        "general_knowledge"
+        "history",
+        "mythology",
+        "geography",
+        "ancient_greece",
+        "mountains"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "science",
-      "id": "6242cb32d543524f1b19c916",
-      "correctAnswer": "A herd",
+      "id": "6505703a7a97013de78b555f",
+      "correctAnswer": "Meniscus",
       "incorrectAnswers": [
-        "A watch",
-        "A murder",
-        "A muster"
+        "Trochanter",
+        "Amygdala",
+        "Adenoid"
       ],
       "question": {
-        "text": "What is the word for a group of goats?"
+        "text": "Which of these can be found in the knee?"
       },
       "tags": [
-        "animals",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "64bee2e595a7194220973957",
-      "correctAnswer": "Deltoid",
-      "incorrectAnswers": [
-        "Bicep",
-        "Tricep",
-        "Gluteal"
-      ],
-      "question": {
-        "text": "What is the name of the large muscle that covers the shoulder joint?"
-      },
-      "tags": [
+        "science",
         "anatomy",
-        "muscles",
-        "biology",
+        "physiology"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611f334b176d54800e3d48",
+      "correctAnswer": "1954",
+      "incorrectAnswers": [
+        "1970",
+        "1933",
+        "1981"
+      ],
+      "question": {
+        "text": "In which year was the first successful organ transplant?"
+      },
+      "tags": [
+        "events",
+        "firsts",
+        "medicine",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63951efbe55fa75b149597b4",
+      "correctAnswer": "Ionization",
+      "incorrectAnswers": [
+        "Electionification",
+        "Molecularization",
+        "Atomification"
+      ],
+      "question": {
+        "text": "What is the process by which an atom gains or loses charge by gaining or losing an electron?"
+      },
+      "tags": [
         "science"
       ],
       "type": "text_choice",
@@ -548,44 +577,42 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6266e6b6ff2394bd44dee05f",
-      "correctAnswer": "Nine",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff51",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
-        "Blue",
-        "Three",
-        "Black"
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "What does the word 'nueve' mean in Spanish?"
+        "text": "Which American singer released the song 'Wanna Be Startin' Somethin''?"
       },
       "tags": [
-        "language",
-        "translations",
-        "society_and_culture"
+        "songs",
+        "music"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "65056f927a97013de78b5477",
-      "correctAnswer": "Prince",
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950095",
+      "correctAnswer": "Flushing Meadows",
       "incorrectAnswers": [
-        "Butcher",
-        "Wizard",
-        "Monk"
+        "Newport Casino",
+        "Orange Tennis Club",
+        "Philadelphia Cricket Club"
       ],
       "question": {
-        "text": "What type of position does Hamlet hold in the Shakespeare play?"
+        "text": "The US Tennis Open takes place at which venue?"
       },
       "tags": [
-        "arts_and_literature",
-        "shakespeare",
-        "literature",
-        "theater"
+        "tennis",
+        "sport",
+        "places"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -593,45 +620,22 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa28",
-      "correctAnswer": "Dutch Golden Age",
+      "category": "science",
+      "id": "646089e1de964ebc39016c94",
+      "correctAnswer": "Charles Goodyear",
       "incorrectAnswers": [
-        "Neoclassicism",
-        "Dutch and Flemish Renaissance",
-        "Fauvism"
+        "Henry Ford",
+        "Thomas Edison",
+        "Eli Whitney"
       ],
       "question": {
-        "text": "The painting \"Girl with a Pearl Earring\" by ‎‎Johannes Vermeer is a part of which art movement?"
+        "text": "In 1839, which American inventor reportedly spilled a mix of rubber and sulfur onto a hot stove and found that it didn't melt?"
       },
       "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "648f63ed6c4575eaf97c8acc",
-      "correctAnswer": "Autobahn",
-      "incorrectAnswers": [
-        "Fahrbahn",
-        "Straßenbahn",
-        "Hauptstraße"
-      ],
-      "question": {
-        "text": "What is the German word for the highways which famously have no speed limit for cars and motorcycles?"
-      },
-      "tags": [
-        "germany",
-        "roads",
-        "society_and_culture",
-        "words",
-        "motoring"
+        "inventors",
+        "history",
+        "chemistry",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -639,23 +643,19 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "624db9efde6018633d31f6ac",
-      "correctAnswer": "Sean Connery",
+      "category": "music",
+      "id": "622a1c377cc59eab6f95041c",
+      "correctAnswer": "1984",
       "incorrectAnswers": [
-        "Daniel Craig",
-        "Roger Moore",
-        "Timothy Dalton"
+        "1986",
+        "1988",
+        "1990"
       ],
       "question": {
-        "text": "Who played the role of James Bond in From Russia With Love?"
+        "text": "In what year was Band-Aid's Do They Know It's Christmas the UK Christmas chart-topping record?"
       },
       "tags": [
-        "james_bond",
-        "film",
-        "acting",
-        "uk",
-        "film_and_tv"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
