@@ -1,66 +1,43 @@
 {
-  "gameDate": "2026-01-03",
+  "gameDate": "2026-01-04",
   "difficulty": "hard",
   "results": [
     {
-      "category": "music",
-      "id": "64b5a8837282fc9eadbafd9c",
-      "correctAnswer": "Aretha Franklin",
-      "incorrectAnswers": [
-        "Whitney Houston",
-        "Tina Turner",
-        "Diana Ross"
-      ],
-      "question": {
-        "text": "Who duetted with George Michael in the song 'I Knew You Were Waiting (For Me)'?"
-      },
-      "tags": [
-        "songs",
-        "music",
-        "musicians"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e00",
-      "correctAnswer": "Miguel de Cervantes",
-      "incorrectAnswers": [
-        "Oscar Wilde",
-        "Victor Hugo",
-        "Alphonse Daudet"
-      ],
-      "question": {
-        "text": "Which author wrote 'Novelas ejemplares ruth nailibeth'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "6371623c1bf863c45ca6c361",
-      "correctAnswer": "Sapientia potentia est",
+      "id": "622a1c3a7cc59eab6f9511bf",
+      "correctAnswer": "Rig Veda",
       "incorrectAnswers": [
-        "Hodie mihi, cras tibi",
-        "Ego te provoco",
-        "Melita, domi adsum"
+        "Big Veda",
+        "Trig Veda",
+        "Gig Veda"
       ],
       "question": {
-        "text": "Which of these Latin phrases means 'Wisdom is power'?"
+        "text": "What is the 1st book of the Hindu scripture?"
       },
       "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
+        "religion",
+        "hinduism",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a11",
+      "correctAnswer": "James Garfield",
+      "incorrectAnswers": [
+        "John F Kennedy",
+        "Abraham Lincoln",
+        "Bill Buchanan"
+      ],
+      "question": {
+        "text": "Which U.S. president was fatally shot in 1881?"
+      },
+      "tags": [
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -69,19 +46,41 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ea3",
-      "correctAnswer": "Alexandre Dumas",
+      "id": "622a1c397cc59eab6f950f2f",
+      "correctAnswer": "Hans Christian Andersen",
       "incorrectAnswers": [
-        "Anatole France",
-        "Gustave Flaubert",
-        "Charles Perrault"
+        "Beatrix Potter",
+        "Søren Kierkegaard",
+        "Oscar Wilde"
       ],
       "question": {
-        "text": "Which author wrote 'The Corsican Brothers'?"
+        "text": "Which author wrote 'The Swineherd'?"
       },
       "tags": [
-        "literature",
         "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fc5",
+      "correctAnswer": "John Logie Baird",
+      "incorrectAnswers": [
+        "Karl Benz",
+        "Johannes Gutenberg",
+        "Eli Whitney"
+      ],
+      "question": {
+        "text": "Who First Demonstrated Television In 1926?"
+      },
+      "tags": [
+        "inventions",
+        "people",
+        "1920's",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -90,20 +89,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f941",
-      "correctAnswer": "Saturday Night Fever",
+      "id": "622a1c347cc59eab6f94f8b8",
+      "correctAnswer": "Humphrey Bogart",
       "incorrectAnswers": [
-        "Midnight Cowboy",
-        "The Treasure of the Sierra Madre",
-        "On the Waterfront"
+        "Dennis Hopper",
+        "Peter O'Toole",
+        "Errol Flynn"
       ],
       "question": {
-        "text": "Which film contains the character 'Tony Manero'?"
+        "text": "Which actor played the role of Fred C. Dobbs in The Treasure of the Sierra Madre?"
       },
       "tags": [
+        "acting",
         "film",
-        "fictitious_characters",
-        "cult_films",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -113,19 +111,18 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950efa",
-      "correctAnswer": "Ursula K. Le Guin",
+      "id": "622a1c397cc59eab6f950f3f",
+      "correctAnswer": "Guy de Maupassant",
       "incorrectAnswers": [
-        "Stephen King",
-        "Jack Vance",
-        "George R. R. Martin"
+        "François-René de Chateaubriand",
+        "Anatole France",
+        "Albert Camus"
       ],
       "question": {
-        "text": "Which author wrote 'Hainish Cycle'?"
+        "text": "Which author wrote 'Au soleil'?"
       },
       "tags": [
         "literature",
-        "fantasy",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -134,21 +131,84 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f91c",
-      "correctAnswer": "Daniel Day-Lewis",
+      "category": "geography",
+      "id": "623b580bfd6c701a92118394",
+      "correctAnswer": "USA",
       "incorrectAnswers": [
-        "Peter O'Toole",
-        "Sidney Poitier",
-        "Robert De Niro"
+        "Croatia",
+        "Spain",
+        "Australia"
       ],
       "question": {
-        "text": "Which actor played the role of William 'Bill the Butcher' Cutting in Gangs of New York?"
+        "text": "In which country would you find the Carlsbad Caverns National Park?"
       },
       "tags": [
-        "acting",
-        "film",
-        "people",
+        "tourist_attractions",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602fd24b176d54800e3cff",
+      "correctAnswer": "New Zealand",
+      "incorrectAnswers": [
+        "Ireland",
+        "United Kingdom",
+        "Australia"
+      ],
+      "question": {
+        "text": "In which country is the city of Queenstown?"
+      },
+      "tags": [
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "647edb8d520523194910c344",
+      "correctAnswer": "Autobahn",
+      "incorrectAnswers": [
+        "Bundestrasse",
+        "Reichstag",
+        "Schwartzkopf"
+      ],
+      "question": {
+        "text": "What word is used for Germany's main highways?"
+      },
+      "tags": [
+        "roads",
+        "germany",
+        "words",
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9501fb",
+      "correctAnswer": "Tim Burton",
+      "incorrectAnswers": [
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
+      ],
+      "question": {
+        "text": "Which director directed Batman Returns?"
+      },
+      "tags": [
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -158,18 +218,17 @@
     },
     {
       "category": "food_and_drink",
-      "id": "624c60f950d1a5e051325a80",
-      "correctAnswer": "Singapore",
+      "id": "624ab0d1348a461bfc67069c",
+      "correctAnswer": "India",
       "incorrectAnswers": [
-        "Mauritius",
-        "United States",
-        "North Africa"
+        "China",
+        "Southeast Asia",
+        "North America"
       ],
       "question": {
-        "text": "Where in the world would you most expect to be served Chilli Crab?"
+        "text": "Where in the world are muskmelons originally from?"
       },
       "tags": [
-        "food",
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -178,39 +237,20 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c3a7cc59eab6f951051",
-      "correctAnswer": "Cob",
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950085",
+      "correctAnswer": "Canadian",
       "incorrectAnswers": [
-        "Ned",
-        "Sorl",
-        "Dev"
+        "American",
+        "English",
+        "Irish"
       ],
       "question": {
-        "text": "What is a male swan called?"
+        "text": "What Nationality Is Former Snooker World Champion Cliff Thorburn?"
       },
       "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374178cb85f7ce9e949d69",
-      "correctAnswer": "Mongolia",
-      "incorrectAnswers": [
-        "Croatia",
-        "Tajikistan",
-        "Kosovo"
-      ],
-      "question": {
-        "text": "Ulaanbaatar is the capital city of which country?"
-      },
-      "tags": [
-        "geography"
+        "sport",
+        "people"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -219,21 +259,20 @@
     },
     {
       "category": "history",
-      "id": "64720cd33bbb58c31f411cbd",
-      "correctAnswer": "Sparta",
+      "id": "622a1c3b7cc59eab6f95171c",
+      "correctAnswer": "Shang",
       "incorrectAnswers": [
-        "Corinth",
-        "Mystras",
-        "Thebes"
+        "Liu",
+        "Ming",
+        "Yi"
       ],
       "question": {
-        "text": "Which Greek city-state, led by Lysander, defeated Athens in 404 B.C. and established the government of the 30 tyrants over it?"
+        "text": "What was the first Chinese dynasty?"
       },
       "tags": [
-        "ancient_greece",
         "history",
-        "the_ancient_world",
-        "wars"
+        "china",
+        "the_ancient_world"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -241,41 +280,21 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "647129af64c916f9c84814b7",
-      "correctAnswer": "Figure skating",
+      "category": "music",
+      "id": "645c9f8642ea81e2554c5f32",
+      "correctAnswer": "Sun Records",
       "incorrectAnswers": [
-        "Ice hockey",
-        "Gymnastics",
-        "Tennis"
+        "Capitol Records",
+        "Atlantic Records",
+        "Columbia Records"
       ],
       "question": {
-        "text": "Which sport saw athletes like John Curry and Peggy Fleming rise to prominence as proteges of coach Carlo Fassi?"
+        "text": "Which record label from Memphis released five singles from Elvis Presley between July 1954 and August 1955?"
       },
       "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6266e6acff2394bd44dee05c",
-      "correctAnswer": "Neuf",
-      "incorrectAnswers": [
-        "Nove",
-        "Negen",
-        "Trois"
-      ],
-      "question": {
-        "text": "In French, what is the word for for 'nine'?"
-      },
-      "tags": [
-        "language",
-        "translations",
-        "society_and_culture"
+        "elvis_presley",
+        "music",
+        "1950's"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -284,59 +303,20 @@
     },
     {
       "category": "science",
-      "id": "624437b4746187c5e7be936d",
-      "correctAnswer": "Saltpetre",
+      "id": "64824ee47778562fd76a9698",
+      "correctAnswer": "Crane",
       "incorrectAnswers": [
-        "Borax",
-        "Limestone",
-        "Quartz"
+        "Eagle",
+        "Condor",
+        "Stork"
       ],
       "question": {
-        "text": "What is the common name for potassium nitrate?"
+        "text": "What is the world's tallest flying bird species?"
       },
       "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62ab32b35202de619af28120",
-      "correctAnswer": "Citroën",
-      "incorrectAnswers": [
-        "Toyota",
-        "Honda",
-        "Opel"
-      ],
-      "question": {
-        "text": "Which car manufacturer made the DS19?"
-      },
-      "tags": [
-        "motoring",
-        "business",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510cb",
-      "correctAnswer": "Antifreeze ",
-      "incorrectAnswers": [
-        "Engine oil",
-        "Windscreen wash fluid",
-        "Brake fluid"
-      ],
-      "question": {
-        "text": "Ethylene glycol is frequently used in automobiles. What for? "
-      },
-      "tags": [
+        "animals",
+        "birds",
+        "nature",
         "science"
       ],
       "type": "text_choice",
@@ -346,183 +326,15 @@
     },
     {
       "category": "geography",
-      "id": "62374124cb85f7ce9e949d47",
-      "correctAnswer": "Libya",
+      "id": "6237421dcb85f7ce9e949dab",
+      "correctAnswer": "Samoa",
       "incorrectAnswers": [
-        "Georgia",
-        "Switzerland",
-        "Hungary"
+        "Mauritius",
+        "Croatia",
+        "Djibouti"
       ],
       "question": {
-        "text": "Tripoli is the capital city of which country?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95131c",
-      "correctAnswer": "The Mock Turtle",
-      "incorrectAnswers": [
-        "Humpty Dumpty",
-        "Tweedledee",
-        "Dodo"
-      ],
-      "question": {
-        "text": "In Alice In Wonderland, who never stopped sobbing?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "literature",
-        "classic_novels"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fac6",
-      "correctAnswer": "Daniel Day-Lewis",
-      "incorrectAnswers": [
-        "Bradley Cooper",
-        "Hugh Jackman",
-        "Joaquin Phoenix"
-      ],
-      "question": {
-        "text": "Who won the 2012 Academy Award for Best Leading Actor for playing the role of Abraham Lincoln in Lincoln?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "academy_awards",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950139",
-      "correctAnswer": "Daedalus",
-      "incorrectAnswers": [
-        "Icarus",
-        "Perseus",
-        "Oedipus"
-      ],
-      "question": {
-        "text": "In Greek mythology, who did Minos hire to construct the labyrinth?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f9517dc",
-      "correctAnswer": "David Cronenberg",
-      "incorrectAnswers": [
-        "Baz Luhrmann",
-        "Alfred Hitchcock",
-        "Peter Jackson"
-      ],
-      "question": {
-        "text": "Which director's films included Shivers, Videodrome and The Fly?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f25",
-      "correctAnswer": "Hans Christian Andersen",
-      "incorrectAnswers": [
-        "Beatrix Potter",
-        "Søren Kierkegaard",
-        "Oscar Wilde"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Little Match Girl'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623387360161109f922aac0d",
-      "correctAnswer": "The USA & Canada ",
-      "incorrectAnswers": [
-        "France & Spain",
-        "Italy & The Vatican City",
-        "Brunei & Malaysia"
-      ],
-      "question": {
-        "text": "Which Countries Are Divided By The 49th Parallel?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "64fb150b717513cb7919038b",
-      "correctAnswer": "600",
-      "incorrectAnswers": [
-        "Men",
-        "Doomed",
-        "Storm"
-      ],
-      "question": {
-        "text": "Complete the following line from 'The Charge of the Light Brigade' poem: 'All in the valley of Death rode the ___'"
-      },
-      "tags": [
-        "poetry",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623740c4cb85f7ce9e949d20",
-      "correctAnswer": "Jakarta",
-      "incorrectAnswers": [
-        "Yaounde",
-        "Singapore",
-        "Kuala Lumpur"
-      ],
-      "question": {
-        "text": "What is the capital city of Indonesia?"
+        "text": "Apia is the capital city of which country?"
       },
       "tags": [
         "capital_cities",
@@ -534,16 +346,211 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e3c",
-      "correctAnswer": "Charles Perrault",
+      "category": "music",
+      "id": "636a52a5990390307063f3b0",
+      "correctAnswer": "Sweet Jane",
       "incorrectAnswers": [
-        "Hans Christian Andersen",
-        "André Gide",
-        "Prosper Mérimée"
+        "Blue Suede Shoes",
+        "I Love Rock 'n' Roll",
+        "Tainted Love"
       ],
       "question": {
-        "text": "Which author wrote 'Bluebeard'?"
+        "text": "Which song was originally recorded by The Velvet Underground and was later covered by Cowboy Junkies?"
+      },
+      "tags": [
+        "music",
+        "cover_song",
+        "songs",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63b069394799123c67712f67",
+      "correctAnswer": "Korowai",
+      "incorrectAnswers": [
+        "Kaftan",
+        "Dashiki",
+        "Thobe"
+      ],
+      "question": {
+        "text": "What is the name of the fine woven cloak worn by the Māori people of New Zealand?"
+      },
+      "tags": [
+        "society_and_culture",
+        "new_zealand",
+        "fashion"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624ab0c4348a461bfc670697",
+      "correctAnswer": "India",
+      "incorrectAnswers": [
+        "North America",
+        "Southeast Asia",
+        "The Middle East"
+      ],
+      "question": {
+        "text": "Where in the world are lemons originally from?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623741b2cb85f7ce9e949d80",
+      "correctAnswer": "Niamey",
+      "incorrectAnswers": [
+        "Juba",
+        "Asmara",
+        "Doha"
+      ],
+      "question": {
+        "text": "What is the capital city of Niger?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c89",
+      "correctAnswer": "Metallica",
+      "incorrectAnswers": [
+        "Alice Cooper",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
+      ],
+      "question": {
+        "text": "Which American heavy metal band released the studio album 'Ride the Lightning'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "62506411e12f6dec240bdf97",
+      "correctAnswer": "Meredith Brooks",
+      "incorrectAnswers": [
+        "Quiet Riot",
+        "Divinyls",
+        "Bow Wow Wow"
+      ],
+      "question": {
+        "text": "'Bitch' was a one hit wonder in 1997 by which artist?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64a9daf98e13b3b23eb9fde5",
+      "correctAnswer": "Neptunium",
+      "incorrectAnswers": [
+        "Francium",
+        "Plutonium",
+        "Americium"
+      ],
+      "question": {
+        "text": "What is the atomic number of the first transuranium element?"
+      },
+      "tags": [
+        "chemistry",
+        "chemical_elements",
+        "elements",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "64861cecf773f09dc0193b47",
+      "correctAnswer": "The Tower of London",
+      "incorrectAnswers": [
+        "Windsor Castle",
+        "Buckingham Palace",
+        "St. James's Palace"
+      ],
+      "question": {
+        "text": "What is the name of the royal fortress on the Thames River that includes Traitors' Gate?"
+      },
+      "tags": [
+        "tourist_attractions",
+        "castles",
+        "history",
+        "london"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950330",
+      "correctAnswer": "Rober Peary",
+      "incorrectAnswers": [
+        "Mungo Park",
+        "Henry Hudson",
+        "Kit Carson"
+      ],
+      "question": {
+        "text": "Who was the first person to reach the North Pole?"
+      },
+      "tags": [
+        "people",
+        "firsts",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f19",
+      "correctAnswer": "Alice Munro",
+      "incorrectAnswers": [
+        "Ivan Turgenev",
+        "E. T. A. Hoffmann",
+        "Alphonse Daudet"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Moons of Jupiter'?"
       },
       "tags": [
         "arts_and_literature"
@@ -555,21 +562,62 @@
     },
     {
       "category": "film_and_tv",
-      "id": "645c9f5342ea81e2554c5f05",
-      "correctAnswer": "The Truman Show",
+      "id": "645fcc58541c4d4fc8cf303b",
+      "correctAnswer": "Mischa Barton",
       "incorrectAnswers": [
-        "Eternal Sunshine of the Spotless Mind",
-        "Dead Poet's Society",
-        "The Shawshank Redemption"
+        "Rachel Bilson",
+        "Misha Collins",
+        "Megan Fox"
       ],
       "question": {
-        "text": "Which movie features the quote 'Good morning! And in case I don't see you, good afternoon, good evening, and good night!'?"
+        "text": "Which actress played the character Marissa on 'The O.C.' and later became a model on 'The Beautiful Life'?"
+      },
+      "tags": [
+        "acting",
+        "tv",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e41",
+      "correctAnswer": "Mikhail Bulgakov",
+      "incorrectAnswers": [
+        "Vladimir Nabokov",
+        "Ayn Rand",
+        "Stanisław Lem"
+      ],
+      "question": {
+        "text": "Which author wrote 'Heart of a Dog'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740469da29df7b05f73d1",
+      "correctAnswer": "Two men searching for work in 1920s Mexico convince an old prospector to help them mine for gold.",
+      "incorrectAnswers": [
+        "Historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+        "A skilled forger and conman is pursued by an FBI agent.",
+        "After his son is captured and taken to Sydney, a clownfish sets out on a journey to bring him home."
+      ],
+      "question": {
+        "text": "What is the plot of the movie The Treasure of the Sierra Madre?"
       },
       "tags": [
         "film",
-        "film_and_tv",
-        "quotes",
-        "film_quotes"
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -577,62 +625,19 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd5c",
-      "correctAnswer": "Elvis Presley",
+      "category": "geography",
+      "id": "623b57cffd6c701a9211837f",
+      "correctAnswer": "India",
       "incorrectAnswers": [
-        "Johnny Cash",
-        "Bob Dylan",
-        "Leonard Cohen"
+        "Hungary",
+        "Israel",
+        "Russia"
       ],
       "question": {
-        "text": "Whose Version Of \"My Way\" Had A Poignant Release Late In 1977?"
+        "text": "In which country would you find the UNESCO World Heritage site of Rani-ki-Vav?"
       },
       "tags": [
-        "people",
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "645bc75b4638d58091b1b9e7",
-      "correctAnswer": "Era of Good Feeling",
-      "incorrectAnswers": [
-        "Age of Enlightenment",
-        "Antebellum Period",
-        "Jacksonian Era"
-      ],
-      "question": {
-        "text": "What term is often closely associated with James Monroe's presidency?"
-      },
-      "tags": [
-        "presidents",
-        "usa"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95033f",
-      "correctAnswer": "Harold Wilson",
-      "incorrectAnswers": [
-        "Clement Atlee",
-        "Anthony Eden",
-        "Margaret Thatcher"
-      ],
-      "question": {
-        "text": "Who Was The British Prime Minister Between 1964 & 1969?"
-      },
-      "tags": [
-        "history"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
