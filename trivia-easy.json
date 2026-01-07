@@ -1,21 +1,131 @@
 {
-  "gameDate": "2026-01-06",
+  "gameDate": "2026-01-07",
   "difficulty": "easy",
   "results": [
     {
-      "category": "history",
-      "id": "65056e897a97013de78b5305",
-      "correctAnswer": "Ships",
+      "category": "geography",
+      "id": "623742c0cb85f7ce9e949ded",
+      "correctAnswer": "Uganda",
       "incorrectAnswers": [
-        "Planes",
-        "Balloons",
-        "Trucks"
+        "Guinea",
+        "Bangladesh",
+        "Solomon Islands"
       ],
       "question": {
-        "text": "What did the Spanish Armada consist of?"
+        "text": "Kampala is the capital city of which country?"
       },
       "tags": [
-        "history"
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60bc50d1a5e051325a70",
+      "correctAnswer": "Japan",
+      "incorrectAnswers": [
+        "Turkey",
+        "Spain",
+        "Estonia"
+      ],
+      "question": {
+        "text": "Where in the world would you most expect to be served Sushi?"
+      },
+      "tags": [
+        "food",
+        "general_knowledge",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602e064b176d54800e3cbc",
+      "correctAnswer": "Napoli",
+      "incorrectAnswers": [
+        "Dublin",
+        "Leipzig",
+        "Athens"
+      ],
+      "question": {
+        "text": "Which of these cities is in Italy?"
+      },
+      "tags": [
+        "cities",
+        "europe",
+        "italy",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbeb",
+      "correctAnswer": "\"I have had it with these mother—— snakes on this mother—— plane!\"",
+      "incorrectAnswers": [
+        "\"Not my tempo.\"",
+        "\"Oh, Jerry, don't let's ask for the moon. We have the stars.\"",
+        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Snakes on a Plane'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "64dfa27da6681754ea052ba6",
+      "correctAnswer": "The Himalayas",
+      "incorrectAnswers": [
+        "The Alps",
+        "The Rockies",
+        "The Andes"
+      ],
+      "question": {
+        "text": "Which mountain system was formed by the collision of the Eurasian and Indian tectonic plates?"
+      },
+      "tags": [
+        "mountains",
+        "geology",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bbb",
+      "correctAnswer": "Oasis",
+      "incorrectAnswers": [
+        "Goldfrapp",
+        "Kaiser Chiefs",
+        "Jethro Tull"
+      ],
+      "question": {
+        "text": "Which English rock band formed in Manchester in 1991 released the song 'Wonderwall'?"
+      },
+      "tags": [
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -24,20 +134,18 @@
     },
     {
       "category": "general_knowledge",
-      "id": "649c8996e3aef0a3c23f63f8",
-      "correctAnswer": "A simile",
+      "id": "622a1c367cc59eab6f9503f9",
+      "correctAnswer": "Robots",
       "incorrectAnswers": [
-        "A metaphor",
-        "An analogy",
-        "A hyperbole"
+        "Aliens",
+        "Gods",
+        "Wizards"
       ],
       "question": {
-        "text": "What type of comparison is the phrase 'He was like an eagle chained to the ground' an example of?"
+        "text": "Transformers are ___________ in disguise. "
       },
       "tags": [
-        "language",
-        "writing",
-        "grammar"
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -45,39 +153,22 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6243354dcfaae40c1296149a",
-      "correctAnswer": "A Lamb",
+      "category": "sport_and_leisure",
+      "id": "63f39502989356ef48370be2",
+      "correctAnswer": "Sumo",
       "incorrectAnswers": [
-        "A Maggot",
-        "A Caterpillar",
-        "A Fry"
+        "Kendo",
+        "Judo",
+        "Karate"
       ],
       "question": {
-        "text": "What is a baby sheep known as?"
+        "text": "Which of these is a Japanese form of wrestling where two heavyweight wrestlers attempt to push each other out of a marked circle?"
       },
       "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623740e7cb85f7ce9e949d2e",
-      "correctAnswer": "Tokyo",
-      "incorrectAnswers": [
-        "Osaka",
-        "Okinawa",
-        "Shanghai"
-      ],
-      "question": {
-        "text": "What is the capital city of Japan?"
-      },
-      "tags": [
-        "geography"
+        "japan",
+        "sport",
+        "society_and_culture",
+        "martial_arts"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -86,37 +177,15 @@
     },
     {
       "category": "geography",
-      "id": "62602d524b176d54800e3c8f",
-      "correctAnswer": "Istanbul",
+      "id": "622a1c387cc59eab6f950a24",
+      "correctAnswer": "Spain",
       "incorrectAnswers": [
-        "Tehran",
-        "Dubai",
-        "Manama"
+        "Morocco",
+        "Andorra",
+        "France"
       ],
       "question": {
-        "text": "Which of these cities is in Turkey?"
-      },
-      "tags": [
-        "cities",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950aae",
-      "correctAnswer": "United States of America",
-      "incorrectAnswers": [
-        "Mexico",
-        "Belize",
-        "Guatemala"
-      ],
-      "question": {
-        "text": "Which of these countries borders Canada?"
+        "text": "Which of these countries borders Portugal?"
       },
       "tags": [
         "geography"
@@ -128,15 +197,102 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8a2",
-      "correctAnswer": "Ice Hockey",
+      "id": "622a1c347cc59eab6f94f89d",
+      "correctAnswer": "Cricket",
       "incorrectAnswers": [
-        "Figure skating",
-        "Motor racing",
-        "Athletics"
+        "Volleyball",
+        "Badminton",
+        "Ice Hockey"
       ],
       "question": {
-        "text": "With which sport is Wayne Douglas Gretzky associated?"
+        "text": "With which sport is Shane Warne associated?"
+      },
+      "tags": [
+        "people",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6499c2614e0e966accb0b979",
+      "correctAnswer": "Touch base",
+      "incorrectAnswers": [
+        "Home run",
+        "Out of left field",
+        "Grand slam"
+      ],
+      "question": {
+        "text": "Which expression, originating from baseball, means to keep someone informed briefly?"
+      },
+      "tags": [
+        "phrases",
+        "society_and_culture",
+        "basketball",
+        "baseball"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62628850014f58b5fc1a3fd5",
+      "correctAnswer": "Taste the rainbow",
+      "incorrectAnswers": [
+        "Finger lickin' good",
+        "Have it your way",
+        "Eat Mor Chikin"
+      ],
+      "question": {
+        "text": "What is the marketing slogan of Skittles?"
+      },
+      "tags": [
+        "business",
+        "marketing",
+        "food",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3d7cc59eab6f951c69",
+      "correctAnswer": "Five Gold Rings",
+      "incorrectAnswers": [
+        "Five Lords a Leaping",
+        "Five Drummers Drumming",
+        "Five Calling Birds"
+      ],
+      "question": {
+        "text": "According to the Christmas song what did my true love give to me on the fifth day of Christmas?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8c9",
+      "correctAnswer": "Tennis",
+      "incorrectAnswers": [
+        "Football",
+        "Table tennis",
+        "Motor Racing"
+      ],
+      "question": {
+        "text": "With which sport is Serena Williams associated?"
       },
       "tags": [
         "people",
@@ -149,87 +305,89 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "62573f049da29df7b05f7382",
-      "correctAnswer": "The Lord of the Rings: The Fellowship of the Ring",
-      "incorrectAnswers": [
-        "Star Wars",
-        "Double Indemnity",
-        "Logan"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A Hobbit and eight companions set out on a journey to destroy the powerful One Ring.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "648891854cd3f064f443dc27",
-      "correctAnswer": "The Yellow Brick Road",
-      "incorrectAnswers": [
-        "The Red Brick Road",
-        "The Emerald Road",
-        "The Sapphire Road"
-      ],
-      "question": {
-        "text": "What did Dorothy and her friends walk down in The Wizard of Oz?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "literature",
-        "childrens_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056ec57a97013de78b535a",
-      "correctAnswer": "Turkey",
-      "incorrectAnswers": [
-        "Greece",
-        "Italy",
-        "Egypt"
-      ],
-      "question": {
-        "text": "In which country is the Hagia Sophia located?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "architecture",
-        "landmark"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "6461407e4d46e537ca8cd9e0",
-      "correctAnswer": "The Great Wall of China",
+      "id": "639c9dab929b90846f2fc98b",
+      "correctAnswer": "Rome",
       "incorrectAnswers": [
-        "The Panama Canal",
-        "The Golden Gate Bridge",
-        "The Hoover Dam"
+        "Athens",
+        "Paris",
+        "London"
       ],
       "question": {
-        "text": "Which of these structures stretches for over 4,000 miles, often called the largest building project ever completed?"
+        "text": "The Colosseum is an iconic structure in what city?"
       },
       "tags": [
         "architecture",
-        "engineering",
-        "civil_engineering",
-        "geography"
+        "geography",
+        "tourist_attractions",
+        "buildings"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62c92076a218dd4dc1ca17da",
+      "correctAnswer": "Love",
+      "incorrectAnswers": [
+        "Egg",
+        "Zilch",
+        "Nil"
+      ],
+      "question": {
+        "text": "What word is used for a score of 0 in a game of tennis?"
+      },
+      "tags": [
+        "sport",
+        "tennis",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "626288324b176d54800e3d8f",
+      "correctAnswer": "Finger lickin' good",
+      "incorrectAnswers": [
+        "I'm loving it",
+        "Seafood Differently",
+        "This is not just food..."
+      ],
+      "question": {
+        "text": "Which marketing slogan would you associate with KFC?"
+      },
+      "tags": [
+        "business",
+        "marketing",
+        "food",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951042",
+      "correctAnswer": "Big Bang",
+      "incorrectAnswers": [
+        "Eternal Inflation",
+        "Steady State",
+        "Oscillating Model"
+      ],
+      "question": {
+        "text": "What is the most widely accepted theory for the creation of the universe?"
+      },
+      "tags": [
+        "physics",
+        "general_knowledge",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -259,19 +417,22 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950ba5",
-      "correctAnswer": "Toto",
+      "category": "geography",
+      "id": "64824eaa7778562fd76a9663",
+      "correctAnswer": "San Francisco Bay",
       "incorrectAnswers": [
-        "Styx",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
+        "Monterey Bay",
+        "Santa Monica Bay",
+        "San Diego Bay"
       ],
       "question": {
-        "text": "Which American rock band released the song 'Africa'?"
+        "text": "What bay is connected to the Pacific Ocean by the three-mile-long Golden Gate Strait?"
       },
       "tags": [
-        "music"
+        "bodies_of_water",
+        "bays",
+        "geography",
+        "usa"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -280,103 +441,22 @@
     },
     {
       "category": "society_and_culture",
-      "id": "626288864b176d54800e3da3",
-      "correctAnswer": "Snap! Crackle! Pop!",
+      "id": "622a1c367cc59eab6f9500ed",
+      "correctAnswer": "David",
       "incorrectAnswers": [
-        "Eat Mor Chikin",
-        "A glass and a half in every half pound",
-        "Melts in your mouth, not in your hands."
+        "Daniel",
+        "John",
+        "Michael"
       ],
       "question": {
-        "text": "What is the marketing slogan of Rice Krispies?"
+        "text": "Who killed Goliath?"
       },
       "tags": [
-        "business",
-        "marketing",
-        "food",
+        "christianity",
+        "mythology",
+        "people",
+        "general_knowledge",
         "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950af6",
-      "correctAnswer": "Mexico",
-      "incorrectAnswers": [
-        "Belize",
-        "Guatemala",
-        "Cuba"
-      ],
-      "question": {
-        "text": "Which of these countries borders United States of America?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6463394f01d576cfac3aa33b",
-      "correctAnswer": "Alaska & Hawaii",
-      "incorrectAnswers": [
-        "Maine & New Hampshire",
-        "Vermont & Massachusetts",
-        "Rhode Island & Connecticut"
-      ],
-      "question": {
-        "text": "Which 2 US states share no land border with other states?"
-      },
-      "tags": [
-        "usa",
-        "us_states",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f899da29df7b05f73a1",
-      "correctAnswer": "A young man joins forces with an old man, a cocky pilot, a beast and two robots to save the galaxy.",
-      "incorrectAnswers": [
-        "The son of a city's mastermind falls in love with a working-class prophet.",
-        "After two male musicians witness a murder, they flee in an all-female band disguised as women.",
-        "Violence and mayhem ensue after a man stumbles upon more than two million dollars."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Star Wars?"
-      },
-      "tags": [
-        "film"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950248",
-      "correctAnswer": "Apple ",
-      "incorrectAnswers": [
-        "Blackberry",
-        "Strawberry",
-        "Banana"
-      ],
-      "question": {
-        "text": "Which fruit is traditionally covered with toffee at a fairground?"
-      },
-      "tags": [
-        "food"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -385,107 +465,21 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6262af5d4b176d54800e3dc1",
-      "correctAnswer": "What The Fuck",
+      "id": "648ee4224fe93387161138a9",
+      "correctAnswer": "Martial Law",
       "incorrectAnswers": [
-        "When To Feed",
-        "With Total Frustration",
-        "Want To Fail"
+        "Banana Republic",
+        "Puppet State",
+        "Vigilante Government"
       ],
       "question": {
-        "text": "What do people mean when type the letters 'WTF' in a message on the internet?"
+        "text": "What is the term for when a civilian government is replaced by military rule?"
       },
       "tags": [
-        "the_internet",
-        "initials",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff4c",
-      "correctAnswer": "Michael Jackson",
-      "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
-      ],
-      "question": {
-        "text": "Who released the studio album 'Invincible'?"
-      },
-      "tags": [
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950aa4",
-      "correctAnswer": "United States of America",
-      "incorrectAnswers": [
-        "El Salvador",
-        "Honduras",
-        "Nicaragua"
-      ],
-      "question": {
-        "text": "Which of these countries borders Mexico?"
-      },
-      "tags": [
-        "central_america",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f951ad0",
-      "correctAnswer": "Die Hard",
-      "incorrectAnswers": [
-        "Robocop",
-        "Top Gun",
-        "Full Metal Jacket"
-      ],
-      "question": {
-        "text": "In which 80's movie did John McClane fight a group of terrorists in a skyscraper?"
-      },
-      "tags": [
-        "1980's",
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "63a03984c7d86251f9b65c72",
-      "correctAnswer": "Humpty Dumpty",
-      "incorrectAnswers": [
-        "Hey Diddle Diddle",
-        "Mary Had a Little Lamb",
-        "Baa Baa Black Sheep"
-      ],
-      "question": {
-        "text": "What nursery rhyme is about a man who falls off a wall?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "nursery_rhymes"
+        "words",
+        "government",
+        "society_and_culture",
+        "military"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -494,62 +488,17 @@
     },
     {
       "category": "general_knowledge",
-      "id": "646089ddde964ebc39016c83",
-      "correctAnswer": "Mole",
+      "id": "622a1c3d7cc59eab6f951b87",
+      "correctAnswer": "Apple",
       "incorrectAnswers": [
-        "Ferret",
-        "Rat",
-        "Squirrel"
+        "Blackberry",
+        "Microsoft",
+        "Google"
       ],
       "question": {
-        "text": "Which term describes a spy who operates within the intelligence service of another country?"
+        "text": "Which computer company was set up by Steven Jobs and Stephen Wozniak?"
       },
       "tags": [
-        "espionage",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "63a0399cc7d86251f9b65c8f",
-      "correctAnswer": "The Game of Life",
-      "incorrectAnswers": [
-        "Risk",
-        "Monopoly",
-        "Clue"
-      ],
-      "question": {
-        "text": "What is the name of the classic board game where players race through a person's life from childhood to retirement?"
-      },
-      "tags": [
-        "board_games"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64626214ab138b829b81e9bb",
-      "correctAnswer": "Apples",
-      "incorrectAnswers": [
-        "Bananas",
-        "Cherries",
-        "Oranges"
-      ],
-      "question": {
-        "text": "What fruit allegedly keeps the doctor away if you eat one per day?"
-      },
-      "tags": [
-        "food",
-        "fruit",
-        "food_and_drink",
-        "sayings",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -558,21 +507,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f950008",
-      "correctAnswer": "Rome",
+      "category": "science",
+      "id": "62433548cfaae40c12961498",
+      "correctAnswer": "A Ram",
       "incorrectAnswers": [
-        "Milan",
-        "Naples",
-        "Florence"
+        "A Jack",
+        "A Drake",
+        "A Rooster"
       ],
       "question": {
-        "text": "In which city is the colosseum located?"
+        "text": "What would you call a male sheep?"
       },
       "tags": [
-        "tourist_attractions",
-        "general_knowledge",
-        "geography"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -581,44 +528,22 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6477bb12550bc819ad646b59",
-      "correctAnswer": "Alexa",
+      "id": "6293ec197f41d6338b96eed7",
+      "correctAnswer": "Napoleon Bonaparte",
       "incorrectAnswers": [
-        "Siri",
-        "Cortana",
-        "Amazon Assistant"
+        "Vasco da Gama",
+        "Louis XVI",
+        "Charles de Gaulle"
       ],
       "question": {
-        "text": "Which virtual assistant is produced by Amazon? "
+        "text": "Which influential historical person was a French military and political leader in the late 18th and early 19th centuries?"
       },
       "tags": [
-        "ai",
-        "brands",
+        "people",
+        "history",
         "society_and_culture",
-        "technology"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f90c",
-      "correctAnswer": "The Lord of the Rings",
-      "incorrectAnswers": [
-        "The Searchers",
-        "Ghost",
-        "My Favorite Year"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Gollum'?"
-      },
-      "tags": [
-        "fictitious_characters",
-        "film",
         "general_knowledge",
-        "film_and_tv"
+        "france"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -626,21 +551,105 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b4e",
-      "correctAnswer": "Bob Marley and the Wailers",
+      "category": "geography",
+      "id": "625e9ede796f721e95543f72",
+      "correctAnswer": "Red",
       "incorrectAnswers": [
-        "Bob Marley and the Bombs",
-        "Bob Marley and his Blues Band",
-        "The Swinging Bobs"
+        "Gold",
+        "Yellow",
+        "Blue"
       ],
       "question": {
-        "text": "What was the name of Bob Marley's band?"
+        "text": "Which of these colors would you find on the flag of Japan?"
       },
       "tags": [
-        "music",
-        "bands",
-        "reggae"
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602d694b176d54800e3c96",
+      "correctAnswer": "China",
+      "incorrectAnswers": [
+        "Philippines",
+        "Malaysia",
+        "Cambodia"
+      ],
+      "question": {
+        "text": "In which country is the city of Shenzhen?"
+      },
+      "tags": [
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "645b9ebcf09106226db23576",
+      "correctAnswer": "Mobile",
+      "incorrectAnswers": [
+        "Chandelier",
+        "Lampshade",
+        "Pendant"
+      ],
+      "question": {
+        "text": "What is a word refers to a decorative structure that can hang above a baby's crib?"
+      },
+      "tags": [
+        "babies",
+        "general_knowledge",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570237a97013de78b553f",
+      "correctAnswer": "Yellow",
+      "incorrectAnswers": [
+        "White",
+        "Gray",
+        "Brown"
+      ],
+      "question": {
+        "text": "What is the typical color of pure sulfur at room temperature?"
+      },
+      "tags": [
+        "science",
+        "chemistry"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6470d59c32850588056636f1",
+      "correctAnswer": "Highbrow",
+      "incorrectAnswers": [
+        "Bearded",
+        "Moûstaché",
+        "Quiff"
+      ],
+      "question": {
+        "text": "Which of these words is used to refer to a very cultured activity?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "easy",

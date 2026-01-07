@@ -1,60 +1,18 @@
 {
-  "gameDate": "2026-01-06",
+  "gameDate": "2026-01-07",
   "difficulty": "random",
   "results": [
     {
-      "category": "science",
-      "id": "650570277a97013de78b5544",
-      "correctAnswer": "Python",
-      "incorrectAnswers": [
-        "Cobra",
-        "Rattlesnake",
-        "Puff adder"
-      ],
-      "question": {
-        "text": "Which of these snakes kills its prey by coiling around it and squeezing (a method called constriction)?"
-      },
-      "tags": [
-        "science",
-        "animals",
-        "biology"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501de",
-      "correctAnswer": "Luc Besson",
-      "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
-      ],
-      "question": {
-        "text": "Which director directed Lucy?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "623740c7cb85f7ce9e949d21",
-      "correctAnswer": "Iran",
+      "id": "62373f72f34f7d35cc389d6b",
+      "correctAnswer": "Armenia",
       "incorrectAnswers": [
-        "Bangladesh",
-        "Albania",
-        "Montenegro"
+        "Saint Kitts and Nevis",
+        "Moldova",
+        "Mongolia"
       ],
       "question": {
-        "text": "Tehran is the capital city of which country?"
+        "text": "Yerevan is the capital city of which country?"
       },
       "tags": [
         "geography"
@@ -65,19 +23,64 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6242cb25d543524f1b19c911",
-      "correctAnswer": "A swarm",
+      "category": "geography",
+      "id": "623388210161109f922aac69",
+      "correctAnswer": "International Date Line",
       "incorrectAnswers": [
-        "A kindle",
-        "A pride",
-        "A watch"
+        "The Equator",
+        "The Prime Meridian",
+        "The Blood Meridian"
       ],
       "question": {
-        "text": "What is the word for a group of flies?"
+        "text": "Which imaginery line approximately follows the 180 degree meridian through the Pacific Ocean?"
       },
       "tags": [
-        "science"
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a6c",
+      "correctAnswer": "Pirate",
+      "incorrectAnswers": [
+        "Judge",
+        "Prime Minister",
+        "General"
+      ],
+      "question": {
+        "text": " What was Sir Henry Morgan famous for in the 17th century?"
+      },
+      "tags": [
+        "people",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "6398983e5c9a75021f310469",
+      "correctAnswer": "Operation Overlord",
+      "incorrectAnswers": [
+        "Operation Barbarossa",
+        "Operation Torch",
+        "Operation Watchtower"
+      ],
+      "question": {
+        "text": "What was the code name of the Allied invasion of Normandy in 1944?"
+      },
+      "tags": [
+        "history",
+        "world_war_2",
+        "wars",
+        "1940's",
+        "france"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -85,21 +88,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6266e624ff2394bd44dee034",
-      "correctAnswer": "Two",
+      "category": "food_and_drink",
+      "id": "622a1c3e7cc59eab6f9522d0",
+      "correctAnswer": "Apple",
       "incorrectAnswers": [
-        "Four",
-        "Yellow",
-        "Red"
+        "Grape",
+        "Plum",
+        "Banana"
       ],
       "question": {
-        "text": "What does the word 'dos' mean in Spanish?"
+        "text": "James Grieve and Egremont Russet are types of which fruit?"
       },
       "tags": [
-        "language",
-        "translations",
-        "society_and_culture"
+        "food",
+        "food_and_drink",
+        "plants"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -107,22 +110,41 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951003",
-      "correctAnswer": "Black Widow",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ef4",
+      "correctAnswer": "Edgar Rice Burroughs",
       "incorrectAnswers": [
-        "Tarantula",
-        "Jumping Spider",
-        "Crab Spider"
+        "Jack Vance",
+        "George R. R. Martin",
+        "Robert A. Heinlein"
       ],
       "question": {
-        "text": "Which Spider Devours Its Partner After Mating?"
+        "text": "Which author wrote 'Tarzan of the Apes'?"
       },
       "tags": [
-        "animals",
-        "general_knowledge",
-        "biology",
-        "science"
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950735",
+      "correctAnswer": "Ralph Fiennes",
+      "incorrectAnswers": [
+        "Brian Cox",
+        "Mark Wahlberg",
+        "Leonardo DiCaprio"
+      ],
+      "question": {
+        "text": "Which actor has starred in films including Harry Potter and Schindler's List?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -130,19 +152,19 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950dcb",
-      "correctAnswer": "The Beatles",
+      "category": "geography",
+      "id": "623b5824fd6c701a9211839e",
+      "correctAnswer": "Greece",
       "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Uriah Heep"
+        "Jordan",
+        "Turkey",
+        "Belgium"
       ],
       "question": {
-        "text": "Which band includes 'George Harrison'?"
+        "text": "In which country would you find the UNESCO World Heritage site of Delphi?"
       },
       "tags": [
-        "music"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -151,19 +173,62 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "647edb8d520523194910c34d",
-      "correctAnswer": "Mahjong",
+      "id": "622a1c347cc59eab6f94f889",
+      "correctAnswer": "Basketball",
       "incorrectAnswers": [
-        "Sudoku",
-        "Shogi",
-        "Go"
+        "Track and field",
+        "Motor racing",
+        "Boxing"
       ],
       "question": {
-        "text": "What game involves tiles with dots, cracks, and bams?"
+        "text": "With which sport is Magic Johnson associated?"
       },
       "tags": [
-        "games",
-        "board_games"
+        "people",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f079da29df7b05f7383",
+      "correctAnswer": "A chaotic clown causes a masked vigilante one of his greatest tests.",
+      "incorrectAnswers": [
+        "A stranger joins forces with a desperado to protect a widow from an assassin.",
+        "A woman works with a hardened boxing trainer to become a professional.",
+        "A suburban father has a mid-life crisis after becoming infatuated with his daughter's friend."
+      ],
+      "question": {
+        "text": "What is the plot of the movie The Dark Knight?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "64dd398a9cef2bd3a34add07",
+      "correctAnswer": "Brad Pitt",
+      "incorrectAnswers": [
+        "Matt Damon",
+        "Tom Hanks",
+        "Leonardo DiCaprio"
+      ],
+      "question": {
+        "text": "Who played Oakland A's general manager Billy Beane in the film 'Moneyball'?"
+      },
+      "tags": [
+        "film_and_tv",
+        "film",
+        "acting"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -171,39 +236,19 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f0f",
-      "correctAnswer": "Alexander Pushkin",
+      "category": "sport_and_leisure",
+      "id": "62399f24af96521963a0871e",
+      "correctAnswer": "Uruguay",
       "incorrectAnswers": [
-        "Nikolai Gogol",
-        "Leo Tolstoy",
-        "Henryk Sienkiewicz"
+        "Brazil",
+        "West Germany",
+        "Argentina"
       ],
       "question": {
-        "text": "Which author wrote 'The Queen of Spades'?"
+        "text": "Which country won the 1950 FIFA World Cup, hosted in Brazil?"
       },
       "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237421acb85f7ce9e949daa",
-      "correctAnswer": "Kingstown",
-      "incorrectAnswers": [
-        "Yamoussoukro",
-        "Manama",
-        "Banjul"
-      ],
-      "question": {
-        "text": "What is the capital city of Saint Vincent and the Grenadines?"
-      },
-      "tags": [
-        "geography"
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -212,19 +257,17 @@
     },
     {
       "category": "science",
-      "id": "622a1c3e7cc59eab6f952300",
-      "correctAnswer": "Brain",
+      "id": "622a1c377cc59eab6f950592",
+      "correctAnswer": "Hearing",
       "incorrectAnswers": [
-        "Skin",
-        "Heart",
-        "Lungs"
+        "Bees",
+        "The spread of diseases",
+        "Rocks"
       ],
       "question": {
-        "text": "What does encephalitis affect?"
+        "text": "What is Audiology the study of?"
       },
       "tags": [
-        "medicine",
-        "biology",
         "science"
       ],
       "type": "text_choice",
@@ -233,119 +276,60 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623742bbcb85f7ce9e949deb",
-      "correctAnswer": "Tuvalu",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f95197c",
+      "correctAnswer": "The Pilgrims",
       "incorrectAnswers": [
-        "Guatemala",
-        "Malawi",
-        "Togo"
+        "The Conquistadors",
+        "The Vikings",
+        "The Kingsmen"
       ],
       "question": {
-        "text": "Funafuti is the capital city of which country?"
+        "text": "What group landed in America in 1620?"
       },
       "tags": [
-        "geography"
+        "usa",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417d070f96c4efe8d7739d",
+      "correctAnswer": "Dallas Stars",
+      "incorrectAnswers": [
+        "Dallas Tigers",
+        "Dallas Football",
+        "Dallas Predators"
+      ],
+      "question": {
+        "text": "Which of these is a hockey team based in Dallas?"
+      },
+      "tags": [
+        "nhl",
+        "hockey",
+        "dallas",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9dd2796f721e95543f2f",
-      "correctAnswer": "Algeria",
-      "incorrectAnswers": [
-        "Ghana",
-        "Belgium",
-        "Spain"
-      ],
-      "question": {
-        "text": "Which country's flag fits the description of 'Two equal vertical bands of green and white, with a red crescent and star in the center.'?"
-      },
-      "tags": [
-        "flags",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502ba",
-      "correctAnswer": "German Bread ",
-      "incorrectAnswers": [
-        "Belgian Wheat Beer",
-        "Dutch Cheese",
-        "Danish Butter"
-      ],
-      "question": {
-        "text": "What is pumpernickel?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f96b",
-      "correctAnswer": "The Thin Man",
-      "incorrectAnswers": [
-        "The Tin Drum",
-        "One Hundred Years of Solitude",
-        "The World According to Garp"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Nick and Nora Charles'?"
-      },
-      "tags": [
-        "fictitious_characters",
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6266bc46b0e62e469cf43e8f",
-      "correctAnswer": "Fiddle",
-      "incorrectAnswers": [
-        "Maraca",
-        "Gong",
-        "Bugle"
-      ],
-      "question": {
-        "text": "Which of these is a stringed instrument?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "history",
-      "id": "622a1c367cc59eab6f950354",
-      "correctAnswer": "Henry V",
+      "id": "622a1c367cc59eab6f95037d",
+      "correctAnswer": "Lou Reed",
       "incorrectAnswers": [
-        "James III",
-        "Richard II",
-        "William I"
+        "David Bowie",
+        "Neil Young",
+        "Chic"
       ],
       "question": {
-        "text": "Who was King Of England During The Battle Of Agincourt?"
+        "text": "Who Released The 70's Album Entitled 'Transformer'?"
       },
       "tags": [
         "history"
@@ -357,20 +341,87 @@
     },
     {
       "category": "film_and_tv",
-      "id": "6463391401d576cfac3aa314",
-      "correctAnswer": "Val Kilmer",
+      "id": "622a1c347cc59eab6f94fc31",
+      "correctAnswer": "\"It's alive! It's alive!\"",
       "incorrectAnswers": [
-        "Kevin Spacey",
-        "Tom Cruise",
-        "Samuel L. Jackson"
+        "\"Stella! Hey, Stella!\"",
+        "\"My precious...\"",
+        "\"I'm walkin' here!\""
       ],
       "question": {
-        "text": "Which actor has played Jim Morrison, Elvis Presley, and Batman in various films?"
+        "text": "Which of these quotes is from the film 'Frankenstein'?"
       },
       "tags": [
+        "quotes",
         "film",
-        "film_and_tv",
-        "acting"
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233855b62eaad73716a8c66",
+      "correctAnswer": "California",
+      "incorrectAnswers": [
+        "Hawaii",
+        "Alaska",
+        "Vermont"
+      ],
+      "question": {
+        "text": "What US state is nicknamed the Golden State?"
+      },
+      "tags": [
+        "nicknames",
+        "us_states",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950315",
+      "correctAnswer": "William Pitt",
+      "incorrectAnswers": [
+        "Anthony Eden",
+        "Margaret Thatcher",
+        "Clement Attlee"
+      ],
+      "question": {
+        "text": "Who Was The Youngest British Prime Minister?"
+      },
+      "tags": [
+        "leaders",
+        "uk",
+        "politics",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6463395501d576cfac3aa34c",
+      "correctAnswer": "Sole",
+      "incorrectAnswers": [
+        "Heel",
+        "Arch",
+        "Instep"
+      ],
+      "question": {
+        "text": "What is the name for the undersurface of a foot?"
+      },
+      "tags": [
+        "medicine",
+        "anatomy",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -379,40 +430,21 @@
     },
     {
       "category": "general_knowledge",
-      "id": "64824e697778562fd76a962d",
-      "correctAnswer": "Opaque",
+      "id": "622a1c357cc59eab6f94fd80",
+      "correctAnswer": "Mark David Chapman",
       "incorrectAnswers": [
-        "Transparent",
-        "Translucent",
-        "Obtuse"
+        "J. D. Salinger",
+        "Lee Harvey Oswald",
+        "John Wilkes Booth"
       ],
       "question": {
-        "text": "What word means that an object is impossible to see through?"
+        "text": "Who Was Responsible For The Assassination Of John Lennon?"
       },
       "tags": [
-        "words",
+        "people",
+        "the_beatles",
+        "events",
         "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd72",
-      "correctAnswer": "Paul Simon",
-      "incorrectAnswers": [
-        "Elton John",
-        "Usher",
-        "Prince"
-      ],
-      "question": {
-        "text": "Who Wrote the song \"Fifty Ways To Leave Your Lover\"?"
-      },
-      "tags": [
-        "songs",
-        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -420,19 +452,149 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e74",
-      "correctAnswer": "Vladimir Nabokov",
+      "category": "society_and_culture",
+      "id": "64730798cf09068746f6377d",
+      "correctAnswer": "Easter Island",
       "incorrectAnswers": [
-        "Ayn Rand",
-        "Kurt Vonnegut",
-        "Mikhail Bulgakov"
+        "Hawaii",
+        "Madagascar",
+        "Cuba"
       ],
       "question": {
-        "text": "Which author wrote 'The Annotated Lolita (1991 Vintage Books ed.)'?"
+        "text": "The Rongorongo,  writing system is found on which remote island?"
       },
       "tags": [
-        "arts_and_literature"
+        "linguistics",
+        "languages",
+        "islands",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623735d8cfe13103f55eb575",
+      "correctAnswer": "Somalia",
+      "incorrectAnswers": [
+        "Burkina Faso",
+        "Lesotho",
+        "Solomon Islands"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.so' at the end of its web addresses?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6262af6e4b176d54800e3dc6",
+      "correctAnswer": "Age Sex Location",
+      "incorrectAnswers": [
+        "Anybody Seen Lately?",
+        "Awesome Situation Logged",
+        "Any Souls Loggedin?"
+      ],
+      "question": {
+        "text": "If someone typed the letters 'ASL' in a message, what would they mean?"
+      },
+      "tags": [
+        "the_internet",
+        "initials",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e5e8ff2394bd44dee022",
+      "correctAnswer": "White",
+      "incorrectAnswers": [
+        "Seven",
+        "Yellow",
+        "Green"
+      ],
+      "question": {
+        "text": "What does the word 'blanco' mean in Spanish?"
+      },
+      "tags": [
+        "language",
+        "translations"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624ab0c4348a461bfc670697",
+      "correctAnswer": "India",
+      "incorrectAnswers": [
+        "North America",
+        "Southeast Asia",
+        "The Middle East"
+      ],
+      "question": {
+        "text": "Where in the world are lemons originally from?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "624dba11de6018633d31f6b3",
+      "correctAnswer": "Pierce Brosnan",
+      "incorrectAnswers": [
+        "George Lazenby",
+        "Timothy Dalton",
+        "Sean Connery"
+      ],
+      "question": {
+        "text": "Who played the role of James Bond in Tomorrow Never Dies?"
+      },
+      "tags": [
+        "james_bond",
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6271649a1ba117625baac968",
+      "correctAnswer": "Tej",
+      "incorrectAnswers": [
+        "Horilka",
+        "Canelazo",
+        "Sangria"
+      ],
+      "question": {
+        "text": "Which of these is a popular drink in Ethiopia?"
+      },
+      "tags": [
+        "drink",
+        "alcohol"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -441,198 +603,44 @@
     },
     {
       "category": "science",
-      "id": "649c8996e3aef0a3c23f63f6",
-      "correctAnswer": "Krypton",
+      "id": "62433403cfaae40c12961419",
+      "correctAnswer": "A Tadpole",
       "incorrectAnswers": [
-        "Argon",
-        "Helium",
-        "Xenon"
+        "A Calf",
+        "A Piglet",
+        "A Maggot"
       ],
       "question": {
-        "text": "In 1898, which noble gas was discovered and named after the Greek word for 'hidden'?"
+        "text": "What would you call a baby frog?"
       },
       "tags": [
-        "science",
-        "chemistry",
-        "chemical_elements",
-        "scientific_discoveries"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f5c",
-      "correctAnswer": "Isaac Asimov",
-      "incorrectAnswers": [
-        "Ursula K. Le Guin",
-        "Philip K. Dick",
-        "Stephen King"
-      ],
-      "question": {
-        "text": "Which author wrote 'Pebble in the Sky'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "648888d65dba6c873ef650a9",
-      "correctAnswer": "Catch-22",
-      "incorrectAnswers": [
-        "To Kill a Mockingbird",
-        "Lord of the Flies",
-        "1984"
-      ],
-      "question": {
-        "text": "Which Joseph Heller novel takes place on the island of Pianosa?"
-      },
-      "tags": [
-        "novels",
-        "books",
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623385c262eaad73716a8c8f",
-      "correctAnswer": "The Congo ",
-      "incorrectAnswers": [
-        "The Benghazi",
-        "The Delta",
-        "The Rhone"
-      ],
-      "question": {
-        "text": "What Is The River Zaire Also Known As?"
-      },
-      "tags": [
-        "rivers",
-        "bodies_of_water",
-        "africa",
-        "names",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951868",
-      "correctAnswer": "Turkey",
-      "incorrectAnswers": [
-        "Russia",
-        "Spain",
-        "Denmark"
-      ],
-      "question": {
-        "text": "Where did the real St. Nicholas live?"
-      },
-      "tags": [
-        "christmas",
-        "christianity",
-        "people",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f95019c",
-      "correctAnswer": "Oscar Wilde",
-      "incorrectAnswers": [
-        "James Joyce",
-        "Samuel Beckett",
-        "William Butler Yeats"
-      ],
-      "question": {
-        "text": "What Irish playwright and author, wrote \"The Importance of Being Ernest\" and \"A Picture of Dorian Grey\" among others?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501e4",
-      "correctAnswer": "James Cameron",
-      "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
-      ],
-      "question": {
-        "text": "Which director directed The Terminator?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6472076e3bbb58c31f411c51",
-      "correctAnswer": "Chihuahua",
-      "incorrectAnswers": [
-        "Sonora",
-        "Nuevo Leon",
-        "Michoacan"
-      ],
-      "question": {
-        "text": "What Mexican state is home to the city of Ciudad Juarez?"
-      },
-      "tags": [
-        "cities",
-        "mexico",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950af6",
-      "correctAnswer": "Mexico",
-      "incorrectAnswers": [
-        "Belize",
-        "Guatemala",
-        "Cuba"
-      ],
-      "question": {
-        "text": "Which of these countries borders United States of America?"
-      },
-      "tags": [
-        "geography"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "636a527c990390307063f39e",
+      "correctAnswer": "Dolly Parton",
+      "incorrectAnswers": [
+        "Judy Garland",
+        "UB40",
+        "Manfred Mann"
+      ],
+      "question": {
+        "text": "Which artist first recorded 'I Will Always Love You', which was later covered by Whitney Houston?"
+      },
+      "tags": [
+        "music",
+        "cover_song",
+        "songs",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     }
