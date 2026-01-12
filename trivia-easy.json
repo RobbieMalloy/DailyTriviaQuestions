@@ -1,20 +1,150 @@
 {
-  "gameDate": "2026-01-11",
+  "gameDate": "2026-01-12",
   "difficulty": "easy",
   "results": [
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94ff51",
-      "correctAnswer": "Michael Jackson",
+      "id": "622a1c3d7cc59eab6f951c76",
+      "correctAnswer": "Chestnuts",
       "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
+        "Onions",
+        "Turkey",
+        "Marshmallows"
       ],
       "question": {
-        "text": "Which American singer released the song 'Wanna Be Startin' Somethin''?"
+        "text": "According to 'A Christmas Song'', what would you find roasting over an open fire?"
       },
       "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d10",
+      "correctAnswer": "The Beatles",
+      "incorrectAnswers": [
+        "Deep Purple",
+        "Feeder",
+        "Uriah Heep"
+      ],
+      "question": {
+        "text": "Which English rock band released the song 'Love Me Do'?"
+      },
+      "tags": [
+        "songs",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f947",
+      "correctAnswer": "Pirates of the Caribbean",
+      "incorrectAnswers": [
+        "The Godfather",
+        "The Silence of the Lambs",
+        "The Birds"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Captain Jack Sparrow'?"
+      },
+      "tags": [
+        "fictitious_characters",
+        "film",
+        "general_knowledge",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573fa49da29df7b05f73a8",
+      "correctAnswer": "An archaeologist is hired by the government to find the Ark of the Covenant.",
+      "incorrectAnswers": [
+        "On a journey to find the cure for a curse, a boy finds himself in the middle of a war.",
+        "A Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+        "A 12-year-old is taken in by a professional assassin after her family is murdered."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Raiders of the Lost Ark?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "65056fa17a97013de78b548c",
+      "correctAnswer": "Copper",
+      "incorrectAnswers": [
+        "Gold",
+        "Silver",
+        "Bronze"
+      ],
+      "question": {
+        "text": "Which of these medals is NOT awarded at the Olympic games?"
+      },
+      "tags": [
+        "sport_and_leisure",
+        "olympics"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "646262b5ab138b829b81ea4a",
+      "correctAnswer": "Operation",
+      "incorrectAnswers": [
+        "Surgery",
+        "Trauma Center",
+        "ER"
+      ],
+      "question": {
+        "text": "Which game  involves a patient called Cavity Sam, from whom players must remove objects using a pair of tweezers?"
+      },
+      "tags": [
+        "games",
+        "board_games"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe67",
+      "correctAnswer": "Britney Spears",
+      "incorrectAnswers": [
+        "Madonna",
+        "Alanis Morissette",
+        "Nicki Minaj"
+      ],
+      "question": {
+        "text": "Which American singer, songwriter, dancer and actress released the song '...Baby One More Time'?"
+      },
+      "tags": [
+        "1990's",
+        "musicians",
         "songs",
         "music"
       ],
@@ -24,351 +154,62 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f95224c",
-      "correctAnswer": "Hot",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d00",
+      "correctAnswer": "The Beatles",
       "incorrectAnswers": [
-        "Wet",
-        "Windy",
-        "Dark"
+        "Deep Purple",
+        "Feeder",
+        "Uriah Heep"
       ],
       "question": {
-        "text": "In what conditions do thermophilous plants thrive?"
+        "text": "Which English rock band released the song 'Can't Buy Me Love'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62373602cfe13103f55eb591",
+      "correctAnswer": "The United Kingdom",
+      "incorrectAnswers": [
+        "Ukraine",
+        "Uzbekistan",
+        "Uganda"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.uk' at the end of its web addresses?"
+      },
+      "tags": [
+        "the_internet",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63e13a32106de6ffa7d4a7b2",
+      "correctAnswer": "Bladder",
+      "incorrectAnswers": [
+        "Stomach",
+        "Kidney",
+        "Liver"
+      ],
+      "question": {
+        "text": "Which organ stores urine?\n"
       },
       "tags": [
         "science",
-        "words",
-        "plants",
-        "biology"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950534",
-      "correctAnswer": "The Future",
-      "incorrectAnswers": [
-        "Science Fiction",
-        "Palm Reading",
-        "Drugs"
-      ],
-      "question": {
-        "text": "What is futurology the study of?"
-      },
-      "tags": [
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950511",
-      "correctAnswer": "the immune system",
-      "incorrectAnswers": [
-        "living tissues",
-        "eggs",
-        "the laws and phenomena of aqueous vapors"
-      ],
-      "question": {
-        "text": "What is Immunology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6486be3159bc33d1c362f320",
-      "correctAnswer": "St. Valentine",
-      "incorrectAnswers": [
-        "St. Patrick",
-        "St. Michael",
-        "St. Francis"
-      ],
-      "question": {
-        "text": "Which saint is celebrated on February 14th?"
-      },
-      "tags": [
-        "traditions",
-        "celebrations",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f079da29df7b05f7383",
-      "correctAnswer": "A chaotic clown causes a masked vigilante one of his greatest tests.",
-      "incorrectAnswers": [
-        "A stranger joins forces with a desperado to protect a widow from an assassin.",
-        "A woman works with a hardened boxing trainer to become a professional.",
-        "A suburban father has a mid-life crisis after becoming infatuated with his daughter's friend."
-      ],
-      "question": {
-        "text": "What is the plot of the movie The Dark Knight?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "645c9f1642ea81e2554c5ef3",
-      "correctAnswer": "Kiwi",
-      "incorrectAnswers": [
-        "Emu",
-        "Penguin",
-        "Ostrich"
-      ],
-      "question": {
-        "text": "What is the name of the strictly protected bird, about the size of a chicken, that is native to New Zealand?"
-      },
-      "tags": [
-        "animals",
-        "birds",
-        "new_zealand",
-        "conservation"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcb7",
-      "correctAnswer": "Indo-European",
-      "incorrectAnswers": [
-        "Sino-Tibetan",
-        "Turkic",
-        "Niger–Congo"
-      ],
-      "question": {
-        "text": "The language 'Greek' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c377cc59eab6f950452",
-      "correctAnswer": "Mexico",
-      "incorrectAnswers": [
-        "Ecuador",
-        "Guatemala",
-        "Bolivia"
-      ],
-      "question": {
-        "text": "Dia de los Muertos (The Day of the Dead) is celebrated in which Latin American country?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c609c50d1a5e051325a67",
-      "correctAnswer": "India",
-      "incorrectAnswers": [
-        "Scotland",
-        "Cameroon",
-        "Mauritius"
-      ],
-      "question": {
-        "text": "Tandoori Chicken is a dish that is most associated with which part of the world?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbbf",
-      "correctAnswer": "\"Just keep swimming.\"",
-      "incorrectAnswers": [
-        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\"",
-        "\"We'll always have Paris.\"",
-        "\"Today, I consider myself the luckiest man on the face of the earth.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Finding Nemo'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ffbc",
-      "correctAnswer": "Athens",
-      "incorrectAnswers": [
-        "Alexandria",
-        "Corinth",
-        "Sparta"
-      ],
-      "question": {
-        "text": "What is the capital of Greece?"
-      },
-      "tags": [
-        "capital_cities",
-        "europe",
-        "greece",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c60b150d1a5e051325a6d",
-      "correctAnswer": "Pizza",
-      "incorrectAnswers": [
-        "Dim Sum",
-        "Cou Cou and Flying Fish",
-        "Kabuli Pulao"
-      ],
-      "question": {
-        "text": "Which of these dishes would you most expect to find in Italy?"
-      },
-      "tags": [
-        "food",
-        "general_knowledge",
-        "italy",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "63f39502989356ef48370be2",
-      "correctAnswer": "Sumo",
-      "incorrectAnswers": [
-        "Kendo",
-        "Judo",
-        "Karate"
-      ],
-      "question": {
-        "text": "Which of these is a Japanese form of wrestling where two heavyweight wrestlers attempt to push each other out of a marked circle?"
-      },
-      "tags": [
-        "japan",
-        "sport",
-        "society_and_culture",
-        "martial_arts"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f951a8a",
-      "correctAnswer": "October 31st",
-      "incorrectAnswers": [
-        "November 10th",
-        "October 24th",
-        "November 21st"
-      ],
-      "question": {
-        "text": "On Which Date Is Halloween?"
-      },
-      "tags": [
-        "halloween",
-        "general_knowledge",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6242cafdd543524f1b19c901",
-      "correctAnswer": "A flock",
-      "incorrectAnswers": [
-        "A fall",
-        "A gang",
-        "A yoke"
-      ],
-      "question": {
-        "text": "What is the word for a group of birds?"
-      },
-      "tags": [
-        "birds",
-        "words",
-        "general_knowledge",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9e30796f721e95543f45",
-      "correctAnswer": "Red with five yellow stars in the top left.",
-      "incorrectAnswers": [
-        "Blue with a yellow cross extending to the edges.",
-        "Red with a black two headed eagle in the center.",
-        "Green, with large white script and a sword."
-      ],
-      "question": {
-        "text": "What does the flag of China look like?"
-      },
-      "tags": [
-        "flags",
-        "china",
-        "asia",
-        "geography"
+        "biology",
+        "anatomy"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -377,17 +218,19 @@
     },
     {
       "category": "general_knowledge",
-      "id": "6239f8099129041bf3925cc0",
-      "correctAnswer": "Delta",
+      "id": "622a1c367cc59eab6f950079",
+      "correctAnswer": "Washington DC",
       "incorrectAnswers": [
-        "Dog",
-        "Danube",
-        "Dig"
+        "New York City",
+        "Brussels",
+        "Geneva"
       ],
       "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter D?"
+        "text": "Where is Capitol Hill?"
       },
       "tags": [
+        "places",
+        "politics",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -396,21 +239,45 @@
       "isNiche": false
     },
     {
+      "category": "history",
+      "id": "622a1c3b7cc59eab6f95177f",
+      "correctAnswer": "The Mongols",
+      "incorrectAnswers": [
+        "The Huns",
+        "The Parthians",
+        "The Greeks"
+      ],
+      "question": {
+        "text": "Which people were led by Genghis Khan?"
+      },
+      "tags": [
+        "people",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950784",
-      "correctAnswer": "Ben Affleck",
+      "id": "625698a09da29df7b05f7293",
+      "correctAnswer": "Idris Elba",
       "incorrectAnswers": [
-        "Keanu Reeves",
-        "Donald Sutherland",
-        "Christian Bale"
+        "Peter Dinklage",
+        "Josh Brolin",
+        "Chadwick Boseman"
       ],
       "question": {
-        "text": "Which actor has featured in films including Batman v Superman: Dawn of Justice and Argo?"
+        "text": "Which actor plays the role of Heimdall in the Marvel Cinematic Universe?"
       },
       "tags": [
-        "film_and_tv",
+        "mcu",
         "film",
-        "acting"
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -419,80 +286,15 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95012c",
-      "correctAnswer": "December",
+      "id": "6293ebdf7f41d6338b96eec6",
+      "correctAnswer": "Scientist who proposed and popularised the theory of evolution.",
       "incorrectAnswers": [
-        "September",
-        "April",
-        "November"
+        "Conquistador who claimed Inca lands for Spain.",
+        "Influential Christian saint and writer, who shaped much of Western Christian thought.",
+        "Victoria era novelist who wrote many popular books."
       ],
       "question": {
-        "text": "In what month is Christmas observed?"
-      },
-      "tags": [
-        "christmas",
-        "general_knowledge",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6477bb12550bc819ad646b61",
-      "correctAnswer": "Snowflake",
-      "incorrectAnswers": [
-        "Buttercup",
-        "Pumpkin",
-        "Cupcake"
-      ],
-      "question": {
-        "text": "What slang term refers to a very sensitive person who is easily offended?"
-      },
-      "tags": [
-        "slang",
-        "words",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95055f",
-      "correctAnswer": "Dialects",
-      "incorrectAnswers": [
-        "X-Rays",
-        "Drugs",
-        "Clouds"
-      ],
-      "question": {
-        "text": "What is dialectology the study of?"
-      },
-      "tags": [
-        "science",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ebba7f41d6338b96eebb",
-      "correctAnswer": "Chinese philosopher.",
-      "incorrectAnswers": [
-        "Greek politician",
-        "Russian theoretical physicist",
-        "Mongolian General"
-      ],
-      "question": {
-        "text": "Which of the following describes Confucius?"
+        "text": "Which of the following describes Charles Darwin?"
       },
       "tags": [
         "people",
@@ -506,21 +308,42 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f951635",
-      "correctAnswer": "Bread",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d2e",
+      "correctAnswer": "The Beatles",
       "incorrectAnswers": [
-        "Cheese",
-        "Fruit",
-        "Nut"
+        "Oasis",
+        "Led Zeppelin",
+        "The Clash"
       ],
       "question": {
-        "text": " What type of food is pitta?"
+        "text": "Which English rock band released the song 'Hey Jude'?"
       },
       "tags": [
-        "food",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eb1",
+      "correctAnswer": "J. K. Rowling",
+      "incorrectAnswers": [
+        "Christopher Tolkien",
+        "Philip Pullman",
+        "C. S. Lewis"
+      ],
+      "question": {
+        "text": "Which author wrote 'Harry Potter and the Chamber of Secrets'?"
+      },
+      "tags": [
+        "harry_potter",
+        "literature",
         "general_knowledge",
-        "food_and_drink"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -528,20 +351,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623b5834fd6c701a921183a4",
-      "correctAnswer": "Russia",
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504e5",
+      "correctAnswer": "numbers",
       "incorrectAnswers": [
-        "Bosnia & Herzegovina",
-        "Greece",
-        "Sweden"
+        "wounds and injuries caused by accidents or assaults and their surgical treatment and repair",
+        "psychotropic or psychiatric drugs",
+        "Egyptian hieroglyphics, an ancient writing system"
       ],
       "question": {
-        "text": "In which country would you find the city of Saint Petersburg?"
+        "text": "What is Numerology the study of?"
       },
       "tags": [
-        "cities",
-        "general_knowledge"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -549,82 +371,37 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62602d8f4b176d54800e3ca1",
-      "correctAnswer": "Thailand",
+      "category": "sport_and_leisure",
+      "id": "63d8d44c168979b94b2e4f65",
+      "correctAnswer": "Goalkeeper",
       "incorrectAnswers": [
-        "Indonesia",
-        "Mongolia",
-        "South Korea"
+        "Wing back",
+        "Centre Half",
+        "Linesman"
       ],
       "question": {
-        "text": "In which country is the city of Bangkok?"
+        "text": "In football (soccer), which player uses their hands stop the opposition scoring?"
       },
-      "tags": [
-        "cities",
-        "geography"
-      ],
+      "tags": [],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "645c9f5442ea81e2554c5f19",
-      "correctAnswer": "Rocky",
+      "category": "sport_and_leisure",
+      "id": "6384b42c83dddfb71ee5e361",
+      "correctAnswer": "Cycling",
       "incorrectAnswers": [
-        "The Godfather",
-        "Jaws",
-        "Star Wars"
+        "American Football",
+        "Cricket",
+        "Tennis"
       ],
       "question": {
-        "text": "Which 1970s movie, featuring Sylvester Stallone, was re-released under the rhyming title \"The Italian Stallion\"?"
+        "text": "What sport would you associate with The Tour de France?"
       },
       "tags": [
-        "film_and_tv",
-        "film"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056e927a97013de78b5313",
-      "correctAnswer": "Pickling",
-      "incorrectAnswers": [
-        "Chilling",
-        "Canning",
-        "Smoking"
-      ],
-      "question": {
-        "text": "What is the process of soaking and storing food in brine or vinegar?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233861762eaad73716a8cb1",
-      "correctAnswer": "India",
-      "incorrectAnswers": [
-        "China",
-        "Russia",
-        "Saudi Arabia"
-      ],
-      "question": {
-        "text": "Where is Kolkata?"
-      },
-      "tags": [
-        "geography"
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -633,19 +410,232 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950d5a",
-      "correctAnswer": "Simon & Garfunkel",
+      "id": "622a1c357cc59eab6f94ff43",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
-        "MercyMe",
-        "Three 6 Mafia",
-        "The Velvet Underground"
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "Which band includes 'Paul Simon'?"
+        "text": "Which American singer released the song 'Bad'?"
       },
       "tags": [
-        "people",
+        "songs",
+        "general_knowledge",
         "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3a7cc59eab6f951067",
+      "correctAnswer": "Bonsai",
+      "incorrectAnswers": [
+        "Ornamental Shrubbery",
+        "Decorage",
+        "Topiary"
+      ],
+      "question": {
+        "text": "What is the name given to the art of miniaturising trees and maintaining their small size?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3a7cc59eab6f9511c9",
+      "correctAnswer": "The Sea",
+      "incorrectAnswers": [
+        "The Sky",
+        "Wine",
+        "Horses"
+      ],
+      "question": {
+        "text": "Poseidon was the Greek god of what?"
+      },
+      "tags": [
+        "mythology",
+        "ancient_greece",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9507aa",
+      "correctAnswer": "Tom Hanks",
+      "incorrectAnswers": [
+        "Leonardo DiCaprio",
+        "Tom Cruise",
+        "Sean Connery"
+      ],
+      "question": {
+        "text": "Which actor has featured in films including Forrest Gump and Saving Private Ryan?"
+      },
+      "tags": [
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950248",
+      "correctAnswer": "Apple ",
+      "incorrectAnswers": [
+        "Blackberry",
+        "Strawberry",
+        "Banana"
+      ],
+      "question": {
+        "text": "Which fruit is traditionally covered with toffee at a fairground?"
+      },
+      "tags": [
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9507c7",
+      "correctAnswer": "Harrison Ford",
+      "incorrectAnswers": [
+        "Mark Hamill",
+        "Brad Pitt",
+        "Pedro Pascal"
+      ],
+      "question": {
+        "text": "Which actor originally played the role of Han Solo in Star Wars?"
+      },
+      "tags": [
+        "star_wars",
+        "film",
+        "acting",
+        "general_knowledge",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624333a7cfaae40c129613f6",
+      "correctAnswer": "A Bitch",
+      "incorrectAnswers": [
+        "A Jill",
+        "A Gander",
+        "A Tigeress"
+      ],
+      "question": {
+        "text": "What is the word for a female dog?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623388b60161109f922aaca4",
+      "correctAnswer": "Pisa ",
+      "incorrectAnswers": [
+        "Florence",
+        "Naples",
+        "Turin"
+      ],
+      "question": {
+        "text": "Which Italian City Is Famous For Its Leaning Tower"
+      },
+      "tags": [
+        "tourist_attractions",
+        "italy",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624333a2cfaae40c129613f4",
+      "correctAnswer": "A Doe",
+      "incorrectAnswers": [
+        "A Pen",
+        "A Mare",
+        "A Nanny"
+      ],
+      "question": {
+        "text": "A female deer is known as what?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ff8a",
+      "correctAnswer": "Kuwait City",
+      "incorrectAnswers": [
+        "Abu Dhabi",
+        "Doha",
+        "Amman"
+      ],
+      "question": {
+        "text": "What is the capital of Kuwait?"
+      },
+      "tags": [
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501c5",
+      "correctAnswer": "Romeo and Juliet",
+      "incorrectAnswers": [
+        "The Great Gatsby",
+        "Eine Geschichte des Universums in 100 Sternen",
+        "Madame Bovary"
+      ],
+      "question": {
+        "text": "Which piece of written work starts with the line 'Two households, both alike in dignity, in fair Verona, where we lay our scene, from ancient grudge break to new mutiny, where civil blood makes civil hands unclean.'?"
+      },
+      "tags": [
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",

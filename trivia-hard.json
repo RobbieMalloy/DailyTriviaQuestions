@@ -1,24 +1,44 @@
 {
-  "gameDate": "2026-01-11",
+  "gameDate": "2026-01-12",
   "difficulty": "hard",
   "results": [
     {
-      "category": "geography",
-      "id": "646140b54d46e537ca8cd9fd",
-      "correctAnswer": "Kingston",
+      "category": "science",
+      "id": "64af1025deeef534fb54ad10",
+      "correctAnswer": "Trout",
       "incorrectAnswers": [
-        "Havana",
-        "San Juan",
-        "Port-au-Prince"
+        "Salmon",
+        "Bass",
+        "Tuna"
       ],
       "question": {
-        "text": "Which Caribbean capital is located near the foothills of the Blue Mountains?"
+        "text": "Named for its steely blue colour, which fish has a steelhead variety?"
       },
       "tags": [
-        "mountains",
-        "caribbean",
+        "fish",
+        "nature",
+        "science",
+        "animals"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374303cb85f7ce9e949e08",
+      "correctAnswer": "Harare",
+      "incorrectAnswers": [
+        "Monrovia",
+        "Baku",
+        "Bulawayo"
+      ],
+      "question": {
+        "text": "What is the capital city of Zimbabwe?"
+      },
+      "tags": [
         "capital_cities",
-        "cities",
         "geography"
       ],
       "type": "text_choice",
@@ -27,102 +47,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950dd9",
-      "correctAnswer": "John Dos Passos",
-      "incorrectAnswers": [
-        "Robert Jordan",
-        "Philip K. Dick",
-        "Isabel Allende"
-      ],
-      "question": {
-        "text": "Which author wrote 'U.S.A.'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc5e",
-      "correctAnswer": "Ulotrichous",
-      "incorrectAnswers": [
-        "Conjubilant",
-        "Kakorrhaphiophobia",
-        "Sprunt"
-      ],
-      "question": {
-        "text": "Which word is defined as 'having wooly or crispy hair'?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950be6",
-      "correctAnswer": "Nightwish",
-      "incorrectAnswers": [
-        "Haloo Helsinki!",
-        "Hanoi Rocks",
-        "Children of Bodom"
-      ],
-      "question": {
-        "text": "Which Finnish symphonic metal band released the album 'Oceanborn'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "62506482e12f6dec240bdfb8",
-      "correctAnswer": "Edwyn Collins",
-      "incorrectAnswers": [
-        "The Waitresses",
-        "Rockwell",
-        "The Heights"
-      ],
-      "question": {
-        "text": "'A Girl Like You' was a one hit wonder in 1994 by which artist?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "sport_and_leisure",
-      "id": "62399eeb43254f1dbcdd082d",
-      "correctAnswer": "Brazil",
+      "id": "62417d1c0f96c4efe8d773a5",
+      "correctAnswer": "Edmonton Oilers",
       "incorrectAnswers": [
-        "France",
-        "Germany",
-        "Uruguay"
+        "Edmonton Steelers",
+        "Edmonton Eathquakes",
+        "Edmonton Padres"
       ],
       "question": {
-        "text": "Which country won the 1994 FIFA World Cup, hosted in United States?"
+        "text": "Which of these is a hockey team based in Edmonton?"
       },
       "tags": [
+        "canada",
+        "hockey",
+        "nhl",
         "sport"
       ],
       "type": "text_choice",
@@ -131,211 +70,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb0a",
-      "correctAnswer": "Susan Sarandon",
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd0d",
+      "correctAnswer": "John Locke",
       "incorrectAnswers": [
-        "Elisabeth Shue",
-        "Sharon Stone",
-        "Meryl Streep"
+        "Thomas Hobbes",
+        "Denis Diderot",
+        "Socrates"
       ],
       "question": {
-        "text": "Who won the 1995 Academy Award for Best Leading Actress for playing the role of Sister Helen Prejean in Dead Man Walking?"
+        "text": "Which philosopher famously said 'It is one thing to show a man that he is in error, and another to put him in possession of truth'?"
       },
       "tags": [
-        "film",
-        "academy_awards",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624db9ccde6018633d31f6a2",
-      "correctAnswer": "Roger Moore",
-      "incorrectAnswers": [
-        "Pierce Brosnan",
-        "Sean Connery",
-        "Daniel Craig"
-      ],
-      "question": {
-        "text": "Who played the role of James Bond in Octopussy?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6250648fe12f6dec240bdfbc",
-      "correctAnswer": "Maniac",
-      "incorrectAnswers": [
-        "Convoy",
-        "Just a Friend",
-        "Tainted Love"
-      ],
-      "question": {
-        "text": "What song did Michael Sembello have a hit with in 1983?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "645c9fc342ea81e2554c5f6b",
-      "correctAnswer": "1",
-      "incorrectAnswers": [
-        "Red",
-        "5",
-        "Black"
-      ],
-      "question": {
-        "text": "What is the highest level of readiness for the military when using the DEFCON system?"
-      },
-      "tags": [
-        "military"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6355b7e4e8b368eed3a68234",
-      "correctAnswer": "plosive",
-      "incorrectAnswers": [
-        "nasal",
-        "approximant",
-        "fricative"
-      ],
-      "question": {
-        "text": "In phonetics, the b in 'boat' is an example of what kind of sound?"
-      },
-      "tags": [
-        "language",
-        "linguistics",
-        "general_knowledge",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c397cc59eab6f950fb9",
-      "correctAnswer": "Clive Sinclair",
-      "incorrectAnswers": [
-        "Tim Berners Lee",
-        "Alan Sugar",
-        "Bill Gates"
-      ],
-      "question": {
-        "text": "Who Invented The ZX80, The First Widely Available Personal Computer?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "648614a2f773f09dc0193b39",
-      "correctAnswer": "Glaucoma",
-      "incorrectAnswers": [
-        "Cataracts",
-        "Myopia",
-        "Astigmatism"
-      ],
-      "question": {
-        "text": "What medical term is often caused by abnormally high fluid pressure in the eye?"
-      },
-      "tags": [
-        "medicine",
-        "ophthalmology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e9b",
-      "correctAnswer": "Franz Kafka",
-      "incorrectAnswers": [
-        "Émile Zola",
-        "Nathaniel Hawthorne",
-        "Leo Tolstoy"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Metamorphosis'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d5b",
-      "correctAnswer": "Oasis",
-      "incorrectAnswers": [
-        "Goldfrapp",
-        "Kaiser Chiefs",
-        "Jethro Tull"
-      ],
-      "question": {
-        "text": "Which band includes 'Liam Gallagher'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95059d",
-      "correctAnswer": "Aqueous vapors",
-      "incorrectAnswers": [
-        "Insects",
-        "The nervous system",
-        "Weather"
-      ],
-      "question": {
-        "text": "What is Atmology the study of?"
-      },
-      "tags": [
-        "science"
+        "philosophy",
+        "quotes",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -344,15 +93,297 @@
     },
     {
       "category": "food_and_drink",
-      "id": "624ab09f348a461bfc670689",
-      "correctAnswer": "Africa",
+      "id": "624ab07ac64ce21c11f06e9f",
+      "correctAnswer": "Central America",
       "incorrectAnswers": [
+        "China",
         "Central Asia",
-        "Southeast Asia",
-        "North America"
+        "Europe"
       ],
       "question": {
-        "text": "Where in the world are watermelons originally from?"
+        "text": "Where in the world are bell peppers originally from?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f9500c8",
+      "correctAnswer": "Five",
+      "incorrectAnswers": [
+        "Twelve",
+        "Two",
+        "Nine"
+      ],
+      "question": {
+        "text": "How Many Consecutive Wimbledon Titles Did Bjorn Borg Win?"
+      },
+      "tags": [
+        "sport",
+        "tennis",
+        "people"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f950157",
+      "correctAnswer": "Three Times",
+      "incorrectAnswers": [
+        "Once",
+        "No Times",
+        "Five Times"
+      ],
+      "question": {
+        "text": "How many times did Peter deny Jesus?"
+      },
+      "tags": [
+        "christianity",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950701",
+      "correctAnswer": "Sandra Bullock",
+      "incorrectAnswers": [
+        "Charlize Theron",
+        "Emma Thompson",
+        "Maggie Smith"
+      ],
+      "question": {
+        "text": "Which actress has featured in films including Crash and Speed?"
+      },
+      "tags": [
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62443777746187c5e7be9355",
+      "correctAnswer": "Hematite",
+      "incorrectAnswers": [
+        "Chloroform",
+        "Table Salt",
+        "Heavy water"
+      ],
+      "question": {
+        "text": "What is iron oxide commonly known as?"
+      },
+      "tags": [
+        "chemistry",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b58",
+      "correctAnswer": "Soundgarden",
+      "incorrectAnswers": [
+        "Evanescence",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
+      ],
+      "question": {
+        "text": "Which American rock band released the song 'Black Hole Sun'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950637",
+      "correctAnswer": "Terry Crews",
+      "incorrectAnswers": [
+        "Richard Harris",
+        "Anthony Quinn",
+        "Hugo Weaving"
+      ],
+      "question": {
+        "text": "Which actor has featured in films including Deadpool 2 and Terminator Salvation?"
+      },
+      "tags": [
+        "film_and_tv",
+        "film",
+        "acting"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcb5",
+      "correctAnswer": "Indo-European",
+      "incorrectAnswers": [
+        "Austroasiatic",
+        "Kra–Dai",
+        "Turkic"
+      ],
+      "question": {
+        "text": "The language 'Nepali' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd68adc0dd3b72da64cf8",
+      "correctAnswer": "1991",
+      "incorrectAnswers": [
+        "1987",
+        "1995",
+        "1999"
+      ],
+      "question": {
+        "text": "Terminator 2: Judgment Day was released in which year?"
+      },
+      "tags": [
+        "film",
+        "cult_films",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62c2f9fcb3eadb0437fda6b7",
+      "correctAnswer": "Linux",
+      "incorrectAnswers": [
+        "Qantas",
+        "Playboy",
+        "Bacardi"
+      ],
+      "question": {
+        "text": "Which of these brands has a penguin on its logo?"
+      },
+      "tags": [
+        "society_and_culture",
+        "business",
+        "marketing",
+        "animals"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6463394601d576cfac3aa32e",
+      "correctAnswer": "Cranberry juice",
+      "incorrectAnswers": [
+        "Pomegranate juice",
+        "Cherry juice",
+        "Raspberry juice"
+      ],
+      "question": {
+        "text": "What juice makes a Cape Cod cocktail red?"
+      },
+      "tags": [
+        "cocktails",
+        "alcohol",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "63dd25e1742e43ed64f1f03d",
+      "correctAnswer": "Dick Solomon",
+      "incorrectAnswers": [
+        "Sammy Jakes",
+        "Harry Thompson",
+        "Tommy Defoe"
+      ],
+      "question": {
+        "text": "What is the name of the character played by John Lithgow on the show '3rd Rock From the Sun'?"
+      },
+      "tags": [
+        "film_and_tv",
+        "tv",
+        "sitcoms"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "647edb8d520523194910c344",
+      "correctAnswer": "Autobahn",
+      "incorrectAnswers": [
+        "Bundestrasse",
+        "Reichstag",
+        "Schwartzkopf"
+      ],
+      "question": {
+        "text": "What word is used for Germany's main highways?"
+      },
+      "tags": [
+        "roads",
+        "germany",
+        "words",
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502d6",
+      "correctAnswer": "Sherry ",
+      "incorrectAnswers": [
+        "Ginger",
+        "Tomatoes",
+        "Bread"
+      ],
+      "question": {
+        "text": "What would you use the solera process on?"
       },
       "tags": [
         "food_and_drink"
@@ -363,62 +394,20 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95034b",
-      "correctAnswer": "Rommel",
-      "incorrectAnswers": [
-        "MacArthur",
-        "Montgomery",
-        "Zhukov"
-      ],
-      "question": {
-        "text": "Which WWII general was nicknamed 'The Desert Fox'?"
-      },
-      "tags": [
-        "world_war_2",
-        "people",
-        "wars",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374149cb85f7ce9e949d56",
-      "correctAnswer": "Male",
-      "incorrectAnswers": [
-        "Asunción",
-        "Nicosia",
-        "Dodoma"
-      ],
-      "question": {
-        "text": "What is the capital city of Maldives?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f977",
-      "correctAnswer": "The Swimmer",
+      "id": "6477bb1e550bc819ad646b76",
+      "correctAnswer": "Fauvist",
       "incorrectAnswers": [
-        "The English Patient",
-        "Portrait of the Artist as a Young Man",
-        "Nine Stories"
+        "Impressionist",
+        "Cubist",
+        "Surrealist"
       ],
       "question": {
-        "text": "Which book contains the character 'Neddy Merrill'?"
+        "text": "What art movement was Maurice de Vlaminck part of, known for its bold use of color?"
       },
       "tags": [
-        "literature",
+        "painting",
+        "art",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -427,167 +416,20 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "65056f097a97013de78b53b8",
-      "correctAnswer": "15",
+      "category": "society_and_culture",
+      "id": "64824df37778562fd76a95e9",
+      "correctAnswer": "A Cardigan",
       "incorrectAnswers": [
-        "20",
-        "25",
-        "30"
+        "A Turtleneck",
+        "A Hoodie",
+        "A V-Neck"
       ],
       "question": {
-        "text": "How many red balls are there in a game of snooker?"
+        "text": "What is the name of the long-sleeve sweater that buttons in front?"
       },
       "tags": [
-        "sport_and_leisure",
-        "snooker"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f1a",
-      "correctAnswer": "Alice Munro",
-      "incorrectAnswers": [
-        "Ivan Turgenev",
-        "E. T. A. Hoffmann",
-        "Alphonse Daudet"
-      ],
-      "question": {
-        "text": "Which author wrote 'Lying Under the Apple Tree'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3d7cc59eab6f951c5d",
-      "correctAnswer": "50 Pence",
-      "incorrectAnswers": [
-        "£2",
-        "20 Pence",
-        "15 Pence"
-      ],
-      "question": {
-        "text": "In 1968 Which British Coin Was Introduced To Replace The Ten Shilling Note?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f9509e6",
-      "correctAnswer": "Italy",
-      "incorrectAnswers": [
-        "San Marino",
-        "Bosnia and Herzegovina",
-        "Czech Republic"
-      ],
-      "question": {
-        "text": "Which of these countries borders Slovenia?"
-      },
-      "tags": [
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3d7cc59eab6f951c80",
-      "correctAnswer": "Kojak",
-      "incorrectAnswers": [
-        "Shaft",
-        "Coffy",
-        "Black Belt Jones"
-      ],
-      "question": {
-        "text": "'Who loves ya, baby?' was the catchphrase of which 70s TV sleuth?"
-      },
-      "tags": [
-        "quotes",
-        "tv",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "62506407e12f6dec240bdf94",
-      "correctAnswer": "Buster Poindexter",
-      "incorrectAnswers": [
-        "Bow Wow Wow",
-        "Crash Test Dummies",
-        "Andrea True Connection"
-      ],
-      "question": {
-        "text": "'Hot, Hot, Hot' was a one hit wonder in 1987 by which artist?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950cce",
-      "correctAnswer": "Queen",
-      "incorrectAnswers": [
-        "Level 42",
-        "Deep Purple",
-        "Feeder"
-      ],
-      "question": {
-        "text": "Which British rock band (1970-) released the studio album 'News of the World'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "64f6d9bd660c3a8d960101f4",
-      "correctAnswer": "Rodney King",
-      "incorrectAnswers": [
-        "O.J. Simpson",
-        "Reginald Denny",
-        "Michael Brown"
-      ],
-      "question": {
-        "text": "In 1991, there was outrage after the LAPD's notorious encounter with which man was caught on video?"
-      },
-      "tags": [
-        "usa",
-        "history",
-        "1990's",
+        "clothing",
+        "fashion",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -597,19 +439,192 @@
     },
     {
       "category": "history",
-      "id": "622a1c367cc59eab6f950349",
-      "correctAnswer": "Stanley Baldwin",
+      "id": "62611fab4b176d54800e3d69",
+      "correctAnswer": "1943",
       "incorrectAnswers": [
-        "Anthony Eden",
-        "Winston Churchill",
-        "Bonar Law"
+        "1911",
+        "1968",
+        "1924"
       ],
       "question": {
-        "text": "Who Was Prime Minister When King Edward VIII Abdicated?"
+        "text": "When was the first dialysis machine created?"
       },
       "tags": [
-        "leaders",
-        "uk",
+        "events",
+        "firsts",
+        "medicine"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "649b45ba828109028d236240",
+      "correctAnswer": "Anger",
+      "incorrectAnswers": [
+        "Happiness",
+        "Sadness",
+        "Fear"
+      ],
+      "question": {
+        "text": "If your dander is up, what emotion are you feeling?"
+      },
+      "tags": [
+        "phrases"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f9522d9",
+      "correctAnswer": "Sperm Whale",
+      "incorrectAnswers": [
+        "Anaconda",
+        "Silverback Gorilla",
+        "Tortoise"
+      ],
+      "question": {
+        "text": "From what animal is ambergris obtained?"
+      },
+      "tags": [
+        "biology",
+        "science",
+        "animals"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611f414b176d54800e3d4c",
+      "correctAnswer": "1960",
+      "incorrectAnswers": [
+        "1941",
+        "1980",
+        "1971"
+      ],
+      "question": {
+        "text": "In which year did Sirimavo Bandaranaike make history as the first woman elected head of a government?"
+      },
+      "tags": [
+        "events",
+        "firsts",
+        "politics",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fdb3",
+      "correctAnswer": "Aaron",
+      "incorrectAnswers": [
+        "Andrew",
+        "Brian",
+        "Andy"
+      ],
+      "question": {
+        "text": "What Is Elvis Presleys Middle Name?"
+      },
+      "tags": [
+        "people",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fedd",
+      "correctAnswer": "Mariah Carey",
+      "incorrectAnswers": [
+        "Drake",
+        "Nicki Minaj",
+        "Madonna"
+      ],
+      "question": {
+        "text": "Which American singer released the album 'Music Box'?"
+      },
+      "tags": [
+        "music_albums",
+        "musicians",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6243351dcfaae40c12961487",
+      "correctAnswer": "A Doe",
+      "incorrectAnswers": [
+        "A Gander",
+        "A Hen",
+        "A Soar"
+      ],
+      "question": {
+        "text": "What would you call a female rat?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611fb24b176d54800e3d6a",
+      "correctAnswer": "1973",
+      "incorrectAnswers": [
+        "1963",
+        "1949",
+        "1984"
+      ],
+      "question": {
+        "text": "When was the first mobile phone conversation?"
+      },
+      "tags": [
+        "events",
+        "firsts",
+        "technology",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503a9",
+      "correctAnswer": "Yom Kippur war",
+      "incorrectAnswers": [
+        "The Wailing War",
+        "The Khartoum War",
+        "The Hezbollah War"
+      ],
+      "question": {
+        "text": "Which famous Arab / Israeli war took place in 1973?"
+      },
+      "tags": [
+        "wars",
+        "politics",
         "history"
       ],
       "type": "text_choice",
@@ -619,20 +634,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "647638d1f05ea6d6f587a152",
-      "correctAnswer": "Animal House",
+      "id": "625fd6a2dc0dd3b72da64cff",
+      "correctAnswer": "1979",
       "incorrectAnswers": [
-        "The Breakfast Club",
-        "Fast Times at Ridgemont High",
-        "The Karate Kid"
+        "1974",
+        "1984",
+        "1989"
       ],
       "question": {
-        "text": "Which 1978 movie features the line 'It was the Deltas against the rules... the rules lost!'?"
+        "text": "In which year was Alien first released in the cinema?"
       },
       "tags": [
         "film",
-        "film_and_tv",
-        "film_quotes"
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
