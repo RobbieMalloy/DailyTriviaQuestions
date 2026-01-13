@@ -1,23 +1,21 @@
 {
-  "gameDate": "2026-01-12",
+  "gameDate": "2026-01-13",
   "difficulty": "medium",
   "results": [
     {
-      "category": "general_knowledge",
-      "id": "622a1c3e7cc59eab6f9522a2",
-      "correctAnswer": "24",
+      "category": "science",
+      "id": "622a1c3c7cc59eab6f951935",
+      "correctAnswer": "Radio Carbon Dating",
       "incorrectAnswers": [
-        "12",
-        "30",
-        "365"
+        "Olfactory Dating",
+        "Magnetic Resonance Dating",
+        "Natural Decayance Dating"
       ],
       "question": {
-        "text": "How many days will it be before an analogue clock losing 30 minutes a day shows the right time again?"
+        "text": "What Process Is Used For Dating Ancient Organic Objects?"
       },
       "tags": [
-        "mathematics",
-        "numbers",
-        "general_knowledge"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -25,88 +23,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "63b0586b4799123c67712f23",
-      "correctAnswer": "Ganges",
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951c40",
+      "correctAnswer": "The Red Baron",
       "incorrectAnswers": [
-        "Godavari",
-        "Krishna",
-        "Yamuna"
+        "The Blue Baron",
+        "The Yellow Baron",
+        "The Black Baron"
       ],
       "question": {
-        "text": "Which is the longest river in India? (not including length in other countries)"
+        "text": "By what name was Baron Manfred von Richthofen better known?"
       },
       "tags": [
-        "india",
-        "rivers",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3c7cc59eab6f95195e",
-      "correctAnswer": "Bob Cratchit",
-      "incorrectAnswers": [
-        "Billy Catchit",
-        "Norman Patchit",
-        "Gregory Snatchit"
-      ],
-      "question": {
-        "text": "What is the name of Tiny Tim's father in the story, 'A Christmas Carol'?"
-      },
-      "tags": [
-        "christmas",
-        "literature",
-        "classic_novels",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64bee2e595a7194220973958",
-      "correctAnswer": "The pith",
-      "incorrectAnswers": [
-        "The pulp",
-        "The skin",
-        "The zest"
-      ],
-      "question": {
-        "text": "What is the term that refers to the white substance between the peel and flesh of an orange?"
-      },
-      "tags": [
-        "fruit",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740e59da29df7b05f7400",
-      "correctAnswer": "Fargo",
-      "incorrectAnswers": [
-        "12 Years a Slave",
-        "Rear Window",
-        "A Beautiful Mind"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A car salesman's inept crime falls apart due to his and his henchmen's bungling.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -115,19 +44,20 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f950ffc",
-      "correctAnswer": "Cirrhosis",
+      "id": "647a126555463d5ce2994feb",
+      "correctAnswer": "Parkinson's",
       "incorrectAnswers": [
-        "Hepatitis",
-        "Scurvy",
-        "Meningitis"
+        "Multiple Sclerosis",
+        "ALS",
+        "Alzheimer's"
       ],
       "question": {
-        "text": "Which Disease Of The Liver Is Associated With Alcoholism?"
+        "text": "Which disease causes tremors, and is often treated with hand exercises to improve motor skills?"
       },
       "tags": [
+        "disease",
         "medicine",
-        "biology",
+        "diseases",
         "science"
       ],
       "type": "text_choice",
@@ -136,469 +66,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62374278cb85f7ce9e949dd0",
-      "correctAnswer": "Stockholm",
-      "incorrectAnswers": [
-        "Monrovia",
-        "Helsinki",
-        "Oslo"
-      ],
-      "question": {
-        "text": "What is the capital city of Sweden?"
-      },
-      "tags": [
-        "europe",
-        "capital_cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9517af",
-      "correctAnswer": "Napoleon",
-      "incorrectAnswers": [
-        "Charlemagne",
-        "De Gaulle",
-        "Joan of Arc"
-      ],
-      "question": {
-        "text": "Which French Ruler Was Finally Defeated In 1815?"
-      },
-      "tags": [
-        "france",
-        "wars",
-        "people",
-        "leaders",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "646089a9de964ebc39016c71",
-      "correctAnswer": "Botticelli",
-      "incorrectAnswers": [
-        "Michelangelo",
-        "Leonardo da Vinci",
-        "Raphael"
-      ],
-      "question": {
-        "text": "Which Italian artist shocked 1485 Florence with his large nude painting of the birth of a goddess?"
-      },
-      "tags": [
-        "painting",
-        "renaissance",
-        "art",
-        "arts_and_literature",
-        "1400's"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6477bad7550bc819ad646b2b",
-      "correctAnswer": "Morocco",
-      "incorrectAnswers": [
-        "Egypt",
-        "Tunisia",
-        "Libya"
-      ],
-      "question": {
-        "text": "Which country is separated from Spain by the Strait of Gibraltar?"
-      },
-      "tags": [
-        "straits",
-        "countries",
-        "geography",
-        "africa",
-        "spain",
-        "mediterranean",
-        "bodies_of_water"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602e884b176d54800e3ce2",
-      "correctAnswer": "Odense",
-      "incorrectAnswers": [
-        "Barcelona",
-        "Oslo",
-        "Helsinki"
-      ],
-      "question": {
-        "text": "Which of these cities is in Denmark?"
-      },
-      "tags": [
-        "cities",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fad1",
-      "correctAnswer": "Denzel Washington",
-      "incorrectAnswers": [
-        "Russell Crowe",
-        "Sean Penn",
-        "Will Smith"
-      ],
-      "question": {
-        "text": "Who won the 2001 Academy Award for Best Leading Actor for playing the role of Alonzo in Training Day?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "academy_awards",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951aeb",
-      "correctAnswer": "12",
-      "incorrectAnswers": [
-        "10",
-        "13",
-        "11"
-      ],
-      "question": {
-        "text": "Introduced in 46 BC by Julius Caesar, how many months was the Julian calendar divided into?"
-      },
-      "tags": [
-        "romans",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95078d",
-      "correctAnswer": "Gary Oldman",
-      "incorrectAnswers": [
-        "James Franco",
-        "George Clooney",
-        "Laurence Fishburne"
-      ],
-      "question": {
-        "text": "Which actor has featured in films including The Dark Knight and Harry Potter?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "64974e400752843c0d8aadaf",
-      "correctAnswer": "Nepal",
-      "incorrectAnswers": [
-        "Sri Lanka",
-        "Bangladesh",
-        "Pakistan"
-      ],
-      "question": {
-        "text": "Which country is surrounded by India on three sides and China to the north?"
-      },
-      "tags": [
-        "borders",
-        "asia",
-        "india",
-        "china",
-        "countries",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951021",
-      "correctAnswer": "Carnivorous",
-      "incorrectAnswers": [
-        "Trap",
-        "Pitcher",
-        "Belljar"
-      ],
-      "question": {
-        "text": "What is the term for the group of plants that catch and digest insects?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c605150d1a5e051325a52",
-      "correctAnswer": "Australia",
-      "incorrectAnswers": [
-        "Singapore",
-        "Uzbekistan",
-        "Russia"
-      ],
-      "question": {
-        "text": "Meat Pie is a dish that is most associated with which part of the world?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbee",
-      "correctAnswer": "\"Nobody puts Baby in a corner.\"",
-      "incorrectAnswers": [
-        "\"What’s the most you ever lost on a coin toss?\"",
-        "\"I am a golden god!\"",
-        "\"Toto, I've a feeling we're not in Kansas anymore.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Dirty Dancing'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "647207af3bbb58c31f411c5e",
-      "correctAnswer": "Seinfeld",
-      "incorrectAnswers": [
-        "Friends",
-        "The Big Bang Theory",
-        "The Simpsons"
-      ],
-      "question": {
-        "text": "What is the name of the sitcom that introduced the holiday tradition of \"Festivus\"?"
-      },
-      "tags": [
-        "christmas",
-        "sitcoms",
-        "film_and_tv",
-        "tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a98",
-      "correctAnswer": "Alaska",
-      "incorrectAnswers": [
-        "Oregon",
-        "Idaho",
-        "Florida"
-      ],
-      "question": {
-        "text": "On the 3rd January 1959 which state became America's 49th?"
-      },
-      "tags": [
-        "1950's",
-        "usa",
-        "us_states",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc98",
-      "correctAnswer": "Argle-bargle",
-      "incorrectAnswers": [
-        "Quomodocunquizing",
-        "Valetudinarian",
-        "Agastopia"
-      ],
-      "question": {
-        "text": "Which word is defined as 'copious but meaningless talk or writing'?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950095",
-      "correctAnswer": "Flushing Meadows",
-      "incorrectAnswers": [
-        "Newport Casino",
-        "Orange Tennis Club",
-        "Philadelphia Cricket Club"
-      ],
-      "question": {
-        "text": "The US Tennis Open takes place at which venue?"
-      },
-      "tags": [
-        "tennis",
-        "sport",
-        "places"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63b0586b4799123c67712f24",
-      "correctAnswer": "Peso",
-      "incorrectAnswers": [
-        "Euro",
-        "Dollar",
-        "Rand"
-      ],
-      "question": {
-        "text": "What is the Mexican currency called?"
-      },
-      "tags": [
-        "mexico",
-        "currency",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233881e0161109f922aac68",
-      "correctAnswer": "Persian Gulf ",
-      "incorrectAnswers": [
-        "Saudi Gulf",
-        "Gulf of Yemen",
-        "Tehran Gulf"
-      ],
-      "question": {
-        "text": "Which Gulf Lies Between Iran And Saudi Arabia?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fe68",
-      "correctAnswer": "Britney Spears",
+      "id": "647c9856f89e0968cfbc1a3a",
+      "correctAnswer": "The Carpenters",
       "incorrectAnswers": [
-        "Madonna",
-        "Alanis Morissette",
-        "Nicki Minaj"
+        "The White Stripes",
+        "Sonny & Cher",
+        "Salt-N-Pepa"
       ],
       "question": {
-        "text": "Which American singer, songwriter, dancer and actress released the song '(You Drive Me) Crazy'?"
+        "text": "Which music had a hit with a song containing the lyrics \"Just like me, they long to be close to you\"?"
       },
       "tags": [
-        "songs",
-        "musicians",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6477ba9d550bc819ad646aea",
-      "correctAnswer": "Sunny",
-      "incorrectAnswers": [
-        "Rainy",
-        "Cloudy",
-        "Stormy"
-      ],
-      "question": {
-        "text": "What adjective completes the TV show title, \"It's Always ____ in Philadelphia\"?"
-      },
-      "tags": [
-        "tv",
-        "film_and_tv",
-        "sitcoms",
-        "comedy"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6471299f64c916f9c84814ab",
-      "correctAnswer": "Bang bang",
-      "incorrectAnswers": [
-        "Yeah yeah",
-        "Hey hey",
-        "Go go"
-      ],
-      "question": {
-        "text": "What two-word musical exclamation is used by The Beatles before \"Maxwell's Silver Hammer\" comes down on various heads?"
-      },
-      "tags": [
-        "songs",
-        "the_beatles",
         "music",
+        "songs",
         "lyrics"
       ],
       "type": "text_choice",
@@ -607,41 +88,23 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3b7cc59eab6f9513b8",
-      "correctAnswer": "Little Women",
+      "category": "food_and_drink",
+      "id": "64e6fd220b79e5bedd55c84c",
+      "correctAnswer": "Kobe",
       "incorrectAnswers": [
-        "Buddenbrooks",
-        "David Copperfield",
-        "Jane Eyre"
+        "Wagyu",
+        "Sashimi",
+        "Sushi"
       ],
       "question": {
-        "text": "In which book does 'Mr. March' appear?"
+        "text": "What type of highly prized Japanese beef comes from cows that are massaged and fed beer?"
       },
       "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fda4",
-      "correctAnswer": "Kenny Rogers & Dolly Parton",
-      "incorrectAnswers": [
-        "Sonny and Cher",
-        "Michael and Janet Jackson",
-        "Bob Dylan and Joan Baez"
-      ],
-      "question": {
-        "text": "Which Duo Had A Hit With The Song \"Islands In The Stream\"?"
-      },
-      "tags": [
-        "musicians",
-        "songs",
-        "music"
+        "cuisine",
+        "japan",
+        "food",
+        "food_and_drink",
+        "meat"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -650,22 +113,528 @@
     },
     {
       "category": "geography",
-      "id": "64fb5b33717513cb7919040a",
-      "correctAnswer": "Niagara Falls",
+      "id": "645cb12a602ff42ca52fb42f",
+      "correctAnswer": "A glacier",
       "incorrectAnswers": [
-        "Grand Canyon",
-        "Great Barrier Reef",
-        "Mount Everest"
+        "A river",
+        "An earthquake",
+        "A tornado"
       ],
       "question": {
-        "text": "Which landmark is often viewed from Goat Island?"
+        "text": "What phenomenon is responsible for Minnesota's 10,000 lakes?"
       },
       "tags": [
-        "natural_wonders",
-        "geography",
-        "islands",
-        "tourism",
-        "travel"
+        "geology",
+        "us_states",
+        "lakes",
+        "bodies_of_water"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3b7cc59eab6f951788",
+      "correctAnswer": "Merlin",
+      "incorrectAnswers": [
+        "Gandalf",
+        "Dumbledore",
+        "Gadzook"
+      ],
+      "question": {
+        "text": "Which magician was an advisor to King Arthur?"
+      },
+      "tags": [
+        "uk",
+        "mythology",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f95101c",
+      "correctAnswer": "A Monkey",
+      "incorrectAnswers": [
+        "A Bird",
+        "A Rodent",
+        "A Marsupial"
+      ],
+      "question": {
+        "text": "What Kind Of Animal Is A Marmoset?"
+      },
+      "tags": [
+        "animals"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "645c9f8f42ea81e2554c5f4d",
+      "correctAnswer": "regression",
+      "incorrectAnswers": [
+        "repression",
+        "dissociation",
+        "projection"
+      ],
+      "question": {
+        "text": "Which term in psychology refers to the process of reverting to an earlier, childlike form of behavior?"
+      },
+      "tags": [
+        "psychology",
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9506f9",
+      "correctAnswer": "Matthew McConaughey",
+      "incorrectAnswers": [
+        "Ryan Reynolds",
+        "Jim Carrey",
+        "Hugh Jackman"
+      ],
+      "question": {
+        "text": "Which actor has played prominent roles in films including The Wolf of Wall Street and Dallas Buyers Club?"
+      },
+      "tags": [
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951b4e",
+      "correctAnswer": "1842",
+      "incorrectAnswers": [
+        "1997",
+        "1945",
+        "1891"
+      ],
+      "question": {
+        "text": "In What Year Did Great Britain Gain Control Of Hong Hong?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c606250d1a5e051325a57",
+      "correctAnswer": "Canada",
+      "incorrectAnswers": [
+        "Vietnam",
+        "Ecuador",
+        "France"
+      ],
+      "question": {
+        "text": "Poutine is a dish that is most associated with which part of the world?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950755",
+      "correctAnswer": "Jack Nicholson",
+      "incorrectAnswers": [
+        "Dwayne Johnson",
+        "Shah Rukh Khan",
+        "Gérard Depardieu"
+      ],
+      "question": {
+        "text": "Which actor has starred in films including One Flew Over the Cuckoo's Nest and The Departed?"
+      },
+      "tags": [
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "647f9df73a4302a71927169a",
+      "correctAnswer": "Lye",
+      "incorrectAnswers": [
+        "Rye",
+        "Bye",
+        "Dye"
+      ],
+      "question": {
+        "text": "What is the name of the strong alkaline solution frequently used in soap making and drain cleaning?"
+      },
+      "tags": [
+        "chemistry",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951085",
+      "correctAnswer": "Ballistics",
+      "incorrectAnswers": [
+        "Kinetics",
+        "Kinesics",
+        "Trajectics"
+      ],
+      "question": {
+        "text": "Which science deals with the motion of projectiles? "
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b99",
+      "correctAnswer": "Weezer",
+      "incorrectAnswers": [
+        "LMFAO",
+        "Static-X",
+        "The Black Keys"
+      ],
+      "question": {
+        "text": "Which alternative rock band from the United States released the studio album 'Pinkerton'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ebaf7f41d6338b96eeb8",
+      "correctAnswer": "Mathematician and scientist.",
+      "incorrectAnswers": [
+        "Victorian novelist.",
+        "The first sailor to circumnavigate the earth.",
+        "Surgeon who pioneered the use of sterilisation and antiseptic."
+      ],
+      "question": {
+        "text": "Which of the following describes Isaac Newton?"
+      },
+      "tags": [
+        "people",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503ce",
+      "correctAnswer": "Falkland Islands",
+      "incorrectAnswers": [
+        "Gold",
+        "Nuclear Weapons",
+        "Industrial Sabotage"
+      ],
+      "question": {
+        "text": "What was the war between Argentina and Great Britan over?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f95007f",
+      "correctAnswer": "Baseball",
+      "incorrectAnswers": [
+        "Basketball",
+        "Football",
+        "Soccer"
+      ],
+      "question": {
+        "text": "What sport is played at Wrigley Field in Chicago?"
+      },
+      "tags": [
+        "sport",
+        "chicago",
+        "usa"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "648889175dba6c873ef650d6",
+      "correctAnswer": "A raconteur",
+      "incorrectAnswers": [
+        "A troubadour",
+        "A dilettante",
+        "A bard"
+      ],
+      "question": {
+        "text": "What term for someone who tells stories and anecdotes with skill and wit?"
+      },
+      "tags": [
+        "words",
+        "language"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c397cc59eab6f950fc0",
+      "correctAnswer": "Laslo Biro",
+      "incorrectAnswers": [
+        "Franz Bic",
+        "Henry Sheaffer",
+        "Pièrre Montblanc"
+      ],
+      "question": {
+        "text": "Who invented the ballpoint pen?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "626030b14b176d54800e3d37",
+      "correctAnswer": "Algeria",
+      "incorrectAnswers": [
+        "Cameroon",
+        "Democratic Republic of the Congo",
+        "Senegal"
+      ],
+      "question": {
+        "text": "Where would you find the city of Algiers?"
+      },
+      "tags": [
+        "cities",
+        "africa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bb9",
+      "correctAnswer": "The Kinks",
+      "incorrectAnswers": [
+        "Deep Purple",
+        "Snow Patrol",
+        "Lostprophets"
+      ],
+      "question": {
+        "text": "Which English rock band released the song 'You Really Got Me'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f95008c",
+      "correctAnswer": "300",
+      "incorrectAnswers": [
+        "200",
+        "330",
+        "240"
+      ],
+      "question": {
+        "text": "What is the 'perfect score' in a game of Ten Pin Bowling?"
+      },
+      "tags": [
+        "games",
+        "numbers",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6488dead50a27f7378a91dd2",
+      "correctAnswer": "Pakistan",
+      "incorrectAnswers": [
+        "Iran",
+        "Sri Lanka",
+        "Nepal"
+      ],
+      "question": {
+        "text": "Which country is located between Afghanistan and India?"
+      },
+      "tags": [
+        "borders",
+        "countries",
+        "asia",
+        "india"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "645b69d8f09106226db23568",
+      "correctAnswer": "Moby Dick",
+      "incorrectAnswers": [
+        "The Old Man and the Sea",
+        "20,000 Leagues Under the Sea",
+        "The Sea-Wolf"
+      ],
+      "question": {
+        "text": "Which novel tells the story of Ishmael, who goes to work on a whaler after feeling 'a damp, drizzly November' in his soul?"
+      },
+      "tags": [
+        "novels",
+        "literature",
+        "arts_and_literature",
+        "classic_novels"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fa66",
+      "correctAnswer": "Javier Bardem",
+      "incorrectAnswers": [
+        "Casey Affleck",
+        "Philip Seymour Hoffman",
+        "Hal Holbrook"
+      ],
+      "question": {
+        "text": "Who won the 2007 Academy Award for Best Supporting Actor for playing the role of Anton Chigurh in No Country for Old Men?"
+      },
+      "tags": [
+        "academy_awards",
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "647f9def3a4302a71927168f",
+      "correctAnswer": "Edward",
+      "incorrectAnswers": [
+        "Arthur",
+        "William",
+        "Henry"
+      ],
+      "question": {
+        "text": "What is the first name of the composer Elgar, who wrote the famous piece known as 'Pomp and Circumstance'?"
+      },
+      "tags": [
+        "composers",
+        "music",
+        "people",
+        "classical_music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950253",
+      "correctAnswer": "Absinthe ",
+      "incorrectAnswers": [
+        "Gin",
+        "Port",
+        "Whisky"
+      ],
+      "question": {
+        "text": "Which drink, which has been illegal but is being imported once again, is made from the leaves of the wormwood plant?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "639898545c9a75021f31047a",
+      "correctAnswer": "Red wine",
+      "incorrectAnswers": [
+        "Brandy",
+        "Port",
+        "Beer"
+      ],
+      "question": {
+        "text": "What type of alcohol is traditionally used in the French dish 'Coq au Vin'?"
+      },
+      "tags": [
+        "food_and_drink",
+        "drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",

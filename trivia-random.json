@@ -1,22 +1,88 @@
 {
-  "gameDate": "2026-01-12",
+  "gameDate": "2026-01-13",
   "difficulty": "random",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe9e",
-      "correctAnswer": "Rihanna",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa50",
+      "correctAnswer": "Surrealism",
       "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Ricky Martin"
+        "Dutch and Flemish Renaissance",
+        "Crystal Cubism",
+        "post-impressionism"
       ],
       "question": {
-        "text": "Which singer released the studio album 'Loud'?"
+        "text": "The painting \"The Persistence of Memory\" by ‎Salvador Dalí is a part of which art movement?"
       },
       "tags": [
-        "music_albums",
-        "musicians",
+        "painting",
+        "art",
+        "general_knowledge",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f95073d",
+      "correctAnswer": "Danny DeVito",
+      "incorrectAnswers": [
+        "Ben Kingsley",
+        "Michael Douglas",
+        "Kiefer Sutherland"
+      ],
+      "question": {
+        "text": "Which actor has starred in films including One Flew Over the Cuckoo's Nest and Batman Returns?"
+      },
+      "tags": [
+        "film_and_tv",
+        "acting",
+        "film"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "647c9856f89e0968cfbc1a38",
+      "correctAnswer": "Oldsmobile",
+      "incorrectAnswers": [
+        "Chevrolet",
+        "Ford",
+        "Nissan"
+      ],
+      "question": {
+        "text": "Which car model made the Cutlass Ciera?"
+      },
+      "tags": [
+        "brands",
+        "motoring",
+        "cars",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950ba2",
+      "correctAnswer": "Weezer",
+      "incorrectAnswers": [
+        "LMFAO",
+        "Static-X",
+        "The Black Keys"
+      ],
+      "question": {
+        "text": "Which alternative rock band from the United States released the studio album 'Everything Will Be Alright in the End'?"
+      },
+      "tags": [
         "music"
       ],
       "type": "text_choice",
@@ -25,19 +91,191 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f95100b",
-      "correctAnswer": "Supermarine",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e73",
+      "correctAnswer": "C. S. Lewis",
       "incorrectAnswers": [
-        "Boeing",
-        "British Aerospace",
-        "Rolls Royce"
+        "Neil Gaiman",
+        "Jack Vance",
+        "Douglas Adams"
       ],
       "question": {
-        "text": "Which Aircraft Manufactuer Produced The Spitfire? "
+        "text": "Which author wrote 'The Lion, the Witch, and the Wardrobe'?"
+      },
+      "tags": [
+        "literature",
+        "people",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "63a0396fc7d86251f9b65c58",
+      "correctAnswer": "Scamp",
+      "incorrectAnswers": [
+        "Sparky",
+        "Max",
+        "Bolt"
+      ],
+      "question": {
+        "text": "What is the name of the dog in the movie Lady and the Tramp?"
+      },
+      "tags": [
+        "film_and_tv",
+        "disney",
+        "film",
+        "animals",
+        "dogs"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950dad",
+      "correctAnswer": "U2",
+      "incorrectAnswers": [
+        "The Ramones",
+        "The Script",
+        "The Cure"
+      ],
+      "question": {
+        "text": "Which band has Bono as its lead singer?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950554",
+      "correctAnswer": "is concerned with earth materials that can be utilized for economic and/or industrial purposes",
+      "incorrectAnswers": [
+        "the structure of cells",
+        "bryophytes",
+        "fossils of ancient life"
+      ],
+      "question": {
+        "text": "What is Economic geology the study of?"
       },
       "tags": [
         "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e13",
+      "correctAnswer": "Mario Puzo",
+      "incorrectAnswers": [
+        "Edgar Allan Poe",
+        "Stephen King",
+        "Dan Brown"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Godfather'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f951635",
+      "correctAnswer": "Bread",
+      "incorrectAnswers": [
+        "Cheese",
+        "Fruit",
+        "Nut"
+      ],
+      "question": {
+        "text": " What type of food is pitta?"
+      },
+      "tags": [
+        "food",
+        "general_knowledge",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056e5b7a97013de78b52c5",
+      "correctAnswer": "Manhattan Project",
+      "incorrectAnswers": [
+        "Operation Overlord",
+        "Operation Paperclip",
+        "Operation Downfall"
+      ],
+      "question": {
+        "text": "Which project developed the first atomic bombs during World War II?"
+      },
+      "tags": [
+        "history",
+        "WWII",
+        "military"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237413dcb85f7ce9e949d51",
+      "correctAnswer": "Malawi",
+      "incorrectAnswers": [
+        "Bahrain",
+        "France",
+        "Mauritius"
+      ],
+      "question": {
+        "text": "Lilongwe is the capital city of which country?"
+      },
+      "tags": [
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcb5",
+      "correctAnswer": "Indo-European",
+      "incorrectAnswers": [
+        "Austroasiatic",
+        "Kra–Dai",
+        "Turkic"
+      ],
+      "question": {
+        "text": "The language 'Nepali' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -46,18 +284,194 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506f4",
-      "correctAnswer": "Jim Carrey",
+      "id": "622a1c377cc59eab6f9507b0",
+      "correctAnswer": "Robin Williams",
       "incorrectAnswers": [
-        "Gerard Butler",
-        "Hugh Jackman",
-        "Michael Fassbender"
+        "Eddie Murphy",
+        "Jim Carrey",
+        "Will Ferrell"
       ],
       "question": {
-        "text": "Which actor has played roles in films including Batman Forever and The Mask?"
+        "text": "Which actor's credits included Happy Days and Mork & Mindy?"
       },
       "tags": [
+        "film",
         "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9dc4796f721e95543f2b",
+      "correctAnswer": "Red",
+      "incorrectAnswers": [
+        "Yellow",
+        "Orange",
+        "Black"
+      ],
+      "question": {
+        "text": "Which of these colors would you find on the flag of Austria?"
+      },
+      "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "626030654b176d54800e3d21",
+      "correctAnswer": "Guimaraes",
+      "incorrectAnswers": [
+        "The Hague",
+        "Budapest",
+        "Milan"
+      ],
+      "question": {
+        "text": "Which of these cities is in Portugal?"
+      },
+      "tags": [
+        "cities",
+        "europe",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6242e84c8c2538f9601d2f9c",
+      "correctAnswer": "The Bluebirds",
+      "incorrectAnswers": [
+        "Cottagers",
+        "The Tykes",
+        "Wolves"
+      ],
+      "question": {
+        "text": "What is the nickname of the English football team Cardiff City?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056eac7a97013de78b5336",
+      "correctAnswer": "New York City",
+      "incorrectAnswers": [
+        "Miami",
+        "Liverpool",
+        "Southampton"
+      ],
+      "question": {
+        "text": "What had been the planned destination of the Titanic before it sank?"
+      },
+      "tags": [
+        "history",
+        "boats",
+        "events"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "646339bc01d576cfac3aa3a6",
+      "correctAnswer": "West Germany",
+      "incorrectAnswers": [
+        "The Soviet Union",
+        "Italy",
+        "Austria"
+      ],
+      "question": {
+        "text": "From 1949 to 1963, Konrad Adenauer served as the first chancellor of which country?"
+      },
+      "tags": [
+        "politics",
+        "europe",
+        "leaders",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056ec07a97013de78b5353",
+      "correctAnswer": "Attila",
+      "incorrectAnswers": [
+        "Leonidas",
+        "Ariston",
+        "Anaxander"
+      ],
+      "question": {
+        "text": "Which of these people was a leader of the Hunnic empire?"
+      },
+      "tags": [
+        "history",
+        "people",
+        "empires"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625698f79da29df7b05f72a9",
+      "correctAnswer": "Letitia Wright",
+      "incorrectAnswers": [
+        "Karen Gillan",
+        "Zendaya",
+        "Marisa Tomei"
+      ],
+      "question": {
+        "text": "The role of Shuri in the Marvel Cinematic Universe is played by which actor?"
+      },
+      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740869da29df7b05f73e4",
+      "correctAnswer": "Kill Bill: Vol. 1",
+      "incorrectAnswers": [
+        "Million Dollar Baby",
+        "Unforgiven",
+        "Dead Poets Society"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'After awakening from a coma, a former assassin wreaks vengeance on those who betrayed her.'"
+      },
+      "tags": [
         "film",
         "film_and_tv"
       ],
@@ -67,21 +481,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506cb",
-      "correctAnswer": "Billy Bob Thornton",
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95134b",
+      "correctAnswer": "Color Field Painting",
       "incorrectAnswers": [
-        "Russell Crowe",
-        "Seth Rogen",
-        "John Turturro"
+        "Foreshortening",
+        "Gestural Painting",
+        "Canvas Filling"
       ],
       "question": {
-        "text": "Which actor has played roles in films including Armageddon and Love Actually?"
+        "text": "Which technique in abstract painting developed in the 1950's focuses on the effects of large areas of color having a minimum of surface detail?"
       },
       "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
+        "art",
+        "words",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -89,22 +503,66 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ff88",
-      "correctAnswer": "Luxembourg",
+      "category": "food_and_drink",
+      "id": "64fadc3c717513cb79190387",
+      "correctAnswer": "Aioli",
       "incorrectAnswers": [
-        "Veduz",
-        "Brest",
-        "Bruges"
+        "Hollandaise",
+        "Béarnaise",
+        "Tartar"
       ],
       "question": {
-        "text": "What's the capital of Luxembourg?"
+        "text": "Which sauce is an emulsion of garlic and olive oil?"
       },
       "tags": [
-        "europe",
-        "capital_cities",
-        "general_knowledge",
-        "geography"
+        "sauces",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64626286ab138b829b81ea00",
+      "correctAnswer": "Uranus",
+      "incorrectAnswers": [
+        "Mars",
+        "Jupiter",
+        "Venus"
+      ],
+      "question": {
+        "text": "What is the planet whose list of moons includes Oberon and Titania?"
+      },
+      "tags": [
+        "astronomy",
+        "space",
+        "the_solar_system",
+        "planets",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdd5",
+      "correctAnswer": "Avril Lavigne",
+      "incorrectAnswers": [
+        "Alanis Morissette",
+        "Neil Young",
+        "Joni Mitchell"
+      ],
+      "question": {
+        "text": "Which Canadian singer released the song 'Girlfriend'?"
+      },
+      "tags": [
+        "songs",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -132,217 +590,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "639898405c9a75021f31046c",
-      "correctAnswer": "Fermentation",
-      "incorrectAnswers": [
-        "Distillation",
-        "Oxidation",
-        "Clarification"
-      ],
-      "question": {
-        "text": "What is the process used to convert grape juice into wine called?"
-      },
-      "tags": [
-        "food_and_drink",
-        "wine",
-        "drink",
-        "chemistry"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951360",
-      "correctAnswer": "Stenciling",
+      "id": "648891854cd3f064f443dc1f",
+      "correctAnswer": "Atlas Shrugged",
       "incorrectAnswers": [
-        "Stamping",
-        "Collaging",
-        "Embossing"
+        "Brave New World",
+        "Fahrenheit 451",
+        "1984"
       ],
       "question": {
-        "text": "What is a method of producing images or letters by painting over holes cut in a covering surface?"
+        "text": "In which novel does a character called John Galt persuade the world's business leaders to abandon their companies and form a new capitalist society?"
       },
       "tags": [
-        "words",
-        "art"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "636a5257990390307063f38e",
-      "correctAnswer": "Because the Night",
-      "incorrectAnswers": [
-        "Let's Spend the Night Together",
-        "Borderline",
-        "Nobody's Fault But Mine"
-      ],
-      "question": {
-        "text": "Which song, originally recorded by Patti Smith, was later covered by Bruce Springsteen?"
-      },
-      "tags": [
-        "music",
-        "cover_song",
-        "songs",
-        "musicians"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624333bbcfaae40c129613fe",
-      "correctAnswer": "A Drake",
-      "incorrectAnswers": [
-        "A Boar",
-        "A Jack",
-        "A Stallion"
-      ],
-      "question": {
-        "text": "What is a male duck known as?"
-      },
-      "tags": [
-        "words",
-        "animals",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "650570237a97013de78b553e",
-      "correctAnswer": "Christiaan Barnard",
-      "incorrectAnswers": [
-        "Robert Adams",
-        "Gaston Milian",
-        "Edoardo Bassini"
-      ],
-      "question": {
-        "text": "Who performed the world's first successful human heart transplant in 1967?"
-      },
-      "tags": [
-        "medicine",
-        "history",
-        "surgery"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502c6",
-      "correctAnswer": "Spiced Ham ",
-      "incorrectAnswers": [
-        "Special Made Artifial Meat",
-        "Superior Manufactured Artificial Meat",
-        "Special Ham"
-      ],
-      "question": {
-        "text": "What Is 'SPAM' Short For?"
-      },
-      "tags": [
-        "acronyms",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd19",
-      "correctAnswer": "Aristotle",
-      "incorrectAnswers": [
-        "Thomas Hobbes",
-        "Ludwig Wittgenstein",
-        "Bertrand Russell"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'He who is unable to live in society, or who has no need because he is sufficient for himself, must be either a beast or a god'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64824ead7778562fd76a967d",
-      "correctAnswer": "Medal of Honor",
-      "incorrectAnswers": [
-        "Purple Heart",
-        "Bronze Star",
-        "Silver Star"
-      ],
-      "question": {
-        "text": "What is the name of the US Military's highest award for valor in combat?"
-      },
-      "tags": [
-        "military",
-        "society_and_culture",
-        "awards"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6250644ee12f6dec240bdfa9",
-      "correctAnswer": "Rockwell",
-      "incorrectAnswers": [
-        "The Verve",
-        "Big Country",
-        "Deee-Lite"
-      ],
-      "question": {
-        "text": "'Somebody's Watching Me' was a one hit wonder in 1984 by which artist?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9507cb",
-      "correctAnswer": "Meryl Streep",
-      "incorrectAnswers": [
-        "Cate Blanchett",
-        "Nicole Kidman",
-        "Natalie Portman"
-      ],
-      "question": {
-        "text": "Which actor has featured in films including The Deer Hunter and Lemony Snicket's A Series of Unfortunate Events?"
-      },
-      "tags": [
-        "film_and_tv"
+        "novels",
+        "arts_and_literature",
+        "literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -351,300 +613,39 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e89",
-      "correctAnswer": "C. S. Lewis",
+      "id": "622a1c367cc59eab6f95030f",
+      "correctAnswer": "Stephen King",
       "incorrectAnswers": [
-        "Neil Gaiman",
-        "Jack Vance",
-        "Douglas Adams"
+        "George Orwell",
+        "John Steinbeck",
+        "Tom Clancy"
       ],
       "question": {
-        "text": "Which author wrote 'Prince Caspian'?"
+        "text": "Who wrote the book 'The Shining' on which the 1980 Stanley Kubrick film was based?"
       },
       "tags": [
-        "childrens_literature",
-        "literature",
         "arts_and_literature"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056e7a7a97013de78b52f1",
-      "correctAnswer": "Islam",
-      "incorrectAnswers": [
-        "Judaism",
-        "Christianity",
-        "Hinduism"
-      ],
-      "question": {
-        "text": "Which religion was founded by the prophet Muhammad?"
-      },
-      "tags": [
-        "history",
-        "religion"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa0e",
-      "correctAnswer": "Gustav Klimt",
-      "incorrectAnswers": [
-        "‎‎Edvard Munch",
-        "Raphael",
-        "Leonardo da Vinci"
-      ],
-      "question": {
-        "text": "Which artist painted \"The Kiss\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950467",
-      "correctAnswer": "Viruses",
-      "incorrectAnswers": [
-        "Wine",
-        "Parasites",
-        "The therapeutic use of plants"
-      ],
-      "question": {
-        "text": "What is Virology the study of?"
-      },
-      "tags": [
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94ffbb",
-      "correctAnswer": "Warsaw",
+      "id": "6237417fcb85f7ce9e949d6c",
+      "correctAnswer": "Podgorica",
       "incorrectAnswers": [
-        "Krakow",
-        "Poznan",
-        "Lodz"
+        "Basseterre",
+        "Baku",
+        "Sarajevo"
       ],
       "question": {
-        "text": "What is the capital of Poland?"
+        "text": "What is the capital city of Montenegro?"
       },
       "tags": [
         "capital_cities",
-        "europe",
         "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237418ccb85f7ce9e949d71",
-      "correctAnswer": "Myanmar",
-      "incorrectAnswers": [
-        "Timor-Leste",
-        "Chad",
-        "El Salvador"
-      ],
-      "question": {
-        "text": "Naypyidaw is the capital city of which country?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95030e",
-      "correctAnswer": "George Washington",
-      "incorrectAnswers": [
-        "Winston Churchill",
-        "Alexander the Great",
-        "Lord Nelson"
-      ],
-      "question": {
-        "text": "Who was, \"First in war, first in peace and first in the hearts of his countrymen\"?"
-      },
-      "tags": [
-        "quotes",
-        "people",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "645cb19b7d263fd5097043eb",
-      "correctAnswer": "Chests",
-      "incorrectAnswers": [
-        "Wardrobes",
-        "Chairs",
-        "Tables"
-      ],
-      "question": {
-        "text": "Used by brides in the past to collect their belongings before marriage, bridal, dower, and hope are all types of what piece of furniture?"
-      },
-      "tags": [
-        "society_and_culture",
-        "furniture",
-        "traditions",
-        "marriage"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950dc4",
-      "correctAnswer": "The Beatles",
-      "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Uriah Heep"
-      ],
-      "question": {
-        "text": "Which band includes 'John Lennon'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374109cb85f7ce9e949d3c",
-      "correctAnswer": "Bishkek",
-      "incorrectAnswers": [
-        "Thimphu",
-        "Tbilisi",
-        "Managua"
-      ],
-      "question": {
-        "text": "What is the capital city of Kyrgyzstan?"
-      },
-      "tags": [
-        "capital_cities",
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "647638daf05ea6d6f587a168",
-      "correctAnswer": "The Ottoman Empire",
-      "incorrectAnswers": [
-        "The Seljuk Empire",
-        "The Safavid Empire",
-        "The Mughal Empire"
-      ],
-      "question": {
-        "text": "What was the name of the Empire founded by Osman I around 1300AD?"
-      },
-      "tags": [
-        "empires",
-        "history",
-        "1400's"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fad0",
-      "correctAnswer": "Forest Whitaker",
-      "incorrectAnswers": [
-        "Leonardo DiCaprio",
-        "Ryan Gosling",
-        "Peter O'Toole"
-      ],
-      "question": {
-        "text": "Who won the 2006 Academy Award for Best Leading Actor for playing the role of Idi Amin in The Last King of Scotland?"
-      },
-      "tags": [
-        "academy_awards",
-        "acting",
-        "film"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6470d79b423445f16131b4d5",
-      "correctAnswer": "Brittany",
-      "incorrectAnswers": [
-        "Provence",
-        "Normandy",
-        "Corsica"
-      ],
-      "question": {
-        "text": "What coastal region of France has over 200,000 speakers of a Celtic language?"
-      },
-      "tags": [
-        "languages",
-        "society_and_culture",
-        "france"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e5b",
-      "correctAnswer": "Nathaniel Hawthorne",
-      "incorrectAnswers": [
-        "Robert E. Howard",
-        "Henryk Sienkiewicz",
-        "Charles Dickens"
-      ],
-      "question": {
-        "text": "Which author wrote 'A Wonder-Book for Girls and Boys'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
