@@ -1,43 +1,22 @@
 {
-  "gameDate": "2026-01-17",
+  "gameDate": "2026-01-18",
   "difficulty": "random",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950647",
-      "correctAnswer": "Kevin Bacon",
-      "incorrectAnswers": [
-        "Richard Harris",
-        "Anthony Quinn",
-        "Hugo Weaving"
-      ],
-      "question": {
-        "text": "Which actor has starred in both Apollo 13 and X-Men: First Class?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "645cb17f7d263fd5097043dc",
-      "correctAnswer": "Malcolm",
+      "id": "622a1c397cc59eab6f950e89",
+      "correctAnswer": "C. S. Lewis",
       "incorrectAnswers": [
-        "Lysander",
-        "Mercutio",
-        "MacDuff"
+        "Neil Gaiman",
+        "Jack Vance",
+        "Douglas Adams"
       ],
       "question": {
-        "text": "What is the name of Duncan's eldest son in Macbeth?"
+        "text": "Which author wrote 'Prince Caspian'?"
       },
       "tags": [
-        "theater",
-        "shakespeare",
+        "childrens_literature",
+        "literature",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -47,18 +26,83 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcb4",
-      "correctAnswer": "Austronesian",
+      "id": "63e4c350106de6ffa7d4a7cf",
+      "correctAnswer": "Tin",
       "incorrectAnswers": [
-        "Uralic",
-        "Niger–Congo",
-        "Indo-European"
+        "Gold",
+        "Silver",
+        "Bronze"
       ],
       "question": {
-        "text": "The language 'Cebuano' belongs to which language family?"
+        "text": "In western societies, what is the traditional gift for a 10th wedding anniversary?"
+      },
+      "tags": [
+        "society_and_culture",
+        "traditions"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6502100c2b411b896c984b1c",
+      "correctAnswer": "Gemini",
+      "incorrectAnswers": [
+        "Cancer",
+        "Sagittarius",
+        "Virgo"
+      ],
+      "question": {
+        "text": "Which zodiac sign is characterized by a 2-sided personality and frequent mood changes?"
+      },
+      "tags": [
+        "zodiac",
+        "society_and_culture",
+        "astrology"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bb0",
+      "correctAnswer": "Simon & Garfunkel",
+      "incorrectAnswers": [
+        "MercyMe",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which American music duo released the song 'The Sound of Silence'?"
+      },
+      "tags": [
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e67dff2394bd44dee04e",
+      "correctAnswer": "Six",
+      "incorrectAnswers": [
+        "Ten",
+        "Eight",
+        "Black"
+      ],
+      "question": {
+        "text": "What does the word 'zes' mean in Dutch?"
       },
       "tags": [
         "language",
+        "translations",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -67,42 +111,43 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62602dff4b176d54800e3cba",
-      "correctAnswer": "Toulouse",
+      "category": "society_and_culture",
+      "id": "622a1c3a7cc59eab6f9511d7",
+      "correctAnswer": "Arachne",
       "incorrectAnswers": [
-        "Barcelona",
-        "Copenhagen",
-        "Amsterdam"
+        "Spidos",
+        "Tarantula",
+        "Creepius"
       ],
       "question": {
-        "text": "Which of these cities is in France?"
+        "text": "In Greek mythology who did Athena turn into a spider?"
       },
       "tags": [
-        "cities",
-        "europe",
-        "france",
-        "geography"
+        "animals",
+        "mythology",
+        "ancient_greece",
+        "society_and_culture"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510c2",
-      "correctAnswer": "Flax",
+      "category": "food_and_drink",
+      "id": "624ab07dc64ce21c11f06ea0",
+      "correctAnswer": "South America",
       "incorrectAnswers": [
-        "Sunflower",
-        "Hemp",
-        "Wheat"
+        "Africa",
+        "Central Asia",
+        "India"
       ],
       "question": {
-        "text": "Linen is obtained from the fibers of what plant?"
+        "text": "From which part of the world do potatoes originate?"
       },
       "tags": [
-        "science"
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -111,20 +156,70 @@
     },
     {
       "category": "geography",
-      "id": "6462621bab138b829b81e9c4",
-      "correctAnswer": "Chesapeake Bay",
+      "id": "64dd398a9cef2bd3a34add0d",
+      "correctAnswer": "The Parthenon",
       "incorrectAnswers": [
-        "Hudson Bay",
-        "Puget Sound",
-        "Narragansett Bay"
+        "The Colosseum",
+        "The Eiffel Tower",
+        "The Great Wall"
       ],
       "question": {
-        "text": "What bay splits Virginia's part of the Delmarva Peninsula from the mainland?"
+        "text": "Which famous landmark has a full scale replica in Nashville, Tennessee?"
       },
       "tags": [
-        "bodies_of_water",
-        "virginia",
+        "architecture",
+        "buildings",
+        "tourist_attractions",
+        "tourism",
+        "geography",
         "usa",
+        "cities"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "648888905dba6c873ef6504b",
+      "correctAnswer": "The 1990s",
+      "incorrectAnswers": [
+        "The 1980s",
+        "The 1970s",
+        "The 1960s"
+      ],
+      "question": {
+        "text": "Which decade saw the dissolution of the Soviet Union and the end of the Cold War?"
+      },
+      "tags": [
+        "history",
+        "politics",
+        "cold_war",
+        "decades",
+        "soviet_union",
+        "russia"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "626030c94b176d54800e3d3e",
+      "correctAnswer": "Tanzania",
+      "incorrectAnswers": [
+        "Senegal",
+        "Algeria",
+        "South Africa"
+      ],
+      "question": {
+        "text": "Dar es Salaam is a city in which country?"
+      },
+      "tags": [
+        "cities",
+        "africa",
         "geography"
       ],
       "type": "text_choice",
@@ -133,18 +228,190 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f950323",
-      "correctAnswer": "Charles Manson",
+      "category": "film_and_tv",
+      "id": "624dba1fde6018633d31f6b5",
+      "correctAnswer": "Daniel Craig",
       "incorrectAnswers": [
-        "Ed Gein",
-        "Ted Bundy",
-        "Jim Jones"
+        "George Lazenby",
+        "Roger Moore",
+        "Sean Connery"
       ],
       "question": {
-        "text": "Who was the man convicted of masterminding the 1969 LaBianca-Tate murders?"
+        "text": "Who played the role of James Bond in Casino Royale?"
       },
       "tags": [
+        "james_bond",
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d76",
+      "correctAnswer": "Black Sabbath",
+      "incorrectAnswers": [
+        "Metallica",
+        "Def Leppard",
+        "Poison"
+      ],
+      "question": {
+        "text": "Which metal band has Ozzy Osbourne as its lead singer?"
+      },
+      "tags": [
+        "music",
+        "bands",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c377cc59eab6f95041d",
+      "correctAnswer": "1985",
+      "incorrectAnswers": [
+        "1979",
+        "1965",
+        "1950"
+      ],
+      "question": {
+        "text": "In What Year Did Mikhail Gorbachev Become Leader Of The Soviet Union?"
+      },
+      "tags": [
+        "russia",
+        "cold_war",
+        "leaders",
+        "politics",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c377cc59eab6f9507e8",
+      "correctAnswer": "Oceania",
+      "incorrectAnswers": [
+        "South America",
+        "Europe",
+        "Asia"
+      ],
+      "question": {
+        "text": "The country of Palau is on which continent?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950dec",
+      "correctAnswer": "Aleksandr Solzhenitsyn",
+      "incorrectAnswers": [
+        "Henryk Sienkiewicz",
+        "Oscar Wilde",
+        "Ivan Turgenev"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Gulag Archipelago'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f379da29df7b05f738e",
+      "correctAnswer": "A 12-year-old is taken in by a professional assassin after her family is murdered.",
+      "incorrectAnswers": [
+        "Violence and mayhem ensue after a man stumbles upon more than two million dollars.",
+        "A couple undergoes a medical procedure to have each other erased from their memories.",
+        "Two men searching for work in 1920s Mexico convince an old prospector to help them mine for gold."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Leon?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056e7a7a97013de78b52f1",
+      "correctAnswer": "Islam",
+      "incorrectAnswers": [
+        "Judaism",
+        "Christianity",
+        "Hinduism"
+      ],
+      "question": {
+        "text": "Which religion was founded by the prophet Muhammad?"
+      },
+      "tags": [
+        "history",
+        "religion"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f95003b",
+      "correctAnswer": "Kareem Abdul-Jabbar",
+      "incorrectAnswers": [
+        "Michael Jordan",
+        "Yao Ming",
+        "Kobe Bryant"
+      ],
+      "question": {
+        "text": "Who was the NBA's most valuable player in 1976, 1977 and 1980?"
+      },
+      "tags": [
+        "sport",
+        "basketball"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3d7cc59eab6f951b9c",
+      "correctAnswer": "South Pole",
+      "incorrectAnswers": [
+        "The Peak of Mount Everest",
+        "The Moon",
+        "The Mariana Trench"
+      ],
+      "question": {
+        "text": "In 1911 Roald Amundsen became the first person to reach where?"
+      },
+      "tags": [
+        "people",
+        "firsts",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -153,215 +420,42 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "63bc3fa70e893d6e5a6a0fd3",
-      "correctAnswer": "Canelé",
+      "category": "science",
+      "id": "63adbd7504c68cc1e14b8e46",
+      "correctAnswer": "Ash Tree",
       "incorrectAnswers": [
-        "Strudel",
-        "Kringle",
-        "Cannoli"
+        "Oak Tree",
+        "Fir Tree",
+        "Apple Tree"
       ],
       "question": {
-        "text": "Which of these is a small French pastry flavored with rum and vanilla with a soft and tender custard center and a dark, thick caramelized crust?"
+        "text": "Which of these trees has winged seeds?"
       },
       "tags": [
-        "food",
-        "food_and_drink",
-        "pastry",
-        "baking"
+        "science",
+        "trees",
+        "plants",
+        "nature"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63989c2f5c9a75021f310489",
-      "correctAnswer": "Feudalism",
-      "incorrectAnswers": [
-        "Capitalism",
-        "Socialism",
-        "Communism"
-      ],
-      "question": {
-        "text": "The 15th century was characterized by a decline in which economic system?"
-      },
-      "tags": [
-        "history",
-        "1400's",
-        "economics",
-        "europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623741c3cb85f7ce9e949d87",
-      "correctAnswer": "Norway",
-      "incorrectAnswers": [
-        "Finland",
-        "Sweden",
-        "Denmark"
-      ],
-      "question": {
-        "text": "Oslo is the capital city of which country?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "music",
-      "id": "6461407e4d46e537ca8cd9e8",
-      "correctAnswer": "Carrie Underwood",
+      "id": "622a1c397cc59eab6f950c1e",
+      "correctAnswer": "Red Hot Chili Peppers",
       "incorrectAnswers": [
-        "Taylor Swift",
-        "Miranda Lambert",
-        "Faith Hill"
+        "The Monkees",
+        "Black Flag",
+        "Journey"
       ],
       "question": {
-        "text": "Which female country singer had hits such as 'Jesus, Take the Wheel' and 'Some Hearts,' and also won 'American Idol'?"
-      },
-      "tags": [
-        "music",
-        "country_music",
-        "musicians",
-        "songs"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237359acfe13103f55eb54b",
-      "correctAnswer": "Niger",
-      "incorrectAnswers": [
-        "New Zealand",
-        "Nepal",
-        "Netherlands"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.ne' at the end of its web addresses?"
-      },
-      "tags": [
-        "the_internet",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "645cb16b7d263fd5097043d1",
-      "correctAnswer": "Red Herring",
-      "incorrectAnswers": [
-        "Blue Lobster",
-        "Green Shrimp",
-        "Yellow Squid"
-      ],
-      "question": {
-        "text": "What is the familiar expression for something that draws attention away from the main issue?"
-      },
-      "tags": [
-        "idioms",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "637162381bf863c45ca6c35f",
-      "correctAnswer": "Family over everything",
-      "incorrectAnswers": [
-        "To each his own",
-        "Familiarity breeds contempt",
-        "Farming is the backbone"
-      ],
-      "question": {
-        "text": "How does that Latin phrase 'Familia supra omnia' translate into English?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6472060f222d3df382f0c861",
-      "correctAnswer": "Hors d'oeuvres",
-      "incorrectAnswers": [
-        "À la carte",
-        "Croquettes",
-        "Tapas"
-      ],
-      "question": {
-        "text": "What is the French term for appetizers that are served before the meal?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d97",
-      "correctAnswer": "ABBA",
-      "incorrectAnswers": [
-        "In Flames",
-        "HammerFall",
-        "Katatonia"
-      ],
-      "question": {
-        "text": "Which band includes 'Björn Ulvaeus' as one of its members?"
+        "text": "Which American rock band released the album 'Blood Sugar Sex Magik'?"
       },
       "tags": [
         "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623384f262eaad73716a8c3f",
-      "correctAnswer": "Spanish",
-      "incorrectAnswers": [
-        "Italian",
-        "English",
-        "Bengali"
-      ],
-      "question": {
-        "text": "What language do the locals speak in Bogota?"
-      },
-      "tags": [
-        "language",
-        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -370,143 +464,43 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8cd",
-      "correctAnswer": "Michael Douglas",
+      "id": "622a1c347cc59eab6f94fb10",
+      "correctAnswer": "Jodie Foster",
       "incorrectAnswers": [
-        "Al Pacino",
-        "Daniel Day-Lewis",
-        "Mike Myers"
+        "Geena Davis",
+        "Laura Dern",
+        "Bette Midler"
       ],
       "question": {
-        "text": "Which actor played the role of Gordon Gekko in Wall Street?"
+        "text": "Who won the 1991 Academy Award for Best Leading Actress for playing the role of Clarice Starling in The Silence of the Lambs?"
       },
       "tags": [
-        "people",
         "acting",
+        "academy_awards",
         "film",
+        "general_knowledge",
         "film_and_tv"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233863562eaad73716a8cbd",
-      "correctAnswer": "Fort Knox",
-      "incorrectAnswers": [
-        "Fort Campbell",
-        "Fort Reginald",
-        "Fort Corid"
-      ],
-      "question": {
-        "text": "Where is most of America's gold located?"
-      },
-      "tags": [],
-      "type": "text_choice",
       "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9519c3",
-      "correctAnswer": "Thailand",
-      "incorrectAnswers": [
-        "China",
-        "Saudi Arabia",
-        "Turkey"
-      ],
-      "question": {
-        "text": "What country was formerly known as Siam?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602dc7014f58b5fc1a3fc4",
-      "correctAnswer": "St Petersburg",
-      "incorrectAnswers": [
-        "Paris",
-        "Athens",
-        "Rome"
-      ],
-      "question": {
-        "text": "Which of these cities is in Russia?"
-      },
-      "tags": [
-        "cities",
-        "europe",
-        "russia",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623742a5cb85f7ce9e949de2",
-      "correctAnswer": "Nuku'alofa",
-      "incorrectAnswers": [
-        "Dhaka",
-        "Vaduz",
-        "Saint George's"
-      ],
-      "question": {
-        "text": "What is the capital city of Tonga?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fd8d",
-      "correctAnswer": "Joni Mitchell",
+      "id": "622a1c357cc59eab6f94ff4c",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
-        "Kate Bush",
-        "Annie Lennox",
-        "Cher"
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "Who Immortalised The 1969 Woodstock Festival In Song?"
+        "text": "Who released the studio album 'Invincible'?"
       },
       "tags": [
-        "1960's",
+        "general_knowledge",
         "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374204cb85f7ce9e949da1",
-      "correctAnswer": "Russia",
-      "incorrectAnswers": [
-        "Luxembourg",
-        "Denmark",
-        "Austria"
-      ],
-      "question": {
-        "text": "Moscow is the capital city of which country?"
-      },
-      "tags": [
-        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -514,64 +508,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "645c9f8f42ea81e2554c5f4d",
-      "correctAnswer": "regression",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa49",
+      "correctAnswer": "Modernism",
       "incorrectAnswers": [
-        "repression",
-        "dissociation",
-        "projection"
+        "Pointillism",
+        "Primitivism",
+        "Ukiyo-e"
       ],
       "question": {
-        "text": "Which term in psychology refers to the process of reverting to an earlier, childlike form of behavior?"
+        "text": "The painting \"American Gothic\" by ‎Grant Wood is a part of which art movement?"
       },
       "tags": [
-        "psychology",
-        "science",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262af614b176d54800e3dc2",
-      "correctAnswer": "Shaking My Head",
-      "incorrectAnswers": [
-        "Sometimes Men Hate",
-        "Special Man, Him",
-        "Soothe Me Honey"
-      ],
-      "question": {
-        "text": "What do people mean when type the letters 'SMH' in a message on the internet?"
-      },
-      "tags": [
-        "the_internet",
-        "initials",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f897",
-      "correctAnswer": "Athletics",
-      "incorrectAnswers": [
-        "Tennis",
-        "Track and field",
-        "Gymnastics"
-      ],
-      "question": {
-        "text": "With which sport is Abebe Bikila associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
+        "painting",
+        "art"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -580,15 +530,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbda",
-      "correctAnswer": "\"You know how I know that you’re gay?\"",
+      "id": "622a1c347cc59eab6f94fbf8",
+      "correctAnswer": "\"Listen to me, mister. You're my knight in shining armor. Don't you forget it. You're going to get back on that horse, and I'm going to be right behind you, holding on tight, and away we're gonna , go, go!\"",
       "incorrectAnswers": [
-        "\"Today, I consider myself the luckiest man on the face of the earth.\"",
-        "\"Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.\"",
-        "\"Not my tempo.\""
+        "\"What a dump.\"",
+        "\"What’s the most you ever lost on a coin toss?\"",
+        "\"Chewie, we’re home.\""
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'The 40-Year-Old Virgin'?"
+        "text": "Which of these quotes is from the film 'On Golden Pond'?"
       },
       "tags": [
         "quotes",
@@ -601,19 +551,21 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951058",
-      "correctAnswer": "Chlorophyll",
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd0b",
+      "correctAnswer": "Plato",
       "incorrectAnswers": [
-        "Nutrients",
-        "Grass",
-        "Oxygen"
+        "Thomas Hobbes",
+        "Spinoza",
+        "Jean-Jacques Rousseau"
       ],
       "question": {
-        "text": "What gives leaves their colour ?"
+        "text": "Which philosopher famously said 'That man is wisest who, like Socrates, realizes that his wisdom is worthless'?"
       },
       "tags": [
-        "science"
+        "philosophy",
+        "quotes",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -621,25 +573,84 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "647c9856f89e0968cfbc1a38",
-      "correctAnswer": "Oldsmobile",
+      "category": "geography",
+      "id": "62602d524b176d54800e3c8f",
+      "correctAnswer": "Istanbul",
       "incorrectAnswers": [
-        "Chevrolet",
-        "Ford",
-        "Nissan"
+        "Tehran",
+        "Dubai",
+        "Manama"
       ],
       "question": {
-        "text": "Which car model made the Cutlass Ciera?"
+        "text": "Which of these cities is in Turkey?"
       },
       "tags": [
-        "brands",
-        "motoring",
-        "cars",
+        "cities",
+        "europe",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f950138",
+      "correctAnswer": "A Labyrinth",
+      "incorrectAnswers": [
+        "A Statue",
+        "A Child",
+        "A Flying Horse"
+      ],
+      "question": {
+        "text": "In Greek mythology, what did Daedalus construct for Minos?"
+      },
+      "tags": [
         "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624ab0e4348a461bfc6706a3",
+      "correctAnswer": "Southeast Asia",
+      "incorrectAnswers": [
+        "South America",
+        "China",
+        "Africa"
+      ],
+      "question": {
+        "text": "Where in the world are tangerines originally from?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623740a4cb85f7ce9e949d13",
+      "correctAnswer": "Guyana",
+      "incorrectAnswers": [
+        "United States of America",
+        "Cuba",
+        "New Zealand"
+      ],
+      "question": {
+        "text": "Georgetown is the capital city of which country?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     }
