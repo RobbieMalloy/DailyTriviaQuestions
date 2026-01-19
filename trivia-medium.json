@@ -1,23 +1,21 @@
 {
-  "gameDate": "2026-01-18",
+  "gameDate": "2026-01-19",
   "difficulty": "medium",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f916",
-      "correctAnswer": "The Wizard of Oz",
+      "category": "general_knowledge",
+      "id": "622a1c377cc59eab6f950457",
+      "correctAnswer": "Amerigo Vespucci",
       "incorrectAnswers": [
-        "Citizen Kane",
-        "Network",
-        "The Public Enemy"
+        "Aymeric Santiago",
+        "Merica Bonnuci",
+        "Amir Icarlo"
       ],
       "question": {
-        "text": "Which film contains the character 'Dorothy Gale'?"
+        "text": "After whom was America named?"
       },
       "tags": [
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -26,19 +24,42 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625741003d2f5c16bfb8833c",
-      "correctAnswer": "A weatherman finds himself trapped in a small town as he lives the same day over and over again.",
+      "id": "622a1c3c7cc59eab6f951a32",
+      "correctAnswer": "Treehouse of Horror",
       "incorrectAnswers": [
-        "A young F.B.I. cadet must receive the help of a cannibal to help catch another serial killer.",
-        "A thief who steals secrets through dreams must plant an idea into the mind of a C.E.O.",
-        "Historical events unfold from the perspective of an Alabama man with an IQ of 75."
+        "Spooky Springfield",
+        "The Halloween Haunt",
+        "Evergreen Menace"
       ],
       "question": {
-        "text": "What is the plot of the movie Groundhog Day?"
+        "text": "What are The Simpsons Halloween specials known as?"
       },
       "tags": [
-        "film",
         "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "646140774d46e537ca8cd9bc",
+      "correctAnswer": "The Rosetta Stone",
+      "incorrectAnswers": [
+        "The Philosopher's Stone",
+        "The Stone of Destiny",
+        "The Cornerstone"
+      ],
+      "question": {
+        "text": "What is the name of the ancient stone tablet that was carved in 196 B.C., and helped scholars decipher Egyptian hieroglyphs?"
+      },
+      "tags": [
+        "archaeology",
+        "ancient_egypt",
+        "history",
+        "language",
+        "the_ancient_world"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -47,81 +68,17 @@
     },
     {
       "category": "music",
-      "id": "622a1c367cc59eab6f95023c",
-      "correctAnswer": "Black Eyed Peas ",
+      "id": "622a1c387cc59eab6f950b8c",
+      "correctAnswer": "The Jimi Hendrix Experience",
       "incorrectAnswers": [
-        "NWA",
-        "Backstreet Boys",
-        "*NSync"
+        "Poison",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
       ],
       "question": {
-        "text": "Which music act includes MC Taboo and will.i.am in their line up?"
+        "text": "Which psychedelic rock band released the song 'Voodoo Child'?"
       },
       "tags": [
-        "music",
-        "bands"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950571",
-      "correctAnswer": "The art using make-up",
-      "incorrectAnswers": [
-        "Winemaking",
-        "The Sumerians",
-        "The cosmos"
-      ],
-      "question": {
-        "text": "What is Cosmetology the study of?"
-      },
-      "tags": [
-        "science",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740e99da29df7b05f7401",
-      "correctAnswer": "An examination of the ways in which war impacts the lives of several friends.",
-      "incorrectAnswers": [
-        "An NYPD officer tries to save his wife taken hostage by terrorists during a Christmas party.",
-        "A freed slave sets out to rescue his wife from a brutal plantation-owner.",
-        "A janitor has a gift for mathematics."
-      ],
-      "question": {
-        "text": "What is the plot of the movie The Deer Hunter?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd64",
-      "correctAnswer": "George Harrison",
-      "incorrectAnswers": [
-        "Oasis",
-        "Paul Simon",
-        "Robbie Williams"
-      ],
-      "question": {
-        "text": "Whose Debut Solo Album Was Titled \"Wonderwall Music\"?"
-      },
-      "tags": [
-        "music_albums",
         "music"
       ],
       "type": "text_choice",
@@ -130,22 +87,133 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "646339ce01d576cfac3aa3b5",
-      "correctAnswer": "Ritalin",
+      "category": "general_knowledge",
+      "id": "64dfa5baa6681754ea052bc2",
+      "correctAnswer": "First person",
       "incorrectAnswers": [
-        "Amoxicillin",
-        "Prozac",
-        "Zoloft"
+        "Second person",
+        "Third person",
+        "Plural"
       ],
       "question": {
-        "text": "Which of these medicines is often used to treat attention deficit hyperactivity disorder?"
+        "text": "In language, 'me' is which type of pronoun?"
       },
       "tags": [
-        "pharmaceuticals",
-        "drugs",
-        "medicine",
-        "psychology",
+        "grammar",
+        "language"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740bf9da29df7b05f73f5",
+      "correctAnswer": "A mother personally challenges the local authorities to solve her daughter's murder.",
+      "incorrectAnswers": [
+        "The drug-induced utopias of four addicts are shattered when their addictions run deep.",
+        "A paleontologist is tasked with protecting two children when cloned dinosaurs are set free.",
+        "A destitute family builds a symbiotic relationship with a wealthy family."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Three Billboards Outside Ebbing, Missouri?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "64f6d9bd660c3a8d960101f6",
+      "correctAnswer": "Mark Antony",
+      "incorrectAnswers": [
+        "Brutus",
+        "Cassius",
+        "Octavius"
+      ],
+      "question": {
+        "text": "In Shakespeare's play Julius Caesar, who begins the speech that opens 'Friends, Romans, countrymen...'?"
+      },
+      "tags": [
+        "Shakespeare",
+        "Julius Caesar",
+        "literature",
+        "play"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3b7cc59eab6f9516f7",
+      "correctAnswer": "Howard Carter",
+      "incorrectAnswers": [
+        "Edward Johnson",
+        "Martin Davis",
+        "William James"
+      ],
+      "question": {
+        "text": "Who discovered the tomb of Tutankhamen?"
+      },
+      "tags": [
+        "history",
+        "ancient_egypt",
+        "archaeology"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "647f9def3a4302a71927168c",
+      "correctAnswer": "Nuremberg",
+      "incorrectAnswers": [
+        "Berlin",
+        "Munich",
+        "Frankfurt"
+      ],
+      "question": {
+        "text": "In 1945, which German city hosted the trials where former Nazi leaders were prosecuted for war crimes?"
+      },
+      "tags": [
+        "world_war_2",
+        "1940's",
+        "history",
+        "crime",
+        "wars",
+        "germany"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64e927cd0b0fc0be2ff5aa36",
+      "correctAnswer": "A microwave",
+      "incorrectAnswers": [
+        "A toaster oven",
+        "A convection oven",
+        "A slow cooker"
+      ],
+      "question": {
+        "text": "What type of oven did Percy Spencer invent after a magnetron melted his candy bar?"
+      },
+      "tags": [
+        "inventions",
+        "food_and_drink",
+        "technology",
         "science"
       ],
       "type": "text_choice",
@@ -154,21 +222,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "64902c3a6c4575eaf97c8adf",
-      "correctAnswer": "Guam",
+      "category": "music",
+      "id": "6266bb37ff7b6ee0496ec785",
+      "correctAnswer": "Percussion",
       "incorrectAnswers": [
-        "Saipan",
-        "Puerto Rico",
-        "Republic of Palau"
+        "Woodwind",
+        "Stringed",
+        "Brass"
       ],
       "question": {
-        "text": "What is the largest of the Mariana Islands, a U.S. territory located in the western Pacific Ocean?"
+        "text": "What type of instrument are the castanets?"
       },
       "tags": [
-        "islands",
-        "usa",
-        "geography"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -177,18 +243,190 @@
     },
     {
       "category": "geography",
-      "id": "626030954b176d54800e3d2f",
-      "correctAnswer": "Ukraine",
+      "id": "623b57d4fd6c701a92118381",
+      "correctAnswer": "Italy",
       "incorrectAnswers": [
-        "Azerbaijan",
-        "Pakistan",
-        "Kazakhstan"
+        "China",
+        "Belgium",
+        "Argentina"
       ],
       "question": {
-        "text": "Lviv is a city in which country?"
+        "text": "In which country would you find the Dolomites?"
       },
       "tags": [
-        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fc4",
+      "correctAnswer": "James Watt",
+      "incorrectAnswers": [
+        "Benjamin Franklin",
+        "Eli Whitney",
+        "Marcus Steam"
+      ],
+      "question": {
+        "text": "Who Invented The Steam Engine?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "647f9df73a4302a719271692",
+      "correctAnswer": "Minestrone",
+      "incorrectAnswers": [
+        "Linguine",
+        "Tiramisu",
+        "Pesto"
+      ],
+      "question": {
+        "text": "Which of these is a thick Italian vegetable soup?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink",
+        "soups"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "645c9fc342ea81e2554c5f76",
+      "correctAnswer": "Rhetoric",
+      "incorrectAnswers": [
+        "Didactic",
+        "Syntax",
+        "Semantics"
+      ],
+      "question": {
+        "text": "What is the term for the art or study of using language to persuade, which comes from the Greek word for \"orator\"?"
+      },
+      "tags": [
+        "words",
+        "language"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "645cb1257d263fd50970439b",
+      "correctAnswer": "Alligator pear",
+      "incorrectAnswers": [
+        "Crocodile fruit",
+        "Snake banana",
+        "Dragon apple"
+      ],
+      "question": {
+        "text": "Which of these is a nickname for the avocado?"
+      },
+      "tags": [
+        "food",
+        "nicknames",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3e7cc59eab6f9522d0",
+      "correctAnswer": "Apple",
+      "incorrectAnswers": [
+        "Grape",
+        "Plum",
+        "Banana"
+      ],
+      "question": {
+        "text": "James Grieve and Egremont Russet are types of which fruit?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink",
+        "plants"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623384dc62eaad73716a8c36",
+      "correctAnswer": "Wellington, New Zealand ",
+      "incorrectAnswers": [
+        "Canberra, Australia",
+        "Cape Town, South Africa",
+        "Santiago, Chile"
+      ],
+      "question": {
+        "text": "What is the world's most southerly capital?"
+      },
+      "tags": [
+        "capital_cities",
+        "records",
+        "places",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573fe49da29df7b05f73b4",
+      "correctAnswer": "Amélie",
+      "incorrectAnswers": [
+        "Raging Bull",
+        "The Matrix",
+        "Warrior"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'A girl with her own sense of justice decides to help those around her and discovers love.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "63b0586b4799123c67712f23",
+      "correctAnswer": "Ganges",
+      "incorrectAnswers": [
+        "Godavari",
+        "Krishna",
+        "Yamuna"
+      ],
+      "question": {
+        "text": "Which is the longest river in India? (not including length in other countries)"
+      },
+      "tags": [
+        "india",
+        "rivers",
         "geography"
       ],
       "type": "text_choice",
@@ -198,17 +436,19 @@
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950235",
-      "correctAnswer": "Sesame ",
+      "id": "64bee2e595a7194220973958",
+      "correctAnswer": "The pith",
       "incorrectAnswers": [
-        "Sunflower",
-        "Chia",
-        "Pumpkin"
+        "The pulp",
+        "The skin",
+        "The zest"
       ],
       "question": {
-        "text": "Which seed is the basic ingredient for tahini paste?"
+        "text": "What is the term that refers to the white substance between the peel and flesh of an orange?"
       },
       "tags": [
+        "fruit",
+        "food",
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -217,105 +457,18 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950131",
-      "correctAnswer": "Narcissus",
-      "incorrectAnswers": [
-        "Hercules",
-        "Apollo",
-        "Perseus"
-      ],
-      "question": {
-        "text": "In Greek mythology, who was the beautiful young man Echo fell in love with?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63a039d2c7d86251f9b65cbc",
-      "correctAnswer": "Oliver Cromwell",
-      "incorrectAnswers": [
-        "Henry VIII",
-        "Charles I",
-        "Lord Byron"
-      ],
-      "question": {
-        "text": "Who was the leader of the Parliamentary forces during the English Civil War?"
-      },
-      "tags": [
-        "history",
-        "britain",
-        "uk",
-        "wars"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602fdc014f58b5fc1a3fc9",
-      "correctAnswer": "Timisoara",
-      "incorrectAnswers": [
-        "Paris",
-        "Amsterdam",
-        "Prague"
-      ],
-      "question": {
-        "text": "Which of these cities is in Romania?"
-      },
-      "tags": [
-        "cities",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcd4",
-      "correctAnswer": "Indo-European",
-      "incorrectAnswers": [
-        "Afroasiatic",
-        "Austroasiatic",
-        "Niger–Congo"
-      ],
-      "question": {
-        "text": "The language 'Dutch' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f88b",
-      "correctAnswer": "Tennis",
+      "id": "62417db40f96c4efe8d773e1",
+      "correctAnswer": "Seattle Seahawks",
       "incorrectAnswers": [
-        "Badminton",
-        "Cycling",
-        "Basketball"
+        "Seattle Raptors",
+        "Seattle Bengals",
+        "Seattle Brewers"
       ],
       "question": {
-        "text": "With which sport is Steffi Graf associated?"
+        "text": "Which of these is an American Football team based in Seattle?"
       },
       "tags": [
-        "people",
         "sport"
       ],
       "type": "text_choice",
@@ -324,61 +477,21 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623388190161109f922aac66",
-      "correctAnswer": "Brandenburg ",
-      "incorrectAnswers": [
-        "Bavaria",
-        "Saxony",
-        "Bremen"
-      ],
-      "question": {
-        "text": "Which German federal state surrounds the city of Berlin?"
-      },
-      "tags": [
-        "germany",
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ffd1",
-      "correctAnswer": "The Rolling Stones",
-      "incorrectAnswers": [
-        "Black",
-        "Sticky Fingers",
-        "Brown Sugar"
-      ],
-      "question": {
-        "text": "What was the title of the first album released by The Rolling Stones?"
-      },
-      "tags": [
-        "music_albums",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e76",
-      "correctAnswer": "Vladimir Nabokov",
+      "id": "64626214ab138b829b81e9bf",
+      "correctAnswer": "\"Annie\"",
       "incorrectAnswers": [
-        "Ayn Rand",
-        "Kurt Vonnegut",
-        "Mikhail Bulgakov"
+        "\"The Lion King\"",
+        "\"Phantom of the Opera\"",
+        "\"Les Miserables\""
       ],
       "question": {
-        "text": "Which author wrote 'Lolita (2010 Penguin Classics ed.)'?"
+        "text": "What is the name of the ever-popular musical that features songs such as \"Little Girls\" and \"You Won't Be an Orphan for Long\"?"
       },
       "tags": [
+        "musicals",
+        "songs",
+        "theater",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -387,64 +500,89 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ffa7",
-      "correctAnswer": "Jerusalem",
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f951307",
+      "correctAnswer": "2001, A Space Odyssey",
       "incorrectAnswers": [
-        "Ramat Gan",
-        "Petah Tikva",
-        "Beersheba"
+        "Star Wars",
+        "Alien",
+        "E.T."
       ],
       "question": {
-        "text": "In which city is the Wailing Wall"
+        "text": "In what film does the HAL 9000 appear?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "film",
+        "fictitious_characters",
+        "science_fiction"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63adbd6e04c68cc1e14b8e37",
+      "correctAnswer": "Diamond",
+      "incorrectAnswers": [
+        "Quartz",
+        "Granite",
+        "Obsidian"
+      ],
+      "question": {
+        "text": "What type of rock is the hardest?"
+      },
+      "tags": [
+        "geology",
+        "science",
+        "materials"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "648888995dba6c873ef65059",
+      "correctAnswer": "Vinson",
+      "incorrectAnswers": [
+        "Aconcagua",
+        "Everest",
+        "Denali"
+      ],
+      "question": {
+        "text": "What is the highest peak on Antarctica?"
+      },
+      "tags": [
+        "mountains",
+        "geography",
+        "antarctica"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b57aefd6c701a92118372",
+      "correctAnswer": "USA",
+      "incorrectAnswers": [
+        "New Zealand",
+        "Belgium",
+        "France"
+      ],
+      "question": {
+        "text": "In which country would you find the Yellowstone National Park?"
       },
       "tags": [
         "tourist_attractions",
-        "places",
-        "cities",
+        "natural_wonders",
+        "general_knowledge",
         "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f80",
-      "correctAnswer": "Stephen King",
-      "incorrectAnswers": [
-        "H. P. Lovecraft",
-        "Edgar Allan Poe",
-        "Jack Vance"
-      ],
-      "question": {
-        "text": "Which author wrote 'It'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9be",
-      "correctAnswer": "William I",
-      "incorrectAnswers": [
-        "Anne",
-        "Richard II",
-        "William II"
-      ],
-      "question": {
-        "text": "Who was the monarch of England during the time period 1066-1087?"
-      },
-      "tags": [
-        "leaders",
-        "people",
-        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -453,21 +591,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6293ebf47f41d6338b96eecc",
-      "correctAnswer": "James Watt",
+      "id": "62ab33025202de619af28137",
+      "correctAnswer": "Opel",
       "incorrectAnswers": [
-        "Joe Tyler",
-        "Nikolaus August Otto",
-        "Thomas Edison"
+        "Honda",
+        "Ford",
+        "Rolls-Royce"
       ],
       "question": {
-        "text": "Which influential scientist improved the Newcomen steam engine, creating an efficient steam engine?"
+        "text": "The Corsa is a model of car made by which manufacturer?"
       },
       "tags": [
-        "people",
-        "history",
-        "science",
-        "inventions"
+        "motoring",
+        "business",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -475,19 +612,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f95017c",
-      "correctAnswer": "The Hunchback Of Natre Damme",
+      "category": "society_and_culture",
+      "id": "6262af464b176d54800e3dba",
+      "correctAnswer": "Before Anyone Else",
       "incorrectAnswers": [
-        "A Tale of Two Cities",
-        "Les Miserables",
-        "The Count of Monte Cristo"
+        "Best Among Equals",
+        "Brilliant Awesome Entertainment",
+        "Being An Enemy"
       ],
       "question": {
-        "text": "Which famous book begins with the line \"On January 6, 1482, the people of Paris were awakened by the tumultuous clanging of all the bells in the city\"?"
+        "text": "On internet chats, what do the letters 'BAE' mean?"
       },
       "tags": [
-        "arts_and_literature"
+        "the_internet",
+        "initials"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -495,151 +633,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "624335c3cfaae40c129614c9",
-      "correctAnswer": "A Foal",
+      "category": "film_and_tv",
+      "id": "625740979da29df7b05f73e9",
+      "correctAnswer": "A man deeply immersed in the Edinburgh drug scene tries to clean up and get out.",
       "incorrectAnswers": [
-        "A Nymph",
-        "A Farrow",
-        "A Calf"
+        "A veteran sets out to reform his neighbor who tried to steal his prized possession.",
+        "A Polish Jew struggles to survive the destruction of the Warsaw ghetto of World War II.",
+        "King Arthur and his Knights embark on a search for a religious relic."
       ],
       "question": {
-        "text": "What is a baby zebra known as?"
+        "text": "What is the plot of the movie Trainspotting?"
       },
       "tags": [
-        "animals",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "647edb8d520523194910c34a",
-      "correctAnswer": "Egypt",
-      "incorrectAnswers": [
-        "Tunisia",
-        "Morocco",
-        "Algeria"
-      ],
-      "question": {
-        "text": "Which country celebrates Suez National Day?"
-      },
-      "tags": [
-        "geography",
-        "society_and_culture",
-        "celebrations",
-        "countries"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056ea67a97013de78b532e",
-      "correctAnswer": "Soviet Union",
-      "incorrectAnswers": [
-        "France",
-        "Mexico",
-        "Brazil"
-      ],
-      "question": {
-        "text": "With what country did the US almost start a war during the Cuban Missile Crisis?"
-      },
-      "tags": [
-        "history",
-        "usa"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602e5f4b176d54800e3cd6",
-      "correctAnswer": "Saudi Arabia",
-      "incorrectAnswers": [
-        "Jordan",
-        "Iran",
-        "Kuwait"
-      ],
-      "question": {
-        "text": "Where would you find the city of Riyadh?"
-      },
-      "tags": [
-        "cities",
-        "the_middle_east",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233846262eaad73716a8c05",
-      "correctAnswer": "Arabic",
-      "incorrectAnswers": [
-        "Hebrew",
-        "Egyptian",
-        "Italian"
-      ],
-      "question": {
-        "text": "What is the official language of Egypt?"
-      },
-      "tags": [
-        "africa",
-        "language",
-        "the_middle_east",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510da",
-      "correctAnswer": "Comet",
-      "incorrectAnswers": [
-        "Meteor",
-        "Moon",
-        "Satellite"
-      ],
-      "question": {
-        "text": "A heavenly body moving under the attraction of the Sun and consisting of a nucleus and a tail is a(n) _______."
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "623388230161109f922aac6a",
-      "correctAnswer": "A Barometer ",
-      "incorrectAnswers": [
-        "A Hydrometer",
-        "A Meterometer",
-        "An Atmoseter"
-      ],
-      "question": {
-        "text": "Which Instrument Measures Atmospheric Pressure?"
-      },
-      "tags": [
-        "general_knowledge",
-        "science"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
