@@ -1,22 +1,25 @@
 {
-  "gameDate": "2026-01-21",
+  "gameDate": "2026-01-22",
   "difficulty": "easy",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fed6",
-      "correctAnswer": "Mariah Carey",
+      "category": "history",
+      "id": "64824ee57778562fd76a96b2",
+      "correctAnswer": "Stovepipe",
       "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Madonna"
+        "Tricorne",
+        "Fedora",
+        "Sombrero"
       ],
       "question": {
-        "text": "Which American singer and songwriter released the song 'All I Want for Christmas Is You'?"
+        "text": "What type of hat did Abraham Lincoln famously wear?"
       },
       "tags": [
-        "christmas",
-        "music"
+        "fashion",
+        "hats",
+        "history",
+        "presidents",
+        "people"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -24,20 +27,66 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff22",
-      "correctAnswer": "Madonna",
+      "category": "general_knowledge",
+      "id": "6477baa2550bc819ad646afd",
+      "correctAnswer": "A purr",
       "incorrectAnswers": [
-        "Eric Clapton",
-        "Nicki Minaj",
-        "Alanis Morissette"
+        "A meow",
+        "A mewl",
+        "A ruff"
       ],
       "question": {
-        "text": "Which American singer and songwriter released the single 'Like a Prayer'?"
+        "text": "What is the name of the endearing cat sound that is caused by the vibration of the false vocal cords?"
       },
       "tags": [
+        "animals",
+        "cats",
+        "sounds"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbdb",
+      "correctAnswer": "\"This is the day you will always remember as the day you almost caught Captain Jack Sparrow!\"",
+      "incorrectAnswers": [
+        "\"My precious.\"",
+        "\"I'll get you, my pretty, and your little dog, too!\"",
+        "\"Keep your friends close, but your enemies closer.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Pirates of the Caribbean: The Curse of the Black Pearl'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
         "general_knowledge",
-        "music"
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "65056f917a97013de78b5476",
+      "correctAnswer": "Rocky Mountains",
+      "incorrectAnswers": [
+        "Transantarctic mountains",
+        "Andes",
+        "Himalayas"
+      ],
+      "question": {
+        "text": "Which mountain range does the Colorado River flow through?"
+      },
+      "tags": [
+        "geography",
+        "rivers",
+        "mountains"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -46,20 +95,19 @@
     },
     {
       "category": "society_and_culture",
-      "id": "646339ce01d576cfac3aa3ba",
-      "correctAnswer": "Carol",
+      "id": "62ab32c15202de619af28124",
+      "correctAnswer": "Ford",
       "incorrectAnswers": [
-        "Blessing",
-        "Chant",
-        "Anthem"
+        "Alfa Romeo",
+        "BMW",
+        "Austin"
       ],
       "question": {
-        "text": "What is the general term for a Christmas song or hymn?"
+        "text": "Which car manufacturer makes the Mustang?"
       },
       "tags": [
-        "music",
-        "traditions",
-        "christmas",
+        "motoring",
+        "business",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -68,22 +116,128 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "63adbd5d04c68cc1e14b8e1d",
-      "correctAnswer": "Maple Tree",
+      "category": "geography",
+      "id": "62602d284b176d54800e3c83",
+      "correctAnswer": "Munich",
       "incorrectAnswers": [
-        "Oak Tree",
-        "Birch Tree",
-        "Elm Tree"
+        "Valencia",
+        "Budapest",
+        "Milan"
       ],
       "question": {
-        "text": "Which type of tree is known for its association with Canada and its bright red foliage in autumn?"
+        "text": "Which of these cities is in Germany?"
+      },
+      "tags": [
+        "cities",
+        "europe",
+        "germany",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b57dcfd6c701a92118384",
+      "correctAnswer": "China",
+      "incorrectAnswers": [
+        "Saudi Arabia",
+        "Argentina",
+        "Cuba"
+      ],
+      "question": {
+        "text": "In which country would you find the Forbidden City?"
+      },
+      "tags": [
+        "tourist_attractions",
+        "places",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056fa27a97013de78b548d",
+      "correctAnswer": "Kiwi",
+      "incorrectAnswers": [
+        "Tui",
+        "Bellbird",
+        "Moa"
+      ],
+      "question": {
+        "text": "What is the national bird of New Zealand?"
+      },
+      "tags": [
+        "national_symbols",
+        "New Zealand",
+        "birds"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570477a97013de78b5571",
+      "correctAnswer": "Thunder",
+      "incorrectAnswers": [
+        "Sonar",
+        "Gong",
+        "Clang"
+      ],
+      "question": {
+        "text": "What is the sound that is caused by a bolt of lightning?"
       },
       "tags": [
         "science",
-        "trees",
-        "canada",
-        "plants",
+        "meteorology"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3b7cc59eab6f9513b2",
+      "correctAnswer": "The Hobbit",
+      "incorrectAnswers": [
+        "Charlotte's Web",
+        "Alice's Adventures in Wonderland",
+        "Bluebeard"
+      ],
+      "question": {
+        "text": "In which book does 'Bilbo Baggins' appear?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcf8",
+      "correctAnswer": "Turkic",
+      "incorrectAnswers": [
+        "Koreanic",
+        "Afroasiatic",
+        "Niger–Congo"
+      ],
+      "question": {
+        "text": "The language 'Turkish' belongs to which language family?"
+      },
+      "tags": [
+        "language",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -92,20 +246,21 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f95177f",
-      "correctAnswer": "The Mongols",
+      "category": "society_and_culture",
+      "id": "622a1c3c7cc59eab6f951977",
+      "correctAnswer": "A Coven",
       "incorrectAnswers": [
-        "The Huns",
-        "The Parthians",
-        "The Greeks"
+        "A Nest",
+        "A Barrow",
+        "A Scatter"
       ],
       "question": {
-        "text": "Which people were led by Genghis Khan?"
+        "text": "What Is The Name Given To A Group Of Witches?"
       },
       "tags": [
-        "people",
-        "history"
+        "words",
+        "mythology",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -113,20 +268,134 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "65056ed47a97013de78b536e",
-      "correctAnswer": "Napoleonic War",
+      "category": "society_and_culture",
+      "id": "6262882b4b176d54800e3d8d",
+      "correctAnswer": "Disneyland",
       "incorrectAnswers": [
-        "World War II",
-        "Vietnam War",
-        "Korean War"
+        "Hallmark",
+        "Holiday Inn",
+        "Airbnb"
       ],
       "question": {
-        "text": "Which of these wars took place before World War I?"
+        "text": "Which brand is associated with the marketing slogan 'The happiest place on earth'?"
       },
       "tags": [
-        "history",
-        "wars"
+        "business",
+        "marketing",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f922",
+      "correctAnswer": "Austin Powers: International Man of Mystery",
+      "incorrectAnswers": [
+        "Die Hard",
+        "The Adventures of Robin Hood",
+        "Pulp Fiction"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Dr. Evil'?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64fb5b33717513cb79190406",
+      "correctAnswer": "Loitering",
+      "incorrectAnswers": [
+        "Shoplifting",
+        "Jaywalking",
+        "Vandalism"
+      ],
+      "question": {
+        "text": "What crime could be considered if someone is hanging out in public for no good reason?"
+      },
+      "tags": [
+        "crime",
+        "law",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f951354",
+      "correctAnswer": "Monochrome",
+      "incorrectAnswers": [
+        "Magenta",
+        "Unicolor",
+        "Solohue"
+      ],
+      "question": {
+        "text": "What word describes a painting executed in a single color?"
+      },
+      "tags": [
+        "words",
+        "art",
+        "painting",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "649fcb35ebb41911d4cbd6cf",
+      "correctAnswer": "Barack Obama",
+      "incorrectAnswers": [
+        "Bill Clinton",
+        "George Bush",
+        "Donald Trump"
+      ],
+      "question": {
+        "text": "Which former US president's wife is called Michelle? "
+      },
+      "tags": [
+        "presidents",
+        "usa",
+        "people",
+        "society_and_culture",
+        "world_leaders"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f951369",
+      "correctAnswer": "Art deco",
+      "incorrectAnswers": [
+        "Cubism",
+        "Surrealism",
+        "Dadaism"
+      ],
+      "question": {
+        "text": "Which design style prevalent during the 1920s and 1930s was characterized by a sleek use of straight lines and slender forms?"
+      },
+      "tags": [
+        "art",
+        "1920's",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -135,20 +404,17 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94ff2d",
-      "correctAnswer": "Michael Jackson",
+      "id": "65056e0a7a97013de78b5254",
+      "correctAnswer": "Conductor",
       "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
+        "Composer",
+        "Soloist",
+        "Concertmaster"
       ],
       "question": {
-        "text": "Who sung the song 'Smooth Criminal'?"
+        "text": "Who directs an orchestra?"
       },
       "tags": [
-        "songs",
-        "musicians",
-        "general_knowledge",
         "music"
       ],
       "type": "text_choice",
@@ -157,44 +423,19 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515fb",
-      "correctAnswer": "Margarita",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f95106e",
+      "correctAnswer": "Dermatologist",
       "incorrectAnswers": [
-        "Bloody Mary",
-        "Mojito",
-        "Martini"
+        "Permologist",
+        "Skin Clinician",
+        "Visologist"
       ],
       "question": {
-        "text": "What cocktail is made with triple sec, tequila, and lime juice?"
+        "text": "What is a skin specialist called?"
       },
       "tags": [
-        "drink",
-        "food_and_drink",
-        "cocktails",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056e517a97013de78b52b8",
-      "correctAnswer": "Titanic",
-      "incorrectAnswers": [
-        "Britannic",
-        "Lusitania",
-        "Queen Mary"
-      ],
-      "question": {
-        "text": "Which ship was famously described as 'unsinkable' before it sank after hitting an iceberg?"
-      },
-      "tags": [
-        "history",
-        "maritime",
-        "ships"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -203,42 +444,44 @@
     },
     {
       "category": "society_and_culture",
-      "id": "65056efe7a97013de78b53aa",
-      "correctAnswer": "zapato",
+      "id": "64824e707778562fd76a9646",
+      "correctAnswer": "Giorgio Armani",
       "incorrectAnswers": [
-        "bota",
-        "sandalia",
-        "calcetín"
+        "Gucci Adriano",
+        "Giovanni Anselmi",
+        "Gabriel Alvarez"
       ],
       "question": {
-        "text": "What is the Spanish word for 'shoe'?"
+        "text": "Which Italian fashion designer has the initials G.A.?"
       },
       "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ebdc7f41d6338b96eec5",
-      "correctAnswer": "Moses",
-      "incorrectAnswers": [
-        "Mohammed",
-        "Frodo",
-        "Buddha"
-      ],
-      "question": {
-        "text": "Who of these was a key figure of Jewish/Christian history?"
-      },
-      "tags": [
+        "designers",
+        "fashion",
         "people",
         "society_and_culture",
-        "christianity",
-        "judaism",
-        "religion"
+        "italy"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950aa4",
+      "correctAnswer": "United States of America",
+      "incorrectAnswers": [
+        "El Salvador",
+        "Honduras",
+        "Nicaragua"
+      ],
+      "question": {
+        "text": "Which of these countries borders Mexico?"
+      },
+      "tags": [
+        "central_america",
+        "general_knowledge",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -266,83 +509,22 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "625ea012796f721e95543fcc",
-      "correctAnswer": "13 horizontal stripes of red and white, with a blue rectangle in the top left containing 50 white stars.",
-      "incorrectAnswers": [
-        "Two equal horizontal bands of blue and yellow.",
-        "Red with a white cross that extends to the edges.",
-        "Green with a yellow diamond in the center with a blue celestial globe."
-      ],
-      "question": {
-        "text": "What does the flag of United States look like?"
-      },
-      "tags": [
-        "flags",
-        "usa",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd4f",
-      "correctAnswer": "Guitar",
-      "incorrectAnswers": [
-        "Piano",
-        "Drums",
-        "Saxophone"
-      ],
-      "question": {
-        "text": "With Which Instrument Is Les Paul Associated?"
-      },
-      "tags": [
-        "people",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "65056eb27a97013de78b533e",
-      "correctAnswer": "Orson Welles",
-      "incorrectAnswers": [
-        "Billy Wilder",
-        "Howard Hawks",
-        "Carol Reed"
-      ],
-      "question": {
-        "text": "Who was the director of the film \"Citizen Kane\"?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "622a1c377cc59eab6f950534",
-      "correctAnswer": "The Future",
+      "id": "622a1c3c7cc59eab6f951958",
+      "correctAnswer": "Hubble",
       "incorrectAnswers": [
-        "Science Fiction",
-        "Palm Reading",
-        "Drugs"
+        "Bubble",
+        "Toil",
+        "Trouble"
       ],
       "question": {
-        "text": "What is futurology the study of?"
+        "text": "What is the name of the space telescope that was placed in Earth's orbit in 1990?"
       },
       "tags": [
-        "words",
+        "physics",
+        "astronomy",
+        "events",
+        "1990's",
         "science"
       ],
       "type": "text_choice",
@@ -351,90 +533,20 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f891",
-      "correctAnswer": "Football",
-      "incorrectAnswers": [
-        "Hockey",
-        "Tennis",
-        "Surfing"
-      ],
-      "question": {
-        "text": "With which sport is David Beckham associated?"
-      },
-      "tags": [
-        "people",
-        "general_knowledge",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fadd",
-      "correctAnswer": "Tom Hanks",
-      "incorrectAnswers": [
-        "Morgan Freeman",
-        "Nigel Hawthorne",
-        "Paul Newman"
-      ],
-      "question": {
-        "text": "Who won the 1994 Academy Award for Best Leading Actor for playing the role of Forrest Gump in Forrest Gump?"
-      },
-      "tags": [
-        "academy_awards",
-        "acting",
-        "film",
-        "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "62602dc7014f58b5fc1a3fc4",
-      "correctAnswer": "St Petersburg",
+      "id": "62602e3a4b176d54800e3ccb",
+      "correctAnswer": "Jerusalem",
       "incorrectAnswers": [
-        "Paris",
-        "Athens",
-        "Rome"
+        "Al-Ain",
+        "Antalya",
+        "Adana"
       ],
       "question": {
-        "text": "Which of these cities is in Russia?"
+        "text": "Which of these cities is in Israel?"
       },
       "tags": [
         "cities",
-        "europe",
-        "russia",
         "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "648888d65dba6c873ef650b1",
-      "correctAnswer": "Oompa Loompas",
-      "incorrectAnswers": [
-        "Ongo Bongos",
-        "Oogie Boogies",
-        "Pogre Ogres"
-      ],
-      "question": {
-        "text": "What are the name of the factory workers who love cacao beans in a classic children's book by Roald Dahl?"
-      },
-      "tags": [
-        "childrens_literature",
-        "literature",
-        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -443,18 +555,17 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f9510c8",
-      "correctAnswer": "Reptiles",
+      "id": "622a1c3a7cc59eab6f951073",
+      "correctAnswer": "Black",
       "incorrectAnswers": [
-        "Mammals",
-        "Amphibians",
-        "Lizards"
+        "White",
+        "Red",
+        "Brown"
       ],
       "question": {
-        "text": "Marine iguanas, saltwater crocodiles, sea snakes, and sea turtles are the only surviving seawater __________"
+        "text": "What color spots has the common ladybird?"
       },
       "tags": [
-        "animals",
         "science"
       ],
       "type": "text_choice",
@@ -463,106 +574,20 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9c4",
-      "correctAnswer": "William J. Clinton",
-      "incorrectAnswers": [
-        "Rutherford B. Hayes",
-        "Woodrow Wilson",
-        "Dwight Eisenhower"
-      ],
-      "question": {
-        "text": "Who was the 42nd president of the USA, in term during the period 1993–2001?"
-      },
-      "tags": [
-        "usa",
-        "presidents",
-        "1990's",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ec2e7f41d6338b96eedd",
-      "correctAnswer": "Greek philosopher.",
-      "incorrectAnswers": [
-        "Principle author of the US Declaration of Independence.",
-        "Queen of Castille, who helped create a powerful and unified state of Spain whose influence spread to the Americas.",
-        "Conquistador who conquered the Aztec lands of modern-day Mexico."
-      ],
-      "question": {
-        "text": "Which of the following describes Plato?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "6477bad7550bc819ad646b2c",
-      "correctAnswer": "A penalty kick",
-      "incorrectAnswers": [
-        "A free kick",
-        "An own goal",
-        "A red card"
-      ],
-      "question": {
-        "text": "What event occurs in soccer when a defender commits a foul in their own penalty area?"
-      },
-      "tags": [
-        "soccer",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f887",
-      "correctAnswer": "Baseball",
-      "incorrectAnswers": [
-        "Volleyball",
-        "Boxing",
-        "Table tennis"
-      ],
-      "question": {
-        "text": "With which sport is Joe DiMaggio associated?"
-      },
-      "tags": [
-        "people",
-        "general_knowledge",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "623b5794fd6c701a92118368",
-      "correctAnswer": "Athens",
+      "id": "62374081cb85f7ce9e949d05",
+      "correctAnswer": "Germany",
       "incorrectAnswers": [
-        "Jerusalem",
-        "Moscow",
-        "Venice"
+        "Ukraine",
+        "Poland",
+        "Switzerland"
       ],
       "question": {
-        "text": "In which city would you find the Acropolis?"
+        "text": "Berlin is the capital city of which country?"
       },
       "tags": [
+        "capital_cities",
+        "general_knowledge",
         "geography"
       ],
       "type": "text_choice",
@@ -571,20 +596,40 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fba1",
-      "correctAnswer": "\"Circle of Life\" by Elton John",
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f9522cb",
+      "correctAnswer": "Hydroponics",
       "incorrectAnswers": [
-        "\"SpongeBob SquarePants Theme\" by Painty the Pirate",
-        "\"Let's Go Crazy\" by Prince and The Revolution",
-        "\"What I Got\" by Sublime"
+        "Aquonics",
+        "Horticulture",
+        "Waterculture"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"Nants ingonyama bagithi Baba / Sithi uhm ingonyama...\"?"
+        "text": "What is the name given to the practice of growing plants in liquids rather than soil?"
       },
       "tags": [
-        "songs",
-        "lyrics",
+        "plants",
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d31",
+      "correctAnswer": "The Beatles",
+      "incorrectAnswers": [
+        "Deep Purple",
+        "Feeder",
+        "Uriah Heep"
+      ],
+      "question": {
+        "text": "Which English rock band released the song 'A Hard Day's Night'?"
+      },
+      "tags": [
         "music"
       ],
       "type": "text_choice",
@@ -593,65 +638,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "648891854cd3f064f443dc27",
-      "correctAnswer": "The Yellow Brick Road",
-      "incorrectAnswers": [
-        "The Red Brick Road",
-        "The Emerald Road",
-        "The Sapphire Road"
-      ],
-      "question": {
-        "text": "What did Dorothy and her friends walk down in The Wizard of Oz?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "literature",
-        "childrens_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbf7",
-      "correctAnswer": "\"A martini. Shaken, not stirred.\"",
+      "id": "64e6fd9b0b79e5bedd55c8bd",
+      "correctAnswer": "Hitchcock",
       "incorrectAnswers": [
-        "\"Elementary, my dear Watson.\"",
-        "\"Carpe diem. Seize the day, boys. Make your lives extraordinary.\"",
-        "\"Go ahead, make my day.\""
+        "Spielberg",
+        "Tarantino",
+        "Scorsese"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Goldfinger'?"
+        "text": "Which master of suspense directed the 1969 film 'Topaz', a tale of Cold War defectors and double-dealing spies?"
       },
       "tags": [
-        "quotes",
-        "film",
-        "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f049da29df7b05f7382",
-      "correctAnswer": "The Lord of the Rings: The Fellowship of the Ring",
-      "incorrectAnswers": [
-        "Star Wars",
-        "Double Indemnity",
-        "Logan"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A Hobbit and eight companions set out on a journey to destroy the powerful One Ring.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
+        "directors",
+        "movies",
+        "thrillers"
       ],
       "type": "text_choice",
       "difficulty": "easy",
