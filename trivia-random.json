@@ -1,44 +1,70 @@
 {
-  "gameDate": "2026-01-22",
+  "gameDate": "2026-01-23",
   "difficulty": "random",
   "results": [
     {
-      "category": "geography",
-      "id": "64b9a297fa11352f5124c35b",
-      "correctAnswer": "Tallahassee",
+      "category": "arts_and_literature",
+      "id": "646089a9de964ebc39016c71",
+      "correctAnswer": "Botticelli",
       "incorrectAnswers": [
-        "Miami",
-        "Orlando",
-        "Jacksonville"
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Raphael"
       ],
       "question": {
-        "text": "Which city of Florida got its name from Creek words meaning 'old town'?"
+        "text": "Which Italian artist shocked 1485 Florence with his large nude painting of the birth of a goddess?"
       },
       "tags": [
-        "usa",
-        "geography",
-        "cities",
-        "languages"
+        "painting",
+        "renaissance",
+        "art",
+        "arts_and_literature",
+        "1400's"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3c7cc59eab6f9517ef",
+      "correctAnswer": "Apple",
+      "incorrectAnswers": [
+        "Microsoft",
+        "IBM",
+        "Amstrad"
+      ],
+      "question": {
+        "text": "Which company in 1984 advertised their new computer during the Super Bowl, and never re-used the commercial?"
+      },
+      "tags": [
+        "business",
+        "society_and_culture",
+        "advertising",
+        "computing",
+        "american_football",
+        "football",
+        "technology"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f4a",
-      "correctAnswer": "Jules Verne",
+      "id": "622a1c397cc59eab6f950f15",
+      "correctAnswer": "Giovanni Boccaccio",
       "incorrectAnswers": [
-        "Victor Hugo",
-        "Alphonse Daudet",
-        "Edgar Rice Burroughs"
+        "Dante Alighieri",
+        "Agatha Christie",
+        "Stephenie Meyer"
       ],
       "question": {
-        "text": "Which author wrote 'Around the Moon'?"
+        "text": "Which author wrote 'The Decameron'?"
       },
       "tags": [
-        "literature",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -47,192 +73,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcb9",
-      "correctAnswer": "Indo-European",
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501d1",
+      "correctAnswer": "Slaughterhouse-Five",
       "incorrectAnswers": [
-        "Austroasiatic",
-        "Niger–Congo",
-        "Sino-Tibetan"
+        "A Clockwork Orange",
+        "Catch-22",
+        "Flatland"
       ],
       "question": {
-        "text": "The language 'Saraiki' belongs to which language family?"
+        "text": "Which piece of written work starts with the line 'All this happened, more or less.'?"
       },
       "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c48",
-      "correctAnswer": "The Beach Boys",
-      "incorrectAnswers": [
-        "Swans",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American rock band released the song 'God Only Knows'?"
-      },
-      "tags": [
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6266e646ff2394bd44dee03e",
-      "correctAnswer": "Quatre",
-      "incorrectAnswers": [
-        "Quattro",
-        "Vier",
-        "Sept"
-      ],
-      "question": {
-        "text": "In French, what is the word for for 'four'?"
-      },
-      "tags": [
-        "language",
-        "translations",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570377a97013de78b555a",
-      "correctAnswer": "Hypocenter",
-      "incorrectAnswers": [
-        "Mohorovic center",
-        "Refraction ridge",
-        "Karman line"
-      ],
-      "question": {
-        "text": "What is the focus of an earthquake, deep in the ground where it actually starts?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c3c7cc59eab6f951a48",
-      "correctAnswer": "Melbourne",
-      "incorrectAnswers": [
-        "Cape Town",
-        "Buenos Aires",
-        "Rio de Janeiro"
-      ],
-      "question": {
-        "text": "The first ever Olympic Games to be held south of the equator opened in which city in 1956?"
-      },
-      "tags": [
-        "cities",
-        "olympics",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "649dee4e615f8db40f5422cd",
-      "correctAnswer": "The Terminator",
-      "incorrectAnswers": [
-        "RoboCop",
-        "Aliens",
-        "Predator"
-      ],
-      "question": {
-        "text": "Which movie from 1984 features the line 'It doesn't feel pity, or remorse, or fear. And it absolutely will not stop... ever, until you are dead!'?"
-      },
-      "tags": [
-        "film",
-        "film_quotes",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233861462eaad73716a8cb0",
-      "correctAnswer": "Boston",
-      "incorrectAnswers": [
-        "Austin",
-        "Atlanta",
-        "Philadelphia"
-      ],
-      "question": {
-        "text": "In which US city is Beacon Street?"
-      },
-      "tags": [
-        "usa",
-        "cities",
-        "places",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9ef2796f721e95543f78",
-      "correctAnswer": "White",
-      "incorrectAnswers": [
-        "Blue",
-        "Gold",
-        "Yellow"
-      ],
-      "question": {
-        "text": "Which of these colors is included on the flag of Kenya?"
-      },
-      "tags": [
-        "flags",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f882",
-      "correctAnswer": "Athletics",
-      "incorrectAnswers": [
-        "Snooker",
-        "Gymnastics",
-        "Rowing"
-      ],
-      "question": {
-        "text": "With which sport is Al Oerter associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
+        "literature",
+        "quotes",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -241,41 +96,19 @@
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f9517b2",
-      "correctAnswer": "Winston Churchill",
+      "id": "639ae2d2929b90846f2fc8b9",
+      "correctAnswer": "Freyja",
       "incorrectAnswers": [
-        "Clement Atlee",
-        "Tony Blair",
-        "Neville Chamberlain"
+        "Frigg",
+        "Idun",
+        "Freyr"
       ],
       "question": {
-        "text": "Which former British prime minister returned to power in 1951?"
+        "text": "What is the name of the Norse goddess of love and beauty?"
       },
       "tags": [
-        "uk",
-        "politics",
         "history",
-        "leaders"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950cb1",
-      "correctAnswer": "Pink Floyd",
-      "incorrectAnswers": [
-        "Wings",
-        "Rudimental",
-        "The Alan Parsons Project"
-      ],
-      "question": {
-        "text": "Which English rock band released the studio album 'The Final Cut'?"
-      },
-      "tags": [
-        "music"
+        "vikings"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -283,22 +116,20 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "648ee4224fe93387161138ae",
-      "correctAnswer": "Thumper",
+      "category": "food_and_drink",
+      "id": "62716477d5d487fbab6b795a",
+      "correctAnswer": "Italy",
       "incorrectAnswers": [
-        "Flower",
-        "Faline",
-        "Ronno"
+        "Ghana",
+        "Panama",
+        "Nepal"
       ],
       "question": {
-        "text": "What is the name of Bambi's rabbit friend?"
+        "text": "In which country is grappa a popular drink?"
       },
       "tags": [
-        "disney",
-        "film",
-        "film_and_tv",
-        "fictitious_characters"
+        "drink",
+        "alcohol"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -306,23 +137,62 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6462624aab138b829b81e9d8",
-      "correctAnswer": "Morse code",
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f9512e8",
+      "correctAnswer": "Classicism",
       "incorrectAnswers": [
-        "Binary code",
-        "ASCII code",
-        "Unicode"
+        "Aesthetics",
+        "Romanticism",
+        "Baroque"
       ],
       "question": {
-        "text": "What is the name of the communication method represented by a series of dots and dashes?"
+        "text": "Which artistic style refers to the following of principles of Ancient Greek and Roman art?"
       },
       "tags": [
-        "communication",
-        "technology",
-        "science",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950313",
+      "correctAnswer": "Buz Aldrin",
+      "incorrectAnswers": [
+        "Neil Armstrong",
+        "Michael Collins",
+        "John Glenn"
+      ],
+      "question": {
+        "text": "Who was the second person to set foot on the moon?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ff80",
+      "correctAnswer": "London",
+      "incorrectAnswers": [
+        "Cardiff",
+        "Edinburgh",
+        "Glasgow"
+      ],
+      "question": {
+        "text": "What is the capital of the United Kingdom"
+      },
+      "tags": [
+        "capital_cities",
         "general_knowledge",
-        "language"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -330,60 +200,40 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f950219",
-      "correctAnswer": "Michael Fish ",
+      "category": "sport_and_leisure",
+      "id": "63a03981c7d86251f9b65c6e",
+      "correctAnswer": "Chess",
       "incorrectAnswers": [
-        "Gordon Jones",
-        "Harry Mortimer",
-        "Brian Daniels"
+        "Scrabble",
+        "Life",
+        "Monopoly"
       ],
       "question": {
-        "text": "Which BBC Weather Man Famously Denied Reports Of A Possible Hurricane In 1987?"
+        "text": "What is the name of the classic board game where players must move pieces around a board in an effort to capture their opponent’s pieces?"
       },
       "tags": [
+        "board_games",
         "general_knowledge"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "626030b44b176d54800e3d38",
-      "correctAnswer": "Kyrgyzstan",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f2e",
+      "correctAnswer": "Hans Christian Andersen",
       "incorrectAnswers": [
-        "Belarus",
-        "Tajikistan",
-        "Azerbaijan"
+        "Beatrix Potter",
+        "Søren Kierkegaard",
+        "Oscar Wilde"
       ],
       "question": {
-        "text": "Where would you find the city of Bishkek?"
+        "text": "Which author wrote 'The Ugly Duckling'?"
       },
       "tags": [
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056ef57a97013de78b539c",
-      "correctAnswer": "Amistad",
-      "incorrectAnswers": [
-        "Wawona",
-        "Adventuress",
-        "MV Semlow"
-      ],
-      "question": {
-        "text": "In 1839, which ship's mutiny and subsequent court case came to symbolize the fight against the transatlantic slave trade?"
-      },
-      "tags": [
-        "history"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -391,65 +241,62 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c0e",
-      "correctAnswer": "Dream Theater",
-      "incorrectAnswers": [
-        "Jars of Clay",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American progressive metal band released the studio album 'Metropolis Pt. 2: Scenes from a Memory'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950ac4",
-      "correctAnswer": "Latvia",
-      "incorrectAnswers": [
-        "Kyrgyzstan",
-        "Tajikistan",
-        "Uzbekistan"
-      ],
-      "question": {
-        "text": "Which of these countries borders Russia?"
-      },
-      "tags": [
-        "russia",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "622a1c3a7cc59eab6f950fff",
-      "correctAnswer": "Roadrunner",
+      "id": "625740729da29df7b05f73de",
+      "correctAnswer": "A shadowy freedom fighter plots to overthrow the tyrannical government.",
       "incorrectAnswers": [
-        "Emu",
-        "Bald Eagle",
-        "Canary"
+        "Two men searching for work in 1920s Mexico convince an old prospector to help them mine for gold.",
+        "A New York City mob boss transfers control of his empire to his reluctant son.",
+        "An Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel."
       ],
       "question": {
-        "text": "Which Bird Is Resident Of The American Southwest & Has Been Immortilized In A Cartoon Series?"
+        "text": "What is the plot of the movie V for Vendetta?"
       },
       "tags": [
-        "general_knowledge",
-        "cartoons",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515ad",
+      "correctAnswer": "Raw",
+      "incorrectAnswers": [
+        "Fried",
+        "Boiled",
+        "Grilled"
+      ],
+      "question": {
+        "text": "How is steak tartare cooked?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242cba5d543524f1b19c943",
+      "correctAnswer": "A school",
+      "incorrectAnswers": [
+        "A herd",
+        "A murder",
+        "A murmuration"
+      ],
+      "question": {
+        "text": "What is the word for a group of whales?"
+      },
+      "tags": [
         "animals",
-        "birds",
-        "film_and_tv",
-        "tv"
+        "words",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -458,15 +305,15 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f95104b",
-      "correctAnswer": "Radioactivity",
+      "id": "622a1c3a7cc59eab6f951099",
+      "correctAnswer": "Larva",
       "incorrectAnswers": [
-        "Oscillations",
-        "Snowfall",
-        "Planetary Orbits"
+        "Bulba",
+        "Curla",
+        "Meta"
       ],
       "question": {
-        "text": "What is measured by a Geiger counter"
+        "text": "The four stages in the lifecycle of an insect are: egg, adult, pupa, and ________."
       },
       "tags": [
         "science"
@@ -477,63 +324,19 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6477bb12550bc819ad646b67",
-      "correctAnswer": "99",
+      "category": "history",
+      "id": "622a1c367cc59eab6f950351",
+      "correctAnswer": "Thomas Edison",
       "incorrectAnswers": [
-        "23",
-        "49",
-        "59"
+        "Merlin",
+        "Richard Feynman",
+        "Harry Houdini"
       ],
       "question": {
-        "text": "What is the result of the mathematical expression 'fourscore & 19'?"
+        "text": "Who was known as \"The Wizard of Menlo Park\"?"
       },
       "tags": [
-        "numbers",
-        "mathematics",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950666",
-      "correctAnswer": "Tobey Maguire",
-      "incorrectAnswers": [
-        "Warwick Davis",
-        "Timothy Spall",
-        "Hugo Weaving"
-      ],
-      "question": {
-        "text": "Which actor has appeared in both Spider-Man and Roseanne?"
-      },
-      "tags": [
-        "acting",
-        "film"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b5782fd6c701a92118361",
-      "correctAnswer": "Jordan",
-      "incorrectAnswers": [
-        "Malta",
-        "Peru",
-        "Saudi Arabia"
-      ],
-      "question": {
-        "text": "In which country would you find the UNESCO World Heritage site of Petra?"
-      },
-      "tags": [
-        "tourist_attractions",
-        "geography"
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -542,83 +345,17 @@
     },
     {
       "category": "geography",
-      "id": "622a1c387cc59eab6f950854",
-      "correctAnswer": "Iraq",
+      "id": "6233867062eaad73716a8cd2",
+      "correctAnswer": "Athens",
       "incorrectAnswers": [
-        "Bahrain",
-        "Qatar",
-        "Iran"
+        "Rome",
+        "Florence",
+        "Crete"
       ],
       "question": {
-        "text": "Which of these countries borders Kuwait?"
+        "text": "Where is the Parthenon located?"
       },
       "tags": [
-        "the_middle_east",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950494",
-      "correctAnswer": "a branch of geology that studies sediments",
-      "incorrectAnswers": [
-        "bones",
-        "the study and treatment of diseases of the urogenital tract",
-        "the eyes"
-      ],
-      "question": {
-        "text": "What is Sedimentology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c06",
-      "correctAnswer": "Muse",
-      "incorrectAnswers": [
-        "Tears for Fears",
-        "Bullet For My Valentine",
-        "Enter Shikari"
-      ],
-      "question": {
-        "text": "Which English rock band released the song 'Plug In Baby'?"
-      },
-      "tags": [
-        "rock_music",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ff97",
-      "correctAnswer": "San Francisco",
-      "incorrectAnswers": [
-        "New York City",
-        "Washington, D.C.",
-        "Los Angeles"
-      ],
-      "question": {
-        "text": "What city is associated with Alcatraz?"
-      },
-      "tags": [
-        "islands",
-        "crime",
-        "usa",
-        "places",
         "geography"
       ],
       "type": "text_choice",
@@ -628,25 +365,282 @@
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f95181f",
-      "correctAnswer": "Abraham Lincoln",
+      "id": "622a1c377cc59eab6f950442",
+      "correctAnswer": "Aristotle",
       "incorrectAnswers": [
-        "John F. Kennedy",
-        "James Garfield",
-        "William McKinley"
+        "Plato",
+        "Socrates",
+        "Diogenes"
       ],
       "question": {
-        "text": "Which American president was assassinated in a theatre?"
+        "text": "Who taught Alexander the Great? "
       },
       "tags": [
-        "presidents",
-        "usa",
-        "assassinations",
-        "events",
+        "ancient_greece",
+        "the_ancient_world",
+        "classics",
+        "philosophy",
+        "people",
         "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6262885a4b176d54800e3d97",
+      "correctAnswer": "Because you're worth it",
+      "incorrectAnswers": [
+        "Quality never goes out of style",
+        "Maybe she's born with it",
+        "It's Style"
+      ],
+      "question": {
+        "text": "Which marketing slogan would you associate with L'Oreal?"
+      },
+      "tags": [
+        "business",
+        "marketing",
+        "fashion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdd4",
+      "correctAnswer": "Bruno Mars",
+      "incorrectAnswers": [
+        "Nicki Minaj",
+        "Ludacris",
+        "Katy Perry"
+      ],
+      "question": {
+        "text": "Which American musician released the song 'Just the Way You Are'?"
+      },
+      "tags": [
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9505c3",
+      "correctAnswer": "Jared Leto",
+      "incorrectAnswers": [
+        "Peter Cushing",
+        "Kenneth Branagh",
+        "Luke Evans"
+      ],
+      "question": {
+        "text": "Which actor has had roles in films including Fight Club and Requiem for a Dream?"
+      },
+      "tags": [
+        "film_and_tv",
+        "film",
+        "acting"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f978",
+      "correctAnswer": "Lonesome Dove",
+      "incorrectAnswers": [
+        "In Our Time",
+        "The Moviegoer",
+        "The Swimmer"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Augustus McCrae'?"
+      },
+      "tags": [
+        "literature",
+        "fictitious_characters",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f951603",
+      "correctAnswer": "Flower Buds ",
+      "incorrectAnswers": [
+        "Fish Eggs",
+        "Berries",
+        "Fermented Tubers"
+      ],
+      "question": {
+        "text": "Capers Are Derived From What?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62ab32a95202de619af2811d",
+      "correctAnswer": "Chevrolet",
+      "incorrectAnswers": [
+        "Ford",
+        "BMW",
+        "Aston Martin"
+      ],
+      "question": {
+        "text": "The Corvette is a model of car made by which manufacturer?"
+      },
+      "tags": [
+        "motoring",
+        "business",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bca",
+      "correctAnswer": "Lordi",
+      "incorrectAnswers": [
+        "Nightwish",
+        "Poets of the Fall",
+        "Stratovarius"
+      ],
+      "question": {
+        "text": "Which Finnish hard rock band released the album 'The Arockalypse'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "63f39500989356ef48370bdd",
+      "correctAnswer": "Sumida River",
+      "incorrectAnswers": [
+        "Yellow River",
+        "Kiso River",
+        "Pearl River"
+      ],
+      "question": {
+        "text": "Which river runs through Tokyo?"
+      },
+      "tags": [
+        "geography",
+        "japan",
+        "rivers",
+        "bodies_of_water",
+        "cities"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe7e",
+      "correctAnswer": "Lady Gaga",
+      "incorrectAnswers": [
+        "Hikaru Utada",
+        "Drake",
+        "Madonna"
+      ],
+      "question": {
+        "text": "Which American singer, songwriter, and actress released the studio album 'Born This Way'?"
+      },
+      "tags": [
+        "songs",
+        "musicians",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624335b1cfaae40c129614c2",
+      "correctAnswer": "A Joey",
+      "incorrectAnswers": [
+        "A Cygnet",
+        "A Farrow",
+        "A Caterpillar"
+      ],
+      "question": {
+        "text": "What would you call a baby wombat?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623741f7cb85f7ce9e949d9c",
+      "correctAnswer": "Lisbon",
+      "incorrectAnswers": [
+        "Santo Domingo",
+        "Suva",
+        "Oslo"
+      ],
+      "question": {
+        "text": "What is the capital city of Portugal?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "65056ede7a97013de78b537c",
+      "correctAnswer": "Beethoven",
+      "incorrectAnswers": [
+        "Mozart",
+        "Bruckner",
+        "Stravinsky"
+      ],
+      "question": {
+        "text": "Whose hearing began to deteriorate in his late twenties which led to almost complete deafness?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     }
