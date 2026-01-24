@@ -1,23 +1,282 @@
 {
-  "gameDate": "2026-01-23",
+  "gameDate": "2026-01-24",
   "difficulty": "medium",
   "results": [
     {
-      "category": "geography",
-      "id": "623b57aefd6c701a92118372",
-      "correctAnswer": "USA",
+      "category": "science",
+      "id": "64746b3f5a4c31088dd9d045",
+      "correctAnswer": "The diameter",
       "incorrectAnswers": [
-        "New Zealand",
-        "Belgium",
-        "France"
+        "The radius",
+        "The circumference",
+        "The chord"
       ],
       "question": {
-        "text": "In which country would you find the Yellowstone National Park?"
+        "text": "What is the name of the line that divides a circle into two equal parts?"
       },
       "tags": [
-        "tourist_attractions",
-        "natural_wonders",
-        "general_knowledge",
+        "geometry",
+        "mathematics",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64fb5b33717513cb79190402",
+      "correctAnswer": "Control",
+      "incorrectAnswers": [
+        "Test",
+        "Experimental",
+        "Base"
+      ],
+      "question": {
+        "text": "In experiments, what is the name of the group that does not receive the treatment?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "645c9f8742ea81e2554c5f41",
+      "correctAnswer": "Hawaii",
+      "incorrectAnswers": [
+        "Alaska",
+        "Puerto Rico",
+        "Guam"
+      ],
+      "question": {
+        "text": "Which U.S. territory was attacked 18 years before it became a state in 1959?"
+      },
+      "tags": [
+        "usa",
+        "us_states",
+        "1950's"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ebbd7f41d6338b96eebc",
+      "correctAnswer": "One of the main writers of the New Testament.",
+      "incorrectAnswers": [
+        "The first pope.",
+        "Missionary responsibile for spreading Christianity to East Asia. ",
+        "One of the main characters of the Protestant Reformation. "
+      ],
+      "question": {
+        "text": "Which of the following describes St. Paul?"
+      },
+      "tags": [
+        "people",
+        "society_and_culture",
+        "religion",
+        "christianity"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "645cb0e67d263fd50970438d",
+      "correctAnswer": "Indochina",
+      "incorrectAnswers": [
+        "Malay",
+        "Malacca",
+        "Sunda"
+      ],
+      "question": {
+        "text": "Cambodia, Laos, and Vietnam are located on what peninsula?"
+      },
+      "tags": [
+        "countries",
+        "peninsulas",
+        "southeast_asia",
+        "asia",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f91e",
+      "correctAnswer": "Wall Street",
+      "incorrectAnswers": [
+        "Pirates of the Caribbean",
+        "Gangs of New York",
+        "The Lord of the Rings"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Gordon Gekko'?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8b5",
+      "correctAnswer": "Cricket",
+      "incorrectAnswers": [
+        "Hockey",
+        "Table tennis",
+        "Cycling"
+      ],
+      "question": {
+        "text": "With which sport is Sachin Tendulkar associated?"
+      },
+      "tags": [
+        "people",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6262af864b176d54800e3dcd",
+      "correctAnswer": "Today I Learned",
+      "incorrectAnswers": [
+        "Total Internet Legend",
+        "Totally In Love",
+        "To Invoke Laughter"
+      ],
+      "question": {
+        "text": "On internet chats, what do the letters 'TIL' mean?"
+      },
+      "tags": [
+        "the_internet",
+        "initials",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9507c6",
+      "correctAnswer": "Arnold Schwarzenegger",
+      "incorrectAnswers": [
+        "Christopher Lee",
+        "Anthony Hopkins",
+        "Tom Hanks"
+      ],
+      "question": {
+        "text": "Which actor has featured in films including Batman & Robin and Predator?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3b7cc59eab6f9513b8",
+      "correctAnswer": "Little Women",
+      "incorrectAnswers": [
+        "Buddenbrooks",
+        "David Copperfield",
+        "Jane Eyre"
+      ],
+      "question": {
+        "text": "In which book does 'Mr. March' appear?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "62716477d5d487fbab6b795a",
+      "correctAnswer": "Italy",
+      "incorrectAnswers": [
+        "Ghana",
+        "Panama",
+        "Nepal"
+      ],
+      "question": {
+        "text": "In which country is grappa a popular drink?"
+      },
+      "tags": [
+        "drink",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6470d59c32850588056636f2",
+      "correctAnswer": "Thank you",
+      "incorrectAnswers": [
+        "Hello",
+        "Yes",
+        "Goodbye"
+      ],
+      "question": {
+        "text": "What does the French word 'merci' mean?"
+      },
+      "tags": [
+        "words",
+        "languages",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233846762eaad73716a8c07",
+      "correctAnswer": "Damascus",
+      "incorrectAnswers": [
+        "Rome",
+        "Beijing",
+        "Cairo"
+      ],
+      "question": {
+        "text": "What Is The Oldest Continuously Inhabited City In The World"
+      },
+      "tags": [
+        "cities",
+        "records",
         "geography"
       ],
       "type": "text_choice",
@@ -27,21 +286,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6371621d1bf863c45ca6c353",
-      "correctAnswer": "Amor vincit omnia",
+      "id": "62ab32e05202de619af2812d",
+      "correctAnswer": "Golf",
       "incorrectAnswers": [
-        "Fortiter et fideliter",
-        "Memento vivere",
-        "Sic infit"
+        "CR-V",
+        "Model T",
+        "3-Series"
       ],
       "question": {
-        "text": "Which of these Latin phrases means 'Love conquers all'?"
+        "text": "Which of these is a model of car made by Volkswagen?"
       },
       "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
+        "motoring",
+        "business",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -70,21 +328,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "647f9dc33a4302a719271642",
-      "correctAnswer": "Colorado",
+      "category": "film_and_tv",
+      "id": "625740979da29df7b05f73e9",
+      "correctAnswer": "A man deeply immersed in the Edinburgh drug scene tries to clean up and get out.",
       "incorrectAnswers": [
-        "Mississippi",
-        "Amazon",
-        "Hudson"
+        "A veteran sets out to reform his neighbor who tried to steal his prized possession.",
+        "A Polish Jew struggles to survive the destruction of the Warsaw ghetto of World War II.",
+        "King Arthur and his Knights embark on a search for a religious relic."
       ],
       "question": {
-        "text": "What major river cuts through the Grand Canyon?"
+        "text": "What is the plot of the movie Trainspotting?"
       },
       "tags": [
-        "rivers",
-        "natural_wonders",
-        "geography"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -93,41 +350,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6293ec0c7f41d6338b96eed3",
-      "correctAnswer": "Social philosopher and pioneer of classical economics.",
+      "id": "6293ebf07f41d6338b96eecb",
+      "correctAnswer": "Roman Emperor who accepted the Christian religion.",
       "incorrectAnswers": [
-        "Influential Christian saint and writer, who shaped much of Western Christian thought.",
-        "First Norman King of England",
-        "Leader of Soviet Communist Party who pursued reform to open Eastern Europe to democracy."
+        "Holy Roman Emperor who united Germany.",
+        "Ottoman Emperor who conquered Istanbul.",
+        "French King who expelled the British from mainland Europe."
       ],
       "question": {
-        "text": "Which of the following describes Adam Smith?"
+        "text": "Which of the following describes Constantine the Great?"
       },
       "tags": [
         "people",
         "history",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6472076e3bbb58c31f411c4d",
-      "correctAnswer": "PlayStation Portable",
-      "incorrectAnswers": [
-        "Nintendo Switch",
-        "Xbox One",
-        "Game Boy Advance"
-      ],
-      "question": {
-        "text": "What is the name of the handheld games console developed by Sony?"
-      },
-      "tags": [
-        "video_games",
-        "technology"
+        "leaders"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -136,227 +372,19 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ee7",
-      "correctAnswer": "H. G. Wells",
+      "id": "622a1c3a7cc59eab6f951357",
+      "correctAnswer": "Pop art",
       "incorrectAnswers": [
-        "Neil Gaiman",
-        "Arthur C. Clarke",
-        "C. S. Lewis"
+        "Dadaism",
+        "Surrealism",
+        "Cubism"
       ],
       "question": {
-        "text": "Which author wrote 'The War of the Worlds'?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "63f39501989356ef48370bdf",
-      "correctAnswer": "Double Bass",
-      "incorrectAnswers": [
-        "Violin",
-        "Viola",
-        "Cello"
-      ],
-      "question": {
-        "text": "What is the lowest pitched stringed instrument?"
-      },
-      "tags": [
-        "music",
-        "musical_instruments"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9e96796f721e95543f5f",
-      "correctAnswer": "Nine horizontal stripes of blue and white, with a blue square in the top left containing a white cross.",
-      "incorrectAnswers": [
-        "Red with a white crescent moon and star.",
-        "Three equal horizontal bands of white, blue, and red",
-        "Red with five yellow stars in the top left."
-      ],
-      "question": {
-        "text": "What does the flag of Greece look like?"
-      },
-      "tags": [
-        "flags",
-        "greece"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6243333fcfaae40c129613cd",
-      "correctAnswer": "A Chick",
-      "incorrectAnswers": [
-        "A Bunny",
-        "A Poult",
-        "An Owlet"
-      ],
-      "question": {
-        "text": "What is the word for a young bird?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fbae",
-      "correctAnswer": "\"American Pie\" by Don McLean",
-      "incorrectAnswers": [
-        "\"All Star\" by Smash Mouth",
-        "\"I'll Make a Man Out of You\" by Donny Osmond",
-        "\"I Write Sins Not Tragedies\" by Panic! at the Disco"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"A long, long time ago / I can still remember how / That music used to make me smile...\"?"
-      },
-      "tags": [
-        "songs",
-        "lyrics",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64dd35bb9cef2bd3a34a8d53",
-      "correctAnswer": "Mark Zuckerberg",
-      "incorrectAnswers": [
-        "Bill Gates",
-        "Steve Jobs",
-        "Jeff Bezos"
-      ],
-      "question": {
-        "text": "Who co-founded Facebook?"
-      },
-      "tags": [
-        "technology",
-        "business",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3f7cc59eab6f9523a6",
-      "correctAnswer": "Laxative",
-      "incorrectAnswers": [
-        "Analgesic",
-        "Anti inflammatory",
-        "Suppository"
-      ],
-      "question": {
-        "text": "What is the word for a medicine that hastens the emptying of the bowels?"
-      },
-      "tags": [
-        "medicine",
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9500e3",
-      "correctAnswer": "Anubis",
-      "incorrectAnswers": [
-        "Set",
-        "Isis",
-        "Horus"
-      ],
-      "question": {
-        "text": "Who, in Egyptian mythology, is the god of the dead?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "6476390bf05ea6d6f587a177",
-      "correctAnswer": "Salvador Dali",
-      "incorrectAnswers": [
-        "Pablo Picasso",
-        "Francisco Goya",
-        "Diego Velazquez"
-      ],
-      "question": {
-        "text": "Which Spanish artist famously created a lobster telephone?"
+        "text": "Which 1950's art movement presented a challenge to traditions of fine art by including imagery from popular and mass culture?"
       },
       "tags": [
         "art",
-        "arts_and_literature",
-        "people"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62373fffcb85f7ce9e949cd1",
-      "correctAnswer": "Colombia",
-      "incorrectAnswers": [
-        "Libya",
-        "Eritrea",
-        "El Salvador"
-      ],
-      "question": {
-        "text": "Bogotá is the capital city of which country?"
-      },
-      "tags": [
-        "capital_cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950fdf",
-      "correctAnswer": "Shrew",
-      "incorrectAnswers": [
-        "Rat",
-        "Squirrel",
-        "Beaver"
-      ],
-      "question": {
-        "text": "Which Rodent Has Given It's Name To A Mean Spirited Or Bad Tempered Woman?"
-      },
-      "tags": [
-        "science"
+        "1950's"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -365,18 +393,20 @@
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f951625",
-      "correctAnswer": "Gin",
+      "id": "63a0395dc7d86251f9b65c4d",
+      "correctAnswer": "Feta",
       "incorrectAnswers": [
-        "Rum",
-        "Brandy",
-        "Vodka"
+        "Gouda",
+        "Mozzarella",
+        "Parmesan"
       ],
       "question": {
-        "text": "According to some, 'Dutch courage' in battle came from the over consumption of what ?"
+        "text": "What type of cheese is used in a classic Greek salad?"
       },
       "tags": [
-        "food_and_drink"
+        "cheese",
+        "food_and_drink",
+        "food"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -385,18 +415,17 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8e0",
-      "correctAnswer": "Humphrey Bogart",
+      "id": "622a1c377cc59eab6f950792",
+      "correctAnswer": "James Franco",
       "incorrectAnswers": [
-        "John Travolta",
-        "Peter O'Toole",
-        "Gregory Peck"
+        "Sean Connery",
+        "Gary Oldman",
+        "Donald Sutherland"
       ],
       "question": {
-        "text": "Which actor played the role of Rick Blaine in Casablanca?"
+        "text": "Which actor has featured in films including Spider-Man and Milk?"
       },
       "tags": [
-        "people",
         "acting",
         "film",
         "film_and_tv"
@@ -407,182 +436,19 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "6494b7cbd7601042f7eaa938",
-      "correctAnswer": "A cosmopolitan",
-      "incorrectAnswers": [
-        "A martini",
-        "A mojito",
-        "A margarita"
-      ],
-      "question": {
-        "text": "Which cocktail contains vodka, cranberry juice, lime juice, triple sec, and an orange twist?"
-      },
-      "tags": [
-        "cocktails",
-        "drink",
-        "food_and_drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "639ae85d929b90846f2fc8d6",
-      "correctAnswer": "Darth Vader",
-      "incorrectAnswers": [
-        "Obi-Wan Kenobi",
-        "Han Solo",
-        "Yoda"
-      ],
-      "question": {
-        "text": "In Star Wars, who is Luke Skywalker's father?"
-      },
-      "tags": [
-        "star_wars",
-        "film",
-        "film_and_tv",
-        "science_fiction",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6477bad7550bc819ad646b45",
-      "correctAnswer": "Semaphore",
-      "incorrectAnswers": [
-        "Telegraph",
-        "Morse Code",
-        "Esperanto"
-      ],
-      "question": {
-        "text": "What is the name of a system of communication using flags, in which arm position is crucial in conveying meaning?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture",
-        "communication",
-        "seafaring"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "646339d101d576cfac3aa3ca",
-      "correctAnswer": "A Dingo",
-      "incorrectAnswers": [
-        "A Kangaroo",
-        "A Koala",
-        "A Tasmanian Devil"
-      ],
-      "question": {
-        "text": "In a sensational 1980s police case in Australia, which animal did Lindy Chamberlain claim took her baby?"
-      },
-      "tags": [
-        "crime",
-        "australia",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "625006fb0d86c8f685d80f0b",
-      "correctAnswer": "Rotelle",
-      "incorrectAnswers": [
-        "Gemelli",
-        "Orzo",
-        "Tagliatelle"
-      ],
-      "question": {
-        "text": "Which pasta's name means 'Little wheels'?"
-      },
-      "tags": [
-        "food",
-        "words",
-        "language",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950179",
-      "correctAnswer": "A Christmas Carol",
+      "id": "622a1c367cc59eab6f9501ad",
+      "correctAnswer": "Nineteen Eighty-Four",
       "incorrectAnswers": [
-        "The Hound of the Baskervilles",
-        "Poirot",
-        "Fahrenheit 451"
+        "The Man in the High Castle",
+        "Blindness",
+        "Brave New World"
       ],
       "question": {
-        "text": "Which famous book begins with the line \"Marley was dead, to begin with. There was no doubt about that\"?"
+        "text": "Which piece of written work starts with the line 'It was a bright cold day in April, and the clocks were striking thirteen.'?"
       },
       "tags": [
-        "literature",
-        "classic_novels",
         "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62c2f9d6b3eadb0437fda6a7",
-      "correctAnswer": "Lacoste",
-      "incorrectAnswers": [
-        "American Airlines",
-        "Peugeot",
-        "Swarovski"
-      ],
-      "question": {
-        "text": "Which of these brands has a crocodile on its logo?"
-      },
-      "tags": [
-        "society_and_culture",
-        "business",
-        "marketing",
-        "animals",
-        "symbols",
-        "logos"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "64746b395a4c31088dd9d02c",
-      "correctAnswer": "Skateboarding",
-      "incorrectAnswers": [
-        "Surfing",
-        "BMX",
-        "Skydiving"
-      ],
-      "question": {
-        "text": "What extreme sport is Tony Hawk known for?"
-      },
-      "tags": [
-        "sport",
-        "people"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -591,17 +457,18 @@
     },
     {
       "category": "general_knowledge",
-      "id": "6239f8069129041bf3925cbf",
-      "correctAnswer": "Charlie",
+      "id": "622a1c357cc59eab6f94fc82",
+      "correctAnswer": "Flummox",
       "incorrectAnswers": [
-        "Catalog",
-        "Criminal",
-        "Cart"
+        "Argle-bargle",
+        "Kakorrhaphiophobia",
+        "Pauciloquent"
       ],
       "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter C?"
+        "text": "Which word is defined as 'to perplex someone greatly'?"
       },
       "tags": [
+        "words",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -610,19 +477,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950fd6",
-      "correctAnswer": "Jellyfish",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d73",
+      "correctAnswer": "Guns N' Roses",
       "incorrectAnswers": [
-        "Squid",
-        "Shark",
-        "Whale"
+        "AC/DC",
+        "Metallica",
+        "Whitesnake"
       ],
       "question": {
-        "text": "Which type of animal are the Sea Wasp and Cubozoa?"
+        "text": "Which band has Slash as its lead guitarist?"
       },
       "tags": [
-        "science"
+        "music",
+        "bands"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -630,23 +498,148 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f95019a",
-      "correctAnswer": "Juliet",
+      "category": "food_and_drink",
+      "id": "627164361ba117625baac94f",
+      "correctAnswer": "Tequila",
       "incorrectAnswers": [
-        "Romeo",
-        "Mercutio",
-        "Tybalt"
+        "Guinness",
+        "Sang Som Rum",
+        "Sombai"
       ],
       "question": {
-        "text": "In \"Romeo and Juliet\", who said \"I have a faint cold, fear thrills through my veins\"?"
+        "text": "Which of these is a popular drink in Mexico?"
       },
       "tags": [
-        "fictitious_characters",
-        "quotes",
-        "theater",
-        "shakespeare",
-        "arts_and_literature"
+        "drink",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623735decfe13103f55eb579",
+      "correctAnswer": "Spain",
+      "incorrectAnswers": [
+        "Seychelles",
+        "Eswatini",
+        "Estonia"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.es' at the end of its web addresses?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573fe19da29df7b05f73b3",
+      "correctAnswer": "Monoliths discovered generations ago lead mankind on a journey to Jupiter.",
+      "incorrectAnswers": [
+        "A group of low-level criminals fight to track down a priceless stolen diamond.",
+        "A screenwriter develops a relationship with a faded film star determined to make a return.",
+        "The stepdaughter of a sadistic army officer escapes into an eerie fantasy world."
+      ],
+      "question": {
+        "text": "What is the plot of the movie 2001: A Space Odyssey?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe49",
+      "correctAnswer": "Water",
+      "incorrectAnswers": [
+        "Salt",
+        "Foliage",
+        "Human Settlement"
+      ],
+      "question": {
+        "text": "Over 75% of the Earth's surface is covered by some form of _____."
+      },
+      "tags": [
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b1b",
+      "correctAnswer": "The White Stripes",
+      "incorrectAnswers": [
+        "White Rabbit",
+        "Whitesnake",
+        "White Zombie"
+      ],
+      "question": {
+        "text": "Which band is fronted by Jack White?"
+      },
+      "tags": [
+        "music",
+        "bands"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951822",
+      "correctAnswer": "Apollo 11",
+      "incorrectAnswers": [
+        "Apollo 1",
+        "Apollo 3",
+        "Apollo 9"
+      ],
+      "question": {
+        "text": "Which Apollo space mission put the first people on the moon?"
+      },
+      "tags": [
+        "history",
+        "space_exploration",
+        "space",
+        "events"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "625006f80d86c8f685d80f0a",
+      "correctAnswer": "Tubular pasta",
+      "incorrectAnswers": [
+        "Soup pasta",
+        "Stuffed pasta",
+        "Shaped pasta"
+      ],
+      "question": {
+        "text": "What type of pasta is rigatoni?"
+      },
+      "tags": [
+        "food",
+        "italy",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",

@@ -1,22 +1,44 @@
 {
-  "gameDate": "2026-01-23",
+  "gameDate": "2026-01-24",
   "difficulty": "easy",
   "results": [
     {
-      "category": "arts_and_literature",
-      "id": "63a0399ac7d86251f9b65c8d",
-      "correctAnswer": "Little Red Riding Hood",
+      "category": "food_and_drink",
+      "id": "624c60c095b12387e142c79b",
+      "correctAnswer": "Ramen",
       "incorrectAnswers": [
-        "Hey Diddle Diddle",
-        "Mary Had a Little Lamb",
-        "Baa Baa Black Sheep"
+        "Ceviche",
+        "Plov",
+        "Chilli Crab"
       ],
       "question": {
-        "text": "What nursery rhyme is about a girl who went to the woods?"
+        "text": "Which of these dishes would you most expect to find in Japan?"
       },
       "tags": [
-        "arts_and_literature",
-        "nursery_rhymes"
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9507bb",
+      "correctAnswer": "Clint Eastwood",
+      "incorrectAnswers": [
+        "Matt Damon",
+        "Robert De Niro",
+        "Sean Connery"
+      ],
+      "question": {
+        "text": "Which actor has featured in films including The Good, the Bad and the Ugly and Million Dollar Baby?"
+      },
+      "tags": [
+        "film",
+        "acting",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -25,18 +47,21 @@
     },
     {
       "category": "science",
-      "id": "624333a7cfaae40c129613f6",
-      "correctAnswer": "A Bitch",
+      "id": "63d95307168979b94b2e4f7e",
+      "correctAnswer": "Big Bang Theory",
       "incorrectAnswers": [
-        "A Jill",
-        "A Gander",
-        "A Tigeress"
+        "General Relativity",
+        "String Theory",
+        "Quantum Theory"
       ],
       "question": {
-        "text": "What is the word for a female dog?"
+        "text": "What is the name of the scientific theory that states that the universe began with a singularity?"
       },
       "tags": [
-        "science"
+        "science",
+        "physics",
+        "astrophysics",
+        "space"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -44,21 +69,194 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95012c",
-      "correctAnswer": "December",
+      "category": "food_and_drink",
+      "id": "64959827e831b1ab5aa11100",
+      "correctAnswer": "Non alcoholic",
       "incorrectAnswers": [
-        "September",
-        "April",
-        "November"
+        "With ice",
+        "Strong",
+        "Served with a straw"
       ],
       "question": {
-        "text": "In what month is Christmas observed?"
+        "text": "In cocktails, what does the word 'virgin' mean?"
+      },
+      "tags": [
+        "alcohol",
+        "drink",
+        "cocktails",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "647f9df73a4302a719271698",
+      "correctAnswer": "Twister",
+      "incorrectAnswers": [
+        "Spinster",
+        "Twirlster",
+        "Rollster"
+      ],
+      "question": {
+        "text": "What is the slang term commonly used for a tornado?"
+      },
+      "tags": [
+        "slang",
+        "natural_disasters",
+        "meteorology",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "63a0399cc7d86251f9b65c8f",
+      "correctAnswer": "The Game of Life",
+      "incorrectAnswers": [
+        "Risk",
+        "Monopoly",
+        "Clue"
+      ],
+      "question": {
+        "text": "What is the name of the classic board game where players race through a person's life from childhood to retirement?"
+      },
+      "tags": [
+        "board_games"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f950230",
+      "correctAnswer": "Andy Warhol ",
+      "incorrectAnswers": [
+        "Jackson Pollock",
+        "Gertrude Stein",
+        "Aaron Copland"
+      ],
+      "question": {
+        "text": "Who is the American artist who uses Campbell's Soup cans in his pop art?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c3d7cc59eab6f951c46",
+      "correctAnswer": "Just like the ones I used to know",
+      "incorrectAnswers": [
+        "Sharing kisses in the snow",
+        "We'll be going with the flow",
+        "Walking to your favourite show"
+      ],
+      "question": {
+        "text": "Bing Crosby famously sang 'I'm dreaming of a white Christmas'', what is the next line?"
       },
       "tags": [
         "christmas",
+        "lyrics",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95056f",
+      "correctAnswer": "Crime",
+      "incorrectAnswers": [
+        "Human growth",
+        "Spiders",
+        "The color red"
+      ],
+      "question": {
+        "text": "What is criminology the study of?"
+      },
+      "tags": [
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f951373",
+      "correctAnswer": "The Lord of the Rings",
+      "incorrectAnswers": [
+        "Harry Potter",
+        "Red Rising",
+        "The Hunger Games"
+      ],
+      "question": {
+        "text": "In which book series does 'Frodo Baggins' appear?"
+      },
+      "tags": [
+        "fictitious_characters",
+        "literature",
         "general_knowledge",
-        "society_and_culture"
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "639c9da7929b90846f2fc981",
+      "correctAnswer": "Paris",
+      "incorrectAnswers": [
+        "London",
+        "New York City",
+        "Rome"
+      ],
+      "question": {
+        "text": "The Louvre is an iconic museum in what city?"
+      },
+      "tags": [
+        "architecture",
+        "geography",
+        "buildings",
+        "tourist_attractions",
+        "museums",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eac",
+      "correctAnswer": "J. K. Rowling",
+      "incorrectAnswers": [
+        "Christopher Tolkien",
+        "Philip Pullman",
+        "C. S. Lewis"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Tales of Beedle the Bard'?"
+      },
+      "tags": [
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -67,21 +265,21 @@
     },
     {
       "category": "society_and_culture",
-      "id": "64746b6f5a4c31088dd9d054",
-      "correctAnswer": "Think Different",
+      "id": "645bc75b4638d58091b1b9e2",
+      "correctAnswer": "A kilt",
       "incorrectAnswers": [
-        "Just Do It",
-        "I'm Lovin' It",
-        "Got Milk?"
+        "A kimono",
+        "A tuxedo",
+        "A dress"
       ],
       "question": {
-        "text": "After rejoining Apple in 1997, Steve Jobs engineered what ad campaign?"
+        "text": "What item of clothing is traditionally worn with a wide belt as part of Highland dress?"
       },
       "tags": [
-        "advertising",
-        "technology",
-        "business",
-        "marketing",
+        "traditions",
+        "clothing",
+        "scotland",
+        "fashion",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -91,15 +289,15 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f951071",
-      "correctAnswer": "Leeches",
+      "id": "622a1c3f7cc59eab6f952397",
+      "correctAnswer": "Symbiosis",
       "incorrectAnswers": [
-        "Vampire Bats",
-        "Cobras",
-        "Wasps"
+        "Parasitism",
+        "Syncronicity",
+        "Parallelism"
       ],
       "question": {
-        "text": "What Creatures Were Frequently Used To Bleed Patients In The Nineteeth Century?"
+        "text": "What is the word for a relationship between two different types of organism which live together for their mutual benefit?"
       },
       "tags": [
         "science"
@@ -111,84 +309,22 @@
     },
     {
       "category": "food_and_drink",
-      "id": "64746b075a4c31088dd9d01d",
-      "correctAnswer": "Oysters",
+      "id": "647a125855463d5ce2994fc9",
+      "correctAnswer": "Kentucky Fried Chicken",
       "incorrectAnswers": [
-        "Lobsters",
-        "Crabs",
-        "Shrimps"
+        "McDonald's",
+        "Burger King",
+        "Taco Bell"
       ],
       "question": {
-        "text": "Which shellfish is said to be an aphrodisiac?"
+        "text": "Which fast food chain advertises with the slogan\"'It's finger lickin' good!\"?"
       },
       "tags": [
+        "marketing",
+        "brands",
         "food",
         "food_and_drink",
-        "seafood",
-        "love"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9503dd",
-      "correctAnswer": "Garlic",
-      "incorrectAnswers": [
-        "Chili",
-        "A Crucifix",
-        "Silver"
-      ],
-      "question": {
-        "text": "What Is Worn Around The Neck To Keep Vampires Away?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "65056f847a97013de78b5465",
-      "correctAnswer": "Puck",
-      "incorrectAnswers": [
-        "Jack",
-        "Duck",
-        "Chuck"
-      ],
-      "question": {
-        "text": "What is hit by ice hockey players?"
-      },
-      "tags": [
-        "sport_and_leisure"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eb1",
-      "correctAnswer": "J. K. Rowling",
-      "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
-      ],
-      "question": {
-        "text": "Which author wrote 'Harry Potter and the Chamber of Secrets'?"
-      },
-      "tags": [
-        "harry_potter",
-        "literature",
-        "general_knowledge",
-        "arts_and_literature"
+        "slogans"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -197,21 +333,44 @@
     },
     {
       "category": "science",
-      "id": "648889175dba6c873ef650de",
-      "correctAnswer": "Endangered species",
+      "id": "63f394fc989356ef48370bd6",
+      "correctAnswer": "The Sun",
       "incorrectAnswers": [
-        "Exotic species",
-        "Invasive species",
-        "Declining species"
+        "Alpha Centauri",
+        "Betelgeuse",
+        "Proxima Centauri"
       ],
       "question": {
-        "text": "What is the term for animals that are at risk of becoming extinct?"
+        "text": "What is the name of the star in the center of our Solar System?"
       },
       "tags": [
-        "biology",
-        "animals",
-        "nature",
-        "science"
+        "science",
+        "space",
+        "the_solar_system",
+        "astrophysics"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc2d",
+      "correctAnswer": "\"You're gonna need a bigger boat.\"",
+      "incorrectAnswers": [
+        "\"A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.\"",
+        "\"Wait a minute, wait a minute. You ain't heard nothin' yet!\"",
+        "\"Mother of mercy, is this the end of Rico?\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Jaws'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "general_knowledge",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -220,18 +379,43 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c3b7cc59eab6f9513b2",
-      "correctAnswer": "The Hobbit",
+      "id": "64a0966bcf8fd58080cefff5",
+      "correctAnswer": "Charlie and the Chocolate Factory",
       "incorrectAnswers": [
-        "Charlotte's Web",
-        "Alice's Adventures in Wonderland",
-        "Bluebeard"
+        "The Sweet Factory",
+        "The Chocolatier's Gamble",
+        "The Candy Kingdom"
       ],
       "question": {
-        "text": "In which book does 'Bilbo Baggins' appear?"
+        "text": "Which book contains the character Willy Wonka?"
       },
       "tags": [
-        "arts_and_literature"
+        "childrens_literature",
+        "literature",
+        "arts_and_literature",
+        "fictitious_characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "639895755c9a75021f310457",
+      "correctAnswer": "The Steam Engine",
+      "incorrectAnswers": [
+        "Electricity",
+        "The Wheel",
+        "The Printing Press"
+      ],
+      "question": {
+        "text": "What 18th century invention was considered to be one of the foundations of the Industrial Revolution?"
+      },
+      "tags": [
+        "history",
+        "1700's",
+        "inventions"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -240,39 +424,21 @@
     },
     {
       "category": "geography",
-      "id": "62602de44b176d54800e3cb2",
-      "correctAnswer": "India",
+      "id": "639c9dab929b90846f2fc98b",
+      "correctAnswer": "Rome",
       "incorrectAnswers": [
-        "Mongolia",
-        "Malaysia",
-        "Japan"
+        "Athens",
+        "Paris",
+        "London"
       ],
       "question": {
-        "text": "Where would you find the city of Delhi?"
+        "text": "The Colosseum is an iconic structure in what city?"
       },
       "tags": [
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "63a0397ac7d86251f9b65c65",
-      "correctAnswer": "Monopoly",
-      "incorrectAnswers": [
-        "Life",
-        "Risk",
-        "Chess"
-      ],
-      "question": {
-        "text": "What is the name of the classic board game where players must collect properties and build houses and hotels?"
-      },
-      "tags": [
-        "board_games"
+        "architecture",
+        "geography",
+        "tourist_attractions",
+        "buildings"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -281,22 +447,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "649fcb35ebb41911d4cbd6cf",
-      "correctAnswer": "Barack Obama",
+      "id": "65056e8d7a97013de78b530b",
+      "correctAnswer": "Bank",
       "incorrectAnswers": [
-        "Bill Clinton",
-        "George Bush",
-        "Donald Trump"
+        "Book store",
+        "Joint venture",
+        "Pulp mill"
       ],
       "question": {
-        "text": "Which former US president's wife is called Michelle? "
+        "text": "What do you call a business that lends and borrows money?"
       },
       "tags": [
-        "presidents",
-        "usa",
-        "people",
-        "society_and_culture",
-        "world_leaders"
+        "finance",
+        "banking",
+        "business"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -305,43 +469,20 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94ff35",
-      "correctAnswer": "Michael Jackson",
+      "id": "622a1c397cc59eab6f950d4b",
+      "correctAnswer": "One Direction",
       "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
+        "The Beatles",
+        "NWA",
+        "Oasis"
       ],
       "question": {
-        "text": "Which musician released the song 'Beat It'?"
+        "text": "Which band was Niall Horan a member of?"
       },
       "tags": [
-        "songs",
-        "musicians",
-        "1980's",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "64824e697778562fd76a962d",
-      "correctAnswer": "Opaque",
-      "incorrectAnswers": [
-        "Transparent",
-        "Translucent",
-        "Obtuse"
-      ],
-      "question": {
-        "text": "What word means that an object is impossible to see through?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
+        "music",
+        "pop_music",
+        "bands"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -350,15 +491,15 @@
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94ff80",
-      "correctAnswer": "London",
+      "id": "623740e4cb85f7ce9e949d2d",
+      "correctAnswer": "Japan",
       "incorrectAnswers": [
-        "Cardiff",
-        "Edinburgh",
-        "Glasgow"
+        "China",
+        "South Korea",
+        "Vietnam"
       ],
       "question": {
-        "text": "What is the capital of the United Kingdom"
+        "text": "Tokyo is the capital city of which country?"
       },
       "tags": [
         "capital_cities",
@@ -371,113 +512,39 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9518d6",
-      "correctAnswer": "The Prohibition",
+      "category": "sport_and_leisure",
+      "id": "63d8d44c168979b94b2e4f65",
+      "correctAnswer": "Goalkeeper",
       "incorrectAnswers": [
-        "The Dry Spell",
-        "The Dark Days",
-        "The Moonshine"
+        "Wing back",
+        "Centre Half",
+        "Linesman"
       ],
       "question": {
-        "text": "What Name Was Given To The Period From 1919 To 1933 When Alcohol Was Banned In The USA?"
+        "text": "In football (soccer), which player uses their hands stop the opposition scoring?"
       },
-      "tags": [
-        "words",
-        "1920's",
-        "usa",
-        "drink",
-        "history"
-      ],
+      "tags": [],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "627164241ba117625baac94a",
-      "correctAnswer": "Scotland",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f875",
+      "correctAnswer": "Tennis",
       "incorrectAnswers": [
-        "Italy",
-        "Romania",
-        "Mexico"
+        "Gymnastics",
+        "Cycling",
+        "Swimming"
       ],
       "question": {
-        "text": "Which country is associated with the drink whisky?"
+        "text": "With which sport is Rafael Nadal associated?"
       },
       "tags": [
-        "drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "645b9ebcf09106226db23571",
-      "correctAnswer": "Spinach",
-      "incorrectAnswers": [
-        "Kale",
-        "Broccoli",
-        "Cabbage"
-      ],
-      "question": {
-        "text": "Which vegetable did Popeye love to eat from a can?"
-      },
-      "tags": [
-        "nutrition",
-        "vegetables",
-        "food_and_drink",
-        "food",
-        "cartoons"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602d214b176d54800e3c81",
-      "correctAnswer": "Austria",
-      "incorrectAnswers": [
-        "Bulgaria",
-        "Sweden",
-        "Ireland"
-      ],
-      "question": {
-        "text": "Where would you find the city of Vienna?"
-      },
-      "tags": [
-        "cities",
-        "europe",
+        "people",
         "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570337a97013de78b5555",
-      "correctAnswer": "Penguin",
-      "incorrectAnswers": [
-        "Stork",
-        "Eagle",
-        "Swan"
-      ],
-      "question": {
-        "text": "Which of these birds can swim but not fly?"
-      },
-      "tags": [
-        "science",
-        "animals",
-        "birds"
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -486,20 +553,19 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6495b50be831b1ab5aa11111",
-      "correctAnswer": "Air Force One",
+      "id": "64746b005a4c31088dd9cff9",
+      "correctAnswer": "Landslide",
       "incorrectAnswers": [
-        "The Big One",
-        "US One",
-        "The Reagan Jet"
+        "Tsunami",
+        "Firestorm",
+        "Stampede"
       ],
       "question": {
-        "text": "What is the name of the plane that carried the President of the United States?"
+        "text": "What word is used when a candidate receives an overwhelming majority of votes in an election?"
       },
       "tags": [
-        "aviation",
-        "usa",
-        "presidents",
+        "politics",
+        "words",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -508,87 +574,19 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950dc4",
-      "correctAnswer": "The Beatles",
+      "category": "general_knowledge",
+      "id": "65056f947a97013de78b547a",
+      "correctAnswer": "Dam",
       "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Uriah Heep"
+        "Clam",
+        "Scam",
+        "Lamb"
       ],
       "question": {
-        "text": "Which band includes 'John Lennon'?"
+        "text": "What is a barrier that blocks flowing water?"
       },
       "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951015",
-      "correctAnswer": "Herbivore",
-      "incorrectAnswers": [
-        "Vegitarian",
-        "Vegivore",
-        "Omnivore"
-      ],
-      "question": {
-        "text": "What name is given to animals which only eat plants?"
-      },
-      "tags": [
-        "animals",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "65056e0a7a97013de78b5254",
-      "correctAnswer": "Conductor",
-      "incorrectAnswers": [
-        "Composer",
-        "Soloist",
-        "Concertmaster"
-      ],
-      "question": {
-        "text": "Who directs an orchestra?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f951707",
-      "correctAnswer": "Adolf Hitler",
-      "incorrectAnswers": [
-        "Hermann Müller",
-        "Konrad Adenauer",
-        "Angela Merkel"
-      ],
-      "question": {
-        "text": "Who became chancellor of Germany in 1933?"
-      },
-      "tags": [
-        "history",
-        "politics",
-        "germany",
-        "europe",
-        "leaders",
-        "1930's",
-        "world_war_2",
+        "words",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -597,43 +595,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "64e6fd9b0b79e5bedd55c8c5",
-      "correctAnswer": "Nelson Mandela",
-      "incorrectAnswers": [
-        "Barack Obama",
-        "Mahatma Gandhi",
-        "Winston Churchill"
-      ],
-      "question": {
-        "text": "In 2009, which world leader was portrayed on-screen by Morgan Freeman?"
-      },
-      "tags": [
-        "movies",
-        "actors",
-        "world leaders"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "62628850014f58b5fc1a3fd5",
-      "correctAnswer": "Taste the rainbow",
+      "id": "6262884d4b176d54800e3d94",
+      "correctAnswer": "Maybelline",
       "incorrectAnswers": [
-        "Finger lickin' good",
-        "Have it your way",
-        "Eat Mor Chikin"
+        "L'Oreal",
+        "CoverGirl",
+        "Levis"
       ],
       "question": {
-        "text": "What is the marketing slogan of Skittles?"
+        "text": "Which brand is associated with the marketing slogan 'Maybe she's born with it'?"
       },
       "tags": [
         "business",
         "marketing",
-        "food",
+        "fashion",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -642,19 +618,42 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950ba5",
-      "correctAnswer": "Toto",
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95139d",
+      "correctAnswer": "Harry Potter",
       "incorrectAnswers": [
-        "Styx",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
+        "Percy Jackson & the Olympians",
+        "The Hunger Games",
+        "His Dark Materials"
       ],
       "question": {
-        "text": "Which American rock band released the song 'Africa'?"
+        "text": "In which book series does 'Hagrid' appear?"
       },
       "tags": [
-        "music"
+        "fictitious_characters",
+        "literature",
+        "young_adult",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9501fe",
+      "correctAnswer": "Quentin Tarantino",
+      "incorrectAnswers": [
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
+      ],
+      "question": {
+        "text": "Which director directed Pulp Fiction?"
+      },
+      "tags": [
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
