@@ -1,91 +1,24 @@
 {
-  "gameDate": "2026-01-25",
+  "gameDate": "2026-01-26",
   "difficulty": "medium",
   "results": [
     {
-      "category": "society_and_culture",
-      "id": "646140774d46e537ca8cd9b6",
-      "correctAnswer": "Machiavelli",
+      "category": "arts_and_literature",
+      "id": "646140b54d46e537ca8cd9fc",
+      "correctAnswer": "Robin",
       "incorrectAnswers": [
-        "Dante",
-        "Boccaccio",
-        "Galileo"
+        "Batman",
+        "Superman",
+        "Spiderman"
       ],
       "question": {
-        "text": "What Italian philosopher and writer was known for his deviousness, having a scheming personality trait named after him?"
+        "text": "In DC comics, What is the secret identity of 'Dick Grayson'?"
       },
       "tags": [
-        "renaissance",
-        "people",
-        "philosophy",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe94",
-      "correctAnswer": "Rihanna",
-      "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Ricky Martin"
-      ],
-      "question": {
-        "text": "Which singer released the song 'Pon de Replay'?"
-      },
-      "tags": [
-        "songs",
-        "musicians",
-        "00's",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63dd25db742e43ed64f1f036",
-      "correctAnswer": "Sales Tax",
-      "incorrectAnswers": [
-        "Income Tax",
-        "Property Tax",
-        "Land Tax"
-      ],
-      "question": {
-        "text": "What is the term for a tax on selling goods or services?"
-      },
-      "tags": [
-        "society_and_culture",
-        "economics"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "64a09f9fcf8fd58080cf001f",
-      "correctAnswer": "DVD",
-      "incorrectAnswers": [
-        "Blu-ray",
-        "Floppy Disk",
-        "VHS"
-      ],
-      "question": {
-        "text": "What type of media was first released in 1996?"
-      },
-      "tags": [
-        "society_and_culture",
-        "history",
-        "technology",
-        "1990's"
+        "comics",
+        "dc",
+        "arts_and_literature",
+        "pseudonyms"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -94,22 +27,21 @@
     },
     {
       "category": "science",
-      "id": "622a1c3f7cc59eab6f952392",
-      "correctAnswer": "23",
+      "id": "645cb0ee602ff42ca52fb41b",
+      "correctAnswer": "Sedimentary",
       "incorrectAnswers": [
-        "10",
-        "160",
-        "12"
+        "Metamorphic",
+        "Igneous",
+        "Volcanic"
       ],
       "question": {
-        "text": "How many pairs of chromosomes does the average person have?"
+        "text": "What is the name of the one of the three main types of rocks that gets its name from the Latin word meaning 'to settle'?"
       },
       "tags": [
-        "numbers",
-        "anatomy",
-        "medicine",
-        "biology",
-        "science"
+        "geology",
+        "science",
+        "latin",
+        "words"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -117,23 +49,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff5a",
-      "correctAnswer": "Bob Dylan",
+      "category": "film_and_tv",
+      "id": "6497d1100752843c0d8aadd1",
+      "correctAnswer": "Who Framed Roger Rabbit",
       "incorrectAnswers": [
-        "Neil Young",
-        "Eric Clapton",
-        "Alanis Morissette"
+        "The Little Mermaid",
+        "Beauty and the Beast",
+        "Space Jam"
       ],
       "question": {
-        "text": "Which musician wrote the song 'Blowin' in the Wind'?"
+        "text": "In which 1988 animated film did Jessica Rabbit appear?"
       },
       "tags": [
-        "musicians",
-        "songs",
-        "general_knowledge",
-        "1960's",
-        "music"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -141,22 +70,21 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "6610278f5b813cab24c99f4d",
-      "correctAnswer": "Mustafa Kemal Atatürk",
+      "category": "geography",
+      "id": "648ee4224fe93387161138a4",
+      "correctAnswer": "India",
       "incorrectAnswers": [
-        "Suleiman the Magnificent",
-        "Mehmed the Conqueror",
-        "Osman I"
+        "Japan",
+        "Thailand",
+        "Sri Lanka"
       ],
       "question": {
-        "text": "Who was the founder and first President of the Republic of Turkey?"
+        "text": "The Dharma Chakra or 'Wheel of Law' appears on the flag of which country?"
       },
       "tags": [
-        "history",
-        "turkey",
-        "leaders",
-        "politics"
+        "flags",
+        "countries",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -165,15 +93,15 @@
     },
     {
       "category": "food_and_drink",
-      "id": "625007050d86c8f685d80f0e",
+      "id": "625007210d86c8f685d80f16",
       "correctAnswer": "Strand pasta",
       "incorrectAnswers": [
-        "Stuffed pasta",
+        "Shaped pasta",
         "Tubular pasta",
-        "Soup pasta"
+        "Stuffed pasta"
       ],
       "question": {
-        "text": "What type of pasta is spaghetti?"
+        "text": "What type of pasta is vermicelli?"
       },
       "tags": [
         "food",
@@ -187,20 +115,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94faf7",
-      "correctAnswer": "Olivia Colman",
+      "id": "6257407c9da29df7b05f73e1",
+      "correctAnswer": "The Truman Show",
       "incorrectAnswers": [
-        "Yalitza Aparicio",
-        "Glenn Close",
-        "Lady Gaga"
+        "Indiana Jones and the Last Crusade",
+        "The Matrix",
+        "The Batman"
       ],
       "question": {
-        "text": "Who won the 2018 Academy Award for Best Leading Actress for playing the role of Queen Anne in The Favourite?"
+        "text": "Name the movie that matches the following plot summary: 'An insurance salesman discovers his whole life is actually a reality TV show.'"
       },
       "tags": [
-        "acting",
-        "academy_awards",
-        "film"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -208,41 +135,19 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94feb4",
-      "correctAnswer": "Beyoncé",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e34",
+      "correctAnswer": "Jane Austen",
       "incorrectAnswers": [
-        "Madonna",
-        "Drake",
-        "Nicki Minaj"
+        "Percy Bysshe Shelley",
+        "Stephenie Meyer",
+        "Robert Louis Stevenson"
       ],
       "question": {
-        "text": "Which American singer, actress and record producer released the song 'Video Phone'?"
+        "text": "Which author wrote 'Emma'?"
       },
       "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056f677a97013de78b543c",
-      "correctAnswer": "On trees",
-      "incorrectAnswers": [
-        "Under water",
-        "In the ground",
-        "On grasses"
-      ],
-      "question": {
-        "text": "Where do cashews grow?"
-      },
-      "tags": [
-        "food_and_drink",
-        "nuts"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -251,111 +156,19 @@
     },
     {
       "category": "society_and_culture",
-      "id": "645c9ff442ea81e2554c5f9f",
-      "correctAnswer": "Wolves",
+      "id": "622a1c3a7cc59eab6f9511e6",
+      "correctAnswer": "Cronus",
       "incorrectAnswers": [
-        "Lions",
-        "Bears",
-        "Tigers"
+        "Jupiter",
+        "Hercules",
+        "Mythos"
       ],
       "question": {
-        "text": "In Norse mythology, which type of fierce animal are Skoll and Fenrir?"
+        "text": "Who was the father of Zeus?"
       },
       "tags": [
-        "animals",
+        "ancient_greece",
         "mythology",
-        "mythological_creatures",
-        "society_and_culture",
-        "vikings"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "63f39523989356ef48370c29",
-      "correctAnswer": "Kendo",
-      "incorrectAnswers": [
-        "Karate",
-        "Aikido",
-        "Judo"
-      ],
-      "question": {
-        "text": "What is the name of the traditional Japanese martial art of sword fighting?"
-      },
-      "tags": [
-        "japan",
-        "martial_arts",
-        "society_and_culture",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fdce",
-      "correctAnswer": "Best Shot",
-      "incorrectAnswers": [
-        "Rhythm Stick",
-        "Lovin'",
-        "Poison Arrow"
-      ],
-      "question": {
-        "text": "Pat Benatar Asked You To \"Hit Me With Your ________\""
-      },
-      "tags": [
-        "songs",
-        "lyrics",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f95225e",
-      "correctAnswer": "Internet Relay Chat",
-      "incorrectAnswers": [
-        "Information Rating Center",
-        "International Rotator Cuff",
-        "Institute of Remote Clients"
-      ],
-      "question": {
-        "text": "In computing, what do the initials IRC mean?"
-      },
-      "tags": [
-        "science",
-        "computing",
-        "the_internet",
-        "initials"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "639c9db0929b90846f2fc992",
-      "correctAnswer": "Karma",
-      "incorrectAnswers": [
-        "Hajj",
-        "Salat",
-        "Zakat"
-      ],
-      "question": {
-        "text": "Which of the following is not a pillar of Islam?"
-      },
-      "tags": [
-        "islam",
-        "religion",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -364,40 +177,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950544",
-      "correctAnswer": "Race",
-      "incorrectAnswers": [
-        "Parasites",
-        "Ethics",
-        "Rocks"
-      ],
-      "question": {
-        "text": "What is Ethnology the study of?"
-      },
-      "tags": [
-        "science",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "62ab33215202de619af28140",
-      "correctAnswer": "Escalade",
+      "id": "6490c60158265893a0c86dae",
+      "correctAnswer": "China",
       "incorrectAnswers": [
-        "Focus",
-        "911",
-        "Seven"
+        "The United States",
+        "Russia",
+        "The United Kingdom"
       ],
       "question": {
-        "text": "Which of these models of car is made by Cadillac?"
+        "text": "With the largest amount of assets in the world, in which country is the Industrial & Commercial Bank based?"
       },
       "tags": [
-        "motoring",
+        "economy",
+        "finance",
         "business",
         "society_and_culture"
       ],
@@ -407,104 +200,16 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "647f9ded3a4302a71927167a",
-      "correctAnswer": "Bell pepper",
-      "incorrectAnswers": [
-        "Jalapeno pepper",
-        "Habanero pepper",
-        "Serrano pepper"
-      ],
-      "question": {
-        "text": "Which sweet pepper is named for its shape and is commonly used in salads?"
-      },
-      "tags": [
-        "vegetables",
-        "ingredients",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fdc1",
-      "correctAnswer": "Paranoid",
+      "id": "622a1c357cc59eab6f94ff70",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
-        "Psycho",
-        "Crazy",
-        "Insane"
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "Name Black Sabbath's debut hit?"
-      },
-      "tags": [
-        "songs",
-        "rock_music",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950bbc",
-      "correctAnswer": "Aerosmith",
-      "incorrectAnswers": [
-        "MercyMe",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
-      ],
-      "question": {
-        "text": "Which American rock band released the song 'I Don't Want to Miss a Thing'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ecc87f41d6338b96ef0a",
-      "correctAnswer": "Cyrus the Great",
-      "incorrectAnswers": [
-        "Thomas Malthus",
-        "St. Paul",
-        "Zoroaster"
-      ],
-      "question": {
-        "text": "Which influential historical person was the founder of the Achaemenid Empire, the first Persian Empire?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "society_and_culture",
-        "empires"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94feb9",
-      "correctAnswer": "Beyoncé",
-      "incorrectAnswers": [
-        "Madonna",
-        "Drake",
-        "Nicki Minaj"
-      ],
-      "question": {
-        "text": "Which American singer, actress and record producer released the song 'Me, Myself and I'?"
+        "text": "Which American singer, songwriter and dancer released the song 'The Way You Make Me Feel'?"
       },
       "tags": [
         "songs",
@@ -518,21 +223,47 @@
     },
     {
       "category": "history",
-      "id": "622a1c347cc59eab6f94f9c9",
-      "correctAnswer": "Ronald Reagan",
+      "id": "65056ea77a97013de78b532f",
+      "correctAnswer": "Germany",
       "incorrectAnswers": [
-        "John Quincy Adams",
-        "Gerald Ford",
-        "James Polk"
+        "France",
+        "Hungary",
+        "Russia"
       ],
       "question": {
-        "text": "Who was the 40th president of the USA, in term during the period 1981–1989?"
+        "text": "Which country did Angela Merkel lead from 2005 to 2021?"
       },
       "tags": [
-        "usa",
-        "presidents",
-        "leaders",
-        "history"
+        "history",
+        "countries",
+        "europe",
+        "politics",
+        "world_leaders",
+        "people",
+        "2000's",
+        "2010's"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "647638daf05ea6d6f587a163",
+      "correctAnswer": "A cave",
+      "incorrectAnswers": [
+        "A museum",
+        "A cathedral",
+        "A palace"
+      ],
+      "question": {
+        "text": "In the South-Western French commune of Niaux, where would you find the most valuable paintings?"
+      },
+      "tags": [
+        "paintings",
+        "society_and_culture",
+        "france"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -541,18 +272,59 @@
     },
     {
       "category": "science",
-      "id": "622a1c3e7cc59eab6f952326",
-      "correctAnswer": "Carbon",
+      "id": "622a1c3a7cc59eab6f950ff4",
+      "correctAnswer": "Albatross",
       "incorrectAnswers": [
-        "Oxygen",
-        "Hydrogen",
-        "Gold"
+        "Emperor Penguin",
+        "Eurasian Coot",
+        "Mallard"
       ],
       "question": {
-        "text": "Coal is composed of which element?"
+        "text": "Which is the largest aquatic bird by wingspan?"
       },
       "tags": [
-        "chemistry",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f9507fe",
+      "correctAnswer": "Africa",
+      "incorrectAnswers": [
+        "South America",
+        "Oceania",
+        "Europe"
+      ],
+      "question": {
+        "text": "The country of Togo is on which continent?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510b7",
+      "correctAnswer": "Bones",
+      "incorrectAnswers": [
+        "Eyes",
+        "Arms",
+        "Stomach"
+      ],
+      "question": {
+        "text": "In what body part does an osteopath specialise?"
+      },
+      "tags": [
+        "anatomy",
+        "words",
         "science"
       ],
       "type": "text_choice",
@@ -562,18 +334,62 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e02",
-      "correctAnswer": "Lewis Carroll",
+      "id": "622a1c367cc59eab6f950195",
+      "correctAnswer": "Aesop",
       "incorrectAnswers": [
-        "Enid Blyton",
-        "George Orwell",
-        "Charles Dickens"
+        "Homer",
+        "Plato",
+        "Odysseus"
       ],
       "question": {
-        "text": "Which author wrote 'Jabberwocky'?"
+        "text": "Which Ancient Greek writer was famous for his Fables?"
       },
       "tags": [
         "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6243358ecfaae40c129614b4",
+      "correctAnswer": "A Drone",
+      "incorrectAnswers": [
+        "A Macho",
+        "A Dog",
+        "A Tiercel"
+      ],
+      "question": {
+        "text": "What would you call a male wasp?"
+      },
+      "tags": [
+        "animals",
+        "biology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f95228c",
+      "correctAnswer": "4",
+      "incorrectAnswers": [
+        "6",
+        "8",
+        "5"
+      ],
+      "question": {
+        "text": "How many teats does a cow have?"
+      },
+      "tags": [
+        "animals",
+        "biology",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -582,21 +398,19 @@
     },
     {
       "category": "geography",
-      "id": "64adcb300d501be39aa6c78c",
-      "correctAnswer": "Thailand",
+      "id": "647a126555463d5ce2994fe8",
+      "correctAnswer": "Hong Kong",
       "incorrectAnswers": [
-        "Vietnam",
-        "Laos",
-        "Cambodia"
+        "Taiwan",
+        "Shanghai",
+        "Beijing"
       ],
       "question": {
-        "text": "Which Southeast Asian monarchy was never colonized by Europeans?"
+        "text": "Which Chinese special administrative region is located on the other side of the Pearl River estuary from Macau?"
       },
       "tags": [
-        "countries",
-        "geography",
-        "southeast_asia",
-        "colonialism"
+        "china",
+        "asia"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -604,44 +418,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "645cb1627d263fd5097043be",
-      "correctAnswer": "C.S. Lewis",
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f952247",
+      "correctAnswer": "The Human Nose",
       "incorrectAnswers": [
-        "J.R.R. Tolkien",
-        "J.K. Rowling",
-        "Roald Dahl"
+        "Rhinoceroses",
+        "Kidneys",
+        "The Moon"
       ],
       "question": {
-        "text": "Which author wrote the 7 \"Chronicles of Narnia\" novels, which were published between 1950 and 1956?"
+        "text": "In what does a rhinologist specialise?"
       },
       "tags": [
-        "young_adult",
-        "arts_and_literature",
-        "literature",
-        "authors"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f99f",
-      "correctAnswer": "The Catcher in the Rye",
-      "incorrectAnswers": [
-        "Wise Blood",
-        "To the Lighthouse",
-        "Winnie the Pooh"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Holden Caulfield'?"
-      },
-      "tags": [
-        "fictitious_characters",
-        "literature",
-        "arts_and_literature"
+        "words",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -650,23 +440,219 @@
     },
     {
       "category": "history",
-      "id": "64746ac15a4c31088dd9cfde",
-      "correctAnswer": "Bay of Pigs",
+      "id": "622a1c3c7cc59eab6f95190e",
+      "correctAnswer": "Abraham Lincoln",
       "incorrectAnswers": [
-        "Bay of Cows",
-        "Bay of Dogs",
-        "Bay of Sharks"
+        "George Washington",
+        "John F Kennedy",
+        "John Quincy Adams"
       ],
       "question": {
-        "text": "What is the name given to the USA's failed 1961 invasion of Cuba?"
+        "text": "What United States president was in office during the civil war?"
       },
       "tags": [
         "usa",
-        "cold_war",
-        "history",
-        "1960's",
         "wars",
-        "cuba"
+        "presidents",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b9e",
+      "correctAnswer": "Wings",
+      "incorrectAnswers": [
+        "The Band",
+        "The Kinks",
+        "Deep Purple"
+      ],
+      "question": {
+        "text": "Which band did Paul McCartney form after The Beatles?"
+      },
+      "tags": [
+        "music",
+        "bands",
+        "the_beatles"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6243353ecfaae40c12961494",
+      "correctAnswer": "A Pup",
+      "incorrectAnswers": [
+        "A Caterpillar",
+        "A Cygnet",
+        "A Calf"
+      ],
+      "question": {
+        "text": "What is a baby seal known as?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eb4",
+      "correctAnswer": "Charles Darwin",
+      "incorrectAnswers": [
+        "Percy Bysshe Shelley",
+        "H. Rider Haggard",
+        "Robert Louis Stevenson"
+      ],
+      "question": {
+        "text": "Which author wrote 'On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "648888d65dba6c873ef650b2",
+      "correctAnswer": "Catholicism",
+      "incorrectAnswers": [
+        "Hinduism",
+        "Judaism",
+        "Islam"
+      ],
+      "question": {
+        "text": "What religion is associated with the word 'Papal'?"
+      },
+      "tags": [
+        "religion",
+        "words",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f95197b",
+      "correctAnswer": "Woodstock Festival",
+      "incorrectAnswers": [
+        "The first nuclear bomb test",
+        "The Watergate scandal",
+        "The assassination of Martin Luther King Jr"
+      ],
+      "question": {
+        "text": "What Happened At Max Yasgur's Dairy Farm In New York State in 1969?"
+      },
+      "tags": [
+        "events",
+        "1960's",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "649f220febb41911d4cbd6ba",
+      "correctAnswer": "Cannes",
+      "incorrectAnswers": [
+        "Venice",
+        "Nice",
+        "Geneva"
+      ],
+      "question": {
+        "text": "At which city's film festival is the Palme d'Or awarded?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv",
+        "awards",
+        "cities"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951877",
+      "correctAnswer": "The Ides of March",
+      "incorrectAnswers": [
+        "The Kalends of April",
+        "The Ides of May",
+        "The Kalends of June"
+      ],
+      "question": {
+        "text": "When was Julius Caesar murdered?"
+      },
+      "tags": [
+        "romans",
+        "the_ancient_world",
+        "leaders",
+        "people",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62373f50cb85f7ce9e949c8e",
+      "correctAnswer": "Kabul",
+      "incorrectAnswers": [
+        "Baghdad",
+        "Damascus",
+        "Tripoli"
+      ],
+      "question": {
+        "text": "What is the capital city of Afghanistan?"
+      },
+      "tags": [
+        "the_middle_east",
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "645ba87ff09106226db23582",
+      "correctAnswer": "Antennae",
+      "incorrectAnswers": [
+        "Ears",
+        "Noses",
+        "Tongues"
+      ],
+      "question": {
+        "text": "What do most butterflies use to smell?"
+      },
+      "tags": [
+        "biology",
+        "insects",
+        "science",
+        "animals"
       ],
       "type": "text_choice",
       "difficulty": "medium",

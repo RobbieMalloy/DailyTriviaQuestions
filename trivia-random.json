@@ -1,23 +1,45 @@
 {
-  "gameDate": "2026-01-25",
+  "gameDate": "2026-01-26",
   "difficulty": "random",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fba2",
-      "correctAnswer": "\"Hurt\" by Nine Inch Nails",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fb33",
+      "correctAnswer": "Crash",
       "incorrectAnswers": [
-        "\"Hooked on a Feeling\" by B.J. Thomas",
-        "\"Old Man\" by Neil Young",
-        "\"I'll Make a Man Out of You\" by Donny Osmond"
+        "Brokeback Mountain",
+        "Capote",
+        "Good Night, and Good Luck."
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"I hurt myself today / To see if I still feel / I focus on the pain / The only thing that's real...\"?"
+        "text": "Which film won the Academy Award for Best Picture in 2005?"
       },
       "tags": [
-        "songs",
-        "lyrics",
-        "music"
+        "film",
+        "academy_awards",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ebf07f41d6338b96eecb",
+      "correctAnswer": "Roman Emperor who accepted the Christian religion.",
+      "incorrectAnswers": [
+        "Holy Roman Emperor who united Germany.",
+        "Ottoman Emperor who conquered Istanbul.",
+        "French King who expelled the British from mainland Europe."
+      ],
+      "question": {
+        "text": "Which of the following describes Constantine the Great?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "leaders"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -26,68 +48,19 @@
     },
     {
       "category": "society_and_culture",
-      "id": "639c9dc1929b90846f2fc9b4",
-      "correctAnswer": "Azan",
+      "id": "645c9f4f42ea81e2554c5f03",
+      "correctAnswer": "Ruble",
       "incorrectAnswers": [
-        "Adhan",
-        "Niqāb",
-        "Iqama"
+        "Euro",
+        "Swiss Franc",
+        "Yen"
       ],
       "question": {
-        "text": "What is the name of the Islamic call to prayer?"
+        "text": "What is the name of the monetary unit that is equal to 100 kopecks?"
       },
       "tags": [
-        "islam",
-        "religion",
-        "society_and_culture",
-        "traditions"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611f824b176d54800e3d5e",
-      "correctAnswer": "1921",
-      "incorrectAnswers": [
-        "1940",
-        "1951",
-        "1968"
-      ],
-      "question": {
-        "text": "In which year was the vaccine for tuberculosis created?"
-      },
-      "tags": [
-        "events",
-        "medicine",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95032e",
-      "correctAnswer": "Abraham Lincoln",
-      "incorrectAnswers": [
-        "Barack Obama",
-        "John Adams",
-        "Ronald Reagan"
-      ],
-      "question": {
-        "text": "Who was the first US president born outside the orginal 13 states"
-      },
-      "tags": [
-        "presidents",
-        "usa",
-        "us_states",
-        "people",
-        "leaders",
-        "history"
+        "currency",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -96,20 +69,18 @@
     },
     {
       "category": "geography",
-      "id": "64e927cd0b0fc0be2ff5aa34",
-      "correctAnswer": "The Amundsen Gulf",
+      "id": "62373fadcb85f7ce9e949cb0",
+      "correctAnswer": "Porto-Novo",
       "incorrectAnswers": [
-        "The Franklin Gulf",
-        "The Hudson Gulf",
-        "The Davis Gulf"
+        "Ashgabat",
+        "Amman",
+        "Lusaka"
       ],
       "question": {
-        "text": "Which gulf is at the western end of the Northwest Passage through the Arctic Ocean?"
+        "text": "What is the capital city of Benin?"
       },
       "tags": [
-        "bodies_of_water",
-        "geography",
-        "oceans"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -117,165 +88,22 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd54",
-      "correctAnswer": "The Fugees",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9517ae",
+      "correctAnswer": "Malcolm X",
       "incorrectAnswers": [
-        "N.E.R.D",
-        "No Doubt",
-        "All Saints"
+        "Martin Luther King, Jr.",
+        "Rosa Parks",
+        "Angela Davis"
       ],
       "question": {
-        "text": "With Which Band Did Wyclef Jean & Lauryn Hill First Make Their Name?"
+        "text": "Which founder of The Organisation for Afro-American Unity was murdered in Harlem on 21 February 1965?"
       },
       "tags": [
-        "people",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624333b9cfaae40c129613fd",
-      "correctAnswer": "A Colt",
-      "incorrectAnswers": [
-        "A Maggot",
-        "A Bunny",
-        "An Owlet"
-      ],
-      "question": {
-        "text": "What is a baby donkey known as?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6462621bab138b829b81e9d2",
-      "correctAnswer": "Giant Kelp",
-      "incorrectAnswers": [
-        "Giant Algae",
-        "Giant Kombu",
-        "Giant Sea Lettuce"
-      ],
-      "question": {
-        "text": "What is the largest seaweed?"
-      },
-      "tags": [
-        "botany",
-        "plants",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f951607",
-      "correctAnswer": "Mint Julep ",
-      "incorrectAnswers": [
-        "Mojito",
-        "Mint Daiqiri",
-        "Cosmopolitan"
-      ],
-      "question": {
-        "text": "Bourbon, sugar and mint make up which type of Cocktail?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f0a",
-      "correctAnswer": "Fyodor Dostoyevsky",
-      "incorrectAnswers": [
-        "Vladimir Nabokov",
-        "Leo Tolstoy",
-        "Mikhail Bulgakov"
-      ],
-      "question": {
-        "text": "Which author wrote 'Notes from Underground'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c21",
-      "correctAnswer": "The Who",
-      "incorrectAnswers": [
-        "Deep Purple",
-        "Travis",
-        "Spandau Ballet"
-      ],
-      "question": {
-        "text": "Which English rock band released the song 'Pinball Wizard'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f95007a",
-      "correctAnswer": "Golden Bear",
-      "incorrectAnswers": [
-        "Black Tiger",
-        "Silver Swan",
-        "Red Eagle"
-      ],
-      "question": {
-        "text": "What was Jack Nicklaus' nickname?"
-      },
-      "tags": [
-        "golf",
-        "nicknames",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f0e9da29df7b05f7385",
-      "correctAnswer": "The Good, the Bad and the Ugly",
-      "incorrectAnswers": [
-        "It's a Wonderful Life",
-        "The Silence of the Lambs",
-        "The Deer Hunter"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'Two men join in an uneasy alliance against a third to find gold buried in a remote cemetery.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
+        "society_and_culture",
+        "history",
+        "civil_rights",
+        "assassinations"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -284,65 +112,42 @@
     },
     {
       "category": "history",
-      "id": "622a1c3d7cc59eab6f951bd9",
-      "correctAnswer": "13",
+      "id": "622a1c3c7cc59eab6f951b52",
+      "correctAnswer": "15th Century",
       "incorrectAnswers": [
-        "4",
-        "50",
-        "49"
+        "16th Century",
+        "17th Century",
+        "18th Century"
       ],
       "question": {
-        "text": "How Many Colonies Signed The American Declaration Of Independence?"
+        "text": "In What Century Were The War Of The Roses Fought?"
       },
       "tags": [
-        "usa",
-        "us_states",
-        "numbers",
+        "wars",
+        "uk",
         "history"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951056",
-      "correctAnswer": "Bees",
-      "incorrectAnswers": [
-        "Ants",
-        "Grasshopper",
-        "Praying Mantis"
-      ],
-      "question": {
-        "text": "What insect has a type of hair on its eyes?"
-      },
-      "tags": [
-        "animals",
-        "bugs",
-        "science"
-      ],
-      "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510d1",
-      "correctAnswer": "Heart",
+      "category": "history",
+      "id": "645f9528541c4d4fc8cf2eb9",
+      "correctAnswer": "Britannia",
       "incorrectAnswers": [
-        "Soul",
-        "Blood",
-        "Eyes"
+        "Albion",
+        "Roma",
+        "Britanica"
       ],
       "question": {
-        "text": "What part of the body does carditis affect?"
+        "text": "What was the name the Romans gave to Great Britain?"
       },
       "tags": [
-        "medicine",
-        "words",
-        "science"
+        "romans",
+        "history",
+        "names"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -350,87 +155,40 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbe1",
-      "correctAnswer": "\"I live my life a quarter mile at a time.\"",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e25",
+      "correctAnswer": "Philip Pullman",
       "incorrectAnswers": [
-        "\"Release the Kraken!\"",
-        "\"Hello, gorgeous.\"",
-        "\"Fasten your seatbelts. It's going to be a bumpy night.\""
+        "J. R. R. Tolkien",
+        "Christopher Tolkien",
+        "Neil Gaiman"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'The Fast and the Furious'?"
+        "text": "Which author wrote 'The Amber Spyglass'?"
       },
       "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
+        "arts_and_literature"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f7e3d2f5c16bfb88332",
-      "correctAnswer": "Once Upon a Time in the West",
-      "incorrectAnswers": [
-        "Mad Max: Fury Road",
-        "Shutter Island",
-        "The Good, the Bad and the Ugly"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A stranger joins forces with a desperado to protect a widow from an assassin.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fe8f",
-      "correctAnswer": "Rihanna",
+      "id": "622a1c357cc59eab6f94ff4c",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
-        "Drake",
         "Nicki Minaj",
-        "Ricky Martin"
+        "Neil Young",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "Which singer released the song 'Disturbia'?"
+        "text": "Who released the studio album 'Invincible'?"
       },
       "tags": [
-        "songs",
+        "general_knowledge",
         "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64824e707778562fd76a9646",
-      "correctAnswer": "Giorgio Armani",
-      "incorrectAnswers": [
-        "Gucci Adriano",
-        "Giovanni Anselmi",
-        "Gabriel Alvarez"
-      ],
-      "question": {
-        "text": "Which Italian fashion designer has the initials G.A.?"
-      },
-      "tags": [
-        "designers",
-        "fashion",
-        "people",
-        "society_and_culture",
-        "italy"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -438,16 +196,80 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "62433593cfaae40c129614b6",
-      "correctAnswer": "A Larva",
+      "category": "geography",
+      "id": "622a1c377cc59eab6f950411",
+      "correctAnswer": "Idlewild",
       "incorrectAnswers": [
-        "A Bunny",
-        "A Kitten",
-        "A Calf"
+        "Smoker",
+        "Appleton",
+        "Easydown"
       ],
       "question": {
-        "text": "What would you call a baby wasp?"
+        "text": "John F. Kennedy Airport in New York used to be called __________."
+      },
+      "tags": [
+        "new_york",
+        "names",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b3e",
+      "correctAnswer": "Ha*Ash",
+      "incorrectAnswers": [
+        "The Pussycat Dolls",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which American Latin pop duo released the album 'Primera fila: Hecho realidad'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "64860e82113d76c6b6317a00",
+      "correctAnswer": "Battlestar Galactica",
+      "incorrectAnswers": [
+        "Westworld",
+        "The Terminator",
+        "RoboCop"
+      ],
+      "question": {
+        "text": "What 2005-2009 TV show featured Cylons and cyborgs?"
+      },
+      "tags": [
+        "film_and_tv",
+        "tv",
+        "science_fiction"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62433584cfaae40c129614b0",
+      "correctAnswer": "A Joey",
+      "incorrectAnswers": [
+        "A Cygnet",
+        "A Kid",
+        "A Gosling"
+      ],
+      "question": {
+        "text": "What is the word for a young wallaby?"
       },
       "tags": [
         "science"
@@ -458,103 +280,40 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "6242e83aa22452794eaef20a",
-      "correctAnswer": "The Irons",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbd8",
+      "correctAnswer": "\"You motorboatin’ son of a b****!\"",
       "incorrectAnswers": [
-        "Cottagers",
-        "The Hatters",
-        "The Reds"
+        "\"I could do this all day\"",
+        "\"I’m the guy who does his job. You must be the other guy.\"",
+        "\"I'm gonna make him an offer he can't refuse.\""
       ],
       "question": {
-        "text": "What is the nickname of the English football team West Ham United?"
+        "text": "Which of these quotes is from the film 'Wedding Crashers'?"
       },
       "tags": [
-        "sport"
+        "quotes",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f23",
-      "correctAnswer": "Hans Christian Andersen",
-      "incorrectAnswers": [
-        "Beatrix Potter",
-        "Søren Kierkegaard",
-        "Oscar Wilde"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Emperor's New Clothes'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d01",
-      "correctAnswer": "The Beatles",
-      "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Uriah Heep"
-      ],
-      "question": {
-        "text": "Which English rock band released the song 'Help!'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374201cb85f7ce9e949da0",
-      "correctAnswer": "Bucharest",
-      "incorrectAnswers": [
-        "Sarajevo",
-        "Bratislava",
-        "Vientiane"
-      ],
-      "question": {
-        "text": "What is the capital city of Romania?"
-      },
-      "tags": [
-        "europe",
-        "capital_cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "food_and_drink",
-      "id": "64a32df9fc63594e30247829",
-      "correctAnswer": "Jarlsberg",
+      "id": "622a1c367cc59eab6f9502e1",
+      "correctAnswer": "Sausage ",
       "incorrectAnswers": [
-        "Gouda",
-        "Cheddar",
-        "Brie"
+        "Cheese",
+        "Bread",
+        "Cake"
       ],
       "question": {
-        "text": "Which of these is a Norwegian cheese with undertones of nuts?"
+        "text": "Popular in the Netherlands, what type of food is a frikandel?"
       },
       "tags": [
-        "cheese",
-        "dairy",
-        "food",
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -563,20 +322,61 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "625e9ee5796f721e95543f74",
-      "correctAnswer": "White",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950ca4",
+      "correctAnswer": "The Rolling Stones",
       "incorrectAnswers": [
-        "Maroon",
-        "Red",
-        "Blue"
+        "McFly",
+        "Delirious?",
+        "Depeche Mode"
       ],
       "question": {
-        "text": "Which of these colors is included on the flag of Ireland?"
+        "text": "Which English rock band released the song 'Honky Tonk Women'?"
       },
       "tags": [
-        "flags",
-        "geography"
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f912",
+      "correctAnswer": "One Flew Over the Cuckoo's Nest",
+      "incorrectAnswers": [
+        "Misery",
+        "The Birds",
+        "M"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Randle Patrick McMurphy'?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e22",
+      "correctAnswer": "Frank Herbert",
+      "incorrectAnswers": [
+        "Ursula K. Le Guin",
+        "H. P. Lovecraft",
+        "Edgar Rice Burroughs"
+      ],
+      "question": {
+        "text": "Which author wrote 'Dune'?"
+      },
+      "tags": [
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -584,24 +384,195 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f951791",
-      "correctAnswer": "Louis XIV",
+      "category": "society_and_culture",
+      "id": "6462628cab138b829b81ea36",
+      "correctAnswer": "A loss leader",
       "incorrectAnswers": [
-        "Henri III",
-        "Charles the Bald",
-        "Napoleon Bonaparte"
+        "A bait",
+        "A customer trap",
+        "A clearance item"
       ],
       "question": {
-        "text": "Which King of France was known as The Sun King?"
+        "text": "What term is used to describe an item that's sold at retail for less than it cost wholesale as a way to lure customers?"
       },
       "tags": [
-        "france",
-        "leaders",
-        "nicknames",
-        "middle_ages",
-        "medieval",
-        "history"
+        "marketing",
+        "business",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6477ba9e550bc819ad646af3",
+      "correctAnswer": "Raiders of the Lost Ark",
+      "incorrectAnswers": [
+        "Jaws",
+        "Star Wars",
+        "E.T. the Extra-Terrestrial"
+      ],
+      "question": {
+        "text": "Which film contains a memorable scene where Harrison Ford retrieves a golden idol?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624333c8cfaae40c12961403",
+      "correctAnswer": "An Eaglet",
+      "incorrectAnswers": [
+        "A Lamb",
+        "An Eyas",
+        "A Calf"
+      ],
+      "question": {
+        "text": "What would you call a baby eagle?"
+      },
+      "tags": [
+        "animals",
+        "birds",
+        "names",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95135f",
+      "correctAnswer": "Monotype",
+      "incorrectAnswers": [
+        "Watercolor",
+        "Mache",
+        "Stenography"
+      ],
+      "question": {
+        "text": "What is the word given to a unique image printed from a polished plate which has been painted with a design in ink?"
+      },
+      "tags": [
+        "words",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "646089a9de964ebc39016c66",
+      "correctAnswer": "Soda water",
+      "incorrectAnswers": [
+        "Cola",
+        "Lemonade",
+        "Sprite"
+      ],
+      "question": {
+        "text": "What type of carbonated drink is typically added to a gin fizz?"
+      },
+      "tags": [
+        "cocktails",
+        "drinks",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f950133",
+      "correctAnswer": "Peleus and Thetis",
+      "incorrectAnswers": [
+        "Perseus and Persephone",
+        "Hera and Zeus",
+        "Daedalus and Penelope"
+      ],
+      "question": {
+        "text": "In Greek mythology, who were Achilles' parents?"
+      },
+      "tags": [
+        "mythology",
+        "ancient_greece",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ffe1",
+      "correctAnswer": "Ace Of Base",
+      "incorrectAnswers": [
+        "Modern Talking",
+        "The Cardigans",
+        "Every Little Thing"
+      ],
+      "question": {
+        "text": "Jenny & Lyn Beggren Are Singers With Which 90's Group"
+      },
+      "tags": [
+        "bands",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbe0",
+      "correctAnswer": "\"Nobody makes me bleed my own blood. Nobody!\"",
+      "incorrectAnswers": [
+        "\"Are you not entertained?\"",
+        "\"I have had it with these mother—— snakes on this mother—— plane!\"",
+        "\"What is this? A center for ants? How can we be expected to teach children to learn how to read…if they can’t even fit inside the building?\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Dodgeball: A True Underdog Story'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573eef9da29df7b05f737e",
+      "correctAnswer": "Schindler's List",
+      "incorrectAnswers": [
+        "The Bridge on the River Kwai",
+        "One Flew Over the Cuckoo's Nest",
+        "Eternal Sunshine of the Spotless Mind"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'A man becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -610,40 +581,58 @@
     },
     {
       "category": "general_knowledge",
-      "id": "645cb16b7d263fd5097043cc",
-      "correctAnswer": "Carded",
+      "id": "645c9f6b42ea81e2554c5f2a",
+      "correctAnswer": "Oklahoma",
       "incorrectAnswers": [
-        "Combed",
-        "Washed",
-        "Sheared"
+        "Texas",
+        "California",
+        "New York"
       ],
       "question": {
-        "text": "What term is used to describe the process of preparing wool fibers before they are spun?"
+        "text": "Which is the only US state whose official song was written for a Broadway musical?"
       },
       "tags": [
-        "textiles",
-        "fashion"
+        "us_states",
+        "musicals"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f10",
+      "correctAnswer": "Fyodor Dostoyevsky",
+      "incorrectAnswers": [
+        "Vladimir Nabokov",
+        "Leo Tolstoy",
+        "Mikhail Bulgakov"
+      ],
+      "question": {
+        "text": "Which author wrote 'Crime and Punishment'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fecd",
-      "correctAnswer": "Kate Bush",
+      "id": "622a1c397cc59eab6f950cc4",
+      "correctAnswer": "Queen",
       "incorrectAnswers": [
-        "David Bowie",
-        "John Lennon",
-        "George Michael"
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
       ],
       "question": {
-        "text": "Which British recording artist released the album 'Hounds of Love'?"
+        "text": "Which British rock band released the song 'The Show Must Go On'?"
       },
       "tags": [
-        "music_albums",
-        "musicians",
         "music"
       ],
       "type": "text_choice",
