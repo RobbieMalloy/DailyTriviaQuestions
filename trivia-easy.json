@@ -1,21 +1,22 @@
 {
-  "gameDate": "2026-01-26",
+  "gameDate": "2026-01-27",
   "difficulty": "easy",
   "results": [
     {
-      "category": "history",
-      "id": "65056e777a97013de78b52ed",
-      "correctAnswer": "Gatling gun",
+      "category": "geography",
+      "id": "623b5843fd6c701a921183aa",
+      "correctAnswer": "Japan",
       "incorrectAnswers": [
-        "Plate armor",
-        "Gauntlets",
-        "Lance"
+        "Indonesia",
+        "Thailand",
+        "China"
       ],
       "question": {
-        "text": "Which of these was NOT used by medieval knights?"
+        "text": "In which country would you find city of Kyoto?"
       },
       "tags": [
-        "history"
+        "cities",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -23,20 +24,39 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "63951fffe55fa75b149597b7",
-      "correctAnswer": "Orange",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950285",
+      "correctAnswer": "Grog ",
       "incorrectAnswers": [
-        "Red",
-        "Blue",
-        "Purple"
+        "Guppy",
+        "Roller",
+        "Meal"
       ],
       "question": {
-        "text": "What colour do you get when you mix yellow with red?"
+        "text": "What was the name of the highly diluted rum that was once given to British sailors?"
       },
       "tags": [
-        "colours",
-        "general_knowledge"
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233867462eaad73716a8cd4",
+      "correctAnswer": "India",
+      "incorrectAnswers": [
+        "Sri Lanka",
+        "Bangladesh",
+        "Nepal"
+      ],
+      "question": {
+        "text": "Where is the Taj Mahal?"
+      },
+      "tags": [
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -45,7 +65,7 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950cf3",
+      "id": "622a1c397cc59eab6f950d00",
       "correctAnswer": "The Beatles",
       "incorrectAnswers": [
         "Deep Purple",
@@ -53,7 +73,7 @@
         "Uriah Heep"
       ],
       "question": {
-        "text": "Which English rock band released the album 'Magical Mystery Tour'?"
+        "text": "Which English rock band released the song 'Can't Buy Me Love'?"
       },
       "tags": [
         "music"
@@ -65,410 +85,21 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "65056e2c7a97013de78b5284",
-      "correctAnswer": "Paris",
+      "id": "64a0966bcf8fd58080cefff5",
+      "correctAnswer": "Charlie and the Chocolate Factory",
       "incorrectAnswers": [
-        "Vienna",
-        "Rome",
-        "Madrid"
+        "The Sweet Factory",
+        "The Chocolatier's Gamble",
+        "The Candy Kingdom"
       ],
       "question": {
-        "text": "In which city is the Notre-Dame Cathedral located?"
+        "text": "Which book contains the character Willy Wonka?"
       },
       "tags": [
-        "arts_and_literature",
-        "architecture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcec",
-      "correctAnswer": "Japonic",
-      "incorrectAnswers": [
-        "Sino-Tibetan",
-        "Austroasiatic",
-        "Austronesian"
-      ],
-      "question": {
-        "text": "The language 'Japanese' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602db94b176d54800e3ca9",
-      "correctAnswer": "United Kingdom",
-      "incorrectAnswers": [
-        "United States",
-        "New Zealand",
-        "Ireland"
-      ],
-      "question": {
-        "text": "In which country is the city of Edinburgh?"
-      },
-      "tags": [
-        "cities",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6463394601d576cfac3aa330",
-      "correctAnswer": "Clotting",
-      "incorrectAnswers": [
-        "Pasteurization",
-        "Filtration",
-        "Distillation"
-      ],
-      "question": {
-        "text": "What is the process by which both milk and blood can become semisolid?"
-      },
-      "tags": [
-        "biology",
-        "health",
-        "medicine",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056ed77a97013de78b5372",
-      "correctAnswer": "Cranberry",
-      "incorrectAnswers": [
-        "Land cress",
-        "Spinach",
-        "Mustard"
-      ],
-      "question": {
-        "text": "Which of these is a fruit?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262afaf4b176d54800e3dd7",
-      "correctAnswer": "Direct Message",
-      "incorrectAnswers": [
-        "Double Meaning",
-        "Do Me",
-        "Dire Mood"
-      ],
-      "question": {
-        "text": "If someone typed the letters 'DM' in a message, what would they mean?"
-      },
-      "tags": [
-        "the_internet",
-        "initials",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9507c7",
-      "correctAnswer": "Harrison Ford",
-      "incorrectAnswers": [
-        "Mark Hamill",
-        "Brad Pitt",
-        "Pedro Pascal"
-      ],
-      "question": {
-        "text": "Which actor originally played the role of Han Solo in Star Wars?"
-      },
-      "tags": [
-        "star_wars",
-        "film",
-        "acting",
-        "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056e8e7a97013de78b530d",
-      "correctAnswer": "Grain",
-      "incorrectAnswers": [
-        "Cheese",
-        "Wine",
-        "Butter"
-      ],
-      "question": {
-        "text": "What type of food is barley?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63e4c353106de6ffa7d4a7d2",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "White",
-        "Blue",
-        "Purple"
-      ],
-      "question": {
-        "text": "What is the traditional color associated with Valentine's Day?"
-      },
-      "tags": [
-        "society_and_culture",
-        "traditions",
-        "colours"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b5834fd6c701a921183a4",
-      "correctAnswer": "Russia",
-      "incorrectAnswers": [
-        "Bosnia & Herzegovina",
-        "Greece",
-        "Sweden"
-      ],
-      "question": {
-        "text": "In which country would you find the city of Saint Petersburg?"
-      },
-      "tags": [
-        "cities",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624333c8cfaae40c12961403",
-      "correctAnswer": "An Eaglet",
-      "incorrectAnswers": [
-        "A Lamb",
-        "An Eyas",
-        "A Calf"
-      ],
-      "question": {
-        "text": "What would you call a baby eagle?"
-      },
-      "tags": [
-        "animals",
-        "birds",
-        "names",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95056f",
-      "correctAnswer": "Crime",
-      "incorrectAnswers": [
-        "Human growth",
-        "Spiders",
-        "The color red"
-      ],
-      "question": {
-        "text": "What is criminology the study of?"
-      },
-      "tags": [
-        "science",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eb2",
-      "correctAnswer": "Charles Darwin",
-      "incorrectAnswers": [
-        "Percy Bysshe Shelley",
-        "H. Rider Haggard",
-        "Robert Louis Stevenson"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Origin of Species'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "648891824cd3f064f443dc0c",
-      "correctAnswer": "The Beach Boys",
-      "incorrectAnswers": [
-        "The Beatles",
-        "The Rolling Stones",
-        "The Four Tops"
-      ],
-      "question": {
-        "text": "Who had a hit in 1964 with the song 'I Get Around'?"
-      },
-      "tags": [
-        "songs",
-        "music",
-        "1960's"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "645c9f5442ea81e2554c5f1a",
-      "correctAnswer": "Skewer",
-      "incorrectAnswers": [
-        "Spatula",
-        "Tongs",
-        "Basting brush"
-      ],
-      "question": {
-        "text": "What is the name of a long metal or wooden pin used to secure food during barbecuing?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food",
-        "cooking",
-        "barbeque"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6463394601d576cfac3aa32b",
-      "correctAnswer": "Jailhouse Rock",
-      "incorrectAnswers": [
-        "All Shook Up",
-        "Hound Dog",
-        "Love Me Tender"
-      ],
-      "question": {
-        "text": "Which Elvis song has the lyrics 'Everybody in the whole cell block was dancin' to the ...'?"
-      },
-      "tags": [
-        "songs",
-        "lyrics",
-        "music",
-        "elvis_presley"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b57b8fd6c701a92118376",
-      "correctAnswer": "Italy",
-      "incorrectAnswers": [
-        "Russia",
-        "Czech Republic",
-        "USA"
-      ],
-      "question": {
-        "text": "In which country would you find the city of Venice?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ea8",
-      "correctAnswer": "J. K. Rowling",
-      "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
-      ],
-      "question": {
-        "text": "Which author wrote 'Fantastic Beasts and Where to Find Them'?"
-      },
-      "tags": [
+        "childrens_literature",
         "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f952338",
-      "correctAnswer": "Photosynthesis",
-      "incorrectAnswers": [
-        "Osmosis",
-        "Thesis",
-        "Carditis"
-      ],
-      "question": {
-        "text": "By what process do plants manufacture energy?"
-      },
-      "tags": [
-        "biology",
-        "plants",
-        "science"
+        "arts_and_literature",
+        "fictitious_characters"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -477,19 +108,85 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "65056e207a97013de78b5273",
-      "correctAnswer": "Tennis",
+      "id": "64824e287778562fd76a9602",
+      "correctAnswer": "Shadowboxing",
       "incorrectAnswers": [
-        "Football",
-        "Ice hockey",
-        "Cricket"
+        "Make-believe boxing",
+        "Doxing",
+        "Ghostboxing"
       ],
       "question": {
-        "text": "What sport is  famously played at Wimbledon?"
+        "text": "What is the term used when a boxer practices fighting against an imaginary opponent?"
       },
       "tags": [
-        "sport_and_leisure",
-        "sport"
+        "boxing",
+        "martial_arts",
+        "sport",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "63d9530a168979b94b2e4f85",
+      "correctAnswer": "Friends",
+      "incorrectAnswers": [
+        "Seinfeld",
+        "The Simpsons",
+        "Frasier"
+      ],
+      "question": {
+        "text": "Which popular '90s show featured the character of Ross Geller?"
+      },
+      "tags": [
+        "1990's",
+        "film_and_tv",
+        "tv",
+        "sitcoms"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c2c",
+      "correctAnswer": "ABBA",
+      "incorrectAnswers": [
+        "In Flames",
+        "HammerFall",
+        "Katatonia"
+      ],
+      "question": {
+        "text": "Which Swedish pop group released the song 'Gimme! Gimme! Gimme! (A Man After Midnight)'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573fee9da29df7b05f73b7",
+      "correctAnswer": "Toy Story",
+      "incorrectAnswers": [
+        "Pan's Labyrinth",
+        "The Exorcist",
+        "Gandhi"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'A cowboy doll is threatened when a new spaceman figure supplants him as top toy.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -498,18 +195,17 @@
     },
     {
       "category": "geography",
-      "id": "625e9ede796f721e95543f72",
-      "correctAnswer": "Red",
+      "id": "623387b00161109f922aac3d",
+      "correctAnswer": "Japan",
       "incorrectAnswers": [
-        "Gold",
-        "Yellow",
-        "Blue"
+        "China",
+        "Vietnam",
+        "India"
       ],
       "question": {
-        "text": "Which of these colors would you find on the flag of Japan?"
+        "text": "Which country uses the 'yen' for currency?"
       },
       "tags": [
-        "flags",
         "geography"
       ],
       "type": "text_choice",
@@ -519,17 +215,19 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ea9",
-      "correctAnswer": "J. K. Rowling",
+      "id": "622a1c367cc59eab6f9501c9",
+      "correctAnswer": "Lolita",
       "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
+        "Les Liaisons dangereuses",
+        "And Then There Were None",
+        "Ulysses"
       ],
       "question": {
-        "text": "Which author wrote 'Harry Potter and the Cursed Child'?"
+        "text": "Which piece of written work starts with the line 'Lolita, light of my life, fire of my loins.'?"
       },
       "tags": [
+        "literature",
+        "general_knowledge",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -538,23 +236,63 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "64730798cf09068746f6377c",
-      "correctAnswer": "Abbreviate",
+      "category": "film_and_tv",
+      "id": "625740839da29df7b05f73e3",
+      "correctAnswer": "After his son is captured and taken to Sydney, a clownfish sets out on a journey to bring him home.",
       "incorrectAnswers": [
-        "Abolish",
-        "Abduct",
-        "Abhor"
+        "A prince cursed to spend his days as a monster sets out to regain his humanity.",
+        "After he becomes a quadriplegic, an aristocrat hires a young man to be his caregiver.",
+        "A high school student is sent thirty years into the past in a time-traveling car."
       ],
       "question": {
-        "text": "What is the verb that means to shorten a word or phrase by omitting letters?"
+        "text": "What is the plot of the movie Finding Nemo?"
       },
       "tags": [
-        "vocabulary",
-        "grammar",
-        "words",
-        "language",
-        "general_knowledge"
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd5a",
+      "correctAnswer": "The Fresh Prince",
+      "incorrectAnswers": [
+        "DJ Jazzy Jeff",
+        "Eminem",
+        "Jay Z"
+      ],
+      "question": {
+        "text": "What is Will Smith's Rapper Alter Ego?"
+      },
+      "tags": [
+        "pseudonyms",
+        "people",
+        "musicians",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95139b",
+      "correctAnswer": "Harry Potter",
+      "incorrectAnswers": [
+        "Voyages Extraordinaires",
+        "Percy Jackson & the Olympians",
+        "Twilight"
+      ],
+      "question": {
+        "text": "In which book series does 'Ginny Weasley' appear?"
+      },
+      "tags": [
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -583,22 +321,65 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9eb",
-      "correctAnswer": "George Washington ",
+      "category": "music",
+      "id": "625063c2e12f6dec240bdf80",
+      "correctAnswer": "Baby Got Back",
       "incorrectAnswers": [
-        "Chester Arthur",
-        "Ulysses S. Grant",
-        "Millard Fillmore"
+        "867-5309 - Jenny",
+        "What's Up",
+        "Bitter Sweet Symphony"
       ],
       "question": {
-        "text": "Who was the 1st president of the USA, in term during the period 1789–1797?"
+        "text": "What song did Sir Mix-A-Lot have a hit with in 1992?"
       },
       "tags": [
-        "presidents",
-        "usa",
-        "firsts",
-        "history"
+        "songs",
+        "one_hit_wonders",
+        "1990's",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe66",
+      "correctAnswer": "Britney Spears",
+      "incorrectAnswers": [
+        "Madonna",
+        "Alanis Morissette",
+        "Nicki Minaj"
+      ],
+      "question": {
+        "text": "Which American singer, songwriter, dancer and actress released the studio album 'Oops!… I Did It Again'?"
+      },
+      "tags": [
+        "general_knowledge",
+        "pop_music",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b577dfd6c701a9211835f",
+      "correctAnswer": "Australia",
+      "incorrectAnswers": [
+        "Ecuador",
+        "Iraq",
+        "Scotland"
+      ],
+      "question": {
+        "text": "In which country would you find the Great Barrier Reef?"
+      },
+      "tags": [
+        "tourist_attractions",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -607,20 +388,213 @@
     },
     {
       "category": "science",
-      "id": "6242cafdd543524f1b19c901",
-      "correctAnswer": "A flock",
+      "id": "6477bacc550bc819ad646b16",
+      "correctAnswer": "Hay fever",
       "incorrectAnswers": [
-        "A fall",
-        "A gang",
-        "A yoke"
+        "Asthma",
+        "Eczema",
+        "Vertigo"
       ],
       "question": {
-        "text": "What is the word for a group of birds?"
+        "text": "What allergy is caused by the pollen of certain plants?"
       },
       "tags": [
-        "birds",
-        "words",
-        "general_knowledge",
+        "plants",
+        "medicine",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "64a0966bcf8fd58080ceffe7",
+      "correctAnswer": "Harry Potter and the Goblet of Fire",
+      "incorrectAnswers": [
+        "Harry Potter and the Three Champions",
+        "Harry Potter and the Triwizard Tournament",
+        "Harry Potter and the Tournament of Champions"
+      ],
+      "question": {
+        "text": "What is the title of the fourth book in the Harry Potter series?"
+      },
+      "tags": [
+        "literature",
+        "harry_potter",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6462628bab138b829b81ea25",
+      "correctAnswer": "Transylvania",
+      "incorrectAnswers": [
+        "Moldova",
+        "Dobruja",
+        "Banat"
+      ],
+      "question": {
+        "text": "What is the name of the Romanian region that is known for vampire legends?"
+      },
+      "tags": [
+        "romania",
+        "vampires",
+        "geography",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "649b4f4f828109028d236251",
+      "correctAnswer": "A Spider",
+      "incorrectAnswers": [
+        "A Pig",
+        "A Sheep",
+        "A Horse"
+      ],
+      "question": {
+        "text": "In E.B. White's classic children's book \"Charlotte's Web\", what kind of animal is Charlotte?"
+      },
+      "tags": [
+        "animals",
+        "childrens_literature",
+        "arts_and_literature",
+        "literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cd7",
+      "correctAnswer": "Queen",
+      "incorrectAnswers": [
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
+      ],
+      "question": {
+        "text": "Which British rock band released the song 'We Are the Champions'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6505702b7a97013de78b5549",
+      "correctAnswer": "Neutrino",
+      "incorrectAnswers": [
+        "Electron",
+        "Muon",
+        "Tau"
+      ],
+      "question": {
+        "text": "Which of the following particles does NOT carry electric charge?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "639ae873929b90846f2fc8df",
+      "correctAnswer": "Red",
+      "incorrectAnswers": [
+        "Blue",
+        "Green",
+        "Purple"
+      ],
+      "question": {
+        "text": "In Star Wars, what color is Darth Vader's lightsaber?"
+      },
+      "tags": [
+        "star_wars",
+        "film_and_tv",
+        "cult_films",
+        "film",
+        "science_fiction"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602d4b4b176d54800e3c8d",
+      "correctAnswer": "Israel",
+      "incorrectAnswers": [
+        "Lebanon",
+        "Egypt",
+        "Qatar"
+      ],
+      "question": {
+        "text": "In which country is the city of Tel Aviv?"
+      },
+      "tags": [
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cef",
+      "correctAnswer": "Queen",
+      "incorrectAnswers": [
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
+      ],
+      "question": {
+        "text": "Which British rock band released the song 'Bohemian Rhapsody'?"
+      },
+      "tags": [
+        "rock_music",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624334dfcfaae40c1296146f",
+      "correctAnswer": "An Owlet",
+      "incorrectAnswers": [
+        "A Caterpillar",
+        "A Codling",
+        "A Colt"
+      ],
+      "question": {
+        "text": "What would you call a baby owl?"
+      },
+      "tags": [
         "science"
       ],
       "type": "text_choice",
@@ -630,23 +604,42 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6463395701d576cfac3aa35f",
-      "correctAnswer": "A dreidel",
+      "id": "622a1c367cc59eab6f95012a",
+      "correctAnswer": "Olympus",
       "incorrectAnswers": [
-        "A menorah",
-        "A Torah scroll",
-        "A shofar"
+        "Sinai",
+        "Everest",
+        "Marathon"
       ],
       "question": {
-        "text": "Which of these is a four-sided spinning top, played during the Jewish holiday of Hanukkah?"
+        "text": "Which Greek mountain was known as the home of the gods?"
       },
       "tags": [
-        "judaism",
-        "society_and_culture",
-        "toys",
-        "celebrations",
-        "traditions",
-        "religion"
+        "mythology",
+        "ancient_greece",
+        "classics",
+        "general_knowledge",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b583dfd6c701a921183a8",
+      "correctAnswer": "England",
+      "incorrectAnswers": [
+        "Italy",
+        "France",
+        "Belgium"
+      ],
+      "question": {
+        "text": "In which country would you find the UNESCO World Heritage site of Stonehenge?"
+      },
+      "tags": [
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
