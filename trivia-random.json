@@ -1,42 +1,23 @@
 {
-  "gameDate": "2026-01-29",
+  "gameDate": "2026-01-30",
   "difficulty": "random",
   "results": [
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f95105e",
-      "correctAnswer": "Wind",
+      "category": "sport_and_leisure",
+      "id": "63dd25cf742e43ed64f1f023",
+      "correctAnswer": "Real Madrid",
       "incorrectAnswers": [
-        "Solar",
-        "Tidal",
-        "Nuclear"
+        "Manchester United",
+        "AC Milan",
+        "Liverpool"
       ],
       "question": {
-        "text": "What energy does an Eolic power station generate?"
+        "text": "Which club was the first to win two consecutive Champions League titles?"
       },
       "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d58",
-      "correctAnswer": "Motörhead",
-      "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Motley Crüe"
-      ],
-      "question": {
-        "text": "Which band was founded by Lemmy?"
-      },
-      "tags": [
-        "music",
-        "bands"
+        "sport",
+        "soccer",
+        "football"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -45,19 +26,18 @@
     },
     {
       "category": "food_and_drink",
-      "id": "624c6176badf21197f98f77e",
-      "correctAnswer": "Pepperpot",
+      "id": "624ab07ac64ce21c11f06e9f",
+      "correctAnswer": "Central America",
       "incorrectAnswers": [
-        "Plov",
-        "Cou Cou and Flying Fish",
-        "Shawarma"
+        "China",
+        "Central Asia",
+        "Europe"
       ],
       "question": {
-        "text": "Which of these dishes would you most expect to find in Guyana?"
+        "text": "Where in the world are bell peppers originally from?"
       },
       "tags": [
         "food",
-        "south_america",
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -66,85 +46,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "625e9f90796f721e95543fa6",
-      "correctAnswer": "Yellow",
-      "incorrectAnswers": [
-        "Black",
-        "Maroon",
-        "Orange"
-      ],
-      "question": {
-        "text": "Which of these colors would you find on the flag of Romania?"
-      },
-      "tags": [
-        "flags",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62433475cfaae40c12961445",
-      "correctAnswer": "A Farrow",
-      "incorrectAnswers": [
-        "A Larva",
-        "A Caterpillar",
-        "A Codling"
-      ],
-      "question": {
-        "text": "A young hog is known as what?"
-      },
-      "tags": [
-        "animals",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6498aef29acaa77d9ad7c503",
-      "correctAnswer": "The peso",
-      "incorrectAnswers": [
-        "The dollar",
-        "The maya",
-        "The matza"
-      ],
-      "question": {
-        "text": "What is the name of the currency used by both Chile and Colombia?"
-      },
-      "tags": [
-        "currency",
-        "society_and_culture",
-        "south_america"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9503fc",
-      "correctAnswer": "Elliot Ness",
+      "id": "6471e4297206d7c314606f75",
+      "correctAnswer": "Moses",
       "incorrectAnswers": [
-        "Chris Robson",
-        "Dave Bradzinski",
-        "Arthur Montgomery"
+        "Goliath",
+        "King Herod",
+        "Jesus"
       ],
       "question": {
-        "text": "Which F.B.I agent headed the investigation of Al Capone? "
+        "text": "In the bible, who says, \"I will now turn aside, and see this great sight, why the bush is not burnt\"?"
       },
       "tags": [
-        "people",
-        "crime",
+        "bible",
+        "christianity",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -153,134 +68,23 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c397cc59eab6f950fb8",
-      "correctAnswer": "Alexander Fleming",
-      "incorrectAnswers": [
-        "Louis Pasteur",
-        "Frederick Sanger",
-        "John Dalton"
-      ],
-      "question": {
-        "text": "Who Is Accepted As The Discoverer Of Penicillin?"
-      },
-      "tags": [
-        "inventions",
-        "chemistry",
-        "people",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "6233852c62eaad73716a8c54",
-      "correctAnswer": "The Yellow River",
+      "id": "64a9cc039bf4085beaa1b041",
+      "correctAnswer": "The Mormon Tabernacle",
       "incorrectAnswers": [
-        "The Mekong River",
-        "The Yangtze River",
-        "The Congo River"
+        "The Amish Colonade",
+        "The Witness Hall",
+        "The Jesuit Amphitheatre"
       ],
       "question": {
-        "text": "What river is known as China's sorrow because of its flooding?"
+        "text": "Which of these is an iconic Salt Lake City building?"
       },
       "tags": [
-        "rivers",
-        "bodies_of_water",
-        "china",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ebbd7f41d6338b96eebc",
-      "correctAnswer": "One of the main writers of the New Testament.",
-      "incorrectAnswers": [
-        "The first pope.",
-        "Missionary responsibile for spreading Christianity to East Asia. ",
-        "One of the main characters of the Protestant Reformation. "
-      ],
-      "question": {
-        "text": "Which of the following describes St. Paul?"
-      },
-      "tags": [
-        "people",
-        "society_and_culture",
-        "religion",
-        "christianity"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639ae366929b90846f2fc8cd",
-      "correctAnswer": "Coatlicue",
-      "incorrectAnswers": [
-        "Tlaloc",
-        "Tezcatlipoca",
-        "Quetzalcoatl"
-      ],
-      "question": {
-        "text": "What was the name of the Aztec creation goddess?"
-      },
-      "tags": [
-        "history",
-        "aztecs",
-        "mythology"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "646140774d46e537ca8cd9bb",
-      "correctAnswer": "The Great Barrier Reef",
-      "incorrectAnswers": [
-        "The Northern Lights",
-        "The Galapagos Islands",
-        "The Mariana Trench"
-      ],
-      "question": {
-        "text": "What is the name of the natural wonder that stretches over 1,250 miles off the east coast of Australia?"
-      },
-      "tags": [
-        "natural_wonders",
-        "australia",
-        "nature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "645ababf158db1bd1779f1d4",
-      "correctAnswer": "The Deer Hunter",
-      "incorrectAnswers": [
-        "Platoon",
-        "Full Metal Jacket",
-        "Apocalypse Now"
-      ],
-      "question": {
-        "text": "Which Vietnam War film features Robert De Niro, John Savage and Christopher Walken as the hunted?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv",
-        "acting"
+        "buildings",
+        "usa",
+        "utah",
+        "geography",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -289,15 +93,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950efe",
-      "correctAnswer": "Victor Hugo",
+      "id": "622a1c397cc59eab6f950e84",
+      "correctAnswer": "Robert Louis Stevenson",
       "incorrectAnswers": [
-        "Alphonse Daudet",
-        "Jules Verne",
-        "Miguel de Cervantes"
+        "Oscar Wilde",
+        "Agatha Christie",
+        "Joseph Conrad"
       ],
       "question": {
-        "text": "Which author wrote 'The Hunchback of Notre Dame'?"
+        "text": "Which author wrote 'Treasure Island'?"
       },
       "tags": [
         "arts_and_literature"
@@ -308,21 +112,64 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95066b",
-      "correctAnswer": "Timothy Spall",
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950086",
+      "correctAnswer": "The Oche",
       "incorrectAnswers": [
-        "Anthony Hopkins",
-        "Stephen Fry",
-        "Hugh Grant"
+        "The Div",
+        "The Par",
+        "The Sod"
       ],
       "question": {
-        "text": "Which British actor has featured in films including Harry Potter and the Goblet of Fire, and The King's Speech?"
+        "text": "What Is the Mark Behind Which Dart Player Must Stand Called?"
       },
       "tags": [
-        "film",
-        "film_and_tv",
-        "acting"
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "646089e9de964ebc39016cb4",
+      "correctAnswer": "Alexander Graham Bell",
+      "incorrectAnswers": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Benjamin Franklin"
+      ],
+      "question": {
+        "text": "Who created an audiometer to detect vestigial hearing in the deaf, among other inventions?"
+      },
+      "tags": [
+        "inventions",
+        "people",
+        "history",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd3f",
+      "correctAnswer": "Coptic",
+      "incorrectAnswers": [
+        "Pernial",
+        "Maurovingian",
+        "Arabic"
+      ],
+      "question": {
+        "text": "Which of these words relates to a family of dialects descended from the Ancient Egyptian language?"
+      },
+      "tags": [
+        "words",
+        "language",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -331,36 +178,209 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625740109da29df7b05f73c1",
-      "correctAnswer": "An NYPD officer tries to save his wife taken hostage by terrorists during a Christmas party.",
+      "id": "622a1c347cc59eab6f94f8b9",
+      "correctAnswer": "Vivien Leigh",
       "incorrectAnswers": [
-        "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler.",
-        "The story of how the scandal of child molestation within the Boston Catholic church was uncovered.",
-        "A rat makes an unusual alliance with a young kitchen worker at a famous restaurant."
+        "Holly Hunter",
+        "Whoopi Goldberg",
+        "Bette Davis"
       ],
       "question": {
-        "text": "What is the plot of the movie Die Hard?"
+        "text": "Which actress played the role of Scarlett O'Hara in Gone with the Wind?"
       },
       "tags": [
         "film",
+        "acting",
         "film_and_tv"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374122cb85f7ce9e949d46",
+      "correctAnswer": "Monrovia",
+      "incorrectAnswers": [
+        "Brazzaville",
+        "Ulaanbaatar",
+        "Nur-Sultan"
+      ],
+      "question": {
+        "text": "What is the capital city of Liberia?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "647129af64c916f9c84814b7",
+      "correctAnswer": "Figure skating",
+      "incorrectAnswers": [
+        "Ice hockey",
+        "Gymnastics",
+        "Tennis"
+      ],
+      "question": {
+        "text": "Which sport saw athletes like John Curry and Peggy Fleming rise to prominence as proteges of coach Carlo Fassi?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ff94",
+      "correctAnswer": "Prague",
+      "incorrectAnswers": [
+        "Vienna",
+        "Oxford",
+        "Budapest"
+      ],
+      "question": {
+        "text": "Which European city is nicknamed the city of a hundred spires?"
+      },
+      "tags": [
+        "europe",
+        "cities",
+        "nicknames",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64959827e831b1ab5aa11104",
+      "correctAnswer": "Vincent Price",
+      "incorrectAnswers": [
+        "Bela Lugosi",
+        "Christopher Lee",
+        "Boris Karloff"
+      ],
+      "question": {
+        "text": "Which actor did the voice-over on the Michael Jackson song 'Thriller'?"
+      },
+      "tags": [
+        "songs",
+        "horror",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056e727a97013de78b52e5",
+      "correctAnswer": "Carbine",
+      "incorrectAnswers": [
+        "Falchion",
+        "Pike",
+        "Maul"
+      ],
+      "question": {
+        "text": "Which of these was NOT a weapon typically used during the medieval period?"
+      },
+      "tags": [
+        "history",
+        "medieval",
+        "weapons"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951031",
+      "correctAnswer": "Hexagon",
+      "incorrectAnswers": [
+        "Pentagon",
+        "Octagon",
+        "Dodecahedron"
+      ],
+      "question": {
+        "text": "What is the mathematical term used to describe the shape of a cell in a honeycomb? "
+      },
+      "tags": [
+        "mathematics",
+        "general_knowledge",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f95010f",
+      "correctAnswer": "Valhalla",
+      "incorrectAnswers": [
+        "Trondheim",
+        "Odinsbahn",
+        "Asgard"
+      ],
+      "question": {
+        "text": "What's heaven to fallen Norse warriors?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950032",
+      "correctAnswer": "Pete Sampras",
+      "incorrectAnswers": [
+        "Roger Federer",
+        "Lleyton Hewitt",
+        "Andy Roddick"
+      ],
+      "question": {
+        "text": "Who Won The US Open Men's Tennis Title in 1990 At The Age Of Just 19?"
+      },
+      "tags": [
+        "tennis",
+        "people",
+        "1990's",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbe1",
-      "correctAnswer": "\"I live my life a quarter mile at a time.\"",
+      "id": "622a1c347cc59eab6f94fbd6",
+      "correctAnswer": "\"I’m the guy who does his job. You must be the other guy.\"",
       "incorrectAnswers": [
-        "\"Release the Kraken!\"",
-        "\"Hello, gorgeous.\"",
-        "\"Fasten your seatbelts. It's going to be a bumpy night.\""
+        "\"You motorboatin’ son of a b****!\"",
+        "\"I am big! It's the pictures that got small.\"",
+        "\"I'm gonna make him an offer he can't refuse.\""
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'The Fast and the Furious'?"
+        "text": "Which of these quotes is from the film 'The Departed'?"
       },
       "tags": [
         "quotes",
@@ -373,189 +393,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe18",
-      "correctAnswer": "Galata Bridge",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c1f",
+      "correctAnswer": "Red Hot Chili Peppers",
       "incorrectAnswers": [
-        "Bosphor Bridge",
-        "Istanbul Suspension Bridge",
-        "Topkaki Bridge"
+        "The Monkees",
+        "Black Flag",
+        "Journey"
       ],
       "question": {
-        "text": "Which Bridge Connects Europe With Asia?"
+        "text": "Which American rock band released the album 'Californication'?"
       },
       "tags": [
-        "bridges",
-        "europe",
-        "asia",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62399ede43254f1dbcdd082c",
-      "correctAnswer": "Brazil",
-      "incorrectAnswers": [
-        "France",
-        "Germany",
-        "Spain"
-      ],
-      "question": {
-        "text": "Which country won the 2002 FIFA World Cup, hosted in South Korea & Japan?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950ff4",
-      "correctAnswer": "Albatross",
-      "incorrectAnswers": [
-        "Emperor Penguin",
-        "Eurasian Coot",
-        "Mallard"
-      ],
-      "question": {
-        "text": "Which is the largest aquatic bird by wingspan?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510ca",
-      "correctAnswer": "Copper & Tin",
-      "incorrectAnswers": [
-        "Iron & Copper",
-        "Iron & Zinc",
-        "Aluminium & Zinc"
-      ],
-      "question": {
-        "text": "From What Metals Is Brass Made?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6498aef29acaa77d9ad7c504",
-      "correctAnswer": "Prehensile",
-      "incorrectAnswers": [
-        "Persistent",
-        "Prophetic",
-        "Precipitous"
-      ],
-      "question": {
-        "text": "What is the word used for a type of tail that can grasp objects?"
-      },
-      "tags": [
-        "biology",
-        "animals",
-        "science",
-        "nature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95059d",
-      "correctAnswer": "Aqueous vapors",
-      "incorrectAnswers": [
-        "Insects",
-        "The nervous system",
-        "Weather"
-      ],
-      "question": {
-        "text": "What is Atmology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6471e4297206d7c314606f74",
-      "correctAnswer": "Train",
-      "incorrectAnswers": [
-        "Boat",
-        "Bus",
-        "Plane"
-      ],
-      "question": {
-        "text": "What word completes the 1951 film title \"Strangers on a ___\"?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "646089e4de964ebc39016ca0",
-      "correctAnswer": "Pressure",
-      "incorrectAnswers": [
-        "Volume",
-        "Luminescence",
-        "Temperature"
-      ],
-      "question": {
-        "text": "According to Boyle's Law, what increases when a gas is compressed to half its size?"
-      },
-      "tags": [
-        "chemistry",
-        "physics",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63dd25e9742e43ed64f1f048",
-      "correctAnswer": "Inflation",
-      "incorrectAnswers": [
-        "GDP",
-        "Profit Margin",
-        "Unemployment Rate"
-      ],
-      "question": {
-        "text": "What is the term for the rate at which the prices of goods and services increase over time?"
-      },
-      "tags": [
-        "society_and_culture",
-        "economics"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -563,43 +413,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951909",
-      "correctAnswer": "A Siege Machine",
+      "category": "science",
+      "id": "62443781746187c5e7be9359",
+      "correctAnswer": "It is used to relieve pain.",
       "incorrectAnswers": [
-        "A Scientific Instrument",
-        "A Position in the Church",
-        "A Tax on Feudal Landowners"
+        "It is used in disinfectants and antiseptics.",
+        "It is used in laundry detergent.",
+        "It is used as an ingredient in baking."
       ],
       "question": {
-        "text": "What Was A Ballista?"
+        "text": "What is the chemical nitrous oxide often used for?"
       },
       "tags": [
-        "words",
-        "medieval",
-        "middle_ages",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056f2a7a97013de78b53e7",
-      "correctAnswer": "Marie Antoinette",
-      "incorrectAnswers": [
-        "Marie de' Medici",
-        "Eleanor of Aquitaine",
-        "Diane de Poitiers"
-      ],
-      "question": {
-        "text": "Which Archduchess of Austria became Queen of France in 1774?"
-      },
-      "tags": [
-        "history",
-        "royalty"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -608,20 +434,40 @@
     },
     {
       "category": "society_and_culture",
-      "id": "64a09da6cf8fd58080cf000d",
-      "correctAnswer": "Princess Diana",
+      "id": "63dd25e0742e43ed64f1f03c",
+      "correctAnswer": "Profit Margin",
       "incorrectAnswers": [
-        "Queen Elizabeth II",
-        "Camilla Parker Bowles",
-        "Sarah Ferguson"
+        "Gross Margin",
+        "Inflation Rate",
+        "Exchange Rate"
       ],
       "question": {
-        "text": "In 1982, which member of the British royal family gave birth to Prince William?"
+        "text": "What is the term for the ratio of a company's total revenue to its total expenses?"
       },
       "tags": [
-        "royalty",
-        "uk",
-        "society_and_culture"
+        "society_and_culture",
+        "economics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623742f6cb85f7ce9e949e03",
+      "correctAnswer": "Yemen",
+      "incorrectAnswers": [
+        "Zambia",
+        "Singapore",
+        "Timor-Leste"
+      ],
+      "question": {
+        "text": "Sana'a is the capital city of which country?"
+      },
+      "tags": [
+        "capital_cities",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -629,24 +475,175 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62602e2f4b176d54800e3cc8",
-      "correctAnswer": "Tallinn",
+      "category": "music",
+      "id": "6266bc34ff2394bd44dedffe",
+      "correctAnswer": "Tabourine",
       "incorrectAnswers": [
-        "Copenhagen",
-        "Paris",
-        "Zürich"
+        "Cornett",
+        "Fife",
+        "Clarinet"
       ],
       "question": {
-        "text": "Which of these cities is in Estonia?"
+        "text": "Which of these is a percussion instrument?"
       },
       "tags": [
-        "cities",
-        "europe",
-        "geography"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "63a03958c7d86251f9b65c47",
+      "correctAnswer": "Mascarpone",
+      "incorrectAnswers": [
+        "Feta",
+        "Gouda",
+        "Mozzarella"
+      ],
+      "question": {
+        "text": "What type of cheese is used to make a Tiramisu?"
+      },
+      "tags": [
+        "cheese",
+        "food_and_drink",
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe35",
+      "correctAnswer": "The Bronx",
+      "incorrectAnswers": [
+        "Manhattan",
+        "Harlem",
+        "Brooklyn"
+      ],
+      "question": {
+        "text": "What is the only borough of New York City that is not on an island? "
+      },
+      "tags": [
+        "cities",
+        "new_york",
+        "usa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950edb",
+      "correctAnswer": "George R. R. Martin",
+      "incorrectAnswers": [
+        "Stephen King",
+        "Jack Vance",
+        "Edgar Rice Burroughs"
+      ],
+      "question": {
+        "text": "Which author wrote 'A Dance with Dragons'?"
+      },
+      "tags": [
+        "fantasy",
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6239f8219129041bf3925cc9",
+      "correctAnswer": "Mike",
+      "incorrectAnswers": [
+        "Mambo",
+        "Mauritius",
+        "Mendip"
+      ],
+      "question": {
+        "text": "What word is used in the NATO Phonetic Alphabet for the letter M?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "64e6fda00b79e5bedd55c8c7",
+      "correctAnswer": "Champagne",
+      "incorrectAnswers": [
+        "Prosecco",
+        "Cava",
+        "Asti"
+      ],
+      "question": {
+        "text": "In 2008, French authorities allowed 40 villages to classify themselves as part of which sparkling wine region?"
+      },
+      "tags": [
+        "wine",
+        "France",
+        "beverages",
+        "sparkling wine"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "64a0966bcf8fd58080ceffe7",
+      "correctAnswer": "Harry Potter and the Goblet of Fire",
+      "incorrectAnswers": [
+        "Harry Potter and the Three Champions",
+        "Harry Potter and the Triwizard Tournament",
+        "Harry Potter and the Tournament of Champions"
+      ],
+      "question": {
+        "text": "What is the title of the fourth book in the Harry Potter series?"
+      },
+      "tags": [
+        "literature",
+        "harry_potter",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b01",
+      "correctAnswer": "Talking Heads",
+      "incorrectAnswers": [
+        "The Rolling Stones",
+        "U2",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which band was David Byrne the lead singer of?"
+      },
+      "tags": [
+        "music",
+        "bands"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     }

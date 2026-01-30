@@ -1,18 +1,38 @@
 {
-  "gameDate": "2026-01-29",
+  "gameDate": "2026-01-30",
   "difficulty": "easy",
   "results": [
     {
-      "category": "geography",
-      "id": "623740bdcb85f7ce9e949d1d",
-      "correctAnswer": "India",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951081",
+      "correctAnswer": "Blue",
       "incorrectAnswers": [
-        "Thailand",
-        "Solomon Islands",
-        "Oman"
+        "Yellow",
+        "Purple",
+        "Red"
       ],
       "question": {
-        "text": "New Delhi is the capital city of which country?"
+        "text": "What Colour Is Sonic the Hedgehog?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374206cb85f7ce9e949da2",
+      "correctAnswer": "Moscow",
+      "incorrectAnswers": [
+        "St Petersburg",
+        "Kazan",
+        "Vladivostok"
+      ],
+      "question": {
+        "text": "What is the capital city of Russia?"
       },
       "tags": [
         "geography"
@@ -23,66 +43,40 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "645a6490158db1bd1779f197",
-      "correctAnswer": "Dancing",
-      "incorrectAnswers": [
-        "Buzzing",
-        "Singing",
-        "Whistling"
-      ],
-      "question": {
-        "text": "How does a scout bee communicate to other bees about the location of flowers?"
-      },
-      "tags": [
-        "animals",
-        "insects",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "645c9f5342ea81e2554c5f0d",
-      "correctAnswer": "a foot",
-      "incorrectAnswers": [
-        "a hand",
-        "an ear",
-        "a nose"
-      ],
-      "question": {
-        "text": "What body part are you said to have 'in the door' if you're lucky, and 'in the grave' if you're not?"
-      },
-      "tags": [
-        "idioms",
-        "sayings"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "64824eaa7778562fd76a9663",
-      "correctAnswer": "San Francisco Bay",
+      "id": "622a1c357cc59eab6f94ffb9",
+      "correctAnswer": "Asia",
       "incorrectAnswers": [
-        "Monterey Bay",
-        "Santa Monica Bay",
-        "San Diego Bay"
+        "Africa",
+        "North America",
+        "South America"
       ],
       "question": {
-        "text": "What bay is connected to the Pacific Ocean by the three-mile-long Golden Gate Strait?"
+        "text": "Which Of The World's Continents Has The Highest Population? "
       },
       "tags": [
-        "bodies_of_water",
-        "bays",
-        "geography",
-        "usa"
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c377cc59eab6f950425",
+      "correctAnswer": "Chestnuts",
+      "incorrectAnswers": [
+        "Mistletoe",
+        "Santa",
+        "Marshmallows"
+      ],
+      "question": {
+        "text": "In the Christmas song what was 'Roasting on an Open Fire'?"
+      },
+      "tags": [
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -91,20 +85,19 @@
     },
     {
       "category": "society_and_culture",
-      "id": "63e4c35f106de6ffa7d4a7e0",
-      "correctAnswer": "Red, White, and Blue",
+      "id": "63e4c353106de6ffa7d4a7d2",
+      "correctAnswer": "Red",
       "incorrectAnswers": [
-        "Green, White, and Red",
-        "Yellow, White, and Blue",
-        "Red, White, and Yellow"
+        "White",
+        "Blue",
+        "Purple"
       ],
       "question": {
-        "text": "What colors are traditionally associated with the US Independence Day (4th of July)?"
+        "text": "What is the traditional color associated with Valentine's Day?"
       },
       "tags": [
         "society_and_culture",
-        "usa",
-        "celebrations",
+        "traditions",
         "colours"
       ],
       "type": "text_choice",
@@ -113,21 +106,21 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "647f9df73a4302a719271695",
-      "correctAnswer": "Pawns",
+      "category": "society_and_culture",
+      "id": "62ab32d25202de619af28129",
+      "correctAnswer": "Porsche",
       "incorrectAnswers": [
-        "Bishops",
-        "Knights",
-        "Rooks"
+        "Volkswagen",
+        "Rolls-Royce",
+        "Citroën"
       ],
       "question": {
-        "text": "Which chess piece is the most common?"
+        "text": "The 911 is a model of car made by which manufacturer?"
       },
       "tags": [
-        "chess",
-        "board_games",
-        "games"
+        "motoring",
+        "business",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -135,21 +128,88 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "639ae2c3929b90846f2fc8b3",
-      "correctAnswer": "Scandinavia",
+      "category": "society_and_culture",
+      "id": "65056f747a97013de78b544f",
+      "correctAnswer": "Indigenous cultures",
       "incorrectAnswers": [
-        "Britain",
-        "China",
-        "The Maghreb"
+        "Modern corporations",
+        "Ancient Greek city-states",
+        "Medieval European guilds"
       ],
       "question": {
-        "text": "Where did the Vikings originate from?"
+        "text": "Totems are most commonly associated with which of the following?"
       },
       "tags": [
-        "history",
-        "vikings",
-        "general_knowledge"
+        "culture",
+        "anthropology",
+        "totem"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "65056e427a97013de78b52a2",
+      "correctAnswer": "Sashimi",
+      "incorrectAnswers": [
+        "Risotto",
+        "Pizza",
+        "Lasagne"
+      ],
+      "question": {
+        "text": "Which of these dishes isn't Italian?"
+      },
+      "tags": [
+        "food_and_drink",
+        "food",
+        "cuisine",
+        "italian_cuisine"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd70",
+      "correctAnswer": "Cher",
+      "incorrectAnswers": [
+        "Lady Gaga",
+        "Sia",
+        "Madonna"
+      ],
+      "question": {
+        "text": "Whose Real Name Is 'Cherilyn Sarkisian La Pier'?"
+      },
+      "tags": [
+        "pseudonyms",
+        "people",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8ad",
+      "correctAnswer": "Football",
+      "incorrectAnswers": [
+        "Track and field",
+        "Badminton",
+        "Boxing"
+      ],
+      "question": {
+        "text": "With which sport is Lionel Messi associated?"
+      },
+      "tags": [
+        "people",
+        "general_knowledge",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -158,19 +218,21 @@
     },
     {
       "category": "geography",
-      "id": "62602d174b176d54800e3c7e",
-      "correctAnswer": "Australia",
+      "id": "622a1c357cc59eab6f94fe40",
+      "correctAnswer": "Rushmore",
       "incorrectAnswers": [
-        "Ireland",
-        "New Zealand",
-        "Canada"
+        "Yellowstone",
+        "Everest",
+        "Fairweather"
       ],
       "question": {
-        "text": "Sydney is a city in which country?"
+        "text": "On what mountain are four presidents' faces carved? "
       },
       "tags": [
-        "cities",
-        "general_knowledge",
+        "mountains",
+        "usa",
+        "presidents",
+        "tourist_attractions",
         "geography"
       ],
       "type": "text_choice",
@@ -180,17 +242,18 @@
     },
     {
       "category": "science",
-      "id": "6243354acfaae40c12961499",
-      "correctAnswer": "A Ewe",
+      "id": "64824eb57778562fd76a9690",
+      "correctAnswer": "GPS",
       "incorrectAnswers": [
-        "A Bitch",
-        "A Soar",
-        "A Cow"
+        "BPS",
+        "LPS",
+        "TPS"
       ],
       "question": {
-        "text": "What is a female sheep known as?"
+        "text": "Which technology was first developed for the U.S. military and is now used for navigation?"
       },
       "tags": [
+        "technology",
         "science"
       ],
       "type": "text_choice",
@@ -199,41 +262,24 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "65056f887a97013de78b546a",
-      "correctAnswer": "Macbeth",
+      "category": "history",
+      "id": "63d95305168979b94b2e4f7b",
+      "correctAnswer": "Nelson Mandela",
       "incorrectAnswers": [
-        "Tristram Shandy",
-        "Twilight",
-        "Ivanhoe"
+        "Kgalema Motlanthe",
+        "F.W. de Klerk",
+        "Thabo Mbeki"
       ],
       "question": {
-        "text": "Which of these is a play by Shakespeare?"
+        "text": "Who was the first president of South Africa?"
       },
       "tags": [
-        "arts_and_literature",
-        "theater",
-        "shakespeare"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374204cb85f7ce9e949da1",
-      "correctAnswer": "Russia",
-      "incorrectAnswers": [
-        "Luxembourg",
-        "Denmark",
-        "Austria"
-      ],
-      "question": {
-        "text": "Moscow is the capital city of which country?"
-      },
-      "tags": [
-        "geography"
+        "history",
+        "leaders",
+        "africa",
+        "south_africa",
+        "people",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -242,21 +288,17 @@
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f9517fa",
-      "correctAnswer": "Pompeii",
+      "id": "622a1c3c7cc59eab6f951a08",
+      "correctAnswer": "Holocaust",
       "incorrectAnswers": [
-        "Genoa",
-        "Capua",
-        "Ostia"
+        "Auchterarder",
+        "Blitzkrieg",
+        "Luftwaffe"
       ],
       "question": {
-        "text": "Which Roman city was buried under volcanic ash from Mount Vesuvius In 79A.D.?"
+        "text": "Which word describes the Nazi genocide of Jews?"
       },
       "tags": [
-        "romans",
-        "volcanoes",
-        "italy",
-        "classics",
         "history"
       ],
       "type": "text_choice",
@@ -265,23 +307,19 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f9513a3",
-      "correctAnswer": "Harry Potter",
+      "category": "sport_and_leisure",
+      "id": "63a0399cc7d86251f9b65c8f",
+      "correctAnswer": "The Game of Life",
       "incorrectAnswers": [
-        "Percy Jackson & the Olympians",
-        "Twilight",
-        "Divergent"
+        "Risk",
+        "Monopoly",
+        "Clue"
       ],
       "question": {
-        "text": "In which book series does 'Ron Weasley' appear?"
+        "text": "What is the name of the classic board game where players race through a person's life from childhood to retirement?"
       },
       "tags": [
-        "literature",
-        "fictitious_characters",
-        "young_adult",
-        "general_knowledge",
-        "arts_and_literature"
+        "board_games"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -290,18 +328,63 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95139b",
-      "correctAnswer": "Harry Potter",
+      "id": "63a03970c7d86251f9b65c59",
+      "correctAnswer": "Hey Diddle Diddle",
       "incorrectAnswers": [
-        "Voyages Extraordinaires",
-        "Percy Jackson & the Olympians",
-        "Twilight"
+        "Humpty Dumpty",
+        "Mary Had a Little Lamb",
+        "Baa Baa Black Sheep"
       ],
       "question": {
-        "text": "In which book series does 'Ginny Weasley' appear?"
+        "text": "What nursery rhyme includes a cow jumping over the moon?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "nursery_rhymes"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eac",
+      "correctAnswer": "J. K. Rowling",
+      "incorrectAnswers": [
+        "Christopher Tolkien",
+        "Philip Pullman",
+        "C. S. Lewis"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Tales of Beedle the Bard'?"
       },
       "tags": [
         "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff53",
+      "correctAnswer": "Michael Jackson",
+      "incorrectAnswers": [
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
+      ],
+      "question": {
+        "text": "Which American singer released the album 'Dangerous'?"
+      },
+      "tags": [
+        "music_albums",
+        "musicians",
+        "1980's",
+        "general_knowledge",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -310,88 +393,17 @@
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94ffe6",
-      "correctAnswer": "Paris",
+      "id": "623b57d1fd6c701a92118380",
+      "correctAnswer": "USA",
       "incorrectAnswers": [
-        "Strasbourg",
-        "Lyon",
-        "Nantes"
+        "Israel",
+        "England",
+        "Australia"
       ],
       "question": {
-        "text": "What is the capital of France?"
+        "text": "In which country would you find the Grand Canyon National Park?"
       },
       "tags": [
-        "capital_cities",
-        "europe",
-        "france",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501c4",
-      "correctAnswer": "Harry Potter and the Philosopher's Stone",
-      "incorrectAnswers": [
-        "The Battle of the Labyrinth",
-        "Harry Potter and the Half-Blood Prince",
-        "The Sea of Monsters"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'Mr and Mrs Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.'?"
-      },
-      "tags": [
-        "quotes",
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "648b872108102f4e90f095cf",
-      "correctAnswer": "Whiskey",
-      "incorrectAnswers": [
-        "Beer",
-        "Wine",
-        "Rum"
-      ],
-      "question": {
-        "text": "What type of alcoholic beverage is bourbon?"
-      },
-      "tags": [
-        "alcohol",
-        "spirits",
-        "liquor",
-        "drink",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62373602cfe13103f55eb591",
-      "correctAnswer": "The United Kingdom",
-      "incorrectAnswers": [
-        "Ukraine",
-        "Uzbekistan",
-        "Uganda"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.uk' at the end of its web addresses?"
-      },
-      "tags": [
-        "the_internet",
         "geography"
       ],
       "type": "text_choice",
@@ -401,15 +413,188 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625741309da29df7b05f740d",
-      "correctAnswer": "The Exorcist",
+      "id": "622a1c3c7cc59eab6f951ad0",
+      "correctAnswer": "Die Hard",
       "incorrectAnswers": [
-        "Up",
-        "Green Book",
-        "Sunset Blvd."
+        "Robocop",
+        "Top Gun",
+        "Full Metal Jacket"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'When a girl is possessed, her mother seeks the help of two priests to save her.'"
+        "text": "In which 80's movie did John McClane fight a group of terrorists in a skyscraper?"
+      },
+      "tags": [
+        "1980's",
+        "film",
+        "fictitious_characters",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff3a",
+      "correctAnswer": "Michael Jackson",
+      "incorrectAnswers": [
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
+      ],
+      "question": {
+        "text": "Which American musician sung 'Rock with You'?"
+      },
+      "tags": [
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62433403cfaae40c12961419",
+      "correctAnswer": "A Tadpole",
+      "incorrectAnswers": [
+        "A Calf",
+        "A Piglet",
+        "A Maggot"
+      ],
+      "question": {
+        "text": "What would you call a baby frog?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8d5",
+      "correctAnswer": "Arnold Schwarzenegger",
+      "incorrectAnswers": [
+        "Michael Douglas",
+        "Dustin Hoffman",
+        "Andy Serkis"
+      ],
+      "question": {
+        "text": "Which actor played the role of The Terminator in The Terminator?"
+      },
+      "tags": [
+        "film",
+        "cult_films",
+        "acting",
+        "general_knowledge",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbc5",
+      "correctAnswer": "\"I love lamp.\"",
+      "incorrectAnswers": [
+        "\"Rosebud.\"",
+        "\"You're gonna need a bigger boat.\"",
+        "\"Shane. Shane. Come back!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Anchorman: The Legend of Ron Burgundy'?"
+      },
+      "tags": [
+        "songs",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94feba",
+      "correctAnswer": "Beyoncé",
+      "incorrectAnswers": [
+        "Madonna",
+        "Drake",
+        "Nicki Minaj"
+      ],
+      "question": {
+        "text": "Which American singer, actress and record producer released the song 'Crazy in Love'?"
+      },
+      "tags": [
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9505a5",
+      "correctAnswer": "angels",
+      "incorrectAnswers": [
+        "numbers",
+        "religion",
+        "Semitic cultures"
+      ],
+      "question": {
+        "text": "What is Angelology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63e13a32106de6ffa7d4a7b2",
+      "correctAnswer": "Bladder",
+      "incorrectAnswers": [
+        "Stomach",
+        "Kidney",
+        "Liver"
+      ],
+      "question": {
+        "text": "Which organ stores urine?\n"
+      },
+      "tags": [
+        "science",
+        "biology",
+        "anatomy"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573fa49da29df7b05f73a8",
+      "correctAnswer": "An archaeologist is hired by the government to find the Ark of the Covenant.",
+      "incorrectAnswers": [
+        "On a journey to find the cure for a curse, a boy finds himself in the middle of a war.",
+        "A Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+        "A 12-year-old is taken in by a professional assassin after her family is murdered."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Raiders of the Lost Ark?"
       },
       "tags": [
         "film",
@@ -421,111 +606,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502a0",
-      "correctAnswer": "Dr Pepper ",
-      "incorrectAnswers": [
-        "Lucozade",
-        "Tango",
-        "Sunny Delight"
-      ],
-      "question": {
-        "text": "What soft drink is advertised with the slogan, \"What's the worst that could happen\"?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "625063b1e12f6dec240bdf7b",
-      "correctAnswer": "Ice Ice Baby",
-      "incorrectAnswers": [
-        "I Want Candy",
-        "Baby Got Back",
-        "We're Not Gonna Take It"
-      ],
-      "question": {
-        "text": "Vanilla Ice had a one hit wonder in 1990 with which song?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "1990's",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64746b005a4c31088dd9cff9",
-      "correctAnswer": "Landslide",
-      "incorrectAnswers": [
-        "Tsunami",
-        "Firestorm",
-        "Stampede"
-      ],
-      "question": {
-        "text": "What word is used when a candidate receives an overwhelming majority of votes in an election?"
-      },
-      "tags": [
-        "politics",
-        "words",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "648888d35dba6c873ef65088",
-      "correctAnswer": "Filly",
-      "incorrectAnswers": [
-        "Pony",
-        "Stallion",
-        "Mare"
-      ],
-      "question": {
-        "text": "What term is used for a female horse that is aged four years or under?"
-      },
-      "tags": [
-        "horses",
-        "animals",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f9518d6",
-      "correctAnswer": "The Prohibition",
+      "id": "65056e517a97013de78b52b8",
+      "correctAnswer": "Titanic",
       "incorrectAnswers": [
-        "The Dry Spell",
-        "The Dark Days",
-        "The Moonshine"
+        "Britannic",
+        "Lusitania",
+        "Queen Mary"
       ],
       "question": {
-        "text": "What Name Was Given To The Period From 1919 To 1933 When Alcohol Was Banned In The USA?"
+        "text": "Which ship was famously described as 'unsinkable' before it sank after hitting an iceberg?"
       },
       "tags": [
-        "words",
-        "1920's",
-        "usa",
-        "drink",
-        "history"
+        "history",
+        "maritime",
+        "ships"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -533,124 +628,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ddd",
-      "correctAnswer": "Anne Frank",
+      "category": "general_knowledge",
+      "id": "622a1c367cc59eab6f950079",
+      "correctAnswer": "Washington DC",
       "incorrectAnswers": [
-        "Friedrich Engels",
-        "Michael Ende",
-        "Karl May"
+        "New York City",
+        "Brussels",
+        "Geneva"
       ],
       "question": {
-        "text": "Which author wrote 'Diary of Anne Frank'?"
+        "text": "Where is Capitol Hill?"
       },
       "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b583bfd6c701a921183a7",
-      "correctAnswer": "France",
-      "incorrectAnswers": [
-        "Mexico",
-        "England",
-        "Greece"
-      ],
-      "question": {
-        "text": "In which country would you find the Palace of Versailles?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602e0a4b176d54800e3cbd",
-      "correctAnswer": "Italy",
-      "incorrectAnswers": [
-        "Portugal",
-        "Switzerland",
-        "Hungary"
-      ],
-      "question": {
-        "text": "In which country is the city of Florence?"
-      },
-      "tags": [
-        "cities",
-        "europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f95191a",
-      "correctAnswer": "A Pear tree",
-      "incorrectAnswers": [
-        "An Oak Tree",
-        "A Cherry Tree",
-        "A Christmas Tree"
-      ],
-      "question": {
-        "text": "What tree is mentioned in the Christmas song 'Twelve Days of Christmas' ?"
-      },
-      "tags": [
-        "lyrics",
-        "songs",
-        "christmas",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950083",
-      "correctAnswer": "Basketball",
-      "incorrectAnswers": [
-        "Volleyball",
-        "Football",
-        "Baseball"
-      ],
-      "question": {
-        "text": "What Sport Do The Harlem Globetrotters Play?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fced",
-      "correctAnswer": "Koreanic",
-      "incorrectAnswers": [
-        "Afroasiatic",
-        "Sino-Tibetan",
-        "Turkic"
-      ],
-      "question": {
-        "text": "The language 'Korean' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
+        "places",
+        "politics",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "easy",
