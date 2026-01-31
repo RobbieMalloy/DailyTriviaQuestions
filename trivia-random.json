@@ -1,23 +1,25 @@
 {
-  "gameDate": "2026-01-30",
+  "gameDate": "2026-01-31",
   "difficulty": "random",
   "results": [
     {
-      "category": "sport_and_leisure",
-      "id": "63dd25cf742e43ed64f1f023",
-      "correctAnswer": "Real Madrid",
+      "category": "food_and_drink",
+      "id": "647f9d6d3a4302a71927159b",
+      "correctAnswer": "Uni",
       "incorrectAnswers": [
-        "Manchester United",
-        "AC Milan",
-        "Liverpool"
+        "Ika",
+        "Ebi",
+        "Ahi"
       ],
       "question": {
-        "text": "Which club was the first to win two consecutive Champions League titles?"
+        "text": "What is the name of the Japanese food made from the gonads of sea urchins?"
       },
       "tags": [
-        "sport",
-        "soccer",
-        "football"
+        "seafood",
+        "cuisine",
+        "food",
+        "food_and_drink",
+        "japan"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -25,20 +27,65 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "624ab07ac64ce21c11f06e9f",
-      "correctAnswer": "Central America",
+      "category": "science",
+      "id": "648891c14cd3f064f443dc54",
+      "correctAnswer": "Spark plugs",
       "incorrectAnswers": [
-        "China",
-        "Central Asia",
-        "Europe"
+        "Valves",
+        "Pistons",
+        "Gaskets"
       ],
       "question": {
-        "text": "Where in the world are bell peppers originally from?"
+        "text": "In a gas engine, what device ignites the fuel-air mixture?"
+      },
+      "tags": [
+        "engineering",
+        "cars",
+        "motoring",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "625006ce0d86c8f685d80efe",
+      "correctAnswer": "Little ears",
+      "incorrectAnswers": [
+        "Little ribbons",
+        "Small thimbles",
+        "Butterflies"
+      ],
+      "question": {
+        "text": "The pasta orecchiette has what meaning in Italian?"
       },
       "tags": [
         "food",
+        "words",
+        "language",
         "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c60",
+      "correctAnswer": "Led Zeppelin",
+      "incorrectAnswers": [
+        "Cocteau Twins",
+        "Lostprophets",
+        "The Kinks"
+      ],
+      "question": {
+        "text": "Which English rock band released the song 'Good Times Bad Times'?"
+      },
+      "tags": [
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -47,44 +94,41 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6471e4297206d7c314606f75",
-      "correctAnswer": "Moses",
+      "id": "6262882b4b176d54800e3d8d",
+      "correctAnswer": "Disneyland",
       "incorrectAnswers": [
-        "Goliath",
-        "King Herod",
-        "Jesus"
+        "Hallmark",
+        "Holiday Inn",
+        "Airbnb"
       ],
       "question": {
-        "text": "In the bible, who says, \"I will now turn aside, and see this great sight, why the bush is not burnt\"?"
+        "text": "Which brand is associated with the marketing slogan 'The happiest place on earth'?"
       },
       "tags": [
-        "bible",
-        "christianity",
+        "business",
+        "marketing",
         "society_and_culture"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "64a9cc039bf4085beaa1b041",
-      "correctAnswer": "The Mormon Tabernacle",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c1c",
+      "correctAnswer": "Nirvana",
       "incorrectAnswers": [
-        "The Amish Colonade",
-        "The Witness Hall",
-        "The Jesuit Amphitheatre"
+        "Counting Crows",
+        "Three 6 Mafia",
+        "The Velvet Underground"
       ],
       "question": {
-        "text": "Which of these is an iconic Salt Lake City building?"
+        "text": "Which American rock band released the song 'Come as You Are'?"
       },
       "tags": [
-        "buildings",
-        "usa",
-        "utah",
-        "geography",
-        "society_and_culture"
+        "rock_music",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -93,319 +137,41 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e84",
-      "correctAnswer": "Robert Louis Stevenson",
+      "id": "622a1c397cc59eab6f950eb9",
+      "correctAnswer": "Oscar Wilde",
       "incorrectAnswers": [
-        "Oscar Wilde",
-        "Agatha Christie",
-        "Joseph Conrad"
+        "Charles Dickens",
+        "G. K. Chesterton",
+        "Alphonse Daudet"
       ],
       "question": {
-        "text": "Which author wrote 'Treasure Island'?"
+        "text": "Which author wrote 'Salome'?"
       },
       "tags": [
+        "literature",
         "arts_and_literature"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950086",
-      "correctAnswer": "The Oche",
-      "incorrectAnswers": [
-        "The Div",
-        "The Par",
-        "The Sod"
-      ],
-      "question": {
-        "text": "What Is the Mark Behind Which Dart Player Must Stand Called?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "646089e9de964ebc39016cb4",
-      "correctAnswer": "Alexander Graham Bell",
+      "category": "sport_and_leisure",
+      "id": "622a1c357cc59eab6f950021",
+      "correctAnswer": "Soccer",
       "incorrectAnswers": [
-        "Thomas Edison",
-        "Nikola Tesla",
-        "Benjamin Franklin"
+        "Basketball",
+        "Volleyball",
+        "Rugby"
       ],
       "question": {
-        "text": "Who created an audiometer to detect vestigial hearing in the deaf, among other inventions?"
+        "text": "With which sport is Pelé associated?"
       },
       "tags": [
-        "inventions",
+        "sport",
         "people",
-        "history",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd3f",
-      "correctAnswer": "Coptic",
-      "incorrectAnswers": [
-        "Pernial",
-        "Maurovingian",
-        "Arabic"
-      ],
-      "question": {
-        "text": "Which of these words relates to a family of dialects descended from the Ancient Egyptian language?"
-      },
-      "tags": [
-        "words",
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8b9",
-      "correctAnswer": "Vivien Leigh",
-      "incorrectAnswers": [
-        "Holly Hunter",
-        "Whoopi Goldberg",
-        "Bette Davis"
-      ],
-      "question": {
-        "text": "Which actress played the role of Scarlett O'Hara in Gone with the Wind?"
-      },
-      "tags": [
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374122cb85f7ce9e949d46",
-      "correctAnswer": "Monrovia",
-      "incorrectAnswers": [
-        "Brazzaville",
-        "Ulaanbaatar",
-        "Nur-Sultan"
-      ],
-      "question": {
-        "text": "What is the capital city of Liberia?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "647129af64c916f9c84814b7",
-      "correctAnswer": "Figure skating",
-      "incorrectAnswers": [
-        "Ice hockey",
-        "Gymnastics",
-        "Tennis"
-      ],
-      "question": {
-        "text": "Which sport saw athletes like John Curry and Peggy Fleming rise to prominence as proteges of coach Carlo Fassi?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ff94",
-      "correctAnswer": "Prague",
-      "incorrectAnswers": [
-        "Vienna",
-        "Oxford",
-        "Budapest"
-      ],
-      "question": {
-        "text": "Which European city is nicknamed the city of a hundred spires?"
-      },
-      "tags": [
-        "europe",
-        "cities",
-        "nicknames",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "64959827e831b1ab5aa11104",
-      "correctAnswer": "Vincent Price",
-      "incorrectAnswers": [
-        "Bela Lugosi",
-        "Christopher Lee",
-        "Boris Karloff"
-      ],
-      "question": {
-        "text": "Which actor did the voice-over on the Michael Jackson song 'Thriller'?"
-      },
-      "tags": [
-        "songs",
-        "horror",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056e727a97013de78b52e5",
-      "correctAnswer": "Carbine",
-      "incorrectAnswers": [
-        "Falchion",
-        "Pike",
-        "Maul"
-      ],
-      "question": {
-        "text": "Which of these was NOT a weapon typically used during the medieval period?"
-      },
-      "tags": [
-        "history",
-        "medieval",
-        "weapons"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951031",
-      "correctAnswer": "Hexagon",
-      "incorrectAnswers": [
-        "Pentagon",
-        "Octagon",
-        "Dodecahedron"
-      ],
-      "question": {
-        "text": "What is the mathematical term used to describe the shape of a cell in a honeycomb? "
-      },
-      "tags": [
-        "mathematics",
-        "general_knowledge",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95010f",
-      "correctAnswer": "Valhalla",
-      "incorrectAnswers": [
-        "Trondheim",
-        "Odinsbahn",
-        "Asgard"
-      ],
-      "question": {
-        "text": "What's heaven to fallen Norse warriors?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950032",
-      "correctAnswer": "Pete Sampras",
-      "incorrectAnswers": [
-        "Roger Federer",
-        "Lleyton Hewitt",
-        "Andy Roddick"
-      ],
-      "question": {
-        "text": "Who Won The US Open Men's Tennis Title in 1990 At The Age Of Just 19?"
-      },
-      "tags": [
-        "tennis",
-        "people",
-        "1990's",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbd6",
-      "correctAnswer": "\"I’m the guy who does his job. You must be the other guy.\"",
-      "incorrectAnswers": [
-        "\"You motorboatin’ son of a b****!\"",
-        "\"I am big! It's the pictures that got small.\"",
-        "\"I'm gonna make him an offer he can't refuse.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'The Departed'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c1f",
-      "correctAnswer": "Red Hot Chili Peppers",
-      "incorrectAnswers": [
-        "The Monkees",
-        "Black Flag",
-        "Journey"
-      ],
-      "question": {
-        "text": "Which American rock band released the album 'Californication'?"
-      },
-      "tags": [
-        "music"
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -413,57 +179,36 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "62443781746187c5e7be9359",
-      "correctAnswer": "It is used to relieve pain.",
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950ae8",
+      "correctAnswer": "Germany",
       "incorrectAnswers": [
-        "It is used in disinfectants and antiseptics.",
-        "It is used in laundry detergent.",
-        "It is used as an ingredient in baking."
+        "Liechtenstein",
+        "United Kingdom",
+        "San Marino"
       ],
       "question": {
-        "text": "What is the chemical nitrous oxide often used for?"
+        "text": "Which of these countries borders France?"
       },
       "tags": [
-        "science"
+        "geography"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63dd25e0742e43ed64f1f03c",
-      "correctAnswer": "Profit Margin",
-      "incorrectAnswers": [
-        "Gross Margin",
-        "Inflation Rate",
-        "Exchange Rate"
-      ],
-      "question": {
-        "text": "What is the term for the ratio of a company's total revenue to its total expenses?"
-      },
-      "tags": [
-        "society_and_culture",
-        "economics"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "geography",
-      "id": "623742f6cb85f7ce9e949e03",
-      "correctAnswer": "Yemen",
+      "id": "62374092cb85f7ce9e949d0c",
+      "correctAnswer": "Saint George's",
       "incorrectAnswers": [
-        "Zambia",
-        "Singapore",
-        "Timor-Leste"
+        "London",
+        "Asunción",
+        "Sarajevo"
       ],
       "question": {
-        "text": "Sana'a is the capital city of which country?"
+        "text": "What is the capital city of Grenada?"
       },
       "tags": [
         "capital_cities",
@@ -475,151 +220,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "6266bc34ff2394bd44dedffe",
-      "correctAnswer": "Tabourine",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f887",
+      "correctAnswer": "Baseball",
       "incorrectAnswers": [
-        "Cornett",
-        "Fife",
-        "Clarinet"
+        "Volleyball",
+        "Boxing",
+        "Table tennis"
       ],
       "question": {
-        "text": "Which of these is a percussion instrument?"
+        "text": "With which sport is Joe DiMaggio associated?"
       },
       "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "63a03958c7d86251f9b65c47",
-      "correctAnswer": "Mascarpone",
-      "incorrectAnswers": [
-        "Feta",
-        "Gouda",
-        "Mozzarella"
-      ],
-      "question": {
-        "text": "What type of cheese is used to make a Tiramisu?"
-      },
-      "tags": [
-        "cheese",
-        "food_and_drink",
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe35",
-      "correctAnswer": "The Bronx",
-      "incorrectAnswers": [
-        "Manhattan",
-        "Harlem",
-        "Brooklyn"
-      ],
-      "question": {
-        "text": "What is the only borough of New York City that is not on an island? "
-      },
-      "tags": [
-        "cities",
-        "new_york",
-        "usa",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950edb",
-      "correctAnswer": "George R. R. Martin",
-      "incorrectAnswers": [
-        "Stephen King",
-        "Jack Vance",
-        "Edgar Rice Burroughs"
-      ],
-      "question": {
-        "text": "Which author wrote 'A Dance with Dragons'?"
-      },
-      "tags": [
-        "fantasy",
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6239f8219129041bf3925cc9",
-      "correctAnswer": "Mike",
-      "incorrectAnswers": [
-        "Mambo",
-        "Mauritius",
-        "Mendip"
-      ],
-      "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter M?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64e6fda00b79e5bedd55c8c7",
-      "correctAnswer": "Champagne",
-      "incorrectAnswers": [
-        "Prosecco",
-        "Cava",
-        "Asti"
-      ],
-      "question": {
-        "text": "In 2008, French authorities allowed 40 villages to classify themselves as part of which sparkling wine region?"
-      },
-      "tags": [
-        "wine",
-        "France",
-        "beverages",
-        "sparkling wine"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "64a0966bcf8fd58080ceffe7",
-      "correctAnswer": "Harry Potter and the Goblet of Fire",
-      "incorrectAnswers": [
-        "Harry Potter and the Three Champions",
-        "Harry Potter and the Triwizard Tournament",
-        "Harry Potter and the Tournament of Champions"
-      ],
-      "question": {
-        "text": "What is the title of the fourth book in the Harry Potter series?"
-      },
-      "tags": [
-        "literature",
-        "harry_potter",
-        "arts_and_literature"
+        "people",
+        "general_knowledge",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -627,23 +242,404 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b01",
-      "correctAnswer": "Talking Heads",
+      "category": "food_and_drink",
+      "id": "624ab0c9348a461bfc670699",
+      "correctAnswer": "India",
       "incorrectAnswers": [
-        "The Rolling Stones",
-        "U2",
-        "The Velvet Underground"
+        "Southeast Asia",
+        "China",
+        "Central Asia"
       ],
       "question": {
-        "text": "Which band was David Byrne the lead singer of?"
+        "text": "From which part of the world do limes originally come from?"
       },
       "tags": [
-        "music",
-        "bands"
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950363",
+      "correctAnswer": "Lyndon B Johnson",
+      "incorrectAnswers": [
+        "Gerald Ford",
+        "Richard Nixon",
+        "Thomas Jefferson"
+      ],
+      "question": {
+        "text": "Who took over from John F Kennedy after he was assassinated?"
+      },
+      "tags": [
+        "presidents",
+        "usa",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f950108",
+      "correctAnswer": "Joseph Smith",
+      "incorrectAnswers": [
+        "Mark Adams",
+        "Brian Jones",
+        "George Michael"
+      ],
+      "question": {
+        "text": "Who founded Mormonism?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f951619",
+      "correctAnswer": "Pina Colada",
+      "incorrectAnswers": [
+        "Martini",
+        "Negroni",
+        "Daiquiri"
+      ],
+      "question": {
+        "text": "Which Cocktail contains rum, pineapple and coconut?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f95105b",
+      "correctAnswer": "Grapefruit",
+      "incorrectAnswers": [
+        "Lemon",
+        "Orange",
+        "Lime"
+      ],
+      "question": {
+        "text": "What fruit is \"Citrus grandis\"?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "645cb162602ff42ca52fb436",
+      "correctAnswer": "Set them free",
+      "incorrectAnswers": [
+        "Put a ring on them",
+        "Hold them tight",
+        "Never let them go"
+      ],
+      "question": {
+        "text": "What does the singer Sting suggest you should do if you love somebody?"
+      },
+      "tags": [
+        "music",
+        "lyrics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9505aa",
+      "correctAnswer": "Algae",
+      "incorrectAnswers": [
+        "Algeria",
+        "Alcohol",
+        "Algorithms"
+      ],
+      "question": {
+        "text": "What is Algology the study of?"
+      },
+      "tags": [
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c79",
+      "correctAnswer": "U2",
+      "incorrectAnswers": [
+        "Public Image Ltd.",
+        "The Script",
+        "The Cure"
+      ],
+      "question": {
+        "text": "Which Irish rock band released the studio album 'Achtung Baby'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "62506414e12f6dec240bdf98",
+      "correctAnswer": "The Vapors",
+      "incorrectAnswers": [
+        "The Proclaimers",
+        "M",
+        "Kajagoogoo"
+      ],
+      "question": {
+        "text": "Who had a hit in 1980 with Turning Japanese?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "64824eb57778562fd76a9689",
+      "correctAnswer": "Shutter speed",
+      "incorrectAnswers": [
+        "Focal length",
+        "Aperture",
+        "ISO settings"
+      ],
+      "question": {
+        "text": "Which setting would photographers adjust to prevent fast moving targets becoming blurred?"
+      },
+      "tags": [
+        "photography",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6384b43a83dddfb71ee5e367",
+      "correctAnswer": "Horse Racing",
+      "incorrectAnswers": [
+        "Swimming",
+        "Rugby",
+        "Golf"
+      ],
+      "question": {
+        "text": "What sport would you associate with The Kentucky Derby?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950290",
+      "correctAnswer": "Apple ",
+      "incorrectAnswers": [
+        "Orange",
+        "Plum",
+        "Banana"
+      ],
+      "question": {
+        "text": "What Type Of Fruit Is A Russet?"
+      },
+      "tags": [
+        "food",
+        "names",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e64",
+      "correctAnswer": "Ivan Turgenev",
+      "incorrectAnswers": [
+        "Leo Tolstoy",
+        "Henryk Sienkiewicz",
+        "Alphonse Daudet"
+      ],
+      "question": {
+        "text": "Which author wrote 'Fathers and Sons'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63bc3f950e893d6e5a6a0fbc",
+      "correctAnswer": "Mod",
+      "incorrectAnswers": [
+        "Rocker",
+        "Hippie",
+        "Goth"
+      ],
+      "question": {
+        "text": "What is the name of the fashion subculture that originated in London in the late 1950s?"
+      },
+      "tags": [
+        "society_and_culture",
+        "fashion"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd63",
+      "correctAnswer": "Artful Dodger",
+      "incorrectAnswers": [
+        "Eminem",
+        "Justin Timberlake",
+        "Usher"
+      ],
+      "question": {
+        "text": "Whose first hit was \"Re-Rewind (The Crowd Say Bo Selecta)\" in 1999?"
+      },
+      "tags": [
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "645cb0e67d263fd509704386",
+      "correctAnswer": "Doric",
+      "incorrectAnswers": [
+        "Spartan",
+        "Athenian",
+        "Roman"
+      ],
+      "question": {
+        "text": "Which of these is a major order of ancient architecture?"
+      },
+      "tags": [
+        "history",
+        "classics",
+        "architecture",
+        "the_ancient_world",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6477bb12550bc819ad646b6a",
+      "correctAnswer": "The macadamia nut",
+      "incorrectAnswers": [
+        "The cashew nut",
+        "The pecan nut",
+        "The hazelnut"
+      ],
+      "question": {
+        "text": "Which nut is named after a Scottish-born chemist?"
+      },
+      "tags": [
+        "names",
+        "food",
+        "food_and_drink",
+        "etymology"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625064ebe12f6dec240bdfd7",
+      "correctAnswer": "Blind Melon",
+      "incorrectAnswers": [
+        "Debby Boone",
+        "Meredith Brooks",
+        "Nick Gilder"
+      ],
+      "question": {
+        "text": "Who had a hit in 1993 with No Rain?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b57abfd6c701a92118371",
+      "correctAnswer": "China",
+      "incorrectAnswers": [
+        "Indonesia",
+        "The USA",
+        "India"
+      ],
+      "question": {
+        "text": "In which country would you find the Leshan Giant Buddha, the largest and tallest stone Buddha statue in the world?"
+      },
+      "tags": [
+        "places",
+        "records",
+        "buddhism",
+        "statues",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     }
