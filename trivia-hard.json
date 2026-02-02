@@ -1,18 +1,63 @@
 {
-  "gameDate": "2026-02-01",
+  "gameDate": "2026-02-02",
   "difficulty": "hard",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "624ab07ac64ce21c11f06e9f",
-      "correctAnswer": "Central America",
+      "category": "history",
+      "id": "647638d1f05ea6d6f587a157",
+      "correctAnswer": "The Cuban Missile Crisis",
       "incorrectAnswers": [
-        "China",
-        "Central Asia",
-        "Europe"
+        "The Suez Crisis",
+        "The Bay of Pigs Invasion",
+        "The Gulf War"
       ],
       "question": {
-        "text": "Where in the world are bell peppers originally from?"
+        "text": "Which event led John F Kennedy to announce a naval blockade on October 22, 1962?"
+      },
+      "tags": [
+        "history",
+        "1960's",
+        "politics",
+        "cold_war"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6357fd3968bd5000211e718a",
+      "correctAnswer": "Morocco",
+      "incorrectAnswers": [
+        "Kenya",
+        "Tanzania",
+        "Sri Lanka"
+      ],
+      "question": {
+        "text": "Berber is a language spoken in which of these countries?"
+      },
+      "tags": [
+        "language",
+        "linguistics",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624ab075c64ce21c11f06e9d",
+      "correctAnswer": "South America",
+      "incorrectAnswers": [
+        "Africa",
+        "India",
+        "The Middle East"
+      ],
+      "question": {
+        "text": "From which part of the world do pineapples originate?"
       },
       "tags": [
         "food",
@@ -24,169 +69,20 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd16",
-      "correctAnswer": "Bertrand Russell",
-      "incorrectAnswers": [
-        "Denis Diderot",
-        "Jean-Paul Sartre",
-        "Jean-Jacques Rousseau"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'I would never die for my beliefs because I might be wrong'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "people",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f973",
-      "correctAnswer": "Their Eyes Were Watching God",
-      "incorrectAnswers": [
-        "The Wind in the Willows",
-        "The Maltese Falcon",
-        "The Member of the Wedding"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Janie Crawford'?"
-      },
-      "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515e5",
-      "correctAnswer": "Coffee ",
-      "incorrectAnswers": [
-        "Wine",
-        "Beer",
-        "Cola"
-      ],
-      "question": {
-        "text": "Chicory root is used in a substitute for which drink?"
-      },
-      "tags": [
-        "drink",
-        "plants",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "63dd25d4742e43ed64f1f02b",
-      "correctAnswer": "Alan Shearer",
-      "incorrectAnswers": [
-        "Thierry Henry",
-        "Wayne Rooney",
-        "Robbie Fowler"
-      ],
-      "question": {
-        "text": "Who is the top goalscorer in the history of the English Premier League?"
-      },
-      "tags": [
-        "sport",
-        "soccer",
-        "football"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62399eeb43254f1dbcdd082d",
-      "correctAnswer": "Brazil",
-      "incorrectAnswers": [
-        "France",
-        "Germany",
-        "Uruguay"
-      ],
-      "question": {
-        "text": "Which country won the 1994 FIFA World Cup, hosted in United States?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e3f",
-      "correctAnswer": "Mikhail Bulgakov",
-      "incorrectAnswers": [
-        "Vladimir Nabokov",
-        "Ayn Rand",
-        "Stanisław Lem"
-      ],
-      "question": {
-        "text": "Which author wrote 'The White Guard'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3d7cc59eab6f951c1a",
-      "correctAnswer": "Denmark",
-      "incorrectAnswers": [
-        "Norway",
-        "Sweden",
-        "Finland"
-      ],
-      "question": {
-        "text": "From what country did the U.S. buy the Virgin Islands?"
-      },
-      "tags": [
-        "usa",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "625fd6f6dc0dd3b72da64d18",
-      "correctAnswer": "1965",
+      "id": "622a1c347cc59eab6f94f93b",
+      "correctAnswer": "Misery",
       "incorrectAnswers": [
-        "1959",
-        "1971",
-        "1977"
+        "Wall Street",
+        "Alien",
+        "Network"
       ],
       "question": {
-        "text": "In which year was For a Few Dollars More released?"
+        "text": "Which film contains the character 'Annie Wilkes'?"
       },
       "tags": [
         "film",
+        "fictitious_characters",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -195,21 +91,64 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe00",
-      "correctAnswer": "Syracuse ",
+      "category": "food_and_drink",
+      "id": "625006870d86c8f685d80eec",
+      "correctAnswer": "Cavatelli",
       "incorrectAnswers": [
-        "Albany",
-        "Uticer",
-        "Ithaca"
+        "Rotelle",
+        "Vermicelli",
+        "Pappardelle"
       ],
       "question": {
-        "text": "Which port of Sicily shares its name with a city in New York State?"
+        "text": "Which pasta's name means 'to hollow'?"
       },
       "tags": [
-        "new_york",
-        "cities",
-        "geography"
+        "food",
+        "words",
+        "language",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950496",
+      "correctAnswer": "The moon",
+      "incorrectAnswers": [
+        "Tax",
+        "Heat",
+        "Interactions between siblings"
+      ],
+      "question": {
+        "text": "What is Selenology the study of?"
+      },
+      "tags": [
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "646089a2de964ebc39016c57",
+      "correctAnswer": "The Mughal Empire",
+      "incorrectAnswers": [
+        "The French Empire",
+        "The Aztec Empire",
+        "The Hittite Empire"
+      ],
+      "question": {
+        "text": "Which empire of the past had the \"Peacock Throne\"?"
+      },
+      "tags": [
+        "empires",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -218,19 +157,18 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd37",
-      "correctAnswer": "Thomas Hobbes",
+      "id": "622a1c357cc59eab6f94fcf4",
+      "correctAnswer": "Indo-European",
       "incorrectAnswers": [
-        "Ludwig Wittgenstein",
-        "Friedrich Nietzsche",
-        "Bertrand Russell"
+        "Uralic",
+        "Kra–Dai",
+        "Koreanic"
       ],
       "question": {
-        "text": "Which philosopher famously said 'The life of man (in a state of nature) is solitary, poor, nasty, brutish, and short'?"
+        "text": "The language 'Western Punjabi' belongs to which language family?"
       },
       "tags": [
-        "quotes",
-        "philosophy",
+        "language",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -240,19 +178,17 @@
     },
     {
       "category": "music",
-      "id": "62506407e12f6dec240bdf94",
-      "correctAnswer": "Buster Poindexter",
+      "id": "622a1c387cc59eab6f950bdb",
+      "correctAnswer": "Guns N' Roses",
       "incorrectAnswers": [
-        "Bow Wow Wow",
-        "Crash Test Dummies",
-        "Andrea True Connection"
+        "MercyMe",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
       ],
       "question": {
-        "text": "'Hot, Hot, Hot' was a one hit wonder in 1987 by which artist?"
+        "text": "Which American hard rock band released the studio album 'Chinese Democracy'?"
       },
       "tags": [
-        "songs",
-        "one_hit_wonders",
         "music"
       ],
       "type": "text_choice",
@@ -261,16 +197,37 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3f7cc59eab6f952381",
-      "correctAnswer": "Aspirin",
+      "category": "geography",
+      "id": "62374018cb85f7ce9e949cdb",
+      "correctAnswer": "Cote d'Ivoire",
       "incorrectAnswers": [
-        "Lemon Juice",
-        "Stomach Bile",
-        "Wine"
+        "Australia",
+        "Sudan",
+        "Hungary"
       ],
       "question": {
-        "text": "Acetylsalicylic acid is more commonly known as what?"
+        "text": "Yamoussoukro is the capital city of which country?"
+      },
+      "tags": [
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624335b1cfaae40c129614c2",
+      "correctAnswer": "A Joey",
+      "incorrectAnswers": [
+        "A Cygnet",
+        "A Farrow",
+        "A Caterpillar"
+      ],
+      "question": {
+        "text": "What would you call a baby wombat?"
       },
       "tags": [
         "science"
@@ -281,103 +238,18 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd6d",
-      "correctAnswer": "Eva Cassidy",
-      "incorrectAnswers": [
-        "Norah Jones",
-        "Dido",
-        "Karen Carpenter"
-      ],
-      "question": {
-        "text": "Whose Album 'Songbird' Became A Posthumous Hit In 2001?"
-      },
-      "tags": [
-        "music_albums",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233877f0161109f922aac2a",
-      "correctAnswer": "China",
-      "incorrectAnswers": [
-        "Russia",
-        "Brazil",
-        "Canada"
-      ],
-      "question": {
-        "text": "Which country has the longest land border?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623385e062eaad73716a8c9b",
-      "correctAnswer": "Mexico City ",
-      "incorrectAnswers": [
-        "Washington D.C.",
-        "Ottawa",
-        "San José"
-      ],
-      "question": {
-        "text": "What's the oldest capital city in the Americas?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "647f9dc33a4302a719271639",
-      "correctAnswer": "Hawaii",
-      "incorrectAnswers": [
-        "Puerto Rico",
-        "Bermuda",
-        "Indonesia"
-      ],
-      "question": {
-        "text": "Which set of islands was formerly known as the Sandwich Islands?"
-      },
-      "tags": [
-        "islands",
-        "geography",
-        "previous_names"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501d1",
-      "correctAnswer": "Slaughterhouse-Five",
+      "id": "622a1c397cc59eab6f950f41",
+      "correctAnswer": "Edgar Allan Poe",
       "incorrectAnswers": [
-        "A Clockwork Orange",
-        "Catch-22",
-        "Flatland"
+        "Stephen King",
+        "Nathaniel Hawthorne",
+        "Mario Puzo"
       ],
       "question": {
-        "text": "Which piece of written work starts with the line 'All this happened, more or less.'?"
+        "text": "Which author wrote 'The Masque of the Red Death'?"
       },
       "tags": [
-        "literature",
-        "quotes",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -386,19 +258,61 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623b57ccfd6c701a9211837e",
-      "correctAnswer": "Turkey",
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950715",
+      "correctAnswer": "Maggie Smith",
       "incorrectAnswers": [
-        "England",
-        "Germany",
-        "Hungary"
+        "Kathy Bates",
+        "Sandra Bæ Hovedr",
+        "Kirsten Dunst"
       ],
       "question": {
-        "text": "In which country would you find the UNESCO World Heritage site of Pergamon?"
+        "text": "Which actress has starred in both Downton Abbey and the Harry Potter series of films?"
       },
       "tags": [
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9fa1796f721e95543fab",
+      "correctAnswer": "Maroon with a white serrated band on the left side.",
+      "incorrectAnswers": [
+        "Three equal horizontal bands of green white and red.",
+        "Three equal vertical bands of black yellow and red.",
+        "Three vertical bands of blue, yellow, and red."
+      ],
+      "question": {
+        "text": "What does the flag of Qatar look like?"
+      },
+      "tags": [
+        "flags",
         "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62373f81cb85f7ce9e949c9f",
+      "correctAnswer": "Azerbaijan",
+      "incorrectAnswers": [
+        "Lithuania",
+        "San Marino",
+        "Luxembourg"
+      ],
+      "question": {
+        "text": "Baku is the capital city of which country?"
+      },
+      "tags": [
+        "capital_cities"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -407,19 +321,17 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f95007a",
-      "correctAnswer": "Golden Bear",
+      "id": "62417d2a0f96c4efe8d773ab",
+      "correctAnswer": "Indianapolis Colts",
       "incorrectAnswers": [
-        "Black Tiger",
-        "Silver Swan",
-        "Red Eagle"
+        "Indianapolis Kings",
+        "Indianapolis Ravens",
+        "Indianapolis Bucks"
       ],
       "question": {
-        "text": "What was Jack Nicklaus' nickname?"
+        "text": "Which of these is an American Football team based in Indianapolis?"
       },
       "tags": [
-        "golf",
-        "nicknames",
         "sport"
       ],
       "type": "text_choice",
@@ -428,42 +340,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "646140f34d46e537ca8cda27",
-      "correctAnswer": "Tenzing Norgay",
-      "incorrectAnswers": [
-        "Sir Edmund Hillary",
-        "George Mallory",
-        "Reinhold Messner"
-      ],
-      "question": {
-        "text": "Who, with a Swiss team, came within 1,000 feet of the summit of Mount Everest in 1952 before reaching the summit in 1953?"
-      },
-      "tags": [
-        "climbing",
-        "mountains",
-        "people",
-        "history",
-        "1950's"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c8f",
-      "correctAnswer": "Metallica",
+      "id": "64adcb300d501be39aa6c78a",
+      "correctAnswer": "A loser",
       "incorrectAnswers": [
-        "Alice Cooper",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
+        "An idiot",
+        "A dweeb",
+        "A sucker"
       ],
       "question": {
-        "text": "Which American heavy metal band released the studio album 'Kill 'Em All'?"
+        "text": "What does Beck refer to himself as in one of his songs?"
       },
       "tags": [
+        "songs",
         "music"
       ],
       "type": "text_choice",
@@ -472,21 +361,20 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd1b",
-      "correctAnswer": "Bertrand Russell",
+      "category": "music",
+      "id": "6488889b5dba6c873ef6506b",
+      "correctAnswer": "Justin Timberlake",
       "incorrectAnswers": [
-        "Thomas Hobbes",
-        "Spinoza",
-        "Ludwig Wittgenstein"
+        "Usher",
+        "Bruno Mars",
+        "Ed Sheeran"
       ],
       "question": {
-        "text": "Which philosopher famously said 'Science is what you know. Philosophy is what you don't know'?"
+        "text": "Which pop star won the Grammy Award for Best Male Pop Vocal Performance in 2007, with the song \"What Goes Around... Comes Around\"?"
       },
       "tags": [
-        "philosophy",
-        "quotes",
-        "society_and_culture"
+        "music",
+        "songs"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -494,70 +382,86 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f950012",
-      "correctAnswer": "Bhutan",
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc7f",
+      "correctAnswer": "Funambulist",
       "incorrectAnswers": [
-        "Bangladesh",
-        "Nepal",
-        "Myanmar"
+        "Gubbins",
+        "Kerfuffle",
+        "Hullaballoo"
       ],
       "question": {
-        "text": "____________ is derived from the Indian word Bhotanta, meaning \"the edge of Tibet.\" It is located in Asia near the southern fringes of the eastern Himalayas."
+        "text": "Which word is defined as 'a tightrope walker'?"
       },
       "tags": [
-        "countries",
-        "names",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9e5",
-      "correctAnswer": "Calvin Coolidge",
-      "incorrectAnswers": [
-        "Martin Van Buren ",
-        "Grover Cleveland",
-        "Rutherford B. Hayes"
-      ],
-      "question": {
-        "text": "Who was the 30th president of the USA, in term during the period 1923–1929?"
-      },
-      "tags": [
-        "presidents",
-        "usa",
-        "1920's",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd3c",
-      "correctAnswer": "No worries",
-      "incorrectAnswers": [
-        "Stay strong",
-        "Keep trying",
-        "You win some you loose some"
-      ],
-      "question": {
-        "text": "What is the meaning of the Swahili phrase \"Hakuna Matata\"?"
-      },
-      "tags": [
-        "language",
         "words",
-        "disney",
-        "quotes",
-        "general_knowledge",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242cb32d543524f1b19c916",
+      "correctAnswer": "A herd",
+      "incorrectAnswers": [
+        "A watch",
+        "A murder",
+        "A muster"
+      ],
+      "question": {
+        "text": "What is the word for a group of goats?"
+      },
+      "tags": [
+        "animals",
+        "biology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cf2",
+      "correctAnswer": "Queen",
+      "incorrectAnswers": [
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
+      ],
+      "question": {
+        "text": "Which British rock band released the song 'You're My Best Friend'?"
+      },
+      "tags": [
+        "rock_music",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fad2",
+      "correctAnswer": "Sean Penn",
+      "incorrectAnswers": [
+        "Richard Jenkins",
+        "Frank Langella",
+        "Brad Pitt"
+      ],
+      "question": {
+        "text": "Who won the 2008 Academy Award for Best Leading Actor for playing the role of Harvey Milk in Milk?"
+      },
+      "tags": [
+        "academy_awards",
+        "acting",
         "film",
-        "society_and_culture"
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -587,20 +491,66 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950035",
-      "correctAnswer": "Michael Schumacher",
+      "category": "film_and_tv",
+      "id": "624dba5ccd90beeca353156d",
+      "correctAnswer": "Sean Connery",
       "incorrectAnswers": [
-        "Lewis Hamilton",
-        "Ayrton Senna",
-        "Mika Häkkinen"
+        "George Lazenby",
+        "Roger Moore",
+        "Pierce Brosnan"
       ],
       "question": {
-        "text": "Who Won Nine Formula One Grand Prix Races In 2000?"
+        "text": "Who played the role of James Bond in Goldfinger?"
       },
       "tags": [
-        "racing",
-        "sport"
+        "james_bond",
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c3d7cc59eab6f951c44",
+      "correctAnswer": "Annie Lennox",
+      "incorrectAnswers": [
+        "Madonna",
+        "Kylie Minogue",
+        "Karen Carpenter"
+      ],
+      "question": {
+        "text": "Who was the female half of the 80's band Eurythmics?"
+      },
+      "tags": [
+        "people",
+        "1980's",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "64626250ab138b829b81e9f2",
+      "correctAnswer": "Audrey Hepburn",
+      "incorrectAnswers": [
+        "Grace Kelly",
+        "Marilyn Monroe",
+        "Katharine Hepburn"
+      ],
+      "question": {
+        "text": "Which famous actress played the titular role in the 1954 film 'Sabrina'?"
+      },
+      "tags": [
+        "film",
+        "acting",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -609,18 +559,17 @@
     },
     {
       "category": "geography",
-      "id": "64976c110752843c0d8aadbe",
-      "correctAnswer": "Nova Scotia",
+      "id": "6237401fcb85f7ce9e949cde",
+      "correctAnswer": "Zagreb",
       "incorrectAnswers": [
-        "Prince Edward Island",
-        "New Brunswick",
-        "Quebec"
+        "Rabat",
+        "Ashgabat",
+        "Niamey"
       ],
       "question": {
-        "text": "In which Canadian province is Halifax?"
+        "text": "What is the capital city of Croatia?"
       },
       "tags": [
-        "canada",
         "geography"
       ],
       "type": "text_choice",
@@ -629,20 +578,63 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f97a",
-      "correctAnswer": "Master and Commander",
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503b1",
+      "correctAnswer": "France",
       "incorrectAnswers": [
-        "Gone With the Wind",
-        "Heart of Darkness",
-        "The Thin Man"
+        "Italy",
+        "China",
+        "Russia"
       ],
       "question": {
-        "text": "Which book contains the character 'Stephen Maturin'?"
+        "text": "Which country blew up a Greenpeace ship in New Zealand?"
       },
       "tags": [
+        "events",
+        "new_zealand",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fb1d",
+      "correctAnswer": "Meryl Streep",
+      "incorrectAnswers": [
+        "Julie Andrews",
+        "Jessica Lange",
+        "Sissy Spacek"
+      ],
+      "question": {
+        "text": "Who won the 1982 Academy Award for Best Leading Actress for playing the role of Sophie in Sophie's Choice?"
+      },
+      "tags": [
+        "acting",
+        "academy_awards",
         "film",
-        "fictitious_characters",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950dea",
+      "correctAnswer": "Jude Watson",
+      "incorrectAnswers": [
+        "Stephenie Meyer",
+        "Philip K. Dick",
+        "Brandon Sanderson"
+      ],
+      "question": {
+        "text": "Which author wrote 'Star Wars: Jedi Apprentice'?"
+      },
+      "tags": [
         "arts_and_literature"
       ],
       "type": "text_choice",
