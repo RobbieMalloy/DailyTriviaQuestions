@@ -1,22 +1,44 @@
 {
-  "gameDate": "2026-02-11",
+  "gameDate": "2026-02-12",
   "difficulty": "hard",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "645fcc58541c4d4fc8cf303b",
-      "correctAnswer": "Mischa Barton",
+      "category": "food_and_drink",
+      "id": "646089e1de964ebc39016c95",
+      "correctAnswer": "Sukiyaki",
       "incorrectAnswers": [
-        "Rachel Bilson",
-        "Misha Collins",
-        "Megan Fox"
+        "Tempura",
+        "Yakitori",
+        "Sashimi"
       ],
       "question": {
-        "text": "Which actress played the character Marissa on 'The O.C.' and later became a model on 'The Beautiful Life'?"
+        "text": "Which of these Japanese dishes consists of stir-fried meat and vegetables?"
       },
       "tags": [
-        "acting",
-        "tv",
+        "food_and_drink",
+        "japan",
+        "cuisine",
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9501f5",
+      "correctAnswer": "William Wyler",
+      "incorrectAnswers": [
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
+      ],
+      "question": {
+        "text": "Which director directed Ben-Hur?"
+      },
+      "tags": [
+        "film",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -25,20 +47,223 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950cec",
-      "correctAnswer": "Queen",
+      "category": "geography",
+      "id": "62373fa8cb85f7ce9e949cae",
+      "correctAnswer": "Belmopan",
       "incorrectAnswers": [
-        "Level 42",
-        "Deep Purple",
-        "Feeder"
+        "Roseau",
+        "Dodoma",
+        "Baku"
       ],
       "question": {
-        "text": "Which British rock band released the song 'Fat Bottomed Girls'?"
+        "text": "What is the capital city of Belize?"
       },
       "tags": [
-        "rock_music",
-        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d7f",
+      "correctAnswer": "AC/DC",
+      "incorrectAnswers": [
+        "Pendulum",
+        "INXS",
+        "Savage Garden"
+      ],
+      "question": {
+        "text": "Which band includes 'Angus Young'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b22",
+      "correctAnswer": "HIM",
+      "incorrectAnswers": [
+        "Haloo Helsinki!",
+        "Amorphis",
+        "Hanoi Rocks"
+      ],
+      "question": {
+        "text": "Which Finnish rock band released the studio album 'Screamworks: Love in Theory and Practice'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cb5",
+      "correctAnswer": "Pink Floyd",
+      "incorrectAnswers": [
+        "Wings",
+        "Rudimental",
+        "The Alan Parsons Project"
+      ],
+      "question": {
+        "text": "Which English rock band released the album 'Ummagumma'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6244375d746187c5e7be934b",
+      "correctAnswer": "Magnesium sulphate heptahydrate",
+      "incorrectAnswers": [
+        "Potassium hydrogen tartrate",
+        "Methane",
+        "Calcium magnesium carbonate"
+      ],
+      "question": {
+        "text": "What chemical compound makes epsom salt?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c347cc59eab6f94f9cf",
+      "correctAnswer": "Warren Harding",
+      "incorrectAnswers": [
+        "Theodore Roosevelt",
+        "Andrew Jackson ",
+        "Gerald Ford"
+      ],
+      "question": {
+        "text": "Who was the 29th president of the USA, in term during the period 1921–1923?"
+      },
+      "tags": [
+        "usa",
+        "presidents",
+        "people",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623740ebcb85f7ce9e949d30",
+      "correctAnswer": "Amman",
+      "incorrectAnswers": [
+        "Tallinn",
+        "Accra",
+        "Thimphu"
+      ],
+      "question": {
+        "text": "What is the capital city of Jordan?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6242e84c8c2538f9601d2f9c",
+      "correctAnswer": "The Bluebirds",
+      "incorrectAnswers": [
+        "Cottagers",
+        "The Tykes",
+        "Wolves"
+      ],
+      "question": {
+        "text": "What is the nickname of the English football team Cardiff City?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504f2",
+      "correctAnswer": "fungi",
+      "incorrectAnswers": [
+        "male health and disease",
+        "plankton",
+        "music"
+      ],
+      "question": {
+        "text": "What is Mycology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "62506403e12f6dec240bdf93",
+      "correctAnswer": "EMF",
+      "incorrectAnswers": [
+        "Deee-Lite",
+        "Andrea True Connection",
+        "Musical Youth"
+      ],
+      "question": {
+        "text": "Who had a hit in 1991 with Unbelievable?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c367cc59eab6f95021c",
+      "correctAnswer": "Miles Davis ",
+      "incorrectAnswers": [
+        "Eminem",
+        "The Rolling Stones",
+        "Madonna"
+      ],
+      "question": {
+        "text": "Who released the album 'Bitches brew'? "
+      },
+      "tags": [
         "music"
       ],
       "type": "text_choice",
@@ -48,306 +273,20 @@
     },
     {
       "category": "geography",
-      "id": "647f9ded3a4302a71927167b",
-      "correctAnswer": "Frankfort",
+      "id": "622a1c357cc59eab6f94fe51",
+      "correctAnswer": "The Black Sea ",
       "incorrectAnswers": [
-        "Louisville",
-        "Lexington",
-        "Bowling Green"
+        "The Mediterranean",
+        "The Dead Sea",
+        "The Aegean Sea"
       ],
       "question": {
-        "text": "What is the capital of Kentucky?"
+        "text": "Into Which Sea Does The river Danube Flow?"
       },
       "tags": [
-        "usa",
-        "state_capitals",
-        "cities",
-        "kentucky",
+        "rivers",
+        "bodies_of_water",
         "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624333decfaae40c1296140c",
-      "correctAnswer": "A Tiercel",
-      "incorrectAnswers": [
-        "A Jack",
-        "A Cob",
-        "A Boar"
-      ],
-      "question": {
-        "text": "What is a male falcon known as?"
-      },
-      "tags": [
-        "animals",
-        "birds",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "64976c110752843c0d8aadbe",
-      "correctAnswer": "Nova Scotia",
-      "incorrectAnswers": [
-        "Prince Edward Island",
-        "New Brunswick",
-        "Quebec"
-      ],
-      "question": {
-        "text": "In which Canadian province is Halifax?"
-      },
-      "tags": [
-        "canada",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611f89014f58b5fc1a3fcf",
-      "correctAnswer": "1956",
-      "incorrectAnswers": [
-        "1932",
-        "1940",
-        "1921"
-      ],
-      "question": {
-        "text": "When was the first chemotherapy treatment?"
-      },
-      "tags": [
-        "events",
-        "firsts",
-        "medicine",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f95224d",
-      "correctAnswer": "Epilepsy",
-      "incorrectAnswers": [
-        "Anemia",
-        "Heart Attack",
-        "Paralysis"
-      ],
-      "question": {
-        "text": "In the early 20th century, rattlesnake venom was used to treat which illness?"
-      },
-      "tags": [
-        "science",
-        "medicine",
-        "snakes"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623388d90161109f922aacb0",
-      "correctAnswer": "Minnesota",
-      "incorrectAnswers": [
-        "Florida",
-        "Vermont",
-        "North Carolina"
-      ],
-      "question": {
-        "text": "Which of the 48 contiguous US states extends farthest north?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f95171c",
-      "correctAnswer": "Shang",
-      "incorrectAnswers": [
-        "Liu",
-        "Ming",
-        "Yi"
-      ],
-      "question": {
-        "text": "What was the first Chinese dynasty?"
-      },
-      "tags": [
-        "history",
-        "china",
-        "the_ancient_world"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506de",
-      "correctAnswer": "Penélope Cruz",
-      "incorrectAnswers": [
-        "Amy Adams",
-        "Uma Thurman",
-        "Cameron Diaz"
-      ],
-      "question": {
-        "text": "Which actress has appeared in both Pirates of the Caribbean: On Stranger Tides and All About My Mother?"
-      },
-      "tags": [
-        "film_and_tv",
-        "acting",
-        "film"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950193",
-      "correctAnswer": "Foreshortening",
-      "incorrectAnswers": [
-        "Isometric Projection",
-        "Topomorphism",
-        "Skewed Perspective"
-      ],
-      "question": {
-        "text": "Which art technique can be described as \"Reducing or distorting in order to represent three-dimensional space as perceived by the eye\"?"
-      },
-      "tags": [
-        "art",
-        "words",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "645cb162602ff42ca52fb43e",
-      "correctAnswer": "Dayton, Ohio",
-      "incorrectAnswers": [
-        "Kitty Hawk, North Carolina",
-        "Boston, Massachusetts",
-        "Detroit, Michigan"
-      ],
-      "question": {
-        "text": "Where did the Wright Brothers found a firm to manufacture airplanes in 1909?"
-      },
-      "tags": [
-        "aviation",
-        "inventions",
-        "pioneers",
-        "business",
-        "usa",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b5778fd6c701a9211835d",
-      "correctAnswer": "Cambodia",
-      "incorrectAnswers": [
-        "Guatemala",
-        "Belgium",
-        "Iraq"
-      ],
-      "question": {
-        "text": "In which country would you find the UNESCO World Heritage site of Angkor Wat?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624dba5ccd90beeca353156d",
-      "correctAnswer": "Sean Connery",
-      "incorrectAnswers": [
-        "George Lazenby",
-        "Roger Moore",
-        "Pierce Brosnan"
-      ],
-      "question": {
-        "text": "Who played the role of James Bond in Goldfinger?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510e2",
-      "correctAnswer": "Wind",
-      "incorrectAnswers": [
-        "Boat",
-        "Horse",
-        "Tree"
-      ],
-      "question": {
-        "text": "A \"sirocco\" refers to a type of __________.\""
-      },
-      "tags": [
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "627164551ba117625baac958",
-      "correctAnswer": "Uganda",
-      "incorrectAnswers": [
-        "Niger",
-        "Colombia",
-        "The Czech Republic"
-      ],
-      "question": {
-        "text": "Which country is associated with the drink waragi?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -356,18 +295,105 @@
     },
     {
       "category": "society_and_culture",
-      "id": "646338e001d576cfac3aa2f7",
-      "correctAnswer": "German",
+      "id": "622a1c367cc59eab6f9503fc",
+      "correctAnswer": "Elliot Ness",
       "incorrectAnswers": [
-        "Turkish",
-        "Russian",
-        "Italian"
+        "Chris Robson",
+        "Dave Bradzinski",
+        "Arthur Montgomery"
       ],
       "question": {
-        "text": "Prior to 1941, which language was traditionally written in a Gothic style called 'Fraktur'?"
+        "text": "Which F.B.I agent headed the investigation of Al Capone? "
+      },
+      "tags": [
+        "people",
+        "crime",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "63e4c361106de6ffa7d4a7e4",
+      "correctAnswer": "Francis II",
+      "incorrectAnswers": [
+        "Charles V",
+        "Frederick III",
+        "Maximilian I"
+      ],
+      "question": {
+        "text": "Who was the last ruler of the Holy Roman Empire?"
       },
       "tags": [
         "history",
+        "holy_roman_empire",
+        "leaders"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94feff",
+      "correctAnswer": "Madonna",
+      "incorrectAnswers": [
+        "Eric Clapton",
+        "Nicki Minaj",
+        "Alanis Morissette"
+      ],
+      "question": {
+        "text": "Which American singer and songwriter released the song 'Hung Up'?"
+      },
+      "tags": [
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "62500680ea7a97fd2e356d2e",
+      "correctAnswer": "Cavatappi",
+      "incorrectAnswers": [
+        "Orecchiette",
+        "Penne",
+        "Ravioli"
+      ],
+      "question": {
+        "text": "Which pasta's name means 'Corkscrews'?"
+      },
+      "tags": [
+        "food",
+        "words",
+        "language",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fca7",
+      "correctAnswer": "Turkic",
+      "incorrectAnswers": [
+        "Japonic",
+        "Indo-European",
+        "Austroasiatic"
+      ],
+      "question": {
+        "text": "The language 'Kazakh' belongs to which language family?"
+      },
+      "tags": [
         "language",
         "society_and_culture"
       ],
@@ -377,21 +403,19 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f92e",
-      "correctAnswer": "Network",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e70",
+      "correctAnswer": "C. S. Lewis",
       "incorrectAnswers": [
-        "Say Anything...",
-        "The Lord of the Rings",
-        "Taxi Driver"
+        "Neil Gaiman",
+        "Jack Vance",
+        "Douglas Adams"
       ],
       "question": {
-        "text": "Which film contains the character 'Howard Beale'?"
+        "text": "Which author wrote 'The Voyage of the Dawn Treader'?"
       },
       "tags": [
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -399,21 +423,21 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f95180b",
-      "correctAnswer": "Michael Crichton",
+      "category": "society_and_culture",
+      "id": "63b058774799123c67712f36",
+      "correctAnswer": "University of Oxford",
       "incorrectAnswers": [
-        "Steven Spielberg",
-        "Stephen Chbosky",
-        "David Lynch"
+        "University of Cambridge",
+        "University of Edinburgh",
+        "University of London"
       ],
       "question": {
-        "text": "Which best selling American writer wrote and directed the sci-fi film Westworld?"
+        "text": "Which is the oldest university in the UK?"
       },
       "tags": [
-        "film",
-        "science_fiction",
-        "history"
+        "uk",
+        "universities",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -422,20 +446,18 @@
     },
     {
       "category": "science",
-      "id": "645cb1627d263fd5097043c3",
-      "correctAnswer": "Mars",
+      "id": "62433323cfaae40c129613c2",
+      "correctAnswer": "A Pup",
       "incorrectAnswers": [
-        "Venus",
-        "Mercury",
-        "Jupiter"
+        "A Kit",
+        "A Gosling",
+        "A Poult"
       ],
       "question": {
-        "text": "Phobos is a moon of which planet in our solar system?"
+        "text": "What is the word for a young bat?"
       },
       "tags": [
-        "astronomy",
-        "the_solar_system",
-        "planets"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -444,42 +466,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc36",
-      "correctAnswer": "\"I'm walking here! I'm walking here!\"",
+      "id": "622a1c347cc59eab6f94fb2d",
+      "correctAnswer": "The Artist",
       "incorrectAnswers": [
-        "\"I feel the need - the need for speed!\"",
-        "\"Shane. Shane. Come back!\"",
-        "\"Attica! Attica!\""
+        "The Descendants",
+        "Extremely Loud & Incredibly Close",
+        "The Help"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Midnight Cowboy'?"
+        "text": "Which film won the Academy Award for Best Picture in 2011?"
       },
       "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbce",
-      "correctAnswer": "\"Get off my lawn.\"",
-      "incorrectAnswers": [
-        "\"You know how I know that you’re gay?\"",
-        "\"Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.\"",
-        "\"Sawyer, you're going out a youngster, but you've t to come back a star!\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Gran Torino'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
+        "academy_awards",
+        "film"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -488,39 +487,18 @@
     },
     {
       "category": "geography",
-      "id": "65056f4b7a97013de78b5415",
-      "correctAnswer": "Morocco",
+      "id": "623740f3cb85f7ce9e949d33",
+      "correctAnswer": "Kenya",
       "incorrectAnswers": [
-        "Kenya",
-        "Bangladesh",
-        "Niger"
+        "Colombia",
+        "Georgia",
+        "Uzbekistan"
       ],
       "question": {
-        "text": "Which of these countries is part of the Arab League?"
+        "text": "Nairobi is the capital city of which country?"
       },
       "tags": [
-        "geography",
-        "organizations",
-        "organisations"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623735f9cfe13103f55eb58b",
-      "correctAnswer": "Turkey",
-      "incorrectAnswers": [
-        "Austria",
-        "Turkmenistan",
-        "Trinidad and Tobago"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.tr' at the end of its web addresses?"
-      },
-      "tags": [
+        "capital_cities",
         "geography"
       ],
       "type": "text_choice",
@@ -529,21 +507,20 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "646339ce01d576cfac3aa3bf",
-      "correctAnswer": "Richard Pryor",
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc54",
+      "correctAnswer": "Woebegone",
       "incorrectAnswers": [
-        "Steve Martin",
-        "Eddie Murphy",
-        "Chris Rock"
+        "Ratoon",
+        "Dragoman",
+        "Bobsy-die"
       ],
       "question": {
-        "text": "Which actor and comedian appeared in 'Car Wash' and 'Silver Streak', and won a comedy album Grammy in 1976?"
+        "text": "Which word is defined as 'sad or miserable in appearance'?"
       },
       "tags": [
-        "comedy",
-        "film",
-        "film_and_tv"
+        "words",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -552,19 +529,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94facd",
-      "correctAnswer": "Jamie Foxx",
+      "id": "622a1c347cc59eab6f94fa64",
+      "correctAnswer": "J.K. Simmons",
       "incorrectAnswers": [
-        "Don Cheadle",
-        "Johnny Depp",
-        "Leonardo DiCaprio"
+        "Robert Duvall",
+        "Ethan Hawke",
+        "Edward Norton"
       ],
       "question": {
-        "text": "Who won the 2004 Academy Award for Best Leading Actor for playing the role of Ray Charles in Ray?"
+        "text": "Who won the 2014 Academy Award for Best Supporting Actor for playing the role of Fletcher in Whiplash?"
       },
       "tags": [
         "acting",
-        "film",
+        "cult_films",
         "academy_awards",
         "film_and_tv"
       ],
@@ -574,41 +551,18 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f93f",
-      "correctAnswer": "M",
-      "incorrectAnswers": [
-        "Austin Powers: International Man of Mystery",
-        "Apocalypse Now",
-        "Home Alone"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Hans Beckert'?"
-      },
-      "tags": [
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f95b",
-      "correctAnswer": "Post Office",
+      "id": "622a1c397cc59eab6f950f15",
+      "correctAnswer": "Giovanni Boccaccio",
       "incorrectAnswers": [
-        "Tinker",
-        "My Life As a Man",
-        "Nine Stories"
+        "Dante Alighieri",
+        "Agatha Christie",
+        "Stephenie Meyer"
       ],
       "question": {
-        "text": "Which book contains the character 'Henry Chinaski'?"
+        "text": "Which author wrote 'The Decameron'?"
       },
       "tags": [
-        "literature",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -617,21 +571,22 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950290",
-      "correctAnswer": "Apple ",
+      "category": "history",
+      "id": "622a1c347cc59eab6f94f9d6",
+      "correctAnswer": "Grover Cleveland",
       "incorrectAnswers": [
-        "Orange",
-        "Plum",
-        "Banana"
+        "Chester Arthur",
+        "Warren Harding",
+        "Thomas Jefferson "
       ],
       "question": {
-        "text": "What Type Of Fruit Is A Russet?"
+        "text": "Who was the 22nd president of the USA, in term during the period 1885–1889?"
       },
       "tags": [
-        "food",
-        "names",
-        "food_and_drink"
+        "usa",
+        "presidents",
+        "leaders",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -639,20 +594,42 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc61",
-      "correctAnswer": "Ratoon",
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950075",
+      "correctAnswer": "Greece",
       "incorrectAnswers": [
-        "Curmudgeon",
-        "Tittynope",
-        "Fudgel"
+        "Argentina",
+        "Japan",
+        "Australia"
       ],
       "question": {
-        "text": "Which word is defined as 'a small shoot growing from the root of a plant'?"
+        "text": "Which Country Hosted The 2004 Summer Olympics?"
       },
       "tags": [
-        "words",
-        "general_knowledge"
+        "olympics",
+        "sport",
+        "00's"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fce5",
+      "correctAnswer": "Dravidian",
+      "incorrectAnswers": [
+        "Afroasiatic",
+        "Japonic",
+        "Koreanic"
+      ],
+      "question": {
+        "text": "The language 'Kannada' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
