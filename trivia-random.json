@@ -1,18 +1,42 @@
 {
-  "gameDate": "2026-02-12",
+  "gameDate": "2026-02-13",
   "difficulty": "random",
   "results": [
     {
-      "category": "society_and_culture",
-      "id": "6266e596ff2394bd44dee00a",
-      "correctAnswer": "Rojo",
+      "category": "history",
+      "id": "645a6490158db1bd1779f199",
+      "correctAnswer": "Harold Macmillan",
       "incorrectAnswers": [
-        "Rouge",
-        "Vermelho",
-        "Seis"
+        "Margaret Thatcher",
+        "Winston Churchill",
+        "Clement Attlee"
       ],
       "question": {
-        "text": "In Spanish, what is the word for for 'red'?"
+        "text": "Who succeeded Anthony Eden as the Prime Minister of the United Kingdom in 1957?"
+      },
+      "tags": [
+        "people",
+        "politics",
+        "uk",
+        "british_prime_ministers",
+        "1950's"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e602ff2394bd44dee02a",
+      "correctAnswer": "Negro",
+      "incorrectAnswers": [
+        "Nero",
+        "Zwart",
+        "Azul"
+      ],
+      "question": {
+        "text": "In Portuguese, what is the word for for 'black'?"
       },
       "tags": [
         "language",
@@ -25,42 +49,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623b57a4fd6c701a9211836e",
-      "correctAnswer": "Egypt",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950227",
+      "correctAnswer": "Arborio",
       "incorrectAnswers": [
-        "Yemen",
-        "Japan",
-        "Vietnam"
+        "Pialini",
+        "Rissorio",
+        "Basmati"
       ],
       "question": {
-        "text": "In which country would you find the Abu Simbel temples?"
+        "text": "Which type of rice should be used to make risotto?"
       },
       "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "648891c34cd3f064f443dc58",
-      "correctAnswer": "Ursa Major",
-      "incorrectAnswers": [
-        "Canis Major",
-        "Cygnus Major",
-        "Leo Major"
-      ],
-      "question": {
-        "text": "What is the name of the constellation that is commonly known as 'Big Bear'?"
-      },
-      "tags": [
-        "astronomy",
-        "stars",
-        "space",
-        "science"
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -68,19 +69,43 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "62433548cfaae40c12961498",
-      "correctAnswer": "A Ram",
+      "category": "arts_and_literature",
+      "id": "65056ed17a97013de78b536a",
+      "correctAnswer": "Mississippi",
       "incorrectAnswers": [
-        "A Jack",
-        "A Drake",
-        "A Rooster"
+        "Hudson",
+        "Ohio",
+        "Rio Grande"
       ],
       "question": {
-        "text": "What would you call a male sheep?"
+        "text": "Along which river do the adventures of Tom Sawyer take place?"
       },
       "tags": [
-        "science"
+        "arts_and_literature",
+        "literature",
+        "rivers"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "648891854cd3f064f443dc27",
+      "correctAnswer": "The Yellow Brick Road",
+      "incorrectAnswers": [
+        "The Red Brick Road",
+        "The Emerald Road",
+        "The Sapphire Road"
+      ],
+      "question": {
+        "text": "What did Dorothy and her friends walk down in The Wizard of Oz?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "literature",
+        "childrens_literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -89,17 +114,19 @@
     },
     {
       "category": "geography",
-      "id": "623b585cfd6c701a921183b4",
-      "correctAnswer": "Indonesia",
+      "id": "622a1c357cc59eab6f94fe51",
+      "correctAnswer": "The Black Sea ",
       "incorrectAnswers": [
-        "Tanzania",
-        "Malta",
-        "Brazil"
+        "The Mediterranean",
+        "The Dead Sea",
+        "The Aegean Sea"
       ],
       "question": {
-        "text": "In which country would you find the UNESCO World Heritage site of Prambanan?"
+        "text": "Into Which Sea Does The river Danube Flow?"
       },
       "tags": [
+        "rivers",
+        "bodies_of_water",
         "geography"
       ],
       "type": "text_choice",
@@ -108,20 +135,66 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "625fd718dc0dd3b72da64d22",
-      "correctAnswer": "1980",
+      "category": "science",
+      "id": "646089e1de964ebc39016c94",
+      "correctAnswer": "Charles Goodyear",
       "incorrectAnswers": [
-        "1965",
-        "1970",
-        "1975"
+        "Henry Ford",
+        "Thomas Edison",
+        "Eli Whitney"
       ],
       "question": {
-        "text": "Raging Bull was released in which year?"
+        "text": "In 1839, which American inventor reportedly spilled a mix of rubber and sulfur onto a hot stove and found that it didn't melt?"
       },
       "tags": [
-        "film",
-        "film_and_tv"
+        "inventors",
+        "history",
+        "chemistry",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056f1f7a97013de78b53d7",
+      "correctAnswer": "Africa",
+      "incorrectAnswers": [
+        "Europe",
+        "Asia",
+        "South America"
+      ],
+      "question": {
+        "text": "On which continent was the historical country of Rhodesia?"
+      },
+      "tags": [
+        "history",
+        "continents",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950efa",
+      "correctAnswer": "Ursula K. Le Guin",
+      "incorrectAnswers": [
+        "Stephen King",
+        "Jack Vance",
+        "George R. R. Martin"
+      ],
+      "question": {
+        "text": "Which author wrote 'Hainish Cycle'?"
+      },
+      "tags": [
+        "literature",
+        "fantasy",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -130,43 +203,39 @@
     },
     {
       "category": "music",
-      "id": "622a1c347cc59eab6f94fb9f",
-      "correctAnswer": "\"Hooked on a Feeling\" by B.J. Thomas",
+      "id": "622a1c357cc59eab6f94ff3c",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
-        "\"Immigrant Song\" by Led Zeppelin",
-        "\"What I Got\" by Sublime",
-        "\"American Pie\" by Don McLean"
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"Ooga-chaka, Ooga-ooga / Ooga-chaka, Ooga-ooga...\"?"
+        "text": "Which American singer, songwriter and dancer released the song 'Don't Stop 'Til You Get Enough'?"
       },
       "tags": [
         "songs",
-        "lyrics",
         "music"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62602ea74b176d54800e3ceb",
-      "correctAnswer": "Ho Chi Minh City",
+      "category": "science",
+      "id": "624333cdcfaae40c12961405",
+      "correctAnswer": "A Bull",
       "incorrectAnswers": [
-        "Yangon",
-        "Jakarta",
-        "Chittagong"
+        "A Macho",
+        "A Dog",
+        "A Jack"
       ],
       "question": {
-        "text": "Which of these cities is in Vietnam?"
+        "text": "A male elephant is known as what?"
       },
       "tags": [
-        "cities",
-        "asia",
-        "southeast_asia",
-        "geography"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -174,21 +243,19 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c3a7cc59eab6f9511d1",
-      "correctAnswer": "Medea",
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503fb",
+      "correctAnswer": "Chicago",
       "incorrectAnswers": [
-        "Persephone",
-        "Arachne",
-        "Helen"
+        "Denver",
+        "Dallas",
+        "Seattle"
       ],
       "question": {
-        "text": "In Greek mythology, who was Jason's wife?"
+        "text": "The St. Valentine's Day massacre took place in this which city? "
       },
       "tags": [
-        "society_and_culture",
-        "ancient_greece",
-        "mythology"
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -197,19 +264,124 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcfc",
-      "correctAnswer": "Indo-European",
+      "id": "645cb1257d263fd50970439c",
+      "correctAnswer": "An Advent calendar",
       "incorrectAnswers": [
-        "Koreanic",
-        "Austronesian",
-        "Dravidian"
+        "A Holy calendar",
+        "A Kwanzaa calendar",
+        "A Countdown calendar"
       ],
       "question": {
-        "text": "The language 'Marathi' belongs to which language family?"
+        "text": "What kind of calendar used to count the days until Christmas and often has a treat behind each window?"
       },
       "tags": [
-        "language",
-        "society_and_culture"
+        "traditions",
+        "candy",
+        "christmas"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f86d",
+      "correctAnswer": "Cricket",
+      "incorrectAnswers": [
+        "Motor Racing",
+        "Gymnastics",
+        "Basketball"
+      ],
+      "question": {
+        "text": "With which sport is Sir Gary Sobers associated?"
+      },
+      "tags": [
+        "people",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951897",
+      "correctAnswer": "Papa Doc",
+      "incorrectAnswers": [
+        "Big Daddy",
+        "Pa Lordy",
+        "Man Man Judge"
+      ],
+      "question": {
+        "text": "What was the nickname of President Duvalier of Haiti, who died in 1971?"
+      },
+      "tags": [
+        "politics",
+        "leaders",
+        "nicknames"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f859da29df7b05f73a0",
+      "correctAnswer": "A leader tries to expand his empire while a poor barber tries to avoid persecution.",
+      "incorrectAnswers": [
+        "Two men join in an uneasy alliance against a third to find gold buried in a remote cemetery.",
+        "A weatherman finds himself trapped in a small town as he lives the same day over and over again.",
+        "A surgeon rescues a disfigured man who is mistreated while scraping a living as a side-show freak."
+      ],
+      "question": {
+        "text": "What is the plot of the movie The Great Dictator?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3d7cc59eab6f951c9c",
+      "correctAnswer": "Aramaic",
+      "incorrectAnswers": [
+        "Hebrew",
+        "Latin",
+        "Avestan"
+      ],
+      "question": {
+        "text": "What Native Language Would Jesus Christ Have Spoken?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c38",
+      "correctAnswer": "Depeche Mode",
+      "incorrectAnswers": [
+        "Level 42",
+        "Dead or Alive",
+        "Radiohead"
+      ],
+      "question": {
+        "text": "Which English band released the album 'Music for the Masses'?"
+      },
+      "tags": [
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -218,23 +390,45 @@
     },
     {
       "category": "science",
-      "id": "622a1c3c7cc59eab6f951924",
-      "correctAnswer": "A Reindeer",
+      "id": "650570387a97013de78b555c",
+      "correctAnswer": "Bud",
       "incorrectAnswers": [
-        "A Whale",
-        "A Mouse",
-        "A Spider"
+        "Leaf",
+        "Spore",
+        "Fruit"
       ],
       "question": {
-        "text": "What type of animal is a caribou?"
+        "text": "What is an undeveloped or embryonic shoot of a plant?"
       },
       "tags": [
-        "animals",
-        "names",
         "science"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417daa0f96c4efe8d773dd",
+      "correctAnswer": "San Jose Eathquakes",
+      "incorrectAnswers": [
+        "San Jose Bengals",
+        "San Jose Heat",
+        "San Jose Hawks"
+      ],
+      "question": {
+        "text": "Which of these is a soccer team based in San Jose?"
+      },
+      "tags": [
+        "soccer",
+        "football",
+        "usa",
+        "mls",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
@@ -259,19 +453,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950ca3",
-      "correctAnswer": "Pink Floyd",
+      "category": "science",
+      "id": "624333e8cfaae40c1296140e",
+      "correctAnswer": "A Jill",
       "incorrectAnswers": [
-        "Wings",
-        "Rudimental",
-        "The Alan Parsons Project"
+        "A Jenny",
+        "A Cow",
+        "A Soar"
       ],
       "question": {
-        "text": "Which English rock band released the song 'Have a Cigar'?"
+        "text": "A female ferret is known as what?"
       },
       "tags": [
-        "music"
+        "animals",
+        "biology",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -279,191 +475,40 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "645cb12a602ff42ca52fb42d",
-      "correctAnswer": "Japan",
+      "category": "general_knowledge",
+      "id": "622a1c3d7cc59eab6f951c69",
+      "correctAnswer": "Five Gold Rings",
       "incorrectAnswers": [
-        "China",
-        "South Korea",
-        "Thailand"
+        "Five Lords a Leaping",
+        "Five Drummers Drumming",
+        "Five Calling Birds"
       ],
       "question": {
-        "text": "What country is the subject of the Shizuoka Shimbun and the Nikkan Ube Jiho newspapers?"
+        "text": "According to the Christmas song what did my true love give to me on the fifth day of Christmas?"
       },
       "tags": [
-        "geography",
-        "print_media",
-        "society_and_culture"
+        "general_knowledge"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501ef",
-      "correctAnswer": "Roman Polanski",
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc7b",
+      "correctAnswer": "Futz",
       "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
+        "Discombobulate",
+        "Cabotage",
+        "Jentacular"
       ],
       "question": {
-        "text": "Which director directed The Pianist?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950381",
-      "correctAnswer": "Pontius Pilate",
-      "incorrectAnswers": [
-        "Cesar Augustus",
-        "King Solomon",
-        "Judas"
-      ],
-      "question": {
-        "text": "Who presided over the trial of Jesus?"
+        "text": "Which word is defined as 'to waste time or busy oneself aimlessly'?"
       },
       "tags": [
-        "christianity",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f950201",
-      "correctAnswer": "Bryan Singer",
-      "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
-      ],
-      "question": {
-        "text": "Which director directed X-Men?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fb9a",
-      "correctAnswer": "\"Basket Case\" by Green Day",
-      "incorrectAnswers": [
-        "\"Hooked on a Feeling\" by B.J. Thomas",
-        "\"American Pie\" by Don McLean",
-        "\"Gangsta's Paradise\" by Coolio feat. L.V."
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"Do you have the time to listen to me whine...\"?"
-      },
-      "tags": [
-        "songs",
-        "lyrics",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "645bc4634638d58091b1b9d6",
-      "correctAnswer": "Pugilist",
-      "incorrectAnswers": [
-        "Boxerite",
-        "Fightman",
-        "Brawler"
-      ],
-      "question": {
-        "text": "What word, derived from Latin, refers to a boxer or prizefighter?"
-      },
-      "tags": [
-        "boxing",
         "words",
-        "sport",
-        "latin",
-        "translations"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9dd",
-      "correctAnswer": "James Buchanan",
-      "incorrectAnswers": [
-        "Rutherford B. Hayes",
-        "Woodrow Wilson",
-        "Abraham Lincoln "
-      ],
-      "question": {
-        "text": "Who was the 15th president of the USA, in term during the period 1857–1861?"
-      },
-      "tags": [
-        "usa",
-        "presidents",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515a7",
-      "correctAnswer": "Two ",
-      "incorrectAnswers": [
-        "Five",
-        "Four",
-        "Three"
-      ],
-      "question": {
-        "text": "How many standard bottles of champagne are in a magnum?"
-      },
-      "tags": [
-        "drink",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa0e",
-      "correctAnswer": "Gustav Klimt",
-      "incorrectAnswers": [
-        "‎‎Edvard Munch",
-        "Raphael",
-        "Leonardo da Vinci"
-      ],
-      "question": {
-        "text": "Which artist painted \"The Kiss\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -472,42 +517,21 @@
     },
     {
       "category": "history",
-      "id": "622a1c3b7cc59eab6f951725",
-      "correctAnswer": "Lee Harvey Oswald",
+      "id": "622a1c3d7cc59eab6f951c15",
+      "correctAnswer": "Midway",
       "incorrectAnswers": [
-        "John Wilkes Booth",
-        "Gerald Ford",
-        "Mark David Chapman"
+        "Iwo Jima",
+        "Pearl Harbour",
+        "Okinawa"
       ],
       "question": {
-        "text": "Who assassinated president Kennedy?"
+        "text": "In which WWII battle were four Japanese carriers destroyed?"
       },
       "tags": [
-        "history",
-        "assassinations",
-        "presidents",
+        "battles",
+        "world_war_2",
+        "japan",
         "usa",
-        "people",
-        "events"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95037b",
-      "correctAnswer": "Henry II",
-      "incorrectAnswers": [
-        "William I",
-        "Richard III",
-        "Henry VIII"
-      ],
-      "question": {
-        "text": "Who Said \"Will No-One Rid Me Of This Turbulent Priest\"?"
-      },
-      "tags": [
         "history"
       ],
       "type": "text_choice",
@@ -517,40 +541,19 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "6463395501d576cfac3aa34d",
-      "correctAnswer": "Luge",
+      "id": "622a1c367cc59eab6f9500ae",
+      "correctAnswer": "A Spare",
       "incorrectAnswers": [
-        "Bobs",
-        "Trok",
-        "Aski"
+        "A Strike",
+        "A Near",
+        "A Close"
       ],
       "question": {
-        "text": "What is the word for a racing sled?"
+        "text": "In Bowling What Is The Term For Knocking Down All Ten Pins With 2 Consecutive Balls?"
       },
       "tags": [
-        "sport",
-        "winter_sports",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f872",
-      "correctAnswer": "Surfing",
-      "incorrectAnswers": [
-        "Cricket",
-        "Figure skating",
-        "Table tennis"
-      ],
-      "question": {
-        "text": "With which sport is Kelly Slater associated?"
-      },
-      "tags": [
-        "people",
+        "games",
+        "words",
         "sport"
       ],
       "type": "text_choice",
@@ -559,84 +562,84 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "627164401ba117625baac952",
-      "correctAnswer": "Becherovka",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eea",
+      "correctAnswer": "Charles Dickens",
       "incorrectAnswers": [
-        "Sangria",
-        "Seco Herrerano",
-        "Koskenkorva Viina"
+        "Oscar Wilde",
+        "Joseph Conrad",
+        "Henryk Sienkiewicz"
       ],
       "question": {
-        "text": "Which of these drinks would you associate with The Czech Republic?"
+        "text": "Which author wrote 'A Tale of Two Cities'?"
       },
       "tags": [
-        "drink",
-        "alcohol"
+        "arts_and_literature"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fb89",
-      "correctAnswer": "\"I Write Sins Not Tragedies\" by Panic! at the Disco",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951033",
+      "correctAnswer": "Emperor",
       "incorrectAnswers": [
-        "\"Yo Home to Bel-Air\"",
-        "\"All Star\" by Smash Mouth",
-        "\"Old Man\" by Neil Young"
+        "King",
+        "Gentoo",
+        "Adelie"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"Oh, well imagine, as I'm pacing the pews in a church corridor.\"?"
+        "text": "What Is The Largest Species Of Penguin?"
       },
       "tags": [
-        "lyrics",
-        "music"
+        "science"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c377cc59eab6f950439",
-      "correctAnswer": "Nine",
-      "incorrectAnswers": [
-        "One",
-        "Two",
-        "Six"
-      ],
-      "question": {
-        "text": "How Many Crusades Were There?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "646262f6ab138b829b81ea6f",
-      "correctAnswer": "What's Up, Tiger Lily?",
+      "id": "622a1c347cc59eab6f94f92a",
+      "correctAnswer": "Fargo",
       "incorrectAnswers": [
-        "Annie Hall",
-        "Manhattan",
-        "The Purple Rose of Cairo"
+        "Taxi Driver",
+        "Network",
+        "It's A Wonderful Life"
       ],
       "question": {
-        "text": "In which Woody Allen classic does an egg salad recipe cause international intrigue?"
+        "text": "Which film contains the character 'Marge Gunderson'?"
       },
       "tags": [
-        "comedy",
+        "acting",
         "film",
-        "film_and_tv",
-        "woody_allen"
+        "fictitious_characters",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "648889175dba6c873ef650e0",
+      "correctAnswer": "Sterilize them",
+      "incorrectAnswers": [
+        "Dispose of them",
+        "Repair them",
+        "Sharpen them"
+      ],
+      "question": {
+        "text": "What is an autoclave designed to do to surgical instruments in a medical lab?"
+      },
+      "tags": [
+        "medicine",
+        "technology",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
