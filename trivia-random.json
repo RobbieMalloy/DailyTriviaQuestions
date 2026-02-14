@@ -1,25 +1,479 @@
 {
-  "gameDate": "2026-02-13",
+  "gameDate": "2026-02-14",
   "difficulty": "random",
   "results": [
     {
-      "category": "history",
-      "id": "645a6490158db1bd1779f199",
-      "correctAnswer": "Harold Macmillan",
+      "category": "music",
+      "id": "636a52a5990390307063f3b0",
+      "correctAnswer": "Sweet Jane",
       "incorrectAnswers": [
-        "Margaret Thatcher",
-        "Winston Churchill",
-        "Clement Attlee"
+        "Blue Suede Shoes",
+        "I Love Rock 'n' Roll",
+        "Tainted Love"
       ],
       "question": {
-        "text": "Who succeeded Anthony Eden as the Prime Minister of the United Kingdom in 1957?"
+        "text": "Which song was originally recorded by The Velvet Underground and was later covered by Cowboy Junkies?"
+      },
+      "tags": [
+        "music",
+        "cover_song",
+        "songs",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950a1a",
+      "correctAnswer": "France",
+      "incorrectAnswers": [
+        "Luxembourg",
+        "Denmark",
+        "Switzerland"
+      ],
+      "question": {
+        "text": "Which of these countries borders Kingdom of the Netherlands?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "647a125855463d5ce2994fc9",
+      "correctAnswer": "Kentucky Fried Chicken",
+      "incorrectAnswers": [
+        "McDonald's",
+        "Burger King",
+        "Taco Bell"
+      ],
+      "question": {
+        "text": "Which fast food chain advertises with the slogan\"'It's finger lickin' good!\"?"
+      },
+      "tags": [
+        "marketing",
+        "brands",
+        "food",
+        "food_and_drink",
+        "slogans"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc13",
+      "correctAnswer": "\"Well, here's another nice mess you've gotten me into!\"",
+      "incorrectAnswers": [
+        "\"My precious.\"",
+        "\"After all, tomorrow is another day!\"",
+        "\"Gentlemen, you can't fight in here! This is the War Room!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Sons of the Desert'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd73adc0dd3b72da64d2c",
+      "correctAnswer": "1976",
+      "incorrectAnswers": [
+        "1966",
+        "1971",
+        "1981"
+      ],
+      "question": {
+        "text": "Rocky was released in which year?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eb3",
+      "correctAnswer": "Charles Darwin",
+      "incorrectAnswers": [
+        "Percy Bysshe Shelley",
+        "H. Rider Haggard",
+        "Robert Louis Stevenson"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Descent of Man And Selection in Relation to Sex'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950545",
+      "correctAnswer": "The nature of knowledge",
+      "incorrectAnswers": [
+        "Mind-altering drugs",
+        "Characterizing criminals",
+        "The climate"
+      ],
+      "question": {
+        "text": "What is Epistemology the study of?"
+      },
+      "tags": [
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f01",
+      "correctAnswer": "Émile Zola",
+      "incorrectAnswers": [
+        "Alphonse Daudet",
+        "Anatole France",
+        "Charles Dickens"
+      ],
+      "question": {
+        "text": "Which author wrote 'Germinal'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233855b62eaad73716a8c66",
+      "correctAnswer": "California",
+      "incorrectAnswers": [
+        "Hawaii",
+        "Alaska",
+        "Vermont"
+      ],
+      "question": {
+        "text": "What US state is nicknamed the Golden State?"
+      },
+      "tags": [
+        "nicknames",
+        "us_states",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62373588cfe13103f55eb53f",
+      "correctAnswer": "Montenegro",
+      "incorrectAnswers": [
+        "Yemen",
+        "Mexico",
+        "Monaco"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.me' at the end of its web addresses?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "639898395c9a75021f310466",
+      "correctAnswer": "Cabernet Sauvignon",
+      "incorrectAnswers": [
+        "Pinot Noir",
+        "Chardonnay",
+        "Merlot"
+      ],
+      "question": {
+        "text": "What is the most widely planted grape variety in the world?"
+      },
+      "tags": [
+        "food_and_drink",
+        "wine",
+        "drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950ca3",
+      "correctAnswer": "Pink Floyd",
+      "incorrectAnswers": [
+        "Wings",
+        "Rudimental",
+        "The Alan Parsons Project"
+      ],
+      "question": {
+        "text": "Which English rock band released the song 'Have a Cigar'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a3e",
+      "correctAnswer": "Thermopylae",
+      "incorrectAnswers": [
+        "Marathon",
+        "Corinth",
+        "Troy"
+      ],
+      "question": {
+        "text": "Where was the Greek army of Leonides annihilated by Persians in 480BC?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "63f394f9989356ef48370bd0",
+      "correctAnswer": "Violin",
+      "incorrectAnswers": [
+        "Viola",
+        "Cello",
+        "Double Bass"
+      ],
+      "question": {
+        "text": "What is the name of the highest pitched stringed instrument?"
+      },
+      "tags": [
+        "music",
+        "musical_instruments"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "648891c34cd3f064f443dc5b",
+      "correctAnswer": "Navajo",
+      "incorrectAnswers": [
+        "Apache",
+        "Cherokee",
+        "Sioux"
+      ],
+      "question": {
+        "text": "In 1942, from which Native American tribe did the US Military recruit 29 men from to develop a code that the Japanese never broke?"
+      },
+      "tags": [
+        "military",
+        "languages",
+        "language",
+        "cryptography",
+        "world_war_2",
+        "history",
+        "wars",
+        "intelligence",
+        "espionage"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3a7cc59eab6f951082",
+      "correctAnswer": "Libra",
+      "incorrectAnswers": [
+        "Scorpio",
+        "Gemini",
+        "Aries"
+      ],
+      "question": {
+        "text": "What constellation is represented by scales?"
+      },
+      "tags": [
+        "symbols",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f952331",
+      "correctAnswer": "Erosion",
+      "incorrectAnswers": [
+        "Sediment",
+        "Vegetation",
+        "Sublimation"
+      ],
+      "question": {
+        "text": "By what process is rock worn down by the weather?"
+      },
+      "tags": [
+        "geology",
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd6e9dc0dd3b72da64d14",
+      "correctAnswer": "1976",
+      "incorrectAnswers": [
+        "1966",
+        "1971",
+        "1981"
+      ],
+      "question": {
+        "text": "Taxi Driver was released in which year?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "64cf43067f0714b9a0ca5e76",
+      "correctAnswer": "The Riviera",
+      "incorrectAnswers": [
+        "The Alps",
+        "The Mediterranean",
+        "Champagne"
+      ],
+      "question": {
+        "text": "What is the other name for the Côte d'Azur in France?"
+      },
+      "tags": [
+        "france",
+        "geography",
+        "tourism",
+        "europe"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc6d",
+      "correctAnswer": "Lamprophony",
+      "incorrectAnswers": [
+        "Doodle Sack",
+        "Donkey Engine",
+        "Lackadaisical"
+      ],
+      "question": {
+        "text": "Which word is defined as 'loudness and clarity of enunciation'?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f91d",
+      "correctAnswer": "The Searchers",
+      "incorrectAnswers": [
+        "Gangs of New York",
+        "Scarface",
+        "Raiders of the Lost Ark"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Ethan Edwards'?"
+      },
+      "tags": [
+        "film",
+        "fictitious_characters",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd9e",
+      "correctAnswer": "Sun Ra",
+      "incorrectAnswers": [
+        "David Bowie",
+        "Frank Zappa",
+        "June Tyson"
+      ],
+      "question": {
+        "text": "Which Keyboard Player Had An \"Arkestra\" & Claimed To Have Come From Another Planet\"?"
       },
       "tags": [
         "people",
-        "politics",
-        "uk",
-        "british_prime_ministers",
-        "1950's"
+        "jazz",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -28,19 +482,41 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6266e602ff2394bd44dee02a",
-      "correctAnswer": "Negro",
+      "id": "62628864014f58b5fc1a3fd6",
+      "correctAnswer": "There are some things money can't buy",
       "incorrectAnswers": [
-        "Nero",
-        "Zwart",
-        "Azul"
+        "Everywhere you want to be",
+        "Because Change Happens",
+        "The World's Local Bank"
       ],
       "question": {
-        "text": "In Portuguese, what is the word for for 'black'?"
+        "text": "What is the marketing slogan of Mastercard?"
       },
       "tags": [
-        "language",
-        "translations",
+        "business",
+        "marketing",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6477bad7550bc819ad646b31",
+      "correctAnswer": "The sewing machine",
+      "incorrectAnswers": [
+        "The washing machine",
+        "The dishwasher",
+        "The refrigerator"
+      ],
+      "question": {
+        "text": "Which invention was patented by both Isaac Singer and Elias Howe?"
+      },
+      "tags": [
+        "inventions",
+        "history",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -49,512 +525,84 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950227",
-      "correctAnswer": "Arborio",
+      "category": "science",
+      "id": "63d9530f168979b94b2e4f8a",
+      "correctAnswer": "Law of Conservation of Energy",
       "incorrectAnswers": [
-        "Pialini",
-        "Rissorio",
-        "Basmati"
+        "Law of Universal Gravitation",
+        "Law of Thermodynamics",
+        "Law of the Lever"
       ],
       "question": {
-        "text": "Which type of rice should be used to make risotto?"
+        "text": "What is the name of the physical law that states that energy is neither created or destroyed?"
       },
       "tags": [
-        "food_and_drink"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056ed17a97013de78b536a",
-      "correctAnswer": "Mississippi",
-      "incorrectAnswers": [
-        "Hudson",
-        "Ohio",
-        "Rio Grande"
-      ],
-      "question": {
-        "text": "Along which river do the adventures of Tom Sawyer take place?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "literature",
-        "rivers"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "648891854cd3f064f443dc27",
-      "correctAnswer": "The Yellow Brick Road",
-      "incorrectAnswers": [
-        "The Red Brick Road",
-        "The Emerald Road",
-        "The Sapphire Road"
-      ],
-      "question": {
-        "text": "What did Dorothy and her friends walk down in The Wizard of Oz?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "literature",
-        "childrens_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94fe51",
-      "correctAnswer": "The Black Sea ",
+      "id": "62602dd64b176d54800e3cae",
+      "correctAnswer": "Japan",
       "incorrectAnswers": [
-        "The Mediterranean",
-        "The Dead Sea",
-        "The Aegean Sea"
+        "China",
+        "New Zealand",
+        "South Korea"
       ],
       "question": {
-        "text": "Into Which Sea Does The river Danube Flow?"
+        "text": "In which country is the city of Nagoya?"
       },
       "tags": [
-        "rivers",
-        "bodies_of_water",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "646089e1de964ebc39016c94",
-      "correctAnswer": "Charles Goodyear",
-      "incorrectAnswers": [
-        "Henry Ford",
-        "Thomas Edison",
-        "Eli Whitney"
-      ],
-      "question": {
-        "text": "In 1839, which American inventor reportedly spilled a mix of rubber and sulfur onto a hot stove and found that it didn't melt?"
-      },
-      "tags": [
-        "inventors",
-        "history",
-        "chemistry",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056f1f7a97013de78b53d7",
-      "correctAnswer": "Africa",
-      "incorrectAnswers": [
-        "Europe",
-        "Asia",
-        "South America"
-      ],
-      "question": {
-        "text": "On which continent was the historical country of Rhodesia?"
-      },
-      "tags": [
-        "history",
-        "continents",
+        "cities",
         "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950efa",
-      "correctAnswer": "Ursula K. Le Guin",
-      "incorrectAnswers": [
-        "Stephen King",
-        "Jack Vance",
-        "George R. R. Martin"
-      ],
-      "question": {
-        "text": "Which author wrote 'Hainish Cycle'?"
-      },
-      "tags": [
-        "literature",
-        "fantasy",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94ff3c",
-      "correctAnswer": "Michael Jackson",
+      "id": "622a1c357cc59eab6f94fd7b",
+      "correctAnswer": "Elton John",
       "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
+        "David Bowie",
+        "John Lennon",
+        "Tom Jones"
       ],
       "question": {
-        "text": "Which American singer, songwriter and dancer released the song 'Don't Stop 'Til You Get Enough'?"
-      },
-      "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624333cdcfaae40c12961405",
-      "correctAnswer": "A Bull",
-      "incorrectAnswers": [
-        "A Macho",
-        "A Dog",
-        "A Jack"
-      ],
-      "question": {
-        "text": "A male elephant is known as what?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503fb",
-      "correctAnswer": "Chicago",
-      "incorrectAnswers": [
-        "Denver",
-        "Dallas",
-        "Seattle"
-      ],
-      "question": {
-        "text": "The St. Valentine's Day massacre took place in this which city? "
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "645cb1257d263fd50970439c",
-      "correctAnswer": "An Advent calendar",
-      "incorrectAnswers": [
-        "A Holy calendar",
-        "A Kwanzaa calendar",
-        "A Countdown calendar"
-      ],
-      "question": {
-        "text": "What kind of calendar used to count the days until Christmas and often has a treat behind each window?"
-      },
-      "tags": [
-        "traditions",
-        "candy",
-        "christmas"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f86d",
-      "correctAnswer": "Cricket",
-      "incorrectAnswers": [
-        "Motor Racing",
-        "Gymnastics",
-        "Basketball"
-      ],
-      "question": {
-        "text": "With which sport is Sir Gary Sobers associated?"
+        "text": "Who Was The Star Behind Rocket Records?"
       },
       "tags": [
         "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951897",
-      "correctAnswer": "Papa Doc",
-      "incorrectAnswers": [
-        "Big Daddy",
-        "Pa Lordy",
-        "Man Man Judge"
-      ],
-      "question": {
-        "text": "What was the nickname of President Duvalier of Haiti, who died in 1971?"
-      },
-      "tags": [
-        "politics",
-        "leaders",
-        "nicknames"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f859da29df7b05f73a0",
-      "correctAnswer": "A leader tries to expand his empire while a poor barber tries to avoid persecution.",
-      "incorrectAnswers": [
-        "Two men join in an uneasy alliance against a third to find gold buried in a remote cemetery.",
-        "A weatherman finds himself trapped in a small town as he lives the same day over and over again.",
-        "A surgeon rescues a disfigured man who is mistreated while scraping a living as a side-show freak."
-      ],
-      "question": {
-        "text": "What is the plot of the movie The Great Dictator?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3d7cc59eab6f951c9c",
-      "correctAnswer": "Aramaic",
-      "incorrectAnswers": [
-        "Hebrew",
-        "Latin",
-        "Avestan"
-      ],
-      "question": {
-        "text": "What Native Language Would Jesus Christ Have Spoken?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c38",
-      "correctAnswer": "Depeche Mode",
-      "incorrectAnswers": [
-        "Level 42",
-        "Dead or Alive",
-        "Radiohead"
-      ],
-      "question": {
-        "text": "Which English band released the album 'Music for the Masses'?"
-      },
-      "tags": [
         "music"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570387a97013de78b555c",
-      "correctAnswer": "Bud",
-      "incorrectAnswers": [
-        "Leaf",
-        "Spore",
-        "Fruit"
-      ],
-      "question": {
-        "text": "What is an undeveloped or embryonic shoot of a plant?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417daa0f96c4efe8d773dd",
-      "correctAnswer": "San Jose Eathquakes",
-      "incorrectAnswers": [
-        "San Jose Bengals",
-        "San Jose Heat",
-        "San Jose Hawks"
-      ],
-      "question": {
-        "text": "Which of these is a soccer team based in San Jose?"
-      },
-      "tags": [
-        "soccer",
-        "football",
-        "usa",
-        "mls",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f95080e",
-      "correctAnswer": "Asia",
-      "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Europe"
-      ],
-      "question": {
-        "text": "The country of Kuwait is on which continent?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "624333e8cfaae40c1296140e",
-      "correctAnswer": "A Jill",
-      "incorrectAnswers": [
-        "A Jenny",
-        "A Cow",
-        "A Soar"
-      ],
-      "question": {
-        "text": "A female ferret is known as what?"
-      },
-      "tags": [
-        "animals",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3d7cc59eab6f951c69",
-      "correctAnswer": "Five Gold Rings",
-      "incorrectAnswers": [
-        "Five Lords a Leaping",
-        "Five Drummers Drumming",
-        "Five Calling Birds"
-      ],
-      "question": {
-        "text": "According to the Christmas song what did my true love give to me on the fifth day of Christmas?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc7b",
-      "correctAnswer": "Futz",
-      "incorrectAnswers": [
-        "Discombobulate",
-        "Cabotage",
-        "Jentacular"
-      ],
-      "question": {
-        "text": "Which word is defined as 'to waste time or busy oneself aimlessly'?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3d7cc59eab6f951c15",
-      "correctAnswer": "Midway",
-      "incorrectAnswers": [
-        "Iwo Jima",
-        "Pearl Harbour",
-        "Okinawa"
-      ],
-      "question": {
-        "text": "In which WWII battle were four Japanese carriers destroyed?"
-      },
-      "tags": [
-        "battles",
-        "world_war_2",
-        "japan",
-        "usa",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500ae",
-      "correctAnswer": "A Spare",
+      "id": "622a1c367cc59eab6f95002a",
+      "correctAnswer": "He bit off an opponent's ear",
       "incorrectAnswers": [
-        "A Strike",
-        "A Near",
-        "A Close"
+        "He was found to be doping",
+        "He had cocaine detected during a drugs test",
+        "Match fixing"
       ],
       "question": {
-        "text": "In Bowling What Is The Term For Knocking Down All Ten Pins With 2 Consecutive Balls?"
+        "text": "Why was Mike Tyson fined $3 million by the boxing association in 1997?"
       },
       "tags": [
-        "games",
-        "words",
-        "sport"
+        "sport",
+        "boxing",
+        "events",
+        "1990's"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -563,86 +611,44 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eea",
-      "correctAnswer": "Charles Dickens",
+      "id": "64a0966bcf8fd58080cefff5",
+      "correctAnswer": "Charlie and the Chocolate Factory",
       "incorrectAnswers": [
-        "Oscar Wilde",
-        "Joseph Conrad",
-        "Henryk Sienkiewicz"
+        "The Sweet Factory",
+        "The Chocolatier's Gamble",
+        "The Candy Kingdom"
       ],
       "question": {
-        "text": "Which author wrote 'A Tale of Two Cities'?"
+        "text": "Which book contains the character Willy Wonka?"
       },
       "tags": [
-        "arts_and_literature"
+        "childrens_literature",
+        "literature",
+        "arts_and_literature",
+        "fictitious_characters"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f951033",
-      "correctAnswer": "Emperor",
+      "id": "622a1c3a7cc59eab6f951070",
+      "correctAnswer": "Amphibian",
       "incorrectAnswers": [
-        "King",
-        "Gentoo",
-        "Adelie"
+        "Reptile",
+        "Fish",
+        "Mollusc"
       ],
       "question": {
-        "text": "What Is The Largest Species Of Penguin?"
+        "text": "What is a Salamander ?"
       },
       "tags": [
         "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f92a",
-      "correctAnswer": "Fargo",
-      "incorrectAnswers": [
-        "Taxi Driver",
-        "Network",
-        "It's A Wonderful Life"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Marge Gunderson'?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "648889175dba6c873ef650e0",
-      "correctAnswer": "Sterilize them",
-      "incorrectAnswers": [
-        "Dispose of them",
-        "Repair them",
-        "Sharpen them"
-      ],
-      "question": {
-        "text": "What is an autoclave designed to do to surgical instruments in a medical lab?"
-      },
-      "tags": [
-        "medicine",
-        "technology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     }
