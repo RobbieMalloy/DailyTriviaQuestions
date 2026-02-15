@@ -1,24 +1,23 @@
 {
-  "gameDate": "2026-02-14",
+  "gameDate": "2026-02-15",
   "difficulty": "hard",
   "results": [
     {
-      "category": "general_knowledge",
-      "id": "6355b7f5e8b368eed3a6823b",
-      "correctAnswer": "nasal",
+      "category": "music",
+      "id": "645cb1627d263fd5097043c4",
+      "correctAnswer": "It's Now or Never",
       "incorrectAnswers": [
-        "fricative",
-        "affricative",
-        "plosive"
+        "Can't Help Falling in Love",
+        "Blue Suede Shoes",
+        "Jailhouse Rock"
       ],
       "question": {
-        "text": "In phonetics, the m in 'mother' is an example of what kind of sound?"
+        "text": "Which Elvis Presley hit song was based on the Italian melody 'O Sole Mio'?"
       },
       "tags": [
-        "language",
-        "linguistics",
-        "general_knowledge",
-        "science"
+        "music",
+        "elvis_presley",
+        "songs"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -27,18 +26,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f9517dc",
-      "correctAnswer": "David Cronenberg",
+      "id": "622a1c347cc59eab6f94facf",
+      "correctAnswer": "Colin Firth",
       "incorrectAnswers": [
-        "Baz Luhrmann",
-        "Alfred Hitchcock",
-        "Peter Jackson"
+        "Javier Bardem",
+        "Jeff Bridges",
+        "Jesse Eisenberg"
       ],
       "question": {
-        "text": "Which director's films included Shivers, Videodrome and The Fly?"
+        "text": "Who won the 2010 Academy Award for Best Leading Actor for playing the role of King George VI in The King's Speech?"
       },
       "tags": [
+        "acting",
         "film",
+        "academy_awards",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -47,61 +48,20 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c377cc59eab6f95040f",
-      "correctAnswer": "1805",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ed0",
+      "correctAnswer": "Nikolai Gogol",
       "incorrectAnswers": [
-        "1863",
-        "1911",
-        "1840"
+        "Virginia Woolf",
+        "Alexander Pushkin",
+        "Ayn Rand"
       ],
       "question": {
-        "text": "In Which Year Was The Battle Of Trafalgar Fought?"
+        "text": "Which author wrote 'The Government Inspector'?"
       },
       "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951b11",
-      "correctAnswer": "The Crimean War",
-      "incorrectAnswers": [
-        "World War II",
-        "The Vietnam War",
-        "The Hundred Years War"
-      ],
-      "question": {
-        "text": "In which war did Florence Nightingale earn her reputation?"
-      },
-      "tags": [
-        "people",
-        "wars",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c377cc59eab6f950415",
-      "correctAnswer": "Fourteenth",
-      "incorrectAnswers": [
-        "Twentieth",
-        "Tenth",
-        "Seventh"
-      ],
-      "question": {
-        "text": "In which century was The Black Death?"
-      },
-      "tags": [
-        "history"
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -110,18 +70,19 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f9504eb",
-      "correctAnswer": "The kidneys",
+      "id": "622a1c377cc59eab6f950580",
+      "correctAnswer": "Whales, dolphins and porpoises",
       "incorrectAnswers": [
-        "Heat",
-        "Death",
-        "Sacred texts"
+        "Grasses",
+        "Bones",
+        "Museum management"
       ],
       "question": {
-        "text": "What is Nephrology the study of?"
+        "text": "What is cetology the study of?"
       },
       "tags": [
-        "science"
+        "science",
+        "words"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -130,59 +91,15 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd16",
-      "correctAnswer": "Bertrand Russell",
+      "id": "622a1c357cc59eab6f94fd19",
+      "correctAnswer": "Aristotle",
       "incorrectAnswers": [
-        "Denis Diderot",
-        "Jean-Paul Sartre",
-        "Jean-Jacques Rousseau"
+        "Thomas Hobbes",
+        "Ludwig Wittgenstein",
+        "Bertrand Russell"
       ],
       "question": {
-        "text": "Which philosopher famously said 'I would never die for my beliefs because I might be wrong'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "people",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc7a",
-      "correctAnswer": "Gabelle",
-      "incorrectAnswers": [
-        "Ragamuffin",
-        "Frankenfood",
-        "Gubbins"
-      ],
-      "question": {
-        "text": "Which word is defined as 'a tax on salt'?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd22",
-      "correctAnswer": "Ludwig Wittgenstein",
-      "incorrectAnswers": [
-        "Socrates",
-        "Bertrand Russell",
-        "Epicurus"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'Philosophy is a battle against the bewitchment of our intelligence by means of language'?"
+        "text": "Which philosopher famously said 'He who is unable to live in society, or who has no need because he is sufficient for himself, must be either a beast or a god'?"
       },
       "tags": [
         "philosophy",
@@ -196,18 +113,17 @@
     },
     {
       "category": "geography",
-      "id": "62373f6bcb85f7ce9e949c97",
-      "correctAnswer": "Saint John's",
+      "id": "623b581afd6c701a9211839a",
+      "correctAnswer": "Iran",
       "incorrectAnswers": [
-        "Havana",
-        "Monaco",
-        "Moroni"
+        "Mexico",
+        "Chile",
+        "Israel"
       ],
       "question": {
-        "text": "What is the capital city of Antigua and Barbuda?"
+        "text": "In which country would you find the Lut Desert?"
       },
       "tags": [
-        "capital_cities",
         "geography"
       ],
       "type": "text_choice",
@@ -216,40 +132,22 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f888",
-      "correctAnswer": "Tennis",
+      "category": "music",
+      "id": "64074765658741a165677ea1",
+      "correctAnswer": "It Won't Be Soon Before Long",
       "incorrectAnswers": [
-        "Motor Racing",
-        "Swimming",
-        "Table tennis"
+        "Songs About Jane",
+        "Hands All Over",
+        "Overexposed"
       ],
       "question": {
-        "text": "With which sport is Monica Seles associated?"
+        "text": "Which was Maroon's 5 second studio album?"
       },
       "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950fee",
-      "correctAnswer": "Coypu",
-      "incorrectAnswers": [
-        "Beaver",
-        "Rat",
-        "Capybara"
-      ],
-      "question": {
-        "text": "Which Large Rodent Is Also Known As Nutria?"
-      },
-      "tags": [
-        "science"
+        "maroon_5",
+        "music",
+        "pop_music",
+        "music_albums"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -258,17 +156,20 @@
     },
     {
       "category": "food_and_drink",
-      "id": "624c608a50d1a5e051325a62",
-      "correctAnswer": "Khachapuri",
+      "id": "647f9d043a4302a71927153a",
+      "correctAnswer": "Corned beef",
       "incorrectAnswers": [
-        "Ropa Vieja",
-        "Nasi Lemak",
-        "Moussaka"
+        "Pastrami",
+        "Ham",
+        "Roast beef"
       ],
       "question": {
-        "text": "Which of these dishes would you most expect to find in Georgia?"
+        "text": "What type of deli meat is traditionally used in a New England boiled dinner?"
       },
       "tags": [
+        "cooking",
+        "cuisine",
+        "meat",
         "food",
         "food_and_drink"
       ],
@@ -278,21 +179,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3d7cc59eab6f951c23",
-      "correctAnswer": "Epilepsy",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c8c",
+      "correctAnswer": "Metallica",
       "incorrectAnswers": [
-        "Hemophilia",
-        "Asthma",
-        "Narcolepsy"
+        "Alice Cooper",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
       ],
       "question": {
-        "text": "From what did Alexander the Great suffer?"
+        "text": "Which American heavy metal band released the studio album 'St. Anger'?"
       },
       "tags": [
-        "people",
-        "medicine",
-        "history"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -301,22 +200,17 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "62417cc88c3137686862d73a",
-      "correctAnswer": "Baltimore Ravens",
+      "id": "62417d8c0f96c4efe8d773d2",
+      "correctAnswer": "Pittsburgh Pirates",
       "incorrectAnswers": [
-        "Baltimore Blues",
-        "Baltimore Crew",
-        "Baltimore Wizards"
+        "Pittsburgh Pistons",
+        "Pittsburgh Braves",
+        "Pittsburgh Astros"
       ],
       "question": {
-        "text": "Which of these is an American Football team based in Baltimore?"
+        "text": "Which of these is a baseball team based in Pittsburgh?"
       },
       "tags": [
-        "football",
-        "american_football",
-        "baltimore",
-        "nfl",
-        "usa",
         "sport"
       ],
       "type": "text_choice",
@@ -325,19 +219,42 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6242cb87d543524f1b19c937",
-      "correctAnswer": "A bevy",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e42",
+      "correctAnswer": "Percy Bysshe Shelley",
       "incorrectAnswers": [
-        "A sedge",
-        "A gang",
-        "A pack"
+        "H. Rider Haggard",
+        "Charles Darwin",
+        "Agatha Christie"
       ],
       "question": {
-        "text": "What is the word for a group of quails?"
+        "text": "Which author wrote 'Ozymandias'?"
       },
       "tags": [
-        "science"
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "62500672ea7a97fd2e356d2b",
+      "correctAnswer": "Fine hair",
+      "incorrectAnswers": [
+        "Twins",
+        "Small thimbles",
+        "Bibs"
+      ],
+      "question": {
+        "text": "The pasta capellini has what meaning in Italian?"
+      },
+      "tags": [
+        "food",
+        "words",
+        "language",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -346,15 +263,105 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c54",
-      "correctAnswer": "Iron Maiden",
+      "id": "6396eb4b6017b1e8e09020cc",
+      "correctAnswer": "The Shaggs",
       "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Squeeze"
+        "Guns N Roses",
+        "Nirvana",
+        "The Kingsmen"
       ],
       "question": {
-        "text": "Which English heavy metal band released the song 'Sanctuary'?"
+        "text": "Which American rock band has hits including ‘My Pal Foot Foot’ and ‘Gimmie Dat Ding’"
+      },
+      "tags": [
+        "music",
+        "\nrock",
+        "songs"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502c5",
+      "correctAnswer": "A type of apple ",
+      "incorrectAnswers": [
+        "A type of pear",
+        "A type of peach",
+        "A type of apricot"
+      ],
+      "question": {
+        "text": "What is a 'Blenheim Orange'?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink",
+        "fruit"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "645a6490158db1bd1779f19a",
+      "correctAnswer": "Chuck Berry",
+      "incorrectAnswers": [
+        "Elvis Presley",
+        "Buddy Holly",
+        "Little Richard"
+      ],
+      "question": {
+        "text": "Who was the very first performer to be inducted into the Rock & Roll Hall of Fame in 1986?"
+      },
+      "tags": [
+        "rock",
+        "history",
+        "performers",
+        "music",
+        "people",
+        "rock_and_roll"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950df1",
+      "correctAnswer": "Antoine de Saint-Exupéry",
+      "incorrectAnswers": [
+        "Alphonse Daudet",
+        "François-René de Chateaubriand",
+        "Victor Hugo"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Little Prince'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c79",
+      "correctAnswer": "U2",
+      "incorrectAnswers": [
+        "Public Image Ltd.",
+        "The Script",
+        "The Cure"
+      ],
+      "question": {
+        "text": "Which Irish rock band released the studio album 'Achtung Baby'?"
       },
       "tags": [
         "music"
@@ -366,128 +373,18 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f5c",
-      "correctAnswer": "Isaac Asimov",
+      "id": "622a1c397cc59eab6f950e8a",
+      "correctAnswer": "Neil Gaiman",
       "incorrectAnswers": [
-        "Ursula K. Le Guin",
-        "Philip K. Dick",
-        "Stephen King"
+        "Stephen King",
+        "H. P. Lovecraft",
+        "Douglas Adams"
       ],
       "question": {
-        "text": "Which author wrote 'Pebble in the Sky'?"
+        "text": "Which author wrote 'American Gods'?"
       },
       "tags": [
         "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "647f9d363a4302a719271573",
-      "correctAnswer": "Lobster",
-      "incorrectAnswers": [
-        "Egg",
-        "Ham",
-        "Tomato"
-      ],
-      "question": {
-        "text": "What type of food can be prepared 'Newberg style'?"
-      },
-      "tags": [
-        "recipes",
-        "cooking",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f962",
-      "correctAnswer": "The Member of the Wedding",
-      "incorrectAnswers": [
-        "Howards End",
-        "Wise Blood",
-        "All the King's Men"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Frankie Addams'?"
-      },
-      "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f9517b6",
-      "correctAnswer": "Ambrosia",
-      "incorrectAnswers": [
-        "Manna",
-        "Amrita",
-        "Soma"
-      ],
-      "question": {
-        "text": "In Ancient Greek mythology, which food of the gods was said to give humans immortality?"
-      },
-      "tags": [
-        "mythology",
-        "ancient_greece",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611ffd4b176d54800e3d7f",
-      "correctAnswer": "1985",
-      "incorrectAnswers": [
-        "1979",
-        "1991",
-        "1997"
-      ],
-      "question": {
-        "text": "When was the Live Aid concert?"
-      },
-      "tags": [
-        "events",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fccd",
-      "correctAnswer": "Indo-European",
-      "incorrectAnswers": [
-        "Uralic",
-        "Afroasiatic",
-        "Niger–Congo"
-      ],
-      "question": {
-        "text": "The language 'Maithili' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -496,20 +393,174 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500c8",
-      "correctAnswer": "Five",
+      "id": "62417cd00f96c4efe8d77388",
+      "correctAnswer": "Boston Bruins",
       "incorrectAnswers": [
-        "Twelve",
-        "Two",
-        "Nine"
+        "Boston United",
+        "Boston Whitecaps",
+        "Boston Bucks"
       ],
       "question": {
-        "text": "How Many Consecutive Wimbledon Titles Did Bjorn Borg Win?"
+        "text": "Which of these is a hockey team based in Boston?"
       },
       "tags": [
-        "sport",
-        "tennis",
-        "people"
+        "hockey",
+        "boston",
+        "nhl",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6250070f0d86c8f685d80f11",
+      "correctAnswer": "to cut",
+      "incorrectAnswers": [
+        "Little bells",
+        "Pens",
+        "Little worms"
+      ],
+      "question": {
+        "text": "The pasta tagliatelle has what meaning in Italian?"
+      },
+      "tags": [
+        "food",
+        "words",
+        "language",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c397cc59eab6f950fae",
+      "correctAnswer": "Louis Daguerre",
+      "incorrectAnswers": [
+        "John Logie Baird",
+        "Thomas Edison",
+        "Emile Berliner"
+      ],
+      "question": {
+        "text": "Who Took The First Practical Photograph?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f9500dc",
+      "correctAnswer": "Super Mario Bros.",
+      "incorrectAnswers": [
+        "Zelda",
+        "Call of Duty",
+        "Halo"
+      ],
+      "question": {
+        "text": "If you're killing a goomba, what game are you playing?"
+      },
+      "tags": [
+        "video_games",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "639c9dae929b90846f2fc98f",
+      "correctAnswer": "Shiva",
+      "incorrectAnswers": [
+        "Vishnu",
+        "Brihaspati",
+        "Krishna"
+      ],
+      "question": {
+        "text": "What is the name of the Hindu god of destruction?"
+      },
+      "tags": [
+        "hinduism",
+        "religion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc4f",
+      "correctAnswer": "Yarborough",
+      "incorrectAnswers": [
+        "Octothorpe",
+        "Grommet",
+        "Pauciloquent"
+      ],
+      "question": {
+        "text": "Which word is defined as 'hand of cards containing no card above a nine'?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624334ebcfaae40c12961474",
+      "correctAnswer": "A Soar",
+      "incorrectAnswers": [
+        "A Pen",
+        "A Sow",
+        "A Lioness"
+      ],
+      "question": {
+        "text": "What is a female panda known as?"
+      },
+      "tags": [
+        "names",
+        "animals",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "63a039c3c7d86251f9b65cb0",
+      "correctAnswer": "Black Thursday",
+      "incorrectAnswers": [
+        "Dark Wednesday",
+        "Blue Monday",
+        "Grizzly Friday"
+      ],
+      "question": {
+        "text": "What was the name of the stock market crash that began the Great Depression in 1929?"
+      },
+      "tags": [
+        "history",
+        "usa",
+        "1920's",
+        "economics",
+        "events"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -537,38 +588,16 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9503fc",
-      "correctAnswer": "Elliot Ness",
-      "incorrectAnswers": [
-        "Chris Robson",
-        "Dave Bradzinski",
-        "Arthur Montgomery"
-      ],
-      "question": {
-        "text": "Which F.B.I agent headed the investigation of Al Capone? "
-      },
-      "tags": [
-        "people",
-        "crime",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa15",
-      "correctAnswer": "Diego Rivera",
+      "id": "622a1c347cc59eab6f94fa3f",
+      "correctAnswer": "Neoclassicism",
       "incorrectAnswers": [
-        "‎Salvador Dalí",
-        "Paul Cézanne",
-        "Vincent van Gogh"
+        "Dutch Golden Age",
+        "Crystal Cubism",
+        "Primitivism"
       ],
       "question": {
-        "text": "Which artist painted \"The Flower Carrier\""
+        "text": "The painting \"Napoleon crossing the Alps\" by Jacques-Louis David is a part of which art movement?"
       },
       "tags": [
         "painting",
@@ -582,20 +611,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94faff",
-      "correctAnswer": "Kate Winslet",
+      "id": "622a1c357cc59eab6f94fdc0",
+      "correctAnswer": "Dances With Wolves",
       "incorrectAnswers": [
-        "Anne Hathaway",
-        "Angelina Jolie",
-        "Melissa Leo"
+        "Total Recall",
+        "Edward Scissorhands",
+        "Pretty Woman"
       ],
       "question": {
-        "text": "Who won the 2008 Academy Award for Best Leading Actress for playing the role of Hanna Schmitz in The Reader?"
+        "text": "Name The 1990 Movie Which Won John Barry An Oscar For Best Film Score"
       },
       "tags": [
-        "acting",
+        "film",
         "academy_awards",
-        "film",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -604,41 +632,19 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8ce",
-      "correctAnswer": "Robert Shaw",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950228",
+      "correctAnswer": "Melba Toast ",
       "incorrectAnswers": [
-        "James Cagney",
-        "Orson Welles",
-        "Dennis Hopper"
+        "Sourdough",
+        "Tiger Bread",
+        "Rye Bread"
       ],
       "question": {
-        "text": "Which actor played the role of Captain Quint in Jaws?"
+        "text": "Which Type Of Prepared Bread Is Named After An Opera Singer?"
       },
       "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95011a",
-      "correctAnswer": "Jesus wept.",
-      "incorrectAnswers": [
-        "God Spoke.",
-        "No More.",
-        "Hallelujah!"
-      ],
-      "question": {
-        "text": "What is the shortest verse in the bible? (John 11:35)"
-      },
-      "tags": [
-        "society_and_culture"
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
