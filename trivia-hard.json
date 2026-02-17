@@ -1,23 +1,62 @@
 {
-  "gameDate": "2026-02-16",
+  "gameDate": "2026-02-17",
   "difficulty": "hard",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "627164b51ba117625baac970",
-      "correctAnswer": "Riga Black Balsam",
+      "category": "geography",
+      "id": "6233863262eaad73716a8cbc",
+      "correctAnswer": "Paris ",
       "incorrectAnswers": [
-        "Unicum",
-        "Sangria",
-        "Chapalo"
+        "Madrid",
+        "Rome",
+        "Brussels"
       ],
       "question": {
-        "text": "Which of these drinks would you associate with Latvia?"
+        "text": "Where is Le Figaro published?"
       },
       "tags": [
-        "drink",
-        "alcohol",
-        "food_and_drink"
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc7e",
+      "correctAnswer": "Gardyloo",
+      "incorrectAnswers": [
+        "Halfpace",
+        "Oxter",
+        "Nudiustertian"
+      ],
+      "question": {
+        "text": "Which word is defined as 'used in Edinburgh as a warning cry when it was customary to throw slops from the windows into the streets'?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "623387560161109f922aac1a",
+      "correctAnswer": "Korea",
+      "incorrectAnswers": [
+        "Japan",
+        "China",
+        "Russia"
+      ],
+      "question": {
+        "text": "Which country developed Tae-Kwan-Do?"
+      },
+      "tags": [
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -26,19 +65,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6266e668ff2394bd44dee048",
-      "correctAnswer": "Vijf",
+      "id": "64730798cf09068746f6377d",
+      "correctAnswer": "Easter Island",
       "incorrectAnswers": [
-        "Cinque",
-        "Fünf",
-        "Groen"
+        "Hawaii",
+        "Madagascar",
+        "Cuba"
       ],
       "question": {
-        "text": "What is the Dutch word for 'five'?"
+        "text": "The Rongorongo,  writing system is found on which remote island?"
       },
       "tags": [
-        "language",
-        "translations",
+        "linguistics",
+        "languages",
+        "islands",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -47,22 +87,146 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "62611f89014f58b5fc1a3fcf",
-      "correctAnswer": "1956",
+      "category": "science",
+      "id": "62433534cfaae40c12961490",
+      "correctAnswer": "A Cow",
       "incorrectAnswers": [
-        "1932",
-        "1940",
-        "1921"
+        "A Pen",
+        "A Sow",
+        "A Hen"
       ],
       "question": {
-        "text": "When was the first chemotherapy treatment?"
+        "text": "A female sea lion is known as what?"
       },
       "tags": [
-        "events",
-        "firsts",
-        "medicine",
-        "history"
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "645c9fc442ea81e2554c5f80",
+      "correctAnswer": "White Fang",
+      "incorrectAnswers": [
+        "Cujo",
+        "Where the Red Fern Grows",
+        "Balto"
+      ],
+      "question": {
+        "text": "What is the follow-up tale to \"The Call of the Wild\" by Jack London?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature",
+        "authors"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510dd",
+      "correctAnswer": "Bite",
+      "incorrectAnswers": [
+        "Urinate",
+        "Bark",
+        "Mate"
+      ],
+      "question": {
+        "text": "A skunk will not __________ and throw its scent at the same time."
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c13",
+      "correctAnswer": "Dream Theater",
+      "incorrectAnswers": [
+        "Jars of Clay",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which American progressive metal band released the album 'Black Clouds & Silver Linings'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510a8",
+      "correctAnswer": "Rattlesnake",
+      "incorrectAnswers": [
+        "Coyote",
+        "Goose",
+        "Pig"
+      ],
+      "question": {
+        "text": "The \"canebrake\", \"timber\" and \"pygmy\" are types of what\""
+      },
+      "tags": [
+        "names",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64a9cc039bf4085beaa1b04a",
+      "correctAnswer": "Arcade Fire",
+      "incorrectAnswers": [
+        "Coldplay",
+        "Radiohead",
+        "The Killers"
+      ],
+      "question": {
+        "text": "In 2007, which Montreal group released the album 'Neon Bible'?"
+      },
+      "tags": [
+        "bands",
+        "music",
+        "music_albums"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd66",
+      "correctAnswer": "Tina Turner",
+      "incorrectAnswers": [
+        "Britney Spears",
+        "Lady Gaga",
+        "Toni Braxton"
+      ],
+      "question": {
+        "text": "Whose real name is Annie Mae Bullock?"
+      },
+      "tags": [
+        "pseudonyms",
+        "people",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -71,18 +235,60 @@
     },
     {
       "category": "geography",
-      "id": "623b57f7fd6c701a9211838d",
-      "correctAnswer": "New Zealand",
+      "id": "622a1c387cc59eab6f950a38",
+      "correctAnswer": "Zimbabwe",
       "incorrectAnswers": [
-        "Cambodia",
-        "Italy",
-        "Tanzania"
+        "Zambia",
+        "Angola",
+        "Malawi"
       ],
       "question": {
-        "text": "In which country would you find the Tongariro National Park?"
+        "text": "Which of these countries borders South Africa?"
       },
       "tags": [
-        "geography"
+        "africa"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "65056fa37a97013de78b548e",
+      "correctAnswer": "Contained",
+      "incorrectAnswers": [
+        "Carried",
+        "Coastal",
+        "Careful"
+      ],
+      "question": {
+        "text": "For what does the \"C\" in \"SCUBA diving\" stand?"
+      },
+      "tags": [
+        "sport_and_leisure",
+        "acronyms",
+        "initials"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951020",
+      "correctAnswer": "Low Blood Pressure",
+      "incorrectAnswers": [
+        "Tight Muscles",
+        "Torn Ligaments",
+        "Weak Tendons"
+      ],
+      "question": {
+        "text": "What Would You Suffer From With Hypotension?"
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -110,21 +316,20 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcf9",
-      "correctAnswer": "John Locke",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e7f",
+      "correctAnswer": "Johannes V. Jensen",
       "incorrectAnswers": [
-        "Ludwig Wittgenstein",
-        "Socrates",
-        "Voltaire"
+        "Hans Christian Andersen",
+        "Søren Kierkegaard",
+        "Agatha Christie"
       ],
       "question": {
-        "text": "Which philosopher famously said 'Good and evil, reward and punishment, are the only motives to a rational creature'?"
+        "text": "Which author wrote 'Digte'?"
       },
       "tags": [
-        "philosophy",
-        "quotes",
-        "society_and_culture"
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -133,15 +338,15 @@
     },
     {
       "category": "geography",
-      "id": "623388a20161109f922aac9c",
-      "correctAnswer": "Réunion",
+      "id": "62374042cb85f7ce9e949cec",
+      "correctAnswer": "Santo Domingo",
       "incorrectAnswers": [
-        "The Seychelles",
-        "The Bahamas",
-        "The Maldives"
+        "Monaco",
+        "Lisbon",
+        "Moroni"
       ],
       "question": {
-        "text": "Which island country lies immediately to the West of Mauritius?"
+        "text": "What is the capital city of Dominican Republic?"
       },
       "tags": [
         "geography"
@@ -152,55 +357,16 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3a7cc59eab6f9510fd",
-      "correctAnswer": "1970",
-      "incorrectAnswers": [
-        "1980",
-        "1990",
-        "1960"
-      ],
-      "question": {
-        "text": "In Which Year Was The Boeing 747 Put Into Regular Service?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6271646a1ba117625baac95e",
-      "correctAnswer": "Puerto Rico",
-      "incorrectAnswers": [
-        "Portugal",
-        "Peru",
-        "Latvia"
-      ],
-      "question": {
-        "text": "In which country is pitorro a popular drink?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e95",
-      "correctAnswer": "Robert E. Howard",
+      "id": "622a1c397cc59eab6f950ed8",
+      "correctAnswer": "H. G. Wells",
       "incorrectAnswers": [
-        "Nathaniel Hawthorne",
-        "Henryk Sienkiewicz",
-        "Ivan Turgenev"
+        "Neil Gaiman",
+        "Arthur C. Clarke",
+        "C. S. Lewis"
       ],
       "question": {
-        "text": "Which author wrote 'Conan canonical works'?"
+        "text": "Which author wrote 'The Island of Doctor Moreau'?"
       },
       "tags": [
         "arts_and_literature"
@@ -211,21 +377,147 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "63a0394bc7d86251f9b65c37",
-      "correctAnswer": "13.8 billion years",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95029d",
+      "correctAnswer": "Aguardente ",
       "incorrectAnswers": [
-        "13.8 quadrillion years",
-        "13.8 million years",
-        "13.8 thousand years"
+        "Grappa",
+        "Schnapps",
+        "Marc"
       ],
       "question": {
-        "text": "What is the approximate age of the universe?"
+        "text": "What spirit is used in fortifying red wine to create port?"
       },
       "tags": [
-        "astrophysics",
-        "science",
-        "space"
+        "drink",
+        "wine",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c377cc59eab6f950411",
+      "correctAnswer": "Idlewild",
+      "incorrectAnswers": [
+        "Smoker",
+        "Appleton",
+        "Easydown"
+      ],
+      "question": {
+        "text": "John F. Kennedy Airport in New York used to be called __________."
+      },
+      "tags": [
+        "new_york",
+        "names",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f75",
+      "correctAnswer": "Stephen King",
+      "incorrectAnswers": [
+        "H. P. Lovecraft",
+        "Edgar Allan Poe",
+        "Jack Vance"
+      ],
+      "question": {
+        "text": "Which author wrote 'Skeleton Crew'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374077cb85f7ce9e949d01",
+      "correctAnswer": "Gambia",
+      "incorrectAnswers": [
+        "Palau",
+        "South Korea",
+        "Oman"
+      ],
+      "question": {
+        "text": "Banjul is the capital city of which country?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95136c",
+      "correctAnswer": "Art Nouveau",
+      "incorrectAnswers": [
+        "Pop Art",
+        "Fauvism",
+        "Impressionism"
+      ],
+      "question": {
+        "text": "Which decorative art movement emerged in the late nineteenth century and was characterized by dense assymmetrical ornamentation in sinuous forms?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "art"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611faf014f58b5fc1a3fd0",
+      "correctAnswer": "1978",
+      "incorrectAnswers": [
+        "1972",
+        "1984",
+        "1990"
+      ],
+      "question": {
+        "text": "In which year was the first “test tube baby” conceived using IVF?"
+      },
+      "tags": [
+        "events",
+        "firsts",
+        "medicine",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95037d",
+      "correctAnswer": "Lou Reed",
+      "incorrectAnswers": [
+        "David Bowie",
+        "Neil Young",
+        "Chic"
+      ],
+      "question": {
+        "text": "Who Released The 70's Album Entitled 'Transformer'?"
+      },
+      "tags": [
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -234,17 +526,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9505d2",
-      "correctAnswer": "Sally Hawkins",
+      "id": "622a1c347cc59eab6f94faff",
+      "correctAnswer": "Kate Winslet",
       "incorrectAnswers": [
-        "Lucy Lawless",
-        "Abigail Breslin",
-        "Kim Basinger"
+        "Anne Hathaway",
+        "Angelina Jolie",
+        "Melissa Leo"
       ],
       "question": {
-        "text": "Which actress has starred in both The Shape of Water and Vera Drake?"
+        "text": "Who won the 2008 Academy Award for Best Leading Actress for playing the role of Hanna Schmitz in The Reader?"
       },
       "tags": [
+        "acting",
+        "academy_awards",
+        "film",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -254,19 +549,18 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fdac",
-      "correctAnswer": "Robert Bell",
+      "id": "622a1c397cc59eab6f950c70",
+      "correctAnswer": "U2",
       "incorrectAnswers": [
-        "Mark DuPont",
-        "Lawrence Jones",
-        "Gary Helman"
+        "Public Image Ltd.",
+        "The Script",
+        "The Cure"
       ],
       "question": {
-        "text": "What was the real name of Kool, of Kool and the Gang fame?"
+        "text": "Which Irish rock band released the song 'All I Want Is You'?"
       },
       "tags": [
-        "people",
-        "pseudonyms",
+        "rock_music",
         "music"
       ],
       "type": "text_choice",
@@ -275,36 +569,16 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510ab",
-      "correctAnswer": "Eyes",
-      "incorrectAnswers": [
-        "Lips",
-        "Heart",
-        "Brain"
-      ],
-      "question": {
-        "text": "On what part of the body is an 'LTK procedure' performed?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "sport_and_leisure",
-      "id": "62417d2d0f96c4efe8d773ac",
-      "correctAnswer": "Jacksonville Jaguars",
+      "id": "6384b45e83dddfb71ee5e376",
+      "correctAnswer": "The Six Nations",
       "incorrectAnswers": [
-        "Jacksonville Wizards",
-        "Jacksonville Seahawks",
-        "Jacksonville Nuggets"
+        "The Open Championship",
+        "The FINA World Championships",
+        "The Hopman Cup"
       ],
       "question": {
-        "text": "Which of these is an American Football team based in Jacksonville?"
+        "text": "Which of these is a Rugby competition?"
       },
       "tags": [
         "sport"
@@ -316,19 +590,19 @@
     },
     {
       "category": "society_and_culture",
-      "id": "639c9dbc929b90846f2fc9ac",
-      "correctAnswer": "The Ramayana",
+      "id": "648614a2f773f09dc0193b34",
+      "correctAnswer": "A French cuff",
       "incorrectAnswers": [
-        "The Upanishads",
-        "The Bhagavad Gita",
-        "The Puranas"
+        "A button cuff",
+        "A barrel cuff",
+        "A saville cuff"
       ],
       "question": {
-        "text": "What is the name of the Hindu scripture that contains the story of Sita?"
+        "text": "What is a wide cuff that is folded back and fastened with a cuff link called?"
       },
       "tags": [
-        "hinduism",
-        "religion",
+        "clothing",
+        "fashion",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -337,295 +611,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "6237359ccfe13103f55eb54c",
-      "correctAnswer": "Nigeria",
+      "category": "sport_and_leisure",
+      "id": "6242e84a8c2538f9601d2f9b",
+      "correctAnswer": "The Robins",
       "incorrectAnswers": [
-        "Hong Kong",
-        "Niger",
-        "Nicaragua"
+        "The Red Devils",
+        "The Whites",
+        "The Hatters"
       ],
       "question": {
-        "text": "Which region of the world uses '.ng' at the end of its web addresses?"
+        "text": "What is the nickname of the English football team Bristol City?"
       },
       "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94feff",
-      "correctAnswer": "Madonna",
-      "incorrectAnswers": [
-        "Eric Clapton",
-        "Nicki Minaj",
-        "Alanis Morissette"
-      ],
-      "question": {
-        "text": "Which American singer and songwriter released the song 'Hung Up'?"
-      },
-      "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502e5",
-      "correctAnswer": "Apricot ",
-      "incorrectAnswers": [
-        "Raspberry",
-        "Orange",
-        "Banana"
-      ],
-      "question": {
-        "text": "Laetrile is associated with the which fruit?"
-      },
-      "tags": [
-        "food",
-        "chemistry",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3f7cc59eab6f952354",
-      "correctAnswer": "Vitamin C",
-      "incorrectAnswers": [
-        "Vitamin D",
-        "Vitamin A",
-        "Vitamin B"
-      ],
-      "question": {
-        "text": "Ascorbic acid is commonly referred to as which vitamin?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "6470d79b423445f16131b4d0",
-      "correctAnswer": "Henry VIII",
-      "incorrectAnswers": [
-        "Edward VI",
-        "Mary I",
-        "Elizabeth I"
-      ],
-      "question": {
-        "text": "Which king of England, who died in 1547, was survived by his wife Catherine?"
-      },
-      "tags": [
-        "monarchs",
-        "uk",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd722dc0dd3b72da64d25",
-      "correctAnswer": "1996",
-      "incorrectAnswers": [
-        "1992",
-        "2000",
-        "2004"
-      ],
-      "question": {
-        "text": "In which year was Trainspotting released?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951315",
-      "correctAnswer": "Australia",
-      "incorrectAnswers": [
-        "Russia",
-        "Brazil",
-        "Canada"
-      ],
-      "question": {
-        "text": "In one of Donald Horne's novels, which was \"the lucky country\"?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "literature",
-        "countries"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950717",
-      "correctAnswer": "Helen Mirren",
-      "incorrectAnswers": [
-        "Kathy Bates",
-        "Kirsten Dunst",
-        "Sandra Bæ Hovedr"
-      ],
-      "question": {
-        "text": "Which actress has played roles in films including The Queen and National Treasure: Book of Secrets?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950be6",
-      "correctAnswer": "Nightwish",
-      "incorrectAnswers": [
-        "Haloo Helsinki!",
-        "Hanoi Rocks",
-        "Children of Bodom"
-      ],
-      "question": {
-        "text": "Which Finnish symphonic metal band released the album 'Oceanborn'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa62",
-      "correctAnswer": "Jared Leto",
-      "incorrectAnswers": [
-        "Barkhad Abdi",
-        "Bradley Cooper",
-        "Michael Fassbender"
-      ],
-      "question": {
-        "text": "Who won the 2013 Academy Award for Best Supporting Actor for playing the role of Rayon in Dallas Buyers Club?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "academy_awards",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "625006670d86c8f685d80ee7",
-      "correctAnswer": "Shaped pasta",
-      "incorrectAnswers": [
-        "Strand pasta",
-        "Tubular pasta",
-        "Ribbon pasta"
-      ],
-      "question": {
-        "text": "What type of pasta is campanelle?"
-      },
-      "tags": [
-        "food",
-        "italy",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95022e",
-      "correctAnswer": "Truffle",
-      "incorrectAnswers": [
-        "Potato",
-        "Sweet Potato",
-        "Pumpkin"
-      ],
-      "question": {
-        "text": "Which tuber is sometimes called the 'Black Diamond'?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d04",
-      "correctAnswer": "The Beatles",
-      "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Uriah Heep"
-      ],
-      "question": {
-        "text": "Which English rock band released the song 'A Day in the Life'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ea4",
-      "correctAnswer": "Neil Gaiman",
-      "incorrectAnswers": [
-        "Stephen King",
-        "H. P. Lovecraft",
-        "Douglas Adams"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Sandman'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
