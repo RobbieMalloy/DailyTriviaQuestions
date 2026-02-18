@@ -1,22 +1,67 @@
 {
-  "gameDate": "2026-02-17",
+  "gameDate": "2026-02-18",
   "difficulty": "medium",
   "results": [
     {
       "category": "society_and_culture",
-      "id": "62ab332b5202de619af28143",
-      "correctAnswer": "CR-V",
+      "id": "6496ac48e831b1ab5aa1114e",
+      "correctAnswer": "Stockholm",
       "incorrectAnswers": [
-        "Impala",
-        "Polo",
-        "Phantom"
+        "Madrid",
+        "Moscow",
+        "Athens"
       ],
       "question": {
-        "text": "Which of these is a model of car made by Honda?"
+        "text": "What is the name of the city that is home to both the Nobel Museum and ABBA The Museum?"
       },
       "tags": [
-        "motoring",
-        "business",
+        "museums",
+        "tourism",
+        "tourist_attractions",
+        "cities",
+        "society_and_culture",
+        "abba"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242cb37d543524f1b19c918",
+      "correctAnswer": "A brood",
+      "incorrectAnswers": [
+        "A stud",
+        "A paddling",
+        "A pack"
+      ],
+      "question": {
+        "text": "What is the word for a group of grouse?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63b0586b4799123c67712f24",
+      "correctAnswer": "Peso",
+      "incorrectAnswers": [
+        "Euro",
+        "Dollar",
+        "Rand"
+      ],
+      "question": {
+        "text": "What is the Mexican currency called?"
+      },
+      "tags": [
+        "mexico",
+        "currency",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -25,20 +70,22 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "625e9f41796f721e95543f8f",
-      "correctAnswer": "Morocco",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fade",
+      "correctAnswer": "Michael Douglas",
       "incorrectAnswers": [
-        "Iraq",
-        "Kazakhstan",
-        "Czechia"
+        "William Hurt",
+        "Marcello Mastroianni",
+        "Jack Nicholson"
       ],
       "question": {
-        "text": "Which country's flag can be described as 'Red with a green five-pointed star in the center.'?"
+        "text": "Who won the 1987 Academy Award for Best Leading Actor for playing the role of Gordon Gekko in Wall Street?"
       },
       "tags": [
-        "flags",
-        "geography"
+        "academy_awards",
+        "acting",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -46,424 +93,22 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f95101b",
-      "correctAnswer": "Ear",
+      "category": "society_and_culture",
+      "id": "646140784d46e537ca8cd9ca",
+      "correctAnswer": "Inauguration",
       "incorrectAnswers": [
-        "Nose",
-        "Hand",
-        "Foot"
+        "Coronation",
+        "Installation",
+        "Ordination"
       ],
       "question": {
-        "text": "Where in the body is the smallest human muscle?"
+        "text": "Which word refers to the ceremony in which a new President of the United States is formally introduced?"
       },
       "tags": [
-        "anatomy",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570367a97013de78b5559",
-      "correctAnswer": "Voyager 2",
-      "incorrectAnswers": [
-        "Mariner 2",
-        "Phobos 2",
-        "Huygens"
-      ],
-      "question": {
-        "text": "Which space probe was the first to visit both Uranus and Neptune and to take detailed images of those planets?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500c4",
-      "correctAnswer": "24",
-      "incorrectAnswers": [
-        "16",
-        "20",
-        "12"
-      ],
-      "question": {
-        "text": "How Many Draughts Are On The Board At The Start Of A Game?"
-      },
-      "tags": [
-        "games"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95056b",
-      "correctAnswer": "How to encode and decode secret messages",
-      "incorrectAnswers": [
-        "Animal diseases",
-        "Sacred texts",
-        "Burial grounds"
-      ],
-      "question": {
-        "text": "What is cryptology the study of?"
-      },
-      "tags": [
-        "science",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9c5",
-      "correctAnswer": "George W. Bush",
-      "incorrectAnswers": [
-        "Gerald Ford",
-        "Thomas Jefferson ",
-        "Franklin D. Roosevelt"
-      ],
-      "question": {
-        "text": "Who was the 43rd president of the USA, in term during the period 2001–2009?"
-      },
-      "tags": [
-        "usa",
+        "politics",
         "presidents",
-        "leaders",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6463398e01d576cfac3aa38a",
-      "correctAnswer": "Pepper",
-      "incorrectAnswers": [
-        "Chilli Powder",
-        "Cumin",
-        "Paprika"
-      ],
-      "question": {
-        "text": "What spice is used to cover steak in steak au poivre?"
-      },
-      "tags": [
-        "cooking",
-        "spices",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6239f82ea72e7a347ac879d4",
-      "correctAnswer": "Romeo",
-      "incorrectAnswers": [
-        "Rwanda",
-        "Roar",
-        "Rowboat"
-      ],
-      "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter R?"
-      },
-      "tags": [
-        "language",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "645cb1257d263fd5097043a3",
-      "correctAnswer": "Woodstock",
-      "incorrectAnswers": [
-        "Lollapalooza",
-        "Bonnaroo",
-        "Coachella"
-      ],
-      "question": {
-        "text": "Which 1969 festival was held at Max Yasgur's farm?"
-      },
-      "tags": [
-        "music",
-        "festivals",
-        "1960's"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f9508cc",
-      "correctAnswer": "Indonesia",
-      "incorrectAnswers": [
-        "Solomon Islands",
-        "Federated States of Micronesia",
-        "Palau"
-      ],
-      "question": {
-        "text": "Which of these countries borders Papua New Guinea?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639ae2da929b90846f2fc8bc",
-      "correctAnswer": "Chainmail",
-      "incorrectAnswers": [
-        "Helmets",
-        "Shields",
-        "Leather jerkins"
-      ],
-      "question": {
-        "text": "Which of these is not a type of Viking armor?"
-      },
-      "tags": [
-        "history",
-        "vikings"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417db60f96c4efe8d773e2",
-      "correctAnswer": "Seattle Kraken",
-      "incorrectAnswers": [
-        "Seattle Indians",
-        "Seattle Sharks",
-        "Seattle Wizards"
-      ],
-      "question": {
-        "text": "Which of these is a hockey team based in Seattle?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "63a03997c7d86251f9b65c89",
-      "correctAnswer": "Sorry!",
-      "incorrectAnswers": [
-        "Monopoly",
-        "Chess",
-        "Connect Four"
-      ],
-      "question": {
-        "text": "What is the name of the classic board game where players must move pieces around a board in an effort to get all their pieces \"home\" first?"
-      },
-      "tags": [
-        "board_games"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056f017a97013de78b53ad",
-      "correctAnswer": "India",
-      "incorrectAnswers": [
-        "Iran",
-        "Austria",
-        "Algeria"
-      ],
-      "question": {
-        "text": "Which of these countries was once part of the British Empire?"
-      },
-      "tags": [
-        "history",
-        "colonialism",
-        "countries"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502ac",
-      "correctAnswer": "Bean Curd ",
-      "incorrectAnswers": [
-        "Seitan",
-        "Quorn",
-        "Whitejelly"
-      ],
-      "question": {
-        "text": "What Is Tofu Also Known As?"
-      },
-      "tags": [
-        "food",
-        "names",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6462628cab138b829b81ea30",
-      "correctAnswer": "Corned beef",
-      "incorrectAnswers": [
-        "Pastrami",
-        "Roast beef",
-        "Ham"
-      ],
-      "question": {
-        "text": "What type of meat is found in a Reuben sandwich?"
-      },
-      "tags": [
-        "sandwiches",
-        "meat",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95024b",
-      "correctAnswer": "Nectarine ",
-      "incorrectAnswers": [
-        "Agave",
-        "Guava",
-        "Lychee"
-      ],
-      "question": {
-        "text": "Which fruit is a cross between a peach and a plum?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "63b0587d4799123c67712f41",
-      "correctAnswer": " Central Asia",
-      "incorrectAnswers": [
-        "South America",
-        "Eastern Europe",
-        "Western Australia"
-      ],
-      "question": {
-        "text": "Where are the Altai mountains located?"
-      },
-      "tags": [
-        "mountains",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f89",
-      "correctAnswer": "Stephen King",
-      "incorrectAnswers": [
-        "H. P. Lovecraft",
-        "Edgar Allan Poe",
-        "Jack Vance"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Stand'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64bee2e595a7194220973958",
-      "correctAnswer": "The pith",
-      "incorrectAnswers": [
-        "The pulp",
-        "The skin",
-        "The zest"
-      ],
-      "question": {
-        "text": "What is the term that refers to the white substance between the peel and flesh of an orange?"
-      },
-      "tags": [
-        "fruit",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b5792fd6c701a92118367",
-      "correctAnswer": "Japan",
-      "incorrectAnswers": [
-        "Vietnam",
-        "Russia",
-        "France"
-      ],
-      "question": {
-        "text": "In which country would you find the Itsukushima Shinto Shrine?"
-      },
-      "tags": [
-        "tourist_attractions",
-        "places",
-        "geography"
+        "society_and_culture",
+        "usa"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -472,15 +117,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625698589da29df7b05f7281",
-      "correctAnswer": "Paul Bettany",
+      "id": "625698b89da29df7b05f7299",
+      "correctAnswer": "Chadwick Boseman",
       "incorrectAnswers": [
+        "Clark Gregg",
         "Robert Downey Jr.",
-        "Mark Ruffalo",
-        "Benicio Del Toro"
+        "Benedict Wong"
       ],
       "question": {
-        "text": "The role of Vision in the Marvel Cinematic Universe is played by which actor?"
+        "text": "Which actor played the role of T'Challa in the Marvel Cinematic Universe?"
       },
       "tags": [
         "mcu",
@@ -496,19 +141,20 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c377cc59eab6f95045d",
-      "correctAnswer": "12 Drummers Drumming",
+      "category": "geography",
+      "id": "6260309c4b176d54800e3d31",
+      "correctAnswer": "La Paz",
       "incorrectAnswers": [
-        "12 Lords a Leaping",
-        "12 Maids a Milking",
-        "12 Swans a Swimming"
+        "Belo Horizonte",
+        "Buenos Aires",
+        "Caracas"
       ],
       "question": {
-        "text": "In the song \"The Twelve Days Of Christmas\", what did my true love give to me on the 12th day?"
+        "text": "Which of these cities is in Bolivia?"
       },
       "tags": [
-        "general_knowledge"
+        "cities",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -516,22 +162,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f9512f3",
-      "correctAnswer": "Charlotte, Emily, Anne",
+      "category": "society_and_culture",
+      "id": "6357fd2268bd5000211e7180",
+      "correctAnswer": "Pakistan",
       "incorrectAnswers": [
-        "Ashley, Charlotte Margaret",
-        "Charlotte, Emily, Mary",
-        "Anne, Emily, Margaret"
+        "Nigeria",
+        "South Africa",
+        "Algeria"
       ],
       "question": {
-        "text": "What are the names of the three Brontë sisters?"
+        "text": "Urdu is a language spoken in which of these countries?"
       },
       "tags": [
-        "people",
-        "literature",
-        "arts_and_literature",
-        "classic_novels"
+        "language",
+        "linguistics",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -539,21 +184,115 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f951564",
-      "correctAnswer": "Switzerland ",
+      "category": "society_and_culture",
+      "id": "62c2fa0cb3eadb0437fda6be",
+      "correctAnswer": "Lion",
       "incorrectAnswers": [
-        "The Netherlands",
-        "Denmark",
-        "France"
+        "Bat",
+        "Owl",
+        "Bull"
       ],
       "question": {
-        "text": "From which country does emmental cheese originate?"
+        "text": "Which animal would you associate with the ING Group logo?"
       },
       "tags": [
-        "food_and_drink",
-        "food",
-        "cheese"
+        "society_and_culture",
+        "business",
+        "marketing",
+        "animals",
+        "logos",
+        "symbols"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951aaa",
+      "correctAnswer": "Spartacus",
+      "incorrectAnswers": [
+        "Ithacus",
+        "Commodus",
+        "Maximus"
+      ],
+      "question": {
+        "text": "Which Roman Gladiator Lead An Unsuccessful Revolt Against Rome?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "64974e400752843c0d8aadaf",
+      "correctAnswer": "Nepal",
+      "incorrectAnswers": [
+        "Sri Lanka",
+        "Bangladesh",
+        "Pakistan"
+      ],
+      "question": {
+        "text": "Which country is surrounded by India on three sides and China to the north?"
+      },
+      "tags": [
+        "borders",
+        "asia",
+        "india",
+        "china",
+        "countries",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "647c9855f89e0968cfbc1a26",
+      "correctAnswer": "Starboard",
+      "incorrectAnswers": [
+        "Port",
+        "Bow",
+        "Stern"
+      ],
+      "question": {
+        "text": "What is the name of the right side of a sailing ship?"
+      },
+      "tags": [
+        "sailing",
+        "seafaring",
+        "society_and_culture",
+        "boats"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64a09f9fcf8fd58080cf0021",
+      "correctAnswer": "Ford",
+      "incorrectAnswers": [
+        "Chevrolet",
+        "Toyota",
+        "Honda"
+      ],
+      "question": {
+        "text": "Which car manufacturer offered the Torino and the Tempo?"
+      },
+      "tags": [
+        "cars",
+        "motoring",
+        "brands",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -562,20 +301,17 @@
     },
     {
       "category": "science",
-      "id": "64e927cd0b0fc0be2ff5aa36",
-      "correctAnswer": "A microwave",
+      "id": "622a1c3a7cc59eab6f951033",
+      "correctAnswer": "Emperor",
       "incorrectAnswers": [
-        "A toaster oven",
-        "A convection oven",
-        "A slow cooker"
+        "King",
+        "Gentoo",
+        "Adelie"
       ],
       "question": {
-        "text": "What type of oven did Percy Spencer invent after a magnetron melted his candy bar?"
+        "text": "What Is The Largest Species Of Penguin?"
       },
       "tags": [
-        "inventions",
-        "food_and_drink",
-        "technology",
         "science"
       ],
       "type": "text_choice",
@@ -584,18 +320,255 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950195",
-      "correctAnswer": "Aesop",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950253",
+      "correctAnswer": "Absinthe ",
       "incorrectAnswers": [
-        "Homer",
-        "Plato",
-        "Odysseus"
+        "Gin",
+        "Port",
+        "Whisky"
       ],
       "question": {
-        "text": "Which Ancient Greek writer was famous for his Fables?"
+        "text": "Which drink, which has been illegal but is being imported once again, is made from the leaves of the wormwood plant?"
       },
       "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504a5",
+      "correctAnswer": "the mental processes within mental illness or disorders",
+      "incorrectAnswers": [
+        "life in outer space",
+        "a synonym for taxonomy",
+        "prehistoric climates"
+      ],
+      "question": {
+        "text": "What is Psychopathology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c397cc59eab6f950fad",
+      "correctAnswer": "Isaac Newton",
+      "incorrectAnswers": [
+        "Charles Darwin",
+        "Archimedes",
+        "Ernest Rutherford"
+      ],
+      "question": {
+        "text": "Who Was Inspired By An Apple Falling?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237404ccb85f7ce9e949cf0",
+      "correctAnswer": "Cairo",
+      "incorrectAnswers": [
+        "Conakry",
+        "Nairobi",
+        "Alexandria"
+      ],
+      "question": {
+        "text": "What is the capital city of Egypt?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6371621d1bf863c45ca6c353",
+      "correctAnswer": "Amor vincit omnia",
+      "incorrectAnswers": [
+        "Fortiter et fideliter",
+        "Memento vivere",
+        "Sic infit"
+      ],
+      "question": {
+        "text": "Which of these Latin phrases means 'Love conquers all'?"
+      },
+      "tags": [
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e593ff2394bd44dee009",
+      "correctAnswer": "Red",
+      "incorrectAnswers": [
+        "Yellow",
+        "Ten",
+        "Eight"
+      ],
+      "question": {
+        "text": "What does the word 'rosso' mean in Italian?"
+      },
+      "tags": [
+        "language",
+        "translations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "646089e1de964ebc39016c90",
+      "correctAnswer": "Columbia",
+      "incorrectAnswers": [
+        "Challenger",
+        "Discovery",
+        "Endeavour"
+      ],
+      "question": {
+        "text": "Which space shuttle, commanded by John Young, was the first manned U.S. spacecraft to land on land on April 14, 1981?"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "space_exploration",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "63a039bcc7d86251f9b65caa",
+      "correctAnswer": "Winston Churchill",
+      "incorrectAnswers": [
+        "Neville Chamberlain",
+        "Anthony Eden",
+        "Tony Blair"
+      ],
+      "question": {
+        "text": "Which British Prime Minister was in office for the majority of World War II?"
+      },
+      "tags": [
+        "history",
+        "britain",
+        "uk",
+        "british_prime_ministers",
+        "world_war_2"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94feab",
+      "correctAnswer": "Elton John",
+      "incorrectAnswers": [
+        "Mika",
+        "Madonna",
+        "Eric Clapton"
+      ],
+      "question": {
+        "text": "Which singer released the album 'Goodbye Yellow Brick Road'?"
+      },
+      "tags": [
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "647eda9d520523194910c20f",
+      "correctAnswer": "Cobb salad",
+      "incorrectAnswers": [
+        "Waldorf salad",
+        "Caesar salad",
+        "Nicoise salad"
+      ],
+      "question": {
+        "text": "What is the name of the salad that includes lettuce, bacon, chicken, eggs, and blue cheese?"
+      },
+      "tags": [
+        "salad",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502f9",
+      "correctAnswer": "Vino della casa ",
+      "incorrectAnswers": [
+        "Vino del campo",
+        "Vino della mansione",
+        "Vino del domin"
+      ],
+      "question": {
+        "text": "How would you say 'house wine' in Italian?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "64e6536e0b79e5bedd549513",
+      "correctAnswer": "James",
+      "incorrectAnswers": [
+        "Charlie",
+        "Luke",
+        "Henry"
+      ],
+      "question": {
+        "text": "Which Roald Dahl character traveled around in a large fruit?"
+      },
+      "tags": [
+        "childrens_literature",
+        "literature",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -605,19 +578,20 @@
     },
     {
       "category": "geography",
-      "id": "64a32df9fc63594e30247826",
-      "correctAnswer": "Portugal",
+      "id": "6233848a62eaad73716a8c15",
+      "correctAnswer": "Atlantic",
       "incorrectAnswers": [
-        "Brazil",
-        "The Philippines",
-        "Greece"
+        "Pacific",
+        "Indian",
+        "Arctic"
       ],
       "question": {
-        "text": "What country are the Azores islands a part of?"
+        "text": "What is the second largest ocean?"
       },
       "tags": [
-        "geography",
-        "islands"
+        "bodies_of_water",
+        "oceans",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -625,21 +599,66 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d76",
-      "correctAnswer": "Black Sabbath",
+      "category": "food_and_drink",
+      "id": "648891824cd3f064f443dc0d",
+      "correctAnswer": "Ladyfingers",
       "incorrectAnswers": [
-        "Metallica",
-        "Def Leppard",
-        "Poison"
+        "Madeleines",
+        "Savoiardi",
+        "Shortbread"
       ],
       "question": {
-        "text": "Which metal band has Ozzy Osbourne as its lead singer?"
+        "text": "Which sponge cakes are used in the popular Italian dessert Tiramisu?"
       },
       "tags": [
-        "music",
-        "bands",
-        "musicians"
+        "desserts",
+        "recipes",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951031",
+      "correctAnswer": "Hexagon",
+      "incorrectAnswers": [
+        "Pentagon",
+        "Octagon",
+        "Dodecahedron"
+      ],
+      "question": {
+        "text": "What is the mathematical term used to describe the shape of a cell in a honeycomb? "
+      },
+      "tags": [
+        "mathematics",
+        "general_knowledge",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e602ff2394bd44dee02a",
+      "correctAnswer": "Negro",
+      "incorrectAnswers": [
+        "Nero",
+        "Zwart",
+        "Azul"
+      ],
+      "question": {
+        "text": "In Portuguese, what is the word for for 'black'?"
+      },
+      "tags": [
+        "language",
+        "translations",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
