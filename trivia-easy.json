@@ -1,25 +1,70 @@
 {
-  "gameDate": "2026-02-18",
+  "gameDate": "2026-02-19",
   "difficulty": "easy",
   "results": [
     {
-      "category": "society_and_culture",
-      "id": "64860e82113d76c6b63179fc",
-      "correctAnswer": "Hebrew",
+      "category": "film_and_tv",
+      "id": "622a1c3b7cc59eab6f951782",
+      "correctAnswer": "Back to the Future",
       "incorrectAnswers": [
-        "Arabic",
-        "English",
-        "Greek"
+        "Star Wars",
+        "Jurassic Park",
+        "The Goonies"
       ],
       "question": {
-        "text": "What is the official language of Israel?"
+        "text": "Which movie had a device known as a flux capacitor?"
       },
       "tags": [
-        "countries",
-        "israel",
-        "languages",
-        "language",
-        "society_and_culture"
+        "film",
+        "film_and_tv",
+        "cult_films"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "645cb0e67d263fd50970438a",
+      "correctAnswer": "Muhammad Ali",
+      "incorrectAnswers": [
+        "Michael Jordan",
+        "Tiger Woods",
+        "Kobe Bryant"
+      ],
+      "question": {
+        "text": "What sports icon did Will Smith portray to receive an Oscar nomination in 2002?"
+      },
+      "tags": [
+        "acting",
+        "sport",
+        "film",
+        "film_and_tv",
+        "academy_awards"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc0f",
+      "correctAnswer": "\"Take your stinking paws off me, you damned dirty ape.\"",
+      "incorrectAnswers": [
+        "\"Mrs. Robinson, you're trying to seduce me. Aren't you?\"",
+        "\"Toga! Toga!\"",
+        "\"Attica! Attica!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Planet of the Apes'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "general_knowledge",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -28,17 +73,19 @@
     },
     {
       "category": "geography",
-      "id": "623b5794fd6c701a92118368",
-      "correctAnswer": "Athens",
+      "id": "6463394f01d576cfac3aa33b",
+      "correctAnswer": "Alaska & Hawaii",
       "incorrectAnswers": [
-        "Jerusalem",
-        "Moscow",
-        "Venice"
+        "Maine & New Hampshire",
+        "Vermont & Massachusetts",
+        "Rhode Island & Connecticut"
       ],
       "question": {
-        "text": "In which city would you find the Acropolis?"
+        "text": "Which 2 US states share no land border with other states?"
       },
       "tags": [
+        "usa",
+        "us_states",
         "geography"
       ],
       "type": "text_choice",
@@ -47,21 +94,23 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "64f6d9b9660c3a8d960101e2",
-      "correctAnswer": "3000",
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515e9",
+      "correctAnswer": "Kosher ",
       "incorrectAnswers": [
-        "2000",
-        "1000",
-        "4000"
+        "Deli",
+        "Vegan",
+        "Halal"
       ],
       "question": {
-        "text": "Which actor and musician, a member of OutKast, is known as André ____?"
+        "text": "Food that is permitted to be eaten under Jewish dietary laws is known as what?"
       },
       "tags": [
-        "actors",
-        "music",
-        "entertainment"
+        "food",
+        "judaism",
+        "religion",
+        "words",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -69,21 +118,20 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "649c8996e3aef0a3c23f63f8",
-      "correctAnswer": "A simile",
+      "category": "film_and_tv",
+      "id": "625740f69da29df7b05f7405",
+      "correctAnswer": "Rocky",
       "incorrectAnswers": [
-        "A metaphor",
-        "An analogy",
-        "A hyperbole"
+        "Amélie",
+        "The Deer Hunter",
+        "Schindler's List"
       ],
       "question": {
-        "text": "What type of comparison is the phrase 'He was like an eagle chained to the ground' an example of?"
+        "text": "Name the movie that matches the following plot summary: 'A small-time boxer gets a chance to fight the world heavyweight champion.'"
       },
       "tags": [
-        "language",
-        "writing",
-        "grammar"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -92,15 +140,15 @@
     },
     {
       "category": "food_and_drink",
-      "id": "624c609c50d1a5e051325a67",
-      "correctAnswer": "India",
+      "id": "624c6148badf21197f98f771",
+      "correctAnswer": "United States",
       "incorrectAnswers": [
-        "Scotland",
-        "Cameroon",
-        "Mauritius"
+        "Brunei",
+        "Bahrain",
+        "Vietnam"
       ],
       "question": {
-        "text": "Tandoori Chicken is a dish that is most associated with which part of the world?"
+        "text": "Where in the world would you most expect to be served Mac 'N' Cheese?"
       },
       "tags": [
         "food",
@@ -112,100 +160,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f951617",
-      "correctAnswer": "100",
-      "incorrectAnswers": [
-        "0",
-        "273",
-        "71"
-      ],
-      "question": {
-        "text": "At What Temperature Centigrade Does Water Boil At?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951071",
-      "correctAnswer": "Leeches",
-      "incorrectAnswers": [
-        "Vampire Bats",
-        "Cobras",
-        "Wasps"
-      ],
-      "question": {
-        "text": "What Creatures Were Frequently Used To Bleed Patients In The Nineteeth Century?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950161",
-      "correctAnswer": "J.R.R. Tolkien",
-      "incorrectAnswers": [
-        "Roald Dahl",
-        "George R.R. Martin",
-        "Brandon Sanderson"
-      ],
-      "question": {
-        "text": "Who wrote \"The Hobbit\"?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3b7cc59eab6f9513b2",
-      "correctAnswer": "The Hobbit",
-      "incorrectAnswers": [
-        "Charlotte's Web",
-        "Alice's Adventures in Wonderland",
-        "Bluebeard"
-      ],
-      "question": {
-        "text": "In which book does 'Bilbo Baggins' appear?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "622a1c3d7cc59eab6f951cba",
-      "correctAnswer": "A Partridge In A Pear Tree",
+      "id": "622a1c3c7cc59eab6f951889",
+      "correctAnswer": "Apples",
       "incorrectAnswers": [
-        "5 Gold Rings",
-        "A Turtle Dove",
-        "True Love"
+        "Bananas",
+        "Cherries",
+        "Carrots"
       ],
       "question": {
-        "text": "What did 'my true love give to me' on the first day of Christmas?"
+        "text": "What Would You Traditionally 'Bob' For At Halloween?"
       },
       "tags": [
-        "christmas",
-        "lyrics",
+        "halloween",
+        "traditions",
+        "food",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -214,21 +183,111 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c17",
-      "correctAnswer": "Nirvana",
+      "category": "arts_and_literature",
+      "id": "64af1025deeef534fb54ad0d",
+      "correctAnswer": "Marvel",
       "incorrectAnswers": [
-        "The Velvet Underground",
-        "Pearl Jam",
-        "Metallica"
+        "Wonder",
+        "DC",
+        "Image"
       ],
       "question": {
-        "text": "Which American rock band released the song 'Smells Like Teen Spirit'?"
+        "text": "What is the name of the comic book company whose comics feature Spiderman?"
+      },
+      "tags": [
+        "comics",
+        "arts_and_literature",
+        "superheroes"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6488889b5dba6c873ef65060",
+      "correctAnswer": "The spin",
+      "incorrectAnswers": [
+        "The tumble",
+        "The shake",
+        "The toss"
+      ],
+      "question": {
+        "text": "What is the name of the cycle in a washing machine that dries clothes?"
       },
       "tags": [
         "general_knowledge",
-        "rock_music",
-        "music"
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602d3d4b176d54800e3c89",
+      "correctAnswer": "Shanghai",
+      "incorrectAnswers": [
+        "Brisbane",
+        "Yokohama",
+        "Osaka"
+      ],
+      "question": {
+        "text": "Which of these cities is in China?"
+      },
+      "tags": [
+        "cities",
+        "asia",
+        "china"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "648b872108102f4e90f095cf",
+      "correctAnswer": "Whiskey",
+      "incorrectAnswers": [
+        "Beer",
+        "Wine",
+        "Rum"
+      ],
+      "question": {
+        "text": "What type of alcoholic beverage is bourbon?"
+      },
+      "tags": [
+        "alcohol",
+        "spirits",
+        "liquor",
+        "drink",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515cb",
+      "correctAnswer": "Mexico ",
+      "incorrectAnswers": [
+        "China",
+        "France",
+        "Australia"
+      ],
+      "question": {
+        "text": "From which country does the drink Tequila originate?"
+      },
+      "tags": [
+        "drink",
+        "alcohol",
+        "countries",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -237,62 +296,19 @@
     },
     {
       "category": "music",
-      "id": "622a1c387cc59eab6f950b4e",
-      "correctAnswer": "Bob Marley and the Wailers",
+      "id": "622a1c397cc59eab6f950dc2",
+      "correctAnswer": "The Beatles",
       "incorrectAnswers": [
-        "Bob Marley and the Bombs",
-        "Bob Marley and his Blues Band",
-        "The Swinging Bobs"
+        "The Rolling Stones",
+        "Metallica",
+        "Nirvana"
       ],
       "question": {
-        "text": "What was the name of Bob Marley's band?"
+        "text": "Which band had Ringo Starr as its drummer?"
       },
       "tags": [
         "music",
         "bands",
-        "reggae"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95072e",
-      "correctAnswer": "Leonardo DiCaprio",
-      "incorrectAnswers": [
-        "Ralph Fiennes",
-        "Brian Cox",
-        "Kiefer Sutherland"
-      ],
-      "question": {
-        "text": "Which actor has starred in films including Inception and The Revenant?"
-      },
-      "tags": [
-        "film_and_tv",
-        "film",
-        "acting"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056fe07a97013de78b54e1",
-      "correctAnswer": "Isaac",
-      "incorrectAnswers": [
-        "Albert",
-        "Herbert",
-        "Luigi"
-      ],
-      "question": {
-        "text": "What was the first name of the physicist Newton?"
-      },
-      "tags": [
-        "science",
         "people"
       ],
       "type": "text_choice",
@@ -301,16 +317,190 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff6a",
-      "correctAnswer": "Oasis",
+      "category": "society_and_culture",
+      "id": "6262882e4b176d54800e3d8e",
+      "correctAnswer": "I'm loving it",
       "incorrectAnswers": [
-        "Goldfrapp",
-        "Kaiser Chiefs",
-        "Jethro Tull"
+        "Snap! Crackle! Pop!",
+        "Melts in your mouth, not in your hands.",
+        "Seafood Differently"
       ],
       "question": {
-        "text": "Who Had A Hit In 1996 With \"Don't Look Back In Anger\""
+        "text": "What is the marketing slogan of McDonalds?"
+      },
+      "tags": [
+        "business",
+        "marketing",
+        "food",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056f747a97013de78b544f",
+      "correctAnswer": "Indigenous cultures",
+      "incorrectAnswers": [
+        "Modern corporations",
+        "Ancient Greek city-states",
+        "Medieval European guilds"
+      ],
+      "question": {
+        "text": "Totems are most commonly associated with which of the following?"
+      },
+      "tags": [
+        "culture",
+        "anthropology",
+        "totem"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625698849da29df7b05f728c",
+      "correctAnswer": "Spiderman",
+      "incorrectAnswers": [
+        "Obadiah Stane",
+        "Iron Man",
+        "Hawkeye"
+      ],
+      "question": {
+        "text": "In the Marvel Cinematic Universe, which character is played by Tom Holland?"
+      },
+      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8bb",
+      "correctAnswer": "Harrison Ford",
+      "incorrectAnswers": [
+        "Marlon Brando",
+        "Samuel L. Jackson",
+        "Al Pacino"
+      ],
+      "question": {
+        "text": "Which actor played the role of Indiana Jones in Raiders of the Lost Ark?"
+      },
+      "tags": [
+        "people",
+        "acting",
+        "general_knowledge",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056e497a97013de78b52ad",
+      "correctAnswer": "India",
+      "incorrectAnswers": [
+        "United States",
+        "Pakistan",
+        "Australia"
+      ],
+      "question": {
+        "text": "Where is the film industry of Bollywood located?"
+      },
+      "tags": [
+        "film_and_tv",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eeb",
+      "correctAnswer": "Charles Dickens",
+      "incorrectAnswers": [
+        "Oscar Wilde",
+        "Joseph Conrad",
+        "Henryk Sienkiewicz"
+      ],
+      "question": {
+        "text": "Which author wrote 'Great Expectations'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b89",
+      "correctAnswer": "The Jimi Hendrix Experience",
+      "incorrectAnswers": [
+        "Poison",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
+      ],
+      "question": {
+        "text": "Which English-American psychedelic rock band released the song 'Purple Haze'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b5859fd6c701a921183b3",
+      "correctAnswer": "Australia",
+      "incorrectAnswers": [
+        "China",
+        "Italy",
+        "France"
+      ],
+      "question": {
+        "text": "In which country would you find the Sydney Opera House?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe83",
+      "correctAnswer": "Lady Gaga",
+      "incorrectAnswers": [
+        "Hikaru Utada",
+        "Drake",
+        "Madonna"
+      ],
+      "question": {
+        "text": "Which American singer, songwriter, and actress released the song 'Poker Face'?"
       },
       "tags": [
         "songs",
@@ -323,236 +513,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951340",
-      "correctAnswer": "Caricature",
-      "incorrectAnswers": [
-        "Satire",
-        "Still Life",
-        "Snappy Shot"
-      ],
-      "question": {
-        "text": "What is the word for an artwork humoously excaggerating the qualities of a person?"
-      },
-      "tags": [
-        "words",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c60b150d1a5e051325a6d",
-      "correctAnswer": "Pizza",
-      "incorrectAnswers": [
-        "Dim Sum",
-        "Cou Cou and Flying Fish",
-        "Kabuli Pulao"
-      ],
-      "question": {
-        "text": "Which of these dishes would you most expect to find in Italy?"
-      },
-      "tags": [
-        "food",
-        "general_knowledge",
-        "italy",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "639c9da6929b90846f2fc980",
-      "correctAnswer": "Mosque",
-      "incorrectAnswers": [
-        "Church",
-        "Synagogue",
-        "Temple"
-      ],
-      "question": {
-        "text": "What is the name of the Islamic place of worship?"
-      },
-      "tags": [
-        "islam",
-        "religion",
-        "society_and_culture",
-        "buildings"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570317a97013de78b5552",
-      "correctAnswer": "Larynx (voice box)",
-      "incorrectAnswers": [
-        "Ear",
-        "Stomach",
-        "Liver"
-      ],
-      "question": {
-        "text": "In which part of the human throat is the epiglottis located?"
-      },
-      "tags": [
-        "science",
-        "anatomy"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6494beb7d7601042f7eaa943",
-      "correctAnswer": "Forbidden fruit",
-      "incorrectAnswers": [
-        "Bad apple",
-        "Posioned chalice",
-        "Sour grapes"
-      ],
-      "question": {
-        "text": "What is the term used to refer to the food that God instructed Adam not to eat in the bible?"
-      },
-      "tags": [
-        "christianity",
-        "bible",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740939da29df7b05f73e8",
-      "correctAnswer": "A paleontologist is tasked with protecting two children when cloned dinosaurs are set free.",
-      "incorrectAnswers": [
-        "During WWII a Jewish waiter uses humor to protect his son from the realities of war.",
-        "A maverick teacher emboldens his students to new heights of self-expression.",
-        "A car salesman's inept crime falls apart due to his and his henchmen's bungling."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Jurassic Park?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "sport_and_leisure",
-      "id": "63a0397ec7d86251f9b65c6b",
-      "correctAnswer": "Scrabble",
+      "id": "622a1c367cc59eab6f950027",
+      "correctAnswer": "Golf",
       "incorrectAnswers": [
-        "Risk",
-        "Chess",
-        "Monopoly"
+        "Tennis",
+        "Cricket",
+        "Rugby"
       ],
       "question": {
-        "text": "What is the name of the classic board game where players must spell words with tiles?"
+        "text": "With what sport is Jack Nicklaus associated?"
       },
       "tags": [
-        "board_games"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c60bc50d1a5e051325a70",
-      "correctAnswer": "Japan",
-      "incorrectAnswers": [
-        "Turkey",
-        "Spain",
-        "Estonia"
-      ],
-      "question": {
-        "text": "Where in the world would you most expect to be served Sushi?"
-      },
-      "tags": [
-        "food",
+        "people",
         "general_knowledge",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c397cc59eab6f950fb3",
-      "correctAnswer": "Apple",
-      "incorrectAnswers": [
-        "Microsoft",
-        "Google",
-        "Linux"
-      ],
-      "question": {
-        "text": "Who Make Macintosh Computers?"
-      },
-      "tags": [
-        "technology",
-        "business",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624333fecfaae40c12961417",
-      "correctAnswer": "A Vixen",
-      "incorrectAnswers": [
-        "A Ewe",
-        "A Hen",
-        "A Doe"
-      ],
-      "question": {
-        "text": "What is the word for a female fox?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "64626286ab138b829b81ea07",
-      "correctAnswer": "Javelin",
-      "incorrectAnswers": [
-        "Shot put",
-        "Discus",
-        "Hammer throw"
-      ],
-      "question": {
-        "text": "Which Olympic sport involves throwing a spear?"
-      },
-      "tags": [
-        "athletics",
-        "olympics",
         "sport"
       ],
       "type": "text_choice",
@@ -561,62 +535,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "648888d65dba6c873ef650b1",
-      "correctAnswer": "Oompa Loompas",
-      "incorrectAnswers": [
-        "Ongo Bongos",
-        "Oogie Boogies",
-        "Pogre Ogres"
-      ],
-      "question": {
-        "text": "What are the name of the factory workers who love cacao beans in a classic children's book by Roald Dahl?"
-      },
-      "tags": [
-        "childrens_literature",
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3e7cc59eab6f95225a",
-      "correctAnswer": "The Owl",
-      "incorrectAnswers": [
-        "The Robin",
-        "The Swan",
-        "The Albatross"
-      ],
-      "question": {
-        "text": "In Edward Lear's poem, which bird sang to the pussycat?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "poetry",
-        "birds"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c2c",
-      "correctAnswer": "ABBA",
+      "id": "622a1c357cc59eab6f94fd70",
+      "correctAnswer": "Cher",
       "incorrectAnswers": [
-        "In Flames",
-        "HammerFall",
-        "Katatonia"
+        "Lady Gaga",
+        "Sia",
+        "Madonna"
       ],
       "question": {
-        "text": "Which Swedish pop group released the song 'Gimme! Gimme! Gimme! (A Man After Midnight)'?"
+        "text": "Whose Real Name Is 'Cherilyn Sarkisian La Pier'?"
       },
       "tags": [
+        "pseudonyms",
+        "people",
         "music"
       ],
       "type": "text_choice",
@@ -625,20 +557,112 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "650570267a97013de78b5543",
-      "correctAnswer": "Venus flytrap",
+      "category": "food_and_drink",
+      "id": "63f39502989356ef48370be1",
+      "correctAnswer": "Apple",
       "incorrectAnswers": [
-        "Alder",
-        "Nightshade",
-        "Cabbage"
+        "Mango",
+        "Papaya",
+        "Pineapple"
       ],
       "question": {
-        "text": "Which of these plants is carnivorous?"
+        "text": "Which of these fruits is not a tropical fruit?"
       },
       "tags": [
-        "science",
-        "botany"
+        "food_and_drink",
+        "food",
+        "fruit"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60d550d1a5e051325a76",
+      "correctAnswer": "North Africa",
+      "incorrectAnswers": [
+        "Ghana",
+        "Belgium",
+        "South America"
+      ],
+      "question": {
+        "text": "Tagine is a dish that is most associated with which part of the world?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f951555",
+      "correctAnswer": "Samosa",
+      "incorrectAnswers": [
+        "Pakora",
+        "Curry",
+        "Bhaji"
+      ],
+      "question": {
+        "text": "What name is given to an Indian deep fried triangular pastry?"
+      },
+      "tags": [
+        "food",
+        "india",
+        "pastry",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62c92076a218dd4dc1ca17da",
+      "correctAnswer": "Love",
+      "incorrectAnswers": [
+        "Egg",
+        "Zilch",
+        "Nil"
+      ],
+      "question": {
+        "text": "What word is used for a score of 0 in a game of tennis?"
+      },
+      "tags": [
+        "sport",
+        "tennis",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f914",
+      "correctAnswer": "The Silence of the Lambs",
+      "incorrectAnswers": [
+        "Casablanca",
+        "A Nightmare on Elm Street",
+        "Taxi Driver"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Hannibal Lecter'?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "horror",
+        "general_knowledge",
+        "fictitious_characters",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
