@@ -1,22 +1,315 @@
 {
-  "gameDate": "2026-02-19",
+  "gameDate": "2026-02-20",
   "difficulty": "random",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "625006f10d86c8f685d80f08",
-      "correctAnswer": "Stuffed pasta",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f890",
+      "correctAnswer": "Golf",
       "incorrectAnswers": [
-        "Soup pasta",
-        "Strand pasta",
-        "Ribbon pasta"
+        "Cricket",
+        "Badminton",
+        "Surfing"
       ],
       "question": {
-        "text": "What type of pasta is ravioli?"
+        "text": "With which sport is Seve Ballesteros associated?"
       },
       "tags": [
-        "food",
-        "italy",
+        "people",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "645cb19b7d263fd5097043ec",
+      "correctAnswer": "Lionize",
+      "incorrectAnswers": [
+        "Tigerize",
+        "Pantherize",
+        "Hyenize"
+      ],
+      "question": {
+        "text": "Which of these words means \"to treat someone like a celebrity\"?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ec1",
+      "correctAnswer": "Mark Twain",
+      "incorrectAnswers": [
+        "Cassandra Clare",
+        "Isabel Allende",
+        "George R. R. Martin"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Adventures of Tom Sawyer'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fb61",
+      "correctAnswer": "The Apartment",
+      "incorrectAnswers": [
+        "The Alamo",
+        "Elmer Gantry",
+        "Sons and Lovers"
+      ],
+      "question": {
+        "text": "Which film won the Academy Award for Best Picture in 1960?"
+      },
+      "tags": [
+        "academy_awards",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "645f9526541c4d4fc8cf2eb0",
+      "correctAnswer": "Tokyo",
+      "incorrectAnswers": [
+        "Osaka",
+        "Kyoto",
+        "Sapporo"
+      ],
+      "question": {
+        "text": "Which Japanese city is served by Narita Airport?"
+      },
+      "tags": [
+        "japan",
+        "airports",
+        "tourism"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a3e",
+      "correctAnswer": "Thermopylae",
+      "incorrectAnswers": [
+        "Marathon",
+        "Corinth",
+        "Troy"
+      ],
+      "question": {
+        "text": "Where was the Greek army of Leonides annihilated by Persians in 480BC?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "65056f187a97013de78b53cd",
+      "correctAnswer": "DOUX",
+      "incorrectAnswers": [
+        "TART",
+        "SVIN",
+        "POUT"
+      ],
+      "question": {
+        "text": "Which letters indicate that a French wine is sweet?"
+      },
+      "tags": [
+        "food_and_drink",
+        "drink",
+        "wine",
+        "french",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd758dc0dd3b72da64d35",
+      "correctAnswer": "1990",
+      "incorrectAnswers": [
+        "1982",
+        "1986",
+        "1994"
+      ],
+      "question": {
+        "text": "In which year was Dances with Wolves released?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62373fc6cb85f7ce9e949cba",
+      "correctAnswer": "Bandar Seri Begawan",
+      "incorrectAnswers": [
+        "Beirut",
+        "Apia",
+        "Lilongwe"
+      ],
+      "question": {
+        "text": "What is the capital city of Brunei?"
+      },
+      "tags": [
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950bfc",
+      "correctAnswer": "Radiohead",
+      "incorrectAnswers": [
+        "Goldfrapp",
+        "Cream",
+        "Girls Aloud"
+      ],
+      "question": {
+        "text": "Which English rock band released the studio album 'Kid A'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f951357",
+      "correctAnswer": "Pop art",
+      "incorrectAnswers": [
+        "Dadaism",
+        "Surrealism",
+        "Cubism"
+      ],
+      "question": {
+        "text": "Which 1950's art movement presented a challenge to traditions of fine art by including imagery from popular and mass culture?"
+      },
+      "tags": [
+        "art",
+        "1950's"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ee8",
+      "correctAnswer": "Charles Dickens",
+      "incorrectAnswers": [
+        "Oscar Wilde",
+        "Joseph Conrad",
+        "Henryk Sienkiewicz"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Mystery of Edwin Drood'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9efd796f721e95543f7b",
+      "correctAnswer": "Jamaica",
+      "incorrectAnswers": [
+        "Morocco",
+        "Gabon",
+        "Spain"
+      ],
+      "question": {
+        "text": "Which country's flag can be described as 'Black and green triangles divided by a yellow cross.'?"
+      },
+      "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd72cdc0dd3b72da64d28",
+      "correctAnswer": "1959",
+      "incorrectAnswers": [
+        "1953",
+        "1965",
+        "1971"
+      ],
+      "question": {
+        "text": "In which year was Ben-Hur first released in the cinema?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515b0",
+      "correctAnswer": "Hot Spice ",
+      "incorrectAnswers": [
+        "Strong Taste",
+        "Lazy Cooking",
+        "Secret Flavour"
+      ],
+      "question": {
+        "text": "What does 'Garam Masala' mean in Hindi?"
+      },
+      "tags": [
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -26,21 +319,61 @@
     },
     {
       "category": "history",
-      "id": "646140774d46e537ca8cd9bd",
-      "correctAnswer": "Vietnam",
+      "id": "622a1c367cc59eab6f9503c6",
+      "correctAnswer": "Britain",
       "incorrectAnswers": [
-        "Iraq",
-        "Korea",
-        "Afghanistan"
+        "France",
+        "Germany",
+        "China"
       ],
       "question": {
-        "text": "Battles known as Con Thien and Hamburger Hill were fought during which 20th century conflict?"
+        "text": "What was the third country to get the atomic bomb?"
       },
       "tags": [
-        "battles",
-        "wars",
-        "history",
-        "military"
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950309",
+      "correctAnswer": "Chucky",
+      "incorrectAnswers": [
+        "Freddie Kruger",
+        "Michael Myers",
+        "Leatherface"
+      ],
+      "question": {
+        "text": "Which Scary Movie Character Has The real name Charles Lee Ray?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "626288724b176d54800e3d9d",
+      "correctAnswer": "Obey your thirst",
+      "incorrectAnswers": [
+        "Twist the cap to refreshment",
+        "It's the real thing",
+        "Open Happiness"
+      ],
+      "question": {
+        "text": "Which marketing slogan would you associate with Sprite?"
+      },
+      "tags": [
+        "business",
+        "marketing",
+        "drink",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -48,38 +381,81 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb46",
-      "correctAnswer": "Driving Miss Daisy",
+      "category": "society_and_culture",
+      "id": "645ba87ff09106226db23588",
+      "correctAnswer": "Chirac",
       "incorrectAnswers": [
-        "Born on the Fourth of July",
-        "Dead Poets Society",
-        "Field of Dreams"
+        "Macron",
+        "Hollande",
+        "Sarkozy"
       ],
       "question": {
-        "text": "Which film won the Academy Award for Best Picture in 1989?"
+        "text": "Which Pompidou protege and recent French president organized talks with trade unions after France's 1968 mass demonstrations?"
       },
       "tags": [
-        "academy_awards",
-        "film",
-        "film_and_tv"
+        "world_leaders",
+        "france",
+        "europe"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9518b9",
+      "correctAnswer": "Caesarion",
+      "incorrectAnswers": [
+        "Octavian",
+        "Augustus",
+        "Commodus"
+      ],
+      "question": {
+        "text": "What was the name of the son of Cleopatra & Julius Caesar?"
+      },
+      "tags": [
+        "romans",
+        "the_ancient_world",
+        "people",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e07",
+      "correctAnswer": "Salman Rushdie",
+      "incorrectAnswers": [
+        "Henry James",
+        "Brandon Sanderson",
+        "Vladimir Nabokov"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Satanic Verses'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950cb8",
-      "correctAnswer": "Pink Floyd",
+      "id": "622a1c397cc59eab6f950c4c",
+      "correctAnswer": "The Beach Boys",
       "incorrectAnswers": [
-        "Wings",
-        "Rudimental",
-        "The Alan Parsons Project"
+        "Swans",
+        "Three 6 Mafia",
+        "The Velvet Underground"
       ],
       "question": {
-        "text": "Which English rock band released the album 'The Piper at the Gates of Dawn'?"
+        "text": "Which American rock band released the song 'Blue Christmas'?"
       },
       "tags": [
         "music"
@@ -90,22 +466,19 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f9522a1",
-      "correctAnswer": "5",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c7b",
+      "correctAnswer": "U2",
       "incorrectAnswers": [
-        "1",
-        "0",
-        "3"
+        "Public Image Ltd.",
+        "The Script",
+        "The Cure"
       ],
       "question": {
-        "text": "How many hearts do earthworms have?"
+        "text": "Which Irish rock band released the studio album 'No Line on the Horizon'?"
       },
       "tags": [
-        "animals",
-        "biology",
-        "numbers",
-        "science"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -114,19 +487,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8dc",
-      "correctAnswer": "Peter Sellers",
+      "id": "624dba29de6018633d31f6b8",
+      "correctAnswer": "Tom Jones",
       "incorrectAnswers": [
-        "James Cagney",
-        "Michael Douglas",
-        "Johnny Depp"
+        "Adele",
+        "Shirley Bassey",
+        "Duran Duran"
       ],
       "question": {
-        "text": "Which actor played the role of Chance the Gardener in Being There?"
+        "text": "Who performed the theme song to the James Bond film Thunderball?"
       },
       "tags": [
-        "acting",
+        "james_bond",
         "film",
+        "soundtracks",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -136,84 +510,19 @@
     },
     {
       "category": "society_and_culture",
-      "id": "64fadc3c717513cb79190385",
-      "correctAnswer": "Michael Jackson",
+      "id": "64720cd93bbb58c31f411cd4",
+      "correctAnswer": "Adam Smith",
       "incorrectAnswers": [
-        "Prince",
-        "Madonna",
-        "Jamiroquai"
+        "Karl Marx",
+        "John Maynard Keynes",
+        "Milton Friedman"
       ],
       "question": {
-        "text": "In 1993, which famous singer co-patented a pair of shoes that provided a \"Method and means for creating anti-gravity illusion\"?"
+        "text": "\"Wealth of Nations\" was written by which economist?"
       },
       "tags": [
-        "inventions",
-        "musicians",
-        "fashion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501ca",
-      "correctAnswer": "Ulysses",
-      "incorrectAnswers": [
-        "The Diary of a Chambermaid",
-        "The Neverending Story",
-        "The Count of Monte Cristo"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed.'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c6172badf21197f98f77d",
-      "correctAnswer": "Fufu",
-      "incorrectAnswers": [
-        "Dim Sum",
-        "Ema Datshi",
-        "Kushari"
-      ],
-      "question": {
-        "text": "Which of these dishes would you most expect to find in Ghana?"
-      },
-      "tags": [
-        "food",
-        "africa",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64a09da6cf8fd58080cf000d",
-      "correctAnswer": "Princess Diana",
-      "incorrectAnswers": [
-        "Queen Elizabeth II",
-        "Camilla Parker Bowles",
-        "Sarah Ferguson"
-      ],
-      "question": {
-        "text": "In 1982, which member of the British royal family gave birth to Prince William?"
-      },
-      "tags": [
-        "royalty",
-        "uk",
+        "economics",
+        "philosophy",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -223,447 +532,106 @@
     },
     {
       "category": "music",
-      "id": "638c778201e1a2ef6d1f146d",
-      "correctAnswer": "That's All Right, Mama",
+      "id": "622a1c397cc59eab6f950cf3",
+      "correctAnswer": "The Beatles",
       "incorrectAnswers": [
-        "Blue Suede Shoes",
-        "Teddy Bear",
-        "Hound Dog"
+        "Deep Purple",
+        "Feeder",
+        "Uriah Heep"
       ],
       "question": {
-        "text": "What was the first Elvis Presley single released?"
+        "text": "Which English rock band released the album 'Magical Mystery Tour'?"
       },
       "tags": [
-        "elvis_presley"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056e957a97013de78b5316",
-      "correctAnswer": "Saffron",
-      "incorrectAnswers": [
-        "Cloves",
-        "Cinnamon",
-        "Pepper"
-      ],
-      "question": {
-        "text": "What is the world's most expensive spice by weight?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food",
-        "spices"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "64626286ab138b829b81ea00",
-      "correctAnswer": "Uranus",
-      "incorrectAnswers": [
-        "Mars",
-        "Jupiter",
-        "Venus"
-      ],
-      "question": {
-        "text": "What is the planet whose list of moons includes Oberon and Titania?"
-      },
-      "tags": [
-        "astronomy",
-        "space",
-        "the_solar_system",
-        "planets",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "649601ffe831b1ab5aa11125",
-      "correctAnswer": "Grand Marnier",
-      "incorrectAnswers": [
-        "Disaronno",
-        "Limoncello",
-        "Midori"
-      ],
-      "question": {
-        "text": "Which of these is an orange flavoured liqueur?"
-      },
-      "tags": [
-        "alcohol",
-        "drink",
-        "food_and_drink",
-        "fruit"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "646140784d46e537ca8cd9c1",
-      "correctAnswer": "Buoyancy",
-      "incorrectAnswers": [
-        "Liquefaction",
-        "Oscillation",
-        "Gravity"
-      ],
-      "question": {
-        "text": "What is the term for the tendency of an object to float, or the upward pressure of fluid in an object?"
-      },
-      "tags": [
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f90e",
-      "correctAnswer": "Tippi Hedren",
-      "incorrectAnswers": [
-        "Barbara Stanwyck",
-        "Anne Bancroft",
-        "Meryl Streep"
-      ],
-      "question": {
-        "text": "Which actress played the role of Melanie Daniels in The Birds?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd40",
-      "correctAnswer": "Spanish",
-      "incorrectAnswers": [
-        "French",
-        "German",
-        "Norweigan"
-      ],
-      "question": {
-        "text": "In which language does \"Cerveza\" mean beer?"
-      },
-      "tags": [
-        "language",
-        "general_knowledge",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6244372e746187c5e7be9339",
-      "correctAnswer": "Baking Soda",
-      "incorrectAnswers": [
-        "Bleach",
-        "Table Salt",
-        "Dolomite"
-      ],
-      "question": {
-        "text": "What is the common name for sodium bicarbonate?"
-      },
-      "tags": [
-        "chemistry",
-        "general_knowledge",
-        "names",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "geography",
-      "id": "64902c3a6c4575eaf97c8adf",
-      "correctAnswer": "Guam",
+      "id": "62374262cb85f7ce9e949dc7",
+      "correctAnswer": "South Sudan",
       "incorrectAnswers": [
-        "Saipan",
-        "Puerto Rico",
-        "Republic of Palau"
+        "Croatia",
+        "Turkmenistan",
+        "Laos"
       ],
       "question": {
-        "text": "What is the largest of the Mariana Islands, a U.S. territory located in the western Pacific Ocean?"
+        "text": "Juba is the capital city of which country?"
       },
       "tags": [
-        "islands",
-        "usa",
+        "capital_cities",
+        "africa",
         "geography"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6256990d9da29df7b05f72ae",
-      "correctAnswer": "Valkyrie",
-      "incorrectAnswers": [
-        "Jane Foster",
-        "Agent Peggy Carter",
-        "Thena"
-      ],
-      "question": {
-        "text": "Tessa Thompson plays the role of which character in the Marvel Cinematic Universe?"
-      },
-      "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa44",
-      "correctAnswer": "Art Nouveau",
-      "incorrectAnswers": [
-        "Northern Renaissance",
-        "Surrealism",
-        "High Renaissance"
-      ],
-      "question": {
-        "text": "The painting \"The Kiss\" by Gustav Klimt is a part of which art movement?"
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
       "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504e7",
+      "correctAnswer": "nerves",
+      "incorrectAnswers": [
+        "embryos",
+        "the study and psychology of organisms with regard to their functions and structures",
+        "mollusks"
+      ],
+      "question": {
+        "text": "What is Neurology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd64",
+      "correctAnswer": "George Harrison",
+      "incorrectAnswers": [
+        "Oasis",
+        "Paul Simon",
+        "Robbie Williams"
+      ],
+      "question": {
+        "text": "Whose Debut Solo Album Was Titled \"Wonderwall Music\"?"
+      },
+      "tags": [
+        "music_albums",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "society_and_culture",
-      "id": "6293ec6f7f41d6338b96eef0",
-      "correctAnswer": "Joseph Lister",
+      "id": "6357fd0f68bd5000211e7178",
+      "correctAnswer": "Portuguese",
       "incorrectAnswers": [
-        "Michael Faraday",
-        "Benny Russell",
-        "Franz Jacob"
+        "Swahili",
+        "Cantonese",
+        "Telugu"
       ],
       "question": {
-        "text": "Which surgeon pioneered the use of sterilisation and antiseptic surgery?"
+        "text": "Which of these languages would you find spoken in Mozambique?"
       },
       "tags": [
-        "people",
-        "history",
-        "society_and_culture",
-        "medicine"
+        "language",
+        "linguistics",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa1a",
-      "correctAnswer": "Georges Seurat",
-      "incorrectAnswers": [
-        "Caravaggio",
-        "Gustav Klimt",
-        "‎Pablo Picasso"
-      ],
-      "question": {
-        "text": "Which artist painted \"A Sunday Afternoon on the Island of La Grande Jatte\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6505703f7a97013de78b5566",
-      "correctAnswer": "Mammary gland",
-      "incorrectAnswers": [
-        "Prostate",
-        "Pancreas",
-        "Pituitary gland"
-      ],
-      "question": {
-        "text": "In mammals , which organ produces milk?"
-      },
-      "tags": [
-        "science",
-        "biology",
-        "anatomy"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950342",
-      "correctAnswer": "Jane Seymour",
-      "incorrectAnswers": [
-        "Anne Boleyn",
-        "Catherine Parr",
-        "Catherine Howard"
-      ],
-      "question": {
-        "text": "Who Was The 3rd Wife Of Henry VIII?"
-      },
-      "tags": [
-        "medieval",
-        "kings",
-        "uk",
-        "middle_ages",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "647638a3f05ea6d6f587a130",
-      "correctAnswer": "Dom Perignon",
-      "incorrectAnswers": [
-        "Veuve Clicquot",
-        "Moet and Chandon",
-        "Taittinger"
-      ],
-      "question": {
-        "text": "What is the name of the champagne named after a Benedictine monk?"
-      },
-      "tags": [
-        "alcohol",
-        "food_and_drink",
-        "drink",
-        "wine"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951091",
-      "correctAnswer": "Centipedes And Millipedes",
-      "incorrectAnswers": [
-        "Crabs and Lobsters",
-        "Slugs and Snails",
-        "Scorpions and Spiders"
-      ],
-      "question": {
-        "text": "Which of these pairs are Myriapods?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510db",
-      "correctAnswer": "Grist",
-      "incorrectAnswers": [
-        "Havok",
-        "Dazzle",
-        "Murmur"
-      ],
-      "question": {
-        "text": "A group of bees can be called either a hive, a swarm, or a __________"
-      },
-      "tags": [
-        "animals",
-        "biology",
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbbf",
-      "correctAnswer": "\"Just keep swimming.\"",
-      "incorrectAnswers": [
-        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\"",
-        "\"We'll always have Paris.\"",
-        "\"Today, I consider myself the luckiest man on the face of the earth.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Finding Nemo'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "649f1fffebb41911d4cbd6b9",
-      "correctAnswer": "Shere Khan",
-      "incorrectAnswers": [
-        "Baloo",
-        "Bagheera",
-        "King Louie"
-      ],
-      "question": {
-        "text": "In the 1967 animated film 'The Jungle Book', what is the name of the tiger character?"
-      },
-      "tags": [
-        "disney",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     }

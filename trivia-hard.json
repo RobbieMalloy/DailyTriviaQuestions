@@ -1,18 +1,107 @@
 {
-  "gameDate": "2026-02-19",
+  "gameDate": "2026-02-20",
   "difficulty": "hard",
   "results": [
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e09",
-      "correctAnswer": "Suzanne Collins",
+      "category": "science",
+      "id": "63a0393dc7d86251f9b65c26",
+      "correctAnswer": "Hypertext Markup Language",
       "incorrectAnswers": [
-        "Frederik Pohl",
-        "Dan Brown",
-        "Philip K. Dick"
+        "High Tech Machine Language",
+        "Hypertext Transfer Model",
+        "Hardware Technology Marker Language"
       ],
       "question": {
-        "text": "Which author wrote 'Catching Fire'?"
+        "text": "What does HTML stand for?"
+      },
+      "tags": [
+        "the_internet",
+        "technology",
+        "science",
+        "computing"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "646140f34d46e537ca8cda27",
+      "correctAnswer": "Tenzing Norgay",
+      "incorrectAnswers": [
+        "Sir Edmund Hillary",
+        "George Mallory",
+        "Reinhold Messner"
+      ],
+      "question": {
+        "text": "Who, with a Swiss team, came within 1,000 feet of the summit of Mount Everest in 1952 before reaching the summit in 1953?"
+      },
+      "tags": [
+        "climbing",
+        "mountains",
+        "people",
+        "history",
+        "1950's"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fedd",
+      "correctAnswer": "Mariah Carey",
+      "incorrectAnswers": [
+        "Drake",
+        "Nicki Minaj",
+        "Madonna"
+      ],
+      "question": {
+        "text": "Which American singer released the album 'Music Box'?"
+      },
+      "tags": [
+        "music_albums",
+        "musicians",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233866a62eaad73716a8cd1",
+      "correctAnswer": "Arizona ",
+      "incorrectAnswers": [
+        "London",
+        "The Moon",
+        "Sydney"
+      ],
+      "question": {
+        "text": "Where Is The Original London Bridge Now Situated?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ef4",
+      "correctAnswer": "Edgar Rice Burroughs",
+      "incorrectAnswers": [
+        "Jack Vance",
+        "George R. R. Martin",
+        "Robert A. Heinlein"
+      ],
+      "question": {
+        "text": "Which author wrote 'Tarzan of the Apes'?"
       },
       "tags": [
         "arts_and_literature"
@@ -23,41 +112,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c367cc59eab6f95037e",
-      "correctAnswer": "Curtis Mayfield",
-      "incorrectAnswers": [
-        "Luther Vandross",
-        "Rick James",
-        "Bill Withers"
-      ],
-      "question": {
-        "text": "Who Released The 70's Album 'Superfly'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa70",
-      "correctAnswer": "Michael Caine",
+      "id": "6497ef4d0752843c0d8aaddc",
+      "correctAnswer": "Kirk Douglas",
       "incorrectAnswers": [
-        "Tom Cruise",
-        "Michael Clarke Duncan",
-        "Jude Law"
+        "Clint Eastwood",
+        "Burt Lancaster",
+        "Anthony Hopkins"
       ],
       "question": {
-        "text": "Who won the 1999 Academy Award for Best Supporting Actor for playing the role of Dr. Wilbur Larch in The Cider House Rules?"
+        "text": "Which actor is the father-in-law of Catherine Zeta-Jones?"
       },
       "tags": [
+        "people",
         "acting",
-        "film",
-        "academy_awards",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -67,183 +135,19 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950dd7",
-      "correctAnswer": "Francisco Quevedo",
+      "id": "622a1c347cc59eab6f94f982",
+      "correctAnswer": "Brideshead Revisited",
       "incorrectAnswers": [
-        "Miguel de Cervantes",
-        "Oscar Wilde",
-        "Alphonse Daudet"
+        "Breakfast at Tiffany's",
+        "The Age of Innocence",
+        "An American Tragedy"
       ],
       "question": {
-        "text": "Which author wrote 'Spanish Parnassus'?"
+        "text": "Which book contains the character 'Sebastian Flyte'?"
       },
       "tags": [
         "literature",
         "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f893",
-      "correctAnswer": "Volleyball",
-      "incorrectAnswers": [
-        "Cycling",
-        "Golf",
-        "Rugby Union"
-      ],
-      "question": {
-        "text": "With which sport is Karch Kiraly associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624333e5b6a8efd1b34a2032",
-      "correctAnswer": "A Hob",
-      "incorrectAnswers": [
-        "A Tiercel",
-        "A Stallion",
-        "A Billy"
-      ],
-      "question": {
-        "text": "What is a male ferret known as?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9504f2",
-      "correctAnswer": "fungi",
-      "incorrectAnswers": [
-        "male health and disease",
-        "plankton",
-        "music"
-      ],
-      "question": {
-        "text": "What is Mycology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62373609cfe13103f55eb596",
-      "correctAnswer": "Vatican City",
-      "incorrectAnswers": [
-        "Moldova",
-        "Tuvalu",
-        "Vanuatu"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.va' at the end of its web addresses?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b5797fd6c701a92118369",
-      "correctAnswer": "Italy",
-      "incorrectAnswers": [
-        "Norway",
-        "Guatemala",
-        "Portugal"
-      ],
-      "question": {
-        "text": "In which country would you find the UNESCO World Heritage site of Cinque Terre?"
-      },
-      "tags": [
-        "tourist_attractions",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6488deec50a27f7378a91de4",
-      "correctAnswer": "Michael Jackson",
-      "incorrectAnswers": [
-        "Elvis Presley",
-        "John Lennon",
-        "Stevie Wonder"
-      ],
-      "question": {
-        "text": "Who was Paul McCartney's duet partner on the 1983 hit 'Say Say Say'?"
-      },
-      "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950024",
-      "correctAnswer": "Tennis",
-      "incorrectAnswers": [
-        "Soccer",
-        "Badminton",
-        "Volleyball"
-      ],
-      "question": {
-        "text": "With which sport is Chris Evert Lloyd identified?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9519ba",
-      "correctAnswer": "Anastasia",
-      "incorrectAnswers": [
-        "Natasha",
-        "Ilyana",
-        "Ivanka"
-      ],
-      "question": {
-        "text": "What daughter of Czar Nicholas II was falsely rumoured to have escaped death in the Russian Revolution?"
-      },
-      "tags": [
-        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -252,229 +156,18 @@
     },
     {
       "category": "food_and_drink",
-      "id": "639898395c9a75021f310466",
-      "correctAnswer": "Cabernet Sauvignon",
+      "id": "624ab0d9348a461bfc67069f",
+      "correctAnswer": "China",
       "incorrectAnswers": [
-        "Pinot Noir",
-        "Chardonnay",
-        "Merlot"
+        "Central America",
+        "Southeast Asia",
+        "The Middle East"
       ],
       "question": {
-        "text": "What is the most widely planted grape variety in the world?"
+        "text": "From which part of the world do persimmons originate?"
       },
       "tags": [
-        "food_and_drink",
-        "wine",
-        "drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374262cb85f7ce9e949dc7",
-      "correctAnswer": "South Sudan",
-      "incorrectAnswers": [
-        "Croatia",
-        "Turkmenistan",
-        "Laos"
-      ],
-      "question": {
-        "text": "Juba is the capital city of which country?"
-      },
-      "tags": [
-        "capital_cities",
-        "africa",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374291cb85f7ce9e949dda",
-      "correctAnswer": "Dodoma",
-      "incorrectAnswers": [
-        "Dushanbe",
-        "N'Djamena",
-        "Juba"
-      ],
-      "question": {
-        "text": "What is the capital city of Tanzania?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f9508b3",
-      "correctAnswer": "Oman",
-      "incorrectAnswers": [
-        "Qatar",
-        "Bahrain",
-        "Iran"
-      ],
-      "question": {
-        "text": "Which of these countries borders United Arab Emirates?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe10",
-      "correctAnswer": "Madrid ",
-      "incorrectAnswers": [
-        "Lisbon",
-        "Paris",
-        "Rome"
-      ],
-      "question": {
-        "text": "Which European capital city stands on the Manzanares River?"
-      },
-      "tags": [
-        "rivers",
-        "bodies_of_water",
-        "cities",
-        "capital_cities",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62433454cfaae40c12961438",
-      "correctAnswer": "An Eyas",
-      "incorrectAnswers": [
-        "A Nymph",
-        "A Calf",
-        "A Poult"
-      ],
-      "question": {
-        "text": "What is a baby hawk known as?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f9522fd",
-      "correctAnswer": "Lungs",
-      "incorrectAnswers": [
-        "Heart",
-        "Skin",
-        "Eyes"
-      ],
-      "question": {
-        "text": "Emphysema Affects Which Part Of The Body?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e12",
-      "correctAnswer": "Dan Brown",
-      "incorrectAnswers": [
-        "Stephen King",
-        "Donna Leon",
-        "Frederik Pohl"
-      ],
-      "question": {
-        "text": "Which author wrote 'Digital Fortress'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233861e62eaad73716a8cb4",
-      "correctAnswer": "The North Sea",
-      "incorrectAnswers": [
-        "The Mediterranean Sea",
-        "The Caribbean Sea",
-        "The Arabian Sea"
-      ],
-      "question": {
-        "text": "Where is Dogger Bank?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f88",
-      "correctAnswer": "Agatha Christie",
-      "incorrectAnswers": [
-        "Robert Louis Stevenson",
-        "Charles Dickens",
-        "Lewis Carroll"
-      ],
-      "question": {
-        "text": "Which author wrote 'Partners in Crime'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "65056f4b7a97013de78b5415",
-      "correctAnswer": "Morocco",
-      "incorrectAnswers": [
-        "Kenya",
-        "Bangladesh",
-        "Niger"
-      ],
-      "question": {
-        "text": "Which of these countries is part of the Arab League?"
-      },
-      "tags": [
-        "geography",
-        "organizations",
-        "organisations"
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -483,18 +176,18 @@
     },
     {
       "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc69",
-      "correctAnswer": "Meldrop",
+      "id": "6462628bab138b829b81ea28",
+      "correctAnswer": "Loggia",
       "incorrectAnswers": [
-        "Agastopia",
-        "Blatherskite",
-        "Tittynope"
+        "Terrace",
+        "Gazebo",
+        "Patio"
       ],
       "question": {
-        "text": "Which word is defined as 'A drop of mucus at the nose, whether produced by cold or otherwise'?"
+        "text": "Which of these architectural features is an outdoor corridor or gallery with a fully covered roof  and an outer wall that is open to the elements?"
       },
       "tags": [
-        "words",
+        "architecture",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -503,20 +196,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950148",
-      "correctAnswer": "Ernest Hemmingway",
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950738",
+      "correctAnswer": "Josh Brolin",
       "incorrectAnswers": [
-        "Joseph Conrad",
-        "Anthony Burgess",
-        "George Orwell"
+        "Michael Douglas",
+        "Ben Kingsley",
+        "Kiefer Sutherland"
       ],
       "question": {
-        "text": "Whose first collection of short stories entitled \"In Our Time\" was published in 1925?"
+        "text": "Which actor has starred in films including Avengers: Endgame and No Country for Old Men?"
       },
       "tags": [
-        "literature",
-        "arts_and_literature"
+        "film_and_tv",
+        "film",
+        "acting"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -525,43 +219,19 @@
     },
     {
       "category": "geography",
-      "id": "64824eaa7778562fd76a9667",
-      "correctAnswer": "Venezuela",
+      "id": "626030844b176d54800e3d2a",
+      "correctAnswer": "Cartagena",
       "incorrectAnswers": [
-        "Colombia",
-        "Peru",
-        "Chile"
+        "Caracas",
+        "Belo Horizonte",
+        "Curitiba"
       ],
       "question": {
-        "text": "The Orinoco delta is located in which South American country?"
+        "text": "Which of these cities is in Colombia?"
       },
       "tags": [
-        "geography",
-        "rivers",
-        "south_america"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62399f0aaf96521963a08714",
-      "correctAnswer": "Brazil",
-      "incorrectAnswers": [
-        "West Germany",
-        "Argentina",
-        "England"
-      ],
-      "question": {
-        "text": "Which country won the 1970 FIFA World Cup, hosted in Mexico?"
-      },
-      "tags": [
-        "football",
-        "soccer",
-        "world_cup",
-        "sport"
+        "cities",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -570,15 +240,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbef",
-      "correctAnswer": "\"My mother thanks you. My father thanks you. My sister thanks you. And I thank you.\"",
+      "id": "622a1c347cc59eab6f94fc3a",
+      "correctAnswer": "\"Why don't you come up sometime and see me?\"",
       "incorrectAnswers": [
-        "\"Here's Johnny!\"",
-        "\"I’m going to have to science the s*** out of this.\"",
-        "\"May the Force be with you.\""
+        "\"Yo, Adrian!\"",
+        "\"What’s the most you ever lost on a coin toss?\"",
+        "\"Yo, Adrian!\""
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Yankee Doodle Dandy'?"
+        "text": "Which of these quotes is from the film 'She Done Him Wrong'?"
       },
       "tags": [
         "quotes",
@@ -591,19 +261,42 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f9503c0",
-      "correctAnswer": "December 6th",
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe44",
+      "correctAnswer": "Greenland",
       "incorrectAnswers": [
-        "December 18th",
-        "December 25th",
-        "December 26th"
+        "Madagascar",
+        "Borneo",
+        "New Guinea"
       ],
       "question": {
-        "text": "When is the Feast of St. Nicholas?"
+        "text": "What is the largest island in the world? "
       },
       "tags": [
-        "general_knowledge"
+        "islands",
+        "records",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645c9f4f42ea81e2554c5f02",
+      "correctAnswer": "Angels",
+      "incorrectAnswers": [
+        "Prophets",
+        "Demons",
+        "Saints"
+      ],
+      "question": {
+        "text": "In the Islamic faith, what are Harut and Marut?"
+      },
+      "tags": [
+        "islam",
+        "religion"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -612,19 +305,337 @@
     },
     {
       "category": "music",
-      "id": "62506469e12f6dec240bdfb1",
-      "correctAnswer": "Ratt",
+      "id": "62506496e12f6dec240bdfbe",
+      "correctAnswer": "Rebirth of Slick (Cool Like Dat)",
       "incorrectAnswers": [
-        "Buster Poindexter",
-        "Devo",
-        "? & The Mysterians"
+        "Tainted Love",
+        "Don't Worry Be Happy",
+        "It Takes Two"
       ],
       "question": {
-        "text": "Who had a hit in 1984 with Round And Round?"
+        "text": "Digable Planets had a one hit wonder in 1993 with which song?"
       },
       "tags": [
         "songs",
         "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f9500f3",
+      "correctAnswer": "Leto",
+      "incorrectAnswers": [
+        "Diana",
+        "Helen",
+        "Aphrodite"
+      ],
+      "question": {
+        "text": "Who is the mother of Apollo and Artemis?"
+      },
+      "tags": [
+        "mythology",
+        "ancient_greece",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bc7",
+      "correctAnswer": "Lordi",
+      "incorrectAnswers": [
+        "Nightwish",
+        "Poets of the Fall",
+        "Stratovarius"
+      ],
+      "question": {
+        "text": "Which Finnish hard rock band released the studio album 'To Beast or Not to Beast'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950315",
+      "correctAnswer": "William Pitt",
+      "incorrectAnswers": [
+        "Anthony Eden",
+        "Margaret Thatcher",
+        "Clement Attlee"
+      ],
+      "question": {
+        "text": "Who Was The Youngest British Prime Minister?"
+      },
+      "tags": [
+        "leaders",
+        "uk",
+        "politics",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fa5b",
+      "correctAnswer": "Sam Rockwell",
+      "incorrectAnswers": [
+        "Willem Dafoe",
+        "Woody Harrelson",
+        "Richard Jenkins"
+      ],
+      "question": {
+        "text": "Who won the 2017 Academy Award for Best Supporting Actor for playing the role of Dixon in Three Billboards outside Ebbing, Missouri?"
+      },
+      "tags": [
+        "academy_awards",
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6271642f1ba117625baac94d",
+      "correctAnswer": "Caesar",
+      "incorrectAnswers": [
+        "Chibuku",
+        "Sangria",
+        "Ouzo"
+      ],
+      "question": {
+        "text": "Which of these drinks would you associate with Canada?"
+      },
+      "tags": [
+        "drink",
+        "alcohol",
+        "canada"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625064a7e12f6dec240bdfc3",
+      "correctAnswer": "Puttin' on the Ritz",
+      "incorrectAnswers": [
+        "Barbie Girl",
+        "Turn the Beat Around",
+        "What I Am"
+      ],
+      "question": {
+        "text": "Taco had a one hit wonder in 1983 with which song?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "637162591bf863c45ca6c36e",
+      "correctAnswer": "Igne natura renovatur integra",
+      "incorrectAnswers": [
+        "Nil volentibus arduum",
+        "Suum cuique",
+        "Praesis ut prosis ne ut imperes"
+      ],
+      "question": {
+        "text": "Which of these Latin phrases means 'Through fire, nature is reborn whole'?"
+      },
+      "tags": [
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417d280f96c4efe8d773aa",
+      "correctAnswer": "Houston Dynamo",
+      "incorrectAnswers": [
+        "Houston Saints",
+        "Houston Islanders",
+        "Houston Fire"
+      ],
+      "question": {
+        "text": "Which of these is a soccer team based in Houston?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c54",
+      "correctAnswer": "Iron Maiden",
+      "incorrectAnswers": [
+        "Deep Purple",
+        "Feeder",
+        "Squeeze"
+      ],
+      "question": {
+        "text": "Which English heavy metal band released the song 'Sanctuary'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950863",
+      "correctAnswer": "France",
+      "incorrectAnswers": [
+        "Monaco",
+        "Switzerland",
+        "Luxembourg"
+      ],
+      "question": {
+        "text": "Which of these countries borders Andorra?"
+      },
+      "tags": [
+        "europe",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62373599cfe13103f55eb54a",
+      "correctAnswer": "Nicaragua",
+      "incorrectAnswers": [
+        "Niger",
+        "Nigeria",
+        "Namibia"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.ni' at the end of its web addresses?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eba",
+      "correctAnswer": "Oscar Wilde",
+      "incorrectAnswers": [
+        "Charles Dickens",
+        "G. K. Chesterton",
+        "Alphonse Daudet"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Happy Prince and Other Tales'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d2a",
+      "correctAnswer": "The Beatles",
+      "incorrectAnswers": [
+        "Wishbone Ash",
+        "The Kinks",
+        "The Clash"
+      ],
+      "question": {
+        "text": "Which English rock band released the song 'Taxman'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c18",
+      "correctAnswer": "Nirvana",
+      "incorrectAnswers": [
+        "Counting Crows",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which American rock band released the album 'Bleach'?"
+      },
+      "tags": [
+        "rock_music",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c367cc59eab6f950218",
+      "correctAnswer": "Cream ",
+      "incorrectAnswers": [
+        "Deep Purple",
+        "Led Zeppelin",
+        "Prince"
+      ],
+      "question": {
+        "text": "Who released the album 'Strange brew '"
+      },
+      "tags": [
         "music"
       ],
       "type": "text_choice",
