@@ -1,22 +1,23 @@
 {
-  "gameDate": "2026-02-20",
+  "gameDate": "2026-02-21",
   "difficulty": "random",
   "results": [
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f890",
-      "correctAnswer": "Golf",
+      "category": "society_and_culture",
+      "id": "63dd25d0742e43ed64f1f024",
+      "correctAnswer": "Price Discrimination",
       "incorrectAnswers": [
-        "Cricket",
-        "Badminton",
-        "Surfing"
+        "Price Fixing",
+        "Monopoly",
+        "Oligopoly"
       ],
       "question": {
-        "text": "With which sport is Seve Ballesteros associated?"
+        "text": "In business, what is the term for a strategy of selling similar goods or services at different prices in different markets?"
       },
       "tags": [
-        "people",
-        "sport"
+        "society_and_culture",
+        "economics",
+        "business"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -24,40 +25,22 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "645cb19b7d263fd5097043ec",
-      "correctAnswer": "Lionize",
+      "category": "science",
+      "id": "6461407e4d46e537ca8cd9e5",
+      "correctAnswer": "Mach Number",
       "incorrectAnswers": [
-        "Tigerize",
-        "Pantherize",
-        "Hyenize"
+        "Speed Ratio Number",
+        "Sound Multiple",
+        "Chain Number"
       ],
       "question": {
-        "text": "Which of these words means \"to treat someone like a celebrity\"?"
+        "text": "What is the name of the number that represents how fast something is travelling relative to the speed of sound?"
       },
       "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ec1",
-      "correctAnswer": "Mark Twain",
-      "incorrectAnswers": [
-        "Cassandra Clare",
-        "Isabel Allende",
-        "George R. R. Martin"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Adventures of Tom Sawyer'?"
-      },
-      "tags": [
-        "arts_and_literature"
+        "physics",
+        "technology",
+        "aviation",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -65,21 +48,22 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb61",
-      "correctAnswer": "The Apartment",
+      "category": "science",
+      "id": "647c981ff89e0968cfbc1a15",
+      "correctAnswer": "Copernicus",
       "incorrectAnswers": [
-        "The Alamo",
-        "Elmer Gantry",
-        "Sons and Lovers"
+        "Kepler",
+        "Galileo",
+        "Hubble"
       ],
       "question": {
-        "text": "Which film won the Academy Award for Best Picture in 1960?"
+        "text": "Which Polish astronomer has craters on the moon and Mars named after him?"
       },
       "tags": [
-        "academy_awards",
-        "film",
-        "film_and_tv"
+        "astronomy",
+        "people",
+        "science",
+        "the_solar_system"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -87,21 +71,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "645f9526541c4d4fc8cf2eb0",
-      "correctAnswer": "Tokyo",
+      "category": "science",
+      "id": "622a1c3f7cc59eab6f95236a",
+      "correctAnswer": "Bioluminescent",
       "incorrectAnswers": [
-        "Osaka",
-        "Kyoto",
-        "Sapporo"
+        "Glogasmic",
+        "Technicolor",
+        "Natulight"
       ],
       "question": {
-        "text": "Which Japanese city is served by Narita Airport?"
+        "text": "Animals and plants which produce light are said to be what?"
       },
       "tags": [
-        "japan",
-        "airports",
-        "tourism"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -110,42 +92,22 @@
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f951a3e",
-      "correctAnswer": "Thermopylae",
+      "id": "622a1c367cc59eab6f950342",
+      "correctAnswer": "Jane Seymour",
       "incorrectAnswers": [
-        "Marathon",
-        "Corinth",
-        "Troy"
+        "Anne Boleyn",
+        "Catherine Parr",
+        "Catherine Howard"
       ],
       "question": {
-        "text": "Where was the Greek army of Leonides annihilated by Persians in 480BC?"
+        "text": "Who Was The 3rd Wife Of Henry VIII?"
       },
       "tags": [
+        "medieval",
+        "kings",
+        "uk",
+        "middle_ages",
         "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056f187a97013de78b53cd",
-      "correctAnswer": "DOUX",
-      "incorrectAnswers": [
-        "TART",
-        "SVIN",
-        "POUT"
-      ],
-      "question": {
-        "text": "Which letters indicate that a French wine is sweet?"
-      },
-      "tags": [
-        "food_and_drink",
-        "drink",
-        "wine",
-        "french",
-        "alcohol"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -153,19 +115,42 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "625fd758dc0dd3b72da64d35",
-      "correctAnswer": "1990",
+      "category": "society_and_culture",
+      "id": "6488889c5dba6c873ef65070",
+      "correctAnswer": "New Zealand",
       "incorrectAnswers": [
-        "1982",
-        "1986",
-        "1994"
+        "Japan",
+        "Canada",
+        "Brazil"
       ],
       "question": {
-        "text": "In which year was Dances with Wolves released?"
+        "text": "Which country's indigenous population is known as the Māori?"
       },
       "tags": [
+        "countries",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "624dba5ccd90beeca353156d",
+      "correctAnswer": "Sean Connery",
+      "incorrectAnswers": [
+        "George Lazenby",
+        "Roger Moore",
+        "Pierce Brosnan"
+      ],
+      "question": {
+        "text": "Who played the role of James Bond in Goldfinger?"
+      },
+      "tags": [
+        "james_bond",
         "film",
+        "acting",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -175,22 +160,104 @@
     },
     {
       "category": "geography",
-      "id": "62373fc6cb85f7ce9e949cba",
-      "correctAnswer": "Bandar Seri Begawan",
+      "id": "623b57c7fd6c701a9211837c",
+      "correctAnswer": "Tanzania",
       "incorrectAnswers": [
-        "Beirut",
-        "Apia",
-        "Lilongwe"
+        "Cuba",
+        "Iran",
+        "Nigeria"
       ],
       "question": {
-        "text": "What is the capital city of Brunei?"
+        "text": "In which country would you find the Serengeti National Park?"
       },
       "tags": [
-        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b57e8fd6c701a92118387",
+      "correctAnswer": "Turkey",
+      "incorrectAnswers": [
+        "Bosnia & Herzegovina",
+        "France",
+        "Italy"
+      ],
+      "question": {
+        "text": "In which country would you find the ancient Greek city of Hierapolis?"
+      },
+      "tags": [
         "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624334f8cfaae40c12961479",
+      "correctAnswer": "A Piglet",
+      "incorrectAnswers": [
+        "A Maggot",
+        "A Cygnet",
+        "A Colt"
+      ],
+      "question": {
+        "text": "What is the word for a young pig?"
+      },
+      "tags": [
+        "animals",
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6242e847a22452794eaef20f",
+      "correctAnswer": "The Seasiders",
+      "incorrectAnswers": [
+        "The Canaries",
+        "The Robins",
+        "The Blades"
+      ],
+      "question": {
+        "text": "What is the nickname of the English football team Blackpool?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63bc3fb10e893d6e5a6a0fe0",
+      "correctAnswer": "Gothic",
+      "incorrectAnswers": [
+        "Grunge",
+        "Hippie",
+        "Preppy"
+      ],
+      "question": {
+        "text": "What is the name of the fashion trend popularized in the 1990s that involves wearing dark colours, plaid shirts, Doc Martens, and ripped jeans?"
+      },
+      "tags": [
+        "society_and_culture",
+        "fashion"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
@@ -215,40 +282,40 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951357",
-      "correctAnswer": "Pop art",
+      "category": "geography",
+      "id": "6237421fcb85f7ce9e949dac",
+      "correctAnswer": "Apia",
       "incorrectAnswers": [
-        "Dadaism",
-        "Surrealism",
-        "Cubism"
+        "Lomé",
+        "Maputo",
+        "Podgorica"
       ],
       "question": {
-        "text": "Which 1950's art movement presented a challenge to traditions of fine art by including imagery from popular and mass culture?"
+        "text": "What is the capital city of Samoa?"
       },
       "tags": [
-        "art",
-        "1950's"
+        "geography"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ee8",
-      "correctAnswer": "Charles Dickens",
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fe20",
+      "correctAnswer": "Three Gorges Dam",
       "incorrectAnswers": [
-        "Oscar Wilde",
-        "Joseph Conrad",
-        "Henryk Sienkiewicz"
+        "Grand Coulee Dam",
+        "Hoover Dam",
+        "Oroville Dam"
       ],
       "question": {
-        "text": "Which author wrote 'The Mystery of Edwin Drood'?"
+        "text": "What is the worlds longest concrete dam?"
       },
       "tags": [
-        "arts_and_literature"
+        "records",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -257,39 +324,41 @@
     },
     {
       "category": "geography",
-      "id": "625e9efd796f721e95543f7b",
-      "correctAnswer": "Jamaica",
+      "id": "623b57bafd6c701a92118377",
+      "correctAnswer": "Croatia",
       "incorrectAnswers": [
-        "Morocco",
-        "Gabon",
-        "Spain"
+        "Italy",
+        "Australia",
+        "Czech Republic"
       ],
       "question": {
-        "text": "Which country's flag can be described as 'Black and green triangles divided by a yellow cross.'?"
+        "text": "In which country would you find the Plitvice Lakes National Park?"
       },
       "tags": [
-        "flags",
+        "tourist_attractions",
         "geography"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "625fd72cdc0dd3b72da64d28",
-      "correctAnswer": "1959",
+      "id": "622a1c347cc59eab6f94fac7",
+      "correctAnswer": "Casey Affleck",
       "incorrectAnswers": [
-        "1953",
-        "1965",
-        "1971"
+        "Andrew Garfield",
+        "Ryan Gosling",
+        "Viggo Mortensen"
       ],
       "question": {
-        "text": "In which year was Ben-Hur first released in the cinema?"
+        "text": "Who won the 2016 Academy Award for Best Leading Actor for playing the role of Lee Chandler in Manchester by the Sea?"
       },
       "tags": [
+        "acting",
         "film",
+        "academy_awards",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -298,187 +367,19 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515b0",
-      "correctAnswer": "Hot Spice ",
+      "category": "geography",
+      "id": "622a1c3c7cc59eab6f951afd",
+      "correctAnswer": "Romania",
       "incorrectAnswers": [
-        "Strong Taste",
-        "Lazy Cooking",
-        "Secret Flavour"
+        "Poland",
+        "Ireland",
+        "France"
       ],
       "question": {
-        "text": "What does 'Garam Masala' mean in Hindi?"
+        "text": "In Which Modern Day Country Would You Find The Region Known As Transylvania?"
       },
       "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503c6",
-      "correctAnswer": "Britain",
-      "incorrectAnswers": [
-        "France",
-        "Germany",
-        "China"
-      ],
-      "question": {
-        "text": "What was the third country to get the atomic bomb?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950309",
-      "correctAnswer": "Chucky",
-      "incorrectAnswers": [
-        "Freddie Kruger",
-        "Michael Myers",
-        "Leatherface"
-      ],
-      "question": {
-        "text": "Which Scary Movie Character Has The real name Charles Lee Ray?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "626288724b176d54800e3d9d",
-      "correctAnswer": "Obey your thirst",
-      "incorrectAnswers": [
-        "Twist the cap to refreshment",
-        "It's the real thing",
-        "Open Happiness"
-      ],
-      "question": {
-        "text": "Which marketing slogan would you associate with Sprite?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "drink",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "645ba87ff09106226db23588",
-      "correctAnswer": "Chirac",
-      "incorrectAnswers": [
-        "Macron",
-        "Hollande",
-        "Sarkozy"
-      ],
-      "question": {
-        "text": "Which Pompidou protege and recent French president organized talks with trade unions after France's 1968 mass demonstrations?"
-      },
-      "tags": [
-        "world_leaders",
-        "france",
-        "europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9518b9",
-      "correctAnswer": "Caesarion",
-      "incorrectAnswers": [
-        "Octavian",
-        "Augustus",
-        "Commodus"
-      ],
-      "question": {
-        "text": "What was the name of the son of Cleopatra & Julius Caesar?"
-      },
-      "tags": [
-        "romans",
-        "the_ancient_world",
-        "people",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e07",
-      "correctAnswer": "Salman Rushdie",
-      "incorrectAnswers": [
-        "Henry James",
-        "Brandon Sanderson",
-        "Vladimir Nabokov"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Satanic Verses'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c4c",
-      "correctAnswer": "The Beach Boys",
-      "incorrectAnswers": [
-        "Swans",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American rock band released the song 'Blue Christmas'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c7b",
-      "correctAnswer": "U2",
-      "incorrectAnswers": [
-        "Public Image Ltd.",
-        "The Script",
-        "The Cure"
-      ],
-      "question": {
-        "text": "Which Irish rock band released the studio album 'No Line on the Horizon'?"
-      },
-      "tags": [
-        "music"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -487,85 +388,45 @@
     },
     {
       "category": "film_and_tv",
-      "id": "624dba29de6018633d31f6b8",
-      "correctAnswer": "Tom Jones",
+      "id": "622a1c347cc59eab6f94fa9f",
+      "correctAnswer": "Rachel Weisz",
       "incorrectAnswers": [
-        "Adele",
-        "Shirley Bassey",
-        "Duran Duran"
+        "Amy Adams",
+        "Catherine Keener",
+        "Frances McDormand"
       ],
       "question": {
-        "text": "Who performed the theme song to the James Bond film Thunderball?"
+        "text": "Who won the 2005 Academy Award for Best Supporting Actress for playing the role of Tessa Quayle in The Constant Gardener?"
       },
       "tags": [
-        "james_bond",
+        "acting",
+        "film",
+        "academy_awards",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd98",
+      "correctAnswer": "I Just Called To Say I Love You",
+      "incorrectAnswers": [
+        "I Wish",
+        "Sir Duke",
+        "Superstitious"
+      ],
+      "question": {
+        "text": "Which Stevie Wonder Hit Featured In The Movie “The Woman In Red”?"
+      },
+      "tags": [
         "film",
         "soundtracks",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64720cd93bbb58c31f411cd4",
-      "correctAnswer": "Adam Smith",
-      "incorrectAnswers": [
-        "Karl Marx",
-        "John Maynard Keynes",
-        "Milton Friedman"
-      ],
-      "question": {
-        "text": "\"Wealth of Nations\" was written by which economist?"
-      },
-      "tags": [
-        "economics",
-        "philosophy",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950cf3",
-      "correctAnswer": "The Beatles",
-      "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Uriah Heep"
-      ],
-      "question": {
-        "text": "Which English rock band released the album 'Magical Mystery Tour'?"
-      },
-      "tags": [
+        "musicians",
+        "songs",
         "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374262cb85f7ce9e949dc7",
-      "correctAnswer": "South Sudan",
-      "incorrectAnswers": [
-        "Croatia",
-        "Turkmenistan",
-        "Laos"
-      ],
-      "question": {
-        "text": "Juba is the capital city of which country?"
-      },
-      "tags": [
-        "capital_cities",
-        "africa",
-        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -574,17 +435,84 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f9504e7",
-      "correctAnswer": "nerves",
+      "id": "622a1c3a7cc59eab6f951073",
+      "correctAnswer": "Black",
       "incorrectAnswers": [
-        "embryos",
-        "the study and psychology of organisms with regard to their functions and structures",
-        "mollusks"
+        "White",
+        "Red",
+        "Brown"
       ],
       "question": {
-        "text": "What is Neurology the study of?"
+        "text": "What color spots has the common ladybird?"
       },
       "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623385c262eaad73716a8c8f",
+      "correctAnswer": "The Congo ",
+      "incorrectAnswers": [
+        "The Benghazi",
+        "The Delta",
+        "The Rhone"
+      ],
+      "question": {
+        "text": "What Is The River Zaire Also Known As?"
+      },
+      "tags": [
+        "rivers",
+        "bodies_of_water",
+        "africa",
+        "names",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "627164b21ba117625baac96f",
+      "correctAnswer": "Akevitt",
+      "incorrectAnswers": [
+        "Slivovitz",
+        "Mama Juana",
+        "Gin"
+      ],
+      "question": {
+        "text": "Which of these drinks would you associate with Norway?"
+      },
+      "tags": [
+        "drink",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "648891864cd3f064f443dc35",
+      "correctAnswer": "Pheromones",
+      "incorrectAnswers": [
+        "Neurotransmitters",
+        "Hormones",
+        "Proteins"
+      ],
+      "question": {
+        "text": "What type of chemical calling cards are released by an animal to affect other members of its species?"
+      },
+      "tags": [
+        "animals",
+        "biology",
         "science"
       ],
       "type": "text_choice",
@@ -593,20 +521,63 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd64",
-      "correctAnswer": "George Harrison",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f94e",
+      "correctAnswer": "Heart of Darkness",
       "incorrectAnswers": [
-        "Oasis",
-        "Paul Simon",
-        "Robbie Williams"
+        "Blindness",
+        "The Catcher in the Rye",
+        "Howards End"
       ],
       "question": {
-        "text": "Whose Debut Solo Album Was Titled \"Wonderwall Music\"?"
+        "text": "Which book contains the character 'Charlie Marlow'?"
       },
       "tags": [
-        "music_albums",
-        "music"
+        "fictitious_characters",
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6271641a1ba117625baac947",
+      "correctAnswer": "Bolivia",
+      "incorrectAnswers": [
+        "Ukraine",
+        "China",
+        "Belgium"
+      ],
+      "question": {
+        "text": "In which country is singani a popular drink?"
+      },
+      "tags": [
+        "drink",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "645bc75b4638d58091b1b9e9",
+      "correctAnswer": "Las Vegas",
+      "incorrectAnswers": [
+        "Los Angeles",
+        "Lansing",
+        "Louisiana"
+      ],
+      "question": {
+        "text": "Which city is represented by the airport code LAS?"
+      },
+      "tags": [
+        "airports",
+        "usa"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -614,24 +585,68 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6357fd0f68bd5000211e7178",
-      "correctAnswer": "Portuguese",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc10",
+      "correctAnswer": "\"Elementary, my dear Watson.\"",
       "incorrectAnswers": [
-        "Swahili",
-        "Cantonese",
-        "Telugu"
+        "\"Keep your friends close, but your enemies closer.\"",
+        "\"My mother thanks you. My father thanks you. My sister thanks you. And I thank you.\"",
+        "\"My precious.\""
       ],
       "question": {
-        "text": "Which of these languages would you find spoken in Mozambique?"
+        "text": "Which of these quotes is from the film 'The Adventures of Sherlock Holmes'?"
       },
       "tags": [
-        "language",
-        "linguistics",
-        "society_and_culture"
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8e3",
+      "correctAnswer": "Peter O'Toole",
+      "incorrectAnswers": [
+        "Robert Mitchum",
+        "John Cusack",
+        "Anthony Hopkins"
+      ],
+      "question": {
+        "text": "Which actor played the role of Alan Swann in My Favorite Year?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "64a1c901c1e45722061c31b5",
+      "correctAnswer": "Gulf of St. Lawrence",
+      "incorrectAnswers": [
+        "Hudson Bay",
+        "Bay of Fundy",
+        "Gulf of Mexico"
+      ],
+      "question": {
+        "text": "Which body of water is located between Newfoundland and the Canadian mainland?"
+      },
+      "tags": [
+        "geography",
+        "canada",
+        "bodies_of_water"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     }
