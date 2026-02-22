@@ -1,23 +1,111 @@
 {
-  "gameDate": "2026-02-21",
+  "gameDate": "2026-02-22",
   "difficulty": "easy",
   "results": [
     {
-      "category": "geography",
-      "id": "62602d284b176d54800e3c83",
-      "correctAnswer": "Munich",
+      "category": "society_and_culture",
+      "id": "65056f747a97013de78b544f",
+      "correctAnswer": "Indigenous cultures",
       "incorrectAnswers": [
-        "Valencia",
-        "Budapest",
-        "Milan"
+        "Modern corporations",
+        "Ancient Greek city-states",
+        "Medieval European guilds"
       ],
       "question": {
-        "text": "Which of these cities is in Germany?"
+        "text": "Totems are most commonly associated with which of the following?"
       },
       "tags": [
-        "cities",
-        "europe",
-        "germany",
+        "culture",
+        "anthropology",
+        "totem"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "646b3ec40361c7fb32d6b6cb",
+      "correctAnswer": "Blue",
+      "incorrectAnswers": [
+        "Green",
+        "Yellow",
+        "Red"
+      ],
+      "question": {
+        "text": "What color are Smurfs?"
+      },
+      "tags": [
+        "tv",
+        "film_and_tv",
+        "cartoons",
+        "colours"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e610ff2394bd44dee02e",
+      "correctAnswer": "One",
+      "incorrectAnswers": [
+        "Yellow",
+        "Eight",
+        "Ten"
+      ],
+      "question": {
+        "text": "In Spanish, what is the meaning of the word 'uno'?"
+      },
+      "tags": [
+        "language",
+        "translations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "64824eaa7778562fd76a9663",
+      "correctAnswer": "San Francisco Bay",
+      "incorrectAnswers": [
+        "Monterey Bay",
+        "Santa Monica Bay",
+        "San Diego Bay"
+      ],
+      "question": {
+        "text": "What bay is connected to the Pacific Ocean by the three-mile-long Golden Gate Strait?"
+      },
+      "tags": [
+        "bodies_of_water",
+        "bays",
+        "geography",
+        "usa"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b584dfd6c701a921183ae",
+      "correctAnswer": "Russia",
+      "incorrectAnswers": [
+        "Argentina",
+        "Hungary",
+        "Spain"
+      ],
+      "question": {
+        "text": "In which country would you find The Kremlin and Red Square?"
+      },
+      "tags": [
+        "tourist_attractions",
         "general_knowledge",
         "geography"
       ],
@@ -27,20 +115,23 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "646262b5ab138b829b81ea4a",
-      "correctAnswer": "Operation",
+      "category": "science",
+      "id": "645b4f1f067ef798d1455087",
+      "correctAnswer": "DNA",
       "incorrectAnswers": [
-        "Surgery",
-        "Trauma Center",
-        "ER"
+        "GCI",
+        "ATP",
+        "COD"
       ],
       "question": {
-        "text": "Which game  involves a patient called Cavity Sam, from whom players must remove objects using a pair of tweezers?"
+        "text": "What is the abbreviation for the polymer that carries genetic instructions for living cells?"
       },
       "tags": [
-        "games",
-        "board_games"
+        "biology",
+        "chemistry",
+        "genetics",
+        "science",
+        "initials"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -48,19 +139,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d2e",
-      "correctAnswer": "The Beatles",
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f950120",
+      "correctAnswer": "Allah",
       "incorrectAnswers": [
-        "Oasis",
-        "Led Zeppelin",
-        "The Clash"
+        "Mohammed",
+        "Yaweh",
+        "Jehovah"
       ],
       "question": {
-        "text": "Which English rock band released the song 'Hey Jude'?"
+        "text": "What is God called in the Muslim faith?"
       },
       "tags": [
-        "music"
+        "religion",
+        "islam",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -68,20 +161,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623b5834fd6c701a921183a4",
-      "correctAnswer": "Russia",
+      "category": "history",
+      "id": "65056e717a97013de78b52e4",
+      "correctAnswer": "Apollo",
       "incorrectAnswers": [
-        "Bosnia & Herzegovina",
-        "Greece",
-        "Sweden"
+        "Gemini",
+        "Mercury",
+        "Skylab"
       ],
       "question": {
-        "text": "In which country would you find the city of Saint Petersburg?"
+        "text": "Which space program first sent humans to the Moon?"
       },
       "tags": [
-        "cities",
-        "general_knowledge"
+        "history",
+        "space"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -90,17 +183,83 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f951081",
-      "correctAnswer": "Blue",
+      "id": "622a1c3c7cc59eab6f951924",
+      "correctAnswer": "A Reindeer",
       "incorrectAnswers": [
-        "Yellow",
-        "Purple",
-        "Red"
+        "A Whale",
+        "A Mouse",
+        "A Spider"
       ],
       "question": {
-        "text": "What Colour Is Sonic the Hedgehog?"
+        "text": "What type of animal is a caribou?"
       },
       "tags": [
+        "animals",
+        "names",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950a5c",
+      "correctAnswer": "Russia",
+      "incorrectAnswers": [
+        "Bulgaria",
+        "Lithuania",
+        "Latvia"
+      ],
+      "question": {
+        "text": "Which of these countries borders Ukraine?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6477bad7550bc819ad646b38",
+      "correctAnswer": "Pepsi",
+      "incorrectAnswers": [
+        "Coca-Cola",
+        "Dr. Pepper",
+        "Mountain Dew"
+      ],
+      "question": {
+        "text": "What is the name of the soda company whose diet version includes the word 'Max' in its name, referring to its taste?"
+      },
+      "tags": [
+        "drink",
+        "food_and_drink",
+        "brands"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951015",
+      "correctAnswer": "Herbivore",
+      "incorrectAnswers": [
+        "Vegitarian",
+        "Vegivore",
+        "Omnivore"
+      ],
+      "question": {
+        "text": "What name is given to animals which only eat plants?"
+      },
+      "tags": [
+        "animals",
+        "biology",
         "science"
       ],
       "type": "text_choice",
@@ -110,17 +269,19 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950083",
-      "correctAnswer": "Basketball",
+      "id": "622a1c347cc59eab6f94f8be",
+      "correctAnswer": "Tennis",
       "incorrectAnswers": [
-        "Volleyball",
-        "Football",
-        "Baseball"
+        "Badminton",
+        "Swimming",
+        "Cycling"
       ],
       "question": {
-        "text": "What Sport Do The Harlem Globetrotters Play?"
+        "text": "With which sport is Roger Federer associated?"
       },
       "tags": [
+        "people",
+        "general_knowledge",
         "sport"
       ],
       "type": "text_choice",
@@ -129,63 +290,20 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "63b0588a4799123c67712f56",
-      "correctAnswer": "Corona",
-      "incorrectAnswers": [
-        "Budweiser",
-        "Coors",
-        "Heineken"
-      ],
-      "question": {
-        "text": "Which of these is a popular Mexican beer?"
-      },
-      "tags": [
-        "mexico",
-        "drink",
-        "beer",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9507ad",
-      "correctAnswer": "Tom Hanks",
-      "incorrectAnswers": [
-        "Ewan McGregor",
-        "Will Smith",
-        "Tom Cruise"
-      ],
-      "question": {
-        "text": "Which actor has featured in films including Forrest Gump and Apollo 13?"
-      },
-      "tags": [
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "general_knowledge",
-      "id": "622a1c3d7cc59eab6f951b87",
-      "correctAnswer": "Apple",
+      "id": "6239f843a72e7a347ac879da",
+      "correctAnswer": "Yankee",
       "incorrectAnswers": [
-        "Blackberry",
-        "Microsoft",
-        "Google"
+        "Yearly",
+        "Yum",
+        "Yurt"
       ],
       "question": {
-        "text": "Which computer company was set up by Steven Jobs and Stephen Wozniak?"
+        "text": "What word is used in the NATO Phonetic Alphabet for the letter Y?"
       },
       "tags": [
+        "words",
+        "language",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -194,8 +312,313 @@
       "isNiche": false
     },
     {
+      "category": "general_knowledge",
+      "id": "6462624dab138b829b81e9f0",
+      "correctAnswer": "Lingerie",
+      "incorrectAnswers": [
+        "Corsetry",
+        "Foundation garments",
+        "Intimates"
+      ],
+      "question": {
+        "text": "What is the fancy name for women's underwear, which is derived from a French word?"
+      },
+      "tags": [
+        "clothing",
+        "fashion",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63d95321168979b94b2e4fa3",
+      "correctAnswer": "Charles Darwin",
+      "incorrectAnswers": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei"
+      ],
+      "question": {
+        "text": "Who developed the theory of evolution by natural selection?"
+      },
+      "tags": [
+        "science",
+        "scientific_discoveries"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f951635",
+      "correctAnswer": "Bread",
+      "incorrectAnswers": [
+        "Cheese",
+        "Fruit",
+        "Nut"
+      ],
+      "question": {
+        "text": " What type of food is pitta?"
+      },
+      "tags": [
+        "food",
+        "general_knowledge",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "646262f6ab138b829b81ea69",
+      "correctAnswer": "Thee",
+      "incorrectAnswers": [
+        "Himself",
+        "His mother",
+        "The moon"
+      ],
+      "question": {
+        "text": "In sonnet 18, who is Shakespeare comparing to a summer's day?"
+      },
+      "tags": [
+        "poetry",
+        "shakespeare",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eac",
+      "correctAnswer": "J. K. Rowling",
+      "incorrectAnswers": [
+        "Christopher Tolkien",
+        "Philip Pullman",
+        "C. S. Lewis"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Tales of Beedle the Bard'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
       "category": "music",
-      "id": "622a1c357cc59eab6f94ff4d",
+      "id": "622a1c357cc59eab6f94fe7a",
+      "correctAnswer": "Lady Gaga",
+      "incorrectAnswers": [
+        "Hikaru Utada",
+        "Drake",
+        "Madonna"
+      ],
+      "question": {
+        "text": "Which American singer, songwriter, and actress released the song 'Just Dance'?"
+      },
+      "tags": [
+        "songs",
+        "musicians",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95023f",
+      "correctAnswer": "Al dente ",
+      "incorrectAnswers": [
+        "Tartilli",
+        "Forte Benne",
+        "Parpa Delle"
+      ],
+      "question": {
+        "text": "Which Italian phrase is used to describe pasta cooked only until it offers a slight resistance when bitten?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "626288b34b176d54800e3daf",
+      "correctAnswer": "Guinness",
+      "incorrectAnswers": [
+        "Stella Artois",
+        "Budweiser",
+        "Fosters"
+      ],
+      "question": {
+        "text": "Which beer brand is associated with the marketing slogan 'Good things come to those who wait'?"
+      },
+      "tags": [
+        "business",
+        "marketing",
+        "drink",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417ccb8c3137686862d73b",
+      "correctAnswer": "Boston Red Sox",
+      "incorrectAnswers": [
+        "Boston United",
+        "Boston Pirates",
+        "Boston Inter"
+      ],
+      "question": {
+        "text": "Which of these is a baseball team based in Boston?"
+      },
+      "tags": [
+        "baseball",
+        "nba",
+        "usa",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbcd",
+      "correctAnswer": "\"With great power comes great responsiblity.\"",
+      "incorrectAnswers": [
+        "\"I love lamp.\"",
+        "\"Which would be worse, to live a monster or die as a good man?\"",
+        "\"La-dee-da, la-dee-da.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Spider-Man'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "marvel",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63f39521989356ef48370c23",
+      "correctAnswer": "Origami",
+      "incorrectAnswers": [
+        "Kabuki",
+        "Kintsugi",
+        "Kokeshi"
+      ],
+      "question": {
+        "text": "What is the name of the traditional Japanese art of paper folding?"
+      },
+      "tags": [
+        "japan",
+        "society_and_culture",
+        "traditions",
+        "art"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "65056ef77a97013de78b539f",
+      "correctAnswer": "Adverb",
+      "incorrectAnswers": [
+        "Adjective",
+        "Noun",
+        "Conjunction"
+      ],
+      "question": {
+        "text": "Which part of speech is 'hastily'?"
+      },
+      "tags": [
+        "language",
+        "grammar",
+        "vocabulary"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95139b",
+      "correctAnswer": "Harry Potter",
+      "incorrectAnswers": [
+        "Voyages Extraordinaires",
+        "Percy Jackson & the Olympians",
+        "Twilight"
+      ],
+      "question": {
+        "text": "In which book series does 'Ginny Weasley' appear?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b5843fd6c701a921183aa",
+      "correctAnswer": "Japan",
+      "incorrectAnswers": [
+        "Indonesia",
+        "Thailand",
+        "China"
+      ],
+      "question": {
+        "text": "In which country would you find city of Kyoto?"
+      },
+      "tags": [
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff53",
       "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
         "Nicki Minaj",
@@ -203,7 +626,7 @@
         "Eric Clapton"
       ],
       "question": {
-        "text": "Which musician released the album 'Off the Wall'?"
+        "text": "Which American singer released the album 'Dangerous'?"
       },
       "tags": [
         "music_albums",
@@ -218,438 +641,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "65056e8d7a97013de78b530b",
-      "correctAnswer": "Bank",
-      "incorrectAnswers": [
-        "Book store",
-        "Joint venture",
-        "Pulp mill"
-      ],
-      "question": {
-        "text": "What do you call a business that lends and borrows money?"
-      },
-      "tags": [
-        "finance",
-        "banking",
-        "business"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f89d",
-      "correctAnswer": "Cricket",
-      "incorrectAnswers": [
-        "Volleyball",
-        "Badminton",
-        "Ice Hockey"
-      ],
-      "question": {
-        "text": "With which sport is Shane Warne associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ff80",
-      "correctAnswer": "London",
-      "incorrectAnswers": [
-        "Cardiff",
-        "Edinburgh",
-        "Glasgow"
-      ],
-      "question": {
-        "text": "What is the capital of the United Kingdom"
-      },
-      "tags": [
-        "capital_cities",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6266bb34ff7b6ee0496ec784",
-      "correctAnswer": "Percussion",
-      "incorrectAnswers": [
-        "Brass",
-        "Stringed",
-        "Woodwind"
-      ],
-      "question": {
-        "text": "What type of instrument is a bongo?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6505702d7a97013de78b554d",
-      "correctAnswer": "24 karat",
-      "incorrectAnswers": [
-        "22 karat",
-        "30 karat",
-        "12 karat"
-      ],
-      "question": {
-        "text": "How many karats are in pure gold?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "639c9da4929b90846f2fc97a",
-      "correctAnswer": "Ramadan",
-      "incorrectAnswers": [
-        "Passover",
-        "Yom Kippur",
-        "Lent"
-      ],
-      "question": {
-        "text": "What is the name for the Islamic fasting period?"
-      },
-      "tags": [
-        "islam",
-        "religion",
-        "society_and_culture",
-        "traditions"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c60bc50d1a5e051325a70",
-      "correctAnswer": "Japan",
-      "incorrectAnswers": [
-        "Turkey",
-        "Spain",
-        "Estonia"
-      ],
-      "question": {
-        "text": "Where in the world would you most expect to be served Sushi?"
-      },
-      "tags": [
-        "food",
-        "general_knowledge",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6242cafdd543524f1b19c901",
-      "correctAnswer": "A flock",
-      "incorrectAnswers": [
-        "A fall",
-        "A gang",
-        "A yoke"
-      ],
-      "question": {
-        "text": "What is the word for a group of birds?"
-      },
-      "tags": [
-        "birds",
-        "words",
-        "general_knowledge",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "645b431a067ef798d1455082",
-      "correctAnswer": "Romeo",
-      "incorrectAnswers": [
-        "Tybalt",
-        "Mercutio",
-        "Paris"
-      ],
-      "question": {
-        "text": "Which character in Romeo & Juliet totally forgets about his crush on Rosaline and falls in love with Juliet?"
-      },
-      "tags": [
-        "shakespeare",
-        "theater",
-        "romeo_and_juliet",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602d104b176d54800e3c7c",
-      "correctAnswer": "Germany",
-      "incorrectAnswers": [
-        "Croatia",
-        "Albania",
-        "Switzerland"
-      ],
-      "question": {
-        "text": "In which country is the city of Berlin?"
-      },
-      "tags": [
-        "cities",
-        "europe",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602dcb014f58b5fc1a3fc5",
-      "correctAnswer": "New Zealand",
-      "incorrectAnswers": [
-        "Australia",
-        "Ireland",
-        "Canada"
-      ],
-      "question": {
-        "text": "In which country is the city of Auckland?"
-      },
-      "tags": [
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056ed77a97013de78b5372",
-      "correctAnswer": "Cranberry",
-      "incorrectAnswers": [
-        "Land cress",
-        "Spinach",
-        "Mustard"
-      ],
-      "question": {
-        "text": "Which of these is a fruit?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63dd25c7742e43ed64f1f016",
-      "correctAnswer": "Elon Musk",
-      "incorrectAnswers": [
-        "Jeff Bezos",
-        "Bill Gates",
-        "Mark Zuckerberg"
-      ],
-      "question": {
-        "text": "What is the name of the founder of Tesla Motors?"
-      },
-      "tags": [
-        "society_and_culture",
-        "business",
-        "people",
-        "motoring"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262af5d4b176d54800e3dc1",
-      "correctAnswer": "What The Fuck",
-      "incorrectAnswers": [
-        "When To Feed",
-        "With Total Frustration",
-        "Want To Fail"
-      ],
-      "question": {
-        "text": "What do people mean when type the letters 'WTF' in a message on the internet?"
-      },
-      "tags": [
-        "the_internet",
-        "initials",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d48",
-      "correctAnswer": "One Direction",
-      "incorrectAnswers": [
-        "Blur",
-        "The Beatles",
-        "U2"
-      ],
-      "question": {
-        "text": "Which band did Liam Payne belong to?"
-      },
-      "tags": [
-        "people",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "622a1c357cc59eab6f94fc52",
-      "correctAnswer": "\"Bond. James Bond.\"",
+      "id": "622a1c347cc59eab6f94fbe0",
+      "correctAnswer": "\"Nobody makes me bleed my own blood. Nobody!\"",
       "incorrectAnswers": [
-        "\"What we've got here is failure to communicate.\"",
-        "\"Sawyer, you're going out a youngster, but you've t to come back a star!\"",
-        "\"Well, I don’t want to survive. I want to live.\""
+        "\"Are you not entertained?\"",
+        "\"I have had it with these mother—— snakes on this mother—— plane!\"",
+        "\"What is this? A center for ants? How can we be expected to teach children to learn how to read…if they can’t even fit inside the building?\""
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Dr. No'?"
+        "text": "Which of these quotes is from the film 'Dodgeball: A True Underdog Story'?"
       },
       "tags": [
         "quotes",
         "film",
-        "general_knowledge",
         "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570277a97013de78b5545",
-      "correctAnswer": "Cataract",
-      "incorrectAnswers": [
-        "Arthritis",
-        "Mumps",
-        "Jaundice"
-      ],
-      "question": {
-        "text": "Which of the following conditions can lead to blindness if left untreated?"
-      },
-      "tags": [
-        "science",
-        "health",
-        "medicine"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f951a8a",
-      "correctAnswer": "October 31st",
-      "incorrectAnswers": [
-        "November 10th",
-        "October 24th",
-        "November 21st"
-      ],
-      "question": {
-        "text": "On Which Date Is Halloween?"
-      },
-      "tags": [
-        "halloween",
-        "general_knowledge",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "646089a9de964ebc39016c63",
-      "correctAnswer": "Stork",
-      "incorrectAnswers": [
-        "Pelican",
-        "Crane",
-        "Swallow"
-      ],
-      "question": {
-        "text": "Which bird is associated with delivering babies?"
-      },
-      "tags": [
-        "animals",
-        "birds",
-        "symbols",
-        "childbirth"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "63d95307168979b94b2e4f7e",
-      "correctAnswer": "Big Bang Theory",
-      "incorrectAnswers": [
-        "General Relativity",
-        "String Theory",
-        "Quantum Theory"
-      ],
-      "question": {
-        "text": "What is the name of the scientific theory that states that the universe began with a singularity?"
-      },
-      "tags": [
-        "science",
-        "physics",
-        "astrophysics",
-        "space"
       ],
       "type": "text_choice",
       "difficulty": "easy",
