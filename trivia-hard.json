@@ -1,22 +1,23 @@
 {
-  "gameDate": "2026-02-25",
+  "gameDate": "2026-02-26",
   "difficulty": "hard",
   "results": [
     {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950176",
-      "correctAnswer": "Arthur Miller",
+      "id": "622a1c3a7cc59eab6f95131c",
+      "correctAnswer": "The Mock Turtle",
       "incorrectAnswers": [
-        "William Johnson",
-        "Arnold Clark",
-        "Fred George"
+        "Humpty Dumpty",
+        "Tweedledee",
+        "Dodo"
       ],
       "question": {
-        "text": "Which US dramatist was once married to Marylin Monroe and penned the plays \"Death Of A Salesman\" and \"The Crucible\"?"
+        "text": "In Alice In Wonderland, who never stopped sobbing?"
       },
       "tags": [
-        "people",
-        "arts_and_literature"
+        "arts_and_literature",
+        "literature",
+        "classic_novels"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -24,64 +25,44 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "646140784d46e537ca8cd9c3",
-      "correctAnswer": "The muses",
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95136c",
+      "correctAnswer": "Art Nouveau",
       "incorrectAnswers": [
-        "The graces",
-        "The fates",
-        "The sirens"
+        "Pop Art",
+        "Fauvism",
+        "Impressionism"
       ],
       "question": {
-        "text": "In Greek mythology, who were the inspirational sister goddesses that were born to Mnemosyne?"
+        "text": "Which decorative art movement emerged in the late nineteenth century and was characterized by dense assymmetrical ornamentation in sinuous forms?"
       },
       "tags": [
-        "mythology",
-        "ancient_greece",
+        "arts_and_literature",
+        "art"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f9511e1",
+      "correctAnswer": "Sir Lancelot",
+      "incorrectAnswers": [
+        "King Arthur",
+        "Merlin",
+        "Sir Gawain"
+      ],
+      "question": {
+        "text": "In the poem by Alfred Tennyson, who does the Lady of Shallot see out of her window, causing her to be cursed?"
+      },
+      "tags": [
         "society_and_culture",
-        "siblings"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624ab0d9348a461bfc67069f",
-      "correctAnswer": "China",
-      "incorrectAnswers": [
-        "Central America",
-        "Southeast Asia",
-        "The Middle East"
-      ],
-      "question": {
-        "text": "From which part of the world do persimmons originate?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "64e927cd0b0fc0be2ff5aa34",
-      "correctAnswer": "The Amundsen Gulf",
-      "incorrectAnswers": [
-        "The Franklin Gulf",
-        "The Hudson Gulf",
-        "The Davis Gulf"
-      ],
-      "question": {
-        "text": "Which gulf is at the western end of the Northwest Passage through the Arctic Ocean?"
-      },
-      "tags": [
-        "bodies_of_water",
-        "geography",
-        "oceans"
+        "arts_and_literature",
+        "mythology",
+        "arthurian",
+        "poetry"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -90,15 +71,168 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501bf",
-      "correctAnswer": "The Great Gatsby",
+      "id": "622a1c3a7cc59eab6f95135e",
+      "correctAnswer": "Suprematism",
       "incorrectAnswers": [
-        "The Shining",
-        "The Silmarillion",
-        "American Psycho"
+        "Cubism",
+        "Dadaism",
+        "Impressionism"
       ],
       "question": {
-        "text": "Which piece of written work starts with the line 'In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.'?"
+        "text": "Which art movement is characterized by flat geometric shapes on plain backgrounds?"
+      },
+      "tags": [
+        "art",
+        "painting"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f997",
+      "correctAnswer": "Ulysses",
+      "incorrectAnswers": [
+        "We Have Always Lived in the Castle",
+        "The Quiet American",
+        "The Sound and the Fury"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Leopold Bloom'?"
+      },
+      "tags": [
+        "literature",
+        "classic_novels",
+        "fictitious_characters",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f950192",
+      "correctAnswer": "Rembrandt",
+      "incorrectAnswers": [
+        "Vermeer",
+        "Van Gogh",
+        "Monet"
+      ],
+      "question": {
+        "text": "What Dutch master painted 64 self-portraits?"
+      },
+      "tags": [
+        "painting",
+        "art",
+        "the_netherlands",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f950",
+      "correctAnswer": "The Color Purple",
+      "incorrectAnswers": [
+        "My Life As a Man",
+        "To Kill A Mockingbird",
+        "The Metamorphosis"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Celie'?"
+      },
+      "tags": [
+        "film",
+        "fictitious_characters",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa42",
+      "correctAnswer": "Realism",
+      "incorrectAnswers": [
+        "Dutch and Flemish Renaissance",
+        "Primitivism",
+        "Fauvism"
+      ],
+      "question": {
+        "text": "The painting \"The Gleaners\" by Jean-François Millet is a part of which art movement?"
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ea3",
+      "correctAnswer": "Alexandre Dumas",
+      "incorrectAnswers": [
+        "Anatole France",
+        "Gustave Flaubert",
+        "Charles Perrault"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Corsican Brothers'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa4c",
+      "correctAnswer": "High Renaissance",
+      "incorrectAnswers": [
+        "Baroque",
+        "Impressionism",
+        "Mannerism"
+      ],
+      "question": {
+        "text": "The painting \"The Triumph of Galatea\" by Raphael is a part of which art movement?"
+      },
+      "tags": [
+        "art",
+        "painting"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950df4",
+      "correctAnswer": "H. Rider Haggard",
+      "incorrectAnswers": [
+        "Oscar Wilde",
+        "Jin Yong",
+        "Charles Darwin"
+      ],
+      "question": {
+        "text": "Which author wrote 'King Solomon's Mines'?"
       },
       "tags": [
         "arts_and_literature"
@@ -110,7 +244,69 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f5c",
+      "id": "622a1c397cc59eab6f950f6d",
+      "correctAnswer": "Arthur Conan Doyle",
+      "incorrectAnswers": [
+        "Agatha Christie",
+        "Oscar Wilde",
+        "George Orwell"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Sign of the Four'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f3f",
+      "correctAnswer": "Guy de Maupassant",
+      "incorrectAnswers": [
+        "François-René de Chateaubriand",
+        "Anatole France",
+        "Albert Camus"
+      ],
+      "question": {
+        "text": "Which author wrote 'Au soleil'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950dc9",
+      "correctAnswer": "Khaled Hosseini",
+      "incorrectAnswers": [
+        "Nathaniel Hawthorne",
+        "Robert E. Howard",
+        "Isabel Allende"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Kite Runner'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f56",
       "correctAnswer": "Isaac Asimov",
       "incorrectAnswers": [
         "Ursula K. Le Guin",
@@ -118,32 +314,12 @@
         "Stephen King"
       ],
       "question": {
-        "text": "Which author wrote 'Pebble in the Sky'?"
+        "text": "Which author wrote 'Lucky Starr series'?"
       },
       "tags": [
+        "science_fiction",
+        "literature",
         "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "648889135dba6c873ef650c0",
-      "correctAnswer": "Onions",
-      "incorrectAnswers": [
-        "Garlic",
-        "Carrots",
-        "Broccoli"
-      ],
-      "question": {
-        "text": "Which vegetable is scientifically named Allium cepa?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink",
-        "vegetables"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -152,15 +328,37 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f12",
-      "correctAnswer": "Alexander Pushkin",
+      "id": "622a1c347cc59eab6f94fa1b",
+      "correctAnswer": "Pablo Picasso",
       "incorrectAnswers": [
-        "Nikolai Gogol",
-        "Leo Tolstoy",
-        "Henryk Sienkiewicz"
+        "Henri Matisse",
+        "Sandro Botticelli",
+        "Georges Seurat"
       ],
       "question": {
-        "text": "Which author wrote 'The Captain's Daughter'?"
+        "text": "Which artist painted \"Three Musicians\""
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e07",
+      "correctAnswer": "Salman Rushdie",
+      "incorrectAnswers": [
+        "Henry James",
+        "Brandon Sanderson",
+        "Vladimir Nabokov"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Satanic Verses'?"
       },
       "tags": [
         "arts_and_literature"
@@ -171,21 +369,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623742cdcb85f7ce9e949df2",
-      "correctAnswer": "Abu Dhabi",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f97b",
+      "correctAnswer": "All the King's Men",
       "incorrectAnswers": [
-        "Rabat",
-        "Meccah",
-        "Islamabad"
+        "Gone With the Wind",
+        "Lonesome Dove",
+        "Love in the Time of Cholera"
       ],
       "question": {
-        "text": "What is the capital city of United Arab Emirates?"
+        "text": "Which book contains the character 'Willie Stark'?"
       },
       "tags": [
-        "the_middle_east",
-        "capital_cities",
-        "geography"
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -193,39 +390,144 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "625fd755dc0dd3b72da64d34",
-      "correctAnswer": "1991",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f07",
+      "correctAnswer": "Fyodor Dostoyevsky",
       "incorrectAnswers": [
-        "1983",
-        "1987",
-        "1995"
+        "Vladimir Nabokov",
+        "Leo Tolstoy",
+        "Mikhail Bulgakov"
       ],
       "question": {
-        "text": "In which year was Beauty and the Beast released?"
+        "text": "Which author wrote 'Demons'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e2f",
+      "correctAnswer": "Jane Austen",
+      "incorrectAnswers": [
+        "Percy Bysshe Shelley",
+        "Stephenie Meyer",
+        "Robert Louis Stevenson"
+      ],
+      "question": {
+        "text": "Which author wrote 'Mansfield Park'?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e80",
+      "correctAnswer": "Voltaire",
+      "incorrectAnswers": [
+        "Stendhal",
+        "Paulo Coelho",
+        "Isabel Allende"
+      ],
+      "question": {
+        "text": "Which author wrote 'Encyclopédie'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950efa",
+      "correctAnswer": "Ursula K. Le Guin",
+      "incorrectAnswers": [
+        "Stephen King",
+        "Jack Vance",
+        "George R. R. Martin"
+      ],
+      "question": {
+        "text": "Which author wrote 'Hainish Cycle'?"
+      },
+      "tags": [
+        "literature",
+        "fantasy",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e5b",
+      "correctAnswer": "Nathaniel Hawthorne",
+      "incorrectAnswers": [
+        "Robert E. Howard",
+        "Henryk Sienkiewicz",
+        "Charles Dickens"
+      ],
+      "question": {
+        "text": "Which author wrote 'A Wonder-Book for Girls and Boys'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa4b",
+      "correctAnswer": "Surrealism",
+      "incorrectAnswers": [
+        "Impressionism",
+        "Dutch and Flemish Renaissance",
+        "Crystal Cubism"
+      ],
+      "question": {
+        "text": "The painting \"The Son of Man\" by René Magritte is a part of which art movement?"
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f984",
+      "correctAnswer": "The Remains of the Day",
+      "incorrectAnswers": [
+        "Post Office",
+        "Heart of Darkness",
+        "Lucky Jim"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Stevens'?"
       },
       "tags": [
         "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f18",
-      "correctAnswer": "Leo Tolstoy",
-      "incorrectAnswers": [
-        "Ivan Turgenev",
-        "Henryk Sienkiewicz",
-        "Alphonse Daudet"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Death of Ivan Ilyich'?"
-      },
-      "tags": [
+        "fictitious_characters",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -235,77 +537,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f42",
-      "correctAnswer": "Edgar Allan Poe",
+      "id": "622a1c347cc59eab6f94f978",
+      "correctAnswer": "Lonesome Dove",
       "incorrectAnswers": [
-        "Stephen King",
-        "Nathaniel Hawthorne",
-        "Mario Puzo"
+        "In Our Time",
+        "The Moviegoer",
+        "The Swimmer"
       ],
       "question": {
-        "text": "Which author wrote 'The Bells'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950bc6",
-      "correctAnswer": "Alice in Chains",
-      "incorrectAnswers": [
-        "Poison",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American grunge band released the studio album 'Black Gives Way to Blue'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3d7cc59eab6f951c80",
-      "correctAnswer": "Kojak",
-      "incorrectAnswers": [
-        "Shaft",
-        "Coffy",
-        "Black Belt Jones"
-      ],
-      "question": {
-        "text": "'Who loves ya, baby?' was the catchphrase of which 70s TV sleuth?"
-      },
-      "tags": [
-        "quotes",
-        "tv",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f993",
-      "correctAnswer": "One Hundred Years of Solitude",
-      "incorrectAnswers": [
-        "The Sound and the Fury",
-        "Under the Volcano",
-        "The English Patient"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Aureliano Buendia'?"
+        "text": "Which book contains the character 'Augustus McCrae'?"
       },
       "tags": [
         "literature",
@@ -318,314 +558,84 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f95194a",
-      "correctAnswer": "Operation Torch",
-      "incorrectAnswers": [
-        "Operation Market Garden",
-        "Operation Blitz",
-        "Operation Enterprise"
-      ],
-      "question": {
-        "text": "What name was given to the Allied invasion of North Africa in 1942?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b47",
-      "correctAnswer": "Blackpink",
-      "incorrectAnswers": [
-        "GOT7",
-        "T-ara",
-        "Super Junior"
-      ],
-      "question": {
-        "text": "Which South Korean girl group released the extended play 'Kill This Love'?"
-      },
-      "tags": [
-        "kpop",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c6156badf21197f98f775",
-      "correctAnswer": "Barbados",
-      "incorrectAnswers": [
-        "Bahrain",
-        "Thailand",
-        "Benin"
-      ],
-      "question": {
-        "text": "Cou Cou and Flying Fish is a dish that is most associated with which part of the world?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9505a6",
-      "correctAnswer": "The causation of disease",
-      "incorrectAnswers": [
-        "Poisons",
-        "Schematic layouts",
-        "Men"
-      ],
-      "question": {
-        "text": "What is Aetiology the study of?"
-      },
-      "tags": [
-        "science",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950174",
-      "correctAnswer": "Hamlet",
+      "id": "622a1c347cc59eab6f94f992",
+      "correctAnswer": "A Confederacy of Dunces",
       "incorrectAnswers": [
-        "Macbeth",
-        "Juliette",
-        "King Lear"
+        "Tinker",
+        "All the King's Men",
+        "We Have Always Lived in the Castle"
       ],
       "question": {
-        "text": "Which Shakespearean Character has the most lines in a single play?"
+        "text": "Which book contains the character 'Ignatius Reilly'?"
       },
       "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c367cc59eab6f95021c",
-      "correctAnswer": "Miles Davis ",
-      "incorrectAnswers": [
-        "Eminem",
-        "The Rolling Stones",
-        "Madonna"
-      ],
-      "question": {
-        "text": "Who released the album 'Bitches brew'? "
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc26",
-      "correctAnswer": "\"Plastics.\"",
-      "incorrectAnswers": [
-        "\"Hello, gorgeous.\"",
-        "\"Fasten your seatbelts. It's going to be a bumpy night.\"",
-        "\"We’re goin’ streaking!\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'The Graduate'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950dfe",
-      "correctAnswer": "Adam Mickiewicz",
-      "incorrectAnswers": [
-        "Oscar Wilde",
-        "G. K. Chesterton",
-        "Marcel Proust"
-      ],
-      "question": {
-        "text": "Which author wrote 'Pan Tadeusz'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94facd",
-      "correctAnswer": "Jamie Foxx",
-      "incorrectAnswers": [
-        "Don Cheadle",
-        "Johnny Depp",
-        "Leonardo DiCaprio"
-      ],
-      "question": {
-        "text": "Who won the 2004 Academy Award for Best Leading Actor for playing the role of Ray Charles in Ray?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "academy_awards",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "647a125855463d5ce2994fd6",
-      "correctAnswer": "David Petraeus",
-      "incorrectAnswers": [
-        "Stanley McChrystal",
-        "James Mattis",
-        "John Allen"
-      ],
-      "question": {
-        "text": "Who was the U.S. general in charge in Afghanistan?"
-      },
-      "tags": [
-        "military",
-        "usa",
-        "wars"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233893b0161109f922aacd6",
-      "correctAnswer": "Boston",
-      "incorrectAnswers": [
-        "New York",
-        "Philadelphia",
-        "Miami"
-      ],
-      "question": {
-        "text": "Which U.S. city is known as Beantown?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "627164581ba117625baac959",
-      "correctAnswer": "Jinmen Gaoliang",
-      "incorrectAnswers": [
-        "Bourbon",
-        "Riga Black Balsam",
-        "Chibuku"
-      ],
-      "question": {
-        "text": "Which of these is a popular drink in Taiwan?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95037d",
-      "correctAnswer": "Lou Reed",
-      "incorrectAnswers": [
-        "David Bowie",
-        "Neil Young",
-        "Chic"
-      ],
-      "question": {
-        "text": "Who Released The 70's Album Entitled 'Transformer'?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f95199b",
-      "correctAnswer": "Caledonia",
-      "incorrectAnswers": [
-        "Newfoundland",
-        "Vanuatu",
-        "Huron"
-      ],
-      "question": {
-        "text": "What did the Romans call Scotland?"
-      },
-      "tags": [
-        "romans",
-        "names",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951315",
-      "correctAnswer": "Australia",
-      "incorrectAnswers": [
-        "Russia",
-        "Brazil",
-        "Canada"
-      ],
-      "question": {
-        "text": "In one of Donald Horne's novels, which was \"the lucky country\"?"
-      },
-      "tags": [
-        "arts_and_literature",
+        "fictitious_characters",
         "literature",
-        "countries"
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa0e",
+      "correctAnswer": "Gustav Klimt",
+      "incorrectAnswers": [
+        "‎‎Edvard Munch",
+        "Raphael",
+        "Leonardo da Vinci"
+      ],
+      "question": {
+        "text": "Which artist painted \"The Kiss\""
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e12",
+      "correctAnswer": "Dan Brown",
+      "incorrectAnswers": [
+        "Stephen King",
+        "Donna Leon",
+        "Frederik Pohl"
+      ],
+      "question": {
+        "text": "Which author wrote 'Digital Fortress'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ec3",
+      "correctAnswer": "John le Carré",
+      "incorrectAnswers": [
+        "Agatha Christie",
+        "Georges Simenon",
+        "Charles Dickens"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Constant Gardener'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
