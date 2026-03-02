@@ -1,24 +1,24 @@
 {
-  "gameDate": "2026-03-01",
+  "gameDate": "2026-03-02",
   "difficulty": "medium",
   "results": [
     {
-      "category": "music",
-      "id": "636a5242990390307063f385",
-      "correctAnswer": "The Pixies",
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f95012b",
+      "correctAnswer": "Janus",
       "incorrectAnswers": [
-        "Bob Marley and The Wailers",
-        "Otis Redding",
-        "Joni Mitchell"
+        "Mars",
+        "Octavian",
+        "Septimus"
       ],
       "question": {
-        "text": "Which artist first recorded 'Where Is My Mind', which was later covered by Tkay Maidza?"
+        "text": "Which Roman god of doorways and passages is the two headed deity from which we get the name of one of our months?"
       },
       "tags": [
-        "music",
-        "cover_song",
-        "songs",
-        "musicians"
+        "mythology",
+        "romans",
+        "classics",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -26,19 +26,65 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c3a7cc59eab6f95107e",
-      "correctAnswer": "1 year",
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515d6",
+      "correctAnswer": "Beetles ",
       "incorrectAnswers": [
-        "1 month",
-        "1 week",
-        "1 day"
+        "Raspberries",
+        "Blood",
+        "Rust"
       ],
       "question": {
-        "text": "Two rats can become the progenitors of 15,000 rats in less than"
+        "text": "From what is the red  dye carmine derived?"
       },
       "tags": [
-        "general_knowledge"
+        "food",
+        "art",
+        "general_knowledge",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f9500ad",
+      "correctAnswer": "Formula One",
+      "incorrectAnswers": [
+        "Rugby",
+        "Cricket",
+        "Tennis"
+      ],
+      "question": {
+        "text": "Monza & Silverstone Are Venues For Which Sport?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b25",
+      "correctAnswer": "Blondie",
+      "incorrectAnswers": [
+        "The Pussycat Dolls",
+        "Fleetwood Mac",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which band was fronted by Debbie Harry?"
+      },
+      "tags": [
+        "music",
+        "people",
+        "bands",
+        "women"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -47,20 +93,18 @@
     },
     {
       "category": "society_and_culture",
-      "id": "63dd25cd742e43ed64f1f020",
-      "correctAnswer": "Profit",
+      "id": "622a1c367cc59eab6f950129",
+      "correctAnswer": "Mecca",
       "incorrectAnswers": [
-        "Gross Revenue",
-        "Income Tax",
-        "Share Price"
+        "Tehran",
+        "Dubai",
+        "Riyadh"
       ],
       "question": {
-        "text": "What is the term for the amount of money a company makes after accounting for all its costs?"
+        "text": "To where do Muslims make pilgrimage?"
       },
       "tags": [
-        "society_and_culture",
-        "economics",
-        "business"
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -69,85 +113,44 @@
     },
     {
       "category": "history",
-      "id": "628d54b2a5a57ff6c2ad2bf3",
-      "correctAnswer": "Romanov",
+      "id": "63989c235c9a75021f310484",
+      "correctAnswer": "Manual Labor",
       "incorrectAnswers": [
-        "Nikolevsky",
-        "Napoleon",
-        "Lenin"
+        "Coal-Powered Machines",
+        "Steam-Powered Machines",
+        "Solar-Powered Machines"
       ],
       "question": {
-        "text": "What was the name of the reigning imperial house of Russia from the 17th century until the 1917 revolution?"
-      },
-      "tags": [
-        "russia",
-        "leaders",
-        "revolutions",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "6497d1100752843c0d8aadc4",
-      "correctAnswer": "Adam & Eve",
-      "incorrectAnswers": [
-        "Cain & Abel",
-        "Noah & the Great Flood",
-        "Joseph & Potiphar's wife"
-      ],
-      "question": {
-        "text": "In Michelangelo's scenes on the Sistine Chapel ceiling, which pair is depicted in the panel titled \"Temptation and Expulsion\"?"
-      },
-      "tags": [
-        "art",
-        "painting",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c367cc59eab6f950324",
-      "correctAnswer": "Robert Smith",
-      "incorrectAnswers": [
-        "Thomas Lawrence",
-        "John Martin",
-        "Jack Austin"
-      ],
-      "question": {
-        "text": "Who was the lead singer of the Cure?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63989c1c5c9a75021f310481",
-      "correctAnswer": "The Industrial Revolution",
-      "incorrectAnswers": [
-        "The French Revolution",
-        "The American Revolution",
-        "The Enlightenment"
-      ],
-      "question": {
-        "text": "What was the major economic revolution that started in the 18th century?"
+        "text": "What was the primary source of power for the majority of people in the 17th century?"
       },
       "tags": [
         "history",
-        "1700's",
-        "economics"
+        "1600s",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "63a039c5c7d86251f9b65cb2",
+      "correctAnswer": "American Revolutionary War",
+      "incorrectAnswers": [
+        "American Civil War",
+        "World War I",
+        "World War II"
+      ],
+      "question": {
+        "text": "Which of these wars was fought to gain independence from Great Britain?"
+      },
+      "tags": [
+        "history",
+        "usa",
+        "revolutions",
+        "wars",
+        "britain"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -156,15 +159,15 @@
     },
     {
       "category": "music",
-      "id": "622a1c347cc59eab6f94fb92",
-      "correctAnswer": "\"Welcome to the Black Parade\" by My Chemical Romance",
+      "id": "622a1c347cc59eab6f94fbab",
+      "correctAnswer": "\"Lose Yourself\" by Eminem",
       "incorrectAnswers": [
-        "\"Man! I Feel Like a Woman!\" by Shania Twain",
-        "\"Chimpan-A to Chimpan-Z\" by Troy McClure",
-        "\"Gimme More\" by Britney Spears"
+        "\"Jumpin', Jumpin'\" by Destiny's Child",
+        "\"What I Got\" by Sublime",
+        "\"Basket Case\" by Green Day"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"When I was a young boy my father took me into the city to see a marching band.\"?"
+        "text": "Which song begins with the lyrics: \"Look / If you had / One shot / Or one opportunity / To seize everything you ever wanted / In one moment / Would you capture it / Or just let it slip?\"?"
       },
       "tags": [
         "lyrics",
@@ -177,107 +180,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "647f9def3a4302a71927168d",
-      "correctAnswer": "Fresco",
-      "incorrectAnswers": [
-        "Mosaic",
-        "Graffiti",
-        "Stencil"
-      ],
-      "question": {
-        "text": "What term refers to a type of mural painting executed on freshly laid, still-wet plaster, with water-based pigments?"
-      },
-      "tags": [
-        "painting",
-        "arts_and_literature",
-        "art"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502fa",
-      "correctAnswer": "Bloody Mary",
-      "incorrectAnswers": [
-        "Margarita",
-        "Sangria",
-        "Manhattan"
-      ],
-      "question": {
-        "text": "Which cocktail contains the following ingredients: Vodka, tomato juice, lemon, tabasco sauce, salt, pepper, celery, salt?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62c2f9ddb3eadb0437fda6aa",
-      "correctAnswer": "Playboy",
-      "incorrectAnswers": [
-        "Lamborghini",
-        "Peugeot",
-        "Nestlé"
-      ],
-      "question": {
-        "text": "Which of these brands has a rabbit on its logo?"
-      },
-      "tags": [
-        "society_and_culture",
-        "business",
-        "marketing",
-        "animals",
-        "logos",
-        "symbols"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f9510d5",
-      "correctAnswer": "Dolphin",
+      "id": "63d952f9168979b94b2e4f66",
+      "correctAnswer": "Quark",
       "incorrectAnswers": [
-        "Turtle",
-        "Lion",
-        "Gorilla"
+        "Atom",
+        "Proton",
+        "Neutron"
       ],
       "question": {
-        "text": "Apart From Humans There Is Only One Other Creature That Has Sex For Pleasure. What is it? "
+        "text": "What is the smallest particle known to exist?"
       },
       "tags": [
-        "animals",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624333b6cfaae40c129613fc",
-      "correctAnswer": "A Jenny",
-      "incorrectAnswers": [
-        "A Soar",
-        "A Doe",
-        "A Vixen"
-      ],
-      "question": {
-        "text": "What would you call a female donkey?"
-      },
-      "tags": [
-        "science"
+        "science",
+        "physics",
+        "particle_physics"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -286,167 +203,23 @@
     },
     {
       "category": "geography",
-      "id": "65056f3e7a97013de78b5403",
-      "correctAnswer": "Pakistan",
+      "id": "649fe02bebb41911d4cbd6f0",
+      "correctAnswer": "South Dakota",
       "incorrectAnswers": [
-        "Finland",
-        "Honduras",
-        "Paraguay"
+        "Missouri",
+        "Wyoming",
+        "California"
       ],
       "question": {
-        "text": "Which of these flags is green and white?"
+        "text": "Mount Rushmore is located in which state?"
       },
       "tags": [
+        "usa",
+        "presidents",
+        "mountains",
+        "tourist_attractions",
         "geography",
-        "flags"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c606250d1a5e051325a57",
-      "correctAnswer": "Canada",
-      "incorrectAnswers": [
-        "Vietnam",
-        "Ecuador",
-        "France"
-      ],
-      "question": {
-        "text": "Poutine is a dish that is most associated with which part of the world?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602e5c4b176d54800e3cd5",
-      "correctAnswer": "Monterrey",
-      "incorrectAnswers": [
-        "Recife",
-        "Guatemala City",
-        "Bogotá"
-      ],
-      "question": {
-        "text": "Which of these cities is in Mexico?"
-      },
-      "tags": [
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f9503b7",
-      "correctAnswer": "West Point",
-      "incorrectAnswers": [
-        "East Point",
-        "North Point",
-        "South Point"
-      ],
-      "question": {
-        "text": "Which American Military Academy was established in 1802 on the Hudson river?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64e6fda00b79e5bedd55c8ca",
-      "correctAnswer": "Quinoa",
-      "incorrectAnswers": [
-        "Amaranth",
-        "Barley",
-        "Buckwheat"
-      ],
-      "question": {
-        "text": "Which high-protein grain, related to spinach, was known as the \"gold of the Incas\"?"
-      },
-      "tags": [
-        "grains",
-        "superfoods",
-        "ancient civilizations"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950dc3",
-      "correctAnswer": "Green Day",
-      "incorrectAnswers": [
-        "Mastodon",
-        "Animal Collective",
-        "Fall Out Boy"
-      ],
-      "question": {
-        "text": "Which band includes 'Billie Joe Armstrong'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe91",
-      "correctAnswer": "Rihanna",
-      "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Ricky Martin"
-      ],
-      "question": {
-        "text": "Which singer released the song 'Rude Boy'?"
-      },
-      "tags": [
-        "songs",
-        "musicians",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "639c9d93929b90846f2fc956",
-      "correctAnswer": "Moorish",
-      "incorrectAnswers": [
-        "Byzantine",
-        "Neoclassical",
-        "Gothic"
-      ],
-      "question": {
-        "text": "Which of the following is a style of Islamic architecture?"
-      },
-      "tags": [
-        "architecture",
-        "art",
-        "islam"
+        "us_states"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -455,142 +228,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "63dd25ee742e43ed64f1f04f",
-      "correctAnswer": "John Dorian",
+      "id": "625740e59da29df7b05f7400",
+      "correctAnswer": "Fargo",
       "incorrectAnswers": [
-        "Elliot Reid",
-        "Carla Espinosa",
-        "Christopher Turk"
+        "12 Years a Slave",
+        "Rear Window",
+        "A Beautiful Mind"
       ],
       "question": {
-        "text": "What is the name of the character played by Zach Braff on the show 'Scrubs'?"
-      },
-      "tags": [
-        "film_and_tv",
-        "tv",
-        "sitcoms"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "65056ec37a97013de78b5357",
-      "correctAnswer": "Black",
-      "incorrectAnswers": [
-        "White",
-        "Red",
-        "Pink"
-      ],
-      "question": {
-        "text": "In snooker, what is the color of the last ball to be potted?"
-      },
-      "tags": [
-        "sport_and_leisure",
-        "sport",
-        "snooker"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950163",
-      "correctAnswer": "Thomas Hardy",
-      "incorrectAnswers": [
-        "Jane Austen",
-        "Charles Dickens",
-        "Charlotte Brontë"
-      ],
-      "question": {
-        "text": "Who wrote \"Far From The Madding Crowd\"?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6250071d0d86c8f685d80f15",
-      "correctAnswer": "Vermicelli",
-      "incorrectAnswers": [
-        "Penne",
-        "Gemelli",
-        "Tagliatelle"
-      ],
-      "question": {
-        "text": "Which pasta's name means 'Little worms'?"
-      },
-      "tags": [
-        "food",
-        "words",
-        "language",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "6384b43883dddfb71ee5e366",
-      "correctAnswer": "Golf",
-      "incorrectAnswers": [
-        "Cycling",
-        "American Football",
-        "Soccer"
-      ],
-      "question": {
-        "text": "Which sport is played at The Masters?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623387770161109f922aac27",
-      "correctAnswer": "Canada ",
-      "incorrectAnswers": [
-        "Russia",
-        "Australia",
-        "Japan"
-      ],
-      "question": {
-        "text": "Which Country Has The Longest Coastline?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625741263d2f5c16bfb88342",
-      "correctAnswer": "Dune",
-      "incorrectAnswers": [
-        "Das Boot",
-        "Eternal Sunshine of the Spotless Mind",
-        "Vertigo"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A noble family becomes embroiled in a war for control over the galaxy's most valuable asset.'"
+        "text": "Name the movie that matches the following plot summary: 'A car salesman's inept crime falls apart due to his and his henchmen's bungling.'"
       },
       "tags": [
         "film",
@@ -602,23 +248,324 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "6471bcf37206d7c314606f68",
-      "correctAnswer": "Nicholas II",
+      "category": "arts_and_literature",
+      "id": "622a1c3d7cc59eab6f951ba5",
+      "correctAnswer": "Cratchett",
       "incorrectAnswers": [
-        "Alexander III",
-        "Peter III",
-        "Ivan IV"
+        "Poorboy",
+        "Thompson",
+        "Squalor"
       ],
       "question": {
-        "text": "Who was crowned Tsar of Russia in 1896?"
+        "text": "In 'A Christmas Carol'', what is Tiny Tim's surname"
       },
       "tags": [
-        "people",
-        "monarchs",
+        "christmas",
+        "classic_novels",
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6262af944b176d54800e3dd1",
+      "correctAnswer": "Original Content",
+      "incorrectAnswers": [
+        "Of Course",
+        "On Chair",
+        "Outclassed"
+      ],
+      "question": {
+        "text": "On internet chats, what do the letters 'OC' mean?"
+      },
+      "tags": [
+        "the_internet",
+        "initials",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f5e",
+      "correctAnswer": "Isaac Asimov",
+      "incorrectAnswers": [
+        "Ursula K. Le Guin",
+        "Philip K. Dick",
+        "Stephen King"
+      ],
+      "question": {
+        "text": "Which author wrote 'I, Robot'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e06",
+      "correctAnswer": "Lewis Carroll",
+      "incorrectAnswers": [
+        "Enid Blyton",
+        "George Orwell",
+        "Charles Dickens"
+      ],
+      "question": {
+        "text": "Which author wrote 'Alice's Adventures in Wonderland'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd60",
+      "correctAnswer": "Chuck Berry",
+      "incorrectAnswers": [
+        "Bob Dylan",
+        "Miles Davis",
+        "Little Richard"
+      ],
+      "question": {
+        "text": "Whose Only UK No.1 Single Was \"My Ding A Ling\" In 1972?"
+      },
+      "tags": [
+        "1970's",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c3b7cc59eab6f951734",
+      "correctAnswer": "Sabrina the Teenage Witch",
+      "incorrectAnswers": [
+        "Lisa Simpson",
+        "Spongebob Squarepants",
+        "Buffy the Vampire Slayer"
+      ],
+      "question": {
+        "text": "Which TV character owned a talking cat called Salem?"
+      },
+      "tags": [
+        "film_and_tv",
+        "tv",
+        "fictitious_characters",
+        "1990's",
+        "animals",
+        "cats"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623388f50161109f922aacba",
+      "correctAnswer": "The Rhine ",
+      "incorrectAnswers": [
+        "The Seine",
+        "The Elbe",
+        "The Danube"
+      ],
+      "question": {
+        "text": "Which River Forms A Border Between France & Germany?"
+      },
+      "tags": [
+        "france",
+        "germany",
+        "rivers",
+        "europe",
+        "bodies_of_water",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056f667a97013de78b543b",
+      "correctAnswer": "Bomber",
+      "incorrectAnswers": [
+        "Howitzer",
+        "Cruiser",
+        "Artillery"
+      ],
+      "question": {
+        "text": "Which of these is an aircraft operated by an air force?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950678",
+      "correctAnswer": "Hugo Weaving",
+      "incorrectAnswers": [
+        "Tobey Maguire",
+        "Timothy Spall",
+        "Elijah Wood"
+      ],
+      "question": {
+        "text": "Which actor starred in films including The Lord of the Rings and The Matrix?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6239f8219129041bf3925cc9",
+      "correctAnswer": "Mike",
+      "incorrectAnswers": [
+        "Mambo",
+        "Mauritius",
+        "Mendip"
+      ],
+      "question": {
+        "text": "What word is used in the NATO Phonetic Alphabet for the letter M?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95038a",
+      "correctAnswer": "Mikhail Gorbachev",
+      "incorrectAnswers": [
+        "Boris Yeltsin",
+        "Vladimir Lenin",
+        "Josef Stalin"
+      ],
+      "question": {
+        "text": "Who resigned as Russian Premier on Christmas day 1991?"
+      },
+      "tags": [
+        "politics",
         "russia",
-        "history",
-        "revolutions"
+        "leaders",
+        "people",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9f41796f721e95543f8f",
+      "correctAnswer": "Morocco",
+      "incorrectAnswers": [
+        "Iraq",
+        "Kazakhstan",
+        "Czechia"
+      ],
+      "question": {
+        "text": "Which country's flag can be described as 'Red with a green five-pointed star in the center.'?"
+      },
+      "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "63a0394ac7d86251f9b65c36",
+      "correctAnswer": "Google Chrome",
+      "incorrectAnswers": [
+        "Mozilla Firefox",
+        "Microsoft Edge",
+        "Safari"
+      ],
+      "question": {
+        "text": "As of 2023, what is the most used web browser?"
+      },
+      "tags": [
+        "the_internet",
+        "technology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d3c",
+      "correctAnswer": "The Beatles",
+      "incorrectAnswers": [
+        "Deep Purple",
+        "Feeder",
+        "Uriah Heep"
+      ],
+      "question": {
+        "text": "Which English rock band released the song 'She Loves You'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a6d",
+      "correctAnswer": "Laika",
+      "incorrectAnswers": [
+        "Albert",
+        "Pirouette",
+        "Querida"
+      ],
+      "question": {
+        "text": "What was the name of the first animal (a dog) to orbit the earth?"
+      },
+      "tags": [
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -627,19 +574,90 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f950556",
-      "correctAnswer": "The relationships between living organisms and their environment",
+      "id": "648889175dba6c873ef650e2",
+      "correctAnswer": "The suspension system",
       "incorrectAnswers": [
-        "The death of stars",
-        "Windmills, watermills and animal engines",
-        "The practice of escaping from restraints"
+        "The transmission system",
+        "The steering system",
+        "The braking system"
       ],
       "question": {
-        "text": "What is Ecology the study of?"
+        "text": "What is the term for the system in your car that includes the springs, dampers and other parts responsible for shock absorption?"
       },
       "tags": [
-        "words",
+        "cars",
+        "engineering",
+        "technology",
+        "motoring",
         "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f95185f",
+      "correctAnswer": "Robben Island",
+      "incorrectAnswers": [
+        "Bishop Island",
+        "Truncheon Island",
+        "Carril Island"
+      ],
+      "question": {
+        "text": "Where was Nelson Mandela held in prison?"
+      },
+      "tags": [
+        "africa",
+        "people",
+        "islands",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "65056f857a97013de78b5466",
+      "correctAnswer": "Salvador Dalí",
+      "incorrectAnswers": [
+        "Francisco de Zurbarán",
+        "Georges Seurat",
+        "Johannes Vermeer"
+      ],
+      "question": {
+        "text": "Which Spanish painter was known for his trippy paintings?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "art",
+        "paintings"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "646140774d46e537ca8cd9bd",
+      "correctAnswer": "Vietnam",
+      "incorrectAnswers": [
+        "Iraq",
+        "Korea",
+        "Afghanistan"
+      ],
+      "question": {
+        "text": "Battles known as Con Thien and Hamburger Hill were fought during which 20th century conflict?"
+      },
+      "tags": [
+        "battles",
+        "wars",
+        "history",
+        "military"
       ],
       "type": "text_choice",
       "difficulty": "medium",
