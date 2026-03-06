@@ -1,21 +1,22 @@
 {
-  "gameDate": "2026-03-05",
+  "gameDate": "2026-03-06",
   "difficulty": "hard",
   "results": [
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f95100e",
-      "correctAnswer": "Dragon Flies",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e7f",
+      "correctAnswer": "Johannes V. Jensen",
       "incorrectAnswers": [
-        "Ants",
-        "Woodlice",
-        "Beetles"
+        "Hans Christian Andersen",
+        "Søren Kierkegaard",
+        "Agatha Christie"
       ],
       "question": {
-        "text": "What Type Of Insects Are Hawkers, Clubtails, Biddies, Emeralds, Darts & Skimmers"
+        "text": "Which author wrote 'Digte'?"
       },
       "tags": [
-        "science"
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -23,41 +24,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe41",
-      "correctAnswer": "Oahu",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9519ca",
+      "correctAnswer": "New Zealand",
       "incorrectAnswers": [
-        "Kauai",
         "Hawaii",
-        "Maui"
+        "Japan",
+        "Mauritius"
       ],
       "question": {
-        "text": "On what island is Pearl Harbour?"
+        "text": "What land did Abel Tasman 'discover' in 1642?"
       },
       "tags": [
-        "usa",
-        "world_war_2",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95036a",
-      "correctAnswer": "Edward J. Smith",
-      "incorrectAnswers": [
-        "Martin P. Roberts",
-        "Alan T. Davis",
-        "Roger B. Lewis"
-      ],
-      "question": {
-        "text": "Who was Captain of the Titanic on her maiden voyage?"
-      },
-      "tags": [
-        "people",
+        "1600's",
+        "general_knowledge",
         "history"
       ],
       "type": "text_choice",
@@ -66,359 +46,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd6d",
-      "correctAnswer": "Eva Cassidy",
-      "incorrectAnswers": [
-        "Norah Jones",
-        "Dido",
-        "Karen Carpenter"
-      ],
-      "question": {
-        "text": "Whose Album 'Songbird' Became A Posthumous Hit In 2001?"
-      },
-      "tags": [
-        "music_albums",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63e4c353106de6ffa7d4a7d1",
-      "correctAnswer": "1806",
-      "incorrectAnswers": [
-        "1676",
-        "1945",
-        "1492"
-      ],
-      "question": {
-        "text": "In what year was the Holy Roman Empire formally dissolved?"
-      },
-      "tags": [
-        "history",
-        "holy_roman_empire"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510cb",
-      "correctAnswer": "Antifreeze ",
-      "incorrectAnswers": [
-        "Engine oil",
-        "Windscreen wash fluid",
-        "Brake fluid"
-      ],
-      "question": {
-        "text": "Ethylene glycol is frequently used in automobiles. What for? "
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c367cc59eab6f95005d",
-      "correctAnswer": "Joe Dimaggio",
-      "incorrectAnswers": [
-        "Jesse Jackson",
-        "Michael Jordan",
-        "Mohammed Ali"
-      ],
-      "question": {
-        "text": "Which sportsman is mentioned in the Simon & Garfunkel song Mrs Robinson?"
-      },
-      "tags": [
-        "people",
-        "songs",
-        "lyrics",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623735b3cfe13103f55eb55c",
-      "correctAnswer": "Poland",
-      "incorrectAnswers": [
-        "Palau",
-        "Palestine",
-        "Portugal"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.pl' at the end of its web addresses?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64824f247778562fd76a96cf",
-      "correctAnswer": "Ixnay",
-      "incorrectAnswers": [
-        "Epay",
-        "Ocklay",
-        "Oopstay"
-      ],
-      "question": {
-        "text": "Which Pig Latin word is used to reject or cancel a statement?"
-      },
-      "tags": [
-        "words",
-        "language"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6357fd3768bd5000211e7189",
-      "correctAnswer": "Berber",
-      "incorrectAnswers": [
-        "Telugu",
-        "Punjabi",
-        "Javanese"
-      ],
-      "question": {
-        "text": "Which of these languages would you find spoken in Algeria?"
-      },
-      "tags": [
-        "language",
-        "linguistics",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506d2",
-      "correctAnswer": "Ron Perlman",
+      "id": "622a1c347cc59eab6f94fac7",
+      "correctAnswer": "Casey Affleck",
       "incorrectAnswers": [
-        "Seth Rogen",
-        "John Turturro",
-        "Jean-Claude Van Damme"
+        "Andrew Garfield",
+        "Ryan Gosling",
+        "Viggo Mortensen"
       ],
       "question": {
-        "text": "Which actor has appeared in both \"Sons of Anarchy\" and \"Fantastic Beasts and Where to Find Them\"?"
+        "text": "Who won the 2016 Academy Award for Best Leading Actor for playing the role of Lee Chandler in Manchester by the Sea?"
       },
       "tags": [
-        "film_and_tv",
-        "acting"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6396ed6f6017b1e8e09020d0",
-      "correctAnswer": "What Hath God Wrought?",
-      "incorrectAnswers": [
-        "Testing Testing Testing",
-        "Good Morning Victory ",
-        "You Smell"
-      ],
-      "question": {
-        "text": "What was the first ever message sent via morse code?"
-      },
-      "tags": [
-        "history",
-        "technology",
-        "firsts",
-        "inventions"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "64746b3f5a4c31088dd9d044",
-      "correctAnswer": "Anthracite",
-      "incorrectAnswers": [
-        "Bituminous",
-        "Lignite",
-        "Peat"
-      ],
-      "question": {
-        "text": "Which of these is a hard variety of coal known for burning with little flame or smoke?"
-      },
-      "tags": [
-        "chemistry",
-        "materials",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fca1",
-      "correctAnswer": "Niger–Congo",
-      "incorrectAnswers": [
-        "Dravidian",
-        "Austronesian",
-        "Koreanic"
-      ],
-      "question": {
-        "text": "The language 'Rundi' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "637162241bf863c45ca6c356",
-      "correctAnswer": "Non ducor, duco",
-      "incorrectAnswers": [
-        "Fons vitae caritas",
-        "Pax vobiscum",
-        "Sequere pecuniam"
-      ],
-      "question": {
-        "text": "Which of these Latin phrases translates to 'I am not led, I lead'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502c8",
-      "correctAnswer": "Heineken Lager ",
-      "incorrectAnswers": [
-        "Coca Cola",
-        "Sunny Delight",
-        "Dr Pepper"
-      ],
-      "question": {
-        "text": "What drink did Paul Daniels and Debbie McGee advertise singing off-key around a piano?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950335",
-      "correctAnswer": "Sally Ride",
-      "incorrectAnswers": [
-        "Joan Jett",
-        "Mary Winn",
-        "Ella Davis"
-      ],
-      "question": {
-        "text": "Who was the first female American astronaut?"
-      },
-      "tags": [
-        "firsts",
-        "usa",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9504f3",
-      "correctAnswer": "ants",
-      "incorrectAnswers": [
-        "fresh water environments, particularly lakes",
-        "the Soviet Union",
-        "prehistoric metazoans "
-      ],
-      "question": {
-        "text": "What is Myrmecology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcd7",
-      "correctAnswer": "Indo-European",
-      "incorrectAnswers": [
-        "Afroasiatic",
-        "Kra–Dai",
-        "Niger–Congo"
-      ],
-      "question": {
-        "text": "The language 'Bhojpuri' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501db",
-      "correctAnswer": "Francis Ford Coppola",
-      "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
-      ],
-      "question": {
-        "text": "Which director directed Apocalypse Now?"
-      },
-      "tags": [
+        "acting",
+        "film",
+        "academy_awards",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -427,19 +69,43 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62373600cfe13103f55eb590",
-      "correctAnswer": "United Arab Emirates",
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f950fcc",
+      "correctAnswer": "Arthur Conan Doyle",
       "incorrectAnswers": [
-        "Faeroe Islands",
-        "Israel",
-        "Armenia"
+        "Agatha Christie",
+        "Oscar Wilde",
+        "George Orwell"
       ],
       "question": {
-        "text": "Which region of the world uses '.ae' at the end of its web addresses?"
+        "text": "Which author wrote 'The Man with the Twisted Lip'?"
       },
       "tags": [
-        "geography"
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950033",
+      "correctAnswer": "Italy",
+      "incorrectAnswers": [
+        "Spain",
+        "Brazil",
+        "France"
+      ],
+      "question": {
+        "text": "Who won the 1982 FIFA World Cup?"
+      },
+      "tags": [
+        "world_cup",
+        "football",
+        "soccer",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -448,18 +114,17 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f951098",
-      "correctAnswer": "Diagonally",
+      "id": "622a1c3a7cc59eab6f951060",
+      "correctAnswer": "Transformer",
       "incorrectAnswers": [
-        "Vertically",
-        "Horizontally",
-        "Backwards"
+        "Resister",
+        "Capacitor",
+        "Micrometer"
       ],
       "question": {
-        "text": "The king crab walks __________"
+        "text": "What Electrical Device Can Change The Magnitude Of Voltage Or Current"
       },
       "tags": [
-        "animals",
         "science"
       ],
       "type": "text_choice",
@@ -468,16 +133,255 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f86",
-      "correctAnswer": "Agatha Christie",
+      "category": "society_and_culture",
+      "id": "622a1c3e7cc59eab6f9522c9",
+      "correctAnswer": "Baboons",
       "incorrectAnswers": [
-        "Robert Louis Stevenson",
-        "Charles Dickens",
-        "Lewis Carroll"
+        "Elephants",
+        "Vultures",
+        "Spiders"
       ],
       "question": {
-        "text": "Which author wrote 'Murder on the Orient Express'?"
+        "text": "In Ancient Egypt, which animals were believed to be companions and oracles of the god Thoth?"
+      },
+      "tags": [
+        "society_and_culture",
+        "ancient_egypt",
+        "mythology",
+        "the_ancient_world",
+        "animals"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f66",
+      "correctAnswer": "Arthur Conan Doyle",
+      "incorrectAnswers": [
+        "Agatha Christie",
+        "Oscar Wilde",
+        "George Orwell"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Valley of Fear'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8cf",
+      "correctAnswer": "Gloria Swanson",
+      "incorrectAnswers": [
+        "Bette Davis",
+        "Barbara Stanwyck",
+        "Whoopi Goldberg"
+      ],
+      "question": {
+        "text": "Which actress played the role of Norma Desmond in Sunset Boulevard?"
+      },
+      "tags": [
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950be4",
+      "correctAnswer": "Black Sabbath",
+      "incorrectAnswers": [
+        "Skunk Anansie",
+        "Kasabian",
+        "Emerson, Lake & Palmer"
+      ],
+      "question": {
+        "text": "Which British heavy metal band released the song 'Iron Man'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f20",
+      "correctAnswer": "Leo Tolstoy",
+      "incorrectAnswers": [
+        "Ivan Turgenev",
+        "Henryk Sienkiewicz",
+        "Alphonse Daudet"
+      ],
+      "question": {
+        "text": "Which author wrote 'Resurrection'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "63a03979c7d86251f9b65c64",
+      "correctAnswer": "The Evil Queen",
+      "incorrectAnswers": [
+        "The Wicked Witch",
+        "Maleficent",
+        "The Lady of the Lake"
+      ],
+      "question": {
+        "text": "What is the name of the witch in Snow White and the Seven Dwarfs?"
+      },
+      "tags": [
+        "film_and_tv",
+        "disney",
+        "film"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "646339a001d576cfac3aa393",
+      "correctAnswer": "Midnight Hour",
+      "incorrectAnswers": [
+        "Midnight Sonata",
+        "Midnight Train to Georgia",
+        "Midnight Cowboy"
+      ],
+      "question": {
+        "text": "What was Wilson Pickett's first solo top 40 hit, released in 1965?"
+      },
+      "tags": [
+        "1960's",
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe10",
+      "correctAnswer": "Madrid ",
+      "incorrectAnswers": [
+        "Lisbon",
+        "Paris",
+        "Rome"
+      ],
+      "question": {
+        "text": "Which European capital city stands on the Manzanares River?"
+      },
+      "tags": [
+        "rivers",
+        "bodies_of_water",
+        "cities",
+        "capital_cities",
+        "europe",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417d520f96c4efe8d773bb",
+      "correctAnswer": "Nashville SC",
+      "incorrectAnswers": [
+        "Nashville Canucks",
+        "Nashville Padres",
+        "Nashville Thunder"
+      ],
+      "question": {
+        "text": "Which of these is a soccer team based in Nashville?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "649dee4e615f8db40f5422cd",
+      "correctAnswer": "The Terminator",
+      "incorrectAnswers": [
+        "RoboCop",
+        "Aliens",
+        "Predator"
+      ],
+      "question": {
+        "text": "Which movie from 1984 features the line 'It doesn't feel pity, or remorse, or fear. And it absolutely will not stop... ever, until you are dead!'?"
+      },
+      "tags": [
+        "film",
+        "film_quotes",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fce2",
+      "correctAnswer": "Dravidian",
+      "incorrectAnswers": [
+        "Uralic",
+        "Koreanic",
+        "Afroasiatic"
+      ],
+      "question": {
+        "text": "The language 'Tamil' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f46",
+      "correctAnswer": "Edgar Allan Poe",
+      "incorrectAnswers": [
+        "Stephen King",
+        "Nathaniel Hawthorne",
+        "Mario Puzo"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Murders in the Rue Morgue'?"
       },
       "tags": [
         "literature",
@@ -490,15 +394,15 @@
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502ea",
-      "correctAnswer": "4",
+      "id": "622a1c3b7cc59eab6f9515a5",
+      "correctAnswer": "9",
       "incorrectAnswers": [
-        "2",
-        "6",
-        "8"
+        "4",
+        "1",
+        "36"
       ],
       "question": {
-        "text": "How Many 75cl Bottles Of Champagne Would You Get From A Jeroboam?"
+        "text": "How Many Gallons In A Firkin?"
       },
       "tags": [
         "food_and_drink"
@@ -509,20 +413,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "625fd6b6dc0dd3b72da64d05",
-      "correctAnswer": "2018",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa25",
+      "correctAnswer": "Cubism",
       "incorrectAnswers": [
-        "2016",
-        "2017",
-        "2019"
+        "Baroque",
+        "Post Impressionism",
+        "Renaissance"
       ],
       "question": {
-        "text": "Avengers: Infinity War was released in which year?"
+        "text": "The painting \"The Bathers\" by Paul Cézanne is a part of which art movement?"
       },
       "tags": [
-        "film",
-        "film_and_tv"
+        "painting",
+        "art",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -530,22 +435,21 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "62611f714b176d54800e3d59",
-      "correctAnswer": "1967",
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ffb4",
+      "correctAnswer": "Niger",
       "incorrectAnswers": [
-        "1973",
-        "1979",
-        "1985"
+        "Congo",
+        "Zaïre",
+        "Benue"
       ],
       "question": {
-        "text": "When was the first heart transplant?"
+        "text": "Name the longest river in Nigeria."
       },
       "tags": [
-        "events",
-        "firsts",
-        "medicine",
-        "history"
+        "africa",
+        "rivers",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -553,70 +457,20 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6371623e1bf863c45ca6c362",
-      "correctAnswer": "Honey, I'm home",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94feff",
+      "correctAnswer": "Madonna",
       "incorrectAnswers": [
-        "He conquers who endures",
-        "So it begins",
-        "Every beginning is difficult"
+        "Eric Clapton",
+        "Nicki Minaj",
+        "Alanis Morissette"
       ],
       "question": {
-        "text": "What is the meaning of the Latin phrase 'Melita, domi adsum!'?"
+        "text": "Which American singer and songwriter released the song 'Hung Up'?"
       },
       "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625698909da29df7b05f728f",
-      "correctAnswer": "Agent Maria Hill",
-      "incorrectAnswers": [
-        "Natasha Romanoff",
-        "Gamora",
-        "Valkyrie"
-      ],
-      "question": {
-        "text": "Cobie Smulders plays the role of which character in the Marvel Cinematic Universe?"
-      },
-      "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6371622a1bf863c45ca6c359",
-      "correctAnswer": "Dies irae",
-      "incorrectAnswers": [
-        "Danum dos agios",
-        "Melita, domi adsum!",
-        "Pro bono"
-      ],
-      "question": {
-        "text": "Which of these Latin phrases translates to 'Day of wrath'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
+        "songs",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -625,18 +479,167 @@
     },
     {
       "category": "science",
-      "id": "62433489cfaae40c1296144d",
-      "correctAnswer": "A Doe",
+      "id": "622a1c3a7cc59eab6f951068",
+      "correctAnswer": "Feet",
       "incorrectAnswers": [
-        "A Tigeress",
-        "A Leopardess",
-        "A Cow"
+        "Antennae",
+        "Nose",
+        "Anus"
       ],
       "question": {
-        "text": "What is the word for a female kangaroo?"
+        "text": "What Does A Butterfly Use To Taste?"
       },
       "tags": [
+        "animals",
         "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95135e",
+      "correctAnswer": "Suprematism",
+      "incorrectAnswers": [
+        "Cubism",
+        "Dadaism",
+        "Impressionism"
+      ],
+      "question": {
+        "text": "Which art movement is characterized by flat geometric shapes on plain backgrounds?"
+      },
+      "tags": [
+        "art",
+        "painting"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9506e1",
+      "correctAnswer": "Gerard Butler",
+      "incorrectAnswers": [
+        "Hugh Jackman",
+        "Robert Redford",
+        "Jim Carrey"
+      ],
+      "question": {
+        "text": "Which actor has featured in films including 300 and Watchmen?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f95063a",
+      "correctAnswer": "Terry Crews",
+      "incorrectAnswers": [
+        "Richard Harris",
+        "Anthony Quinn",
+        "Hugo Weaving"
+      ],
+      "question": {
+        "text": "Which actor has had roles in both Brooklyn Nine-Nine and Terminator Salvation?"
+      },
+      "tags": [
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "645c9f8642ea81e2554c5f32",
+      "correctAnswer": "Sun Records",
+      "incorrectAnswers": [
+        "Capitol Records",
+        "Atlantic Records",
+        "Columbia Records"
+      ],
+      "question": {
+        "text": "Which record label from Memphis released five singles from Elvis Presley between July 1954 and August 1955?"
+      },
+      "tags": [
+        "elvis_presley",
+        "music",
+        "1950's"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237426ecb85f7ce9e949dcc",
+      "correctAnswer": "Khartoum",
+      "incorrectAnswers": [
+        "Nur-Sultan",
+        "Bratislava",
+        "Rabat"
+      ],
+      "question": {
+        "text": "What is the capital city of Sudan?"
+      },
+      "tags": [
+        "africa",
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417d700f96c4efe8d773c7",
+      "correctAnswer": "Oakland A's",
+      "incorrectAnswers": [
+        "Oakland Yankees",
+        "Oakland Tigers",
+        "Oakland Mavericks"
+      ],
+      "question": {
+        "text": "Which of these is a baseball team based in Oakland?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950273",
+      "correctAnswer": "Nellie Melba",
+      "incorrectAnswers": [
+        "Esmerelda Tiramisu",
+        "Fannie Brulée",
+        "Bridget Treacle"
+      ],
+      "question": {
+        "text": "Which Opera Singer had a dessert named after her?"
+      },
+      "tags": [
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
