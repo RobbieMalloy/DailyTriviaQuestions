@@ -1,64 +1,44 @@
 {
-  "gameDate": "2026-03-06",
+  "gameDate": "2026-03-07",
   "difficulty": "random",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbca",
-      "correctAnswer": "\"You’re going to go through life thinking that girls don’t like you because you’re a nerd. And I want you to know, from the bottom of my heart, that won’t be true. It’ll be because you’re an a**hole.\"",
-      "incorrectAnswers": [
-        "\"Who's on first.\"",
-        "\"Striker: Surely you can't be serious.\"",
-        "\"We rob banks.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'The Social Network'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c397cc59eab6f950cf3",
-      "correctAnswer": "The Beatles",
+      "id": "625063dee12f6dec240bdf88",
+      "correctAnswer": "Thomas Dolby",
       "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Uriah Heep"
+        "T'Pau",
+        "Men Without Hats",
+        "C.W. McCall"
       ],
       "question": {
-        "text": "Which English rock band released the album 'Magical Mystery Tour'?"
+        "text": "'She Blinded Me With Science' was a one hit wonder in 1983 by which artist?"
       },
       "tags": [
+        "songs",
+        "one_hit_wonders",
         "music"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa40",
-      "correctAnswer": "Realism",
+      "id": "622a1c347cc59eab6f94f97a",
+      "correctAnswer": "Master and Commander",
       "incorrectAnswers": [
-        "Mannerism",
-        "Northern Renaissance",
-        "Dutch and Flemish Renaissance"
+        "Gone With the Wind",
+        "Heart of Darkness",
+        "The Thin Man"
       ],
       "question": {
-        "text": "The painting \"Whistler’s Mother\" by James Abbott McNeill Whistler is a part of which art movement?"
+        "text": "Which book contains the character 'Stephen Maturin'?"
       },
       "tags": [
-        "painting",
-        "art",
+        "film",
+        "fictitious_characters",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -67,43 +47,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f95101b",
-      "correctAnswer": "Ear",
-      "incorrectAnswers": [
-        "Nose",
-        "Hand",
-        "Foot"
-      ],
-      "question": {
-        "text": "Where in the body is the smallest human muscle?"
-      },
-      "tags": [
-        "anatomy",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "622a1c347cc59eab6f94f9d0",
-      "correctAnswer": "Woodrow Wilson",
+      "id": "622a1c3d7cc59eab6f951be4",
+      "correctAnswer": "In an air crash",
       "incorrectAnswers": [
-        "Andrew Jackson ",
-        "John Adams",
-        "George H. W. Bush"
+        "Poisoned",
+        "Shot",
+        "Attacked by a bear"
       ],
       "question": {
-        "text": "Who was the 28th president of the USA, in term during the period 1913–1921?"
+        "text": "How Did UN Secretary General Dag Hammarskjoeld Die In September 1961?"
       },
       "tags": [
-        "usa",
-        "presidents",
-        "world_war_1",
+        "1960's",
+        "people",
         "history"
       ],
       "type": "text_choice",
@@ -112,20 +69,59 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500a5",
-      "correctAnswer": "Spain",
+      "category": "society_and_culture",
+      "id": "646262c1ab138b829b81ea67",
+      "correctAnswer": "The Irish",
       "incorrectAnswers": [
-        "Italy",
-        "USA",
-        "Japan"
+        "The Scots",
+        "The Welsh",
+        "The English"
       ],
       "question": {
-        "text": "In Which Country Were The 1992 Olympics Held?"
+        "text": "Which cultural group has the stereotype of being lucky?"
       },
       "tags": [
-        "olympics",
-        "1990's",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c79",
+      "correctAnswer": "U2",
+      "incorrectAnswers": [
+        "Public Image Ltd.",
+        "The Script",
+        "The Cure"
+      ],
+      "question": {
+        "text": "Which Irish rock band released the studio album 'Achtung Baby'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f88f",
+      "correctAnswer": "Cycling",
+      "incorrectAnswers": [
+        "Motor racing",
+        "Gymnastics",
+        "Hockey"
+      ],
+      "question": {
+        "text": "With which sport is Jacques Anquetil associated?"
+      },
+      "tags": [
+        "people",
         "sport"
       ],
       "type": "text_choice",
@@ -134,41 +130,41 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501ab",
-      "correctAnswer": "The Hobbit",
+      "category": "history",
+      "id": "622a1c367cc59eab6f950388",
+      "correctAnswer": "Jim Jones",
       "incorrectAnswers": [
-        "Alice's Adventures in Wonderland",
-        "Bluebeard",
-        "Jonathan Livingston Seagull"
+        "John Jackson",
+        "John Jones",
+        "Jim Jackson"
       ],
       "question": {
-        "text": "In which book does 'Thorin' appear?"
+        "text": "Who led 900 followers in a mass suicide in 1979?"
       },
-      "tags": [
-        "arts_and_literature"
-      ],
+      "tags": [],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3f7cc59eab6f9523ac",
-      "correctAnswer": "Amnesia",
+      "category": "society_and_culture",
+      "id": "6293eccb7f41d6338b96ef0b",
+      "correctAnswer": "Peter the Great",
       "incorrectAnswers": [
-        "Insomnia",
-        "Coma",
-        "Kleptomania"
+        "Jean-Jacques Rousseau",
+        "Napoleon",
+        "Rasputin"
       ],
       "question": {
-        "text": "A loss of memory is known as what?"
+        "text": "Which influential historical person was a Russian Emperor?"
       },
       "tags": [
-        "medicine",
-        "words",
-        "science"
+        "people",
+        "history",
+        "society_and_culture",
+        "russia",
+        "leaders"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -176,21 +172,44 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "63e4c368106de6ffa7d4a7ee",
-      "correctAnswer": "Pterodactyl",
+      "category": "food_and_drink",
+      "id": "63f39519989356ef48370c13",
+      "correctAnswer": "Cherry",
       "incorrectAnswers": [
-        "Triceratops",
-        "Stegosaurus",
-        "Brachiosaurus"
+        "Mango",
+        "Papaya",
+        "Pineapple"
       ],
       "question": {
-        "text": "Which of the following is not a dinosaur?"
+        "text": "Which of these fruits is not a tropical fruit?"
       },
       "tags": [
-        "science",
-        "dinosaurs",
-        "nature"
+        "food_and_drink",
+        "food",
+        "fruit"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "649c8996e3aef0a3c23f63ed",
+      "correctAnswer": "Rolls-Royce",
+      "incorrectAnswers": [
+        "Aston Martin",
+        "Toyota",
+        "Lamborghini"
+      ],
+      "question": {
+        "text": "Which car manufacturer names its models after different types of supernatural ghost-like beings?"
+      },
+      "tags": [
+        "cars",
+        "society_and_culture",
+        "business",
+        "motoring"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -199,19 +218,18 @@
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94fe48",
-      "correctAnswer": "Colorado",
+      "id": "648888d65dba6c873ef65098",
+      "correctAnswer": "China",
       "incorrectAnswers": [
-        "Arizona",
-        "Utah",
-        "Florida"
+        "India",
+        "Japan",
+        "South Korea"
       ],
       "question": {
-        "text": "The highest point in Pennsylvania is lower than the lowest point in ______________"
+        "text": "Which country includes the provinces of Shaanxi and Jiangsu?"
       },
       "tags": [
-        "us_states",
-        "usa",
+        "countries",
         "geography"
       ],
       "type": "text_choice",
@@ -220,39 +238,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "624333cdcfaae40c12961405",
-      "correctAnswer": "A Bull",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdd0",
+      "correctAnswer": "Megadeath",
       "incorrectAnswers": [
-        "A Macho",
-        "A Dog",
-        "A Jack"
+        "Metallica",
+        "Slayer",
+        "Sodom"
       ],
       "question": {
-        "text": "A male elephant is known as what?"
+        "text": "Name The Thrash Metal Band Headed By Guitarist Dave Mustaine"
       },
       "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c377cc59eab6f950438",
-      "correctAnswer": "13",
-      "incorrectAnswers": [
-        "66",
-        "666",
-        "21"
-      ],
-      "question": {
-        "text": "How many witches in a coven?"
-      },
-      "tags": [
-        "general_knowledge"
+        "bands",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -260,43 +259,125 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc2d",
-      "correctAnswer": "\"You're gonna need a bigger boat.\"",
+      "category": "food_and_drink",
+      "id": "6463391d01d576cfac3aa31c",
+      "correctAnswer": "Fudge",
       "incorrectAnswers": [
-        "\"A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.\"",
-        "\"Wait a minute, wait a minute. You ain't heard nothin' yet!\"",
-        "\"Mother of mercy, is this the end of Rico?\""
+        "Toffee",
+        "Caramel",
+        "Marshmallow"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Jaws'?"
+        "text": "What is the name of the semisoft sweet good made from sugar, butter & cream?"
       },
       "tags": [
-        "quotes",
+        "desserts",
+        "candy",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242cb8fd543524f1b19c93a",
+      "correctAnswer": "An unkindness",
+      "incorrectAnswers": [
+        "A charm",
+        "A run",
+        "A cete"
+      ],
+      "question": {
+        "text": "What is the word for a group of ravens?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64824ee57778562fd76a96ad",
+      "correctAnswer": "Moon River",
+      "incorrectAnswers": [
+        "Yellow River",
+        "Blue River",
+        "Styx River"
+      ],
+      "question": {
+        "text": "Which musical river was described as \"wider than a mile\" and as belonging to \"my huckleberry friend\"?"
+      },
+      "tags": [
+        "songs",
+        "musicals",
         "film",
-        "general_knowledge",
         "film_and_tv"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623387b30161109f922aac3e",
-      "correctAnswer": "Ethiopia ",
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bb7",
+      "correctAnswer": "Simon & Garfunkel",
       "incorrectAnswers": [
-        "Syria",
-        "Egypt",
-        "Azerbaijan"
+        "MercyMe",
+        "Three 6 Mafia",
+        "The Velvet Underground"
       ],
       "question": {
-        "text": "Which country was previously called Abyssinia?"
+        "text": "Which American music duo released the album 'Bookends'?"
       },
       "tags": [
-        "names",
-        "geography"
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c31",
+      "correctAnswer": "ABBA",
+      "incorrectAnswers": [
+        "In Flames",
+        "HammerFall",
+        "Katatonia"
+      ],
+      "question": {
+        "text": "Which Swedish pop group released the song 'The Winner Takes It All'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502f8",
+      "correctAnswer": "Pig ",
+      "incorrectAnswers": [
+        "Cow",
+        "Rabbit",
+        "Goat"
+      ],
+      "question": {
+        "text": "Boston butt and jowl are parts of a what?"
+      },
+      "tags": [
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -305,17 +386,106 @@
     },
     {
       "category": "history",
-      "id": "623389590161109f922aace2",
-      "correctAnswer": "Erik The Red ",
+      "id": "65056ea97a97013de78b5333",
+      "correctAnswer": "Boston",
       "incorrectAnswers": [
-        "Ragnar Lothbrok",
-        "Leif Erikson",
-        "Canute"
+        "Paris",
+        "Memphis",
+        "Ohio"
       ],
       "question": {
-        "text": "Which Viking Chief Founded The Norse Colonies On Greenland?"
+        "text": "Which city hosted a revolutionary \"Tea Party\" in 1773?"
       },
       "tags": [
+        "history",
+        "revolutions",
+        "cities"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "625007240d86c8f685d80f17",
+      "correctAnswer": "Ziti",
+      "incorrectAnswers": [
+        "Macaroni",
+        "Penne",
+        "Tagliatelle"
+      ],
+      "question": {
+        "text": "Which pasta's name means 'Bride and bridegroom'?"
+      },
+      "tags": [
+        "food",
+        "words",
+        "language",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd78",
+      "correctAnswer": "Ringo Starr",
+      "incorrectAnswers": [
+        "John Lennon",
+        "George Harrison",
+        "Paul McCartney"
+      ],
+      "question": {
+        "text": "Who wore the pink uniform on the cover of Sgt. Pepper's?"
+      },
+      "tags": [
+        "the_beatles",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502eb",
+      "correctAnswer": "Soup ",
+      "incorrectAnswers": [
+        "Stew",
+        "Cured Meat",
+        "Vegetable"
+      ],
+      "question": {
+        "text": "Gazpacho is a type of what?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c357cc59eab6f94fde0",
+      "correctAnswer": "General Franco ",
+      "incorrectAnswers": [
+        "General Marco",
+        "General Castro",
+        "General Raul"
+      ],
+      "question": {
+        "text": "Who Was Head Of State Of Spain Before King Juan Carlos?"
+      },
+      "tags": [
+        "spain",
+        "leaders",
+        "europe",
         "history"
       ],
       "type": "text_choice",
@@ -324,168 +494,20 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "6473075ccf09068746f6376e",
-      "correctAnswer": "The latissimus dorsi",
-      "incorrectAnswers": [
-        "The biceps",
-        "The triceps",
-        "The deltoids"
-      ],
-      "question": {
-        "text": "Which muscle group is mainly targeted by wide-grip pull-ups that work the muscles of the shoulders and the arms?"
-      },
-      "tags": [
-        "anatomy",
-        "exercise",
-        "fitness"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262af614b176d54800e3dc2",
-      "correctAnswer": "Shaking My Head",
-      "incorrectAnswers": [
-        "Sometimes Men Hate",
-        "Special Man, Him",
-        "Soothe Me Honey"
-      ],
-      "question": {
-        "text": "What do people mean when type the letters 'SMH' in a message on the internet?"
-      },
-      "tags": [
-        "the_internet",
-        "initials",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6470d79b423445f16131b4cd",
-      "correctAnswer": "LPs",
-      "incorrectAnswers": [
-        "MP3s",
-        "CDs",
-        "DVDs"
-      ],
-      "question": {
-        "text": "What abbreviation is commonly used to refer to music albums?"
-      },
-      "tags": [
-        "music",
-        "initials"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64f3a941601ffca0b7615dde",
-      "correctAnswer": "General Electric",
-      "incorrectAnswers": [
-        "IBM",
-        "Apple",
-        "Tesla"
-      ],
-      "question": {
-        "text": "What company uses the slogan \"Imagination at Work\"?"
-      },
-      "tags": [
-        "companies",
-        "marketing",
-        "slogans",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b3e",
-      "correctAnswer": "Ha*Ash",
-      "incorrectAnswers": [
-        "The Pussycat Dolls",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American Latin pop duo released the album 'Primera fila: Hecho realidad'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950def",
-      "correctAnswer": "Yanka Kupala",
-      "incorrectAnswers": [
-        "Nikolai Gogol",
-        "Vladimir Nabokov",
-        "Henryk Sienkiewicz"
-      ],
-      "question": {
-        "text": "Which author wrote 'On Paths of Life'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fbb4",
-      "correctAnswer": "\"Immigrant Song\" by Led Zeppelin",
-      "incorrectAnswers": [
-        "\"American Pie\" by Don McLean",
-        "\"Fergalicious\" by Fergie and will.i.am.",
-        "\"I Write Sins Not Tragedies\" by Panic! at the Disco"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"We come from the land of the ice and snow / From the midnight sun, where the hot springs flow...\"?"
-      },
-      "tags": [
-        "songs",
-        "lyrics",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "624437a7746187c5e7be9368",
-      "correctAnswer": "It is used in thermometers, thermostats, barometers",
+      "id": "622a1c3a7cc59eab6f9510af",
+      "correctAnswer": "Pascal",
       "incorrectAnswers": [
-        "It is used as an ingredient in baking.",
-        "It is used as an ingredient in the production of glass, bricks, and ceramics.",
-        "It is used in disinfectants and antiseptics."
+        "Borland",
+        "Newton",
+        "Ohm"
       ],
       "question": {
-        "text": "What is the chemical mercury often used for?"
+        "text": "Name The SI Unit Of Pressure"
       },
       "tags": [
+        "words",
+        "physics",
         "science"
       ],
       "type": "text_choice",
@@ -494,21 +516,22 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f95227e",
-      "correctAnswer": "Water",
+      "category": "arts_and_literature",
+      "id": "622a1c3c7cc59eab6f9519e9",
+      "correctAnswer": "A Pig",
       "incorrectAnswers": [
-        "Oxygen",
-        "Salt",
-        "Wood"
+        "A Horse",
+        "A Snake",
+        "A Swan"
       ],
       "question": {
-        "text": "What is Hydrogen Hydroxide is more commonly known as?"
+        "text": "What animal is Snowball in George Orwell's book Animal Farm?"
       },
       "tags": [
-        "science",
-        "chemistry",
-        "materials"
+        "literature",
+        "animals",
+        "fictitious_characters",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -516,41 +539,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c44",
-      "correctAnswer": "The Beach Boys",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f95103a",
+      "correctAnswer": "A Crash",
       "incorrectAnswers": [
-        "Swans",
-        "The Velvet Underground",
-        "Aerosmith"
+        "A Loom",
+        "A Brush",
+        "A Forest"
       ],
       "question": {
-        "text": "Which American rock band released the song 'Good Vibrations'?"
+        "text": "What Is The Collective Name For Rhinoceroses?"
       },
       "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa2f",
-      "correctAnswer": "Vasily Kandinsky",
-      "incorrectAnswers": [
-        "James Abbott McNeill Whistler",
-        "René Magritte",
-        "Pierre-Auguste Renoir"
-      ],
-      "question": {
-        "text": "Which artist painted \"Composition 8\""
-      },
-      "tags": [
-        "art",
-        "painting",
-        "arts_and_literature"
+        "words",
+        "animals",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -558,24 +561,23 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "6477bb12550bc819ad646b64",
-      "correctAnswer": "Île de la Cité",
+      "category": "history",
+      "id": "62611f4b4b176d54800e3d4f",
+      "correctAnswer": "1969",
       "incorrectAnswers": [
-        "Île de Ré",
-        "le-de-Paris",
-        "Île-de-France"
+        "1948",
+        "1978",
+        "1990"
       ],
       "question": {
-        "text": "What is the name of the island that is considered the historic center of Paris and is surrounded by the River Seine?"
+        "text": "When was ARPANET, the precursor to the Internet, first developed?"
       },
       "tags": [
-        "paris",
-        "france",
-        "rivers",
-        "geography",
-        "cities",
-        "europe"
+        "events",
+        "technology",
+        "inventions",
+        "the_internet",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -583,42 +585,44 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "6233750c460f87b3e0e7185b",
-      "correctAnswer": "Bangkok",
+      "category": "science",
+      "id": "6505703d7a97013de78b5563",
+      "correctAnswer": "Magnetic",
       "incorrectAnswers": [
-        "Kuala Lumpur",
-        "Sao Paolo",
-        "Singapore"
+        "Methanol",
+        "Molecule",
+        "Mutagen"
       ],
       "question": {
-        "text": "As what is Krung Thep is more commonly known?"
+        "text": "What does the M in MRI stand for?"
       },
       "tags": [
-        "geography"
+        "science",
+        "initials",
+        "abbreviations",
+        "technology",
+        "medicine"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6371623c1bf863c45ca6c361",
-      "correctAnswer": "Sapientia potentia est",
+      "category": "film_and_tv",
+      "id": "62573f639da29df7b05f7399",
+      "correctAnswer": "A Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
       "incorrectAnswers": [
-        "Hodie mihi, cras tibi",
-        "Ego te provoco",
-        "Melita, domi adsum"
+        "A determined Cuban immigrant takes over a drug cartel.",
+        "Three policemen investigate a series of murders with their own brand of justice.",
+        "A former Roman General seeks revenge against the emperor who murdered his family."
       ],
       "question": {
-        "text": "Which of these Latin phrases means 'Wisdom is power'?"
+        "text": "What is the plot of the movie Modern Times?"
       },
       "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -627,17 +631,19 @@
     },
     {
       "category": "music",
-      "id": "6266bc31b0e62e469cf43e8d",
-      "correctAnswer": "Percussion",
+      "id": "649601ffe831b1ab5aa1112c",
+      "correctAnswer": "Nonet",
       "incorrectAnswers": [
-        "Woodwind",
-        "Brass",
-        "Stringed"
+        "Norchestra",
+        "Ninstrumental",
+        "Novario"
       ],
       "question": {
-        "text": "What type of instrument is a maraca?"
+        "text": "What is the name for a musical piece composed for nine instruments?"
       },
       "tags": [
+        "classical_music",
+        "music_theory",
         "music"
       ],
       "type": "text_choice",
