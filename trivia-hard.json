@@ -1,44 +1,23 @@
 {
-  "gameDate": "2026-03-09",
+  "gameDate": "2026-03-10",
   "difficulty": "hard",
   "results": [
     {
-      "category": "science",
-      "id": "64626250ab138b829b81e9fc",
-      "correctAnswer": "13",
-      "incorrectAnswers": [
-        "1",
-        "2",
-        "8"
-      ],
-      "question": {
-        "text": "What is the atomic number of aluminum?"
-      },
-      "tags": [
-        "chemistry",
-        "materials",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "622a1c3b7cc59eab6f951760",
-      "correctAnswer": "Jefferson",
+      "id": "622a1c3c7cc59eab6f9517ce",
+      "correctAnswer": "Henry VIII",
       "incorrectAnswers": [
-        "Washington",
-        "Lincoln",
-        "Franklin"
+        "Richard I",
+        "William the Conqueror",
+        "Alfred the Great"
       ],
       "question": {
-        "text": "Which president was responsible for the Louisiana Purchase?"
+        "text": "Which English king was given the title 'Defender Of The Faith' by Pope Leo X?"
       },
       "tags": [
-        "usa",
-        "presidents",
+        "leaders",
+        "uk",
+        "christianity",
         "history"
       ],
       "type": "text_choice",
@@ -47,21 +26,62 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "624dba37cd90beeca3531569",
-      "correctAnswer": "Shirley Bassey",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d37",
+      "correctAnswer": "The Beatles",
       "incorrectAnswers": [
-        "Wings",
-        "Gladys Knight",
-        "Billie Eilish"
+        "Deep Purple",
+        "Feeder",
+        "Uriah Heep"
       ],
       "question": {
-        "text": "Who performed the theme song to the James Bond film Diamonds Are Forever?"
+        "text": "Which English rock band released the song 'We Can Work It Out'?"
       },
       "tags": [
-        "james_bond",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc12",
+      "correctAnswer": "\"What a dump.\"",
+      "incorrectAnswers": [
+        "\"May the odds ever be in your favor.\"",
+        "\"We’re goin’ streaking!\"",
+        "\"Mother of mercy, is this the end of Rico?\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Beyond the Forest'?"
+      },
+      "tags": [
+        "quotes",
         "film",
-        "soundtracks",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f932",
+      "correctAnswer": "Double Indemnity",
+      "incorrectAnswers": [
+        "Jaws",
+        "Network",
+        "Raiders of the Lost Ark"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Phyllis Dietrichson'?"
+      },
+      "tags": [
+        "fictitious_characters",
+        "film",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -71,19 +91,18 @@
     },
     {
       "category": "music",
-      "id": "63f39505989356ef48370be9",
-      "correctAnswer": "Piccolo",
+      "id": "622a1c377cc59eab6f95040d",
+      "correctAnswer": "James Brown",
       "incorrectAnswers": [
-        "Flute",
-        "Clarinet",
-        "Bass Flute"
+        "Marvin Gaye",
+        "Stevie Wonder",
+        "Ray Charles"
       ],
       "question": {
-        "text": "What is the name of the highest pitched woodwind instrument?"
+        "text": "Nicknamed the Godfather Of Soul, who died on Christmas Day 2006?"
       },
       "tags": [
-        "music",
-        "musical_instruments"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -92,15 +111,15 @@
     },
     {
       "category": "food_and_drink",
-      "id": "627164821ba117625baac962",
-      "correctAnswer": "Sang Som Rum",
+      "id": "627164551ba117625baac958",
+      "correctAnswer": "Uganda",
       "incorrectAnswers": [
-        "Pitorro",
-        "Tuba",
-        "Port wine"
+        "Niger",
+        "Colombia",
+        "The Czech Republic"
       ],
       "question": {
-        "text": "Which of these drinks would you associate with Thailand?"
+        "text": "Which country is associated with the drink waragi?"
       },
       "tags": [
         "drink",
@@ -112,40 +131,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623388720161109f922aac89",
-      "correctAnswer": "Western Australia ",
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc59",
+      "correctAnswer": "Whiffler",
       "incorrectAnswers": [
-        "Victoria",
-        "Queensland",
-        "Tasmania"
+        "Firman",
+        "Salopettes",
+        "Donkey Engine"
       ],
       "question": {
-        "text": "Which Is The Largest State In Australia"
+        "text": "Which word is defined as 'somebody who walks in front of you through a crowd'?"
       },
       "tags": [
-        "australia",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e74",
-      "correctAnswer": "Vladimir Nabokov",
-      "incorrectAnswers": [
-        "Ayn Rand",
-        "Kurt Vonnegut",
-        "Mikhail Bulgakov"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Annotated Lolita (1991 Vintage Books ed.)'?"
-      },
-      "tags": [
-        "arts_and_literature"
+        "words",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -154,17 +153,18 @@
     },
     {
       "category": "history",
-      "id": "622a1c377cc59eab6f950432",
-      "correctAnswer": "New Zealand",
+      "id": "622a1c367cc59eab6f950368",
+      "correctAnswer": "Louis XVI",
       "incorrectAnswers": [
-        "France",
-        "Switzerland",
-        "Canada"
+        "Louis XIII",
+        "Charles VIII",
+        "Charles XI"
       ],
       "question": {
-        "text": "In 1893, which country was the first to give women the vote?"
+        "text": "Who Was Marie Antoinette's Husband?"
       },
       "tags": [
+        "people",
         "history"
       ],
       "type": "text_choice",
@@ -173,101 +173,16 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe99",
-      "correctAnswer": "Rihanna",
-      "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Ricky Martin"
-      ],
-      "question": {
-        "text": "Which singer released the song 'You da One'?"
-      },
-      "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fda1",
-      "correctAnswer": "Madonna",
-      "incorrectAnswers": [
-        "Rihanna",
-        "Beyonce",
-        "Lady Gaga"
-      ],
-      "question": {
-        "text": "Which Female Icon Brought Out A Book Entitled \"Sex\"?"
-      },
-      "tags": [
-        "musicians",
-        "people",
-        "literature",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950bbe",
-      "correctAnswer": "Pearl Jam",
-      "incorrectAnswers": [
-        "Anti-Flag",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
-      ],
-      "question": {
-        "text": "Which American rock band released the studio album 'Lightning Bolt'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd707dc0dd3b72da64d1d",
-      "correctAnswer": "1999",
-      "incorrectAnswers": [
-        "1996",
-        "2002",
-        "2005"
-      ],
-      "question": {
-        "text": "The Sixth Sense was released in which year?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "food_and_drink",
-      "id": "625006ac0d86c8f685d80ef4",
-      "correctAnswer": "Shaped pasta",
+      "id": "6250066e0d86c8f685d80ee9",
+      "correctAnswer": "Tubular pasta",
       "incorrectAnswers": [
-        "Ribbon pasta",
-        "Tubular pasta",
-        "Strand pasta"
+        "Strand pasta",
+        "Stuffed pasta",
+        "Shaped pasta"
       ],
       "question": {
-        "text": "What type of pasta is fusilli?"
+        "text": "What type of pasta is cannelloni?"
       },
       "tags": [
         "food",
@@ -280,173 +195,19 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f967",
-      "correctAnswer": "Brideshead Revisited",
-      "incorrectAnswers": [
-        "The Old Man and the Sea",
-        "The English Patient",
-        "Ulysses"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Charles Ryder'?"
-      },
-      "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "639c9dbc929b90846f2fc9ac",
-      "correctAnswer": "The Ramayana",
-      "incorrectAnswers": [
-        "The Upanishads",
-        "The Bhagavad Gita",
-        "The Puranas"
-      ],
-      "question": {
-        "text": "What is the name of the Hindu scripture that contains the story of Sita?"
-      },
-      "tags": [
-        "hinduism",
-        "religion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417dca0f96c4efe8d773ea",
-      "correctAnswer": "Toronto FC",
-      "incorrectAnswers": [
-        "Toronto Bills",
-        "Toronto Predators",
-        "Toronto Canucks"
-      ],
-      "question": {
-        "text": "Which of these is a soccer team based in Toronto?"
-      },
-      "tags": [
-        "soccer",
-        "canada",
-        "mls",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503c1",
-      "correctAnswer": "Sandwich Islands",
-      "incorrectAnswers": [
-        "James Islands",
-        "Victoria Islands",
-        "Brittania Islands"
-      ],
-      "question": {
-        "text": "When Cook Discovered The Hawaiian Islands What Did He Name Them?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa64",
-      "correctAnswer": "J.K. Simmons",
-      "incorrectAnswers": [
-        "Robert Duvall",
-        "Ethan Hawke",
-        "Edward Norton"
-      ],
-      "question": {
-        "text": "Who won the 2014 Academy Award for Best Supporting Actor for playing the role of Fletcher in Whiplash?"
-      },
-      "tags": [
-        "acting",
-        "cult_films",
-        "academy_awards",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6371629a1bf863c45ca6c38b",
-      "correctAnswer": "Praesis ut prosis ne ut imperes",
-      "incorrectAnswers": [
-        "Libertas perfundet omnia luce",
-        "Non loqui sed facere",
-        "Carpe diem"
-      ],
-      "question": {
-        "text": "Which of these Latin phrases means 'Lead in order to serve, not in order to rule'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8f7",
-      "correctAnswer": "Shirley MacLaine",
-      "incorrectAnswers": [
-        "Katharine Hepburn",
-        "Bette Davis",
-        "Emma Thompson"
-      ],
-      "question": {
-        "text": "Which actress played the role of Aurora Greenway in Terms of Endearment?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "622a1c377cc59eab6f95051a",
-      "correctAnswer": "Horses",
+      "id": "622a1c377cc59eab6f95057b",
+      "correctAnswer": "Devil worshipers",
       "incorrectAnswers": [
-        "Whales, dolphins, and porpoise",
-        "Skin",
-        "Safari animals"
+        "Microscopic objects",
+        "South America",
+        "The nature of value judgements"
       ],
       "question": {
-        "text": "What is Hippology the study of?"
+        "text": "What is chavezology the study of?"
       },
       "tags": [
+        "words",
         "science"
       ],
       "type": "text_choice",
@@ -455,133 +216,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f9513a7",
-      "correctAnswer": "Don Quixote",
+      "category": "society_and_culture",
+      "id": "6293ec207f41d6338b96eed9",
+      "correctAnswer": "Chemist and founder of microbiology.",
       "incorrectAnswers": [
-        "The Diary of a Chambermaid",
-        "The Neverending Story",
-        "Orlando Furioso"
+        "Italian explorer who landed in America.",
+        "Inventor of the printing press.",
+        "An influential figure in Sunni Islam."
       ],
       "question": {
-        "text": "In which book does 'Alonso Quijano' appear?"
+        "text": "Which of the following describes Antony van Leeuwenhoek?"
       },
       "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "64a094bccf8fd58080ceffde",
-      "correctAnswer": "Oscar De La Hoya",
-      "incorrectAnswers": [
-        "Floyd Mayweather Jr.",
-        "Muhammad Ali",
-        "Mike Tyson"
-      ],
-      "question": {
-        "text": "Who was known as boxing's 'Golden Boy' and now promotes a stable of fighters under his Golden Boy Promotions?"
-      },
-      "tags": [
-        "boxing",
-        "sport",
-        "nicknames"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c377cc59eab6f950411",
-      "correctAnswer": "Idlewild",
-      "incorrectAnswers": [
-        "Smoker",
-        "Appleton",
-        "Easydown"
-      ],
-      "question": {
-        "text": "John F. Kennedy Airport in New York used to be called __________."
-      },
-      "tags": [
-        "new_york",
-        "names",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6250640ae12f6dec240bdf95",
-      "correctAnswer": "Got to Be Real",
-      "incorrectAnswers": [
-        "What I Am",
-        "All My Life",
-        "Unbelievable"
-      ],
-      "question": {
-        "text": "Cheryl Lynn had a one hit wonder in 1979 with which song?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8ec",
-      "correctAnswer": "Jeff Bridges",
-      "incorrectAnswers": [
-        "Michael Douglas",
-        "Errol Flynn",
-        "John Wayne"
-      ],
-      "question": {
-        "text": "Which actor played the role of The Dude in The Big Lebowski?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "cult_films",
-        "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f9f0",
-      "correctAnswer": "Paul Cézanne",
-      "incorrectAnswers": [
-        "Henri Rousseau",
-        "‎‎Johannes Vermeer",
-        "Mark Rothko"
-      ],
-      "question": {
-        "text": "Which artist painted \"The Bathers\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
+        "people",
+        "history",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -590,15 +239,210 @@
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95025a",
-      "correctAnswer": "Sherry ",
+      "id": "65056f2f7a97013de78b53ee",
+      "correctAnswer": "Maafe",
       "incorrectAnswers": [
-        "Brandy",
-        "Whiskey",
-        "Vodka"
+        "Pozole",
+        "Enchilada",
+        "Tamales"
       ],
       "question": {
-        "text": "Which drink is served in a Schooner?"
+        "text": "Which is these is not a Mexican dish?"
+      },
+      "tags": [
+        "food_and_drink",
+        "food",
+        "mexico",
+        "mexican_cuisine"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6357fd0f68bd5000211e7178",
+      "correctAnswer": "Portuguese",
+      "incorrectAnswers": [
+        "Swahili",
+        "Cantonese",
+        "Telugu"
+      ],
+      "question": {
+        "text": "Which of these languages would you find spoken in Mozambique?"
+      },
+      "tags": [
+        "language",
+        "linguistics",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950486",
+      "correctAnswer": "especially as related to Christianity",
+      "incorrectAnswers": [
+        "human beings killing other human beings",
+        "the study and design of machines at the molecular level",
+        "the physiological bases of psychological processes"
+      ],
+      "question": {
+        "text": "What is Soteriology the study of?"
+      },
+      "tags": [
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "64dd398a9cef2bd3a34add07",
+      "correctAnswer": "Brad Pitt",
+      "incorrectAnswers": [
+        "Matt Damon",
+        "Tom Hanks",
+        "Leonardo DiCaprio"
+      ],
+      "question": {
+        "text": "Who played Oakland A's general manager Billy Beane in the film 'Moneyball'?"
+      },
+      "tags": [
+        "film_and_tv",
+        "film",
+        "acting"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cf0",
+      "correctAnswer": "Queen",
+      "incorrectAnswers": [
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
+      ],
+      "question": {
+        "text": "Which British rock band (1970-) released the song 'Crazy Little Thing Called Love'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056ec07a97013de78b5353",
+      "correctAnswer": "Attila",
+      "incorrectAnswers": [
+        "Leonidas",
+        "Ariston",
+        "Anaxander"
+      ],
+      "question": {
+        "text": "Which of these people was a leader of the Hunnic empire?"
+      },
+      "tags": [
+        "history",
+        "people",
+        "empires"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501a0",
+      "correctAnswer": "Michelangelo",
+      "incorrectAnswers": [
+        "Leonardo",
+        "Raphael",
+        "Donatello"
+      ],
+      "question": {
+        "text": "By what name is the great italian sculptor & artist Buonarroti better known?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f952243",
+      "correctAnswer": "Liver",
+      "incorrectAnswers": [
+        "Bladder",
+        "Heart",
+        "Kidney"
+      ],
+      "question": {
+        "text": "In which organ is bile produced?"
+      },
+      "tags": [
+        "biology",
+        "science",
+        "anatomy",
+        "medicine"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd98",
+      "correctAnswer": "I Just Called To Say I Love You",
+      "incorrectAnswers": [
+        "I Wish",
+        "Sir Duke",
+        "Superstitious"
+      ],
+      "question": {
+        "text": "Which Stevie Wonder Hit Featured In The Movie “The Woman In Red”?"
+      },
+      "tags": [
+        "film",
+        "soundtracks",
+        "musicians",
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624ab0d1348a461bfc67069c",
+      "correctAnswer": "India",
+      "incorrectAnswers": [
+        "China",
+        "Southeast Asia",
+        "North America"
+      ],
+      "question": {
+        "text": "Where in the world are muskmelons originally from?"
       },
       "tags": [
         "food_and_drink"
@@ -609,22 +453,142 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c377cc59eab6f95042d",
-      "correctAnswer": "Anthony Blunt",
+      "category": "science",
+      "id": "650570377a97013de78b555a",
+      "correctAnswer": "Hypocenter",
       "incorrectAnswers": [
-        "Frank Johnson",
-        "Christopher Linberg",
-        "Harold Walker"
+        "Mohorovic center",
+        "Refraction ridge",
+        "Karman line"
       ],
       "question": {
-        "text": "In 1979 which English art historian was exposed as a one-time Soviet spy and stripped of his knighthood?"
+        "text": "What is the focus of an earthquake, deep in the ground where it actually starts?"
       },
       "tags": [
-        "cold_war",
-        "people",
-        "1970's",
-        "uk",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "646339ce01d576cfac3aa3b8",
+      "correctAnswer": "Tennyson",
+      "incorrectAnswers": [
+        "Keats",
+        "Shelley",
+        "Wordsworth"
+      ],
+      "question": {
+        "text": "Which later poet was heavily influenced by Lord Byron and wrote 'The Lord of Burleigh' in 1842?"
+      },
+      "tags": [
+        "poetry",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd700dc0dd3b72da64d1b",
+      "correctAnswer": "2001",
+      "incorrectAnswers": [
+        "1998",
+        "2004",
+        "2007"
+      ],
+      "question": {
+        "text": "In which year was A Beautiful Mind released?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624ab0d4348a461bfc67069d",
+      "correctAnswer": "China",
+      "incorrectAnswers": [
+        "Central America",
+        "Africa",
+        "South America"
+      ],
+      "question": {
+        "text": "Where in the world are apricots originally from?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ed1",
+      "correctAnswer": "Nikolai Gogol",
+      "incorrectAnswers": [
+        "Virginia Woolf",
+        "Alexander Pushkin",
+        "Ayn Rand"
+      ],
+      "question": {
+        "text": "Which author wrote 'Evenings on a Farm Near Dikanka'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "63d9530a168979b94b2e4f83",
+      "correctAnswer": "Guadalupe Victoria",
+      "incorrectAnswers": [
+        "Benito Juarez",
+        "Porfirio Diaz",
+        "Vicente Fox"
+      ],
+      "question": {
+        "text": "Who was the first president of Mexico?"
+      },
+      "tags": [
+        "history",
+        "leaders",
+        "mexico"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950392",
+      "correctAnswer": "Sir Walter Raleigh",
+      "incorrectAnswers": [
+        "Sir Francis Drake",
+        "James Cook",
+        "Ernest Shackleton"
+      ],
+      "question": {
+        "text": "Who Brought Back Tobacco And Potatoes From The Americas?"
+      },
+      "tags": [
         "history"
       ],
       "type": "text_choice",
@@ -633,21 +597,42 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd2a",
-      "correctAnswer": "Heraclitus",
+      "category": "arts_and_literature",
+      "id": "645cb12a602ff42ca52fb427",
+      "correctAnswer": "Voltaire",
       "incorrectAnswers": [
-        "Baruch Spinoza",
-        "Denis Diderot",
-        "Ludwig Wittgenstein"
+        "Rousseau",
+        "Hugo",
+        "Flaubert"
       ],
       "question": {
-        "text": "Which philosopher famously said 'One cannot step twice in the same river'?"
+        "text": "Which author of \"Candide\" said, \"The secret of being a bore is to tell everything\"?"
       },
       "tags": [
-        "philosophy",
+        "literature",
+        "authors",
         "quotes",
-        "society_and_culture"
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501d0",
+      "correctAnswer": "A Study in Scarlet",
+      "incorrectAnswers": [
+        "The Murder of Roger Ackroyd",
+        "The Shadow of the Wind",
+        "Inferno"
+      ],
+      "question": {
+        "text": "Which piece of written work starts with the line 'In the year 1878 I took my degree of Doctor of Medicine of the University of London, and proceeded to Netley to go through the course prescribed for surgeons in the army.'?"
+      },
+      "tags": [
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
