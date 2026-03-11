@@ -1,24 +1,25 @@
 {
-  "gameDate": "2026-03-10",
+  "gameDate": "2026-03-11",
   "difficulty": "medium",
   "results": [
     {
-      "category": "general_knowledge",
-      "id": "647638d1f05ea6d6f587a156",
-      "correctAnswer": "Répondez S'il Vous Plaît",
+      "category": "society_and_culture",
+      "id": "645c9fc442ea81e2554c5f79",
+      "correctAnswer": "Upperclassman",
       "incorrectAnswers": [
-        "Rester Sans Vôtre Poisson",
-        "Respond Soon Via Phone",
-        "Request Some Vacation Plans"
+        "Sophomore",
+        "Freshman",
+        "Senior"
       ],
       "question": {
-        "text": "What does the 4-letter abbreviation RSVP stand for?"
+        "text": "In the USA, what term is used to refer to a student in the last 2 years of high school or college?"
       },
       "tags": [
-        "abbreviations",
-        "initials",
-        "society_and_culture",
-        "general_knowledge"
+        "college",
+        "education",
+        "universities",
+        "words",
+        "usa"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -27,18 +28,20 @@
     },
     {
       "category": "history",
-      "id": "622a1c357cc59eab6f94fde3",
-      "correctAnswer": "Spain ",
+      "id": "622a1c3c7cc59eab6f9518b9",
+      "correctAnswer": "Caesarion",
       "incorrectAnswers": [
-        "Italy",
-        "England",
-        "France"
+        "Octavian",
+        "Augustus",
+        "Commodus"
       ],
       "question": {
-        "text": "Which Country's Royalty Paid For Christopher Columbus 's First Voyage Across The Atlantic?"
+        "text": "What was the name of the son of Cleopatra & Julius Caesar?"
       },
       "tags": [
-        "exploration",
+        "romans",
+        "the_ancient_world",
+        "people",
         "history"
       ],
       "type": "text_choice",
@@ -47,40 +50,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c377cc59eab6f950456",
-      "correctAnswer": "Church of Scientology",
+      "category": "geography",
+      "id": "62374278cb85f7ce9e949dd0",
+      "correctAnswer": "Stockholm",
       "incorrectAnswers": [
-        "The Chuch of Jesus Christ of Latter-day Saints",
-        "The Jehovah's Witnesses",
-        "The Church of the Flying Spaghetti Monster"
+        "Monrovia",
+        "Helsinki",
+        "Oslo"
       ],
       "question": {
-        "text": "Deriving its name from the Latin word meaning knowledge, which church was founded in 1954 in California?"
+        "text": "What is the capital city of Sweden?"
       },
       "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "64f3a941601ffca0b7615dd7",
-      "correctAnswer": "A beanball",
-      "incorrectAnswers": [
-        "A curveball",
-        "A fastball",
-        "A slider"
-      ],
-      "question": {
-        "text": "What is the baseball term for when a pitcher intentionally hits a batter with the pitch?"
-      },
-      "tags": [
-        "baseball",
-        "sport"
+        "europe",
+        "capital_cities",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -89,21 +73,40 @@
     },
     {
       "category": "food_and_drink",
-      "id": "639898405c9a75021f31046c",
-      "correctAnswer": "Fermentation",
+      "id": "6398983e5c9a75021f31046a",
+      "correctAnswer": "Italy",
       "incorrectAnswers": [
-        "Distillation",
-        "Oxidation",
-        "Clarification"
+        "France",
+        "Spain",
+        "United States"
       ],
       "question": {
-        "text": "What is the process used to convert grape juice into wine called?"
+        "text": "Which country is the world's largest producer of wine by volume?"
       },
       "tags": [
         "food_and_drink",
         "wine",
-        "drink",
-        "chemistry"
+        "drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9501fd",
+      "correctAnswer": "Quentin Tarantino",
+      "incorrectAnswers": [
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
+      ],
+      "question": {
+        "text": "Which director directed Inglourious Basterds?"
+      },
+      "tags": [
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -112,191 +115,24 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9500ea",
-      "correctAnswer": "Apollo",
+      "id": "62c2f9e9b3eadb0437fda6af",
+      "correctAnswer": "Horse",
       "incorrectAnswers": [
-        "Orion",
-        "Morpheus",
-        "Prometheus"
+        "Lion",
+        "Moose",
+        "Swan"
       ],
       "question": {
-        "text": "Who was the Greek god of prophecy and archery?"
+        "text": "Which animal would you associate with the Ferrari logo?"
       },
       "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951397",
-      "correctAnswer": "Alice's Adventures in Wonderland",
-      "incorrectAnswers": [
-        "Charlotte's Web",
-        "The Hobbit",
-        "Taras Bulba"
-      ],
-      "question": {
-        "text": "In which book does The Queen of Hearts appear?"
-      },
-      "tags": [
-        "fictitious_characters",
-        "literature",
-        "childrens_literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c377cc59eab6f95042c",
-      "correctAnswer": "Jacob Marley",
-      "incorrectAnswers": [
-        "Archie Scorn",
-        "Marius Topman",
-        "Ronald Leerden"
-      ],
-      "question": {
-        "text": "In The Charles Dickens Novel 'A Chrismas Carol' Who Was Scrooge's Dead Business Partner? "
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a0c",
-      "correctAnswer": "Henry Kissinger",
-      "incorrectAnswers": [
-        "John Quincy Adams",
-        "Condoleezza Rice",
-        "Robert Gates"
-      ],
-      "question": {
-        "text": "Which U.S. Secretary of State won the Nobel Peace Prize in 1973?"
-      },
-      "tags": [
-        "usa",
-        "politics",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950381",
-      "correctAnswer": "Pontius Pilate",
-      "incorrectAnswers": [
-        "Cesar Augustus",
-        "King Solomon",
-        "Judas"
-      ],
-      "question": {
-        "text": "Who presided over the trial of Jesus?"
-      },
-      "tags": [
-        "christianity",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "626288684b176d54800e3d9a",
-      "correctAnswer": "BMW",
-      "incorrectAnswers": [
-        "Harley Davidson",
-        "Mercedez-Benz",
-        "Porsche"
-      ],
-      "question": {
-        "text": "Which motoring brand is associated with the marketing slogan 'The Ultimate Driving Machine'?"
-      },
-      "tags": [
+        "society_and_culture",
         "business",
         "marketing",
+        "animals",
         "motoring",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950408",
-      "correctAnswer": "Rosa Parks",
-      "incorrectAnswers": [
-        "Angela Davis",
-        "Dorothy Cotton",
-        "Fanny Lou Hamer"
-      ],
-      "question": {
-        "text": "Which civil right activist is famous for refusing to give up her seat on a bus to make way for a white person?"
-      },
-      "tags": [
-        "general_knowledge",
-        "people",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950168",
-      "correctAnswer": "Piglet",
-      "incorrectAnswers": [
-        "Roo",
-        "Finnie",
-        "Paddington"
-      ],
-      "question": {
-        "text": "Who was Winnie the Pooh's neighbour?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b5792fd6c701a92118367",
-      "correctAnswer": "Japan",
-      "incorrectAnswers": [
-        "Vietnam",
-        "Russia",
-        "France"
-      ],
-      "question": {
-        "text": "In which country would you find the Itsukushima Shinto Shrine?"
-      },
-      "tags": [
-        "tourist_attractions",
-        "places",
-        "geography"
+        "logos",
+        "symbols"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -305,82 +141,17 @@
     },
     {
       "category": "science",
-      "id": "622a1c397cc59eab6f950fb6",
-      "correctAnswer": "Gregor Mendel",
+      "id": "647f9df73a4302a71927169a",
+      "correctAnswer": "Lye",
       "incorrectAnswers": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Charles Darwin"
+        "Rye",
+        "Bye",
+        "Dye"
       ],
       "question": {
-        "text": "Who is known as the father of genetics?"
+        "text": "What is the name of the strong alkaline solution frequently used in soap making and drain cleaning?"
       },
       "tags": [
-        "people",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f9507fe",
-      "correctAnswer": "Africa",
-      "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Europe"
-      ],
-      "question": {
-        "text": "The country of Togo is on which continent?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "645aba5e158db1bd1779f1ce",
-      "correctAnswer": "The Beatles",
-      "incorrectAnswers": [
-        "The Rolling Stones",
-        "The Beach Boys",
-        "The Who"
-      ],
-      "question": {
-        "text": "Which band's '1962-1966' and '1967-1970' albums sold 13 million copies and 14 million copies respectively?"
-      },
-      "tags": [
-        "bands",
-        "music",
-        "music_albums"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "646089e1de964ebc39016c94",
-      "correctAnswer": "Charles Goodyear",
-      "incorrectAnswers": [
-        "Henry Ford",
-        "Thomas Edison",
-        "Eli Whitney"
-      ],
-      "question": {
-        "text": "In 1839, which American inventor reportedly spilled a mix of rubber and sulfur onto a hot stove and found that it didn't melt?"
-      },
-      "tags": [
-        "inventors",
-        "history",
         "chemistry",
         "science"
       ],
@@ -391,150 +162,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "62573fbf3d2f5c16bfb8833b",
-      "correctAnswer": "Inglourious Basterds",
+      "id": "622a1c347cc59eab6f94f9ee",
+      "correctAnswer": "Red",
       "incorrectAnswers": [
-        "Hotel Rwanda",
-        "Snatch",
-        "Cool Hand Luke"
+        "Blue",
+        "Black",
+        "White"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'During World War II, a group of Jewish U.S. soldiers plan to assassinate Nazi leaders.'"
+        "text": "In The Matrix, which pill did Neo take?"
       },
       "tags": [
         "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64dd35bb9cef2bd3a34a8d60",
-      "correctAnswer": "Melons",
-      "incorrectAnswers": [
-        "Oranges",
-        "Apples",
-        "Bananas"
-      ],
-      "question": {
-        "text": "What is the common name for the fruits named casaba, crenshaw, and honeydew?"
-      },
-      "tags": [
-        "fruit",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95135c",
-      "correctAnswer": "Minimalism",
-      "incorrectAnswers": [
-        "Simplicism",
-        "Aesthetics",
-        "Surrealism"
-      ],
-      "question": {
-        "text": "Which art movement emphasized pure, reduced forms and strict, systematic composition?"
-      },
-      "tags": [
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c377cc59eab6f95043f",
-      "correctAnswer": "Ringo Starr",
-      "incorrectAnswers": [
-        "Ricky Martin",
-        "Kanye West",
-        "Bob Marley"
-      ],
-      "question": {
-        "text": "How in the world of music is Richard Starkey more commonly known?"
-      },
-      "tags": [
-        "pseudonyms",
-        "people",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "64e6536e0b79e5bedd549515",
-      "correctAnswer": "Hudson Bay",
-      "incorrectAnswers": [
-        "Erie Bay",
-        "Superior Bay",
-        "Georgian Bay"
-      ],
-      "question": {
-        "text": "James Bay, located in Ontario and Quebec, is the southern arm of which larger bay?"
-      },
-      "tags": [
-        "bodies_of_water",
-        "canada",
-        "bays",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f95177b",
-      "correctAnswer": "Bangladesh",
-      "incorrectAnswers": [
-        "Sri Lanka",
-        "Bhutan",
-        "Pakistan"
-      ],
-      "question": {
-        "text": "Which new country was formed in 1971 at the end of a conflict between Pakistan and India?"
-      },
-      "tags": [
-        "history",
-        "1970's",
-        "wars"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950733",
-      "correctAnswer": "Ralph Fiennes",
-      "incorrectAnswers": [
-        "Brian Cox",
-        "Mark Wahlberg",
-        "Leonardo DiCaprio"
-      ],
-      "question": {
-        "text": "Which actor has starred in both Harry Potter and Skyfall?"
-      },
-      "tags": [
-        "acting",
-        "film",
+        "cult_films",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -544,38 +184,18 @@
     },
     {
       "category": "science",
-      "id": "622a1c3f7cc59eab6f952356",
-      "correctAnswer": "Sulfur",
+      "id": "622a1c3f7cc59eab6f952357",
+      "correctAnswer": "The North Star",
       "incorrectAnswers": [
-        "Hydrogen",
-        "Chlorine",
-        "Gold"
+        "Orion's Belt",
+        "The Sun",
+        "Alpha Centauri"
       ],
       "question": {
-        "text": "What chemical element is brimstone synonymous with?"
+        "text": "As what is Polaris also known?"
       },
       "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f952322",
-      "correctAnswer": "Real & Imaginary",
-      "incorrectAnswers": [
-        "True & False",
-        "Big & Small",
-        "Logical & Intuitive"
-      ],
-      "question": {
-        "text": "What are the 2 parts of complex numbers known as?"
-      },
-      "tags": [
-        "mathematics",
+        "names",
         "science"
       ],
       "type": "text_choice",
@@ -585,23 +205,20 @@
     },
     {
       "category": "history",
-      "id": "64746ac15a4c31088dd9cfde",
-      "correctAnswer": "Bay of Pigs",
+      "id": "63bc3f8c0e893d6e5a6a0fb1",
+      "correctAnswer": "1683",
       "incorrectAnswers": [
-        "Bay of Cows",
-        "Bay of Dogs",
-        "Bay of Sharks"
+        "1453",
+        "1916",
+        "1189"
       ],
       "question": {
-        "text": "What is the name given to the USA's failed 1961 invasion of Cuba?"
+        "text": "When did the Ottoman Empire reach its greatest territorial extent?"
       },
       "tags": [
-        "usa",
-        "cold_war",
         "history",
-        "1960's",
-        "wars",
-        "cuba"
+        "ottoman_empire",
+        "empires"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -610,18 +227,19 @@
     },
     {
       "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc90",
-      "correctAnswer": "Cacophony",
+      "id": "622a1c367cc59eab6f950091",
+      "correctAnswer": "7",
       "incorrectAnswers": [
-        "Cabotage",
-        "Gardyloo",
-        "Halfpace"
+        "8",
+        "6",
+        "12"
       ],
       "question": {
-        "text": "Which word is defined as 'a harsh, discordant mixture of sounds'?"
+        "text": "What Do The Opposite Sides Of A Standard Dice Always Total?"
       },
       "tags": [
-        "words",
+        "numbers",
+        "games",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -630,21 +248,412 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "63989c1e5c9a75021f310482",
-      "correctAnswer": "France",
+      "category": "film_and_tv",
+      "id": "62573f223d2f5c16bfb8832d",
+      "correctAnswer": "A New York City mob boss transfers control of his empire to his reluctant son.",
       "incorrectAnswers": [
-        "England",
-        "Spain",
-        "Germany"
+        "A leader tries to expand his empire while a poor barber tries to avoid persecution.",
+        "A gang leader is imprisoned and volunteers for a conduct-aversion experiment.",
+        "After his father goes missing, a professor finds himself in a search for the Holy Grail."
       ],
       "question": {
-        "text": "Which country was the main power in Europe during the 17th century?"
+        "text": "What is the plot of the movie The Godfather?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f9a3",
+      "correctAnswer": "To Kill A Mockingbird",
+      "incorrectAnswers": [
+        "The Wind in the Willows",
+        "The Age of Innocence",
+        "Winnie the Pooh"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Atticus Finch'?"
+      },
+      "tags": [
+        "literature",
+        "fictitious_characters",
+        "classic_novels",
+        "general_knowledge",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbe9",
+      "correctAnswer": "\"I’m already pregnant. So, what other shenanigans could I get myself into?\"",
+      "incorrectAnswers": [
+        "\"This is Sparta!\"",
+        "\"Sawyer, you're going out a youngster, but you've t to come back a star!\"",
+        "\"You shall not pass!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Juno'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9517e4",
+      "correctAnswer": "Malta",
+      "incorrectAnswers": [
+        "Cyprus",
+        "Greece",
+        "Spain"
+      ],
+      "question": {
+        "text": "Which country was awarded The George Cross, the highest civilian award for bravery bestowed by the British government, in 1942?"
       },
       "tags": [
         "history",
-        "1600s",
-        "europe"
+        "world_war_2",
+        "uk",
+        "1940's"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417da50f96c4efe8d773db",
+      "correctAnswer": "San Francisco 49ers",
+      "incorrectAnswers": [
+        "San Francisco Jaguars",
+        "San Francisco Pistons",
+        "San Francisco Predators"
+      ],
+      "question": {
+        "text": "Which of these is an American Football team based in San Francisco?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950533",
+      "correctAnswer": "Diseases of the stomach and intestines",
+      "incorrectAnswers": [
+        "Drug dosage",
+        "The origin and spread of diseases",
+        "The origin of stars"
+      ],
+      "question": {
+        "text": "What is Gastroenterology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611f784b176d54800e3d5b",
+      "correctAnswer": "1969",
+      "incorrectAnswers": [
+        "1948",
+        "1955",
+        "1962"
+      ],
+      "question": {
+        "text": "In which year did the first human set foot on the moon?"
+      },
+      "tags": [
+        "events",
+        "firsts",
+        "space_exploration",
+        "space",
+        "cold_war",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625064c5e12f6dec240bdfcc",
+      "correctAnswer": "Aqua",
+      "incorrectAnswers": [
+        "Nena",
+        "Frankie Goes to Hollywood",
+        "OMC"
+      ],
+      "question": {
+        "text": "'Barbie Girl' was a one hit wonder in 1997 by which artist?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "1990's",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a6c",
+      "correctAnswer": "Pirate",
+      "incorrectAnswers": [
+        "Judge",
+        "Prime Minister",
+        "General"
+      ],
+      "question": {
+        "text": " What was Sir Henry Morgan famous for in the 17th century?"
+      },
+      "tags": [
+        "people",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f9500f5",
+      "correctAnswer": "Hermes",
+      "incorrectAnswers": [
+        "Apollo",
+        "Mercury",
+        "Artemis"
+      ],
+      "question": {
+        "text": "Who is the Greek messenger god?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740899da29df7b05f73e5",
+      "correctAnswer": "A man investigates the disappearance of a murderer who escaped from a hospital for the insane.",
+      "incorrectAnswers": [
+        "When two girls move to the country, they have adventures with the forest spirits who live nearby.",
+        "Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.",
+        "The son of a city's mastermind falls in love with a working-class prophet."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Shutter Island?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e606ff2394bd44dee02b",
+      "correctAnswer": "One",
+      "incorrectAnswers": [
+        "White",
+        "Two",
+        "Three"
+      ],
+      "question": {
+        "text": "In French, what is the meaning of the word 'un'?"
+      },
+      "tags": [
+        "language",
+        "translations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950595",
+      "correctAnswer": "The origin of life",
+      "incorrectAnswers": [
+        "Black holes",
+        "The ecology of any individual species",
+        "The biosphere"
+      ],
+      "question": {
+        "text": "What is astrobiology the study of?"
+      },
+      "tags": [
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e5e8ff2394bd44dee022",
+      "correctAnswer": "White",
+      "incorrectAnswers": [
+        "Seven",
+        "Yellow",
+        "Green"
+      ],
+      "question": {
+        "text": "What does the word 'blanco' mean in Spanish?"
+      },
+      "tags": [
+        "language",
+        "translations"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63e13a21106de6ffa7d4a79d",
+      "correctAnswer": "Patella",
+      "incorrectAnswers": [
+        "Humerus",
+        "Femur",
+        "Clavicle"
+      ],
+      "question": {
+        "text": "What is the medical term for the kneecap?"
+      },
+      "tags": [
+        "science",
+        "biology",
+        "anatomy",
+        "medicine"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f9500e5",
+      "correctAnswer": "Dionysus",
+      "incorrectAnswers": [
+        "Aphrodite",
+        "Isis",
+        "Bacchus"
+      ],
+      "question": {
+        "text": "Who was the Greek god of wine?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6477bad1550bc819ad646b1d",
+      "correctAnswer": "Cliché",
+      "incorrectAnswers": [
+        "Bonjour",
+        "Exposé",
+        "Passepartout"
+      ],
+      "question": {
+        "text": "What is the French word for an overused or stereotyped phrase?"
+      },
+      "tags": [
+        "words",
+        "french",
+        "language"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3e7cc59eab6f9522d0",
+      "correctAnswer": "Apple",
+      "incorrectAnswers": [
+        "Grape",
+        "Plum",
+        "Banana"
+      ],
+      "question": {
+        "text": "James Grieve and Egremont Russet are types of which fruit?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink",
+        "plants"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6262af6e4b176d54800e3dc6",
+      "correctAnswer": "Age Sex Location",
+      "incorrectAnswers": [
+        "Anybody Seen Lately?",
+        "Awesome Situation Logged",
+        "Any Souls Loggedin?"
+      ],
+      "question": {
+        "text": "If someone typed the letters 'ASL' in a message, what would they mean?"
+      },
+      "tags": [
+        "the_internet",
+        "initials",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
