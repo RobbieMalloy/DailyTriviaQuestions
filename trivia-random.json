@@ -1,86 +1,69 @@
 {
-  "gameDate": "2026-03-11",
+  "gameDate": "2026-03-12",
   "difficulty": "random",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "625740509da29df7b05f73d4",
-      "correctAnswer": "Downfall",
+      "category": "music",
+      "id": "622a1c3b7cc59eab6f951745",
+      "correctAnswer": "Chris Rea",
       "incorrectAnswers": [
-        "Platoon",
-        "The Green Mile",
-        "Up"
+        "Brian Jelico",
+        "Kevin Dober",
+        "David Duschamps"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'The final secretary for Adolf Hitler tells of the Nazi dictator's final days.'"
+        "text": "Which singer released Driving Home for Christmas in 1988?"
       },
       "tags": [
+        "songs",
+        "music",
+        "christmas",
+        "1980's"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501bb",
+      "correctAnswer": "Harry Potter and the Goblet of Fire",
+      "incorrectAnswers": [
+        "The Sea of Monsters",
+        "Twenty Thousand Leagues Under the Sea",
+        "The Mysterious Island"
+      ],
+      "question": {
+        "text": "Which piece of written work starts with the line 'The villagers of Little Hangleton still called it \"the Riddle House\" even though it has been many years since the Riddle family had lived there.'?"
+      },
+      "tags": [
+        "literature",
+        "quotes",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fa9e",
+      "correctAnswer": "Catherine Zeta-Jones",
+      "incorrectAnswers": [
+        "Kathy Bates",
+        "Julianne Moore",
+        "Queen Latifah"
+      ],
+      "question": {
+        "text": "Who won the 2002 Academy Award for Best Supporting Actress for playing the role of Velma Kelly in Chicago?"
+      },
+      "tags": [
+        "acting",
+        "academy_awards",
         "film",
         "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f952297",
-      "correctAnswer": "0",
-      "incorrectAnswers": [
-        "1",
-        "2",
-        "3"
-      ],
-      "question": {
-        "text": "How Many Humps Has A Dromedary Camel Got?"
-      },
-      "tags": [
-        "animals",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f951569",
-      "correctAnswer": "South Africa ",
-      "incorrectAnswers": [
-        "Argentina",
-        "Australia",
-        "France"
-      ],
-      "question": {
-        "text": "In which country is the wine making area of Stellenbosch?"
-      },
-      "tags": [
-        "wine",
-        "drink",
-        "alcohol",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510b8",
-      "correctAnswer": "George Hudson",
-      "incorrectAnswers": [
-        "Isambard Kingdom Brunel",
-        "Robert Stephenson",
-        "Thomas Telford"
-      ],
-      "question": {
-        "text": "In The 19th Century Who Was The Railway King?"
-      },
-      "tags": [
-        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -89,19 +72,304 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6266e636ff2394bd44dee039",
-      "correctAnswer": "Three",
+      "id": "647c9856f89e0968cfbc1a39",
+      "correctAnswer": "Apollo",
       "incorrectAnswers": [
-        "Black",
-        "Yellow",
-        "Eight"
+        "Zeus",
+        "Ares",
+        "Poseidon"
       ],
       "question": {
-        "text": "In German, what is the meaning of the word 'drei'?"
+        "text": "In Greek mythology, which god did Marsyas challenges to a music contest?"
+      },
+      "tags": [
+        "ancient_greece",
+        "society_and_culture",
+        "mythology"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "637162861bf863c45ca6c382",
+      "correctAnswer": "Great is the power of habit",
+      "incorrectAnswers": [
+        "Tomorrow, be ours",
+        "Lead in order to serve, not in order to rule",
+        "Such is life"
+      ],
+      "question": {
+        "text": "How does that Latin phrase 'Magna est vis consuetudinis' translate into English?"
+      },
+      "tags": [
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64730759cf09068746f63762",
+      "correctAnswer": "Halley's Comet",
+      "incorrectAnswers": [
+        "Hale-Bopp",
+        "Shoemaker-Levy 9",
+        "Hyakutake"
+      ],
+      "question": {
+        "text": "Which comet causes the Orionids meteor shower each October?"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950334",
+      "correctAnswer": "George VI",
+      "incorrectAnswers": [
+        "Henry VIII",
+        "Elizabeth I",
+        "William II"
+      ],
+      "question": {
+        "text": "Who was the monarch of England before Elizabeth II?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6462620fab138b829b81e9a9",
+      "correctAnswer": "Chairman of the Board",
+      "incorrectAnswers": [
+        "The Voice",
+        "Ol' Blue Eyes",
+        "King of Swing"
+      ],
+      "question": {
+        "text": "Which nickname for Frank Sinatra highlights his role as a powerful figure in the music industry, much like a corporate CEO?"
+      },
+      "tags": [
+        "singers",
+        "history",
+        "culture",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b5815fd6c701a92118398",
+      "correctAnswer": "The UK",
+      "incorrectAnswers": [
+        "Norway",
+        "New Zealand",
+        "South Africa"
+      ],
+      "question": {
+        "text": "In which country would you find the UNESCO World Heritage site of the Dorset and East Devon Coast?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233852f62eaad73716a8c55",
+      "correctAnswer": "The Mersey",
+      "incorrectAnswers": [
+        "The Rhine",
+        "The Tyne",
+        "The Thames"
+      ],
+      "question": {
+        "text": "What river is Liverpool on?"
+      },
+      "tags": [
+        "rivers",
+        "bodies_of_water",
+        "uk",
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950617",
+      "correctAnswer": "Zoe Saldana",
+      "incorrectAnswers": [
+        "Catherine Deneuve",
+        "Audrey Hepburn",
+        "Rachel Weisz"
+      ],
+      "question": {
+        "text": "Which actress has played the roles of Gamora in the Marvel Cinematic Universe, and of Neytiri in the Avatar films?"
+      },
+      "tags": [
+        "film_and_tv",
+        "film",
+        "acting"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e602ff2394bd44dee02a",
+      "correctAnswer": "Negro",
+      "incorrectAnswers": [
+        "Nero",
+        "Zwart",
+        "Azul"
+      ],
+      "question": {
+        "text": "In Portuguese, what is the word for for 'black'?"
       },
       "tags": [
         "language",
         "translations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623742aacb85f7ce9e949de4",
+      "correctAnswer": "Port of Spain",
+      "incorrectAnswers": [
+        "Mogadishu",
+        "Dili",
+        "Maseru"
+      ],
+      "question": {
+        "text": "What is the capital city of Trinidad and Tobago?"
+      },
+      "tags": [
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "647f9d783a4302a7192715bc",
+      "correctAnswer": "Goulash",
+      "incorrectAnswers": [
+        "Stroganoff",
+        "Borscht",
+        "Sauerkraut"
+      ],
+      "question": {
+        "text": "What is the name of the Hungarian stew that contains meat and vegetables and is flavored with paprika?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink",
+        "cuisine",
+        "hungary"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "645ababf158db1bd1779f1d6",
+      "correctAnswer": "Buffy the Vampire Slayer",
+      "incorrectAnswers": [
+        "Sabrina, the Teenage Witch",
+        "Charmed",
+        "Supernatural"
+      ],
+      "question": {
+        "text": "On which TV series did Alyson Hannigan play a geek-turned-witch?"
+      },
+      "tags": [
+        "witches",
+        "film_and_tv",
+        "tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "63a03992c7d86251f9b65c83",
+      "correctAnswer": "Go",
+      "incorrectAnswers": [
+        "Scrabble",
+        "Chess",
+        "Clue"
+      ],
+      "question": {
+        "text": "What is the name of the classic game where players take turns placing black and white stones in an attempt to capture areas of the board?"
+      },
+      "tags": [
+        "board_games"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd34",
+      "correctAnswer": "Martin Heidegger",
+      "incorrectAnswers": [
+        "Denis Diderot",
+        "Jean-Jacques Rousseau",
+        "Ludwig Wittgenstein"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'He who thinks great thoughts, often makes great errors'?"
+      },
+      "tags": [
+        "philosophy",
+        "quotes",
+        "people",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -110,235 +378,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f95017b",
-      "correctAnswer": "Twelfth Night",
-      "incorrectAnswers": [
-        "Romeo & Juliette",
-        "Hamlet",
-        "The Taming of the Shrew"
-      ],
-      "question": {
-        "text": "Which Shakespeare play contains the line 'if music be the food of love play on''?"
-      },
-      "tags": [
-        "theater",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602da8014f58b5fc1a3fc2",
-      "correctAnswer": "Netherlands",
-      "incorrectAnswers": [
-        "Croatia",
-        "Finland",
-        "Spain"
-      ],
-      "question": {
-        "text": "Where would you find the city of Rotterdam?"
-      },
-      "tags": [
-        "cities",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "639ae865929b90846f2fc8d9",
-      "correctAnswer": "Luke Skywalker",
-      "incorrectAnswers": [
-        "Han Solo",
-        "Lando Calrissian",
-        "Obi-Wan Kenobi"
-      ],
-      "question": {
-        "text": "In Star Wars, who is Princess Leia's twin brother?"
-      },
-      "tags": [
-        "star_wars",
-        "film",
-        "film_and_tv",
-        "fictitious_characters",
-        "cult_films"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ee7",
-      "correctAnswer": "H. G. Wells",
-      "incorrectAnswers": [
-        "Neil Gaiman",
-        "Arthur C. Clarke",
-        "C. S. Lewis"
-      ],
-      "question": {
-        "text": "Which author wrote 'The War of the Worlds'?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9c5",
-      "correctAnswer": "George W. Bush",
-      "incorrectAnswers": [
-        "Gerald Ford",
-        "Thomas Jefferson ",
-        "Franklin D. Roosevelt"
-      ],
-      "question": {
-        "text": "Who was the 43rd president of the USA, in term during the period 2001–2009?"
-      },
-      "tags": [
-        "usa",
-        "presidents",
-        "leaders",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "622a1c3e7cc59eab6f9522ad",
-      "correctAnswer": "1 Year",
+      "id": "6243333dcfaae40c129613cc",
+      "correctAnswer": "A Hen",
       "incorrectAnswers": [
-        "1 Day",
-        "28 Days",
-        "1 Month"
+        "A Sow",
+        "A Nanny",
+        "A Lioness"
       ],
       "question": {
-        "text": "How long does it take for the Earth to orbit the Sun?"
+        "text": "What would you call a female bird?"
       },
       "tags": [
-        "science",
-        "astronomy",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f888",
-      "correctAnswer": "Tennis",
-      "incorrectAnswers": [
-        "Motor Racing",
-        "Swimming",
-        "Table tennis"
-      ],
-      "question": {
-        "text": "With which sport is Monica Seles associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95035d",
-      "correctAnswer": "William The Conqueror",
-      "incorrectAnswers": [
-        "Henry VIII",
-        "Victoria",
-        "Albert the Great"
-      ],
-      "question": {
-        "text": "Who was crowned King of England at Westminster Abbey on Christmas day 1066?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f92b",
-      "correctAnswer": "Being There",
-      "incorrectAnswers": [
-        "The Godfather",
-        "Pirates of the Caribbean",
-        "Wall Street"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Chance the Gardener'?"
-      },
-      "tags": [
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "64746b005a4c31088dd9d005",
-      "correctAnswer": "Hermana",
-      "incorrectAnswers": [
-        "Familia",
-        "Amor",
-        "Nina"
-      ],
-      "question": {
-        "text": "What term of endearment is appropriate for your sister in Spanish?"
-      },
-      "tags": [
-        "spanish",
-        "language"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3c7cc59eab6f95181d",
-      "correctAnswer": "Nylon",
-      "incorrectAnswers": [
-        "Latex",
-        "Kevlar",
-        "Lycra"
-      ],
-      "question": {
-        "text": "Which artificial material was first used commercially in 1938?"
-      },
-      "tags": [
-        "inventions",
-        "fashion",
-        "history",
+        "animals",
+        "biology",
         "science"
       ],
       "type": "text_choice",
@@ -347,43 +400,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9507b4",
-      "correctAnswer": "Arnold Schwarzenegger",
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fff6",
+      "correctAnswer": "La Paz",
       "incorrectAnswers": [
-        "Sylvester Stallone",
-        "Jason Statham",
-        "Chuck Norris"
+        "Sucre",
+        "Santiago",
+        "Bogota"
       ],
       "question": {
-        "text": "Which action star has featured in both Terminator and Predator?"
+        "text": "What is the capital of Bolivia?"
       },
       "tags": [
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f95038c",
-      "correctAnswer": "Frank Capra",
-      "incorrectAnswers": [
-        "Orson Welles",
-        "John Ford",
-        "Howard Hawks"
-      ],
-      "question": {
-        "text": "Who directed the 1946 classic 'It's A Wonderful Life'?"
-      },
-      "tags": [
-        "film",
-        "christmas",
-        "film_and_tv"
+        "south_america",
+        "capital_cities",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -391,19 +422,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ef5",
-      "correctAnswer": "Edgar Rice Burroughs",
+      "category": "society_and_culture",
+      "id": "63b058654799123c67712f19",
+      "correctAnswer": "Tiger",
       "incorrectAnswers": [
-        "Jack Vance",
-        "George R. R. Martin",
-        "Robert A. Heinlein"
+        "Elephant",
+        "Lion",
+        "Crocodile"
       ],
       "question": {
-        "text": "Which author wrote 'Pellucidar heptalogy'?"
+        "text": "What is the national animal of India?"
       },
       "tags": [
-        "arts_and_literature"
+        "india",
+        "society_and_culture",
+        "animals"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -411,20 +444,23 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ecd",
-      "correctAnswer": "Nikolai Gogol",
+      "category": "sport_and_leisure",
+      "id": "647edb8d520523194910c343",
+      "correctAnswer": "Jeté",
       "incorrectAnswers": [
-        "Virginia Woolf",
-        "Alexander Pushkin",
-        "Ayn Rand"
+        "Pirouette",
+        "Relevé",
+        "Plié"
       ],
       "question": {
-        "text": "Which author wrote 'The Overcoat'?"
+        "text": "What is the term for jumping forward from one foot to the other in ballet?"
       },
       "tags": [
-        "literature",
-        "arts_and_literature"
+        "dance",
+        "ballet",
+        "words",
+        "french",
+        "language"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -433,17 +469,19 @@
     },
     {
       "category": "music",
-      "id": "622a1c387cc59eab6f950bcb",
-      "correctAnswer": "Lordi",
+      "id": "62506462e12f6dec240bdfaf",
+      "correctAnswer": "867-5309 - Jenny",
       "incorrectAnswers": [
-        "Nightwish",
-        "Poets of the Fall",
-        "Stratovarius"
+        "Round And Round",
+        "Safety Dance",
+        "Just a Friend"
       ],
       "question": {
-        "text": "Which Finnish hard rock band released the album 'Get Heavy'?"
+        "text": "What song did Tommy Tutone have a hit with in 1981?"
       },
       "tags": [
+        "songs",
+        "one_hit_wonders",
         "music"
       ],
       "type": "text_choice",
@@ -452,82 +490,41 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "6233865962eaad73716a8cca",
-      "correctAnswer": "Ireland ",
+      "category": "society_and_culture",
+      "id": "65056e8d7a97013de78b530b",
+      "correctAnswer": "Bank",
       "incorrectAnswers": [
-        "Canada",
-        "New Zealand",
-        "Australia"
+        "Book store",
+        "Joint venture",
+        "Pulp mill"
       ],
       "question": {
-        "text": "Where Is The Glenveagh National Park?"
+        "text": "What do you call a business that lends and borrows money?"
       },
       "tags": [
-        "geography"
+        "finance",
+        "banking",
+        "business"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f95162c",
-      "correctAnswer": "Port ",
-      "incorrectAnswers": [
-        "Vodka",
-        "Brandy",
-        "Amaretto"
-      ],
-      "question": {
-        "text": "Which drink comes in Ruby and Tawny varieties?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056f0b7a97013de78b53bb",
-      "correctAnswer": "Laser",
-      "incorrectAnswers": [
-        "Kodachrome",
-        "Television",
-        "Atomic Bomb"
-      ],
-      "question": {
-        "text": "Which of the following technologies was developed most recently?"
-      },
-      "tags": [
-        "history",
-        "technology"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "624dba5ccd90beeca353156d",
-      "correctAnswer": "Sean Connery",
+      "id": "625fd725dc0dd3b72da64d26",
+      "correctAnswer": "1996",
       "incorrectAnswers": [
-        "George Lazenby",
-        "Roger Moore",
-        "Pierce Brosnan"
+        "1992",
+        "2000",
+        "2004"
       ],
       "question": {
-        "text": "Who played the role of James Bond in Goldfinger?"
+        "text": "In which year was Fargo first released in the cinema?"
       },
       "tags": [
-        "james_bond",
         "film",
-        "acting",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -536,19 +533,40 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9519d8",
-      "correctAnswer": "Qing",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95027d",
+      "correctAnswer": "Mexico ",
       "incorrectAnswers": [
-        "Ming",
-        "Tan",
-        "Han"
+        "France",
+        "China",
+        "India"
       ],
       "question": {
-        "text": "What Chinese dynasty was overthrown in 1912?"
+        "text": "Which country is the ancient home of chocolate?"
       },
       "tags": [
-        "history"
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f99",
+      "correctAnswer": "William Shakespeare",
+      "incorrectAnswers": [
+        "Arthur C. Clarke",
+        "Isaac Newton",
+        "Enid Blyton"
+      ],
+      "question": {
+        "text": "Which author wrote 'Mother Gooſe’s Melody'?"
+      },
+      "tags": [
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -556,19 +574,43 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9504bc",
-      "correctAnswer": "drugs",
+      "category": "geography",
+      "id": "625e9eae796f721e95543f65",
+      "correctAnswer": "Iraq",
       "incorrectAnswers": [
-        "the scientific study of muscles",
-        "animal diseases",
-        "museum management"
+        "Gabon",
+        "Ireland",
+        "Bangladesh"
       ],
       "question": {
-        "text": "What is Pharmacology the study of?"
+        "text": "Which of these countries has black on its flag?"
       },
       "tags": [
-        "science"
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "6463398b01d576cfac3aa381",
+      "correctAnswer": "Jean Valjean",
+      "incorrectAnswers": [
+        "Romeo",
+        "Hamlet",
+        "Yossarian"
+      ],
+      "question": {
+        "text": "Which iconic literary character spends his life searching for redemption after spending 19 years in prison for stealing a loaf of bread?"
+      },
+      "tags": [
+        "fictitious_characters",
+        "classic_novels",
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -576,41 +618,23 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "6239f80b9129041bf3925cc1",
-      "correctAnswer": "Echo",
+      "category": "society_and_culture",
+      "id": "6477bb12550bc819ad646b5c",
+      "correctAnswer": "Exodus",
       "incorrectAnswers": [
-        "Elton",
-        "Elbow",
-        "Enable"
+        "Genesis",
+        "Deuteronomy",
+        "Leviticus"
       ],
       "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter E?"
+        "text": "Which book of the Bible features the Israelites fleeing from slavery in Egypt?"
       },
       "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570397a97013de78b555e",
-      "correctAnswer": "Chloroplasts",
-      "incorrectAnswers": [
-        "Mitochondria",
-        "Vacuoles",
-        "Centrioles"
-      ],
-      "question": {
-        "text": "In which part of a plant does photosynthesis take place?"
-      },
-      "tags": [
-        "science",
-        "biology",
-        "plants"
+        "christianity",
+        "judaism",
+        "bible",
+        "society_and_culture",
+        "religion"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -618,22 +642,23 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951048",
-      "correctAnswer": "Acidity Or Alkalinity",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fda7",
+      "correctAnswer": "Fugees",
       "incorrectAnswers": [
-        "Radiation",
-        "Wind Speed",
-        "Gravity"
+        "Run D.M.C",
+        "Black Eyed Peas",
+        "Poison"
       ],
       "question": {
-        "text": "What Is PH A Measure Of"
+        "text": "Which Band Consisted Of The Following Members “Wyclef Jean, Lauryn Hill, Pras Michel\"? "
       },
       "tags": [
-        "science"
+        "people",
+        "music"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     }

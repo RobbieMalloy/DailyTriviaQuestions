@@ -1,132 +1,21 @@
 {
-  "gameDate": "2026-03-11",
+  "gameDate": "2026-03-12",
   "difficulty": "easy",
   "results": [
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951340",
-      "correctAnswer": "Caricature",
-      "incorrectAnswers": [
-        "Satire",
-        "Still Life",
-        "Snappy Shot"
-      ],
-      "question": {
-        "text": "What is the word for an artwork humoously excaggerating the qualities of a person?"
-      },
-      "tags": [
-        "words",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fea3",
-      "correctAnswer": "Elton John",
-      "incorrectAnswers": [
-        "Eric Clapton",
-        "Paul McCartney",
-        "Sting"
-      ],
-      "question": {
-        "text": "Which English singer-songwriter released the song 'Rocket Man'?"
-      },
-      "tags": [
-        "songs",
-        "musicians",
-        "people",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9c4",
-      "correctAnswer": "William J. Clinton",
-      "incorrectAnswers": [
-        "Rutherford B. Hayes",
-        "Woodrow Wilson",
-        "Dwight Eisenhower"
-      ],
-      "question": {
-        "text": "Who was the 42nd president of the USA, in term during the period 1993–2001?"
-      },
-      "tags": [
-        "usa",
-        "presidents",
-        "1990's",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "645bb13cf09106226db2358e",
-      "correctAnswer": "Perspiration",
-      "incorrectAnswers": [
-        "Saline",
-        "Lactate",
-        "Water"
-      ],
-      "question": {
-        "text": "What is the name of the salty, watery fluid secreted by sweat glands?"
-      },
-      "tags": [
-        "anatomy",
-        "physiology",
-        "biology"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b89",
-      "correctAnswer": "The Jimi Hendrix Experience",
-      "incorrectAnswers": [
-        "Poison",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
-      ],
-      "question": {
-        "text": "Which English-American psychedelic rock band released the song 'Purple Haze'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "general_knowledge",
-      "id": "646089ddde964ebc39016c83",
-      "correctAnswer": "Mole",
+      "id": "645ba87ff09106226db2357f",
+      "correctAnswer": "Great",
       "incorrectAnswers": [
-        "Ferret",
-        "Rat",
-        "Squirrel"
+        "Large",
+        "Grand",
+        "Happy"
       ],
       "question": {
-        "text": "Which term describes a spy who operates within the intelligence service of another country?"
+        "text": "What word precedes both 'Dane' and 'Depression'?"
       },
       "tags": [
-        "espionage",
+        "puzzles",
         "words"
       ],
       "type": "text_choice",
@@ -135,22 +24,85 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9500ed",
-      "correctAnswer": "David",
+      "category": "geography",
+      "id": "625e9ede796f721e95543f72",
+      "correctAnswer": "Red",
       "incorrectAnswers": [
-        "Daniel",
-        "John",
-        "Michael"
+        "Gold",
+        "Yellow",
+        "Blue"
       ],
       "question": {
-        "text": "Who killed Goliath?"
+        "text": "Which of these colors would you find on the flag of Japan?"
       },
       "tags": [
-        "christianity",
-        "mythology",
-        "people",
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602d414b176d54800e3c8a",
+      "correctAnswer": "Canada",
+      "incorrectAnswers": [
+        "Australia",
+        "New Zealand",
+        "United States"
+      ],
+      "question": {
+        "text": "Where would you find the city of Vancouver?"
+      },
+      "tags": [
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602d0a4b176d54800e3c7a",
+      "correctAnswer": "Toronto",
+      "incorrectAnswers": [
+        "New York",
+        "London",
+        "Minneapolis-St Paul"
+      ],
+      "question": {
+        "text": "Which of these cities is in Canada?"
+      },
+      "tags": [
+        "cities",
+        "canada",
         "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64746b005a4c31088dd9cff9",
+      "correctAnswer": "Landslide",
+      "incorrectAnswers": [
+        "Tsunami",
+        "Firestorm",
+        "Stampede"
+      ],
+      "question": {
+        "text": "What word is used when a candidate receives an overwhelming majority of votes in an election?"
+      },
+      "tags": [
+        "politics",
+        "words",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -160,19 +112,22 @@
     },
     {
       "category": "history",
-      "id": "639ae35a929b90846f2fc8c8",
-      "correctAnswer": "Central America",
+      "id": "639c9d90929b90846f2fc953",
+      "correctAnswer": "Barack Obama",
       "incorrectAnswers": [
-        "South America",
-        "South Africa",
-        "Southeast Asia"
+        "Bill Clinton",
+        "George W. Bush",
+        "Donald Trump"
       ],
       "question": {
-        "text": "Where was the Aztec Empire located?"
+        "text": "Which US president served two terms in office as the first African American president?"
       },
       "tags": [
         "history",
-        "aztecs"
+        "2000's",
+        "usa",
+        "presidents",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -180,20 +135,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "6237353fcfe13103f55eb512",
-      "correctAnswer": "India",
+      "category": "food_and_drink",
+      "id": "624c60d550d1a5e051325a76",
+      "correctAnswer": "North Africa",
       "incorrectAnswers": [
-        "United Kingdom",
-        "Indonesia",
-        "Ireland"
+        "Ghana",
+        "Belgium",
+        "South America"
       ],
       "question": {
-        "text": "Which region of the world uses '.in' at the end of its web addresses?"
+        "text": "Tagine is a dish that is most associated with which part of the world?"
       },
       "tags": [
-        "the_internet",
-        "geography"
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -202,21 +157,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "63d95316168979b94b2e4f95",
-      "correctAnswer": "Titanic",
+      "id": "622a1c377cc59eab6f9506fb",
+      "correctAnswer": "Matthew McConaughey",
       "incorrectAnswers": [
-        "Romeo + Juliet",
-        "The Beach",
-        "The Great Gatsby"
+        "Ryan Reynolds",
+        "Jim Carrey",
+        "Hugh Jackman"
       ],
       "question": {
-        "text": "In which iconic '90s film did Leonardo DiCaprio play the role of Jack Dawson?"
+        "text": "Which Hollywood actor has starred in films including Interstellar and The Wolf of Wall Street?"
       },
       "tags": [
-        "1990's",
-        "film_and_tv",
         "film",
-        "acting"
+        "acting",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -225,19 +179,17 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95136a",
-      "correctAnswer": "Collage",
+      "id": "622a1c397cc59eab6f950eb2",
+      "correctAnswer": "Charles Darwin",
       "incorrectAnswers": [
-        "Watercolor",
-        "Sculpture",
-        "Pointilism"
+        "Percy Bysshe Shelley",
+        "H. Rider Haggard",
+        "Robert Louis Stevenson"
       ],
       "question": {
-        "text": "What is the word for a composition made of cut and pasted pieces of materials?"
+        "text": "Which author wrote 'The Origin of Species'?"
       },
       "tags": [
-        "art",
-        "words",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -247,86 +199,20 @@
     },
     {
       "category": "science",
-      "id": "6505702b7a97013de78b5549",
-      "correctAnswer": "Neutrino",
+      "id": "65056f7c7a97013de78b545a",
+      "correctAnswer": "A4",
       "incorrectAnswers": [
-        "Electron",
-        "Muon",
-        "Tau"
+        "A3",
+        "A5",
+        "A2"
       ],
       "question": {
-        "text": "Which of the following particles does NOT carry electric charge?"
+        "text": "What paper size measures 210 mm × 297 mm?"
       },
       "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8a0",
-      "correctAnswer": "Boxing",
-      "incorrectAnswers": [
-        "Cricket",
-        "Rugby Union",
-        "Ice Hockey"
-      ],
-      "question": {
-        "text": "With which sport is Manny Pacquiao associated?"
-      },
-      "tags": [
-        "people",
-        "general_knowledge",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602dc44b176d54800e3cac",
-      "correctAnswer": "Glasgow",
-      "incorrectAnswers": [
-        "Baltimore",
-        "Houston",
-        "Minneapolis-St Paul"
-      ],
-      "question": {
-        "text": "Which of these cities is in United Kingdom?"
-      },
-      "tags": [
-        "cities",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "647a125855463d5ce2994fc9",
-      "correctAnswer": "Kentucky Fried Chicken",
-      "incorrectAnswers": [
-        "McDonald's",
-        "Burger King",
-        "Taco Bell"
-      ],
-      "question": {
-        "text": "Which fast food chain advertises with the slogan\"'It's finger lickin' good!\"?"
-      },
-      "tags": [
-        "marketing",
-        "brands",
-        "food",
-        "food_and_drink",
-        "slogans"
+        "paper_sizes",
+        "measurement",
+        "standards"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -335,20 +221,20 @@
     },
     {
       "category": "history",
-      "id": "639895755c9a75021f310457",
-      "correctAnswer": "The Steam Engine",
+      "id": "62611fe54b176d54800e3d78",
+      "correctAnswer": "1945",
       "incorrectAnswers": [
-        "Electricity",
-        "The Wheel",
-        "The Printing Press"
+        "1921",
+        "1880",
+        "1972"
       ],
       "question": {
-        "text": "What 18th century invention was considered to be one of the foundations of the Industrial Revolution?"
+        "text": "When did Alan Turing break the Enigma code?"
       },
       "tags": [
-        "history",
-        "1700's",
-        "inventions"
+        "events",
+        "technology",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -356,259 +242,21 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8ab",
-      "correctAnswer": "Basketball",
+      "category": "food_and_drink",
+      "id": "624c60bc50d1a5e051325a70",
+      "correctAnswer": "Japan",
       "incorrectAnswers": [
-        "Gymnastics",
-        "Rowing",
-        "Volleyball"
+        "Turkey",
+        "Spain",
+        "Estonia"
       ],
       "question": {
-        "text": "With which sport is Michael Jordan associated?"
+        "text": "Where in the world would you most expect to be served Sushi?"
       },
       "tags": [
-        "people",
+        "food",
         "general_knowledge",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "645cb0e67d263fd50970438a",
-      "correctAnswer": "Muhammad Ali",
-      "incorrectAnswers": [
-        "Michael Jordan",
-        "Tiger Woods",
-        "Kobe Bryant"
-      ],
-      "question": {
-        "text": "What sports icon did Will Smith portray to receive an Oscar nomination in 2002?"
-      },
-      "tags": [
-        "acting",
-        "sport",
-        "film",
-        "film_and_tv",
-        "academy_awards"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95077c",
-      "correctAnswer": "Christian Bale",
-      "incorrectAnswers": [
-        "Keanu Reeves",
-        "Dan Aykroyd",
-        "Donald Sutherland"
-      ],
-      "question": {
-        "text": "Which actor played Batman in the Dark Knight trilogy?"
-      },
-      "tags": [
-        "batman",
-        "acting",
-        "film",
-        "dc",
-        "comics",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950ae8",
-      "correctAnswer": "Germany",
-      "incorrectAnswers": [
-        "Liechtenstein",
-        "United Kingdom",
-        "San Marino"
-      ],
-      "question": {
-        "text": "Which of these countries borders France?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f95164a",
-      "correctAnswer": "Lettuce",
-      "incorrectAnswers": [
-        "Egg",
-        "Tomato",
-        "Bread"
-      ],
-      "question": {
-        "text": " Iceberg, Boston, and Bibb are types of what?"
-      },
-      "tags": [
-        "food",
         "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262af9a4b176d54800e3dd3",
-      "correctAnswer": "Do It Yourself",
-      "incorrectAnswers": [
-        "Done It Yet",
-        "Do I? Yes.",
-        "Down In Yellow"
-      ],
-      "question": {
-        "text": "What do the letters 'DIY' mean?"
-      },
-      "tags": [
-        "initials",
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3d7cc59eab6f951cba",
-      "correctAnswer": "A Partridge In A Pear Tree",
-      "incorrectAnswers": [
-        "5 Gold Rings",
-        "A Turtle Dove",
-        "True Love"
-      ],
-      "question": {
-        "text": "What did 'my true love give to me' on the first day of Christmas?"
-      },
-      "tags": [
-        "christmas",
-        "lyrics",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b57d1fd6c701a92118380",
-      "correctAnswer": "USA",
-      "incorrectAnswers": [
-        "Israel",
-        "England",
-        "Australia"
-      ],
-      "question": {
-        "text": "In which country would you find the Grand Canyon National Park?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6477baa2550bc819ad646afd",
-      "correctAnswer": "A purr",
-      "incorrectAnswers": [
-        "A meow",
-        "A mewl",
-        "A ruff"
-      ],
-      "question": {
-        "text": "What is the name of the endearing cat sound that is caused by the vibration of the false vocal cords?"
-      },
-      "tags": [
-        "animals",
-        "cats",
-        "sounds"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502f2",
-      "correctAnswer": "Deer ",
-      "incorrectAnswers": [
-        "Sheep",
-        "Pig",
-        "Goat"
-      ],
-      "question": {
-        "text": "From what animal do we get venison?"
-      },
-      "tags": [
-        "animals",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "63a0397ac7d86251f9b65c65",
-      "correctAnswer": "Monopoly",
-      "incorrectAnswers": [
-        "Life",
-        "Risk",
-        "Chess"
-      ],
-      "question": {
-        "text": "What is the name of the classic board game where players must collect properties and build houses and hotels?"
-      },
-      "tags": [
-        "board_games"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c377cc59eab6f950452",
-      "correctAnswer": "Mexico",
-      "incorrectAnswers": [
-        "Ecuador",
-        "Guatemala",
-        "Bolivia"
-      ],
-      "question": {
-        "text": "Dia de los Muertos (The Day of the Dead) is celebrated in which Latin American country?"
-      },
-      "tags": [
-        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -617,19 +265,19 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c2a",
-      "correctAnswer": "ABBA",
+      "id": "625063d7e12f6dec240bdf86",
+      "correctAnswer": "Nothing Compares 2 U",
       "incorrectAnswers": [
-        "In Flames",
-        "HammerFall",
-        "Katatonia"
+        "Whoomp! (There It Is)",
+        "Whip It",
+        "Bust a Move"
       ],
       "question": {
-        "text": "Which Swedish pop group released the song 'Thank You for the Music'?"
+        "text": "What song did Sinead O'Connor have a hit with in 1990?"
       },
       "tags": [
-        "pop_music",
-        "general_knowledge",
+        "songs",
+        "one_hit_wonders",
         "music"
       ],
       "type": "text_choice",
@@ -638,20 +286,372 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "625740939da29df7b05f73e8",
-      "correctAnswer": "A paleontologist is tasked with protecting two children when cloned dinosaurs are set free.",
+      "category": "geography",
+      "id": "62602e064b176d54800e3cbc",
+      "correctAnswer": "Napoli",
       "incorrectAnswers": [
-        "During WWII a Jewish waiter uses humor to protect his son from the realities of war.",
-        "A maverick teacher emboldens his students to new heights of self-expression.",
-        "A car salesman's inept crime falls apart due to his and his henchmen's bungling."
+        "Dublin",
+        "Leipzig",
+        "Athens"
       ],
       "question": {
-        "text": "What is the plot of the movie Jurassic Park?"
+        "text": "Which of these cities is in Italy?"
       },
       "tags": [
+        "cities",
+        "europe",
+        "italy",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b5839fd6c701a921183a6",
+      "correctAnswer": "Brazil",
+      "incorrectAnswers": [
+        "Spain",
+        "Egypt",
+        "Argentina"
+      ],
+      "question": {
+        "text": "In which country would you find the city of Rio de Janeiro?"
+      },
+      "tags": [
+        "cities",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c608650d1a5e051325a61",
+      "correctAnswer": "France",
+      "incorrectAnswers": [
+        "Austria",
+        "Benin",
+        "North Africa"
+      ],
+      "question": {
+        "text": "Crêpes are most associated with which part of the world?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3c7cc59eab6f951977",
+      "correctAnswer": "A Coven",
+      "incorrectAnswers": [
+        "A Nest",
+        "A Barrow",
+        "A Scatter"
+      ],
+      "question": {
+        "text": "What Is The Name Given To A Group Of Witches?"
+      },
+      "tags": [
+        "words",
+        "mythology",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237426acb85f7ce9e949dca",
+      "correctAnswer": "Madrid",
+      "incorrectAnswers": [
+        "San Marino",
+        "Barcelona",
+        "Seville"
+      ],
+      "question": {
+        "text": "What is the capital city of Spain?"
+      },
+      "tags": [
+        "europe",
+        "capital_cities",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c3d7cc59eab6f951cad",
+      "correctAnswer": "Winter Wonderland",
+      "incorrectAnswers": [
+        "Jingle Bells",
+        "Driving Home For Christmas",
+        "Silent Night"
+      ],
+      "question": {
+        "text": "In which famous Christmas Song is a snowman pretended to be \"Parsons Brown\"?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95055f",
+      "correctAnswer": "Dialects",
+      "incorrectAnswers": [
+        "X-Rays",
+        "Drugs",
+        "Clouds"
+      ],
+      "question": {
+        "text": "What is dialectology the study of?"
+      },
+      "tags": [
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "65056e2c7a97013de78b5284",
+      "correctAnswer": "Paris",
+      "incorrectAnswers": [
+        "Vienna",
+        "Rome",
+        "Madrid"
+      ],
+      "question": {
+        "text": "In which city is the Notre-Dame Cathedral located?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "architecture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6239f8049129041bf3925cbe",
+      "correctAnswer": "Bravo",
+      "incorrectAnswers": [
+        "Boot",
+        "Ball",
+        "Baby"
+      ],
+      "question": {
+        "text": "What word is used in the NATO Phonetic Alphabet for the letter B?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602d3d4b176d54800e3c89",
+      "correctAnswer": "Shanghai",
+      "incorrectAnswers": [
+        "Brisbane",
+        "Yokohama",
+        "Osaka"
+      ],
+      "question": {
+        "text": "Which of these cities is in China?"
+      },
+      "tags": [
+        "cities",
+        "asia",
+        "china"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "63b058784799123c67712f38",
+      "correctAnswer": "Taco",
+      "incorrectAnswers": [
+        "Sushi",
+        "Ramen",
+        "Pho"
+      ],
+      "question": {
+        "text": "Which of these is a popular dish in Mexico?"
+      },
+      "tags": [
+        "mexico",
+        "food_and_drink",
+        "food",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60b150d1a5e051325a6d",
+      "correctAnswer": "Pizza",
+      "incorrectAnswers": [
+        "Dim Sum",
+        "Cou Cou and Flying Fish",
+        "Kabuli Pulao"
+      ],
+      "question": {
+        "text": "Which of these dishes would you most expect to find in Italy?"
+      },
+      "tags": [
+        "food",
+        "general_knowledge",
+        "italy",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "649b4f4f828109028d236251",
+      "correctAnswer": "A Spider",
+      "incorrectAnswers": [
+        "A Pig",
+        "A Sheep",
+        "A Horse"
+      ],
+      "question": {
+        "text": "In E.B. White's classic children's book \"Charlotte's Web\", what kind of animal is Charlotte?"
+      },
+      "tags": [
+        "animals",
+        "childrens_literature",
+        "arts_and_literature",
+        "literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc0f",
+      "correctAnswer": "\"Take your stinking paws off me, you damned dirty ape.\"",
+      "incorrectAnswers": [
+        "\"Mrs. Robinson, you're trying to seduce me. Aren't you?\"",
+        "\"Toga! Toga!\"",
+        "\"Attica! Attica!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Planet of the Apes'?"
+      },
+      "tags": [
+        "quotes",
         "film",
+        "general_knowledge",
         "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6477ba9d550bc819ad646ae8",
+      "correctAnswer": "Manscaping",
+      "incorrectAnswers": [
+        "Bodyculture",
+        "Topihairy",
+        "Guydening"
+      ],
+      "question": {
+        "text": "What is the slang term for removing body hair from men?"
+      },
+      "tags": [
+        "words",
+        "society_and_culture",
+        "slang"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502a0",
+      "correctAnswer": "Dr Pepper ",
+      "incorrectAnswers": [
+        "Lucozade",
+        "Tango",
+        "Sunny Delight"
+      ],
+      "question": {
+        "text": "What soft drink is advertised with the slogan, \"What's the worst that could happen\"?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9ee8796f721e95543f75",
+      "correctAnswer": "Three equal vertical bands of green white and red.",
+      "incorrectAnswers": [
+        "Three equal horizontal bands of red white and black.",
+        "Red with a green five-pointed star in the center.",
+        "Red field with a yellow sun in the center."
+      ],
+      "question": {
+        "text": "What does the flag of Italy look like?"
+      },
+      "tags": [
+        "flags",
+        "italy",
+        "europe",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
