@@ -1,21 +1,42 @@
 {
-  "gameDate": "2026-03-12",
+  "gameDate": "2026-03-13",
   "difficulty": "easy",
   "results": [
     {
-      "category": "general_knowledge",
-      "id": "645ba87ff09106226db2357f",
-      "correctAnswer": "Great",
+      "category": "society_and_culture",
+      "id": "645cb1257d263fd50970439c",
+      "correctAnswer": "An Advent calendar",
       "incorrectAnswers": [
-        "Large",
-        "Grand",
-        "Happy"
+        "A Holy calendar",
+        "A Kwanzaa calendar",
+        "A Countdown calendar"
       ],
       "question": {
-        "text": "What word precedes both 'Dane' and 'Depression'?"
+        "text": "What kind of calendar used to count the days until Christmas and often has a treat behind each window?"
       },
       "tags": [
-        "puzzles",
+        "traditions",
+        "candy",
+        "christmas"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6476390cf05ea6d6f587a189",
+      "correctAnswer": "Itinerary",
+      "incorrectAnswers": [
+        "List",
+        "Voyage",
+        "Menu"
+      ],
+      "question": {
+        "text": "What is the term for a list of places to visit on a journey?"
+      },
+      "tags": [
         "words"
       ],
       "type": "text_choice",
@@ -24,85 +45,21 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "625e9ede796f721e95543f72",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Gold",
-        "Yellow",
-        "Blue"
-      ],
-      "question": {
-        "text": "Which of these colors would you find on the flag of Japan?"
-      },
-      "tags": [
-        "flags",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602d414b176d54800e3c8a",
-      "correctAnswer": "Canada",
-      "incorrectAnswers": [
-        "Australia",
-        "New Zealand",
-        "United States"
-      ],
-      "question": {
-        "text": "Where would you find the city of Vancouver?"
-      },
-      "tags": [
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602d0a4b176d54800e3c7a",
-      "correctAnswer": "Toronto",
-      "incorrectAnswers": [
-        "New York",
-        "London",
-        "Minneapolis-St Paul"
-      ],
-      "question": {
-        "text": "Which of these cities is in Canada?"
-      },
-      "tags": [
-        "cities",
-        "canada",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "64746b005a4c31088dd9cff9",
-      "correctAnswer": "Landslide",
+      "id": "622a1c3c7cc59eab6f95191a",
+      "correctAnswer": "A Pear tree",
       "incorrectAnswers": [
-        "Tsunami",
-        "Firestorm",
-        "Stampede"
+        "An Oak Tree",
+        "A Cherry Tree",
+        "A Christmas Tree"
       ],
       "question": {
-        "text": "What word is used when a candidate receives an overwhelming majority of votes in an election?"
+        "text": "What tree is mentioned in the Christmas song 'Twelve Days of Christmas' ?"
       },
       "tags": [
-        "politics",
-        "words",
+        "lyrics",
+        "songs",
+        "christmas",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -111,22 +68,23 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "639c9d90929b90846f2fc953",
-      "correctAnswer": "Barack Obama",
+      "category": "geography",
+      "id": "639c9da7929b90846f2fc981",
+      "correctAnswer": "Paris",
       "incorrectAnswers": [
-        "Bill Clinton",
-        "George W. Bush",
-        "Donald Trump"
+        "London",
+        "New York City",
+        "Rome"
       ],
       "question": {
-        "text": "Which US president served two terms in office as the first African American president?"
+        "text": "The Louvre is an iconic museum in what city?"
       },
       "tags": [
-        "history",
-        "2000's",
-        "usa",
-        "presidents",
+        "architecture",
+        "geography",
+        "buildings",
+        "tourist_attractions",
+        "museums",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -135,216 +93,22 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "624c60d550d1a5e051325a76",
-      "correctAnswer": "North Africa",
+      "category": "society_and_culture",
+      "id": "646339ce01d576cfac3aa3ba",
+      "correctAnswer": "Carol",
       "incorrectAnswers": [
-        "Ghana",
-        "Belgium",
-        "South America"
+        "Blessing",
+        "Chant",
+        "Anthem"
       ],
       "question": {
-        "text": "Tagine is a dish that is most associated with which part of the world?"
+        "text": "What is the general term for a Christmas song or hymn?"
       },
       "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506fb",
-      "correctAnswer": "Matthew McConaughey",
-      "incorrectAnswers": [
-        "Ryan Reynolds",
-        "Jim Carrey",
-        "Hugh Jackman"
-      ],
-      "question": {
-        "text": "Which Hollywood actor has starred in films including Interstellar and The Wolf of Wall Street?"
-      },
-      "tags": [
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eb2",
-      "correctAnswer": "Charles Darwin",
-      "incorrectAnswers": [
-        "Percy Bysshe Shelley",
-        "H. Rider Haggard",
-        "Robert Louis Stevenson"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Origin of Species'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056f7c7a97013de78b545a",
-      "correctAnswer": "A4",
-      "incorrectAnswers": [
-        "A3",
-        "A5",
-        "A2"
-      ],
-      "question": {
-        "text": "What paper size measures 210 mm × 297 mm?"
-      },
-      "tags": [
-        "paper_sizes",
-        "measurement",
-        "standards"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611fe54b176d54800e3d78",
-      "correctAnswer": "1945",
-      "incorrectAnswers": [
-        "1921",
-        "1880",
-        "1972"
-      ],
-      "question": {
-        "text": "When did Alan Turing break the Enigma code?"
-      },
-      "tags": [
-        "events",
-        "technology",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c60bc50d1a5e051325a70",
-      "correctAnswer": "Japan",
-      "incorrectAnswers": [
-        "Turkey",
-        "Spain",
-        "Estonia"
-      ],
-      "question": {
-        "text": "Where in the world would you most expect to be served Sushi?"
-      },
-      "tags": [
-        "food",
-        "general_knowledge",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "625063d7e12f6dec240bdf86",
-      "correctAnswer": "Nothing Compares 2 U",
-      "incorrectAnswers": [
-        "Whoomp! (There It Is)",
-        "Whip It",
-        "Bust a Move"
-      ],
-      "question": {
-        "text": "What song did Sinead O'Connor have a hit with in 1990?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602e064b176d54800e3cbc",
-      "correctAnswer": "Napoli",
-      "incorrectAnswers": [
-        "Dublin",
-        "Leipzig",
-        "Athens"
-      ],
-      "question": {
-        "text": "Which of these cities is in Italy?"
-      },
-      "tags": [
-        "cities",
-        "europe",
-        "italy",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b5839fd6c701a921183a6",
-      "correctAnswer": "Brazil",
-      "incorrectAnswers": [
-        "Spain",
-        "Egypt",
-        "Argentina"
-      ],
-      "question": {
-        "text": "In which country would you find the city of Rio de Janeiro?"
-      },
-      "tags": [
-        "cities",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c608650d1a5e051325a61",
-      "correctAnswer": "France",
-      "incorrectAnswers": [
-        "Austria",
-        "Benin",
-        "North Africa"
-      ],
-      "question": {
-        "text": "Crêpes are most associated with which part of the world?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
+        "music",
+        "traditions",
+        "christmas",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -353,18 +117,389 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f951977",
-      "correctAnswer": "A Coven",
+      "id": "622a1c367cc59eab6f950125",
+      "correctAnswer": "Pig",
       "incorrectAnswers": [
-        "A Nest",
-        "A Barrow",
-        "A Scatter"
+        "Rabbit",
+        "Cow",
+        "Horse"
       ],
       "question": {
-        "text": "What Is The Name Given To A Group Of Witches?"
+        "text": "What animal's meat can a Muslim not eat?"
       },
       "tags": [
-        "words",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbc9",
+      "correctAnswer": "\"This is Sparta!\"",
+      "incorrectAnswers": [
+        "\"Elementary, my dear Watson.\"",
+        "\"I have always depended on the kindness of strangers.\"",
+        "\"I love the smell of napalm in the morning.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film '300'?"
+      },
+      "tags": [
+        "film",
+        "quotes",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570237a97013de78b553f",
+      "correctAnswer": "Yellow",
+      "incorrectAnswers": [
+        "White",
+        "Gray",
+        "Brown"
+      ],
+      "question": {
+        "text": "What is the typical color of pure sulfur at room temperature?"
+      },
+      "tags": [
+        "science",
+        "chemistry"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f9503dd",
+      "correctAnswer": "Garlic",
+      "incorrectAnswers": [
+        "Chili",
+        "A Crucifix",
+        "Silver"
+      ],
+      "question": {
+        "text": "What Is Worn Around The Neck To Keep Vampires Away?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b583dfd6c701a921183a8",
+      "correctAnswer": "England",
+      "incorrectAnswers": [
+        "Italy",
+        "France",
+        "Belgium"
+      ],
+      "question": {
+        "text": "In which country would you find the UNESCO World Heritage site of Stonehenge?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63f39503989356ef48370be5",
+      "correctAnswer": "The Moon",
+      "incorrectAnswers": [
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "question": {
+        "text": "Which of the following is not a planet?"
+      },
+      "tags": [
+        "science",
+        "space",
+        "the_solar_system",
+        "astrophysics"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b92",
+      "correctAnswer": "The Jackson 5",
+      "incorrectAnswers": [
+        "The Jackson Brothers",
+        "The Smashing Jacksons",
+        "Jackson"
+      ],
+      "question": {
+        "text": "Before going solo, what band was Michael Jackson a member of?"
+      },
+      "tags": [
+        "music",
+        "people",
+        "musicians",
+        "bands"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "65056f917a97013de78b5476",
+      "correctAnswer": "Rocky Mountains",
+      "incorrectAnswers": [
+        "Transantarctic mountains",
+        "Andes",
+        "Himalayas"
+      ],
+      "question": {
+        "text": "Which mountain range does the Colorado River flow through?"
+      },
+      "tags": [
+        "geography",
+        "rivers",
+        "mountains"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "639c9d9a929b90846f2fc965",
+      "correctAnswer": "Shari'a",
+      "incorrectAnswers": [
+        "Halakha",
+        "Karma",
+        "Dharma"
+      ],
+      "question": {
+        "text": "What is the name of the Islamic law?"
+      },
+      "tags": [
+        "islam",
+        "religion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9e82796f721e95543f5b",
+      "correctAnswer": "Three equal vertical bands of blue white and red.",
+      "incorrectAnswers": [
+        "Three equal horizontal bands of red white and red.",
+        "Blue with a red cross outlined in white extending to the edges.",
+        "White with a large red disk in the center."
+      ],
+      "question": {
+        "text": "What does the flag of France look like?"
+      },
+      "tags": [
+        "flags",
+        "france",
+        "europe",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63bc3faa0e893d6e5a6a0fd7",
+      "correctAnswer": "Disco",
+      "incorrectAnswers": [
+        "Grunge",
+        "Hippie",
+        "Preppy"
+      ],
+      "question": {
+        "text": "What is the name of the fashion trend popularized in the 1970s that involves wearing bell-bottoms, platform shoes, and oversized shirts?"
+      },
+      "tags": [
+        "society_and_culture",
+        "fashion",
+        "1970's"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f95012c",
+      "correctAnswer": "December",
+      "incorrectAnswers": [
+        "September",
+        "April",
+        "November"
+      ],
+      "question": {
+        "text": "In what month is Christmas observed?"
+      },
+      "tags": [
+        "christmas",
+        "general_knowledge",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63e13a22106de6ffa7d4a79e",
+      "correctAnswer": "Hexagon",
+      "incorrectAnswers": [
+        "Pentagon",
+        "Octagon",
+        "Triangle"
+      ],
+      "question": {
+        "text": "What is the name of a shape with six sides?"
+      },
+      "tags": [
+        "science",
+        "mathematics",
+        "shapes"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602d854b176d54800e3c9e",
+      "correctAnswer": "Belgium",
+      "incorrectAnswers": [
+        "Sweden",
+        "Estonia",
+        "Iceland"
+      ],
+      "question": {
+        "text": "Where would you find the city of Brussels?"
+      },
+      "tags": [
+        "cities",
+        "europe",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f9513a2",
+      "correctAnswer": "Harry Potter",
+      "incorrectAnswers": [
+        "Goosebumps",
+        "Percy Jackson & the Olympians",
+        "Twilight"
+      ],
+      "question": {
+        "text": "In which book series does 'Hermione Granger' appear?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "literature",
+        "young_adult",
+        "fictitious_characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3c7cc59eab6f951797",
+      "correctAnswer": "Lord Voldemort",
+      "incorrectAnswers": [
+        "Lord Darkmoor",
+        "Lord Moribund",
+        "Lord Doit Chagrin"
+      ],
+      "question": {
+        "text": "Which is the name of the villain in the Harry Potter series?"
+      },
+      "tags": [
+        "harry_potter",
+        "fictitious_characters",
+        "literature",
+        "young_adult",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056f8e7a97013de78b5473",
+      "correctAnswer": "Constitution",
+      "incorrectAnswers": [
+        "Infestation",
+        "Testimony",
+        "Forbearance"
+      ],
+      "question": {
+        "text": "What is a set of rules that guides how a country should work?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3c7cc59eab6f95187b",
+      "correctAnswer": "At a full moon",
+      "incorrectAnswers": [
+        "At midnight",
+        "On Halloween",
+        "On Mondays"
+      ],
+      "question": {
+        "text": "When do Werewolves appear?"
+      },
+      "tags": [
         "mythology",
         "society_and_culture"
       ],
@@ -375,20 +510,61 @@
     },
     {
       "category": "geography",
-      "id": "6237426acb85f7ce9e949dca",
-      "correctAnswer": "Madrid",
+      "id": "623b5843fd6c701a921183aa",
+      "correctAnswer": "Japan",
       "incorrectAnswers": [
-        "San Marino",
-        "Barcelona",
-        "Seville"
+        "Indonesia",
+        "Thailand",
+        "China"
       ],
       "question": {
-        "text": "What is the capital city of Spain?"
+        "text": "In which country would you find city of Kyoto?"
       },
       "tags": [
-        "europe",
-        "capital_cities",
-        "general_knowledge",
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "648889175dba6c873ef650de",
+      "correctAnswer": "Endangered species",
+      "incorrectAnswers": [
+        "Exotic species",
+        "Invasive species",
+        "Declining species"
+      ],
+      "question": {
+        "text": "What is the term for animals that are at risk of becoming extinct?"
+      },
+      "tags": [
+        "biology",
+        "animals",
+        "nature",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623741f7cb85f7ce9e949d9c",
+      "correctAnswer": "Lisbon",
+      "incorrectAnswers": [
+        "Santo Domingo",
+        "Suva",
+        "Oslo"
+      ],
+      "question": {
+        "text": "What is the capital city of Portugal?"
+      },
+      "tags": [
         "geography"
       ],
       "type": "text_choice",
@@ -398,17 +574,19 @@
     },
     {
       "category": "music",
-      "id": "622a1c3d7cc59eab6f951cad",
-      "correctAnswer": "Winter Wonderland",
+      "id": "622a1c357cc59eab6f94fd4f",
+      "correctAnswer": "Guitar",
       "incorrectAnswers": [
-        "Jingle Bells",
-        "Driving Home For Christmas",
-        "Silent Night"
+        "Piano",
+        "Drums",
+        "Saxophone"
       ],
       "question": {
-        "text": "In which famous Christmas Song is a snowman pretended to be \"Parsons Brown\"?"
+        "text": "With Which Instrument Is Les Paul Associated?"
       },
       "tags": [
+        "people",
+        "general_knowledge",
         "music"
       ],
       "type": "text_choice",
@@ -417,176 +595,22 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95055f",
-      "correctAnswer": "Dialects",
+      "category": "society_and_culture",
+      "id": "639c9da6929b90846f2fc980",
+      "correctAnswer": "Mosque",
       "incorrectAnswers": [
-        "X-Rays",
-        "Drugs",
-        "Clouds"
+        "Church",
+        "Synagogue",
+        "Temple"
       ],
       "question": {
-        "text": "What is dialectology the study of?"
+        "text": "What is the name of the Islamic place of worship?"
       },
       "tags": [
-        "science",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056e2c7a97013de78b5284",
-      "correctAnswer": "Paris",
-      "incorrectAnswers": [
-        "Vienna",
-        "Rome",
-        "Madrid"
-      ],
-      "question": {
-        "text": "In which city is the Notre-Dame Cathedral located?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "architecture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6239f8049129041bf3925cbe",
-      "correctAnswer": "Bravo",
-      "incorrectAnswers": [
-        "Boot",
-        "Ball",
-        "Baby"
-      ],
-      "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter B?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602d3d4b176d54800e3c89",
-      "correctAnswer": "Shanghai",
-      "incorrectAnswers": [
-        "Brisbane",
-        "Yokohama",
-        "Osaka"
-      ],
-      "question": {
-        "text": "Which of these cities is in China?"
-      },
-      "tags": [
-        "cities",
-        "asia",
-        "china"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "63b058784799123c67712f38",
-      "correctAnswer": "Taco",
-      "incorrectAnswers": [
-        "Sushi",
-        "Ramen",
-        "Pho"
-      ],
-      "question": {
-        "text": "Which of these is a popular dish in Mexico?"
-      },
-      "tags": [
-        "mexico",
-        "food_and_drink",
-        "food",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c60b150d1a5e051325a6d",
-      "correctAnswer": "Pizza",
-      "incorrectAnswers": [
-        "Dim Sum",
-        "Cou Cou and Flying Fish",
-        "Kabuli Pulao"
-      ],
-      "question": {
-        "text": "Which of these dishes would you most expect to find in Italy?"
-      },
-      "tags": [
-        "food",
-        "general_knowledge",
-        "italy",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "649b4f4f828109028d236251",
-      "correctAnswer": "A Spider",
-      "incorrectAnswers": [
-        "A Pig",
-        "A Sheep",
-        "A Horse"
-      ],
-      "question": {
-        "text": "In E.B. White's classic children's book \"Charlotte's Web\", what kind of animal is Charlotte?"
-      },
-      "tags": [
-        "animals",
-        "childrens_literature",
-        "arts_and_literature",
-        "literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc0f",
-      "correctAnswer": "\"Take your stinking paws off me, you damned dirty ape.\"",
-      "incorrectAnswers": [
-        "\"Mrs. Robinson, you're trying to seduce me. Aren't you?\"",
-        "\"Toga! Toga!\"",
-        "\"Attica! Attica!\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Planet of the Apes'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "general_knowledge",
-        "film_and_tv"
+        "islam",
+        "religion",
+        "society_and_culture",
+        "buildings"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -595,20 +619,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6477ba9d550bc819ad646ae8",
-      "correctAnswer": "Manscaping",
+      "id": "65056fa27a97013de78b548d",
+      "correctAnswer": "Kiwi",
       "incorrectAnswers": [
-        "Bodyculture",
-        "Topihairy",
-        "Guydening"
+        "Tui",
+        "Bellbird",
+        "Moa"
       ],
       "question": {
-        "text": "What is the slang term for removing body hair from men?"
+        "text": "What is the national bird of New Zealand?"
       },
       "tags": [
-        "words",
-        "society_and_culture",
-        "slang"
+        "national_symbols",
+        "New Zealand",
+        "birds"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -616,42 +640,20 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502a0",
-      "correctAnswer": "Dr Pepper ",
+      "category": "history",
+      "id": "622a1c3b7cc59eab6f95177f",
+      "correctAnswer": "The Mongols",
       "incorrectAnswers": [
-        "Lucozade",
-        "Tango",
-        "Sunny Delight"
+        "The Huns",
+        "The Parthians",
+        "The Greeks"
       ],
       "question": {
-        "text": "What soft drink is advertised with the slogan, \"What's the worst that could happen\"?"
+        "text": "Which people were led by Genghis Khan?"
       },
       "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9ee8796f721e95543f75",
-      "correctAnswer": "Three equal vertical bands of green white and red.",
-      "incorrectAnswers": [
-        "Three equal horizontal bands of red white and black.",
-        "Red with a green five-pointed star in the center.",
-        "Red field with a yellow sun in the center."
-      ],
-      "question": {
-        "text": "What does the flag of Italy look like?"
-      },
-      "tags": [
-        "flags",
-        "italy",
-        "europe",
-        "geography"
+        "people",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "easy",
