@@ -1,21 +1,69 @@
 {
-  "gameDate": "2026-03-14",
+  "gameDate": "2026-03-15",
   "difficulty": "hard",
   "results": [
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9504f3",
-      "correctAnswer": "ants",
+      "category": "sport_and_leisure",
+      "id": "63dd25cf742e43ed64f1f023",
+      "correctAnswer": "Real Madrid",
       "incorrectAnswers": [
-        "fresh water environments, particularly lakes",
-        "the Soviet Union",
-        "prehistoric metazoans "
+        "Manchester United",
+        "AC Milan",
+        "Liverpool"
       ],
       "question": {
-        "text": "What is Myrmecology the study of?"
+        "text": "Which club was the first to win two consecutive Champions League titles?"
       },
       "tags": [
-        "science"
+        "sport",
+        "soccer",
+        "football"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "645c9f6b42ea81e2554c5f26",
+      "correctAnswer": "Kenya",
+      "incorrectAnswers": [
+        "Cameroon",
+        "Mali",
+        "Senegal"
+      ],
+      "question": {
+        "text": "Which African country's national anthem is called 'Wimbo Wa Taifa' in Swahili, meaning 'anthem of the nation'?"
+      },
+      "tags": [
+        "africa",
+        "songs"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6463391401d576cfac3aa310",
+      "correctAnswer": "Juarez",
+      "incorrectAnswers": [
+        "Tijuana",
+        "Nogales",
+        "Matamoros"
+      ],
+      "question": {
+        "text": "What is the name of El Paso's twin city on the Mexican side of the border?"
+      },
+      "tags": [
+        "cities",
+        "borders",
+        "neighbors",
+        "geography",
+        "usa",
+        "mexico"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -24,15 +72,539 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcd7",
-      "correctAnswer": "Indo-European",
+      "id": "622a1c357cc59eab6f94fd38",
+      "correctAnswer": "William of Ockham",
+      "incorrectAnswers": [
+        "Denis Diderot",
+        "Jean-Paul Sartre",
+        "Spinoza"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'Entities should not be multiplied unnecessarily'?"
+      },
+      "tags": [
+        "philosophy",
+        "quotes",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056f457a97013de78b540d",
+      "correctAnswer": "Maya",
+      "incorrectAnswers": [
+        "Aztec",
+        "Minoans",
+        "Khmer"
+      ],
+      "question": {
+        "text": "What civilization built the ancient city of Chichen Itza?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "63a039b4c7d86251f9b65ca4",
+      "correctAnswer": "Trinity",
+      "incorrectAnswers": [
+        "Little Boy",
+        "Fat Man",
+        "Big Bang"
+      ],
+      "question": {
+        "text": "What was the name of the first nuclear bomb tested by the United States?"
+      },
+      "tags": [
+        "history",
+        "usa"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b79",
+      "correctAnswer": "The Offspring",
+      "incorrectAnswers": [
+        "Styx",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which punk band from the United States released the studio album 'Smash'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "625006590d86c8f685d80ee4",
+      "correctAnswer": "Tubular pasta",
+      "incorrectAnswers": [
+        "Ribbon pasta",
+        "Stuffed pasta",
+        "Shaped pasta"
+      ],
+      "question": {
+        "text": "What type of pasta is bucatini?"
+      },
+      "tags": [
+        "food",
+        "italy",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f95020c",
+      "correctAnswer": "Ron Howard",
+      "incorrectAnswers": [
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
+      ],
+      "question": {
+        "text": "Which director directed Solo: A Star Wars Story?"
+      },
+      "tags": [
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502f4",
+      "correctAnswer": "Medicine ",
+      "incorrectAnswers": [
+        "Aphrodisiac",
+        "Wedding Gift",
+        "Religious Offering"
+      ],
+      "question": {
+        "text": "For what was licourice used in ancient Egypt?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "63a0394cc7d86251f9b65c38",
+      "correctAnswer": "Gruyère",
+      "incorrectAnswers": [
+        "Mozzarella",
+        "Feta",
+        "Gouda"
+      ],
+      "question": {
+        "text": "Which type of cheese is used to make fondue?"
+      },
+      "tags": [
+        "cheese",
+        "food_and_drink",
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3a7cc59eab6f951051",
+      "correctAnswer": "Cob",
+      "incorrectAnswers": [
+        "Ned",
+        "Sorl",
+        "Dev"
+      ],
+      "question": {
+        "text": "What is a male swan called?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "63951e7de55fa75b149597b3",
+      "correctAnswer": "Severance",
+      "incorrectAnswers": [
+        "Squid Game",
+        "Split",
+        "Mr Robot"
+      ],
+      "question": {
+        "text": "Released in 2022, which TV show depicts a world where people undergo a procedure to split their mind into two so that they can enjoy life without work?"
+      },
+      "tags": [
+        "tv",
+        "2022",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "645c9fc342ea81e2554c5f6c",
+      "correctAnswer": "Duke",
+      "incorrectAnswers": [
+        "Harvard",
+        "Yale",
+        "Princeton"
+      ],
+      "question": {
+        "text": "What is the name of the university formerly known as Trinity College, which was named after a tobacco family that donated millions to the school?"
+      },
+      "tags": [
+        "universities",
+        "college",
+        "previous_names",
+        "education",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64a1c901c1e45722061c31b8",
+      "correctAnswer": "Gap",
+      "incorrectAnswers": [
+        "H&M",
+        "Zara",
+        "Uniqlo"
+      ],
+      "question": {
+        "text": "Which company, originally starting as a single store selling jeans, is the owner of Banana Republic?"
+      },
+      "tags": [
+        "retail",
+        "business",
+        "fashion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237420bcb85f7ce9e949da4",
+      "correctAnswer": "Kigali",
+      "incorrectAnswers": [
+        "Kuala Lumpur",
+        "Bishkek",
+        "Ljubljana"
+      ],
+      "question": {
+        "text": "What is the capital city of Rwanda?"
+      },
+      "tags": [
+        "capital_cities",
+        "africa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "637162501bf863c45ca6c36a",
+      "correctAnswer": "Sic vita est",
+      "incorrectAnswers": [
+        "Ad meliora",
+        "Amor vincit omnia",
+        "Magna est vis consuetudinis"
+      ],
+      "question": {
+        "text": "Which of these Latin phrases translates to 'Such is life'?"
+      },
+      "tags": [
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64974e400752843c0d8aada3",
+      "correctAnswer": "Shiva, Vishnu, and Brahma",
+      "incorrectAnswers": [
+        "Krishna, Rama, and Ganesha",
+        "Kali, Durga, and Saraswati",
+        "Indra, Agni, and Varuna"
+      ],
+      "question": {
+        "text": "Which three gods make up the Hindu Trimurti?"
+      },
+      "tags": [
+        "hinduism",
+        "religion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "639898525c9a75021f310479",
+      "correctAnswer": "Veneto",
+      "incorrectAnswers": [
+        "Tuscany",
+        "Piedmont",
+        "Sicily"
+      ],
+      "question": {
+        "text": "What region of Italy is home to Amarone and Valpolicella wines?"
+      },
+      "tags": [
+        "food_and_drink",
+        "wine",
+        "drink",
+        "italy"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63dd25cc742e43ed64f1f01e",
+      "correctAnswer": "Hyundai",
+      "incorrectAnswers": [
+        "Toyota",
+        "Ford",
+        "Honda"
+      ],
+      "question": {
+        "text": "What company owns the motoring brand 'Kia'?"
+      },
+      "tags": [
+        "society_and_culture",
+        "business",
+        "motoring"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950ace",
+      "correctAnswer": "Nepal",
+      "incorrectAnswers": [
+        "Tajikistan",
+        "Kyrgyzstan",
+        "Thailand"
+      ],
+      "question": {
+        "text": "Which of these countries borders India?"
+      },
+      "tags": [
+        "india",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6463391301d576cfac3aa306",
+      "correctAnswer": "Scotland",
+      "incorrectAnswers": [
+        "England",
+        "Wales",
+        "Northern Ireland"
+      ],
+      "question": {
+        "text": "In which U.K. country is the British royal residence and castle known as Balmoral located?"
+      },
+      "tags": [
+        "uk",
+        "castles",
+        "geography",
+        "buildings"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cee",
+      "correctAnswer": "Queen",
+      "incorrectAnswers": [
+        "The Rolling Stones",
+        "The Police",
+        "Led Zeppelin"
+      ],
+      "question": {
+        "text": "Which British rock band released the studio album 'A Night at the Opera'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3d7cc59eab6f951c75",
+      "correctAnswer": "A Pickle",
+      "incorrectAnswers": [
+        "A Potato",
+        "An Onion",
+        "A Cherry"
+      ],
+      "question": {
+        "text": "A German tradition is to hide a certain food in a Christmas tree, and the first one to find it gets a special gift. What is the food they hide?"
+      },
+      "tags": [
+        "germany",
+        "christmas",
+        "traditions",
+        "food",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611f904b176d54800e3d61",
+      "correctAnswer": "1958",
+      "incorrectAnswers": [
+        "1934",
+        "1942",
+        "1971"
+      ],
+      "question": {
+        "text": "When was the pacemaker invented?"
+      },
+      "tags": [
+        "events",
+        "medicine",
+        "inventions",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "625006560d86c8f685d80ee3",
+      "correctAnswer": "Little holes",
+      "incorrectAnswers": [
+        "Small thimbles",
+        "homemade",
+        "Corkscrews"
+      ],
+      "question": {
+        "text": "The pasta bucatini has what meaning in Italian?"
+      },
+      "tags": [
+        "food",
+        "words",
+        "language",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa3f",
+      "correctAnswer": "Neoclassicism",
+      "incorrectAnswers": [
+        "Dutch Golden Age",
+        "Crystal Cubism",
+        "Primitivism"
+      ],
+      "question": {
+        "text": "The painting \"Napoleon crossing the Alps\" by Jacques-Louis David is a part of which art movement?"
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcbe",
+      "correctAnswer": "Austroasiatic",
       "incorrectAnswers": [
         "Afroasiatic",
-        "Kra–Dai",
+        "Koreanic",
         "Niger–Congo"
       ],
       "question": {
-        "text": "The language 'Bhojpuri' belongs to which language family?"
+        "text": "The language 'Khmer' belongs to which language family?"
       },
       "tags": [
         "language",
@@ -44,573 +616,16 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501db",
-      "correctAnswer": "Francis Ford Coppola",
-      "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
-      ],
-      "question": {
-        "text": "Which director directed Apocalypse Now?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62373600cfe13103f55eb590",
-      "correctAnswer": "United Arab Emirates",
-      "incorrectAnswers": [
-        "Faeroe Islands",
-        "Israel",
-        "Armenia"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.ae' at the end of its web addresses?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951098",
-      "correctAnswer": "Diagonally",
-      "incorrectAnswers": [
-        "Vertically",
-        "Horizontally",
-        "Backwards"
-      ],
-      "question": {
-        "text": "The king crab walks __________"
-      },
-      "tags": [
-        "animals",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f86",
-      "correctAnswer": "Agatha Christie",
-      "incorrectAnswers": [
-        "Robert Louis Stevenson",
-        "Charles Dickens",
-        "Lewis Carroll"
-      ],
-      "question": {
-        "text": "Which author wrote 'Murder on the Orient Express'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502ea",
-      "correctAnswer": "4",
-      "incorrectAnswers": [
-        "2",
-        "6",
-        "8"
-      ],
-      "question": {
-        "text": "How Many 75cl Bottles Of Champagne Would You Get From A Jeroboam?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd6b6dc0dd3b72da64d05",
-      "correctAnswer": "2018",
-      "incorrectAnswers": [
-        "2016",
-        "2017",
-        "2019"
-      ],
-      "question": {
-        "text": "Avengers: Infinity War was released in which year?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611f714b176d54800e3d59",
-      "correctAnswer": "1967",
-      "incorrectAnswers": [
-        "1973",
-        "1979",
-        "1985"
-      ],
-      "question": {
-        "text": "When was the first heart transplant?"
-      },
-      "tags": [
-        "events",
-        "firsts",
-        "medicine",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6371623e1bf863c45ca6c362",
-      "correctAnswer": "Honey, I'm home",
-      "incorrectAnswers": [
-        "He conquers who endures",
-        "So it begins",
-        "Every beginning is difficult"
-      ],
-      "question": {
-        "text": "What is the meaning of the Latin phrase 'Melita, domi adsum!'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625698909da29df7b05f728f",
-      "correctAnswer": "Agent Maria Hill",
-      "incorrectAnswers": [
-        "Natasha Romanoff",
-        "Gamora",
-        "Valkyrie"
-      ],
-      "question": {
-        "text": "Cobie Smulders plays the role of which character in the Marvel Cinematic Universe?"
-      },
-      "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6371622a1bf863c45ca6c359",
-      "correctAnswer": "Dies irae",
-      "incorrectAnswers": [
-        "Danum dos agios",
-        "Melita, domi adsum!",
-        "Pro bono"
-      ],
-      "question": {
-        "text": "Which of these Latin phrases translates to 'Day of wrath'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62433489cfaae40c1296144d",
-      "correctAnswer": "A Doe",
-      "incorrectAnswers": [
-        "A Tigeress",
-        "A Leopardess",
-        "A Cow"
-      ],
-      "question": {
-        "text": "What is the word for a female kangaroo?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6243349bcfaae40c12961454",
-      "correctAnswer": "A Hembra",
-      "incorrectAnswers": [
-        "A Nanny",
-        "A Jenny",
-        "A Leopardess"
-      ],
-      "question": {
-        "text": "A female llama is known as what?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c60ee50d1a5e051325a7d",
-      "correctAnswer": "Poland",
-      "incorrectAnswers": [
-        "Belgium",
-        "Brunei",
-        "Japan"
-      ],
-      "question": {
-        "text": "Where in the world would you most expect to be served Bigos?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c11",
-      "correctAnswer": "Rammstein",
+      "id": "622a1c397cc59eab6f950cce",
+      "correctAnswer": "Queen",
       "incorrectAnswers": [
-        "Cascada",
-        "Blue System",
-        "Scorpions"
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
       ],
       "question": {
-        "text": "Which German industrial metal band released the studio album 'Herzeleid'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502e9",
-      "correctAnswer": "Plunge into cold water after boiling",
-      "incorrectAnswers": [
-        "Add a drop of vinegar when boiling",
-        "Soak the egg before boiling",
-        "Crack the egg a little mid boil"
-      ],
-      "question": {
-        "text": "How do you prevent a black rim forming round the yolk of a boiled egg?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "649553a42cb69a84d25273f0",
-      "correctAnswer": "The 1960s",
-      "incorrectAnswers": [
-        "The 1950s",
-        "The 1970s",
-        "The 1980s"
-      ],
-      "question": {
-        "text": "Which decade saw the Stonewall Riots in New York City, which helped to initiate the gay rights movement?"
-      },
-      "tags": [
-        "civil_rights",
-        "lgbtq",
-        "history",
-        "new_york_city",
-        "new_york",
-        "decades"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "64626250ab138b829b81e9fc",
-      "correctAnswer": "13",
-      "incorrectAnswers": [
-        "1",
-        "2",
-        "8"
-      ],
-      "question": {
-        "text": "What is the atomic number of aluminum?"
-      },
-      "tags": [
-        "chemistry",
-        "materials",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f951760",
-      "correctAnswer": "Jefferson",
-      "incorrectAnswers": [
-        "Washington",
-        "Lincoln",
-        "Franklin"
-      ],
-      "question": {
-        "text": "Which president was responsible for the Louisiana Purchase?"
-      },
-      "tags": [
-        "usa",
-        "presidents",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624dba37cd90beeca3531569",
-      "correctAnswer": "Shirley Bassey",
-      "incorrectAnswers": [
-        "Wings",
-        "Gladys Knight",
-        "Billie Eilish"
-      ],
-      "question": {
-        "text": "Who performed the theme song to the James Bond film Diamonds Are Forever?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "soundtracks",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "63f39505989356ef48370be9",
-      "correctAnswer": "Piccolo",
-      "incorrectAnswers": [
-        "Flute",
-        "Clarinet",
-        "Bass Flute"
-      ],
-      "question": {
-        "text": "What is the name of the highest pitched woodwind instrument?"
-      },
-      "tags": [
-        "music",
-        "musical_instruments"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "627164821ba117625baac962",
-      "correctAnswer": "Sang Som Rum",
-      "incorrectAnswers": [
-        "Pitorro",
-        "Tuba",
-        "Port wine"
-      ],
-      "question": {
-        "text": "Which of these drinks would you associate with Thailand?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623388720161109f922aac89",
-      "correctAnswer": "Western Australia ",
-      "incorrectAnswers": [
-        "Victoria",
-        "Queensland",
-        "Tasmania"
-      ],
-      "question": {
-        "text": "Which Is The Largest State In Australia"
-      },
-      "tags": [
-        "australia",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e74",
-      "correctAnswer": "Vladimir Nabokov",
-      "incorrectAnswers": [
-        "Ayn Rand",
-        "Kurt Vonnegut",
-        "Mikhail Bulgakov"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Annotated Lolita (1991 Vintage Books ed.)'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c377cc59eab6f950432",
-      "correctAnswer": "New Zealand",
-      "incorrectAnswers": [
-        "France",
-        "Switzerland",
-        "Canada"
-      ],
-      "question": {
-        "text": "In 1893, which country was the first to give women the vote?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe99",
-      "correctAnswer": "Rihanna",
-      "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Ricky Martin"
-      ],
-      "question": {
-        "text": "Which singer released the song 'You da One'?"
-      },
-      "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fda1",
-      "correctAnswer": "Madonna",
-      "incorrectAnswers": [
-        "Rihanna",
-        "Beyonce",
-        "Lady Gaga"
-      ],
-      "question": {
-        "text": "Which Female Icon Brought Out A Book Entitled \"Sex\"?"
-      },
-      "tags": [
-        "musicians",
-        "people",
-        "literature",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950bbe",
-      "correctAnswer": "Pearl Jam",
-      "incorrectAnswers": [
-        "Anti-Flag",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
-      ],
-      "question": {
-        "text": "Which American rock band released the studio album 'Lightning Bolt'?"
+        "text": "Which British rock band (1970-) released the studio album 'News of the World'?"
       },
       "tags": [
         "music"
@@ -622,15 +637,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625fd707dc0dd3b72da64d1d",
-      "correctAnswer": "1999",
+      "id": "625fd70edc0dd3b72da64d1f",
+      "correctAnswer": "2003",
       "incorrectAnswers": [
-        "1996",
-        "2002",
-        "2005"
+        "1997",
+        "2000",
+        "2006"
       ],
       "question": {
-        "text": "The Sixth Sense was released in which year?"
+        "text": "In which year was Kill Bill: Vol. 1 first released in the cinema?"
       },
       "tags": [
         "film",

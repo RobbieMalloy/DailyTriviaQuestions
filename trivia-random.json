@@ -1,22 +1,107 @@
 {
-  "gameDate": "2026-03-14",
+  "gameDate": "2026-03-15",
   "difficulty": "random",
   "results": [
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe44",
-      "correctAnswer": "Greenland",
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950715",
+      "correctAnswer": "Maggie Smith",
       "incorrectAnswers": [
-        "Madagascar",
-        "Borneo",
-        "New Guinea"
+        "Kathy Bates",
+        "Sandra Bæ Hovedr",
+        "Kirsten Dunst"
       ],
       "question": {
-        "text": "What is the largest island in the world? "
+        "text": "Which actress has starred in both Downton Abbey and the Harry Potter series of films?"
       },
       "tags": [
-        "islands",
-        "records",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f878",
+      "correctAnswer": "Athletics",
+      "incorrectAnswers": [
+        "Boxing",
+        "Motor racing",
+        "Rowing"
+      ],
+      "question": {
+        "text": "With which sport is Kenenisa Bekele associated?"
+      },
+      "tags": [
+        "people",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "645bc4634638d58091b1b9ce",
+      "correctAnswer": "National Aeronautics and Space Administration",
+      "incorrectAnswers": [
+        "National Astronaut and Shuttle Association",
+        "National Aerospace and Shuttle Administration",
+        "National Aerospace and Space Association"
+      ],
+      "question": {
+        "text": "What does the acronym NASA stand for?"
+      },
+      "tags": [
+        "acronyms",
+        "organizations",
+        "space"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "645cb16b7d263fd5097043cc",
+      "correctAnswer": "Carded",
+      "incorrectAnswers": [
+        "Combed",
+        "Washed",
+        "Sheared"
+      ],
+      "question": {
+        "text": "What term is used to describe the process of preparing wool fibers before they are spun?"
+      },
+      "tags": [
+        "textiles",
+        "fashion"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233857162eaad73716a8c6f",
+      "correctAnswer": "Jewellers",
+      "incorrectAnswers": [
+        "Butchers",
+        "Shoes",
+        "Wine"
+      ],
+      "question": {
+        "text": "What Type Of Shop Predominates On The Ponte Vecchio In Florence?"
+      },
+      "tags": [
+        "italy",
+        "tourist_attractions",
         "geography"
       ],
       "type": "text_choice",
@@ -26,20 +111,40 @@
     },
     {
       "category": "music",
-      "id": "648888d35dba6c873ef65084",
-      "correctAnswer": "Cello",
+      "id": "622a1c397cc59eab6f950c7b",
+      "correctAnswer": "U2",
       "incorrectAnswers": [
-        "Viola",
-        "Double Bass",
-        "Harp"
+        "Public Image Ltd.",
+        "The Script",
+        "The Cure"
       ],
       "question": {
-        "text": "What is the name of the second-largest member of the violin family?"
+        "text": "Which Irish rock band released the studio album 'No Line on the Horizon'?"
       },
       "tags": [
-        "musical_instruments",
-        "classical_music",
         "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "65056ecb7a97013de78b5362",
+      "correctAnswer": "Rudyard Kipling",
+      "incorrectAnswers": [
+        "Shel Silverstein",
+        "Dr. Seuss",
+        "Wilson Rawls"
+      ],
+      "question": {
+        "text": "Who wrote the Jungle Book?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "literature",
+        "childrens_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -47,20 +152,42 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "6271644e1ba117625baac956",
-      "correctAnswer": "Schnapps",
+      "category": "history",
+      "id": "63a039bec7d86251f9b65cac",
+      "correctAnswer": "1917",
       "incorrectAnswers": [
-        "Rakia",
-        "Tequila",
-        "Mama Juana"
+        "1914",
+        "1941",
+        "1945"
       ],
       "question": {
-        "text": "Which of these is a popular drink in Austria?"
+        "text": "In which year did the United States enter World War I?"
       },
       "tags": [
-        "drink",
-        "alcohol"
+        "history",
+        "usa",
+        "world_war_1",
+        "wars"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bb8",
+      "correctAnswer": "Simon & Garfunkel",
+      "incorrectAnswers": [
+        "MercyMe",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which American music duo released the studio album 'Bridge over Troubled Water'?"
+      },
+      "tags": [
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -69,197 +196,38 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f95106d",
-      "correctAnswer": "Tomato",
+      "id": "622a1c3a7cc59eab6f951092",
+      "correctAnswer": "Incisors",
       "incorrectAnswers": [
-        "Garlic",
-        "Onion",
-        "Chili Pepper"
+        "Molars",
+        "Premolars",
+        "Slicers"
       ],
       "question": {
-        "text": "What Is Alicante A Variety Of?"
+        "text": "The teeth used for biting or cutting are known as _______."
       },
       "tags": [
-        "food",
         "science"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951b41",
-      "correctAnswer": "1936",
-      "incorrectAnswers": [
-        "1926",
-        "1916",
-        "1906"
-      ],
-      "question": {
-        "text": "In What Year Did The Spanish Civil War Begin?"
-      },
-      "tags": [
-        "wars",
-        "europe",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "63afff9b2d1dcedfbb65456b",
-      "correctAnswer": "Laurentian Library",
-      "incorrectAnswers": [
-        "Bibliotheque Nationale",
-        "Library of Alexandria",
-        "Ulpian Library"
-      ],
-      "question": {
-        "text": "What is the name of the famous Florentine library where many Renaissance texts are kept?"
-      },
-      "tags": [
-        "renaissance",
-        "italy",
-        "museums",
-        "buildings"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa5a",
-      "correctAnswer": "Mahershala Ali",
-      "incorrectAnswers": [
-        "Adam Driver",
-        "Sam Elliott",
-        "Richard E. Grant"
-      ],
-      "question": {
-        "text": "Who won the 2018 Academy Award for Best Supporting Actor for playing the role of Dr. Donald Shirley in Green Book?"
-      },
-      "tags": [
-        "academy_awards",
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "64730798cf09068746f6377b",
-      "correctAnswer": "The Eiffel Tower",
-      "incorrectAnswers": [
-        "The Statue of Liberty",
-        "Big Ben",
-        "The Colosseum"
-      ],
-      "question": {
-        "text": "Which iconic landmark was originally built for the 1889 World's Fair?"
-      },
-      "tags": [
-        "culture",
-        "architecture",
-        "society_and_culture",
-        "history",
-        "tourism",
-        "tourist_attractions"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f9508da",
-      "correctAnswer": "Ivory Coast",
-      "incorrectAnswers": [
-        "Ghana",
-        "Togo",
-        "Benin"
-      ],
-      "question": {
-        "text": "Which of these countries borders Mali?"
-      },
-      "tags": [
-        "africa",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611fdf4b176d54800e3d76",
-      "correctAnswer": "1975",
-      "incorrectAnswers": [
-        "1957",
-        "1963",
-        "1969"
-      ],
-      "question": {
-        "text": "In which year was the digital camera invented?"
-      },
-      "tags": [
-        "events",
-        "inventions",
-        "technology",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94feb5",
-      "correctAnswer": "Beyoncé",
-      "incorrectAnswers": [
-        "Madonna",
-        "Drake",
-        "Nicki Minaj"
-      ],
-      "question": {
-        "text": "Which American singer, actress and record producer released the studio album '4'?"
-      },
-      "tags": [
-        "musicians",
-        "music_albums",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f7d",
-      "correctAnswer": "Stephen King",
+      "id": "622a1c397cc59eab6f950ef6",
+      "correctAnswer": "Philip K. Dick",
       "incorrectAnswers": [
-        "H. P. Lovecraft",
-        "Edgar Allan Poe",
-        "Jack Vance"
+        "Stanisław Lem",
+        "Edgar Rice Burroughs",
+        "Stephen King"
       ],
       "question": {
-        "text": "Which author wrote 'The Dark Tower'?"
+        "text": "Which author wrote 'Do Androids Dream of Electric Sheep?'?"
       },
       "tags": [
+        "literature",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -268,64 +236,21 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "64902c3a6c4575eaf97c8ae1",
-      "correctAnswer": "Boyle's Law",
+      "category": "society_and_culture",
+      "id": "63d9530c168979b94b2e4f89",
+      "correctAnswer": "Barbie",
       "incorrectAnswers": [
-        "Dalton's Law",
-        "Charles's Law",
-        "Gay-Lussac's Law"
+        "My Little Pony",
+        "American Girl",
+        "Bratz"
       ],
       "question": {
-        "text": "What is the name of the chemistry law stating that the pressure of a gas at constant temperature varies inversely with its volume?"
+        "text": "Which iconic dress-up doll was released in the USA in 1959?"
       },
       "tags": [
-        "chemistry",
-        "physics",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f950361",
-      "correctAnswer": "Cruella De Vil",
-      "incorrectAnswers": [
-        "Ursula",
-        "Maleficent",
-        "Yzma"
-      ],
-      "question": {
-        "text": "Who wanted to make a coat out of 101 Dalmatians"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "645cb1257d263fd5097043a7",
-      "correctAnswer": "Baz Luhrmann",
-      "incorrectAnswers": [
-        "Darren Aronofsky",
-        "Christopher Nolan",
-        "Steven Spielberg"
-      ],
-      "question": {
-        "text": "Which director of the film \"Moulin Rouge!\" brought his hit production of \"La boheme\" to Broadway in 2002?"
-      },
-      "tags": [
-        "directors",
-        "film",
-        "film_and_tv",
-        "theater"
+        "society_and_culture",
+        "toys",
+        "1950's"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -333,21 +258,21 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "648888d65dba6c873ef650ac",
-      "correctAnswer": "Snowy",
+      "category": "society_and_culture",
+      "id": "622a1c3a7cc59eab6f9511b1",
+      "correctAnswer": "Eris",
       "incorrectAnswers": [
-        "Foxy",
-        "Pal",
-        "Rover"
+        "Razr",
+        "Mercury",
+        "Zeus"
       ],
       "question": {
-        "text": "What is the name of the white fox terrier owned by boy explorer Tintin?"
+        "text": "Who is the Greek equivalent of the Roman god Discordia?"
       },
       "tags": [
-        "cartoons",
-        "dogs",
-        "comics"
+        "ancient_greece",
+        "mythology",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -355,21 +280,125 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "647a125b55463d5ce2994fde",
-      "correctAnswer": "Houston",
+      "category": "history",
+      "id": "63adbd5d04c68cc1e14b8e1e",
+      "correctAnswer": "Great Britain",
       "incorrectAnswers": [
-        "Chicago",
-        "Philadelphia",
-        "Miami"
+        "Prussia",
+        "Russia",
+        "Austria"
       ],
       "question": {
-        "text": "What American city, with a population of 2 million people, is nicknamed \"Space City\"?"
+        "text": "Which country declared war on France first in the Napoleonic wars?"
       },
       "tags": [
-        "cities",
-        "nicknames",
-        "usa",
+        "history",
+        "napoleonic_wars",
+        "wars",
+        "1800's"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc6e",
+      "correctAnswer": "Kerfuffle",
+      "incorrectAnswers": [
+        "Donkey Engine",
+        "Taradiddle",
+        "Bibble"
+      ],
+      "question": {
+        "text": "Which word is defined as 'a commotion or fuss'?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9519f4",
+      "correctAnswer": "The Crimean War",
+      "incorrectAnswers": [
+        "The Georgian War",
+        "The Istanbul War",
+        "The Odessan War"
+      ],
+      "question": {
+        "text": "What 19th century war was named after a peninsula in the Black Sea?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f95224c",
+      "correctAnswer": "Hot",
+      "incorrectAnswers": [
+        "Wet",
+        "Windy",
+        "Dark"
+      ],
+      "question": {
+        "text": "In what conditions do thermophilous plants thrive?"
+      },
+      "tags": [
+        "science",
+        "words",
+        "plants",
+        "biology"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f95107a",
+      "correctAnswer": "Hydrocarbons",
+      "incorrectAnswers": [
+        "Gases",
+        "Petroleum Spirits",
+        "Methylated Spirits"
+      ],
+      "question": {
+        "text": "What are Petrol, Naphta, Kerosine, Diesel and Oil?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374291cb85f7ce9e949dda",
+      "correctAnswer": "Dodoma",
+      "incorrectAnswers": [
+        "Dushanbe",
+        "N'Djamena",
+        "Juba"
+      ],
+      "question": {
+        "text": "What is the capital city of Tanzania?"
+      },
+      "tags": [
         "geography"
       ],
       "type": "text_choice",
@@ -378,20 +407,41 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcb2",
-      "correctAnswer": "Afroasiatic",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95026b",
+      "correctAnswer": "Bergamot ",
       "incorrectAnswers": [
-        "Indo-European",
-        "Kra–Dai",
-        "Uralic"
+        "Lemon",
+        "Grapefruit",
+        "Lime"
       ],
       "question": {
-        "text": "The language 'Mesopotamian Arabic' belongs to which language family?"
+        "text": "Which citrus fruit grows predominantly in Italy and is used in Earl Grey tea and eau de Cologne?"
       },
       "tags": [
-        "language",
-        "society_and_culture"
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62433566cfaae40c129614a4",
+      "correctAnswer": "A Pen",
+      "incorrectAnswers": [
+        "A Jill",
+        "A Ewe",
+        "A Vixen"
+      ],
+      "question": {
+        "text": "A female swan is known as what?"
+      },
+      "tags": [
+        "animals",
+        "biology",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -399,16 +449,38 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950be6",
-      "correctAnswer": "Nightwish",
+      "category": "society_and_culture",
+      "id": "639c9dbf929b90846f2fc9af",
+      "correctAnswer": "Tattooing",
       "incorrectAnswers": [
-        "Haloo Helsinki!",
-        "Hanoi Rocks",
-        "Children of Bodom"
+        "Eating shellfish",
+        "Fasting",
+        "Dancing"
       ],
       "question": {
-        "text": "Which Finnish symphonic metal band released the album 'Oceanborn'?"
+        "text": "Which of the following is believed to be a sin in Islam?"
+      },
+      "tags": [
+        "islam",
+        "religion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d9b",
+      "correctAnswer": "The Beach Boys",
+      "incorrectAnswers": [
+        "Swans",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which band includes 'Dennis Wilson'?"
       },
       "tags": [
         "music"
@@ -419,21 +491,40 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f9518f9",
-      "correctAnswer": "Igraine",
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f95223c",
+      "correctAnswer": "Botany",
       "incorrectAnswers": [
-        "Gwendolyn",
-        "Uther",
-        "Morgase"
+        "Zoology",
+        "Medicine",
+        "Astronomy"
       ],
       "question": {
-        "text": "What was King Arthur's mother's name?"
+        "text": "Which branch of science is associated with the terms monocotyledon and dicotyledon?"
       },
       "tags": [
-        "mythology",
-        "uk",
-        "society_and_culture"
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cd0",
+      "correctAnswer": "Queen",
+      "incorrectAnswers": [
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
+      ],
+      "question": {
+        "text": "Which British rock band released the album 'A Kind of Magic'?"
+      },
+      "tags": [
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -442,19 +533,18 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f93b",
-      "correctAnswer": "Misery",
+      "id": "625fd679dc0dd3b72da64cf3",
+      "correctAnswer": "1946",
       "incorrectAnswers": [
-        "Wall Street",
-        "Alien",
-        "Network"
+        "1939",
+        "1953",
+        "1960"
       ],
       "question": {
-        "text": "Which film contains the character 'Annie Wilkes'?"
+        "text": "In which year was It's a Wonderful Life first released in the cinema?"
       },
       "tags": [
         "film",
-        "fictitious_characters",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -463,107 +553,41 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "639c9d93929b90846f2fc959",
-      "correctAnswer": "Diwali",
+      "category": "sport_and_leisure",
+      "id": "6384b45e83dddfb71ee5e376",
+      "correctAnswer": "The Six Nations",
       "incorrectAnswers": [
-        "Holi",
-        "Dusshera",
-        "Navaratri"
+        "The Open Championship",
+        "The FINA World Championships",
+        "The Hopman Cup"
       ],
       "question": {
-        "text": "What is the name of the Hindu festival of lights?"
+        "text": "Which of these is a Rugby competition?"
       },
       "tags": [
-        "hinduism",
-        "religion",
-        "society_and_culture"
+        "sport"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "63b0586c4799123c67712f25",
-      "correctAnswer": "Orthodox Christianity",
+      "category": "music",
+      "id": "6462628bab138b829b81ea21",
+      "correctAnswer": "Que sera sera",
       "incorrectAnswers": [
-        "Islam",
-        "Catholicism",
-        "Judaism"
+        "Carpe diem",
+        "Cogito ergo sum",
+        "Hakuna Matata"
       ],
       "question": {
-        "text": "What is the most widely practiced religion in Russia?"
+        "text": "What popular maxim is the title of a 1956 song by Doris Day?"
       },
       "tags": [
-        "russia",
-        "religion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056f677a97013de78b543c",
-      "correctAnswer": "On trees",
-      "incorrectAnswers": [
-        "Under water",
-        "In the ground",
-        "On grasses"
-      ],
-      "question": {
-        "text": "Where do cashews grow?"
-      },
-      "tags": [
-        "food_and_drink",
-        "nuts"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510d9",
-      "correctAnswer": "Dromedary",
-      "incorrectAnswers": [
-        "Bactrian",
-        "Arabian",
-        "Manchurian"
-      ],
-      "question": {
-        "text": "A one-humped camel is called a _________."
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "63e13a2d106de6ffa7d4a7ac",
-      "correctAnswer": "Endocrine glands",
-      "incorrectAnswers": [
-        "Eccrine glands",
-        "Salivary glands",
-        "Mammary glands"
-      ],
-      "question": {
-        "text": "In the human body, what is the name given to glands responsible for producing hormones?"
-      },
-      "tags": [
-        "science",
-        "biology",
-        "anatomy",
-        "medicine"
+        "songs",
+        "phrases",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -572,15 +596,15 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950d2f",
-      "correctAnswer": "The Beatles",
+      "id": "622a1c367cc59eab6f95039b",
+      "correctAnswer": "Traffic",
       "incorrectAnswers": [
-        "Oasis",
-        "Queen",
-        "The Clash"
+        "The Who",
+        "The Rolling Stones",
+        "The Moody Blues"
       ],
       "question": {
-        "text": "Which English rock band released the song 'Helter Skelter'?"
+        "text": "Who Released The 70's Album Entitled John Barleycorn Must Die? "
       },
       "tags": [
         "music"
@@ -592,66 +616,22 @@
     },
     {
       "category": "history",
-      "id": "639ae2da929b90846f2fc8bc",
-      "correctAnswer": "Chainmail",
+      "id": "645bc75b4638d58091b1b9e7",
+      "correctAnswer": "Era of Good Feeling",
       "incorrectAnswers": [
-        "Helmets",
-        "Shields",
-        "Leather jerkins"
+        "Age of Enlightenment",
+        "Antebellum Period",
+        "Jacksonian Era"
       ],
       "question": {
-        "text": "Which of these is not a type of Viking armor?"
+        "text": "What term is often closely associated with James Monroe's presidency?"
       },
       "tags": [
-        "history",
-        "vikings"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056ea67a97013de78b532e",
-      "correctAnswer": "Soviet Union",
-      "incorrectAnswers": [
-        "France",
-        "Mexico",
-        "Brazil"
-      ],
-      "question": {
-        "text": "With what country did the US almost start a war during the Cuban Missile Crisis?"
-      },
-      "tags": [
-        "history",
+        "presidents",
         "usa"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "64746b3e5a4c31088dd9d037",
-      "correctAnswer": "Gandalf",
-      "incorrectAnswers": [
-        "Saruman",
-        "Radagast",
-        "Merlin"
-      ],
-      "question": {
-        "text": "In J.R.R. Tolkien's Middle-earth stories, which wizard gets promoted from \"the Grey\" to \"the White\"?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "literature",
-        "fantasy",
-        "fictitious_characters"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     }
