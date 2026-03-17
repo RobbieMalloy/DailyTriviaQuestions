@@ -1,84 +1,24 @@
 {
-  "gameDate": "2026-03-16",
+  "gameDate": "2026-03-17",
   "difficulty": "hard",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c367cc59eab6f950326",
-      "correctAnswer": "John Fogerty",
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd13",
+      "correctAnswer": "Aristotle",
       "incorrectAnswers": [
-        "Paul Andrews",
-        "Jimmy Toogood",
-        "Bobby Tarbuck"
+        "Denis Diderot",
+        "Ludwig Wittgenstein",
+        "Anaxagoras"
       ],
       "question": {
-        "text": "Who was the lead singer for Creedence Clearwater Revival?"
+        "text": "Which philosopher famously said 'Happiness is the highest good'?"
       },
       "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623740b1cb85f7ce9e949d18",
-      "correctAnswer": "Tegucigalpa",
-      "incorrectAnswers": [
-        "Bangkok",
-        "San Salvador",
-        "Kinshasa"
-      ],
-      "question": {
-        "text": "What is the capital city of Honduras?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c357cc59eab6f94fc40",
-      "correctAnswer": "\"The stuff that dreams are made of.\"",
-      "incorrectAnswers": [
-        "\"Stella! Hey, Stella!\"",
-        "\"Nobody makes me bleed my own blood. Nobody!\"",
-        "\"I'll be back.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'The Maltese Falcon'?"
-      },
-      "tags": [
-        "film",
+        "philosophy",
         "quotes",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9504c5",
-      "correctAnswer": "pollen",
-      "incorrectAnswers": [
-        "musical instruments",
-        "drugs",
-        "study of refuse and trash"
-      ],
-      "question": {
-        "text": "What is Palynology the study of?"
-      },
-      "tags": [
-        "words",
-        "science"
+        "people",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -87,17 +27,18 @@
     },
     {
       "category": "film_and_tv",
-      "id": "62573f4b9da29df7b05f7393",
-      "correctAnswer": "Casablanca",
+      "id": "622a1c377cc59eab6f9505e4",
+      "correctAnswer": "Kenneth Branagh",
       "incorrectAnswers": [
-        "Blade Runner",
-        "A Beautiful Mind",
-        "Goodfellas"
+        "Michael Ironside",
+        "Luke Evans",
+        "Tom Waits"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'A cafe owner decides whether or not to help his ex and her husband escape the Nazis in French Morocco.'"
+        "text": "Which actor has featured in films including Harry Potter and the Chamber of Secrets and Dunkirk?"
       },
       "tags": [
+        "acting",
         "film",
         "film_and_tv"
       ],
@@ -107,19 +48,86 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b70",
-      "correctAnswer": "Evanescence",
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f950383",
+      "correctAnswer": "Chevy Chase",
       "incorrectAnswers": [
-        "The Pussycat Dolls",
-        "Three 6 Mafia",
-        "The Velvet Underground"
+        "Steve Martin",
+        "Tim Allen",
+        "Tom Hanks"
       ],
       "question": {
-        "text": "Which American alternative metal band released the studio album 'The Open Door'?"
+        "text": "Who plays the lead role of the accident prone Clark Griswold in the 1989 'National Lampoon's Christmas Vacation''?"
       },
       "tags": [
-        "music"
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950629",
+      "correctAnswer": "Angela Bassett",
+      "incorrectAnswers": [
+        "Audrey Hepburn",
+        "Catherine Deneuve",
+        "Frances Fisher"
+      ],
+      "question": {
+        "text": "Which actress was nominated for an academy award for playing the role of Queen Ramonda in the Black Panther films?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv",
+        "academy_awards",
+        "marvel"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95022c",
+      "correctAnswer": "Grapefruit & Tangerine ",
+      "incorrectAnswers": [
+        "Apple & Banana",
+        "Peach & Nectarine",
+        "Durian & Jackfruit"
+      ],
+      "question": {
+        "text": "Which two fruits are crossed to make an ugly fruit?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "63f39510989356ef48370bff",
+      "correctAnswer": "Banana",
+      "incorrectAnswers": [
+        "Apple",
+        "Pear",
+        "Quince"
+      ],
+      "question": {
+        "text": "Which of these fruits is not a pome?"
+      },
+      "tags": [
+        "food_and_drink",
+        "food",
+        "fruit"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -128,20 +136,17 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "645cb1257d263fd5097043a4",
-      "correctAnswer": "Hamlet",
+      "id": "622a1c397cc59eab6f950e42",
+      "correctAnswer": "Percy Bysshe Shelley",
       "incorrectAnswers": [
-        "Romeo and Juliet",
-        "Macbeth",
-        "Othello"
+        "H. Rider Haggard",
+        "Charles Darwin",
+        "Agatha Christie"
       ],
       "question": {
-        "text": "In which Shakespeare play does the title character say the famous line: \"A man may fish with the worm that hath eat of a king, and eat of the fish that hath fed of that worm\"?"
+        "text": "Which author wrote 'Ozymandias'?"
       },
       "tags": [
-        "theater",
-        "quotes",
-        "shakespeare",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -151,20 +156,42 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd0c",
-      "correctAnswer": "Ludwig Wittgenstein",
+      "id": "63b0587b4799123c67712f3e",
+      "correctAnswer": "Unicorn",
       "incorrectAnswers": [
-        "Socrates",
-        "Albert Camus",
-        "Democritus"
+        "Lion",
+        "Dragon",
+        "Horse"
       ],
       "question": {
-        "text": "Which philosopher famously said 'I don’t know why we are here, but I’m pretty sure it is not in order to enjoy ourselves'?"
+        "text": "What is the national animal of Scotland?"
       },
       "tags": [
-        "philosophy",
-        "people",
+        "uk",
+        "scotland",
+        "animals",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd1c",
+      "correctAnswer": "Søren Kierkegaard",
+      "incorrectAnswers": [
+        "Ludwig Wittgenstein",
+        "Friedrich Nietzsche",
+        "Bertrand Russell"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'Life must be understood backward. But it must be lived forward '?"
+      },
+      "tags": [
         "quotes",
+        "philosophy",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -173,19 +200,19 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f951b09",
-      "correctAnswer": "Canada",
+      "category": "science",
+      "id": "622a1c377cc59eab6f95050f",
+      "correctAnswer": "fish",
       "incorrectAnswers": [
-        "France",
-        "Australia",
-        "Russia"
+        "a variant of physiognomy",
+        "oceans",
+        "the Islam"
       ],
       "question": {
-        "text": "In which country was Greenpeace founded in 1971?"
+        "text": "What is Ichthyology the study of?"
       },
       "tags": [
-        "society_and_culture"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -193,20 +220,39 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcb1",
-      "correctAnswer": "Indo-European",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502aa",
+      "correctAnswer": "Capon ",
       "incorrectAnswers": [
-        "Turkic",
-        "Niger–Congo",
-        "Austronesian"
+        "Bodice",
+        "Prized Cock",
+        "Lode"
       ],
       "question": {
-        "text": "The language 'Assamese' belongs to which language family?"
+        "text": "What name is given to a cockerel that is castrated and fattened for the table?"
       },
       "tags": [
-        "language",
-        "society_and_culture"
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950236",
+      "correctAnswer": "Spey ",
+      "incorrectAnswers": [
+        "Tay",
+        "Tweed",
+        "Clyde"
+      ],
+      "question": {
+        "text": "Which Scottish river supplies over 90% of the water used in whiskey manufacturing?"
+      },
+      "tags": [
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -215,15 +261,15 @@
     },
     {
       "category": "geography",
-      "id": "62374287cb85f7ce9e949dd6",
-      "correctAnswer": "Taipei",
+      "id": "62374006cb85f7ce9e949cd4",
+      "correctAnswer": "Moroni",
       "incorrectAnswers": [
-        "Tarawa",
-        "Beijing",
-        "Apia"
+        "Ouagadougou",
+        "Tegucigalpa",
+        "Conakry"
       ],
       "question": {
-        "text": "What is the capital city of Taiwan?"
+        "text": "What is the capital city of Comoros?"
       },
       "tags": [
         "geography"
@@ -234,19 +280,293 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951af4",
-      "correctAnswer": "Maryland",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510d4",
+      "correctAnswer": "Forty",
       "incorrectAnswers": [
-        "Pennsylvania",
-        "Virginia",
-        "Baltimore"
+        "Thirty",
+        "Twenty",
+        "Fifty"
       ],
       "question": {
-        "text": "In which state was `The Blair Witch Project' set"
+        "text": "How fast (mph) can a kangaroo hop?"
       },
       "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624437a5746187c5e7be9367",
+      "correctAnswer": "Hg",
+      "incorrectAnswers": [
+        "KOH",
+        "NaCI",
+        "CaCO3"
+      ],
+      "question": {
+        "text": "What is the chemical formula for mercury?"
+      },
+      "tags": [
+        "chemistry",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611ff04b176d54800e3d7b",
+      "correctAnswer": "1980",
+      "incorrectAnswers": [
+        "1968",
+        "1974",
+        "1986"
+      ],
+      "question": {
+        "text": "In which year was the Compact Disc invented?"
+      },
+      "tags": [
+        "events",
+        "inventions",
+        "technology",
         "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374042cb85f7ce9e949cec",
+      "correctAnswer": "Santo Domingo",
+      "incorrectAnswers": [
+        "Monaco",
+        "Lisbon",
+        "Moroni"
+      ],
+      "question": {
+        "text": "What is the capital city of Dominican Republic?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f95068f",
+      "correctAnswer": "Laura Linney",
+      "incorrectAnswers": [
+        "Keira Knightley",
+        "Frances Fisher",
+        "Rachel Weisz"
+      ],
+      "question": {
+        "text": "Which actress has played roles in films including The Truman Show and Mystic River?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c367cc59eab6f9503a4",
+      "correctAnswer": "The Zombies",
+      "incorrectAnswers": [
+        "The Beatles",
+        "The Monkees",
+        "The Beach Boys"
+      ],
+      "question": {
+        "text": "Which group had a 60s hit with the song \"She's not there\"?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624335b6cfaae40c129614c4",
+      "correctAnswer": "A Bull",
+      "incorrectAnswers": [
+        "A Billy",
+        "A Cob",
+        "A Hob"
+      ],
+      "question": {
+        "text": "What is the word for a male yak?"
+      },
+      "tags": [
+        "animals",
+        "biology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b57e8fd6c701a92118387",
+      "correctAnswer": "Turkey",
+      "incorrectAnswers": [
+        "Bosnia & Herzegovina",
+        "France",
+        "Italy"
+      ],
+      "question": {
+        "text": "In which country would you find the ancient Greek city of Hierapolis?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3a7cc59eab6f9511bf",
+      "correctAnswer": "Rig Veda",
+      "incorrectAnswers": [
+        "Big Veda",
+        "Trig Veda",
+        "Gig Veda"
+      ],
+      "question": {
+        "text": "What is the 1st book of the Hindu scripture?"
+      },
+      "tags": [
+        "religion",
+        "hinduism",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6471e4297206d7c314606f75",
+      "correctAnswer": "Moses",
+      "incorrectAnswers": [
+        "Goliath",
+        "King Herod",
+        "Jesus"
+      ],
+      "question": {
+        "text": "In the bible, who says, \"I will now turn aside, and see this great sight, why the bush is not burnt\"?"
+      },
+      "tags": [
+        "bible",
+        "christianity",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611f8c4b176d54800e3d60",
+      "correctAnswer": "1987",
+      "incorrectAnswers": [
+        "1977",
+        "1982",
+        "1992"
+      ],
+      "question": {
+        "text": "In which year was the discovery of treatment for AIDS?"
+      },
+      "tags": [
+        "events",
+        "medicine",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950489",
+      "correctAnswer": "study of human characteristics",
+      "incorrectAnswers": [
+        "the eyes",
+        "wood",
+        "the study and psychology of organisms with regard to their functions and structures"
+      ],
+      "question": {
+        "text": "What is Somatology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c367cc59eab6f9503b6",
+      "correctAnswer": "Rock Around The Clock",
+      "incorrectAnswers": [
+        "Johnny B Goode",
+        "Candy Girl",
+        "Old Time Rock and Roll"
+      ],
+      "question": {
+        "text": "Which Bill Haley song became the U.K.'s first Rock and Roll number one?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c0c",
+      "correctAnswer": "Muse",
+      "incorrectAnswers": [
+        "Tears for Fears",
+        "Bullet For My Valentine",
+        "Enter Shikari"
+      ],
+      "question": {
+        "text": "Which English rock band released the album 'The Resistance'?"
+      },
+      "tags": [
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -255,20 +575,19 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c3c7cc59eab6f951a48",
-      "correctAnswer": "Melbourne",
+      "id": "622a1c367cc59eab6f950039",
+      "correctAnswer": "Tennis",
       "incorrectAnswers": [
-        "Cape Town",
-        "Buenos Aires",
-        "Rio de Janeiro"
+        "Soccer",
+        "Golf",
+        "Athletics"
       ],
       "question": {
-        "text": "The first ever Olympic Games to be held south of the equator opened in which city in 1956?"
+        "text": "With what sport is Gabriela Sabatini associated?"
       },
       "tags": [
-        "cities",
-        "olympics",
-        "sport"
+        "sport",
+        "people"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -277,17 +596,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625fd722dc0dd3b72da64d25",
-      "correctAnswer": "1996",
+      "id": "622a1c347cc59eab6f94faf3",
+      "correctAnswer": "Frances McDormand",
       "incorrectAnswers": [
-        "1992",
-        "2000",
-        "2004"
+        "Viola Davis",
+        "Andra Day",
+        "Vanessa Kirby"
       ],
       "question": {
-        "text": "In which year was Trainspotting released?"
+        "text": "Who won the 2020 Academy Award for Best Leading Actress for playing the role of Fern in Nomadland?"
       },
       "tags": [
+        "academy_awards",
+        "acting",
         "film",
         "film_and_tv"
       ],
@@ -297,345 +618,23 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "639ae34b929b90846f2fc8c2",
-      "correctAnswer": "Nahuatl",
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950082",
+      "correctAnswer": "Ipswich Town",
       "incorrectAnswers": [
-        "Mayan",
-        "Mixtec",
-        "Otomi"
+        "Plymouth Argyle",
+        "Norwich City",
+        "Bristol Rovers"
       ],
       "question": {
-        "text": "What was the primary language of the Aztecs?"
+        "text": "Which English football team are nicknamed the Tractor Boys?"
       },
       "tags": [
-        "history",
-        "aztecs",
-        "language"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "649f1fffebb41911d4cbd6b1",
-      "correctAnswer": "Pampas",
-      "incorrectAnswers": [
-        "Andes",
-        "Patagonia",
-        "Sierra"
-      ],
-      "question": {
-        "text": "Which of these is a huge flat region of plains in Argentina?"
-      },
-      "tags": [
-        "argentina",
-        "south_america",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624db9ebde6018633d31f6ab",
-      "correctAnswer": "Matt Monro",
-      "incorrectAnswers": [
-        "Shirley Bassey",
-        "Lulu",
-        "Madonna"
-      ],
-      "question": {
-        "text": "Who performed the theme song to the James Bond film From Russia With Love?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "soundtracks",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "646089a2de964ebc39016c54",
-      "correctAnswer": "The Warren Commission",
-      "incorrectAnswers": [
-        "The Truman Commission",
-        "The Roosevelt Commission",
-        "The Eisenhower Commission"
-      ],
-      "question": {
-        "text": "What was the name of the commission that was appointed to investigate the assassination of US President John F. Kennedy?"
-      },
-      "tags": [
-        "presidents",
-        "usa",
-        "assassinations",
-        "history",
-        "1960's"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95055d",
-      "correctAnswer": "Flies",
-      "incorrectAnswers": [
-        "Schematics",
-        "The interpretation of symbols",
-        "Ligaments"
-      ],
-      "question": {
-        "text": "What is Dipterology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "645cb1627d263fd5097043c3",
-      "correctAnswer": "Mars",
-      "incorrectAnswers": [
-        "Venus",
-        "Mercury",
-        "Jupiter"
-      ],
-      "question": {
-        "text": "Phobos is a moon of which planet in our solar system?"
-      },
-      "tags": [
-        "astronomy",
-        "the_solar_system",
-        "planets"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc07",
-      "correctAnswer": "\"Is it safe?\"",
-      "incorrectAnswers": [
-        "\"Wait a minute, wait a minute. You ain't heard nothin' yet!\"",
-        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\"",
-        "\"That’s a bingo!\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Marathon Man'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950315",
-      "correctAnswer": "William Pitt",
-      "incorrectAnswers": [
-        "Anthony Eden",
-        "Margaret Thatcher",
-        "Clement Attlee"
-      ],
-      "question": {
-        "text": "Who Was The Youngest British Prime Minister?"
-      },
-      "tags": [
-        "leaders",
         "uk",
-        "politics",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951b39",
-      "correctAnswer": "1911",
-      "incorrectAnswers": [
-        "1945",
-        "1820",
-        "1515"
-      ],
-      "question": {
-        "text": "In What Year Was The Chinese Republic Established?"
-      },
-      "tags": [
-        "china",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "648891864cd3f064f443dc37",
-      "correctAnswer": "Aaron Sorkin",
-      "incorrectAnswers": [
-        "David Chase",
-        "Joss Whedon",
-        "Matthew Weiner"
-      ],
-      "question": {
-        "text": "Which writer created the television series 'The West Wing'?"
-      },
-      "tags": [
-        "awards",
-        "film_and_tv",
-        "tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "646262b8ab138b829b81ea59",
-      "correctAnswer": "Striptease",
-      "incorrectAnswers": [
-        "Showgirls",
-        "Basic Instinct",
-        "Indecent Proposal"
-      ],
-      "question": {
-        "text": "What is the name of the 1996 film starring Demi Moore about a woman who is short on funds and clothes?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62373fd0cb85f7ce9e949cbe",
-      "correctAnswer": "Ouagadougou",
-      "incorrectAnswers": [
-        "Monrovia",
-        "Manila",
-        "Dushanbe"
-      ],
-      "question": {
-        "text": "What is the capital city of Burkina Faso?"
-      },
-      "tags": [
-        "capital_cities",
-        "africa"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374238cb85f7ce9e949db6",
-      "correctAnswer": "Belgrade",
-      "incorrectAnswers": [
-        "Tallinn",
-        "Chisinau",
-        "Riga"
-      ],
-      "question": {
-        "text": "What is the capital city of Serbia?"
-      },
-      "tags": [
-        "europe",
-        "capital_cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3a7cc59eab6f951095",
-      "correctAnswer": "Pastern",
-      "incorrectAnswers": [
-        "Sole",
-        "Periople",
-        "Hock"
-      ],
-      "question": {
-        "text": "The part of the foot of a horse between the fetlock and the hoof is the __________"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6242cb7ad543524f1b19c932",
-      "correctAnswer": "A litter",
-      "incorrectAnswers": [
-        "A swarm",
-        "A flight",
-        "A watch"
-      ],
-      "question": {
-        "text": "What is the word for a group of pigs?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506fc",
-      "correctAnswer": "Elizabeth Banks",
-      "incorrectAnswers": [
-        "Sandra Bæ Hovedr",
-        "Penélope Cruz",
-        "Emma Thompson"
-      ],
-      "question": {
-        "text": "Which actress has played roles in films including Spider-Man and The Hunger Games?"
-      },
-      "tags": [
-        "film_and_tv",
-        "acting"
+        "football",
+        "soccer",
+        "nicknames",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",

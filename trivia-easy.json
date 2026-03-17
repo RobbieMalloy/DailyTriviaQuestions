@@ -1,23 +1,46 @@
 {
-  "gameDate": "2026-03-16",
+  "gameDate": "2026-03-17",
   "difficulty": "easy",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "63f39502989356ef48370be1",
-      "correctAnswer": "Apple",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d4b",
+      "correctAnswer": "One Direction",
       "incorrectAnswers": [
-        "Mango",
-        "Papaya",
-        "Pineapple"
+        "The Beatles",
+        "NWA",
+        "Oasis"
       ],
       "question": {
-        "text": "Which of these fruits is not a tropical fruit?"
+        "text": "Which band was Niall Horan a member of?"
+      },
+      "tags": [
+        "music",
+        "pop_music",
+        "bands"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "645c9f5442ea81e2554c5f1a",
+      "correctAnswer": "Skewer",
+      "incorrectAnswers": [
+        "Spatula",
+        "Tongs",
+        "Basting brush"
+      ],
+      "question": {
+        "text": "What is the name of a long metal or wooden pin used to secure food during barbecuing?"
       },
       "tags": [
         "food_and_drink",
         "food",
-        "fruit"
+        "cooking",
+        "barbeque"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -25,21 +48,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501c9",
-      "correctAnswer": "Lolita",
+      "category": "film_and_tv",
+      "id": "64e6fd9b0b79e5bedd55c8bd",
+      "correctAnswer": "Hitchcock",
       "incorrectAnswers": [
-        "Les Liaisons dangereuses",
-        "And Then There Were None",
-        "Ulysses"
+        "Spielberg",
+        "Tarantino",
+        "Scorsese"
       ],
       "question": {
-        "text": "Which piece of written work starts with the line 'Lolita, light of my life, fire of my loins.'?"
+        "text": "Which master of suspense directed the 1969 film 'Topaz', a tale of Cold War defectors and double-dealing spies?"
       },
       "tags": [
-        "literature",
-        "general_knowledge",
-        "arts_and_literature"
+        "directors",
+        "movies",
+        "thrillers"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -47,21 +70,62 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "63afff832d1dcedfbb654557",
-      "correctAnswer": "Photography",
+      "category": "society_and_culture",
+      "id": "65056f8e7a97013de78b5472",
+      "correctAnswer": "Conquistador",
       "incorrectAnswers": [
-        "Painting",
-        "Sculpture",
-        "Architecture"
+        "Esclavo",
+        "Babuino",
+        "Atormentador"
       ],
       "question": {
-        "text": "Which of the following is NOT a type of art commonly associated with the Renaissance?"
+        "text": "What is the Spanish word for conqueror?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b577afd6c701a9211835e",
+      "correctAnswer": "India",
+      "incorrectAnswers": [
+        "Egypt",
+        "Italy",
+        "China"
+      ],
+      "question": {
+        "text": "In which country would you find the Taj Mahal?"
+      },
+      "tags": [
+        "tourist_attractions",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056ed47a97013de78b536e",
+      "correctAnswer": "Napoleonic War",
+      "incorrectAnswers": [
+        "World War II",
+        "Vietnam War",
+        "Korean War"
+      ],
+      "question": {
+        "text": "Which of these wars took place before World War I?"
       },
       "tags": [
         "history",
-        "renaissance",
-        "arts_and_literature"
+        "wars"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -69,20 +133,22 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "625741333d2f5c16bfb88345",
-      "correctAnswer": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine.",
+      "category": "society_and_culture",
+      "id": "6262881d4b176d54800e3d89",
+      "correctAnswer": "Energizer",
       "incorrectAnswers": [
-        "A Marine observes the effects of war on his fellow recruits from their boot camp training to fighting in a war.",
-        "The lives of mob hitmen, a boxer, a gangster and his wife, and a pair of bandits intertwine in four tales.",
-        "Historical events unfold from the perspective of an Alabama man with an IQ of 75."
+        "Red Cross",
+        "IBM",
+        "FedEx"
       ],
       "question": {
-        "text": "What is the plot of the movie The Terminator?"
+        "text": "'Keeps going and going and going' is a slogan associated with which brand?"
       },
       "tags": [
-        "film",
-        "film_and_tv"
+        "business",
+        "marketing",
+        "technology",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -90,62 +156,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "63e13a32106de6ffa7d4a7b2",
-      "correctAnswer": "Bladder",
+      "category": "general_knowledge",
+      "id": "622a1c3e7cc59eab6f95226c",
+      "correctAnswer": "Brakes",
       "incorrectAnswers": [
-        "Stomach",
-        "Kidney",
-        "Liver"
+        "Steering Wheel",
+        "Engine",
+        "Exhaust Pipe"
       ],
       "question": {
-        "text": "Which organ stores urine?\n"
+        "text": "In a car, what might be disc or drum?"
       },
       "tags": [
-        "science",
-        "biology",
-        "anatomy"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f3a3d2f5c16bfb8832f",
-      "correctAnswer": "Historical events unfold from the perspective of an Alabama man with an IQ of 75.",
-      "incorrectAnswers": [
-        "A thief who steals secrets through dreams must plant an idea into the mind of a C.E.O.",
-        "The son of a city's mastermind falls in love with a working-class prophet.",
-        "An insomniac and a soap maker form an underground organisation that evolves into much more."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Forrest Gump?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95048d",
-      "correctAnswer": "snakes",
-      "incorrectAnswers": [
-        "disease classification",
-        "prehistoric metaphytes ",
-        "society"
-      ],
-      "question": {
-        "text": "What is Serpentology the study of?"
-      },
-      "tags": [
-        "science"
+        "motoring",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -154,17 +178,41 @@
     },
     {
       "category": "music",
-      "id": "6266bc26ff2394bd44dedffb",
-      "correctAnswer": "Percussion",
+      "id": "648891824cd3f064f443dc0c",
+      "correctAnswer": "The Beach Boys",
       "incorrectAnswers": [
-        "Woodwind",
-        "Brass",
-        "Stringed"
+        "The Beatles",
+        "The Rolling Stones",
+        "The Four Tops"
       ],
       "question": {
-        "text": "What type of instrument is a cowbell?"
+        "text": "Who had a hit in 1964 with the song 'I Get Around'?"
       },
       "tags": [
+        "songs",
+        "music",
+        "1960's"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff6a",
+      "correctAnswer": "Oasis",
+      "incorrectAnswers": [
+        "Goldfrapp",
+        "Kaiser Chiefs",
+        "Jethro Tull"
+      ],
+      "question": {
+        "text": "Who Had A Hit In 1996 With \"Don't Look Back In Anger\""
+      },
+      "tags": [
+        "songs",
+        "general_knowledge",
         "music"
       ],
       "type": "text_choice",
@@ -173,177 +221,20 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "64824e287778562fd76a9602",
-      "correctAnswer": "Shadowboxing",
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bd9",
+      "correctAnswer": "Guns N' Roses",
       "incorrectAnswers": [
-        "Make-believe boxing",
-        "Doxing",
-        "Ghostboxing"
+        "MercyMe",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
       ],
       "question": {
-        "text": "What is the term used when a boxer practices fighting against an imaginary opponent?"
+        "text": "Which American hard rock band released the song 'Sweet Child O' Mine'?"
       },
       "tags": [
-        "boxing",
-        "martial_arts",
-        "sport",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950248",
-      "correctAnswer": "Apple ",
-      "incorrectAnswers": [
-        "Blackberry",
-        "Strawberry",
-        "Banana"
-      ],
-      "question": {
-        "text": "Which fruit is traditionally covered with toffee at a fairground?"
-      },
-      "tags": [
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3a7cc59eab6f950fdb",
-      "correctAnswer": "Grand Theft Auto",
-      "incorrectAnswers": [
-        "Gear to Advance",
-        "Grind Them All!",
-        "Go to America"
-      ],
-      "question": {
-        "text": "Which video game series is sometimes referred to as GTA?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6396ecaa6017b1e8e09020cf",
-      "correctAnswer": "Khao Soi",
-      "incorrectAnswers": [
-        "Toad in the Hole",
-        "Kentucky Fried Chicken",
-        "Chicken Tikka Masala"
-      ],
-      "question": {
-        "text": "Which of these dishes is most commonly found in Northern regions of Thailand?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food",
-        "geography ",
-        "thailand",
-        "southeast_asia"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fced",
-      "correctAnswer": "Koreanic",
-      "incorrectAnswers": [
-        "Afroasiatic",
-        "Sino-Tibetan",
-        "Turkic"
-      ],
-      "question": {
-        "text": "The language 'Korean' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "646262b8ab138b829b81ea55",
-      "correctAnswer": "Kimono",
-      "incorrectAnswers": [
-        "Cheongsam",
-        "Sari",
-        "Hijab"
-      ],
-      "question": {
-        "text": "What is the Asian-style robe that is often used as a dressing gown?"
-      },
-      "tags": [
-        "clothing",
-        "fashion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63adbd5d04c68cc1e14b8e1d",
-      "correctAnswer": "Maple Tree",
-      "incorrectAnswers": [
-        "Oak Tree",
-        "Birch Tree",
-        "Elm Tree"
-      ],
-      "question": {
-        "text": "Which type of tree is known for its association with Canada and its bright red foliage in autumn?"
-      },
-      "tags": [
-        "science",
-        "trees",
-        "canada",
-        "plants",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ec197f41d6338b96eed7",
-      "correctAnswer": "Napoleon Bonaparte",
-      "incorrectAnswers": [
-        "Vasco da Gama",
-        "Louis XVI",
-        "Charles de Gaulle"
-      ],
-      "question": {
-        "text": "Which influential historical person was a French military and political leader in the late 18th and early 19th centuries?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "society_and_culture",
-        "general_knowledge",
-        "france"
+        "rock_music",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -352,15 +243,80 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501c5",
-      "correctAnswer": "Romeo and Juliet",
+      "id": "63a03992c7d86251f9b65c84",
+      "correctAnswer": "Jack and Jill",
       "incorrectAnswers": [
-        "The Great Gatsby",
-        "Eine Geschichte des Universums in 100 Sternen",
-        "Madame Bovary"
+        "Hey Diddle Diddle",
+        "Mary Had a Little Lamb",
+        "Girls and Boys Come Out To Play"
       ],
       "question": {
-        "text": "Which piece of written work starts with the line 'Two households, both alike in dignity, in fair Verona, where we lay our scene, from ancient grudge break to new mutiny, where civil blood makes civil hands unclean.'?"
+        "text": "What nursery rhyme is about a couple who climbed a hill?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "nursery_rhymes"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "65056eb07a97013de78b533c",
+      "correctAnswer": "Hamlet",
+      "incorrectAnswers": [
+        "Escalus",
+        "Exeter",
+        "Julius Caesar"
+      ],
+      "question": {
+        "text": "Which Shakespeare character says, \"To be or not to be, that is the question\"?"
+      },
+      "tags": [
+        "Shakespeare",
+        "plays",
+        "literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c367cc59eab6f950079",
+      "correctAnswer": "Washington DC",
+      "incorrectAnswers": [
+        "New York City",
+        "Brussels",
+        "Geneva"
+      ],
+      "question": {
+        "text": "Where is Capitol Hill?"
+      },
+      "tags": [
+        "places",
+        "politics",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f950161",
+      "correctAnswer": "J.R.R. Tolkien",
+      "incorrectAnswers": [
+        "Roald Dahl",
+        "George R.R. Martin",
+        "Brandon Sanderson"
+      ],
+      "question": {
+        "text": "Who wrote \"The Hobbit\"?"
       },
       "tags": [
         "arts_and_literature"
@@ -371,194 +327,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95029f",
-      "correctAnswer": "Parmesan ",
+      "category": "geography",
+      "id": "646140774d46e537ca8cd9bb",
+      "correctAnswer": "The Great Barrier Reef",
       "incorrectAnswers": [
-        "Wensleydale",
-        "Stilton",
-        "Gorgonzola"
+        "The Northern Lights",
+        "The Galapagos Islands",
+        "The Mariana Trench"
       ],
       "question": {
-        "text": "What sort of cheese would you sprinkle on spaghetti?"
+        "text": "What is the name of the natural wonder that stretches over 1,250 miles off the east coast of Australia?"
       },
       "tags": [
-        "food",
-        "italy",
-        "general_knowledge",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056eec7a97013de78b5390",
-      "correctAnswer": "Abacus",
-      "incorrectAnswers": [
-        "Tribulus",
-        "Chakram",
-        "Marimba"
-      ],
-      "question": {
-        "text": "Which of these devices was historically used to perform arithmetic?"
-      },
-      "tags": [
-        "history",
-        "science",
-        "mathematics"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f95106e",
-      "correctAnswer": "Dermatologist",
-      "incorrectAnswers": [
-        "Permologist",
-        "Skin Clinician",
-        "Visologist"
-      ],
-      "question": {
-        "text": "What is a skin specialist called?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c6148badf21197f98f771",
-      "correctAnswer": "United States",
-      "incorrectAnswers": [
-        "Brunei",
-        "Bahrain",
-        "Vietnam"
-      ],
-      "question": {
-        "text": "Where in the world would you most expect to be served Mac 'N' Cheese?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056e897a97013de78b5305",
-      "correctAnswer": "Ships",
-      "incorrectAnswers": [
-        "Planes",
-        "Balloons",
-        "Trucks"
-      ],
-      "question": {
-        "text": "What did the Spanish Armada consist of?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbeb",
-      "correctAnswer": "\"I have had it with these mother—— snakes on this mother—— plane!\"",
-      "incorrectAnswers": [
-        "\"Not my tempo.\"",
-        "\"Oh, Jerry, don't let's ask for the moon. We have the stars.\"",
-        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Snakes on a Plane'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3c7cc59eab6f951958",
-      "correctAnswer": "Hubble",
-      "incorrectAnswers": [
-        "Bubble",
-        "Toil",
-        "Trouble"
-      ],
-      "question": {
-        "text": "What is the name of the space telescope that was placed in Earth's orbit in 1990?"
-      },
-      "tags": [
-        "physics",
-        "astronomy",
-        "events",
-        "1990's",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6505702d7a97013de78b554d",
-      "correctAnswer": "24 karat",
-      "incorrectAnswers": [
-        "22 karat",
-        "30 karat",
-        "12 karat"
-      ],
-      "question": {
-        "text": "How many karats are in pure gold?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "63d9530a168979b94b2e4f85",
-      "correctAnswer": "Friends",
-      "incorrectAnswers": [
-        "Seinfeld",
-        "The Simpsons",
-        "Frasier"
-      ],
-      "question": {
-        "text": "Which popular '90s show featured the character of Ross Geller?"
-      },
-      "tags": [
-        "1990's",
-        "film_and_tv",
-        "tv",
-        "sitcoms"
+        "natural_wonders",
+        "australia",
+        "nature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -567,19 +350,63 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f95197f",
-      "correctAnswer": "You turned to stone",
+      "id": "6496a83ce831b1ab5aa1113b",
+      "correctAnswer": "Your uncle",
       "incorrectAnswers": [
-        "You fell in love",
-        "You became a ghost",
-        "You saw your own death"
+        "Your cousin",
+        "Your brother-in-law",
+        "Your stepfather"
       ],
       "question": {
-        "text": "What Happened If You Looked A Gorgon In The Eye?"
+        "text": "What term refers to the husband of your mom's sister?"
       },
       "tags": [
-        "mythology",
-        "ancient_greece",
+        "society_and_culture",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64f6d9b9660c3a8d960101e2",
+      "correctAnswer": "3000",
+      "incorrectAnswers": [
+        "2000",
+        "1000",
+        "4000"
+      ],
+      "question": {
+        "text": "Which actor and musician, a member of OutKast, is known as André ____?"
+      },
+      "tags": [
+        "actors",
+        "music",
+        "entertainment"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6495b50be831b1ab5aa11111",
+      "correctAnswer": "Air Force One",
+      "incorrectAnswers": [
+        "The Big One",
+        "US One",
+        "The Reagan Jet"
+      ],
+      "question": {
+        "text": "What is the name of the plane that carried the President of the United States?"
+      },
+      "tags": [
+        "aviation",
+        "usa",
+        "presidents",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -588,20 +415,21 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "63989c205c9a75021f310483",
-      "correctAnswer": "Horse and Carriage",
+      "category": "geography",
+      "id": "622a1c3e7cc59eab6f95222a",
+      "correctAnswer": "Texas",
       "incorrectAnswers": [
-        "Steam Engine Train",
-        "Airplane",
-        "Bicycle"
+        "Florida",
+        "Michigan",
+        "California"
       ],
       "question": {
-        "text": "What was the main form of transportation used during the 17th century?"
+        "text": "In which US state is the Houston Space Centre?"
       },
       "tags": [
-        "history",
-        "1600s"
+        "geography",
+        "places",
+        "usa"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -610,21 +438,62 @@
     },
     {
       "category": "society_and_culture",
-      "id": "648ee4224fe93387161138a9",
-      "correctAnswer": "Martial Law",
+      "id": "6262afaf4b176d54800e3dd7",
+      "correctAnswer": "Direct Message",
       "incorrectAnswers": [
-        "Banana Republic",
-        "Puppet State",
-        "Vigilante Government"
+        "Double Meaning",
+        "Do Me",
+        "Dire Mood"
       ],
       "question": {
-        "text": "What is the term for when a civilian government is replaced by military rule?"
+        "text": "If someone typed the letters 'DM' in a message, what would they mean?"
       },
       "tags": [
-        "words",
-        "government",
-        "society_and_culture",
-        "military"
+        "the_internet",
+        "initials",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "647f9def3a4302a71927168a",
+      "correctAnswer": "Dreadlocks",
+      "incorrectAnswers": [
+        "Buzz cut",
+        "Mullet",
+        "Comb over"
+      ],
+      "question": {
+        "text": "Which hairstyle, characterized by long, matted or coiled strands of hair, was sported by Lennox Lewis, Lenny Kravitz, and Bob Marley?"
+      },
+      "tags": [
+        "hair",
+        "people",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b57e6fd6c701a92118386",
+      "correctAnswer": "USA",
+      "incorrectAnswers": [
+        "Brazil",
+        "Spain",
+        "The UK"
+      ],
+      "question": {
+        "text": "In which country would you find the Statue of Liberty?"
+      },
+      "tags": [
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -633,21 +502,153 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f947",
-      "correctAnswer": "Pirates of the Caribbean",
+      "id": "622a1c347cc59eab6f94f8d5",
+      "correctAnswer": "Arnold Schwarzenegger",
       "incorrectAnswers": [
-        "The Godfather",
-        "The Silence of the Lambs",
-        "The Birds"
+        "Michael Douglas",
+        "Dustin Hoffman",
+        "Andy Serkis"
       ],
       "question": {
-        "text": "Which film contains the character 'Captain Jack Sparrow'?"
+        "text": "Which actor played the role of The Terminator in The Terminator?"
+      },
+      "tags": [
+        "film",
+        "cult_films",
+        "acting",
+        "general_knowledge",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f96",
+      "correctAnswer": "William Shakespeare",
+      "incorrectAnswers": [
+        "Arthur C. Clarke",
+        "Isaac Newton",
+        "Enid Blyton"
+      ],
+      "question": {
+        "text": "Which author wrote 'A Midsummer Night's Dream'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602dab957e77cecfa4ec32",
+      "correctAnswer": "Mumbai",
+      "incorrectAnswers": [
+        "Sydney",
+        "Taipei",
+        "Yokohama"
+      ],
+      "question": {
+        "text": "Which of these cities is in India?"
+      },
+      "tags": [
+        "cities",
+        "asia",
+        "india",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d48",
+      "correctAnswer": "One Direction",
+      "incorrectAnswers": [
+        "Blur",
+        "The Beatles",
+        "U2"
+      ],
+      "question": {
+        "text": "Which band did Liam Payne belong to?"
+      },
+      "tags": [
+        "people",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501a9",
+      "correctAnswer": "Harry Potter",
+      "incorrectAnswers": [
+        "Voyages Extraordinaires",
+        "Percy Jackson & the Olympians",
+        "Twilight"
+      ],
+      "question": {
+        "text": "In which book series does 'Neville Longbottom' appear?"
       },
       "tags": [
         "fictitious_characters",
-        "film",
-        "general_knowledge",
-        "film_and_tv"
+        "literature",
+        "young_adult",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64746b6f5a4c31088dd9d05b",
+      "correctAnswer": "Bell-bottoms",
+      "incorrectAnswers": [
+        "Cargo pants",
+        "Three-quarter lengths",
+        "Trumpet pants"
+      ],
+      "question": {
+        "text": "What type of flared pants were popular during the era of disco music?"
+      },
+      "tags": [
+        "fashion",
+        "society_and_culture",
+        "clothing"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ec2e7f41d6338b96eedd",
+      "correctAnswer": "Greek philosopher.",
+      "incorrectAnswers": [
+        "Principle author of the US Declaration of Independence.",
+        "Queen of Castille, who helped create a powerful and unified state of Spain whose influence spread to the Americas.",
+        "Conquistador who conquered the Aztec lands of modern-day Mexico."
+      ],
+      "question": {
+        "text": "Which of the following describes Plato?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
