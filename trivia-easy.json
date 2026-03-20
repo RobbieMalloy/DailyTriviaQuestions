@@ -1,21 +1,87 @@
 {
-  "gameDate": "2026-03-19",
+  "gameDate": "2026-03-20",
   "difficulty": "easy",
   "results": [
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95048b",
-      "correctAnswer": "society",
+      "category": "sport_and_leisure",
+      "id": "64626286ab138b829b81ea07",
+      "correctAnswer": "Javelin",
       "incorrectAnswers": [
-        "bones",
-        "the preparation of books and manuscripts",
-        "nematodes"
+        "Shot put",
+        "Discus",
+        "Hammer throw"
       ],
       "question": {
-        "text": "What is Sociology the study of?"
+        "text": "Which Olympic sport involves throwing a spear?"
       },
       "tags": [
-        "science"
+        "athletics",
+        "olympics",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8c9",
+      "correctAnswer": "Tennis",
+      "incorrectAnswers": [
+        "Football",
+        "Table tennis",
+        "Motor Racing"
+      ],
+      "question": {
+        "text": "With which sport is Serena Williams associated?"
+      },
+      "tags": [
+        "people",
+        "general_knowledge",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fb99",
+      "correctAnswer": "\"Let it Be\" by the Beatles",
+      "incorrectAnswers": [
+        "\"Man! I Feel Like a Woman!\" by Shania Twain",
+        "\"In da Club\" by 50 Cent",
+        "\"Welcome to the Black Parade\" by My Chemical Romance"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"When I find myself in times of trouble, Mother Mary comes to me / Speaking words of wisdom, let it be...\"?"
+      },
+      "tags": [
+        "lyrics",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625741309da29df7b05f740d",
+      "correctAnswer": "The Exorcist",
+      "incorrectAnswers": [
+        "Up",
+        "Green Book",
+        "Sunset Blvd."
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'When a girl is possessed, her mother seeks the help of two priests to save her.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -24,60 +90,18 @@
     },
     {
       "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f9503f9",
-      "correctAnswer": "Robots",
+      "id": "6488889b5dba6c873ef65060",
+      "correctAnswer": "The spin",
       "incorrectAnswers": [
-        "Aliens",
-        "Gods",
-        "Wizards"
+        "The tumble",
+        "The shake",
+        "The toss"
       ],
       "question": {
-        "text": "Transformers are ___________ in disguise. "
+        "text": "What is the name of the cycle in a washing machine that dries clothes?"
       },
       "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c60c095b12387e142c79b",
-      "correctAnswer": "Ramen",
-      "incorrectAnswers": [
-        "Ceviche",
-        "Plov",
-        "Chilli Crab"
-      ],
-      "question": {
-        "text": "Which of these dishes would you most expect to find in Japan?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6462624dab138b829b81e9f0",
-      "correctAnswer": "Lingerie",
-      "incorrectAnswers": [
-        "Corsetry",
-        "Foundation garments",
-        "Intimates"
-      ],
-      "question": {
-        "text": "What is the fancy name for women's underwear, which is derived from a French word?"
-      },
-      "tags": [
-        "clothing",
-        "fashion",
+        "general_knowledge",
         "words"
       ],
       "type": "text_choice",
@@ -86,22 +110,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623b578afd6c701a92118364",
-      "correctAnswer": "Egypt",
+      "category": "general_knowledge",
+      "id": "646140784d46e537ca8cd9c1",
+      "correctAnswer": "Buoyancy",
       "incorrectAnswers": [
-        "Indonesia",
-        "Peru",
-        "Mexico"
+        "Liquefaction",
+        "Oscillation",
+        "Gravity"
       ],
       "question": {
-        "text": "In which country would you find the Pyramids of Giza?"
+        "text": "What is the term for the tendency of an object to float, or the upward pressure of fluid in an object?"
       },
       "tags": [
-        "tourist_attractions",
-        "classics",
-        "general_knowledge",
-        "geography"
+        "words"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -109,65 +130,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fbaf",
-      "correctAnswer": "\"Mr. Brightside\" by The Killers",
+      "category": "food_and_drink",
+      "id": "64fb150b717513cb79190392",
+      "correctAnswer": "Gravy",
       "incorrectAnswers": [
-        "\"SpongeBob SquarePants Theme\" by Painty the Pirate",
-        "\"Hooked on a Feeling\" by B.J. Thomas",
-        "\"Let's Go Crazy\" by Prince and The Revolution"
+        "Salt",
+        "Bread",
+        "Cheese"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"Coming out of my cage / And I've been doing just fine...\"?"
+        "text": "On a dinner table, what item might served in a 'boat'?"
       },
       "tags": [
-        "songs",
-        "lyrics",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fb9d",
-      "correctAnswer": "SpongeBob SquarePants",
-      "incorrectAnswers": [
-        "Pokémon",
-        "The Simpsons",
-        "Rugrats"
-      ],
-      "question": {
-        "text": "Which cartoon theme song begins with the lyrics: \"ARE YE READY, KIDS?\"?"
-      },
-      "tags": [
-        "songs",
-        "lyrics",
-        "cartoons"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6486be3159bc33d1c362f320",
-      "correctAnswer": "St. Valentine",
-      "incorrectAnswers": [
-        "St. Patrick",
-        "St. Michael",
-        "St. Francis"
-      ],
-      "question": {
-        "text": "Which saint is celebrated on February 14th?"
-      },
-      "tags": [
-        "traditions",
-        "celebrations",
-        "society_and_culture"
+        "food_and_drink",
+        "food"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -176,19 +152,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9507bb",
-      "correctAnswer": "Clint Eastwood",
+      "id": "622a1c347cc59eab6f94fbcd",
+      "correctAnswer": "\"With great power comes great responsiblity.\"",
       "incorrectAnswers": [
-        "Matt Damon",
-        "Robert De Niro",
-        "Sean Connery"
+        "\"I love lamp.\"",
+        "\"Which would be worse, to live a monster or die as a good man?\"",
+        "\"La-dee-da, la-dee-da.\""
       ],
       "question": {
-        "text": "Which actor has featured in films including The Good, the Bad and the Ugly and Million Dollar Baby?"
+        "text": "Which of these quotes is from the film 'Spider-Man'?"
       },
       "tags": [
+        "quotes",
         "film",
-        "acting",
+        "marvel",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -197,21 +174,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "648888d65dba6c873ef650b1",
-      "correctAnswer": "Oompa Loompas",
+      "category": "sport_and_leisure",
+      "id": "647f9df73a4302a719271695",
+      "correctAnswer": "Pawns",
       "incorrectAnswers": [
-        "Ongo Bongos",
-        "Oogie Boogies",
-        "Pogre Ogres"
+        "Bishops",
+        "Knights",
+        "Rooks"
       ],
       "question": {
-        "text": "What are the name of the factory workers who love cacao beans in a classic children's book by Roald Dahl?"
+        "text": "Which chess piece is the most common?"
       },
       "tags": [
-        "childrens_literature",
-        "literature",
-        "arts_and_literature"
+        "chess",
+        "board_games",
+        "games"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -219,21 +196,41 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "64860e82113d76c6b63179f5",
-      "correctAnswer": "Inflation",
+      "category": "geography",
+      "id": "62602dcb014f58b5fc1a3fc5",
+      "correctAnswer": "New Zealand",
       "incorrectAnswers": [
-        "Deflation",
-        "Recession",
-        "Depression"
+        "Australia",
+        "Ireland",
+        "Canada"
       ],
       "question": {
-        "text": "In 2008, what economic phenomenon caused prices in Zimbabwe to double every 24.7 hours?"
+        "text": "In which country is the city of Auckland?"
       },
       "tags": [
-        "economics",
-        "society_and_culture",
-        "zimbabwe"
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740109da29df7b05f73c1",
+      "correctAnswer": "An NYPD officer tries to save his wife taken hostage by terrorists during a Christmas party.",
+      "incorrectAnswers": [
+        "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler.",
+        "The story of how the scandal of child molestation within the Boston Catholic church was uncovered.",
+        "A rat makes an unusual alliance with a young kitchen worker at a famous restaurant."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Die Hard?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -242,19 +239,17 @@
     },
     {
       "category": "music",
-      "id": "622a1c347cc59eab6f94fbb3",
-      "correctAnswer": "\"Pokémon Theme\" by Jason Paige",
+      "id": "622a1c397cc59eab6f950cd7",
+      "correctAnswer": "Queen",
       "incorrectAnswers": [
-        "\"Let it Be\" by the Beatles",
-        "\"I'm Real (Murder Remix) by Jennifer Lopez and Ja Rule",
-        "\"In da Club\" by 50 Cent"
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"I wanna be the very best...\"?"
+        "text": "Which British rock band released the song 'We Are the Champions'?"
       },
       "tags": [
-        "lyrics",
-        "general_knowledge",
         "music"
       ],
       "type": "text_choice",
@@ -263,19 +258,64 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "65056f7f7a97013de78b545e",
-      "correctAnswer": "Cricket",
+      "category": "society_and_culture",
+      "id": "62ab32d25202de619af28129",
+      "correctAnswer": "Porsche",
       "incorrectAnswers": [
-        "Javelin throw",
-        "Archery",
-        "Karate"
+        "Volkswagen",
+        "Rolls-Royce",
+        "Citroën"
       ],
       "question": {
-        "text": "Which of these sports uses a ball?"
+        "text": "The 911 is a model of car made by which manufacturer?"
       },
       "tags": [
-        "sport_and_leisure",
+        "motoring",
+        "business",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64860e82113d76c6b63179fc",
+      "correctAnswer": "Hebrew",
+      "incorrectAnswers": [
+        "Arabic",
+        "English",
+        "Greek"
+      ],
+      "question": {
+        "text": "What is the official language of Israel?"
+      },
+      "tags": [
+        "countries",
+        "israel",
+        "languages",
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950083",
+      "correctAnswer": "Basketball",
+      "incorrectAnswers": [
+        "Volleyball",
+        "Football",
+        "Baseball"
+      ],
+      "question": {
+        "text": "What Sport Do The Harlem Globetrotters Play?"
+      },
+      "tags": [
         "sport"
       ],
       "type": "text_choice",
@@ -285,21 +325,42 @@
     },
     {
       "category": "science",
-      "id": "6242cafdd543524f1b19c901",
-      "correctAnswer": "A flock",
+      "id": "624334f8cfaae40c12961479",
+      "correctAnswer": "A Piglet",
       "incorrectAnswers": [
-        "A fall",
-        "A gang",
-        "A yoke"
+        "A Maggot",
+        "A Cygnet",
+        "A Colt"
       ],
       "question": {
-        "text": "What is the word for a group of birds?"
+        "text": "What is the word for a young pig?"
       },
       "tags": [
-        "birds",
+        "animals",
         "words",
-        "general_knowledge",
         "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "64a094bccf8fd58080ceffda",
+      "correctAnswer": "A touchdown",
+      "incorrectAnswers": [
+        "A field goal",
+        "An interception",
+        "A sack"
+      ],
+      "question": {
+        "text": "In the sport of American football, what is the term for scoring 6 points by carrying the ball into the opponent's end zone?"
+      },
+      "tags": [
+        "football",
+        "american_football",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -308,41 +369,21 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eaf",
-      "correctAnswer": "J. K. Rowling",
+      "id": "622a1c3a7cc59eab6f95139c",
+      "correctAnswer": "Harry Potter",
       "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
+        "A Song of Ice and Fire",
+        "The Lord of the Rings",
+        "Twilight"
       ],
       "question": {
-        "text": "Which author wrote 'Harry Potter and the Half-Blood Prince'?"
+        "text": "In which book series does Draco Malfoy appear?"
       },
       "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbdb",
-      "correctAnswer": "\"This is the day you will always remember as the day you almost caught Captain Jack Sparrow!\"",
-      "incorrectAnswers": [
-        "\"My precious.\"",
-        "\"I'll get you, my pretty, and your little dog, too!\"",
-        "\"Keep your friends close, but your enemies closer.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Pirates of the Caribbean: The Curse of the Black Pearl'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "general_knowledge",
-        "film_and_tv"
+        "arts_and_literature",
+        "literature",
+        "fictitious_characters",
+        "young_adult"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -351,17 +392,18 @@
     },
     {
       "category": "science",
-      "id": "62433403cfaae40c12961419",
-      "correctAnswer": "A Tadpole",
+      "id": "622a1c377cc59eab6f95059a",
+      "correctAnswer": "Spiders",
       "incorrectAnswers": [
-        "A Calf",
-        "A Piglet",
-        "A Maggot"
+        "Bones",
+        "Rheumatic diseases",
+        "Buddha"
       ],
       "question": {
-        "text": "What would you call a baby frog?"
+        "text": "What is Arachnology the study of?"
       },
       "tags": [
+        "words",
         "science"
       ],
       "type": "text_choice",
@@ -370,21 +412,81 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd70",
-      "correctAnswer": "Cher",
+      "category": "food_and_drink",
+      "id": "64a094bccf8fd58080ceffdd",
+      "correctAnswer": "Jamaica",
       "incorrectAnswers": [
-        "Lady Gaga",
-        "Sia",
-        "Madonna"
+        "Cuba",
+        "Mexico",
+        "Brazil"
       ],
       "question": {
-        "text": "Whose Real Name Is 'Cherilyn Sarkisian La Pier'?"
+        "text": "Where did jerk chicken originate?"
       },
       "tags": [
-        "pseudonyms",
-        "people",
-        "music"
+        "cuisine",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbc5",
+      "correctAnswer": "\"I love lamp.\"",
+      "incorrectAnswers": [
+        "\"Rosebud.\"",
+        "\"You're gonna need a bigger boat.\"",
+        "\"Shane. Shane. Come back!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Anchorman: The Legend of Ron Burgundy'?"
+      },
+      "tags": [
+        "songs",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "63d8d44c168979b94b2e4f65",
+      "correctAnswer": "Goalkeeper",
+      "incorrectAnswers": [
+        "Wing back",
+        "Centre Half",
+        "Linesman"
+      ],
+      "question": {
+        "text": "In football (soccer), which player uses their hands stop the opposition scoring?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623740e7cb85f7ce9e949d2e",
+      "correctAnswer": "Tokyo",
+      "incorrectAnswers": [
+        "Osaka",
+        "Okinawa",
+        "Shanghai"
+      ],
+      "question": {
+        "text": "What is the capital city of Japan?"
+      },
+      "tags": [
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -393,20 +495,21 @@
     },
     {
       "category": "music",
-      "id": "62506447e12f6dec240bdfa7",
-      "correctAnswer": "I'm Gonna Be (500 Miles)",
+      "id": "645bc4634638d58091b1b9d2",
+      "correctAnswer": "Mamma Mia!",
       "incorrectAnswers": [
-        "Puttin' on the Ritz",
-        "Unbelievable",
-        "I'm Too Sexy"
+        "Grease",
+        "West Side Story",
+        "Les Misérables"
       ],
       "question": {
-        "text": "The Proclaimers had a one hit wonder in 1989 with which song?"
+        "text": "Which popular musical features the music of ABBA?"
       },
       "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
+        "musicals",
+        "music",
+        "abba",
+        "theater"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -415,20 +518,17 @@
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f951555",
-      "correctAnswer": "Samosa",
+      "id": "65056ed77a97013de78b5372",
+      "correctAnswer": "Cranberry",
       "incorrectAnswers": [
-        "Pakora",
-        "Curry",
-        "Bhaji"
+        "Land cress",
+        "Spinach",
+        "Mustard"
       ],
       "question": {
-        "text": "What name is given to an Indian deep fried triangular pastry?"
+        "text": "Which of these is a fruit?"
       },
       "tags": [
-        "food",
-        "india",
-        "pastry",
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -438,20 +538,18 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950d49",
-      "correctAnswer": "One Direction",
+      "id": "6266bc4ab0e62e469cf43e90",
+      "correctAnswer": "Stringed",
       "incorrectAnswers": [
-        "Boyzone",
-        "Backstreet Boys",
-        "Blur"
+        "Woodwind",
+        "Brass",
+        "Percussion"
       ],
       "question": {
-        "text": "Which band did Harry Styles start his career with?"
+        "text": "What type of instrument is a banjo?"
       },
       "tags": [
-        "music",
-        "pop_music",
-        "bands"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -459,41 +557,46 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950169",
-      "correctAnswer": "Romeo",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff37",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
-        "Juliet",
-        "Hamlet",
-        "Paris"
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "Who said 'But, soft! what light through yonder window breaks'?"
+        "text": "'Billie Jean' is a song by which musician?"
       },
       "tags": [
-        "theater"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f896",
-      "correctAnswer": "Motor racing",
-      "incorrectAnswers": [
-        "Hockey",
-        "Track and field",
-        "Table tennis"
-      ],
-      "question": {
-        "text": "With which sport is Michael Schumacher associated?"
-      },
-      "tags": [
+        "songs",
+        "musicians",
+        "1980's",
         "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd5a",
+      "correctAnswer": "The Fresh Prince",
+      "incorrectAnswers": [
+        "DJ Jazzy Jeff",
+        "Eminem",
+        "Jay Z"
+      ],
+      "question": {
+        "text": "What is Will Smith's Rapper Alter Ego?"
+      },
+      "tags": [
+        "pseudonyms",
         "people",
-        "sport"
+        "musicians",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -501,131 +604,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f950008",
-      "correctAnswer": "Rome",
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503fe",
+      "correctAnswer": "Aqueduct",
       "incorrectAnswers": [
-        "Milan",
-        "Naples",
-        "Florence"
+        "Canal",
+        "Forum",
+        "Arena"
       ],
       "question": {
-        "text": "In which city is the colosseum located?"
+        "text": "What did the Romans build to convey water? "
       },
       "tags": [
-        "tourist_attractions",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc31",
-      "correctAnswer": "\"It's alive! It's alive!\"",
-      "incorrectAnswers": [
-        "\"Stella! Hey, Stella!\"",
-        "\"My precious...\"",
-        "\"I'm walkin' here!\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Frankenstein'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "65056f247a97013de78b53de",
-      "correctAnswer": "Mausoleum",
-      "incorrectAnswers": [
-        "Palace",
-        "Mosque",
-        "Tomb"
-      ],
-      "question": {
-        "text": "What kind of structure is the Taj Mahal?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056e397a97013de78b5296",
-      "correctAnswer": "Grapes",
-      "incorrectAnswers": [
-        "Apples",
-        "Cherries",
-        "Dates"
-      ],
-      "question": {
-        "text": "Which fruit is typically used to make wine?"
-      },
-      "tags": [
-        "food_and_drink",
-        "wine",
-        "drink",
-        "alcohol",
-        "fruit"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6462628bab138b829b81ea25",
-      "correctAnswer": "Transylvania",
-      "incorrectAnswers": [
-        "Moldova",
-        "Dobruja",
-        "Banat"
-      ],
-      "question": {
-        "text": "What is the name of the Romanian region that is known for vampire legends?"
-      },
-      "tags": [
-        "romania",
-        "vampires",
-        "geography",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "649fcf8eebb41911d4cbd6e3",
-      "correctAnswer": "A bullet",
-      "incorrectAnswers": [
-        "A space rocket",
-        "A submarine",
-        "A pen"
-      ],
-      "question": {
-        "text": "What type of object does the title of the movie 'Full Metal Jacket' refer to?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -634,18 +625,19 @@
     },
     {
       "category": "science",
-      "id": "624333a2cfaae40c129613f4",
-      "correctAnswer": "A Doe",
+      "id": "622a1c377cc59eab6f95056f",
+      "correctAnswer": "Crime",
       "incorrectAnswers": [
-        "A Pen",
-        "A Mare",
-        "A Nanny"
+        "Human growth",
+        "Spiders",
+        "The color red"
       ],
       "question": {
-        "text": "A female deer is known as what?"
+        "text": "What is criminology the study of?"
       },
       "tags": [
-        "science"
+        "science",
+        "words"
       ],
       "type": "text_choice",
       "difficulty": "easy",

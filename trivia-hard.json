@@ -1,23 +1,154 @@
 {
-  "gameDate": "2026-03-19",
+  "gameDate": "2026-03-20",
   "difficulty": "hard",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "63f39525989356ef48370c2c",
-      "correctAnswer": "Apple",
+      "category": "music",
+      "id": "646089a2de964ebc39016c61",
+      "correctAnswer": "Prince",
       "incorrectAnswers": [
-        "Mango",
-        "Peach",
-        "Plum"
+        "Madonna",
+        "Michael Jackson",
+        "Elton John"
       ],
       "question": {
-        "text": "Which of these fruits is not a drupe?"
+        "text": "What singer's \"Lovesexy\" album caused a controversy when some stores refused to stock it due to the nude cover?"
       },
       "tags": [
-        "food_and_drink",
-        "food",
-        "fruit"
+        "controversies",
+        "music_albums",
+        "music",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950040",
+      "correctAnswer": "Boris Becker",
+      "incorrectAnswers": [
+        "Roger Federer",
+        "Björn Borg",
+        "Pete Sampras"
+      ],
+      "question": {
+        "text": "Who was the first unseeded player to win Wimbledon?"
+      },
+      "tags": [
+        "tennis",
+        "people",
+        "firsts",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3d7cc59eab6f951c61",
+      "correctAnswer": "Mickey Rooney",
+      "incorrectAnswers": [
+        "Mick Jagger",
+        "Mickey Rourke",
+        "Micky Cohen"
+      ],
+      "question": {
+        "text": "After who was Mickey Mouse named?"
+      },
+      "tags": [
+        "fictitious_characters",
+        "cartoons",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64fb150b717513cb79190391",
+      "correctAnswer": "St. Peter",
+      "incorrectAnswers": [
+        "Jesus",
+        "The Angel Gabriel",
+        "Judas"
+      ],
+      "question": {
+        "text": "In biblical art, who is often depicted holding a key?"
+      },
+      "tags": [
+        "art",
+        "christianity",
+        "society_and_culture",
+        "religion"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd79",
+      "correctAnswer": "The Righteous Brothers",
+      "incorrectAnswers": [
+        "The Isley Brothers",
+        "Wham!",
+        "The Temptations"
+      ],
+      "question": {
+        "text": "Who Were Bobby Hatfield & Bill Medley?"
+      },
+      "tags": [
+        "people",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950a32",
+      "correctAnswer": "Turkey",
+      "incorrectAnswers": [
+        "Montenegro",
+        "Serbia",
+        "Bosnia and Herzegovina"
+      ],
+      "question": {
+        "text": "Which of these countries borders Greece?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ec3",
+      "correctAnswer": "John le Carré",
+      "incorrectAnswers": [
+        "Agatha Christie",
+        "Georges Simenon",
+        "Charles Dickens"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Constant Gardener'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -26,15 +157,15 @@
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f951adb",
-      "correctAnswer": "Norway",
+      "id": "622a1c3c7cc59eab6f9519b3",
+      "correctAnswer": "Belize",
       "incorrectAnswers": [
-        "Denmark",
-        "Sweden",
-        "Finland"
+        "Barbados",
+        "Guatemala",
+        "Jamaica"
       ],
       "question": {
-        "text": "London's Trafalgar Square Christmas tree is traditionally given by which country?"
+        "text": "What did British Honduras change its name to in 1973?"
       },
       "tags": [
         "history"
@@ -45,22 +176,42 @@
       "isNiche": false
     },
     {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe70",
+      "correctAnswer": "Lady Gaga",
+      "incorrectAnswers": [
+        "Hikaru Utada",
+        "Drake",
+        "Madonna"
+      ],
+      "question": {
+        "text": "Which American singer, songwriter, and actress released the studio album 'Artpop'?"
+      },
+      "tags": [
+        "music_albums",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
       "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f95008f",
-      "correctAnswer": "Philadelphia Eagles",
+      "id": "622a1c367cc59eab6f9503f6",
+      "correctAnswer": "Inky, Pinky, Blinky & Clyde",
       "incorrectAnswers": [
-        "New England Patriots",
-        "Miami Dolphins",
-        "Dallas Cowboys"
+        "Inky, Pinky, Blinky & Floyd",
+        "Dinky, Pinky, Winky & Clyde",
+        "Dinky, Pinky, Blinky & Floyd"
       ],
       "question": {
-        "text": "What football team was formerly known as the Frankford Yellow Jackets?"
+        "text": "What Are The Names Of The Ghosts In The Classic 80's Video Game Pac Man? "
       },
       "tags": [
-        "previous_names",
-        "sport",
-        "american_football",
-        "football"
+        "video_games",
+        "1980's",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -68,19 +219,19 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "624ab0bc348a461bfc670694",
-      "correctAnswer": "The Middle East",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a11",
+      "correctAnswer": "James Garfield",
       "incorrectAnswers": [
-        "Central Asia",
-        "Africa",
-        "South America"
+        "John F Kennedy",
+        "Abraham Lincoln",
+        "Bill Buchanan"
       ],
       "question": {
-        "text": "Where in the world are peas originally from?"
+        "text": "Which U.S. president was fatally shot in 1881?"
       },
       "tags": [
-        "food_and_drink"
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -88,22 +239,44 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb0b",
-      "correctAnswer": "Charlize Theron",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe9c",
+      "correctAnswer": "Rihanna",
       "incorrectAnswers": [
-        "Keisha Castle-Hughes",
-        "Diane Keaton",
-        "Samantha Morton"
+        "Drake",
+        "Nicki Minaj",
+        "Ricky Martin"
       ],
       "question": {
-        "text": "Who won the 2003 Academy Award for Best Leading Actress for playing the role of Aileen Wuornos in Monster?"
+        "text": "Which singer released the studio album 'Rated R'?"
       },
       "tags": [
-        "acting",
-        "academy_awards",
-        "film",
-        "film_and_tv"
+        "music_albums",
+        "musicians",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c3a7cc59eab6f951017",
+      "correctAnswer": "Chevrolet",
+      "incorrectAnswers": [
+        "Ford",
+        "Gmc",
+        "Pontiac"
+      ],
+      "question": {
+        "text": "What Make Of Car Did Don Mclean Drive To The Levy In American Pie?"
+      },
+      "tags": [
+        "lyrics",
+        "songs",
+        "motoring",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -112,15 +285,15 @@
     },
     {
       "category": "geography",
-      "id": "623b57b1fd6c701a92118373",
-      "correctAnswer": "Turkey",
+      "id": "623b57f7fd6c701a9211838d",
+      "correctAnswer": "New Zealand",
       "incorrectAnswers": [
-        "Hungary",
-        "Iran",
-        "Vietnam"
+        "Cambodia",
+        "Italy",
+        "Tanzania"
       ],
       "question": {
-        "text": "In which country would you find the UNESCO World Heritage site of Cappadocia?"
+        "text": "In which country would you find the Tongariro National Park?"
       },
       "tags": [
         "geography"
@@ -131,105 +304,20 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95028a",
-      "correctAnswer": "Choux ",
-      "incorrectAnswers": [
-        "Filo",
-        "Shortcrust",
-        "Puff"
-      ],
-      "question": {
-        "text": "What type of pastry is used for profiteroles?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e5b",
-      "correctAnswer": "Nathaniel Hawthorne",
-      "incorrectAnswers": [
-        "Robert E. Howard",
-        "Henryk Sienkiewicz",
-        "Charles Dickens"
-      ],
-      "question": {
-        "text": "Which author wrote 'A Wonder-Book for Girls and Boys'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc56",
-      "correctAnswer": "Widdershins",
-      "incorrectAnswers": [
-        "Borborygmus",
-        "Meldrop",
-        "Kakorrhaphiophobia"
-      ],
-      "question": {
-        "text": "Which word is defined as 'adin a left-handed or contrary direction; counterclockwise'?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fdb3",
-      "correctAnswer": "Aaron",
-      "incorrectAnswers": [
-        "Andrew",
-        "Brian",
-        "Andy"
-      ],
-      "question": {
-        "text": "What Is Elvis Presleys Middle Name?"
-      },
-      "tags": [
-        "people",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "623389220161109f922aaccc",
-      "correctAnswer": "New Jersey",
+      "id": "623386af62eaad73716a8ceb",
+      "correctAnswer": "The Bronx ",
       "incorrectAnswers": [
-        "Oregon",
-        "Hawaii",
-        "Montana"
+        "Brooklyn",
+        "Staten Island",
+        "The Jersey Shore"
       ],
       "question": {
-        "text": "Which US state is nicknamed the Garden State?"
+        "text": "Which Borough of New York is northeast of and adjacent to Manhattan?"
       },
       "tags": [
-        "names",
-        "nicknames",
-        "us_states",
+        "new_york",
+        "cities",
         "usa",
         "geography"
       ],
@@ -239,276 +327,21 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f858",
-      "correctAnswer": "Football",
+      "category": "music",
+      "id": "6250648fe12f6dec240bdfbc",
+      "correctAnswer": "Maniac",
       "incorrectAnswers": [
-        "Table tennis",
-        "Ice Hockey",
-        "Surfing"
+        "Convoy",
+        "Just a Friend",
+        "Tainted Love"
       ],
       "question": {
-        "text": "With which sport is Alex Ferguson associated?"
+        "text": "What song did Michael Sembello have a hit with in 1983?"
       },
       "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c60c750d1a5e051325a72",
-      "correctAnswer": "The Middle East",
-      "incorrectAnswers": [
-        "Japan",
-        "Cambodia",
-        "Scandinavia"
-      ],
-      "question": {
-        "text": "Where in the world would you most expect to be served Kibbeh?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe51",
-      "correctAnswer": "The Black Sea ",
-      "incorrectAnswers": [
-        "The Mediterranean",
-        "The Dead Sea",
-        "The Aegean Sea"
-      ],
-      "question": {
-        "text": "Into Which Sea Does The river Danube Flow?"
-      },
-      "tags": [
-        "rivers",
-        "bodies_of_water",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950564",
-      "correctAnswer": "Trees",
-      "incorrectAnswers": [
-        "Agriculture",
-        "Crayfish",
-        "Ionising radiation"
-      ],
-      "question": {
-        "text": "What is Dendrology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951005",
-      "correctAnswer": "Titan",
-      "incorrectAnswers": [
-        "Io",
-        "Europa",
-        "Luna"
-      ],
-      "question": {
-        "text": "Which moon is the second largest satellite in our solar system?"
-      },
-      "tags": [
-        "astronomy",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "6477bb1e550bc819ad646b7d",
-      "correctAnswer": "Moby-Dick",
-      "incorrectAnswers": [
-        "Pride and Prejudice",
-        "To Kill a Mockingbird",
-        "Great Expectations"
-      ],
-      "question": {
-        "text": "Which famous novel features the chapter titled 'Queequeg in His Coffin'?"
-      },
-      "tags": [
-        "classic_novels",
-        "novels",
-        "arts_and_literature",
-        "literature",
-        "fictitious_characters"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa4b",
-      "correctAnswer": "Surrealism",
-      "incorrectAnswers": [
-        "Impressionism",
-        "Dutch and Flemish Renaissance",
-        "Crystal Cubism"
-      ],
-      "question": {
-        "text": "The painting \"The Son of Man\" by René Magritte is a part of which art movement?"
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd3e",
-      "correctAnswer": "Gujarati",
-      "incorrectAnswers": [
-        "Tamil",
-        "Telugu",
-        "Malayalam"
-      ],
-      "question": {
-        "text": "Which of these Indian languages falls into the \"Indo-Aryan\" language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fc9b",
-      "correctAnswer": "Indo-European",
-      "incorrectAnswers": [
-        "Kra–Dai",
-        "Turkic",
-        "Austronesian"
-      ],
-      "question": {
-        "text": "The language 'Sylheti' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "627164ab1ba117625baac96d",
-      "correctAnswer": "Horilka",
-      "incorrectAnswers": [
-        "Schnapps",
-        "Grappa",
-        "Waragi"
-      ],
-      "question": {
-        "text": "Which of these is a popular drink in Ukraine?"
-      },
-      "tags": [
-        "drink",
-        "alcohol",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62399ede43254f1dbcdd082c",
-      "correctAnswer": "Brazil",
-      "incorrectAnswers": [
-        "France",
-        "Germany",
-        "Spain"
-      ],
-      "question": {
-        "text": "Which country won the 2002 FIFA World Cup, hosted in South Korea & Japan?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f984",
-      "correctAnswer": "The Remains of the Day",
-      "incorrectAnswers": [
-        "Post Office",
-        "Heart of Darkness",
-        "Lucky Jim"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Stevens'?"
-      },
-      "tags": [
-        "film",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fe4f",
-      "correctAnswer": "The Netherlands ",
-      "incorrectAnswers": [
-        "Belgium",
-        "Sweden",
-        "Spain"
-      ],
-      "question": {
-        "text": "KLM Is The National Airline Of Which Country?"
-      },
-      "tags": [
-        "business"
+        "songs",
+        "one_hit_wonders",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -517,20 +350,127 @@
     },
     {
       "category": "music",
-      "id": "646262c1ab138b829b81ea5f",
-      "correctAnswer": "James Taylor",
+      "id": "622a1c397cc59eab6f950c9f",
+      "correctAnswer": "The Rolling Stones",
       "incorrectAnswers": [
-        "Elton John",
-        "Billy Joel",
-        "Paul Simon"
+        "McFly",
+        "Delirious?",
+        "Depeche Mode"
       ],
       "question": {
-        "text": "Who was the singer/songwriter who had his first top 40 hit with \"Fire and Rain\"?"
+        "text": "Which English rock band released the song 'Angie'?"
       },
       "tags": [
-        "music",
-        "musicians",
-        "songs"
+        "rock_music",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "646140b54d46e537ca8cda06",
+      "correctAnswer": "Circe",
+      "incorrectAnswers": [
+        "Medusa",
+        "Calypso",
+        "Aphrodite"
+      ],
+      "question": {
+        "text": "In Ancient Greek mythology, which enchantress changes Ulysses' men into pigs, but also warns him about the sirens?"
+      },
+      "tags": [
+        "classics",
+        "ancient_greece",
+        "mythology",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9505a8",
+      "correctAnswer": "Organic particles",
+      "incorrectAnswers": [
+        "Existence",
+        "Ticks and mites",
+        "Sleep"
+      ],
+      "question": {
+        "text": "What is Aerobiology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "646339a001d576cfac3aa3a1",
+      "correctAnswer": "The Green Bay Packers",
+      "incorrectAnswers": [
+        "The Dallas Cowboys",
+        "The Pittsburgh Steelers",
+        "The New England Patriots"
+      ],
+      "question": {
+        "text": "Which NFL team, known for its fans' distinctive cheese wedge hats, is also nicknamed \"Cheeseheads\"?"
+      },
+      "tags": [
+        "football",
+        "american_football",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c367cc59eab6f9503d3",
+      "correctAnswer": "The Hula Hoop",
+      "incorrectAnswers": [
+        "Rubix Cube",
+        "Slinky",
+        "Pog"
+      ],
+      "question": {
+        "text": "What toy was released in 1957, creating an instant craze among children?"
+      },
+      "tags": [
+        "1950's",
+        "toys",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f95009c",
+      "correctAnswer": "3,000 Metres",
+      "incorrectAnswers": [
+        "10,000 Metres",
+        "5,000 Metres",
+        "8,000 Metres"
+      ],
+      "question": {
+        "text": "Over What Distance Is A Steeple Chase Run?"
+      },
+      "tags": [
+        "olympics",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -539,17 +479,18 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f928",
-      "correctAnswer": "National Lampoon's Animal House",
+      "id": "622a1c347cc59eab6f94f8de",
+      "correctAnswer": "John Wayne",
       "incorrectAnswers": [
-        "Jaws",
-        "Psycho",
-        "Scarface"
+        "Burt Lancaster",
+        "Mel Gibson",
+        "Jack Nicholson"
       ],
       "question": {
-        "text": "Which film contains the character 'John \"Bluto\" Blutarsky'?"
+        "text": "Which actor played the role of Ethan Edwards in The Searchers?"
       },
       "tags": [
+        "people",
         "acting",
         "film",
         "film_and_tv"
@@ -560,21 +501,63 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c397cc59eab6f950fbc",
-      "correctAnswer": "Galileo Galilei",
+      "category": "history",
+      "id": "65056f007a97013de78b53ac",
+      "correctAnswer": "James Cook",
       "incorrectAnswers": [
-        "Nicolas Copernicus",
-        "Thomas Edison",
-        "Alexander Fleming"
+        "Neil Armstrong",
+        "Francisco Pizarro",
+        "Vasco da Gama"
       ],
       "question": {
-        "text": "Who invented the telescope?"
+        "text": "Which explorer was killed on the Hawaiian Islands?"
       },
       "tags": [
+        "history",
+        "exploration",
         "people",
-        "inventions",
-        "astronomy",
+        "hawaii"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e6c7ff2394bd44dee064",
+      "correctAnswer": "Dieci",
+      "incorrectAnswers": [
+        "Zehn",
+        "Dez",
+        "Otto"
+      ],
+      "question": {
+        "text": "In Italian, what is the word for for 'ten'?"
+      },
+      "tags": [
+        "language",
+        "translations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510c7",
+      "correctAnswer": "206",
+      "incorrectAnswers": [
+        "310",
+        "233",
+        "280"
+      ],
+      "question": {
+        "text": "How Many Bones Are There In The Adult Human Body?"
+      },
+      "tags": [
         "science"
       ],
       "type": "text_choice",
@@ -583,21 +566,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "64f3a941601ffca0b7615de3",
-      "correctAnswer": "Cyndi Lauper",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fae5",
+      "correctAnswer": "Dustin Hoffman",
       "incorrectAnswers": [
-        "Madonna",
-        "Whitney Houston",
-        "Tina Turner"
+        "Jack Lemmon",
+        "Al Pacino",
+        "Roy Scheider"
       ],
       "question": {
-        "text": "Which artist released the album \"She's So Unusual\" in 1983?"
+        "text": "Who won the 1979 Academy Award for Best Leading Actor for playing the role of Ted Kramer in Kramer vs. Kramer?"
       },
       "tags": [
-        "music",
-        "1980's",
-        "music_albums"
+        "film",
+        "academy_awards",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -605,21 +588,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f978",
-      "correctAnswer": "Lonesome Dove",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f95101a",
+      "correctAnswer": "Central America",
       "incorrectAnswers": [
-        "In Our Time",
-        "The Moviegoer",
-        "The Swimmer"
+        "Africa",
+        "Indonesia",
+        "Japan"
       ],
       "question": {
-        "text": "Which book contains the character 'Augustus McCrae'?"
+        "text": "Where Is The Natural Habitat Of The Cheese Plant?"
       },
       "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
+        "plants",
+        "biology",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -628,20 +611,41 @@
     },
     {
       "category": "food_and_drink",
-      "id": "627164a81ba117625baac96c",
-      "correctAnswer": "Pastis",
+      "id": "622a1c367cc59eab6f9502c7",
+      "correctAnswer": "Breakfast Cereals ",
       "incorrectAnswers": [
-        "Whisky",
-        "Mastika",
-        "Caesar"
+        "Bread",
+        "Crisps",
+        "Chewing Gum"
       ],
       "question": {
-        "text": "Which of these drinks originates from France?"
+        "text": "What Foodstuff Is The Most Advertised In The UK?"
       },
       "tags": [
-        "drink",
-        "alcohol",
         "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c347cc59eab6f94f9fc",
+      "correctAnswer": "John Tyler",
+      "incorrectAnswers": [
+        "Lyndon Johnson",
+        "James Buchanan",
+        "Woodrow Wilson"
+      ],
+      "question": {
+        "text": "Who was the 10th president of the USA, in term during the period 1841–1845?"
+      },
+      "tags": [
+        "presidents",
+        "usa",
+        "1800's",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
