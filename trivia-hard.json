@@ -1,24 +1,22 @@
 {
-  "gameDate": "2026-03-20",
+  "gameDate": "2026-03-21",
   "difficulty": "hard",
   "results": [
     {
-      "category": "music",
-      "id": "646089a2de964ebc39016c61",
-      "correctAnswer": "Prince",
+      "category": "science",
+      "id": "6477bb12550bc819ad646b65",
+      "correctAnswer": "Antimatter",
       "incorrectAnswers": [
-        "Madonna",
-        "Michael Jackson",
-        "Elton John"
+        "Dark matter",
+        "Fluid matter",
+        "Matter waves"
       ],
       "question": {
-        "text": "What singer's \"Lovesexy\" album caused a controversy when some stores refused to stock it due to the nude cover?"
+        "text": "What type of matter is a positron?"
       },
       "tags": [
-        "controversies",
-        "music_albums",
-        "music",
-        "musicians"
+        "physics",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -26,22 +24,20 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950040",
-      "correctAnswer": "Boris Becker",
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f952316",
+      "correctAnswer": "PVC",
       "incorrectAnswers": [
-        "Roger Federer",
-        "Björn Borg",
-        "Pete Sampras"
+        "Plastic",
+        "Nylon",
+        "PoVy"
       ],
       "question": {
-        "text": "Who was the first unseeded player to win Wimbledon?"
+        "text": "Developed in the USA in 1930, by what name is poly vinyl chloride better known?"
       },
       "tags": [
-        "tennis",
-        "people",
-        "firsts",
-        "sport"
+        "words",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -49,21 +45,21 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c3d7cc59eab6f951c61",
-      "correctAnswer": "Mickey Rooney",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa27",
+      "correctAnswer": "‎Rembrandt van Rijn",
       "incorrectAnswers": [
-        "Mick Jagger",
-        "Mickey Rourke",
-        "Micky Cohen"
+        "Cassius Marcellus Coolidge",
+        "Raphael",
+        "Paul Cézanne"
       ],
       "question": {
-        "text": "After who was Mickey Mouse named?"
+        "text": "Which artist painted \"Night Watch\""
       },
       "tags": [
-        "fictitious_characters",
-        "cartoons",
-        "general_knowledge"
+        "painting",
+        "art",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -72,21 +68,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "64fb150b717513cb79190391",
-      "correctAnswer": "St. Peter",
+      "id": "645c9f6b42ea81e2554c5f2c",
+      "correctAnswer": "Ash Wednesday",
       "incorrectAnswers": [
-        "Jesus",
-        "The Angel Gabriel",
-        "Judas"
+        "Palm Sunday",
+        "Good Friday",
+        "Easter Sunday"
       ],
       "question": {
-        "text": "In biblical art, who is often depicted holding a key?"
+        "text": "On which day of the week does Lent begin?"
       },
       "tags": [
-        "art",
         "christianity",
-        "society_and_culture",
-        "religion"
+        "religion",
+        "traditions"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -94,20 +89,87 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd79",
-      "correctAnswer": "The Righteous Brothers",
+      "category": "food_and_drink",
+      "id": "624c60f150d1a5e051325a7e",
+      "correctAnswer": "Pelmeni",
       "incorrectAnswers": [
-        "The Isley Brothers",
-        "Wham!",
-        "The Temptations"
+        "Larb",
+        "Biryani",
+        "Khachapuri"
       ],
       "question": {
-        "text": "Who Were Bobby Hatfield & Bill Medley?"
+        "text": "Which of these dishes would you most expect to find in Russia?"
       },
       "tags": [
-        "people",
-        "music"
+        "food",
+        "russia",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "637162531bf863c45ca6c36b",
+      "correctAnswer": "Hodie mihi, cras tibi",
+      "incorrectAnswers": [
+        "Cras es, noster",
+        "Tendit in, ardua virtus",
+        "Vincit, qui patitur"
+      ],
+      "question": {
+        "text": "Which of these Latin phrases translates to 'Today it's me, tomorrow it will be you'?"
+      },
+      "tags": [
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f95007a",
+      "correctAnswer": "Golden Bear",
+      "incorrectAnswers": [
+        "Black Tiger",
+        "Silver Swan",
+        "Red Eagle"
+      ],
+      "question": {
+        "text": "What was Jack Nicklaus' nickname?"
+      },
+      "tags": [
+        "golf",
+        "nicknames",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "64f6d9b9660c3a8d960101eb",
+      "correctAnswer": "Good Will Hunting",
+      "incorrectAnswers": [
+        "The Bourne Identity",
+        "The Departed",
+        "Argo"
+      ],
+      "question": {
+        "text": "What film was co-written by Matt Damon and Ben Affleck?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -116,15 +178,15 @@
     },
     {
       "category": "geography",
-      "id": "622a1c387cc59eab6f950a32",
-      "correctAnswer": "Turkey",
+      "id": "62373f84cb85f7ce9e949ca0",
+      "correctAnswer": "Baku",
       "incorrectAnswers": [
-        "Montenegro",
-        "Serbia",
-        "Bosnia and Herzegovina"
+        "Palikir",
+        "Valletta",
+        "Monrovia"
       ],
       "question": {
-        "text": "Which of these countries borders Greece?"
+        "text": "What is the capital city of Azerbaijan?"
       },
       "tags": [
         "geography"
@@ -135,16 +197,122 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ec3",
-      "correctAnswer": "John le Carré",
+      "category": "sport_and_leisure",
+      "id": "62417d8c0f96c4efe8d773d2",
+      "correctAnswer": "Pittsburgh Pirates",
       "incorrectAnswers": [
-        "Agatha Christie",
-        "Georges Simenon",
-        "Charles Dickens"
+        "Pittsburgh Pistons",
+        "Pittsburgh Braves",
+        "Pittsburgh Astros"
       ],
       "question": {
-        "text": "Which author wrote 'The Constant Gardener'?"
+        "text": "Which of these is a baseball team based in Pittsburgh?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6471bcf37206d7c314606f66",
+      "correctAnswer": "Suckers",
+      "incorrectAnswers": [
+        "Tentacles",
+        "Pads",
+        "Grippers"
+      ],
+      "question": {
+        "text": "What is the name of the organ used by an octopus to cling to surfaces?"
+      },
+      "tags": [
+        "biology",
+        "zoology",
+        "words",
+        "animals",
+        "science",
+        "marine_life"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950baa",
+      "correctAnswer": "Nine Inch Nails",
+      "incorrectAnswers": [
+        "In This Moment",
+        "Nitty Gritty Dirt Band",
+        "Animal Collective"
+      ],
+      "question": {
+        "text": "Which American industrial rock band released the studio album 'The Downward Spiral'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951025",
+      "correctAnswer": "Stratosphere",
+      "incorrectAnswers": [
+        "Exosphere",
+        "Thermosphere",
+        "Mesosphere"
+      ],
+      "question": {
+        "text": "What is the troposphere immediately lower than?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd6acdc0dd3b72da64d02",
+      "correctAnswer": "2012",
+      "incorrectAnswers": [
+        "2006",
+        "2008",
+        "2010"
+      ],
+      "question": {
+        "text": "In which year was Django Unchained released?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f72",
+      "correctAnswer": "Stephen King",
+      "incorrectAnswers": [
+        "H. P. Lovecraft",
+        "Edgar Allan Poe",
+        "Jack Vance"
+      ],
+      "question": {
+        "text": "Which author wrote 'Full Dark, No Stars'?"
       },
       "tags": [
         "literature",
@@ -156,19 +324,62 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9519b3",
-      "correctAnswer": "Belize",
+      "category": "science",
+      "id": "622a1c377cc59eab6f950465",
+      "correctAnswer": "Wood",
       "incorrectAnswers": [
-        "Barbados",
-        "Guatemala",
-        "Jamaica"
+        "Fossils",
+        "Handwriting",
+        "Mountains"
       ],
       "question": {
-        "text": "What did British Honduras change its name to in 1973?"
+        "text": "What is Xylology the study of?"
       },
       "tags": [
-        "history"
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd67cdc0dd3b72da64cf4",
+      "correctAnswer": "1991",
+      "incorrectAnswers": [
+        "1983",
+        "1987",
+        "1995"
+      ],
+      "question": {
+        "text": "In which year was The Silence of the Lambs released?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "648889155dba6c873ef650cd",
+      "correctAnswer": "Ginger Spice",
+      "incorrectAnswers": [
+        "Scary Spice",
+        "Baby Spice",
+        "Posh Spice"
+      ],
+      "question": {
+        "text": "Which Spice Girl made a guest appearance in an episode of Sex and the City?"
+      },
+      "tags": [
+        "tv",
+        "film_and_tv",
+        "sitcoms"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -177,188 +388,15 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fe70",
-      "correctAnswer": "Lady Gaga",
+      "id": "622a1c397cc59eab6f950c5a",
+      "correctAnswer": "Iron Maiden",
       "incorrectAnswers": [
-        "Hikaru Utada",
-        "Drake",
-        "Madonna"
+        "Deep Purple",
+        "Feeder",
+        "Squeeze"
       ],
       "question": {
-        "text": "Which American singer, songwriter, and actress released the studio album 'Artpop'?"
-      },
-      "tags": [
-        "music_albums",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9503f6",
-      "correctAnswer": "Inky, Pinky, Blinky & Clyde",
-      "incorrectAnswers": [
-        "Inky, Pinky, Blinky & Floyd",
-        "Dinky, Pinky, Winky & Clyde",
-        "Dinky, Pinky, Blinky & Floyd"
-      ],
-      "question": {
-        "text": "What Are The Names Of The Ghosts In The Classic 80's Video Game Pac Man? "
-      },
-      "tags": [
-        "video_games",
-        "1980's",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a11",
-      "correctAnswer": "James Garfield",
-      "incorrectAnswers": [
-        "John F Kennedy",
-        "Abraham Lincoln",
-        "Bill Buchanan"
-      ],
-      "question": {
-        "text": "Which U.S. president was fatally shot in 1881?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe9c",
-      "correctAnswer": "Rihanna",
-      "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Ricky Martin"
-      ],
-      "question": {
-        "text": "Which singer released the studio album 'Rated R'?"
-      },
-      "tags": [
-        "music_albums",
-        "musicians",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c3a7cc59eab6f951017",
-      "correctAnswer": "Chevrolet",
-      "incorrectAnswers": [
-        "Ford",
-        "Gmc",
-        "Pontiac"
-      ],
-      "question": {
-        "text": "What Make Of Car Did Don Mclean Drive To The Levy In American Pie?"
-      },
-      "tags": [
-        "lyrics",
-        "songs",
-        "motoring",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b57f7fd6c701a9211838d",
-      "correctAnswer": "New Zealand",
-      "incorrectAnswers": [
-        "Cambodia",
-        "Italy",
-        "Tanzania"
-      ],
-      "question": {
-        "text": "In which country would you find the Tongariro National Park?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623386af62eaad73716a8ceb",
-      "correctAnswer": "The Bronx ",
-      "incorrectAnswers": [
-        "Brooklyn",
-        "Staten Island",
-        "The Jersey Shore"
-      ],
-      "question": {
-        "text": "Which Borough of New York is northeast of and adjacent to Manhattan?"
-      },
-      "tags": [
-        "new_york",
-        "cities",
-        "usa",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6250648fe12f6dec240bdfbc",
-      "correctAnswer": "Maniac",
-      "incorrectAnswers": [
-        "Convoy",
-        "Just a Friend",
-        "Tainted Love"
-      ],
-      "question": {
-        "text": "What song did Michael Sembello have a hit with in 1983?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c9f",
-      "correctAnswer": "The Rolling Stones",
-      "incorrectAnswers": [
-        "McFly",
-        "Delirious?",
-        "Depeche Mode"
-      ],
-      "question": {
-        "text": "Which English rock band released the song 'Angie'?"
+        "text": "Which English heavy metal band released the album 'The Number of the Beast'?"
       },
       "tags": [
         "rock_music",
@@ -370,22 +408,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "646140b54d46e537ca8cda06",
-      "correctAnswer": "Circe",
+      "category": "food_and_drink",
+      "id": "624c6176badf21197f98f77e",
+      "correctAnswer": "Pepperpot",
       "incorrectAnswers": [
-        "Medusa",
-        "Calypso",
-        "Aphrodite"
+        "Plov",
+        "Cou Cou and Flying Fish",
+        "Shawarma"
       ],
       "question": {
-        "text": "In Ancient Greek mythology, which enchantress changes Ulysses' men into pigs, but also warns him about the sirens?"
+        "text": "Which of these dishes would you most expect to find in Guyana?"
       },
       "tags": [
-        "classics",
-        "ancient_greece",
-        "mythology",
-        "society_and_culture"
+        "food",
+        "south_america",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -394,15 +431,15 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f9505a8",
-      "correctAnswer": "Organic particles",
+      "id": "62433561cfaae40c129614a2",
+      "correctAnswer": "A Kit",
       "incorrectAnswers": [
-        "Existence",
-        "Ticks and mites",
-        "Sleep"
+        "A Hatchling",
+        "A Larva",
+        "An Owlet"
       ],
       "question": {
-        "text": "What is Aerobiology the study of?"
+        "text": "A young squirrel is known as what?"
       },
       "tags": [
         "science"
@@ -413,131 +450,21 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "646339a001d576cfac3aa3a1",
-      "correctAnswer": "The Green Bay Packers",
-      "incorrectAnswers": [
-        "The Dallas Cowboys",
-        "The Pittsburgh Steelers",
-        "The New England Patriots"
-      ],
-      "question": {
-        "text": "Which NFL team, known for its fans' distinctive cheese wedge hats, is also nicknamed \"Cheeseheads\"?"
-      },
-      "tags": [
-        "football",
-        "american_football",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f9503d3",
-      "correctAnswer": "The Hula Hoop",
-      "incorrectAnswers": [
-        "Rubix Cube",
-        "Slinky",
-        "Pog"
-      ],
-      "question": {
-        "text": "What toy was released in 1957, creating an instant craze among children?"
-      },
-      "tags": [
-        "1950's",
-        "toys",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f95009c",
-      "correctAnswer": "3,000 Metres",
-      "incorrectAnswers": [
-        "10,000 Metres",
-        "5,000 Metres",
-        "8,000 Metres"
-      ],
-      "question": {
-        "text": "Over What Distance Is A Steeple Chase Run?"
-      },
-      "tags": [
-        "olympics",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8de",
-      "correctAnswer": "John Wayne",
-      "incorrectAnswers": [
-        "Burt Lancaster",
-        "Mel Gibson",
-        "Jack Nicholson"
-      ],
-      "question": {
-        "text": "Which actor played the role of Ethan Edwards in The Searchers?"
-      },
-      "tags": [
-        "people",
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056f007a97013de78b53ac",
-      "correctAnswer": "James Cook",
-      "incorrectAnswers": [
-        "Neil Armstrong",
-        "Francisco Pizarro",
-        "Vasco da Gama"
-      ],
-      "question": {
-        "text": "Which explorer was killed on the Hawaiian Islands?"
-      },
-      "tags": [
-        "history",
-        "exploration",
-        "people",
-        "hawaii"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "6266e6c7ff2394bd44dee064",
-      "correctAnswer": "Dieci",
+      "id": "622a1c357cc59eab6f94fcfd",
+      "correctAnswer": "Sir Francis Bacon",
       "incorrectAnswers": [
-        "Zehn",
-        "Dez",
-        "Otto"
+        "Thomas Hobbes",
+        "Jean-Paul Sartre",
+        "Karl Marx"
       ],
       "question": {
-        "text": "In Italian, what is the word for for 'ten'?"
+        "text": "Which philosopher famously said 'A little philosophy inclineth man's mind to atheism; but depth in philosophy bringeth men’s minds about to religion'?"
       },
       "tags": [
-        "language",
-        "translations",
+        "philosophy",
+        "quotes",
+        "people",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -546,16 +473,37 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510c7",
-      "correctAnswer": "206",
+      "category": "geography",
+      "id": "623735fccfe13103f55eb58d",
+      "correctAnswer": "Tuvalu",
       "incorrectAnswers": [
-        "310",
-        "233",
-        "280"
+        "Latvia",
+        "The Vatican",
+        "Tibet"
       ],
       "question": {
-        "text": "How Many Bones Are There In The Adult Human Body?"
+        "text": "Which region of the world uses '.tv' at the end of its web addresses?"
+      },
+      "tags": [
+        "the_internet",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951019",
+      "correctAnswer": "Antelope",
+      "incorrectAnswers": [
+        "Bison",
+        "Elk",
+        "Deer"
+      ],
+      "question": {
+        "text": "What large herbivore sleeps only one hour a night?"
       },
       "tags": [
         "science"
@@ -566,21 +514,39 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fae5",
-      "correctAnswer": "Dustin Hoffman",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950bf5",
+      "correctAnswer": "The Doors",
       "incorrectAnswers": [
-        "Jack Lemmon",
-        "Al Pacino",
-        "Roy Scheider"
+        "Styx",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
       ],
       "question": {
-        "text": "Who won the 1979 Academy Award for Best Leading Actor for playing the role of Ted Kramer in Kramer vs. Kramer?"
+        "text": "Which American rock band released the song 'Riders on the Storm'?"
       },
       "tags": [
-        "film",
-        "academy_awards",
-        "film_and_tv"
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623741b2cb85f7ce9e949d80",
+      "correctAnswer": "Niamey",
+      "incorrectAnswers": [
+        "Juba",
+        "Asmara",
+        "Doha"
+      ],
+      "question": {
+        "text": "What is the capital city of Niger?"
+      },
+      "tags": [
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -589,18 +555,18 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f95101a",
-      "correctAnswer": "Central America",
+      "id": "624333c3cfaae40c12961401",
+      "correctAnswer": "A Tiercel",
       "incorrectAnswers": [
-        "Africa",
-        "Indonesia",
-        "Japan"
+        "A Macho",
+        "A Cock",
+        "A Billy"
       ],
       "question": {
-        "text": "Where Is The Natural Habitat Of The Cheese Plant?"
+        "text": "What is the word for a male eagle?"
       },
       "tags": [
-        "plants",
+        "animals",
         "biology",
         "science"
       ],
@@ -610,19 +576,23 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502c7",
-      "correctAnswer": "Breakfast Cereals ",
+      "category": "sport_and_leisure",
+      "id": "622a1c3d7cc59eab6f951c1f",
+      "correctAnswer": "Munich",
       "incorrectAnswers": [
-        "Bread",
-        "Crisps",
-        "Chewing Gum"
+        "Belgrade",
+        "Budapest",
+        "Rome"
       ],
       "question": {
-        "text": "What Foodstuff Is The Most Advertised In The UK?"
+        "text": "In 1958 a plane carrying Manchester United home from a match in Belgrade crash during take-off at which city's Airport?"
       },
       "tags": [
-        "food_and_drink"
+        "manchester",
+        "football",
+        "soccer",
+        "events",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -630,22 +600,42 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9fc",
-      "correctAnswer": "John Tyler",
+      "category": "science",
+      "id": "6243358ccfaae40c129614b3",
+      "correctAnswer": "A Cub",
       "incorrectAnswers": [
-        "Lyndon Johnson",
-        "James Buchanan",
-        "Woodrow Wilson"
+        "A Baby",
+        "A Kit",
+        "A Caterpillar"
       ],
       "question": {
-        "text": "Who was the 10th president of the USA, in term during the period 1841–1845?"
+        "text": "What is a baby walrus known as?"
       },
       "tags": [
-        "presidents",
-        "usa",
-        "1800's",
-        "history"
+        "words",
+        "animals",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd744dc0dd3b72da64d2f",
+      "correctAnswer": "1993",
+      "incorrectAnswers": [
+        "1989",
+        "1997",
+        "2001"
+      ],
+      "question": {
+        "text": "In which year was Groundhog Day released?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
