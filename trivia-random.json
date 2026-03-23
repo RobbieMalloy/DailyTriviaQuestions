@@ -1,26 +1,23 @@
 {
-  "gameDate": "2026-03-22",
+  "gameDate": "2026-03-23",
   "difficulty": "random",
   "results": [
     {
-      "category": "geography",
-      "id": "6477bb12550bc819ad646b64",
-      "correctAnswer": "Île de la Cité",
+      "category": "arts_and_literature",
+      "id": "645fcc80541c4d4fc8cf3080",
+      "correctAnswer": "Othello",
       "incorrectAnswers": [
-        "Île de Ré",
-        "le-de-Paris",
-        "Île-de-France"
+        "Hamlet",
+        "Macbeth",
+        "Julius Caesar"
       ],
       "question": {
-        "text": "What is the name of the island that is considered the historic center of Paris and is surrounded by the River Seine?"
+        "text": "Which Shakespeare title character is summoned by the Duke of Venice to help him deal with the threat of a Turkish attack?"
       },
       "tags": [
-        "paris",
-        "france",
-        "rivers",
-        "geography",
-        "cities",
-        "europe"
+        "theater",
+        "shakespeare",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -28,16 +25,131 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "6233750c460f87b3e0e7185b",
-      "correctAnswer": "Bangkok",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f94a",
+      "correctAnswer": "Rain Man",
       "incorrectAnswers": [
-        "Kuala Lumpur",
-        "Sao Paolo",
-        "Singapore"
+        "The Godfather",
+        "The 400 Blows",
+        "Fast Times at Ridgemont High"
       ],
       "question": {
-        "text": "As what is Krung Thep is more commonly known?"
+        "text": "Which film contains the character 'Raymond Babbitt'?"
+      },
+      "tags": [
+        "fictitious_characters",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "645cb0e67d263fd50970437d",
+      "correctAnswer": "North Carolina",
+      "incorrectAnswers": [
+        "Virginia",
+        "South Carolina",
+        "Georgia"
+      ],
+      "question": {
+        "text": "In what state did black sit-ins at segregated lunch counters first start in 1960?"
+      },
+      "tags": [
+        "civil_rights",
+        "usa",
+        "us_states",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c357cc59eab6f94fd41",
+      "correctAnswer": "Constantine",
+      "incorrectAnswers": [
+        "Byzantine",
+        "Marcus Aurelius",
+        "Trajan"
+      ],
+      "question": {
+        "text": "Which Roman Emperor moved the capital from Rome to the city now known as Istanbul? "
+      },
+      "tags": [
+        "romans",
+        "classics",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9507c3",
+      "correctAnswer": "Nicole Kidman",
+      "incorrectAnswers": [
+        "Natalie Portman",
+        "Kate Winslet",
+        "Maggie Smith"
+      ],
+      "question": {
+        "text": "Which actress has featured in films including Moulin Rouge! and Aquaman?"
+      },
+      "tags": [
+        "film",
+        "dc",
+        "acting",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "646140b74d46e537ca8cda0a",
+      "correctAnswer": "Saturn",
+      "incorrectAnswers": [
+        "Jupiter",
+        "Mars",
+        "Uranus"
+      ],
+      "question": {
+        "text": "What is the name of the second-largest planet in our solar system?"
+      },
+      "tags": [
+        "astronomy",
+        "space",
+        "planets",
+        "the_solar_system",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374233cb85f7ce9e949db4",
+      "correctAnswer": "Dakar",
+      "incorrectAnswers": [
+        "Nuku'alofa",
+        "Jakarta",
+        "Nouakchott"
+      ],
+      "question": {
+        "text": "What is the capital city of Senegal?"
       },
       "tags": [
         "geography"
@@ -49,21 +161,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6371623c1bf863c45ca6c361",
-      "correctAnswer": "Sapientia potentia est",
+      "id": "622a1c357cc59eab6f94fd15",
+      "correctAnswer": "Friedrich Nietzsche",
       "incorrectAnswers": [
-        "Hodie mihi, cras tibi",
-        "Ego te provoco",
-        "Melita, domi adsum"
+        "Jean-Paul Sartre",
+        "Spinoza",
+        "Jean-Jacques Rousseau"
       ],
       "question": {
-        "text": "Which of these Latin phrases means 'Wisdom is power'?"
+        "text": "Which philosopher famously said 'Is man merely a mistake of God's? Or God merely a mistake of man's?'?"
       },
       "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
+        "philosophy",
+        "quotes",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -72,17 +183,196 @@
     },
     {
       "category": "music",
-      "id": "6266bc31b0e62e469cf43e8d",
-      "correctAnswer": "Percussion",
+      "id": "622a1c357cc59eab6f94fe8f",
+      "correctAnswer": "Rihanna",
       "incorrectAnswers": [
-        "Woodwind",
-        "Brass",
-        "Stringed"
+        "Drake",
+        "Nicki Minaj",
+        "Ricky Martin"
       ],
       "question": {
-        "text": "What type of instrument is a maraca?"
+        "text": "Which singer released the song 'Disturbia'?"
       },
       "tags": [
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e596ff2394bd44dee00a",
+      "correctAnswer": "Rojo",
+      "incorrectAnswers": [
+        "Rouge",
+        "Vermelho",
+        "Seis"
+      ],
+      "question": {
+        "text": "In Spanish, what is the word for for 'red'?"
+      },
+      "tags": [
+        "language",
+        "translations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233844b62eaad73716a8bfc",
+      "correctAnswer": "Arthur's Seat ",
+      "incorrectAnswers": [
+        "William Wallace",
+        "John o' Groats",
+        "Mount Murphy"
+      ],
+      "question": {
+        "text": "What is the name of the extinct volcano that rises above Edinburgh?"
+      },
+      "tags": [
+        "volcanoes",
+        "uk",
+        "places",
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "648891854cd3f064f443dc1f",
+      "correctAnswer": "Atlas Shrugged",
+      "incorrectAnswers": [
+        "Brave New World",
+        "Fahrenheit 451",
+        "1984"
+      ],
+      "question": {
+        "text": "In which novel does a character called John Galt persuade the world's business leaders to abandon their companies and form a new capitalist society?"
+      },
+      "tags": [
+        "novels",
+        "arts_and_literature",
+        "literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233892a0161109f922aaccf",
+      "correctAnswer": "The Bering Strait ",
+      "incorrectAnswers": [
+        "The Bosphorus Strait",
+        "The Channel Strait",
+        "The Magellan Strait"
+      ],
+      "question": {
+        "text": "Which strait separates Alaska from Russia?"
+      },
+      "tags": [
+        "geography",
+        "straits",
+        "bodies_of_water",
+        "usa",
+        "russia",
+        "alaska"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573ff29da29df7b05f73b8",
+      "correctAnswer": "A Marine observes the effects of war on his fellow recruits from their boot camp training to fighting in a war.",
+      "incorrectAnswers": [
+        "A Scottish warrior leads his countrymen in a rebellion to free his homeland.",
+        "The jury in a murder trial is frustrated by a member whose caution forces them to consider the evidence.",
+        "A car designer and driver battle to build a revolutionary race car."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Full Metal Jacket?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374024cb85f7ce9e949ce0",
+      "correctAnswer": "Havana",
+      "incorrectAnswers": [
+        "Conakry",
+        "Nicosia",
+        "Roseau"
+      ],
+      "question": {
+        "text": "What is the capital city of Cuba?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "646261c8ab138b829b81e995",
+      "correctAnswer": "Australia",
+      "incorrectAnswers": [
+        "New Zealand",
+        "Canada",
+        "Ireland"
+      ],
+      "question": {
+        "text": "Vegemite, a trademarked vegetable extract used as a food spread, is from which country?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink",
+        "countries"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fb97",
+      "correctAnswer": "\"Don't Stop Believin'\" by Journey",
+      "incorrectAnswers": [
+        "\"Welcome to the Black Parade\" by My Chemical Romance",
+        "\"All Along the Watchtower\" by Bob Dylan",
+        "\"All I Want For Christmas Is You\" by Mariah Carey"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"Just a small town girl, living in a lonely world.\"?"
+      },
+      "tags": [
+        "songs",
+        "lyrics",
         "music"
       ],
       "type": "text_choice",
@@ -92,15 +382,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ed0",
-      "correctAnswer": "Nikolai Gogol",
+      "id": "622a1c397cc59eab6f950dc6",
+      "correctAnswer": "Alexandre Dumas fils",
       "incorrectAnswers": [
-        "Virginia Woolf",
-        "Alexander Pushkin",
-        "Ayn Rand"
+        "Victor Hugo",
+        "Albert Camus",
+        "Gustave Flaubert"
       ],
       "question": {
-        "text": "Which author wrote 'The Government Inspector'?"
+        "text": "Which author wrote 'The Lady of the Camellias'?"
       },
       "tags": [
         "literature",
@@ -112,382 +402,20 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950157",
-      "correctAnswer": "Three Times",
-      "incorrectAnswers": [
-        "Once",
-        "No Times",
-        "Five Times"
-      ],
-      "question": {
-        "text": "How many times did Peter deny Jesus?"
-      },
-      "tags": [
-        "christianity",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f95002f",
-      "correctAnswer": "Babe Ruth",
-      "incorrectAnswers": [
-        "Ian Botham",
-        "Jay Rodriguez",
-        "Brian Lara"
-      ],
-      "question": {
-        "text": "Who wore a cabbage leaf under his cap?"
-      },
-      "tags": [
-        "people",
-        "food",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ebb",
-      "correctAnswer": "Oscar Wilde",
-      "incorrectAnswers": [
-        "Charles Dickens",
-        "G. K. Chesterton",
-        "Alphonse Daudet"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Importance of Being Earnest'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "646089e4de964ebc39016ca8",
-      "correctAnswer": "Pleasantville",
-      "incorrectAnswers": [
-        "The Incredible Mr. Limpet",
-        "The Ghost and Mr. Chicken",
-        "Hot Lead and Cold Feet"
-      ],
-      "question": {
-        "text": "In which 1998 movie did Don Knotts play a magical TV repairman who transports two siblings to a black and white town?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3d7cc59eab6f951c96",
-      "correctAnswer": "Michael Caine",
-      "incorrectAnswers": [
-        "Patrick Stewart",
-        "Christopher Lee",
-        "Daniel Day Lewis"
-      ],
-      "question": {
-        "text": "Which Oscar Winning Actor Played Scrooge In \"The Muppet Christmas Carol\"?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "62602db94b176d54800e3ca9",
-      "correctAnswer": "United Kingdom",
+      "id": "62373fedcb85f7ce9e949cca",
+      "correctAnswer": "Bangui",
       "incorrectAnswers": [
-        "United States",
-        "New Zealand",
-        "Ireland"
+        "Gaborone",
+        "Nuku'alofa",
+        "Abuja"
       ],
       "question": {
-        "text": "In which country is the city of Edinburgh?"
+        "text": "What is the capital city of Central African Republic?"
       },
       "tags": [
-        "cities",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ecd27f41d6338b96ef0d",
-      "correctAnswer": "Francis Bacon",
-      "incorrectAnswers": [
-        "Johann Sebastian Bach",
-        "Shih Huang Ti",
-        "Charles Darwin"
-      ],
-      "question": {
-        "text": "Which influential historical person created the scientific method and was a key figure in the scientific revolution of the enlightenment?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "society_and_culture",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f942",
-      "correctAnswer": "The Shining",
-      "incorrectAnswers": [
-        "The Silence of the Lambs",
-        "Casablanca",
-        "Caddyshack"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Jack Torrance'?"
-      },
-      "tags": [
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950bb4",
-      "correctAnswer": "Dire Straits",
-      "incorrectAnswers": [
-        "Deep Purple",
-        "The Moody Blues",
-        "The Shadows"
-      ],
-      "question": {
-        "text": "Which British rock band released the song 'Money for Nothing'?"
-      },
-      "tags": [
-        "rock_music",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8b5",
-      "correctAnswer": "Cricket",
-      "incorrectAnswers": [
-        "Hockey",
-        "Table tennis",
-        "Cycling"
-      ],
-      "question": {
-        "text": "With which sport is Sachin Tendulkar associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f95197c",
-      "correctAnswer": "The Pilgrims",
-      "incorrectAnswers": [
-        "The Conquistadors",
-        "The Vikings",
-        "The Kingsmen"
-      ],
-      "question": {
-        "text": "What group landed in America in 1620?"
-      },
-      "tags": [
-        "usa",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951307",
-      "correctAnswer": "2001, A Space Odyssey",
-      "incorrectAnswers": [
-        "Star Wars",
-        "Alien",
-        "E.T."
-      ],
-      "question": {
-        "text": "In what film does the HAL 9000 appear?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "film",
-        "fictitious_characters",
-        "science_fiction"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6476390bf05ea6d6f587a16f",
-      "correctAnswer": "Tokyo",
-      "incorrectAnswers": [
-        "Kyoto",
-        "Osaka",
-        "Nagoya"
-      ],
-      "question": {
-        "text": "In which city is Edo Castle located?"
-      },
-      "tags": [
-        "architecture",
-        "japan",
-        "tourist_attractions",
-        "castles",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950506",
-      "correctAnswer": "The voice box",
-      "incorrectAnswers": [
-        "Books",
-        "Ancient laws",
-        "The history of speech"
-      ],
-      "question": {
-        "text": "What is Laryngology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d01",
-      "correctAnswer": "The Beatles",
-      "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Uriah Heep"
-      ],
-      "question": {
-        "text": "Which English rock band released the song 'Help!'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d04",
-      "correctAnswer": "The Beatles",
-      "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Uriah Heep"
-      ],
-      "question": {
-        "text": "Which English rock band released the song 'A Day in the Life'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "645c9f6b42ea81e2554c5f24",
-      "correctAnswer": "Sting",
-      "incorrectAnswers": [
-        "Bono",
-        "Edge",
-        "Adam Clayton"
-      ],
-      "question": {
-        "text": "Which musician is not part of the band U2?"
-      },
-      "tags": [
-        "bands",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374193cb85f7ce9e949d74",
-      "correctAnswer": "Windhoek",
-      "incorrectAnswers": [
-        "Caracas",
-        "Ashgabat",
-        "Accra"
-      ],
-      "question": {
-        "text": "What is the capital city of Namibia?"
-      },
-      "tags": [
-        "capital_cities",
         "africa",
+        "capital_cities",
         "geography"
       ],
       "type": "text_choice",
@@ -496,19 +424,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950800",
-      "correctAnswer": "Asia",
+      "category": "general_knowledge",
+      "id": "645f9565541c4d4fc8cf2ed9",
+      "correctAnswer": "Deadbolt",
       "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Europe"
+        "Padlock",
+        "Combination lock",
+        "Digital lock"
       ],
       "question": {
-        "text": "The country of Brunei is on which continent?"
+        "text": "What is the type of lock that has no spring and typically uses a bar that either moves horizontally or vertically?"
       },
       "tags": [
-        "geography"
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -517,18 +445,127 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f951033",
-      "correctAnswer": "Emperor",
+      "id": "6462628bab138b829b81ea24",
+      "correctAnswer": "Banyan",
       "incorrectAnswers": [
-        "King",
-        "Gentoo",
-        "Adelie"
+        "Teak",
+        "Betula",
+        "Camphor"
       ],
       "question": {
-        "text": "What Is The Largest Species Of Penguin?"
+        "text": "What is the name of the tree species native to India that has supporting roots and trunks, and a single tree can cover an area of up to 3 acres?"
       },
       "tags": [
-        "science"
+        "trees",
+        "nature",
+        "science",
+        "plants",
+        "botany",
+        "india"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "645cb0ac7d263fd509704374",
+      "correctAnswer": "Dead Man's Chest",
+      "incorrectAnswers": [
+        "Curse of the Black Pearl",
+        "At World's End",
+        "On Stranger Tides"
+      ],
+      "question": {
+        "text": "What was the name of the second 'Pirates of the Caribbean' movie?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bad",
+      "correctAnswer": "BTS",
+      "incorrectAnswers": [
+        "Kara",
+        "2NE1",
+        "Red Velvet"
+      ],
+      "question": {
+        "text": "Which South Korean boy group released the single 'Dynamite'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950a31",
+      "correctAnswer": "Myanmar",
+      "incorrectAnswers": [
+        "Vietnam",
+        "Singapore",
+        "Bangladesh"
+      ],
+      "question": {
+        "text": "Which of these countries borders Thailand?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d76",
+      "correctAnswer": "Black Sabbath",
+      "incorrectAnswers": [
+        "Metallica",
+        "Def Leppard",
+        "Poison"
+      ],
+      "question": {
+        "text": "Which metal band has Ozzy Osbourne as its lead singer?"
+      },
+      "tags": [
+        "music",
+        "bands",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "64633a0b01d576cfac3aa3d1",
+      "correctAnswer": "True Grit",
+      "incorrectAnswers": [
+        "No Country for Old Men",
+        "The Hateful Eight",
+        "The Ballad of Buster Scruggs"
+      ],
+      "question": {
+        "text": "Which 2010 Coen Brothers Western stars Hailee Steinfeld as young Mattie, who tracks down Josh Brolin's character?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -537,15 +574,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e2b",
-      "correctAnswer": "Gustave Flaubert",
+      "id": "622a1c367cc59eab6f950197",
+      "correctAnswer": "Winnie the Pooh",
       "incorrectAnswers": [
-        "Anatole France",
-        "Guy de Maupassant",
-        "Charles Perrault"
+        "The Cat In The Hat",
+        "Paddington Bear",
+        "Harry Potter"
       ],
       "question": {
-        "text": "Which author wrote 'Sentimental Education'?"
+        "text": "In what book would you find a Hefalump?"
       },
       "tags": [
         "arts_and_literature"
@@ -556,44 +593,19 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6242cb96d543524f1b19c93d",
-      "correctAnswer": "A host",
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b99",
+      "correctAnswer": "Weezer",
       "incorrectAnswers": [
-        "A run",
-        "A field",
-        "A charm"
+        "LMFAO",
+        "Static-X",
+        "The Black Keys"
       ],
       "question": {
-        "text": "What is the word for a group of sparrows?"
+        "text": "Which alternative rock band from the United States released the studio album 'Pinkerton'?"
       },
       "tags": [
-        "words",
-        "animals",
-        "birds",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6243341fcfaae40c12961424",
-      "correctAnswer": "A Billy",
-      "incorrectAnswers": [
-        "A Macho",
-        "A Drone",
-        "A Ram"
-      ],
-      "question": {
-        "text": "A male goat is known as what?"
-      },
-      "tags": [
-        "animals",
-        "words",
-        "science"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -601,44 +613,44 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62417dbe0f96c4efe8d773e5",
-      "correctAnswer": "Tampa Bay Buccaneers",
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe09",
+      "correctAnswer": "Lake Superior ",
       "incorrectAnswers": [
-        "Tamba Bay Bears",
-        "Tampa Bay Nuggets",
-        "Tampa Bay Broncos"
+        "Lake Victoria",
+        "Lake Baikal",
+        "Lake Titicaca"
       ],
       "question": {
-        "text": "Which of these is an American Football team based in Tampa?"
+        "text": "Which is the largest freshwater lake in the world?"
+      },
+      "tags": [
+        "records",
+        "bodies_of_water",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417cd80f96c4efe8d7738b",
+      "correctAnswer": "Calgary Flames",
+      "incorrectAnswers": [
+        "Calgary Thunder",
+        "Calgary Bears",
+        "Calgary Royals"
+      ],
+      "question": {
+        "text": "Which of these is a hockey team based in Calgary?"
       },
       "tags": [
         "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6266e5c9ff2394bd44dee019",
-      "correctAnswer": "Green",
-      "incorrectAnswers": [
-        "Nine",
-        "Red",
-        "Six"
-      ],
-      "question": {
-        "text": "In French, what is the meaning of the word 'vert'?"
-      },
-      "tags": [
-        "language",
-        "translations",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     }

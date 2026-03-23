@@ -1,24 +1,26 @@
 {
-  "gameDate": "2026-03-22",
+  "gameDate": "2026-03-23",
   "difficulty": "easy",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "624dba52de6018633d31f6c0",
-      "correctAnswer": "Adele",
+      "category": "arts_and_literature",
+      "id": "6396eeb96017b1e8e09020d2",
+      "correctAnswer": "A scientist in want of a companion creates a living creature, who turns out to be misunderstood and is subject to torment by all he meets",
       "incorrectAnswers": [
-        "Jack White and Alicia Keys",
-        "Madonna",
-        "Chris Cornell"
+        "A tiger visits a house for tea and eats everything it has inside",
+        "A boy makes friends with a Jewish boy at a concentration camp ",
+        "A brief history of space, science and time "
       ],
       "question": {
-        "text": "Who performed the theme song to the James Bond film Skyfall?"
+        "text": "Which of these is the plot to the novel Frankenstein by Mary Shelley?"
       },
       "tags": [
-        "james_bond",
-        "film",
-        "soundtracks",
-        "film_and_tv"
+        "literature",
+        "arts_and_literature",
+        "novel",
+        "classic_novels",
+        "gothic",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -26,23 +28,45 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "645b4f1f067ef798d1455087",
-      "correctAnswer": "DNA",
+      "category": "history",
+      "id": "65056f817a97013de78b5461",
+      "correctAnswer": "Vladimir Putin",
       "incorrectAnswers": [
-        "GCI",
-        "ATP",
-        "COD"
+        "Boris Yeltsin",
+        "Dmitry Medvedev",
+        "Mikhail Gorbachev"
       ],
       "question": {
-        "text": "What is the abbreviation for the polymer that carries genetic instructions for living cells?"
+        "text": "Who became president of Russia in 2012?"
       },
       "tags": [
-        "biology",
-        "chemistry",
-        "genetics",
-        "science",
-        "initials"
+        "history",
+        "world_leaders",
+        "politics",
+        "russia",
+        "2010's"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe66",
+      "correctAnswer": "Britney Spears",
+      "incorrectAnswers": [
+        "Madonna",
+        "Alanis Morissette",
+        "Nicki Minaj"
+      ],
+      "question": {
+        "text": "Which American singer, songwriter, dancer and actress released the studio album 'Oops!… I Did It Again'?"
+      },
+      "tags": [
+        "general_knowledge",
+        "pop_music",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -51,20 +75,21 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f9518aa",
-      "correctAnswer": "Rubik's Cube",
+      "id": "6293ebc77f41d6338b96eebf",
+      "correctAnswer": "Christopher Columbus",
       "incorrectAnswers": [
-        "Furby",
-        "Playmobil",
-        "Hula Hoop"
+        "Napoleon Bonaparte",
+        "Martin Luther",
+        "Marco Polo"
       ],
       "question": {
-        "text": "Which toy is a multi-colored block you have to reorganize?"
+        "text": "Which of these people was an Italian explorer who landed in America?"
       },
       "tags": [
-        "toys",
-        "general_knowledge",
-        "society_and_culture"
+        "people",
+        "history",
+        "society_and_culture",
+        "exploration"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -72,19 +97,88 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623b57b8fd6c701a92118376",
-      "correctAnswer": "Italy",
+      "category": "society_and_culture",
+      "id": "6476390cf05ea6d6f587a17f",
+      "correctAnswer": "Eve",
       "incorrectAnswers": [
-        "Russia",
-        "Czech Republic",
-        "USA"
+        "Rachel",
+        "Miriam",
+        "Sarah"
       ],
       "question": {
-        "text": "In which country would you find the city of Venice?"
+        "text": "In the Bible, who was Adam's wife?"
       },
       "tags": [
-        "geography"
+        "bible",
+        "christianity",
+        "society_and_culture",
+        "religion"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3f7cc59eab6f952397",
+      "correctAnswer": "Symbiosis",
+      "incorrectAnswers": [
+        "Parasitism",
+        "Syncronicity",
+        "Parallelism"
+      ],
+      "question": {
+        "text": "What is the word for a relationship between two different types of organism which live together for their mutual benefit?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "64824ee57778562fd76a96b2",
+      "correctAnswer": "Stovepipe",
+      "incorrectAnswers": [
+        "Tricorne",
+        "Fedora",
+        "Sombrero"
+      ],
+      "question": {
+        "text": "What type of hat did Abraham Lincoln famously wear?"
+      },
+      "tags": [
+        "fashion",
+        "hats",
+        "history",
+        "presidents",
+        "people"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fea0",
+      "correctAnswer": "Rihanna",
+      "incorrectAnswers": [
+        "Drake",
+        "Nicki Minaj",
+        "Ricky Martin"
+      ],
+      "question": {
+        "text": "Which singer released the song 'Only Girl (In the World)'?"
+      },
+      "tags": [
+        "musicians",
+        "songs",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -93,15 +187,15 @@
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950214",
-      "correctAnswer": "Roald Dahl ",
+      "id": "622a1c367cc59eab6f9502f6",
+      "correctAnswer": "Bread ",
       "incorrectAnswers": [
-        "Charles Dickens",
-        "Jacqueline Wilson",
-        "Morgan Scott"
+        "Cheese",
+        "Cake",
+        "Wine"
       ],
       "question": {
-        "text": "Who wrote the book Charlie and the Chocolate Factory?"
+        "text": "Bruschetta is what?"
       },
       "tags": [
         "food_and_drink"
@@ -112,21 +206,87 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62c92076a218dd4dc1ca17da",
-      "correctAnswer": "Love",
+      "category": "science",
+      "id": "6462628cab138b829b81ea35",
+      "correctAnswer": "The Moon",
       "incorrectAnswers": [
-        "Egg",
-        "Zilch",
-        "Nil"
+        "The Sun",
+        "Halley's Comet",
+        "Mars"
       ],
       "question": {
-        "text": "What word is used for a score of 0 in a game of tennis?"
+        "text": "What celestial object was the first for humankind to set foot on?"
       },
       "tags": [
-        "sport",
-        "tennis",
-        "words"
+        "astronomy",
+        "space",
+        "the_space_race",
+        "space_exploration",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950a5c",
+      "correctAnswer": "Russia",
+      "incorrectAnswers": [
+        "Bulgaria",
+        "Lithuania",
+        "Latvia"
+      ],
+      "question": {
+        "text": "Which of these countries borders Ukraine?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951c85",
+      "correctAnswer": "Watergate",
+      "incorrectAnswers": [
+        "Hotelgate",
+        "Croneygate",
+        "Corruptiongate"
+      ],
+      "question": {
+        "text": "What was the name of the scandal that forced President Nixon to resign?"
+      },
+      "tags": [
+        "events",
+        "presidents",
+        "usa",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502c3",
+      "correctAnswer": "Clove ",
+      "incorrectAnswers": [
+        "Husk",
+        "Kernel",
+        "Nibbet"
+      ],
+      "question": {
+        "text": "What is a segment of garlic called?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -135,19 +295,127 @@
     },
     {
       "category": "general_knowledge",
-      "id": "622a1c3a7cc59eab6f951067",
-      "correctAnswer": "Bonsai",
+      "id": "645cb16b7d263fd5097043d1",
+      "correctAnswer": "Red Herring",
       "incorrectAnswers": [
-        "Ornamental Shrubbery",
-        "Decorage",
-        "Topiary"
+        "Blue Lobster",
+        "Green Shrimp",
+        "Yellow Squid"
       ],
       "question": {
-        "text": "What is the name given to the art of miniaturising trees and maintaining their small size?"
+        "text": "What is the familiar expression for something that draws attention away from the main issue?"
       },
       "tags": [
-        "words",
-        "general_knowledge"
+        "idioms",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff3c",
+      "correctAnswer": "Michael Jackson",
+      "incorrectAnswers": [
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
+      ],
+      "question": {
+        "text": "Which American singer, songwriter and dancer released the song 'Don't Stop 'Til You Get Enough'?"
+      },
+      "tags": [
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "63b0587e4799123c67712f43",
+      "correctAnswer": "Himalayas",
+      "incorrectAnswers": [
+        "Aravalli",
+        "Vindhyas",
+        "Satpura"
+      ],
+      "question": {
+        "text": "Which is the largest mountain range in India?"
+      },
+      "tags": [
+        "india",
+        "geography",
+        "mountains"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9e14796f721e95543f3d",
+      "correctAnswer": "Two vertical bands of red with white square between them containing a red leaf.",
+      "incorrectAnswers": [
+        "Maroon with a broad white serrated band on the left side.",
+        "Green, with large white script and a sword.",
+        "Red with a white cross that extends to the edges."
+      ],
+      "question": {
+        "text": "What does the flag of Canada look like?"
+      },
+      "tags": [
+        "flags",
+        "canada",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f950122",
+      "correctAnswer": "Vampires",
+      "incorrectAnswers": [
+        "Ghosts",
+        "Witches",
+        "Werewolves"
+      ],
+      "question": {
+        "text": "What has no reflection, no shadow, and can't stand the smell of garlic"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6262884d4b176d54800e3d94",
+      "correctAnswer": "Maybelline",
+      "incorrectAnswers": [
+        "L'Oreal",
+        "CoverGirl",
+        "Levis"
+      ],
+      "question": {
+        "text": "Which brand is associated with the marketing slogan 'Maybe she's born with it'?"
+      },
+      "tags": [
+        "business",
+        "marketing",
+        "fashion",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -156,15 +424,15 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f951071",
-      "correctAnswer": "Leeches",
+      "id": "6505701e7a97013de78b5538",
+      "correctAnswer": "Chlamydia",
       "incorrectAnswers": [
-        "Vampire Bats",
-        "Cobras",
-        "Wasps"
+        "Parkinson's",
+        "Thyroid cancer",
+        "Gastritis"
       ],
       "question": {
-        "text": "What Creatures Were Frequently Used To Bleed Patients In The Nineteeth Century?"
+        "text": "Which is an example of a sexually transmitted disease?"
       },
       "tags": [
         "science"
@@ -176,17 +444,19 @@
     },
     {
       "category": "geography",
-      "id": "622a1c387cc59eab6f950a24",
-      "correctAnswer": "Spain",
+      "id": "62602e6d4b176d54800e3cda",
+      "correctAnswer": "Cape Town",
       "incorrectAnswers": [
-        "Morocco",
-        "Andorra",
-        "France"
+        "Douala",
+        "Port Harcourt",
+        "Nairobi"
       ],
       "question": {
-        "text": "Which of these countries borders Portugal?"
+        "text": "Which of these cities is in South Africa?"
       },
       "tags": [
+        "cities",
+        "africa",
         "geography"
       ],
       "type": "text_choice",
@@ -195,375 +465,21 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c357cc59eab6f950021",
-      "correctAnswer": "Soccer",
+      "category": "society_and_culture",
+      "id": "626288354b176d54800e3d90",
+      "correctAnswer": "Have it your way",
       "incorrectAnswers": [
-        "Basketball",
-        "Volleyball",
-        "Rugby"
+        "A glass and a half in every half pound",
+        "Finger lickin' good",
+        "Snap! Crackle! Pop!"
       ],
       "question": {
-        "text": "With which sport is Pelé associated?"
+        "text": "What is the marketing slogan of Burger King?"
       },
       "tags": [
-        "sport",
-        "people",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "65056e437a97013de78b52a4",
-      "correctAnswer": "Johann Sebastian",
-      "incorrectAnswers": [
-        "Josef Siegfried",
-        "Jürgen Siegismund",
-        "Jochen Simon"
-      ],
-      "question": {
-        "text": "What do the initials J. S. in J. S. Bach's name stand for?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "64b5a8837282fc9eadbafda3",
-      "correctAnswer": "Stuart Little",
-      "incorrectAnswers": [
-        "Tom Little",
-        "Jack Little",
-        "Henry Little"
-      ],
-      "question": {
-        "text": "What is the name of E.B. White's adventurous mouse-like boy from a 1945 story?"
-      },
-      "tags": [
-        "childrens_literature",
-        "arts_and_literature",
-        "literature",
-        "fictitious_characters"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951367",
-      "correctAnswer": "A Palette",
-      "incorrectAnswers": [
-        "An eisel",
-        "A square",
-        "A pitcher"
-      ],
-      "question": {
-        "text": "What is the word given to a flat board used by a painter to mix and hold colors?"
-      },
-      "tags": [
-        "words",
-        "art",
-        "painting",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "627164241ba117625baac94a",
-      "correctAnswer": "Scotland",
-      "incorrectAnswers": [
-        "Italy",
-        "Romania",
-        "Mexico"
-      ],
-      "question": {
-        "text": "Which country is associated with the drink whisky?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "648891b84cd3f064f443dc3c",
-      "correctAnswer": "A Triangle",
-      "incorrectAnswers": [
-        "A Square",
-        "A Circle",
-        "A Rectangle"
-      ],
-      "question": {
-        "text": "What type of shape might be obtuse or isosceles?"
-      },
-      "tags": [
-        "geometry",
-        "mathematics",
-        "science",
-        "shapes"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6239f8019129041bf3925cbd",
-      "correctAnswer": "Alpha",
-      "incorrectAnswers": [
-        "Apple",
-        "Animal",
-        "Aeroplan"
-      ],
-      "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter A?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515e9",
-      "correctAnswer": "Kosher ",
-      "incorrectAnswers": [
-        "Deli",
-        "Vegan",
-        "Halal"
-      ],
-      "question": {
-        "text": "Food that is permitted to be eaten under Jewish dietary laws is known as what?"
-      },
-      "tags": [
+        "business",
+        "marketing",
         "food",
-        "judaism",
-        "religion",
-        "words",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64824e707778562fd76a9646",
-      "correctAnswer": "Giorgio Armani",
-      "incorrectAnswers": [
-        "Gucci Adriano",
-        "Giovanni Anselmi",
-        "Gabriel Alvarez"
-      ],
-      "question": {
-        "text": "Which Italian fashion designer has the initials G.A.?"
-      },
-      "tags": [
-        "designers",
-        "fashion",
-        "people",
-        "society_and_culture",
-        "italy"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94febf",
-      "correctAnswer": "Beyoncé",
-      "incorrectAnswers": [
-        "Madonna",
-        "Drake",
-        "Nicki Minaj"
-      ],
-      "question": {
-        "text": "Which American singer, actress and record producer released the song 'Single Ladies (Put a Ring on It)'?"
-      },
-      "tags": [
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951340",
-      "correctAnswer": "Caricature",
-      "incorrectAnswers": [
-        "Satire",
-        "Still Life",
-        "Snappy Shot"
-      ],
-      "question": {
-        "text": "What is the word for an artwork humoously excaggerating the qualities of a person?"
-      },
-      "tags": [
-        "words",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fea3",
-      "correctAnswer": "Elton John",
-      "incorrectAnswers": [
-        "Eric Clapton",
-        "Paul McCartney",
-        "Sting"
-      ],
-      "question": {
-        "text": "Which English singer-songwriter released the song 'Rocket Man'?"
-      },
-      "tags": [
-        "songs",
-        "musicians",
-        "people",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9c4",
-      "correctAnswer": "William J. Clinton",
-      "incorrectAnswers": [
-        "Rutherford B. Hayes",
-        "Woodrow Wilson",
-        "Dwight Eisenhower"
-      ],
-      "question": {
-        "text": "Who was the 42nd president of the USA, in term during the period 1993–2001?"
-      },
-      "tags": [
-        "usa",
-        "presidents",
-        "1990's",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "645bb13cf09106226db2358e",
-      "correctAnswer": "Perspiration",
-      "incorrectAnswers": [
-        "Saline",
-        "Lactate",
-        "Water"
-      ],
-      "question": {
-        "text": "What is the name of the salty, watery fluid secreted by sweat glands?"
-      },
-      "tags": [
-        "anatomy",
-        "physiology",
-        "biology"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b89",
-      "correctAnswer": "The Jimi Hendrix Experience",
-      "incorrectAnswers": [
-        "Poison",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
-      ],
-      "question": {
-        "text": "Which English-American psychedelic rock band released the song 'Purple Haze'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "646089ddde964ebc39016c83",
-      "correctAnswer": "Mole",
-      "incorrectAnswers": [
-        "Ferret",
-        "Rat",
-        "Squirrel"
-      ],
-      "question": {
-        "text": "Which term describes a spy who operates within the intelligence service of another country?"
-      },
-      "tags": [
-        "espionage",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9500ed",
-      "correctAnswer": "David",
-      "incorrectAnswers": [
-        "Daniel",
-        "John",
-        "Michael"
-      ],
-      "question": {
-        "text": "Who killed Goliath?"
-      },
-      "tags": [
-        "christianity",
-        "mythology",
-        "people",
-        "general_knowledge",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -572,20 +488,21 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "639ae35a929b90846f2fc8c8",
-      "correctAnswer": "Central America",
+      "category": "society_and_culture",
+      "id": "64720648222d3df382f0c86c",
+      "correctAnswer": "Chanel",
       "incorrectAnswers": [
-        "South America",
-        "South Africa",
-        "Southeast Asia"
+        "Gucci",
+        "Dior",
+        "Prada"
       ],
       "question": {
-        "text": "Where was the Aztec Empire located?"
+        "text": "What luxury fragrance brand 'No.5' eau de parfum?"
       },
       "tags": [
-        "history",
-        "aztecs"
+        "brands",
+        "fashion",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -593,20 +510,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "6237353fcfe13103f55eb512",
-      "correctAnswer": "India",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951073",
+      "correctAnswer": "Black",
       "incorrectAnswers": [
-        "United Kingdom",
-        "Indonesia",
-        "Ireland"
+        "White",
+        "Red",
+        "Brown"
       ],
       "question": {
-        "text": "Which region of the world uses '.in' at the end of its web addresses?"
+        "text": "What color spots has the common ladybird?"
       },
       "tags": [
-        "the_internet",
-        "geography"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -614,22 +530,19 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "63d95316168979b94b2e4f95",
-      "correctAnswer": "Titanic",
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504e5",
+      "correctAnswer": "numbers",
       "incorrectAnswers": [
-        "Romeo + Juliet",
-        "The Beach",
-        "The Great Gatsby"
+        "wounds and injuries caused by accidents or assaults and their surgical treatment and repair",
+        "psychotropic or psychiatric drugs",
+        "Egyptian hieroglyphics, an ancient writing system"
       ],
       "question": {
-        "text": "In which iconic '90s film did Leonardo DiCaprio play the role of Jack Dawson?"
+        "text": "What is Numerology the study of?"
       },
       "tags": [
-        "1990's",
-        "film_and_tv",
-        "film",
-        "acting"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -637,21 +550,108 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95136a",
-      "correctAnswer": "Collage",
+      "category": "food_and_drink",
+      "id": "6477bad7550bc819ad646b38",
+      "correctAnswer": "Pepsi",
       "incorrectAnswers": [
-        "Watercolor",
-        "Sculpture",
-        "Pointilism"
+        "Coca-Cola",
+        "Dr. Pepper",
+        "Mountain Dew"
       ],
       "question": {
-        "text": "What is the word for a composition made of cut and pasted pieces of materials?"
+        "text": "What is the name of the soda company whose diet version includes the word 'Max' in its name, referring to its taste?"
       },
       "tags": [
-        "art",
-        "words",
-        "arts_and_literature"
+        "drink",
+        "food_and_drink",
+        "brands"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f95005a",
+      "correctAnswer": "Butterfly",
+      "incorrectAnswers": [
+        "Dragonfly",
+        "Mayfly",
+        "Horsefly"
+      ],
+      "question": {
+        "text": "Which Swimming Stroke Was Introduced Into Competition In 1952"
+      },
+      "tags": [
+        "sport",
+        "swimming"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcec",
+      "correctAnswer": "Japonic",
+      "incorrectAnswers": [
+        "Sino-Tibetan",
+        "Austroasiatic",
+        "Austronesian"
+      ],
+      "question": {
+        "text": "The language 'Japanese' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "645b9ebcf09106226db2357c",
+      "correctAnswer": "Quiche",
+      "incorrectAnswers": [
+        "Omelette",
+        "Frittata",
+        "Pizza"
+      ],
+      "question": {
+        "text": "What type of food has a version called \"Lorraine\"?"
+      },
+      "tags": [
+        "cooking",
+        "food",
+        "recipes",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "63f39502989356ef48370be1",
+      "correctAnswer": "Apple",
+      "incorrectAnswers": [
+        "Mango",
+        "Papaya",
+        "Pineapple"
+      ],
+      "question": {
+        "text": "Which of these fruits is not a tropical fruit?"
+      },
+      "tags": [
+        "food_and_drink",
+        "food",
+        "fruit"
       ],
       "type": "text_choice",
       "difficulty": "easy",
