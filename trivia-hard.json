@@ -1,21 +1,45 @@
 {
-  "gameDate": "2026-03-25",
+  "gameDate": "2026-03-26",
   "difficulty": "hard",
   "results": [
     {
-      "category": "sport_and_leisure",
-      "id": "65056eff7a97013de78b53ab",
-      "correctAnswer": "Eel fishing",
+      "category": "film_and_tv",
+      "id": "63dd25e1742e43ed64f1f03d",
+      "correctAnswer": "Dick Solomon",
       "incorrectAnswers": [
-        "Bear hunting",
-        "Hawking",
-        "Crabbing"
+        "Sammy Jakes",
+        "Harry Thompson",
+        "Tommy Defoe"
       ],
       "question": {
-        "text": "What are you doing when you are sniggling?"
+        "text": "What is the name of the character played by John Lithgow on the show '3rd Rock From the Sun'?"
       },
       "tags": [
-        "sport_and_leisure"
+        "film_and_tv",
+        "tv",
+        "sitcoms"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c6164badf21197f98f779",
+      "correctAnswer": "Amok Trey",
+      "incorrectAnswers": [
+        "Shawarma",
+        "Dim Sum",
+        "Chicken Machboos"
+      ],
+      "question": {
+        "text": "Which of these dishes is most associated with Cambodia?"
+      },
+      "tags": [
+        "food",
+        "southeast_asia",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -24,20 +48,21 @@
     },
     {
       "category": "history",
-      "id": "639895775c9a75021f310458",
-      "correctAnswer": "Venezuela",
+      "id": "62611ff04b176d54800e3d7b",
+      "correctAnswer": "1980",
       "incorrectAnswers": [
-        "USA",
-        "Brazil",
-        "France"
+        "1968",
+        "1974",
+        "1986"
       ],
       "question": {
-        "text": "What was the first country to abolish the death penalty in the 19th century?"
+        "text": "In which year was the Compact Disc invented?"
       },
       "tags": [
-        "history",
-        "crime",
-        "1800's"
+        "events",
+        "inventions",
+        "technology",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -46,18 +71,18 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94ffe1",
-      "correctAnswer": "Ace Of Base",
+      "id": "622a1c397cc59eab6f950c0a",
+      "correctAnswer": "Muse",
       "incorrectAnswers": [
-        "Modern Talking",
-        "The Cardigans",
-        "Every Little Thing"
+        "Tears for Fears",
+        "Bullet For My Valentine",
+        "Enter Shikari"
       ],
       "question": {
-        "text": "Jenny & Lyn Beggren Are Singers With Which 90's Group"
+        "text": "Which English rock band released the studio album 'Black Holes and Revelations'?"
       },
       "tags": [
-        "bands",
+        "rock_music",
         "music"
       ],
       "type": "text_choice",
@@ -66,22 +91,21 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "646339bc01d576cfac3aa3aa",
-      "correctAnswer": "Malaysia",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f9f1",
+      "correctAnswer": "Gustave Courbet",
       "incorrectAnswers": [
-        "Thailand",
-        "Vietnam",
-        "Indonesia"
+        "Caravaggio",
+        "René Magritte",
+        "‎Pablo Picasso"
       ],
       "question": {
-        "text": "Which country is located on the eastern border of Brunei?"
+        "text": "Which artist painted \"The Sleepers\""
       },
       "tags": [
-        "borders",
-        "countries",
-        "southeast_asia",
-        "geography"
+        "art",
+        "painting",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -89,21 +113,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "646339a001d576cfac3aa3a0",
-      "correctAnswer": "Dover Castle",
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950039",
+      "correctAnswer": "Tennis",
       "incorrectAnswers": [
-        "Windsor Castle",
-        "Buckingham Palace",
-        "Edinburgh Castle"
+        "Soccer",
+        "Golf",
+        "Athletics"
       ],
       "question": {
-        "text": "What is the name of the castle in Kent, England, from which one can see France on a clear day?"
+        "text": "With what sport is Gabriela Sabatini associated?"
       },
       "tags": [
-        "castles",
-        "uk",
-        "geography"
+        "sport",
+        "people"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -111,21 +134,39 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "649557392cb69a84d25273fa",
-      "correctAnswer": "Thailand",
+      "category": "science",
+      "id": "622a1c377cc59eab6f950453",
+      "correctAnswer": "Papworth, Cambridge",
       "incorrectAnswers": [
-        "Vietnam",
-        "Cambodia",
-        "Laos"
+        "Guy's, London",
+        "John Radcliffe, Oxford",
+        "UCLH, London"
       ],
       "question": {
-        "text": "Which country's currency is the baht?"
+        "text": "At which hospital was the first British Heart Transplant operation performed in 1979?"
       },
       "tags": [
-        "countries",
-        "society_and_culture",
-        "currency"
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9503de",
+      "correctAnswer": "Jason",
+      "incorrectAnswers": [
+        "Freddie",
+        "Mike",
+        "Chuckie"
+      ],
+      "question": {
+        "text": "What Is The Name Of The Bad Guy In The Friday The 13th Series?"
+      },
+      "tags": [
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -134,15 +175,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f11",
-      "correctAnswer": "Fyodor Dostoyevsky",
+      "id": "622a1c397cc59eab6f950e9e",
+      "correctAnswer": "Alexandre Dumas",
       "incorrectAnswers": [
-        "Vladimir Nabokov",
-        "Leo Tolstoy",
-        "Mikhail Bulgakov"
+        "Anatole France",
+        "Gustave Flaubert",
+        "Charles Perrault"
       ],
       "question": {
-        "text": "Which author wrote 'The Brothers Karamazov'?"
+        "text": "Which author wrote 'D'Artagnan Romances'?"
       },
       "tags": [
         "arts_and_literature"
@@ -153,22 +194,169 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb0f",
-      "correctAnswer": "Kathy Bates",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e42",
+      "correctAnswer": "Percy Bysshe Shelley",
       "incorrectAnswers": [
-        "Anjelica Huston",
-        "Julia Roberts",
-        "Meryl Streep"
+        "H. Rider Haggard",
+        "Charles Darwin",
+        "Agatha Christie"
       ],
       "question": {
-        "text": "Who won the 1990 Academy Award for Best Leading Actress for playing the role of Annie Wilkes in Misery?"
+        "text": "Which author wrote 'Ozymandias'?"
       },
       "tags": [
-        "acting",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e54",
+      "correctAnswer": "Washington Irving",
+      "incorrectAnswers": [
+        "Suzanne Collins",
+        "James Fenimore Cooper",
+        "Donna Leon"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Legend of Sleepy Hollow'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f981",
+      "correctAnswer": "The Moviegoer",
+      "incorrectAnswers": [
+        "Blood Meridian",
+        "On the Road",
+        "Ulysses"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Binx Bolling'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e6d2ff2394bd44dee067",
+      "correctAnswer": "Ten",
+      "incorrectAnswers": [
+        "Green",
+        "White",
+        "Eight"
+      ],
+      "question": {
+        "text": "In Portuguese, what is the meaning of the word 'dez'?"
+      },
+      "tags": [
+        "language",
+        "translations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f952315",
+      "correctAnswer": "The Jurassic Period",
+      "incorrectAnswers": [
+        "The Thoracic Period",
+        "The Mezozoic Period",
+        "The Triambic Period"
+      ],
+      "question": {
+        "text": "Which Period Came Between The Triassic & Cretaceous Periods?"
+      },
+      "tags": [
+        "geology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63adbd7a04c68cc1e14b8e4e",
+      "correctAnswer": "Weeping Willow",
+      "incorrectAnswers": [
+        "Oak Tree",
+        "Maple Tree",
+        "Bonzai Tree"
+      ],
+      "question": {
+        "text": "What is the common name for the tree species Salix babylonica?"
+      },
+      "tags": [
+        "science",
+        "trees",
+        "plants",
+        "nature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623741accb85f7ce9e949d7e",
+      "correctAnswer": "Managua",
+      "incorrectAnswers": [
+        "Moroni",
+        "Lilongwe",
+        "Manila"
+      ],
+      "question": {
+        "text": "What is the capital city of Nicaragua?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "645f94b7541c4d4fc8cf2e5c",
+      "correctAnswer": "Charles",
+      "incorrectAnswers": [
+        "William",
+        "Orson",
+        "Jacob"
+      ],
+      "question": {
+        "text": "What is the first name of the character 'Citizen Kane' in the film of the same name?"
+      },
+      "tags": [
         "film",
-        "academy_awards",
-        "film_and_tv"
+        "film_and_tv",
+        "fictitious_characters"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -177,340 +365,149 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94ff6e",
-      "correctAnswer": "Jamiroquai",
+      "id": "622a1c357cc59eab6f94fd5d",
+      "correctAnswer": "Joni Mitchell",
       "incorrectAnswers": [
-        "Stereolab",
-        "Simply Red",
-        "Massive Attack"
+        "Cher",
+        "Beyoncé",
+        "Grace Jones"
       ],
       "question": {
-        "text": "Which Band Were At The Number One Spot In 1998 With “Deeper Underground”?"
+        "text": "Whose Real Name Is Roberta Anderson?"
+      },
+      "tags": [
+        "people",
+        "pseudonyms",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc0a",
+      "correctAnswer": "\"Tell 'em to go out there with all they got and win just one for the Gipper.\"",
+      "incorrectAnswers": [
+        "\"My precious.\"",
+        "\"Houston, we have a problem.\"",
+        "\"No wire hangers, ever!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Knute Rockne--All American'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "646089cade964ebc39016c7a",
+      "correctAnswer": "Central Intelligence Agency",
+      "incorrectAnswers": [
+        "Federal Bureau of Investigation",
+        "Internal Revenue Service",
+        "National Aeronautics and Space Administration"
+      ],
+      "question": {
+        "text": "What is the name of the United States government organization established in 1947 with headquarters in Langley, Virginia?"
+      },
+      "tags": [
+        "government",
+        "intelligence",
+        "organizations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64dfa5baa6681754ea052bbb",
+      "correctAnswer": "P. Diddy",
+      "incorrectAnswers": [
+        "Kanye West",
+        "Snoop Dogg",
+        "Jay Z"
+      ],
+      "question": {
+        "text": "Which rapper launched their \"Sean John\" fashion line in 1998?"
+      },
+      "tags": [
+        "music",
+        "society_and_culture",
+        "fashion"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ef7",
+      "correctAnswer": "Edgar Rice Burroughs",
+      "incorrectAnswers": [
+        "Jack Vance",
+        "George R. R. Martin",
+        "Robert A. Heinlein"
+      ],
+      "question": {
+        "text": "Which author wrote 'Barsoom'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95033f",
+      "correctAnswer": "Harold Wilson",
+      "incorrectAnswers": [
+        "Clement Atlee",
+        "Anthony Eden",
+        "Margaret Thatcher"
+      ],
+      "question": {
+        "text": "Who Was The British Prime Minister Between 1964 & 1969?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625063c6e12f6dec240bdf81",
+      "correctAnswer": "The Hustle",
+      "incorrectAnswers": [
+        "Whip It",
+        "Afternoon Delight",
+        "Lovefool"
+      ],
+      "question": {
+        "text": "What song did Van McCoy have a hit with in 1975?"
       },
       "tags": [
         "songs",
-        "bands",
-        "1990's"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950185",
-      "correctAnswer": "Earnshaw",
-      "incorrectAnswers": [
-        "Heathcliffe",
-        "Darcy",
-        "Bingby"
-      ],
-      "question": {
-        "text": "What is the surname of Cathy in \"Wuthering Heights\"?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6244375d746187c5e7be934b",
-      "correctAnswer": "Magnesium sulphate heptahydrate",
-      "incorrectAnswers": [
-        "Potassium hydrogen tartrate",
-        "Methane",
-        "Calcium magnesium carbonate"
-      ],
-      "question": {
-        "text": "What chemical compound makes epsom salt?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f94b",
-      "correctAnswer": "The Manchurian Candidate",
-      "incorrectAnswers": [
-        "The Shining",
-        "M",
-        "The Silence of the Lambs"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Mrs. Iselin'?"
-      },
-      "tags": [
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "645b4f1f067ef798d145508d",
-      "correctAnswer": "McDonald's",
-      "incorrectAnswers": [
-        "Burger King",
-        "KFC",
-        "Subway"
-      ],
-      "question": {
-        "text": "What fast food restaurant has Marilyn Monroe's star on the Hollywood Walk of Fame in front of it?"
-      },
-      "tags": [
-        "hollywood",
-        "people",
-        "tourist_attractions",
-        "marilyn_monroe"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f924",
-      "correctAnswer": "Broadcast News",
-      "incorrectAnswers": [
-        "The Birds",
-        "Mad Max",
-        "Fatal Attraction"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Jane Craig'?"
-      },
-      "tags": [
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f950203",
-      "correctAnswer": "Robert Wise",
-      "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
-      ],
-      "question": {
-        "text": "Which director directed The Sound of Music?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951b11",
-      "correctAnswer": "The Crimean War",
-      "incorrectAnswers": [
-        "World War II",
-        "The Vietnam War",
-        "The Hundred Years War"
-      ],
-      "question": {
-        "text": "In which war did Florence Nightingale earn her reputation?"
-      },
-      "tags": [
-        "people",
-        "wars",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950df2",
-      "correctAnswer": "Gaston Leroux",
-      "incorrectAnswers": [
-        "Victor Hugo",
-        "Alphonse Daudet",
-        "François-René de Chateaubriand"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Phantom of the Opera'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "637162471bf863c45ca6c366",
-      "correctAnswer": "Peace be with you",
-      "incorrectAnswers": [
-        "In good faith",
-        "And you, Brutus",
-        "Nothing is arduous for the willing"
-      ],
-      "question": {
-        "text": "How does that Latin phrase 'Pax vobiscum' translate into English?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6357fd1d68bd5000211e717e",
-      "correctAnswer": "Sri Lanka",
-      "incorrectAnswers": [
-        "Uganda",
-        "Taiwan",
-        "Algeria"
-      ],
-      "question": {
-        "text": "Tamil is a language spoken in which of these countries?"
-      },
-      "tags": [
-        "language",
-        "linguistics",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fca9",
-      "correctAnswer": "Uralic",
-      "incorrectAnswers": [
-        "Turkic",
-        "Koreanic",
-        "Indo-European"
-      ],
-      "question": {
-        "text": "The language 'Hungarian' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9e5",
-      "correctAnswer": "Calvin Coolidge",
-      "incorrectAnswers": [
-        "Martin Van Buren ",
-        "Grover Cleveland",
-        "Rutherford B. Hayes"
-      ],
-      "question": {
-        "text": "Who was the 30th president of the USA, in term during the period 1923–1929?"
-      },
-      "tags": [
-        "presidents",
-        "usa",
-        "1920's",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e82",
-      "correctAnswer": "Robert Louis Stevenson",
-      "incorrectAnswers": [
-        "Oscar Wilde",
-        "Agatha Christie",
-        "Joseph Conrad"
-      ],
-      "question": {
-        "text": "Which author wrote 'Strange Case of Dr Jekyll and Mr Hyde'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd05",
-      "correctAnswer": "Denis Diderot",
-      "incorrectAnswers": [
-        "Spinoza",
-        "Ludwig Wittgenstein",
-        "Friedrich Nietzsche"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'Man will never be free until the last king is strangled with the entrails of the last priest'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950cb3",
-      "correctAnswer": "Pink Floyd",
-      "incorrectAnswers": [
-        "Wings",
-        "Rudimental",
-        "The Alan Parsons Project"
-      ],
-      "question": {
-        "text": "Which English rock band released the studio album 'A Saucerful of Secrets'?"
-      },
-      "tags": [
+        "one_hit_wonders",
         "music"
       ],
       "type": "text_choice",
@@ -519,41 +516,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "62433498cfaae40c12961453",
-      "correctAnswer": "A Macho",
-      "incorrectAnswers": [
-        "A Buck",
-        "A Boar",
-        "A Hob"
-      ],
-      "question": {
-        "text": "What is the word for a male llama?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "645ba87ff09106226db23580",
-      "correctAnswer": "Allure",
+      "id": "622a1c397cc59eab6f950f26",
+      "correctAnswer": "Alice Munro",
       "incorrectAnswers": [
-        "Elle",
-        "Vogue",
-        "InStyle"
+        "Ivan Turgenev",
+        "E. T. A. Hoffmann",
+        "Alphonse Daudet"
       ],
       "question": {
-        "text": "Which magazine name applies to a charismatic person and claims to be \"The Beauty Expert\"?"
+        "text": "Which author wrote 'Runaway'?"
       },
       "tags": [
-        "fashion",
-        "beauty",
-        "print_media"
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -561,20 +537,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "639ae372929b90846f2fc8d2",
-      "correctAnswer": "Tlaloc",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950244",
+      "correctAnswer": "Apples ",
       "incorrectAnswers": [
-        "Huitzilopochtli",
-        "Quetzalcoatl",
-        "Ehecatl"
+        "Bananas",
+        "Cherries",
+        "Limes"
       ],
       "question": {
-        "text": "What is the name of the Aztec rain god?"
+        "text": "Which fruit is used to make Calvados?"
       },
       "tags": [
-        "history",
-        "aztecs"
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -583,18 +558,18 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb2e",
-      "correctAnswer": "The King's Speech",
+      "id": "645bc4634638d58091b1b9d0",
+      "correctAnswer": "The Ugly American",
       "incorrectAnswers": [
-        "Black Swan",
-        "The Fighter",
-        "Inception"
+        "The Quiet American",
+        "The Americanization of Emily",
+        "An American in Vietnam"
       ],
       "question": {
-        "text": "Which film won the Academy Award for Best Picture in 2010?"
+        "text": "Which 1963 drama features Marlon Brando as the U.S. Ambassador to an Asian country?"
       },
       "tags": [
-        "academy_awards",
+        "actors",
         "film",
         "film_and_tv"
       ],
@@ -604,19 +579,19 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "6242e84a8c2538f9601d2f9b",
-      "correctAnswer": "The Robins",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951aec",
+      "correctAnswer": "1965",
       "incorrectAnswers": [
-        "The Red Devils",
-        "The Whites",
-        "The Hatters"
+        "1969",
+        "1973",
+        "1961"
       ],
       "question": {
-        "text": "What is the nickname of the English football team Bristol City?"
+        "text": "In Which Year Did A Soviet Cosmonaut Make The First Spacewalk?"
       },
       "tags": [
-        "sport"
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -624,19 +599,41 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3d7cc59eab6f951be5",
-      "correctAnswer": "Black Thursday",
+      "category": "geography",
+      "id": "623735cecfe13103f55eb56e",
+      "correctAnswer": "Serbia",
       "incorrectAnswers": [
-        "Dark Wednesday",
-        "Sorrowful Sunday",
-        "Miserable Monday"
+        "Russia",
+        "Sierra Leone",
+        "Belarus"
       ],
       "question": {
-        "text": "How is the stockmarket collapse of the 24th October 1929 better known?"
+        "text": "Which region of the world uses '.rs' at the end of its web addresses?"
       },
       "tags": [
-        "history"
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fda5",
+      "correctAnswer": "Ever Fallen In Love",
+      "incorrectAnswers": [
+        "Smoke on the Water",
+        "Wish You Were Here",
+        "The Boys Are Back In Town"
+      ],
+      "question": {
+        "text": "Which Classic 70's Hit Features The Line \"And If I Start A Commotion I Run The Risk Of Losing You And That's Worse\"?"
+      },
+      "tags": [
+        "lyrics",
+        "1970's",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
