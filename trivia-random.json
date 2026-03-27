@@ -1,83 +1,236 @@
 {
-  "gameDate": "2026-03-26",
+  "gameDate": "2026-03-27",
   "difficulty": "random",
   "results": [
     {
-      "category": "society_and_culture",
-      "id": "65056f317a97013de78b53f0",
-      "correctAnswer": "Islam",
-      "incorrectAnswers": [
-        "Christianity",
-        "Judaism",
-        "Buddhism"
-      ],
-      "question": {
-        "text": "What is the main religion in Algeria?"
-      },
-      "tags": [
-        "society_and_culture",
-        "religion",
-        "countries"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "64879d54a754bb6010f8b048",
-      "correctAnswer": "Dr. Crane",
-      "incorrectAnswers": [
-        "Dr. House",
-        "Dr. Strange",
-        "Dr. Dolittle"
-      ],
-      "question": {
-        "text": "What is the name of the radio presenter, played by Kelsey Grammer, on the TV show 'Frasier'?"
-      },
-      "tags": [
-        "film_and_tv",
-        "film",
-        "sitcoms"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c347cc59eab6f94fb99",
-      "correctAnswer": "\"Let it Be\" by the Beatles",
+      "id": "622a1c357cc59eab6f94fd4a",
+      "correctAnswer": "Guns N Roses",
       "incorrectAnswers": [
-        "\"Man! I Feel Like a Woman!\" by Shania Twain",
-        "\"In da Club\" by 50 Cent",
-        "\"Welcome to the Black Parade\" by My Chemical Romance"
+        "Sex Pistols",
+        "The Ramones",
+        "The Clash"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"When I find myself in times of trouble, Mother Mary comes to me / Speaking words of wisdom, let it be...\"?"
+        "text": "With Which Rock Band Does \"Slash\" Play Guitar?"
       },
       "tags": [
-        "lyrics",
+        "people",
+        "general_knowledge",
         "music"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f9510d3",
-      "correctAnswer": "Camelopard",
+      "id": "622a1c3a7cc59eab6f95108f",
+      "correctAnswer": "Africa",
       "incorrectAnswers": [
-        "Lamiger",
-        "Felama",
-        "Horcamel"
+        "Asia",
+        "Autralasia",
+        "North America"
       ],
       "question": {
-        "text": "As what is a giraffe also known?"
+        "text": "The small red deer is the only type of deer found on which continent? "
+      },
+      "tags": [
+        "biology",
+        "animals",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd6d1dc0dd3b72da64d0d",
+      "correctAnswer": "1992",
+      "incorrectAnswers": [
+        "1980",
+        "1984",
+        "1988"
+      ],
+      "question": {
+        "text": "Reservoir Dogs was released in which year?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a36",
+      "correctAnswer": "The Trail of Tears",
+      "incorrectAnswers": [
+        "The Way of Woe",
+        "The Road of Ruin",
+        "The Path of Pain"
+      ],
+      "question": {
+        "text": "What was the most famous relocation by the Cherokee native Americans known as?"
+      },
+      "tags": [
+        "usa",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fece",
+      "correctAnswer": "Céline Dion",
+      "incorrectAnswers": [
+        "Mina",
+        "Nicki Minaj",
+        "Kylie Minogue"
+      ],
+      "question": {
+        "text": "Which Canadian singer released the song 'When I Fall in Love'?"
+      },
+      "tags": [
+        "songs",
+        "musicians",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233854962eaad73716a8c5f",
+      "correctAnswer": "Capri",
+      "incorrectAnswers": [
+        "Sicily",
+        "Corsica",
+        "Crete"
+      ],
+      "question": {
+        "text": "What small island is in the bay of Naples?"
+      },
+      "tags": [
+        "italy",
+        "islands",
+        "places",
+        "bodies_of_water",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293eca97f41d6338b96ef01",
+      "correctAnswer": "Leonhard Euler",
+      "incorrectAnswers": [
+        "Rasputin",
+        "Charles Babbage",
+        "Nicolaus Copernicus"
+      ],
+      "question": {
+        "text": "Which of these people was a mathematician who made prolific discoveries in calculus and graph theory?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture",
+        "mathematics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f9508d3",
+      "correctAnswer": "Tanzania",
+      "incorrectAnswers": [
+        "Zimbabwe",
+        "Burundi",
+        "Comoros"
+      ],
+      "question": {
+        "text": "Which of these countries borders Malawi?"
+      },
+      "tags": [
+        "africa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501b2",
+      "correctAnswer": "Frankenstein",
+      "incorrectAnswers": [
+        "Cloud Atlas",
+        "Coraline",
+        "Strange Case of Dr Jekyll and Mr Hyde"
+      ],
+      "question": {
+        "text": "Which piece of written work starts with the line 'You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings.'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fb9f",
+      "correctAnswer": "\"Hooked on a Feeling\" by B.J. Thomas",
+      "incorrectAnswers": [
+        "\"Immigrant Song\" by Led Zeppelin",
+        "\"What I Got\" by Sublime",
+        "\"American Pie\" by Don McLean"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"Ooga-chaka, Ooga-ooga / Ooga-chaka, Ooga-ooga...\"?"
+      },
+      "tags": [
+        "songs",
+        "lyrics",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242cb1ed543524f1b19c90e",
+      "correctAnswer": "A paddling",
+      "incorrectAnswers": [
+        "A pack",
+        "A muster",
+        "A cete"
+      ],
+      "question": {
+        "text": "What is the word for a group of ducks?"
       },
       "tags": [
         "science"
@@ -88,64 +241,22 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "627164ca1ba117625baac975",
-      "correctAnswer": "Rakia",
+      "category": "science",
+      "id": "63adbd7004c68cc1e14b8e3e",
+      "correctAnswer": "Acacia",
       "incorrectAnswers": [
-        "Sombai",
-        "Schnapps",
-        "Jenever"
+        "Acer",
+        "Willow",
+        "Redbud"
       ],
       "question": {
-        "text": "Which of these drinks would you associate with Croatia?"
+        "text": "What type of tree has an umbrella-shaped canopy and is native to Africa and Australasia?"
       },
       "tags": [
-        "drink",
-        "alcohol",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e86",
-      "correctAnswer": "Neil Gaiman",
-      "incorrectAnswers": [
-        "Stephen King",
-        "H. P. Lovecraft",
-        "Douglas Adams"
-      ],
-      "question": {
-        "text": "Which author wrote 'Coraline'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624db9c9de6018633d31f6a1",
-      "correctAnswer": "Rita Coolidge",
-      "incorrectAnswers": [
-        "Louis Armstrong",
-        "Madonna",
-        "Billie Eilish"
-      ],
-      "question": {
-        "text": "Who performed the theme song to the James Bond film Octopussy?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "soundtracks",
-        "film_and_tv"
+        "science",
+        "trees",
+        "plants",
+        "nature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -153,23 +264,62 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "647edafd520523194910c2d9",
-      "correctAnswer": "Fondant",
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc83",
+      "correctAnswer": "Fipple",
       "incorrectAnswers": [
-        "Caramel",
-        "Ganache",
-        "Meringue"
+        "Smicker",
+        "Bibble",
+        "Firman"
       ],
       "question": {
-        "text": "What is the sugary paste used for icing and cake decor that comes from the French word for 'melting'?"
+        "text": "Which word is defined as 'the mouthpiece of a recorder or similar wind instrument'?"
       },
       "tags": [
-        "baking",
-        "cakes",
-        "food",
-        "food_and_drink",
-        "french"
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951084",
+      "correctAnswer": "Mandrill",
+      "incorrectAnswers": [
+        "Lemur",
+        "Macaque",
+        "Tamarin"
+      ],
+      "question": {
+        "text": "Which monkey has patches of red on its rear end? "
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6239f8169129041bf3925cc5",
+      "correctAnswer": "India",
+      "incorrectAnswers": [
+        "Iron",
+        "Illness",
+        "Idle"
+      ],
+      "question": {
+        "text": "What word is used in the NATO Phonetic Alphabet for the letter I?"
+      },
+      "tags": [
+        "words",
+        "language",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -178,152 +328,38 @@
     },
     {
       "category": "general_knowledge",
-      "id": "6355b7f5e8b368eed3a6823b",
-      "correctAnswer": "nasal",
+      "id": "646339d101d576cfac3aa3c5",
+      "correctAnswer": "Poco",
       "incorrectAnswers": [
-        "fricative",
-        "affricative",
-        "plosive"
+        "Torro",
+        "Loco",
+        "Mucho"
       ],
       "question": {
-        "text": "In phonetics, the m in 'mother' is an example of what kind of sound?"
+        "text": "What is the Spanish word for \"few\"?"
       },
       "tags": [
-        "language",
-        "linguistics",
-        "general_knowledge",
-        "science"
+        "spain",
+        "words"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6256992b9da29df7b05f72b6",
-      "correctAnswer": "Angelina Jolie",
-      "incorrectAnswers": [
-        "Marisa Tomei",
-        "Tilda Swinton",
-        "Brie Larson"
-      ],
-      "question": {
-        "text": "The role of Thena in the Marvel Cinematic Universe is played by which actor?"
-      },
-      "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8cf",
-      "correctAnswer": "Gloria Swanson",
-      "incorrectAnswers": [
-        "Bette Davis",
-        "Barbara Stanwyck",
-        "Whoopi Goldberg"
-      ],
-      "question": {
-        "text": "Which actress played the role of Norma Desmond in Sunset Boulevard?"
-      },
-      "tags": [
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950055",
-      "correctAnswer": "Jack Nicklaus",
-      "incorrectAnswers": [
-        "Tiger Woods",
-        "Phil Mickelson",
-        "Bobby Jones"
-      ],
-      "question": {
-        "text": "Who was first to win the US Masters five times?"
-      },
-      "tags": [
-        "golf",
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c0e",
-      "correctAnswer": "Dream Theater",
-      "incorrectAnswers": [
-        "Jars of Clay",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American progressive metal band released the studio album 'Metropolis Pt. 2: Scenes from a Memory'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "64824ead7778562fd76a9681",
-      "correctAnswer": "Reservoir Dogs",
-      "incorrectAnswers": [
-        "Pulp Fiction",
-        "Jackie Brown",
-        "Kill Bill"
-      ],
-      "question": {
-        "text": "In which film did Steve Buscemi play a character called \"Mr. Pink\"?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv",
-        "acting"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "arts_and_literature",
-      "id": "647f9db03a4302a71927160a",
-      "correctAnswer": "Marcel Marceau",
+      "id": "622a1c3b7cc59eab6f9513b1",
+      "correctAnswer": "Dracula",
       "incorrectAnswers": [
-        "Jacques Tati",
-        "Charlie Chaplin",
-        "Buster Keaton"
+        "'Salem's Lot",
+        "Carrie",
+        "World War Z"
       ],
       "question": {
-        "text": "Which legendary mime picked up a 1955 Emmy for Best Specialty Act?"
+        "text": "In which book does 'Jonathan Harker' appear?"
       },
       "tags": [
-        "acting",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -332,194 +368,20 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "648889175dba6c873ef650db",
-      "correctAnswer": "Chicago",
-      "incorrectAnswers": [
-        "The Lord of the Rings: The Two Towers",
-        "Gangs of New York",
-        "The Pianist"
-      ],
-      "question": {
-        "text": "Which movie won the Academy Awards for Best Supporting Actress (Catherine Zeta-Jones) and Best Costume Design (Colleen Atwood) in 2002?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv",
-        "acting",
-        "academy_awards"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62ab32a95202de619af2811d",
-      "correctAnswer": "Chevrolet",
-      "incorrectAnswers": [
-        "Ford",
-        "BMW",
-        "Aston Martin"
-      ],
-      "question": {
-        "text": "The Corvette is a model of car made by which manufacturer?"
-      },
-      "tags": [
-        "motoring",
-        "business",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950bb1",
-      "correctAnswer": "Simon & Garfunkel",
-      "incorrectAnswers": [
-        "MercyMe",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American music duo released the song 'Mrs. Robinson'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "645c9f5442ea81e2554c5f19",
-      "correctAnswer": "Rocky",
-      "incorrectAnswers": [
-        "The Godfather",
-        "Jaws",
-        "Star Wars"
-      ],
-      "question": {
-        "text": "Which 1970s movie, featuring Sylvester Stallone, was re-released under the rhyming title \"The Italian Stallion\"?"
-      },
-      "tags": [
-        "film_and_tv",
-        "film"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c397cc59eab6f950fb6",
-      "correctAnswer": "Gregor Mendel",
-      "incorrectAnswers": [
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Charles Darwin"
-      ],
-      "question": {
-        "text": "Who is known as the father of genetics?"
-      },
-      "tags": [
-        "people",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6266e69fff2394bd44dee058",
-      "correctAnswer": "Eight",
-      "incorrectAnswers": [
-        "Four",
-        "Black",
-        "Nine"
-      ],
-      "question": {
-        "text": "In Italian, what is the meaning of the word 'otto'?"
-      },
-      "tags": [
-        "language",
-        "translations",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "649d6d6de3aef0a3c23f6437",
-      "correctAnswer": "Monaco",
+      "id": "622a1c367cc59eab6f95040b",
+      "correctAnswer": "Iceni",
       "incorrectAnswers": [
-        "Andorra",
-        "Sweden",
-        "Switzerland"
+        "Gangani",
+        "Cassi",
+        "Brigantes"
       ],
       "question": {
-        "text": "On April 19, 1956, Grace Kelly had a storybook wedding with Prince Rainier of which country?"
+        "text": "Of What Tribe Was Boadicea The Head?"
       },
       "tags": [
-        "weddings",
-        "people",
-        "history",
-        "1950's"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95012b",
-      "correctAnswer": "Janus",
-      "incorrectAnswers": [
-        "Mars",
-        "Octavian",
-        "Septimus"
-      ],
-      "question": {
-        "text": "Which Roman god of doorways and passages is the two headed deity from which we get the name of one of our months?"
-      },
-      "tags": [
-        "mythology",
-        "romans",
         "classics",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "6384b42483dddfb71ee5e35e",
-      "correctAnswer": "Cricket",
-      "incorrectAnswers": [
-        "Rugby",
-        "Baseball",
-        "Swimming"
-      ],
-      "question": {
-        "text": "Which sport is played at The ICC World Cup?"
-      },
-      "tags": [
-        "sport"
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -527,20 +389,88 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950580",
-      "correctAnswer": "Whales, dolphins and porpoises",
+      "category": "society_and_culture",
+      "id": "64824e707778562fd76a9646",
+      "correctAnswer": "Giorgio Armani",
       "incorrectAnswers": [
-        "Grasses",
-        "Bones",
-        "Museum management"
+        "Gucci Adriano",
+        "Giovanni Anselmi",
+        "Gabriel Alvarez"
       ],
       "question": {
-        "text": "What is cetology the study of?"
+        "text": "Which Italian fashion designer has the initials G.A.?"
       },
       "tags": [
-        "science",
-        "words"
+        "designers",
+        "fashion",
+        "people",
+        "society_and_culture",
+        "italy"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "65056f917a97013de78b5476",
+      "correctAnswer": "Rocky Mountains",
+      "incorrectAnswers": [
+        "Transantarctic mountains",
+        "Andes",
+        "Himalayas"
+      ],
+      "question": {
+        "text": "Which mountain range does the Colorado River flow through?"
+      },
+      "tags": [
+        "geography",
+        "rivers",
+        "mountains"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fee6",
+      "correctAnswer": "David Bowie",
+      "incorrectAnswers": [
+        "Eric Clapton",
+        "Madonna",
+        "Mika"
+      ],
+      "question": {
+        "text": "Which musician released the song 'Let's Dance'?"
+      },
+      "tags": [
+        "songs",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "627164581ba117625baac959",
+      "correctAnswer": "Jinmen Gaoliang",
+      "incorrectAnswers": [
+        "Bourbon",
+        "Riga Black Balsam",
+        "Chibuku"
+      ],
+      "question": {
+        "text": "Which of these is a popular drink in Taiwan?"
+      },
+      "tags": [
+        "drink",
+        "alcohol"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -549,20 +479,61 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fdd6",
-      "correctAnswer": "Drake",
+      "id": "622a1c387cc59eab6f950b37",
+      "correctAnswer": "The Police",
       "incorrectAnswers": [
-        "Neil Young",
-        "Alanis Morissette",
-        "Justin Bieber"
+        "Level 42",
+        "Wings",
+        "Ultravox"
       ],
       "question": {
-        "text": "Which Canadian musician released the album 'Views'?"
+        "text": "Which English rock band released the song 'So Lonely'?"
       },
       "tags": [
-        "music_albums",
-        "musicians",
+        "rock_music",
         "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950bdd",
+      "correctAnswer": "Scorpions",
+      "incorrectAnswers": [
+        "Rammstein",
+        "Sodom",
+        "U.D.O."
+      ],
+      "question": {
+        "text": "Which German rock band released the song 'Rock You Like a Hurricane'?"
+      },
+      "tags": [
+        "germany",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64879d54a754bb6010f8b03f",
+      "correctAnswer": "A Motif",
+      "incorrectAnswers": [
+        "A Chorus",
+        "A Verse",
+        "A Melody"
+      ],
+      "question": {
+        "text": "What is a recurring theme in a musical or literary work called?"
+      },
+      "tags": [
+        "music",
+        "music_theory"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -571,39 +542,38 @@
     },
     {
       "category": "geography",
-      "id": "622a1c387cc59eab6f950807",
-      "correctAnswer": "Asia",
+      "id": "623b57a4fd6c701a9211836e",
+      "correctAnswer": "Egypt",
       "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Europe"
+        "Yemen",
+        "Japan",
+        "Vietnam"
       ],
       "question": {
-        "text": "The country of Turkmenistan is on which continent?"
+        "text": "In which country would you find the Abu Simbel temples?"
       },
       "tags": [
         "geography"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950026",
-      "correctAnswer": "Baseball",
+      "category": "general_knowledge",
+      "id": "6462624aab138b829b81e9de",
+      "correctAnswer": "Due",
       "incorrectAnswers": [
-        "Basketball",
-        "American Football",
-        "Soccer"
+        "Earned",
+        "Needed",
+        "Appreciated"
       ],
       "question": {
-        "text": "With which sport is Babe Ruth associated?"
+        "text": "Complete this popular saying: 'Give credit where credit is _______'"
       },
       "tags": [
-        "sport",
-        "people",
+        "sayings",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -612,21 +582,21 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "626030504b176d54800e3d1c",
-      "correctAnswer": "United Arab Emirates",
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503b4",
+      "correctAnswer": "Charles I",
       "incorrectAnswers": [
-        "Qatar",
-        "Kuwait",
-        "Lebanon"
+        "Louis XIV",
+        "Louis XVI",
+        "Charles III"
       ],
       "question": {
-        "text": "In which country is the city of Ajman?"
+        "text": "Which King Wore Two Shirts At His Execution So As Not To Shiver And Appear Frightened?"
       },
       "tags": [
-        "cities",
-        "the_middle_east",
-        "geography"
+        "kings",
+        "uk",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -634,23 +604,45 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "645bc75b4638d58091b1b9eb",
-      "correctAnswer": "San Diego",
+      "category": "society_and_culture",
+      "id": "6262af5a4b176d54800e3dc0",
+      "correctAnswer": "For The Win",
       "incorrectAnswers": [
-        "San Francisco",
-        "Los Angeles",
-        "Sacramento"
+        "Free The Whales",
+        "Found This Website",
+        "Food To Wine"
       ],
       "question": {
-        "text": "Which California city was a whaling port in the mid-1800s and is located 12 miles north of Mexico?"
+        "text": "What do people mean when type the letters 'FTW' in a message on the internet?"
       },
       "tags": [
-        "cities",
-        "history",
-        "california",
-        "usa",
-        "geography"
+        "the_internet",
+        "initials",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "64dd35bb9cef2bd3a34a8d5a",
+      "correctAnswer": "Killer Croc",
+      "incorrectAnswers": [
+        "Bad Baboon",
+        "Lethal Lemur ",
+        "Raging Rhino"
+      ],
+      "question": {
+        "text": "Which DC Comics supervillain is a menace to Batman?"
+      },
+      "tags": [
+        "comics",
+        "superheroes",
+        "batman",
+        "dc",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
