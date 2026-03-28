@@ -1,18 +1,323 @@
 {
-  "gameDate": "2026-03-27",
+  "gameDate": "2026-03-28",
   "difficulty": "medium",
   "results": [
     {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950178",
-      "correctAnswer": "Salvador Dali",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950db6",
+      "correctAnswer": "The Rolling Stones",
       "incorrectAnswers": [
-        "Pablo Picasso",
-        "Andy Warhol",
-        "Damien Hirst"
+        "McFly",
+        "Delirious?",
+        "Depeche Mode"
       ],
       "question": {
-        "text": "Which artist produced a lobster telephone?"
+        "text": "Which band includes 'Keith Richards'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff2b",
+      "correctAnswer": "Michael Jackson",
+      "incorrectAnswers": [
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
+      ],
+      "question": {
+        "text": "Which musician released the song 'Man in the Mirror'?"
+      },
+      "tags": [
+        "songs",
+        "musicians",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6494beb7d7601042f7eaa94b",
+      "correctAnswer": "Build-A-Bear",
+      "incorrectAnswers": [
+        "Teddy Bear Emporium",
+        "Toy Workshop",
+        "Plush Pals"
+      ],
+      "question": {
+        "text": "What is the name of the store where customers can build and customize their own stuffed animals?"
+      },
+      "tags": [
+        "retail",
+        "companies",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "647f9da93a4302a7192715f1",
+      "correctAnswer": "A bagel",
+      "incorrectAnswers": [
+        "A croissant",
+        "A muffin",
+        "A doughnut"
+      ],
+      "question": {
+        "text": "What breakfast item takes its name from the Yiddish word for 'ring' or 'bracelet'?"
+      },
+      "tags": [
+        "breakfast",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "646262f6ab138b829b81ea72",
+      "correctAnswer": "Chile",
+      "incorrectAnswers": [
+        "Argentina",
+        "Mexico",
+        "Brazil"
+      ],
+      "question": {
+        "text": "Which of these countries is between Bolivia and the Pacific Ocean?"
+      },
+      "tags": [
+        "countries",
+        "south_america",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951ae0",
+      "correctAnswer": "1961",
+      "incorrectAnswers": [
+        "1938",
+        "1945",
+        "1953"
+      ],
+      "question": {
+        "text": "In which year was the Berlin Wall constructed?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63e13a2d106de6ffa7d4a7ac",
+      "correctAnswer": "Endocrine glands",
+      "incorrectAnswers": [
+        "Eccrine glands",
+        "Salivary glands",
+        "Mammary glands"
+      ],
+      "question": {
+        "text": "In the human body, what is the name given to glands responsible for producing hormones?"
+      },
+      "tags": [
+        "science",
+        "biology",
+        "anatomy",
+        "medicine"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8ea",
+      "correctAnswer": "Malcolm McDowell",
+      "incorrectAnswers": [
+        "Clint Eastwood",
+        "Arnold Schwarzenegger",
+        "James Stewart"
+      ],
+      "question": {
+        "text": "Which actor played the role of Alex DeLarge in A Clockwork Orange?"
+      },
+      "tags": [
+        "people",
+        "acting",
+        "cult_films",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f857",
+      "correctAnswer": "Boxing",
+      "incorrectAnswers": [
+        "Cycling",
+        "Cricket",
+        "Ice Hockey"
+      ],
+      "question": {
+        "text": "With which sport is Henry Cooper associated?"
+      },
+      "tags": [
+        "people",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "637162841bf863c45ca6c381",
+      "correctAnswer": "Barba non facit philosophum",
+      "incorrectAnswers": [
+        "Ad victoriam philos",
+        "Una philos non facit ver",
+        "Philosophum ad meliora"
+      ],
+      "question": {
+        "text": "Which of these Latin phrases means 'A beard doesn't make one a philosopher'?"
+      },
+      "tags": [
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951be0",
+      "correctAnswer": "3",
+      "incorrectAnswers": [
+        "1",
+        "2",
+        "4"
+      ],
+      "question": {
+        "text": "How many astronauts manned each Apollo flight?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe96",
+      "correctAnswer": "Rihanna",
+      "incorrectAnswers": [
+        "Drake",
+        "Nicki Minaj",
+        "Ricky Martin"
+      ],
+      "question": {
+        "text": "Which singer released the single 'Break It Off'?"
+      },
+      "tags": [
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c367cc59eab6f95032a",
+      "correctAnswer": "Bonnie Parker",
+      "incorrectAnswers": [
+        "Ma Baker",
+        "Anne Bonny",
+        "Mary Surratt"
+      ],
+      "question": {
+        "text": "Who was the first woman to be shot by the FBI?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6610278f5b813cab24c99f54",
+      "correctAnswer": "Turkish Delight",
+      "incorrectAnswers": [
+        "Baklava",
+        "Börek",
+        "Kadayıf"
+      ],
+      "question": {
+        "text": "What is the traditional Turkish sweet made of gel of starch and sugar, often flavored with rosewater or lemon?"
+      },
+      "tags": [
+        "culture",
+        "food",
+        "turkey",
+        "food_and_drink",
+        "candy"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501d4",
+      "correctAnswer": "On the Origin of Species",
+      "incorrectAnswers": [
+        "Germinal",
+        "Eine Geschichte des Universums in 100 Sternen",
+        "Madame Bovary"
+      ],
+      "question": {
+        "text": "Which piece of written work starts with the line 'When we look to the individuals of the same variety or sub‐variety of our older cultivated plants and animals, one of the first points which strikes us, is, that they generally differ much more from each other, than do the individuals of any one species or variety in a state of nature.'?"
       },
       "tags": [
         "arts_and_literature"
@@ -23,109 +328,21 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500b1",
-      "correctAnswer": "Andre Agassi",
-      "incorrectAnswers": [
-        "Roger Federer",
-        "Pete Sampras",
-        "Andy Roddick"
-      ],
-      "question": {
-        "text": "In April 2003 Who Became The Oldest Man To Be Rated No1 In The World Tennis Association Rankings At The Age Of 33?"
-      },
-      "tags": [
-        "people",
-        "tennis",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502d8",
-      "correctAnswer": "From The Menu ",
-      "incorrectAnswers": [
-        "Chef's Specials",
-        "House Favourites",
-        "Set Menu"
-      ],
-      "question": {
-        "text": "What Does The Term 'A La Carte' Mean?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611f1e4b176d54800e3d42",
-      "correctAnswer": "1947",
-      "incorrectAnswers": [
-        "1891",
-        "1763",
-        "1999"
-      ],
-      "question": {
-        "text": "When was the partition of India and Pakistan?"
-      },
-      "tags": [
-        "events",
-        "india",
-        "politics",
-        "countries",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "64909c3c58265893a0c86d88",
-      "correctAnswer": "Angelina Jolie",
+      "id": "63dd25cc742e43ed64f1f01d",
+      "correctAnswer": "Frasier Crane",
       "incorrectAnswers": [
-        "Scarlett Johansson",
-        "Jennifer Lawrence",
-        "Charlize Theron"
+        "Jerry Seinfeld",
+        "Chandler Bing",
+        "Michael Bluth"
       ],
       "question": {
-        "text": "Which actress played both the roles of Evelyn Salt and Lara Croft?"
+        "text": "Which famous sitcom character is played by Kelsey Grammer?"
       },
       "tags": [
-        "acting",
         "film_and_tv",
-        "film"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374278cb85f7ce9e949dd0",
-      "correctAnswer": "Stockholm",
-      "incorrectAnswers": [
-        "Monrovia",
-        "Helsinki",
-        "Oslo"
-      ],
-      "question": {
-        "text": "What is the capital city of Sweden?"
-      },
-      "tags": [
-        "europe",
-        "capital_cities",
-        "geography"
+        "tv",
+        "sitcoms"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -134,193 +351,20 @@
     },
     {
       "category": "history",
-      "id": "622a1c367cc59eab6f95035d",
-      "correctAnswer": "William The Conqueror",
+      "id": "639c9dba929b90846f2fc9a6",
+      "correctAnswer": "1953",
       "incorrectAnswers": [
-        "Henry VIII",
-        "Victoria",
-        "Albert the Great"
+        "1903",
+        "1853",
+        "1803"
       ],
       "question": {
-        "text": "Who was crowned King of England at Westminster Abbey on Christmas day 1066?"
+        "text": "In which year did the Cuban Revolution begin?"
       },
       "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "64626287ab138b829b81ea0f",
-      "correctAnswer": "Quintuplets",
-      "incorrectAnswers": [
-        "Triplets",
-        "Sextuplets",
-        "Octuplets"
-      ],
-      "question": {
-        "text": "What is the word used when a mother gives birth to 5 babies?"
-      },
-      "tags": [
-        "mathematics",
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd64adc0dd3b72da64ce5",
-      "correctAnswer": "1994",
-      "incorrectAnswers": [
-        "1986",
-        "1990",
-        "1998"
-      ],
-      "question": {
-        "text": "The Shawshank Redemption was released in which year?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "6498a5e40752843c0d8aae0d",
-      "correctAnswer": "Moon landing",
-      "incorrectAnswers": [
-        "Assassination of JFK",
-        "Fall of the Berlin Wall",
-        "Invention of the internet"
-      ],
-      "question": {
-        "text": "What historic event happened on July 20, 1969?"
-      },
-      "tags": [
-        "events",
         "history",
-        "1960's"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6462624aab138b829b81e9e0",
-      "correctAnswer": "Leonardo DiCaprio",
-      "incorrectAnswers": [
-        "Matt Damon",
-        "Johnny Depp",
-        "Brad Pitt"
-      ],
-      "question": {
-        "text": "Which actor played Meryl Streep's son in the 1996 film 'Marvin's Room' before starring in 'The Beach'?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64909c1758265893a0c86d71",
-      "correctAnswer": "Murphy's law",
-      "incorrectAnswers": [
-        "Mendel's law",
-        "Newton's law",
-        "Boyle's law"
-      ],
-      "question": {
-        "text": "What term represents the belief that if something can go wrong, it will?"
-      },
-      "tags": [
-        "sayings",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62373594cfe13103f55eb547",
-      "correctAnswer": "Netherlands",
-      "incorrectAnswers": [
-        "Finland",
-        "Greenland",
-        "Nepal"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.nl' at the end of its web addresses?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64976c110752843c0d8aadbb",
-      "correctAnswer": "ICBM",
-      "incorrectAnswers": [
-        "ABM",
-        "HAMB",
-        "BOMB"
-      ],
-      "question": {
-        "text": "What is the abbreviation for a missile with a range greater than 3,400 miles?"
-      },
-      "tags": [
-        "weapons",
-        "military",
-        "initials",
-        "abbreviations",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6463395701d576cfac3aa35c",
-      "correctAnswer": "The Hippocratic Oath",
-      "incorrectAnswers": [
-        "The Nightingale's Pledge",
-        "The Socratic Oath",
-        "The Ecclesiast Pledge"
-      ],
-      "question": {
-        "text": "What is the name of the oath traditionally taken by doctors, which originated in ancient Greece and is still associated with the medical profession today?"
-      },
-      "tags": [
-        "philosophy",
-        "society_and_culture",
-        "healthcare",
-        "medicine"
+        "revolutions",
+        "caribbean"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -329,19 +373,59 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951360",
-      "correctAnswer": "Stenciling",
+      "id": "622a1c3a7cc59eab6f95135c",
+      "correctAnswer": "Minimalism",
       "incorrectAnswers": [
-        "Stamping",
-        "Collaging",
-        "Embossing"
+        "Simplicism",
+        "Aesthetics",
+        "Surrealism"
       ],
       "question": {
-        "text": "What is a method of producing images or letters by painting over holes cut in a covering surface?"
+        "text": "Which art movement emphasized pure, reduced forms and strict, systematic composition?"
       },
       "tags": [
-        "words",
-        "art"
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ec1",
+      "correctAnswer": "Mark Twain",
+      "incorrectAnswers": [
+        "Cassandra Clare",
+        "Isabel Allende",
+        "George R. R. Martin"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Adventures of Tom Sawyer'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740789da29df7b05f73e0",
+      "correctAnswer": "The life of a boxer whose temper led him to the top in the ring, but destroyed his life outside of it.",
+      "incorrectAnswers": [
+        "A lawyer in Depression-era Alabama defends a black man against an undeserved rape charge.",
+        "A retired gunslinger takes on one last job, with the help of his old partner and a young man.",
+        "An agent of the secret police, spying on a writer and his lover, finds himself becoming absorbed by their lives."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Raging Bull?"
+      },
+      "tags": [
+        "film"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -350,21 +434,20 @@
     },
     {
       "category": "food_and_drink",
-      "id": "6250071d0d86c8f685d80f15",
-      "correctAnswer": "Vermicelli",
+      "id": "645c9f8742ea81e2554c5f43",
+      "correctAnswer": "Falafel",
       "incorrectAnswers": [
-        "Penne",
-        "Gemelli",
-        "Tagliatelle"
+        "Hummus",
+        "Baba ganoush",
+        "Tabbouleh"
       ],
       "question": {
-        "text": "Which pasta's name means 'Little worms'?"
+        "text": "What Middle Eastern dish is made of spiced, mashed chickpeas which are then deep fried?"
       },
       "tags": [
         "food",
-        "words",
-        "language",
-        "food_and_drink"
+        "food_and_drink",
+        "the_middle_east"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -372,23 +455,42 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "6477bada550bc819ad646b49",
-      "correctAnswer": "California",
+      "category": "film_and_tv",
+      "id": "622a1c3c7cc59eab6f9518eb",
+      "correctAnswer": "Chopsticks",
       "incorrectAnswers": [
-        "Maine",
-        "Washington",
-        "Florida"
+        "Sticky tape",
+        "His fingers",
+        "A shotglass"
       ],
       "question": {
-        "text": "Which US state is home to Muir Woods, a national monument that contains giant redwood trees?"
+        "text": "What did the Karate Kid use to catch a fly?"
       },
       "tags": [
-        "nature",
-        "trees",
-        "us_states",
-        "geography",
-        "usa"
+        "film",
+        "1980's",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740289da29df7b05f73c8",
+      "correctAnswer": "Taxi Driver",
+      "incorrectAnswers": [
+        "It's a Wonderful Life",
+        "Apocalypse Now",
+        "Life Is Beautiful"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'A mentally unstable veteran has urges for violence after witnessing decadence and sleaze.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -397,15 +499,15 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f95108a",
-      "correctAnswer": "Cuckoo",
+      "id": "6242caedd543524f1b19c8fb",
+      "correctAnswer": "A herd",
       "incorrectAnswers": [
-        "Sparrow",
-        "Stork",
-        "Vulture"
+        "A pace",
+        "A barren",
+        "A gaggle"
       ],
       "question": {
-        "text": "Which bird lays its eggs in the nests of other birds? "
+        "text": "What is the word for a group of antelopes?"
       },
       "tags": [
         "science"
@@ -416,42 +518,20 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "645fcc7a541c4d4fc8cf306c",
-      "correctAnswer": "The Goonies",
-      "incorrectAnswers": [
-        "E.T. the Extra-Terrestrial",
-        "Indiana Jones and the Temple of Doom",
-        "Back to the Future"
-      ],
-      "question": {
-        "text": "Which 1985 Steven Spielberg film features the actor who played Samwise Gamgee in The Lord of the Rings?"
-      },
-      "tags": [
-        "1980's",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f74",
-      "correctAnswer": "Stephen King",
+      "id": "622a1c397cc59eab6f950ef0",
+      "correctAnswer": "George R. R. Martin",
       "incorrectAnswers": [
-        "H. P. Lovecraft",
-        "Edgar Allan Poe",
-        "Jack Vance"
+        "Stephen King",
+        "Jack Vance",
+        "Edgar Rice Burroughs"
       ],
       "question": {
-        "text": "Which author wrote ''Salem's Lot'?"
+        "text": "Which author wrote 'A Storm of Swords'?"
       },
       "tags": [
         "literature",
-        "general_knowledge",
+        "fantasy",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -460,64 +540,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "649601ffe831b1ab5aa11125",
-      "correctAnswer": "Grand Marnier",
-      "incorrectAnswers": [
-        "Disaronno",
-        "Limoncello",
-        "Midori"
-      ],
-      "question": {
-        "text": "Which of these is an orange flavoured liqueur?"
-      },
-      "tags": [
-        "alcohol",
-        "drink",
-        "food_and_drink",
-        "fruit"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f95164f",
-      "correctAnswer": "The Beginning",
-      "incorrectAnswers": [
-        "The End",
-        "Between Courses",
-        "With A Soup"
-      ],
-      "question": {
-        "text": " At which stage of a meal would you have an hors d'oeuvre?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "645c9fc842ea81e2554c5f95",
-      "correctAnswer": "Pygmies",
+      "id": "64a481cddb01fd81937c97c2",
+      "correctAnswer": "Caravan",
       "incorrectAnswers": [
-        "Mayans",
-        "Inuits",
-        "Bantus"
+        "Curtain",
+        "Commissary ",
+        "Cartel"
       ],
       "question": {
-        "text": "Which ethnic group of people living in Congo's Ituri Forest are the shortest in the world, with an average height of about 4'8''?"
+        "text": "What is the term for a convoy of vehicles or merchants traveling together?"
       },
       "tags": [
-        "anthropology",
-        "society_and_culture",
-        "africa"
+        "words",
+        "trade",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -526,20 +563,42 @@
     },
     {
       "category": "geography",
-      "id": "6233852f62eaad73716a8c55",
-      "correctAnswer": "The Mersey",
+      "id": "62602de04b176d54800e3cb1",
+      "correctAnswer": "Spain",
       "incorrectAnswers": [
-        "The Rhine",
-        "The Tyne",
-        "The Thames"
+        "Bosnia and Herzegovina",
+        "Albania",
+        "Bulgaria"
       ],
       "question": {
-        "text": "What river is Liverpool on?"
+        "text": "Valencia is a city in which country?"
       },
       "tags": [
+        "cities",
+        "europe",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233853662eaad73716a8c58",
+      "correctAnswer": "Arno",
+      "incorrectAnswers": [
+        "Severn",
+        "Seine",
+        "Tagus"
+      ],
+      "question": {
+        "text": "What river separates the city of Florence?"
+      },
+      "tags": [
+        "italy",
         "rivers",
         "bodies_of_water",
-        "uk",
         "cities",
         "geography"
       ],
@@ -549,21 +608,21 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623389330161109f922aacd3",
-      "correctAnswer": "Alice Springs ",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fecd",
+      "correctAnswer": "Kate Bush",
       "incorrectAnswers": [
-        "Perth",
-        "Canberra",
-        "Wolongonga"
+        "David Bowie",
+        "John Lennon",
+        "George Michael"
       ],
       "question": {
-        "text": "Which Town Is Situated Close To The Geographic Centre Of Australia"
+        "text": "Which British recording artist released the album 'Hounds of Love'?"
       },
       "tags": [
-        "australia",
-        "places",
-        "geography"
+        "music_albums",
+        "musicians",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -571,89 +630,19 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "63dd25c4742e43ed64f1f010",
-      "correctAnswer": "Fiscal Policy",
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f950291",
+      "correctAnswer": "Big Kahuna burger ",
       "incorrectAnswers": [
-        "Honesty Policy",
-        "Tax Policy",
-        "Free Market"
+        "Royale With Cheese ",
+        "Dunkin' Donuts",
+        "KFC Family Bucket"
       ],
       "question": {
-        "text": "In economics, what is the term for the use of government funds to influence the economy?"
+        "text": "What was Brett's last supper in the film Pulp Fiction?"
       },
       "tags": [
-        "society_and_culture",
-        "economics"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056ea97a97013de78b5332",
-      "correctAnswer": "Beer",
-      "incorrectAnswers": [
-        "Wine",
-        "Vodka",
-        "Absinthe"
-      ],
-      "question": {
-        "text": "For which beverage is the Czech town of Budweis famous?"
-      },
-      "tags": [
-        "drink",
-        "food_and_drink",
-        "beer",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ecc87f41d6338b96ef0a",
-      "correctAnswer": "Cyrus the Great",
-      "incorrectAnswers": [
-        "Thomas Malthus",
-        "St. Paul",
-        "Zoroaster"
-      ],
-      "question": {
-        "text": "Which influential historical person was the founder of the Achaemenid Empire, the first Persian Empire?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "society_and_culture",
-        "empires"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3b7cc59eab6f951703",
-      "correctAnswer": "King Arthur",
-      "incorrectAnswers": [
-        "Robin Hood",
-        "Boudicca",
-        "Alfred the Great"
-      ],
-      "question": {
-        "text": "Who lived at Camelot?"
-      },
-      "tags": [
-        "uk",
-        "mythology",
-        "places",
-        "society_and_culture"
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",

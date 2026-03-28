@@ -1,21 +1,44 @@
 {
-  "gameDate": "2026-03-27",
+  "gameDate": "2026-03-28",
   "difficulty": "hard",
   "results": [
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f4c",
-      "correctAnswer": "Jules Verne",
+      "category": "science",
+      "id": "6244379b746187c5e7be9363",
+      "correctAnswer": "Quartz",
       "incorrectAnswers": [
-        "Victor Hugo",
-        "Alphonse Daudet",
-        "Edgar Rice Burroughs"
+        "Hematite",
+        "Borax",
+        "Epsom salt"
       ],
       "question": {
-        "text": "Which author wrote 'Tribulations of a Chinaman in China'?"
+        "text": "What is silicon dioxide commonly known as?"
       },
       "tags": [
-        "arts_and_literature"
+        "chemistry",
+        "names",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd92",
+      "correctAnswer": "The Bay City Rollers",
+      "incorrectAnswers": [
+        "Status Quo",
+        "The Who",
+        "Cream"
+      ],
+      "question": {
+        "text": "Who Had 2 Number One LP's Called \"Rollin\" & \"Once Upon A Star\"?"
+      },
+      "tags": [
+        "music_albums",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -24,15 +47,15 @@
     },
     {
       "category": "geography",
-      "id": "62373f98cb85f7ce9e949ca8",
-      "correctAnswer": "Bridgetown",
+      "id": "6233893b0161109f922aacd6",
+      "correctAnswer": "Boston",
       "incorrectAnswers": [
-        "Kingstown",
-        "Victoria",
-        "Dublin"
+        "New York",
+        "Philadelphia",
+        "Miami"
       ],
       "question": {
-        "text": "What is the capital city of Barbados?"
+        "text": "Which U.S. city is known as Beantown?"
       },
       "tags": [
         "geography"
@@ -43,22 +66,241 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951865",
-      "correctAnswer": "Luxor",
+      "category": "geography",
+      "id": "6233864262eaad73716a8cc1",
+      "correctAnswer": "Brazil",
       "incorrectAnswers": [
-        "Alexandria",
-        "Cairo",
-        "Port Said"
+        "Nigeria",
+        "Australia",
+        "Japan"
       ],
       "question": {
-        "text": "Where In Egypt Is The Tomb Of Tutankhamen?"
+        "text": "Where Is Sugar Loaf Mountain?"
       },
       "tags": [
-        "ancient_egypt",
-        "the_ancient_world",
-        "africa",
-        "leaders",
+        "mountains",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "65056f187a97013de78b53cd",
+      "correctAnswer": "DOUX",
+      "incorrectAnswers": [
+        "TART",
+        "SVIN",
+        "POUT"
+      ],
+      "question": {
+        "text": "Which letters indicate that a French wine is sweet?"
+      },
+      "tags": [
+        "food_and_drink",
+        "drink",
+        "wine",
+        "french",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3a7cc59eab6f9511c1",
+      "correctAnswer": "Terpsichore",
+      "incorrectAnswers": [
+        "Penelope",
+        "Thalia",
+        "Medea"
+      ],
+      "question": {
+        "text": "Who is the Greek muse of dance and choral song?"
+      },
+      "tags": [
+        "society_and_culture",
+        "ancient_greece",
+        "mythology"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "63961177e55fa75b149597bb",
+      "correctAnswer": "Breaking Bad",
+      "incorrectAnswers": [
+        "SpongeBob Squarepants",
+        "Brooklyn 99",
+        "American Vandals"
+      ],
+      "question": {
+        "text": "In which popular American TV series would you find the character Jesse Pinkman?"
+      },
+      "tags": [
+        "film_and_tv",
+        "tv",
+        "fictitious_characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "645c9f1642ea81e2554c5ee8",
+      "correctAnswer": "Germany",
+      "incorrectAnswers": [
+        "Egypt",
+        "India",
+        "Spain"
+      ],
+      "question": {
+        "text": "Although the Poodle is widely associated with France, in which country is it believed to have originated?"
+      },
+      "tags": [
+        "animals",
+        "dogs"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950751",
+      "correctAnswer": "Susan Sarandon",
+      "incorrectAnswers": [
+        "Kate Winslet",
+        "Helen Mirren",
+        "Maggie Smith"
+      ],
+      "question": {
+        "text": "Which actress has featured in films including Fame and Enchanted?"
+      },
+      "tags": [
+        "film_and_tv",
+        "acting",
+        "film"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "648ee4224fe93387161138a0",
+      "correctAnswer": "The Bronx",
+      "incorrectAnswers": [
+        "Brooklyn",
+        "Queens",
+        "Manhattan"
+      ],
+      "question": {
+        "text": "Which New York City borough is the only one that is not separated from Upstate New York by water?"
+      },
+      "tags": [
+        "new_york_city",
+        "cities",
+        "usa",
+        "geography",
+        "new_york"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "648614a2f773f09dc0193b35",
+      "correctAnswer": "Iron",
+      "incorrectAnswers": [
+        "Copper",
+        "Gold",
+        "Aluminum"
+      ],
+      "question": {
+        "text": "Magnetite, which is noted for its natural magnetism, is an important ore of which metal?"
+      },
+      "tags": [
+        "chemistry",
+        "metals",
+        "materials",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3a7cc59eab6f95102e",
+      "correctAnswer": "Swan",
+      "incorrectAnswers": [
+        "Ring",
+        "River",
+        "Mountain"
+      ],
+      "question": {
+        "text": "What is the meaning of the name of the constellation Cygnus?"
+      },
+      "tags": [
+        "names",
+        "astronomy",
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950ce6",
+      "correctAnswer": "Queen",
+      "incorrectAnswers": [
+        "Deep Purple",
+        "Feeder",
+        "Led Zeppelin"
+      ],
+      "question": {
+        "text": "Which British rock band released the album 'Innuendo'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "646089a2de964ebc39016c57",
+      "correctAnswer": "The Mughal Empire",
+      "incorrectAnswers": [
+        "The French Empire",
+        "The Aztec Empire",
+        "The Hittite Empire"
+      ],
+      "question": {
+        "text": "Which empire of the past had the \"Peacock Throne\"?"
+      },
+      "tags": [
+        "empires",
         "history"
       ],
       "type": "text_choice",
@@ -68,17 +310,19 @@
     },
     {
       "category": "food_and_drink",
-      "id": "624c6161badf21197f98f778",
-      "correctAnswer": "Brunei",
+      "id": "645bb13cf09106226db23593",
+      "correctAnswer": "Flower",
       "incorrectAnswers": [
-        "Cambodia",
-        "Egypt",
-        "Barbados"
+        "Root",
+        "Leaf",
+        "Seed"
       ],
       "question": {
-        "text": "Where in the world would you most expect to be served Ambuyat?"
+        "text": "What part of the kudzu plant can be turned into a jelly?"
       },
       "tags": [
+        "cuisine",
+        "plants",
         "food",
         "food_and_drink"
       ],
@@ -88,194 +332,22 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa34",
-      "correctAnswer": "Romanticism",
-      "incorrectAnswers": [
-        "Dutch and Flemish Renaissance",
-        "Crystal Cubism",
-        "Abstract expressionism"
-      ],
-      "question": {
-        "text": "The painting \"The Third of May\" by ‎Francisco Goya is a part of which art movement?"
-      },
-      "tags": [
-        "art",
-        "painting",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "639c9db5929b90846f2fc99d",
-      "correctAnswer": "Ar-Brahma",
-      "incorrectAnswers": [
-        "Ar-Rahman",
-        "Al-Malik",
-        "Al-Khaliq"
-      ],
-      "question": {
-        "text": "Which is not one of the names of Allah?"
-      },
-      "tags": [
-        "islam",
-        "religion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fd80",
-      "correctAnswer": "Mark David Chapman",
-      "incorrectAnswers": [
-        "J. D. Salinger",
-        "Lee Harvey Oswald",
-        "John Wilkes Booth"
-      ],
-      "question": {
-        "text": "Who Was Responsible For The Assassination Of John Lennon?"
-      },
-      "tags": [
-        "people",
-        "the_beatles",
-        "events",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3f7cc59eab6f952352",
-      "correctAnswer": "Southeast Asia",
-      "incorrectAnswers": [
-        "The Amazon",
-        "The European Steppes",
-        "Central America"
-      ],
-      "question": {
-        "text": "The Rafflesia Has The Largest Single Flower Of Any Plant In The World. Where In The World Does It Grow?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "62506496e12f6dec240bdfbe",
-      "correctAnswer": "Rebirth of Slick (Cool Like Dat)",
-      "incorrectAnswers": [
-        "Tainted Love",
-        "Don't Worry Be Happy",
-        "It Takes Two"
-      ],
-      "question": {
-        "text": "Digable Planets had a one hit wonder in 1993 with which song?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94febc",
-      "correctAnswer": "Beyoncé",
-      "incorrectAnswers": [
-        "Madonna",
-        "Drake",
-        "Nicki Minaj"
-      ],
-      "question": {
-        "text": "Which American singer, actress and record producer released the song 'Déjà Vu'?"
-      },
-      "tags": [
-        "songs",
-        "musicians",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95028a",
-      "correctAnswer": "Choux ",
+      "id": "625006560d86c8f685d80ee3",
+      "correctAnswer": "Little holes",
       "incorrectAnswers": [
-        "Filo",
-        "Shortcrust",
-        "Puff"
+        "Small thimbles",
+        "homemade",
+        "Corkscrews"
       ],
       "question": {
-        "text": "What type of pastry is used for profiteroles?"
+        "text": "The pasta bucatini has what meaning in Italian?"
       },
       "tags": [
         "food",
+        "words",
+        "language",
         "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "645c9f1642ea81e2554c5eeb",
-      "correctAnswer": "Halley's Comet",
-      "incorrectAnswers": [
-        "The Moon",
-        "Mars",
-        "Venus"
-      ],
-      "question": {
-        "text": "What was the 1986 Giotto probe designed to study?"
-      },
-      "tags": [
-        "astronomy",
-        "space",
-        "the_solar_system"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "627164661ba117625baac95d",
-      "correctAnswer": "Kumis",
-      "incorrectAnswers": [
-        "Sombai",
-        "Guaro",
-        "Mama Juana"
-      ],
-      "question": {
-        "text": "Which of these is a popular drink in Mongolia?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -284,15 +356,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625698989da29df7b05f7291",
-      "correctAnswer": "Ned Leeds",
+      "id": "625698809da29df7b05f728b",
+      "correctAnswer": "Agent Phil Coulson",
       "incorrectAnswers": [
-        "Loki",
-        "Ego",
-        "Groot"
+        "Wong",
+        "Dr. Bruce Banner",
+        "Nick Fury"
       ],
       "question": {
-        "text": "In the Marvel Cinematic Universe, which character is played by Jacob Batalon?"
+        "text": "In the Marvel Cinematic Universe, which character is played by Clark Gregg?"
       },
       "tags": [
         "mcu",
@@ -308,143 +380,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd6f",
-      "correctAnswer": "Neil Diamond",
+      "category": "society_and_culture",
+      "id": "6463395701d576cfac3aa362",
+      "correctAnswer": "Australia",
       "incorrectAnswers": [
-        "Leonard Cohen",
-        "Paul McCartney",
-        "David Bowie"
+        "Canada",
+        "The Republic of Ireland",
+        "United States"
       ],
       "question": {
-        "text": "Whose 1973 Album Was Titled \"Jonathan Livingston Seagull\"?"
+        "text": "In which country is the Samuel Griffith Society headquartered, dedicated to upholding the constitution of said nation?"
       },
       "tags": [
-        "music_albums",
-        "1970's",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c367cc59eab6f950374",
-      "correctAnswer": "Cat Stevens",
-      "incorrectAnswers": [
-        "Joni Mitchell",
-        "Patti Smith",
-        "The Ramones"
-      ],
-      "question": {
-        "text": "Who Released The 70's Album Entitled 'Tea for the Tillerman'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ee9",
-      "correctAnswer": "Charles Dickens",
-      "incorrectAnswers": [
-        "Oscar Wilde",
-        "Joseph Conrad",
-        "Henryk Sienkiewicz"
-      ],
-      "question": {
-        "text": "Which author wrote 'Dombey and Son'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e3d",
-      "correctAnswer": "Mikhail Bulgakov",
-      "incorrectAnswers": [
-        "Vladimir Nabokov",
-        "Ayn Rand",
-        "Stanisław Lem"
-      ],
-      "question": {
-        "text": "Which author wrote 'A Country Doctor's Notebook'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95047e",
-      "correctAnswer": "ends or final causes",
-      "incorrectAnswers": [
-        "ticks and mites",
-        "bryophytes",
-        "mental processes in living creatures"
-      ],
-      "question": {
-        "text": "What is Teleology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950035",
-      "correctAnswer": "Michael Schumacher",
-      "incorrectAnswers": [
-        "Lewis Hamilton",
-        "Ayrton Senna",
-        "Mika Häkkinen"
-      ],
-      "question": {
-        "text": "Who Won Nine Formula One Grand Prix Races In 2000?"
-      },
-      "tags": [
-        "racing",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6496ac48e831b1ab5aa11146",
-      "correctAnswer": "Lapidary",
-      "incorrectAnswers": [
-        "Byzantine",
-        "Iconography",
-        "Philately"
-      ],
-      "question": {
-        "text": "What is the term for the polishing and cutting of stones and gems?"
-      },
-      "tags": [
-        "jewelry",
-        "words"
+        "law",
+        "society_and_culture",
+        "government"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -453,17 +403,21 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c377cc59eab6f950416",
-      "correctAnswer": "Spain",
+      "id": "647edb8d520523194910c344",
+      "correctAnswer": "Autobahn",
       "incorrectAnswers": [
-        "Italy",
-        "France",
-        "Chile"
+        "Bundestrasse",
+        "Reichstag",
+        "Schwartzkopf"
       ],
       "question": {
-        "text": "In which country do they eat 12 grapes as the clock strikes midnight (one each time the clock chimes) on New Year's Eve?"
+        "text": "What word is used for Germany's main highways?"
       },
       "tags": [
+        "roads",
+        "germany",
+        "words",
+        "language",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -472,16 +426,61 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "62443760746187c5e7be934c",
-      "correctAnswer": "It is used to relieve pain and inflammation.",
+      "category": "general_knowledge",
+      "id": "6355b7dbe8b368eed3a68230",
+      "correctAnswer": "The th in 'think'",
       "incorrectAnswers": [
-        "It is used to preserve food.",
-        "It is used as a solvent for lacquer, floor polishes and resins.",
-        "It is used in thermometers, thermostats, barometers"
+        "The ch in 'cheese'",
+        "The j in 'juice'",
+        "The t in 'train'"
       ],
       "question": {
-        "text": "What is the chemical magnesium sulphate heptahydrate often used for?"
+        "text": "In phonetics, which of these is an example of a fricative sound?"
+      },
+      "tags": [
+        "language",
+        "linguistics",
+        "general_knowledge",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f9fb",
+      "correctAnswer": "Édouard Manet",
+      "incorrectAnswers": [
+        "‎‎Edvard Munch",
+        "‎Pablo Picasso",
+        "Henri Rousseau"
+      ],
+      "question": {
+        "text": "Which artist painted \"Olympia\""
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fd9",
+      "correctAnswer": "Copper and Zinc",
+      "incorrectAnswers": [
+        "Iron and Bronze",
+        "Silver and Steel",
+        "Tin and Gold"
+      ],
+      "question": {
+        "text": "Which two metals make up brass?"
       },
       "tags": [
         "science"
@@ -492,20 +491,20 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "624c614bbadf21197f98f772",
-      "correctAnswer": "Uzbekistan",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951ac4",
+      "correctAnswer": "Calypso",
       "incorrectAnswers": [
-        "Guyana",
-        "Switzerland",
-        "Ghana"
+        "Discovery",
+        "Terra Nova",
+        "Beagle"
       ],
       "question": {
-        "text": "Plov is a dish that is most associated with which part of the world?"
+        "text": "What was the name of Jacques Cousteau's research ship?"
       },
       "tags": [
-        "food",
-        "food_and_drink"
+        "names",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -513,21 +512,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "625006b60d86c8f685d80ef7",
-      "correctAnswer": "Shaped pasta",
+      "category": "sport_and_leisure",
+      "id": "6477bb12550bc819ad646b6d",
+      "correctAnswer": "The Indy 500",
       "incorrectAnswers": [
-        "Soup pasta",
-        "Stuffed pasta",
-        "Strand pasta"
+        "The Daytona 500",
+        "The Monaco Grand Prix",
+        "The 24 Hours of Le Mans"
       ],
       "question": {
-        "text": "What type of pasta is gemelli?"
+        "text": "In which race did Janet Guthrie become the first woman to compete in 1977?"
       },
       "tags": [
-        "food",
-        "italy",
-        "food_and_drink"
+        "racing",
+        "motoring",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -535,85 +534,19 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c397cc59eab6f950fa6",
-      "correctAnswer": "Giovanni Schiaparelli",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cf0",
+      "correctAnswer": "Queen",
       "incorrectAnswers": [
-        "Galileo Galiei",
-        "Mary Ward",
-        "John Herschel"
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
       ],
       "question": {
-        "text": "Who was the first person to notice \"canals\" on Mars?"
+        "text": "Which British rock band (1970-) released the song 'Crazy Little Thing Called Love'?"
       },
       "tags": [
-        "astronomy",
-        "people",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe35",
-      "correctAnswer": "The Bronx",
-      "incorrectAnswers": [
-        "Manhattan",
-        "Harlem",
-        "Brooklyn"
-      ],
-      "question": {
-        "text": "What is the only borough of New York City that is not on an island? "
-      },
-      "tags": [
-        "cities",
-        "new_york",
-        "usa",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62373ff7cb85f7ce9e949cce",
-      "correctAnswer": "Santiago",
-      "incorrectAnswers": [
-        "Castries",
-        "Manama",
-        "Port Vila"
-      ],
-      "question": {
-        "text": "What is the capital city of Chile?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b57a6fd6c701a9211836f",
-      "correctAnswer": "Mexico",
-      "incorrectAnswers": [
-        "Israel",
-        "Indonesia",
-        "Greece"
-      ],
-      "question": {
-        "text": "In which country would you find Chichen Itza?"
-      },
-      "tags": [
-        "tourist_attractions",
-        "geography"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -622,19 +555,109 @@
     },
     {
       "category": "society_and_culture",
-      "id": "63bc3f920e893d6e5a6a0fb9",
-      "correctAnswer": "Yohji Yamamoto",
+      "id": "63b069534799123c67712f7d",
+      "correctAnswer": "Kebaya",
       "incorrectAnswers": [
-        "Miu Miu",
-        "Dior",
-        "Felix Malikovich"
+        "Kaftan",
+        "Dashiki",
+        "Thobe"
       ],
       "question": {
-        "text": "Which of the following fashion designers is famous for their use of the color black?"
+        "text": "Which of these is a form of clothing worn by women in Malaysia and Indonesia?"
       },
       "tags": [
         "society_and_culture",
-        "fashion"
+        "fashion",
+        "southeast_asia",
+        "malaysia",
+        "indonesia"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f95017d",
+      "correctAnswer": "Rudyard Kipling",
+      "incorrectAnswers": [
+        "A A Milne",
+        "Roald Dahl",
+        "C S Lewis"
+      ],
+      "question": {
+        "text": "Which author wrote the \"Just So Stories\"?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611f744b176d54800e3d5a",
+      "correctAnswer": "1942",
+      "incorrectAnswers": [
+        "1918",
+        "1926",
+        "1934"
+      ],
+      "question": {
+        "text": "When the penicillin first successfully used to treat a patient for septicaemia?"
+      },
+      "tags": [
+        "events",
+        "firsts",
+        "medicine",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e65eff2394bd44dee045",
+      "correctAnswer": "Five",
+      "incorrectAnswers": [
+        "Blue",
+        "Yellow",
+        "Black"
+      ],
+      "question": {
+        "text": "What does the word 'fünf' mean in German?"
+      },
+      "tags": [
+        "language",
+        "translations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95135f",
+      "correctAnswer": "Monotype",
+      "incorrectAnswers": [
+        "Watercolor",
+        "Mache",
+        "Stenography"
+      ],
+      "question": {
+        "text": "What is the word given to a unique image printed from a polished plate which has been painted with a design in ink?"
+      },
+      "tags": [
+        "words",
+        "art",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
