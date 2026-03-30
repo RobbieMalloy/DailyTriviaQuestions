@@ -1,87 +1,85 @@
 {
-  "gameDate": "2026-03-29",
+  "gameDate": "2026-03-30",
   "difficulty": "random",
   "results": [
     {
+      "category": "science",
+      "id": "62433510cfaae40c12961482",
+      "correctAnswer": "A Bunny",
+      "incorrectAnswers": [
+        "An Elver",
+        "A Farrow",
+        "A Tadpole"
+      ],
+      "question": {
+        "text": "What is the word for a young rabbit?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951011",
+      "correctAnswer": "Vacuum",
+      "incorrectAnswers": [
+        "Dark Matter",
+        "Black Hole",
+        "White Hole"
+      ],
+      "question": {
+        "text": "What term appies to space devoid of matter? "
+      },
+      "tags": [
+        "words",
+        "astronomy",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdc2",
+      "correctAnswer": "I Ran (So Far Away)",
+      "incorrectAnswers": [
+        "I Jumped (So Far Away)",
+        "I Hid (So Far Away)",
+        "I Long (So Far Away)"
+      ],
+      "question": {
+        "text": "Which of these was a hit song by A Flock of Seagulls?"
+      },
+      "tags": [
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
       "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f9517de",
-      "correctAnswer": "January 6th",
+      "id": "622a1c3b7cc59eab6f95174d",
+      "correctAnswer": "Charles and Diana",
       "incorrectAnswers": [
-        "June 20th",
-        "December 1st",
-        "October 19th"
+        "Elizabeth and Philip",
+        "William and Kate",
+        "Harry and Megan"
       ],
       "question": {
-        "text": "Which date on the Christian calendar marks The Epiphany, when Jesus, Mary and Joseph met The Three Wise Men?"
+        "text": "Which British royal couple were married on the 29th July 1981?"
       },
       "tags": [
-        "religion",
-        "christianity",
-        "christmas",
+        "uk",
         "society_and_culture",
-        "traditions"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f91d",
-      "correctAnswer": "The Searchers",
-      "incorrectAnswers": [
-        "Gangs of New York",
-        "Scarface",
-        "Raiders of the Lost Ark"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Ethan Edwards'?"
-      },
-      "tags": [
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "645bc75b4638d58091b1b9e5",
-      "correctAnswer": "Scottish",
-      "incorrectAnswers": [
-        "English",
-        "Irish",
-        "Welsh"
-      ],
-      "question": {
-        "text": "Which nationality was the author of the 1817 novel \"Rob Roy\", just like the hero of the story?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f95189a",
-      "correctAnswer": "Russian",
-      "incorrectAnswers": [
-        "Indian",
-        "French",
-        "Egyptian"
-      ],
-      "question": {
-        "text": "What was the nationality of Rasputin?"
-      },
-      "tags": [
-        "people",
         "history"
       ],
       "type": "text_choice",
@@ -90,21 +88,22 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f950336",
-      "correctAnswer": "Queen Victoria",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe94",
+      "correctAnswer": "Rihanna",
       "incorrectAnswers": [
-        "James VI",
-        "Elizabeth I",
-        "George II"
+        "Drake",
+        "Nicki Minaj",
+        "Ricky Martin"
       ],
       "question": {
-        "text": "Who was the first English monarch to have a Christmas tree?"
+        "text": "Which singer released the song 'Pon de Replay'?"
       },
       "tags": [
-        "christmas",
-        "uk",
-        "general_knowledge"
+        "songs",
+        "musicians",
+        "00's",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -112,38 +111,62 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62374074cb85f7ce9e949d00",
-      "correctAnswer": "Libreville",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc24",
+      "correctAnswer": "\"I see dead people.\"",
       "incorrectAnswers": [
-        "Maseru",
-        "Dodoma",
-        "Maputo"
+        "\"I have had it with these mother—— snakes on this mother—— plane!\"",
+        "\"I have nipples Greg. Could you milk me?\"",
+        "\"You talking to me?\""
       ],
       "question": {
-        "text": "What is the capital city of Gabon?"
+        "text": "Which of these quotes is from the film 'The Sixth Sense'?"
       },
       "tags": [
-        "capital_cities",
-        "africa",
-        "geography"
+        "quotes",
+        "film",
+        "general_knowledge",
+        "film_and_tv"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "646089e1de964ebc39016c9d",
+      "correctAnswer": "Jay Gatsby",
+      "incorrectAnswers": [
+        "Holden Caulfield",
+        "Atticus Finch",
+        "Scout Finch"
+      ],
+      "question": {
+        "text": "Which literary character lives in West Egg, Long Island, and is known by the nickname 'the Great'?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "fictitious_characters",
+        "literature",
+        "classic_novels"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "music",
-      "id": "625064c2e12f6dec240bdfcb",
-      "correctAnswer": "Don't Leave Me This Way",
+      "id": "6250644ee12f6dec240bdfa9",
+      "correctAnswer": "Rockwell",
       "incorrectAnswers": [
-        "Ice Ice Baby",
-        "In-A-Gadda-Da-Vida",
-        "Rebirth of Slick (Cool Like Dat)"
+        "The Verve",
+        "Big Country",
+        "Deee-Lite"
       ],
       "question": {
-        "text": "What song did Thelma Houston have a hit with in 1976?"
+        "text": "'Somebody's Watching Me' was a one hit wonder in 1984 by which artist?"
       },
       "tags": [
         "songs",
@@ -156,22 +179,191 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "624db9d7de6018633d31f6a5",
-      "correctAnswer": "The Man with the Golden Gun",
+      "category": "geography",
+      "id": "623741cfcb85f7ce9e949d8c",
+      "correctAnswer": "Islamabad",
       "incorrectAnswers": [
-        "Dr. No",
-        "Live and Let Die",
-        "Spectre"
+        "Zagreb",
+        "Tallinn",
+        "Tehran"
       ],
       "question": {
-        "text": "Which James Bond theme song was performed by Lulu?"
+        "text": "What is the capital city of Pakistan?"
       },
       "tags": [
-        "james_bond",
-        "film",
-        "soundtracks",
-        "film_and_tv"
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "64fb5b33717513cb79190401",
+      "correctAnswer": "Leaves of Grass",
+      "incorrectAnswers": [
+        "The Waste Land",
+        "Paradise Lost",
+        "The Divine Comedy"
+      ],
+      "question": {
+        "text": "Which collection of poems includes 'Song of Myself', the first and longest poem in the collection?"
+      },
+      "tags": [
+        "poetry",
+        "poems",
+        "writers",
+        "literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502fd",
+      "correctAnswer": "Blackberry and raspberry",
+      "incorrectAnswers": [
+        "Blueberry and Strawberry",
+        "Gooseberry and Raspberry",
+        "Strawberry and Gooseberry"
+      ],
+      "question": {
+        "text": "A tayberry is a cross between which two fruits?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "625006b30d86c8f685d80ef6",
+      "correctAnswer": "Twins",
+      "incorrectAnswers": [
+        "Squid-like",
+        "Pens",
+        "Bibs"
+      ],
+      "question": {
+        "text": "The pasta gemelli has what meaning in Italian?"
+      },
+      "tags": [
+        "food",
+        "words",
+        "language",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950346",
+      "correctAnswer": "Cleopatra",
+      "incorrectAnswers": [
+        "Hatsheput",
+        "Nefertiti",
+        "Nitocris"
+      ],
+      "question": {
+        "text": "Who Was Ptolemy Dionysius Related To As Both Brother And Husband?"
+      },
+      "tags": [
+        "people",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "6461403a4d46e537ca8cd991",
+      "correctAnswer": "Hard Times",
+      "incorrectAnswers": [
+        "Oliver Twist",
+        "A Tale of Two Cities",
+        "Great Expectations"
+      ],
+      "question": {
+        "text": "What Charles Dickens novel deals with the living and working conditions brought about by industrialisation?"
+      },
+      "tags": [
+        "literature",
+        "novels",
+        "charles_dickens",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6505702f7a97013de78b554f",
+      "correctAnswer": "Myopia",
+      "incorrectAnswers": [
+        "Hyperopia",
+        "Astigmatism",
+        "Presbyopia"
+      ],
+      "question": {
+        "text": "What is another term for shortsightedness?"
+      },
+      "tags": [
+        "science",
+        "health"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950547",
+      "correctAnswer": "The origin and spread of diseases",
+      "incorrectAnswers": [
+        "Glass",
+        "The Sun",
+        "The preparation of books and manuscripts"
+      ],
+      "question": {
+        "text": "What is epidemiology the study of?"
+      },
+      "tags": [
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bbd",
+      "correctAnswer": "Aerosmith",
+      "incorrectAnswers": [
+        "MercyMe",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
+      ],
+      "question": {
+        "text": "Which American rock band released the studio album 'Music from Another Dimension!'?"
+      },
+      "tags": [
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -180,21 +372,19 @@
     },
     {
       "category": "society_and_culture",
-      "id": "64746b6f5a4c31088dd9d054",
-      "correctAnswer": "Think Different",
+      "id": "64746b005a4c31088dd9cff9",
+      "correctAnswer": "Landslide",
       "incorrectAnswers": [
-        "Just Do It",
-        "I'm Lovin' It",
-        "Got Milk?"
+        "Tsunami",
+        "Firestorm",
+        "Stampede"
       ],
       "question": {
-        "text": "After rejoining Apple in 1997, Steve Jobs engineered what ad campaign?"
+        "text": "What word is used when a candidate receives an overwhelming majority of votes in an election?"
       },
       "tags": [
-        "advertising",
-        "technology",
-        "business",
-        "marketing",
+        "politics",
+        "words",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -203,43 +393,60 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe7a",
-      "correctAnswer": "Lady Gaga",
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950988",
+      "correctAnswer": "Argentina",
       "incorrectAnswers": [
-        "Hikaru Utada",
-        "Drake",
-        "Madonna"
+        "Paraguay",
+        "Chile",
+        "Bolivia"
       ],
       "question": {
-        "text": "Which American singer, songwriter, and actress released the song 'Just Dance'?"
+        "text": "Which of these countries borders Uruguay?"
       },
       "tags": [
-        "songs",
-        "musicians",
-        "general_knowledge",
-        "music"
+        "geography"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950bc3",
-      "correctAnswer": "Oasis",
+      "category": "geography",
+      "id": "623b57ebfd6c701a92118388",
+      "correctAnswer": "Iran",
       "incorrectAnswers": [
-        "Goldfrapp",
-        "Kaiser Chiefs",
-        "Jethro Tull"
+        "Turkey",
+        "Thailand",
+        "Northern Ireland"
       ],
       "question": {
-        "text": "Which English rock band formed in Manchester in 1991 released the studio album 'Definitely Maybe'?"
+        "text": "In which country would you find the UNESCO World Heritage site of The Bam Citadel?"
       },
       "tags": [
-        "manchester",
-        "music"
+        "tourist_attractions",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f9507f4",
+      "correctAnswer": "Africa",
+      "incorrectAnswers": [
+        "South America",
+        "Oceania",
+        "Europe"
+      ],
+      "question": {
+        "text": "The country of Lesotho is on which continent?"
+      },
+      "tags": [
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -248,15 +455,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa62",
-      "correctAnswer": "Jared Leto",
+      "id": "622a1c347cc59eab6f94fb01",
+      "correctAnswer": "Marion Cotillard",
       "incorrectAnswers": [
-        "Barkhad Abdi",
-        "Bradley Cooper",
-        "Michael Fassbender"
+        "Cate Blanchett",
+        "Julie Christie",
+        "Laura Linney"
       ],
       "question": {
-        "text": "Who won the 2013 Academy Award for Best Supporting Actor for playing the role of Rayon in Dallas Buyers Club?"
+        "text": "Who won the 2007 Academy Award for Best Leading Actress for playing the role of Edith Piaf in La Vie en Rose?"
       },
       "tags": [
         "acting",
@@ -270,20 +477,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9504ac",
-      "correctAnswer": "drug dosage",
+      "category": "general_knowledge",
+      "id": "622a1c367cc59eab6f9503e7",
+      "correctAnswer": "Carpenters",
       "incorrectAnswers": [
-        "origin of life",
-        "diseases of stomach and intestines",
-        "poisons"
+        "Builders",
+        "Plumbers",
+        "Electricians"
       ],
       "question": {
-        "text": "What is Posology the study of?"
+        "text": "What do Karen, Richard and Joseph all have in common"
       },
       "tags": [
-        "words",
-        "science"
+        "people",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -291,182 +498,38 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f950216",
-      "correctAnswer": "Martin Scorsese",
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b19",
+      "correctAnswer": "Spice Girls",
       "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Alfred Hitchcock"
+        "Pussycat Dolls",
+        "Girls Aloud",
+        "ABBA"
       ],
       "question": {
-        "text": "Which director directed The Departed?"
+        "text": "Which band was Emma Bunton a member of?"
       },
       "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501c7",
-      "correctAnswer": "Strange Case of Dr Jekyll and Mr Hyde",
-      "incorrectAnswers": [
-        "The City & the City",
-        "Frankenstein",
-        "The Hunchback of Notre Dame"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'Mr Utterson the lawyer was a man of a rugged countenance, that was never lighted by a smile; cold, scanty and embarrassed in discourse; backward in sentiment; lean, long, dusty, dreary and yet somehow lovable.'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62443779746187c5e7be9356",
-      "correctAnswer": "Iron Oxide",
-      "incorrectAnswers": [
-        "Magnesium sulphate heptahydrate",
-        "Calcium sulphate dihydrate",
-        "Potassium hydrogen tartrate"
-      ],
-      "question": {
-        "text": "What chemical has the formula Fe2O3?"
-      },
-      "tags": [
-        "chemistry",
-        "science"
+        "people",
+        "music",
+        "bands"
       ],
       "type": "text_choice",
       "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d7f0f96c4efe8d773cd",
-      "correctAnswer": "Philadelphia Eagles",
-      "incorrectAnswers": [
-        "Philadelphia Saints",
-        "Philadelphia Fire",
-        "Philadelphia Thunder"
-      ],
-      "question": {
-        "text": "Which of these is an American Football team based in Philadelphia?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95011f",
-      "correctAnswer": "Hajji",
-      "incorrectAnswers": [
-        "Mujahideen",
-        "Khafoor",
-        "Imam"
-      ],
-      "question": {
-        "text": "What is a person who has made a pilgimage to Mecca?"
-      },
-      "tags": [
-        "islam",
-        "places",
-        "religion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6243357fcfaae40c129614ae",
-      "correctAnswer": "A Jack",
-      "incorrectAnswers": [
-        "A Billy",
-        "A Macho",
-        "A Rooster"
-      ],
-      "question": {
-        "text": "What is a male wallaby known as?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e8d",
-      "correctAnswer": "Brandon Sanderson",
-      "incorrectAnswers": [
-        "H. P. Lovecraft",
-        "Stephenie Meyer",
-        "Stephen King"
-      ],
-      "question": {
-        "text": "Which author wrote 'Mistborn series'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "625006670d86c8f685d80ee7",
-      "correctAnswer": "Shaped pasta",
-      "incorrectAnswers": [
-        "Strand pasta",
-        "Tubular pasta",
-        "Ribbon pasta"
-      ],
-      "question": {
-        "text": "What type of pasta is campanelle?"
-      },
-      "tags": [
-        "food",
-        "italy",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f951aaa",
-      "correctAnswer": "Spartacus",
+      "id": "622a1c367cc59eab6f9503ce",
+      "correctAnswer": "Falkland Islands",
       "incorrectAnswers": [
-        "Ithacus",
-        "Commodus",
-        "Maximus"
+        "Gold",
+        "Nuclear Weapons",
+        "Industrial Sabotage"
       ],
       "question": {
-        "text": "Which Roman Gladiator Lead An Unsuccessful Revolt Against Rome?"
+        "text": "What was the war between Argentina and Great Britan over?"
       },
       "tags": [
         "history"
@@ -478,19 +541,17 @@
     },
     {
       "category": "music",
-      "id": "625063efe12f6dec240bdf8d",
-      "correctAnswer": "Kajagoogoo",
+      "id": "622a1c397cc59eab6f950cb6",
+      "correctAnswer": "Pink Floyd",
       "incorrectAnswers": [
-        "Norman Greenbaum",
-        "Suzi Quatro",
-        "The Vapors"
+        "Wings",
+        "Rudimental",
+        "The Alan Parsons Project"
       ],
       "question": {
-        "text": "'Too Shy' was a one hit wonder in 1983 by which artist?"
+        "text": "Which English rock band released the studio album 'Animals'?"
       },
       "tags": [
-        "songs",
-        "one_hit_wonders",
         "music"
       ],
       "type": "text_choice",
@@ -499,110 +560,40 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "647c9855f89e0968cfbc1a22",
-      "correctAnswer": "3",
+      "category": "geography",
+      "id": "6237419dcb85f7ce9e949d78",
+      "correctAnswer": "Kathmandu",
       "incorrectAnswers": [
-        "1",
-        "5",
-        "7"
+        "Tashkent",
+        "Gaborone",
+        "Gitega"
       ],
       "question": {
-        "text": "What is the maximum amount of points that can be scored from a single shot in basketball?"
+        "text": "What is the capital city of Nepal?"
       },
       "tags": [
-        "basketball",
-        "sport",
-        "nba"
+        "capital_cities",
+        "geography"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f9517ef",
-      "correctAnswer": "Apple",
+      "id": "622a1c3c7cc59eab6f951b09",
+      "correctAnswer": "Canada",
       "incorrectAnswers": [
-        "Microsoft",
-        "IBM",
-        "Amstrad"
+        "France",
+        "Australia",
+        "Russia"
       ],
       "question": {
-        "text": "Which company in 1984 advertised their new computer during the Super Bowl, and never re-used the commercial?"
+        "text": "In which country was Greenpeace founded in 1971?"
       },
       "tags": [
-        "business",
-        "society_and_culture",
-        "advertising",
-        "computing",
-        "american_football",
-        "football",
-        "technology"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740979da29df7b05f73e9",
-      "correctAnswer": "A man deeply immersed in the Edinburgh drug scene tries to clean up and get out.",
-      "incorrectAnswers": [
-        "A veteran sets out to reform his neighbor who tried to steal his prized possession.",
-        "A Polish Jew struggles to survive the destruction of the Warsaw ghetto of World War II.",
-        "King Arthur and his Knights embark on a search for a religious relic."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Trainspotting?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fe2f",
-      "correctAnswer": "Dinar",
-      "incorrectAnswers": [
-        "Lira",
-        "Rabat",
-        "Reqla"
-      ],
-      "question": {
-        "text": "What is the basic unit of currency for Tunisia?"
-      },
-      "tags": [
-        "currency",
-        "africa",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f43",
-      "correctAnswer": "Edgar Allan Poe",
-      "incorrectAnswers": [
-        "Stephen King",
-        "Nathaniel Hawthorne",
-        "Mario Puzo"
-      ],
-      "question": {
-        "text": "Which author wrote 'Annabel Lee'?"
-      },
-      "tags": [
-        "arts_and_literature"
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -611,43 +602,47 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8e5",
-      "correctAnswer": "Peter Finch",
+      "id": "622a1c347cc59eab6f94fa71",
+      "correctAnswer": "Robin Williams",
       "incorrectAnswers": [
-        "Jaye Davidson",
-        "Malcolm McDowell",
-        "Jeff Bridges"
+        "Robert Forster",
+        "Anthony Hopkins",
+        "Greg Kinnear"
       ],
       "question": {
-        "text": "Which actor played the role of Howard Beale in Network?"
+        "text": "Who won the 1997 Academy Award for Best Supporting Actor for playing the role of Sean McGuire in Good Will Hunting?"
       },
       "tags": [
         "acting",
         "film",
+        "academy_awards",
         "film_and_tv"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9519c0",
-      "correctAnswer": "Cambodia",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94faa4",
+      "correctAnswer": "Judi Dench",
       "incorrectAnswers": [
-        "Ethiopia",
-        "Cuba",
-        "Indonesia"
+        "Kathy Bates",
+        "Brenda Blethyn",
+        "Rachel Griffiths"
       ],
       "question": {
-        "text": "What country was ruled by Pol Pot, leader of the Khmer Rouge party?"
+        "text": "Who won the 1998 Academy Award for Best Supporting Actress for playing the role of Queen Elizabeth I in Shakespeare in Love?"
       },
       "tags": [
-        "history"
+        "acting",
+        "film",
+        "academy_awards",
+        "film_and_tv"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     }
