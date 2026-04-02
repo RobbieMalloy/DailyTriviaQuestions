@@ -1,477 +1,63 @@
 {
-  "gameDate": "2026-04-01",
+  "gameDate": "2026-04-02",
   "difficulty": "easy",
   "results": [
     {
-      "category": "geography",
-      "id": "62602e0a4b176d54800e3cbd",
-      "correctAnswer": "Italy",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbe0",
+      "correctAnswer": "\"Nobody makes me bleed my own blood. Nobody!\"",
       "incorrectAnswers": [
-        "Portugal",
-        "Switzerland",
-        "Hungary"
+        "\"Are you not entertained?\"",
+        "\"I have had it with these mother—— snakes on this mother—— plane!\"",
+        "\"What is this? A center for ants? How can we be expected to teach children to learn how to read…if they can’t even fit inside the building?\""
       ],
       "question": {
-        "text": "In which country is the city of Florence?"
+        "text": "Which of these quotes is from the film 'Dodgeball: A True Underdog Story'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9505a5",
+      "correctAnswer": "angels",
+      "incorrectAnswers": [
+        "numbers",
+        "religion",
+        "Semitic cultures"
+      ],
+      "question": {
+        "text": "What is Angelology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602d4b4b176d54800e3c8d",
+      "correctAnswer": "Israel",
+      "incorrectAnswers": [
+        "Lebanon",
+        "Egypt",
+        "Qatar"
+      ],
+      "question": {
+        "text": "In which country is the city of Tel Aviv?"
       },
       "tags": [
         "cities",
-        "europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "63a03984c7d86251f9b65c72",
-      "correctAnswer": "Humpty Dumpty",
-      "incorrectAnswers": [
-        "Hey Diddle Diddle",
-        "Mary Had a Little Lamb",
-        "Baa Baa Black Sheep"
-      ],
-      "question": {
-        "text": "What nursery rhyme is about a man who falls off a wall?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "nursery_rhymes"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570337a97013de78b5555",
-      "correctAnswer": "Penguin",
-      "incorrectAnswers": [
-        "Stork",
-        "Eagle",
-        "Swan"
-      ],
-      "question": {
-        "text": "Which of these birds can swim but not fly?"
-      },
-      "tags": [
-        "science",
-        "animals",
-        "birds"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056e6e7a97013de78b52e0",
-      "correctAnswer": "Onions",
-      "incorrectAnswers": [
-        "Broccoli",
-        "Cauliflower",
-        "Turnip"
-      ],
-      "question": {
-        "text": "What food makes your eyes water when cut?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbc5",
-      "correctAnswer": "\"I love lamp.\"",
-      "incorrectAnswers": [
-        "\"Rosebud.\"",
-        "\"You're gonna need a bigger boat.\"",
-        "\"Shane. Shane. Come back!\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Anchorman: The Legend of Ron Burgundy'?"
-      },
-      "tags": [
-        "songs",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6476390cf05ea6d6f587a189",
-      "correctAnswer": "Itinerary",
-      "incorrectAnswers": [
-        "List",
-        "Voyage",
-        "Menu"
-      ],
-      "question": {
-        "text": "What is the term for a list of places to visit on a journey?"
-      },
-      "tags": [
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eab",
-      "correctAnswer": "J. K. Rowling",
-      "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
-      ],
-      "question": {
-        "text": "Which author wrote 'Harry Potter and the Order of the Phoenix'?"
-      },
-      "tags": [
-        "harry_potter",
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "648891824cd3f064f443dc0c",
-      "correctAnswer": "The Beach Boys",
-      "incorrectAnswers": [
-        "The Beatles",
-        "The Rolling Stones",
-        "The Four Tops"
-      ],
-      "question": {
-        "text": "Who had a hit in 1964 with the song 'I Get Around'?"
-      },
-      "tags": [
-        "songs",
-        "music",
-        "1960's"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd5a",
-      "correctAnswer": "The Fresh Prince",
-      "incorrectAnswers": [
-        "DJ Jazzy Jeff",
-        "Eminem",
-        "Jay Z"
-      ],
-      "question": {
-        "text": "What is Will Smith's Rapper Alter Ego?"
-      },
-      "tags": [
-        "pseudonyms",
-        "people",
-        "musicians",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff4d",
-      "correctAnswer": "Michael Jackson",
-      "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
-      ],
-      "question": {
-        "text": "Which musician released the album 'Off the Wall'?"
-      },
-      "tags": [
-        "music_albums",
-        "musicians",
-        "1980's",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510e0",
-      "correctAnswer": "Pediatrician",
-      "incorrectAnswers": [
-        "Physician",
-        "Oncologist",
-        "Gynaecologist"
-      ],
-      "question": {
-        "text": "A doctor who specializes in infants, children and young people is called a ______"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbbf",
-      "correctAnswer": "\"Just keep swimming.\"",
-      "incorrectAnswers": [
-        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\"",
-        "\"We'll always have Paris.\"",
-        "\"Today, I consider myself the luckiest man on the face of the earth.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Finding Nemo'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "6398983b5c9a75021f310467",
-      "correctAnswer": "Adolf Hitler",
-      "incorrectAnswers": [
-        "Benito Mussolini",
-        "Joseph Stalin",
-        "Winston Churchill"
-      ],
-      "question": {
-        "text": "Who was the leader of Nazi Germany during World War II?"
-      },
-      "tags": [
-        "history",
-        "world_war_2",
-        "wars",
-        "people",
-        "germany",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950598",
-      "correctAnswer": "The influences of celestial bodies on earthly affairs",
-      "incorrectAnswers": [
-        "Friction at very small scale",
-        "The Sun",
-        "Men"
-      ],
-      "question": {
-        "text": "What is astrology the study of?"
-      },
-      "tags": [
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501c4",
-      "correctAnswer": "Harry Potter and the Philosopher's Stone",
-      "incorrectAnswers": [
-        "The Battle of the Labyrinth",
-        "Harry Potter and the Half-Blood Prince",
-        "The Sea of Monsters"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'Mr and Mrs Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.'?"
-      },
-      "tags": [
-        "quotes",
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "69a561ae03d8987f10a83b14",
-      "correctAnswer": "Porridge",
-      "incorrectAnswers": [
-        "Cake",
-        "Bread",
-        "Soup"
-      ],
-      "question": {
-        "text": "In 'Goldilocks and the Three Bears', what does Goldilocks eat from the bears' house?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fba1",
-      "correctAnswer": "\"Circle of Life\" by Elton John",
-      "incorrectAnswers": [
-        "\"SpongeBob SquarePants Theme\" by Painty the Pirate",
-        "\"Let's Go Crazy\" by Prince and The Revolution",
-        "\"What I Got\" by Sublime"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"Nants ingonyama bagithi Baba / Sithi uhm ingonyama...\"?"
-      },
-      "tags": [
-        "songs",
-        "lyrics",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950ded",
-      "correctAnswer": "Queen",
-      "incorrectAnswers": [
-        "The Beatles",
-        "Deep Purple",
-        "Feeder"
-      ],
-      "question": {
-        "text": "Which band had Freddie Mercury as its lead vocalist?"
-      },
-      "tags": [
-        "people",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "648888d65dba6c873ef650b1",
-      "correctAnswer": "Oompa Loompas",
-      "incorrectAnswers": [
-        "Ongo Bongos",
-        "Oogie Boogies",
-        "Pogre Ogres"
-      ],
-      "question": {
-        "text": "What are the name of the factory workers who love cacao beans in a classic children's book by Roald Dahl?"
-      },
-      "tags": [
-        "childrens_literature",
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6266bc26ff2394bd44dedffb",
-      "correctAnswer": "Percussion",
-      "incorrectAnswers": [
-        "Woodwind",
-        "Brass",
-        "Stringed"
-      ],
-      "question": {
-        "text": "What type of instrument is a cowbell?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6499c2614e0e966accb0b979",
-      "correctAnswer": "Touch base",
-      "incorrectAnswers": [
-        "Home run",
-        "Out of left field",
-        "Grand slam"
-      ],
-      "question": {
-        "text": "Which expression, originating from baseball, means to keep someone informed briefly?"
-      },
-      "tags": [
-        "phrases",
-        "society_and_culture",
-        "basketball",
-        "baseball"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b578afd6c701a92118364",
-      "correctAnswer": "Egypt",
-      "incorrectAnswers": [
-        "Indonesia",
-        "Peru",
-        "Mexico"
-      ],
-      "question": {
-        "text": "In which country would you find the Pyramids of Giza?"
-      },
-      "tags": [
-        "tourist_attractions",
-        "classics",
-        "general_knowledge",
         "geography"
       ],
       "type": "text_choice",
@@ -480,85 +66,85 @@
       "isNiche": false
     },
     {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950797",
+      "correctAnswer": "Robert Downey Jr.",
+      "incorrectAnswers": [
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Tom Holland"
+      ],
+      "question": {
+        "text": "Which actor played the role of Iron Man in the Marvel Cinematic Universe?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "marvel",
+        "comics",
+        "mcu",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "69a432076bd7d78422530807",
+      "correctAnswer": "Japan",
+      "incorrectAnswers": [
+        "China",
+        "Korea",
+        "Thailand"
+      ],
+      "question": {
+        "text": "Kabuki theatre originated in which country?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63adbd5f04c68cc1e14b8e1f",
+      "correctAnswer": "Geology",
+      "incorrectAnswers": [
+        "Astronomy",
+        "Magnetism",
+        "Meteorology"
+      ],
+      "question": {
+        "text": "What is the name of the science that studies the origin, history, and structure of the Earth?"
+      },
+      "tags": [
+        "geology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
       "category": "food_and_drink",
-      "id": "65056e927a97013de78b5313",
-      "correctAnswer": "Pickling",
+      "id": "622a1c367cc59eab6f950234",
+      "correctAnswer": "Ronald Mcdonald",
       "incorrectAnswers": [
-        "Chilling",
-        "Canning",
-        "Smoking"
+        "The King",
+        "Donald Burger",
+        "Meato"
       ],
       "question": {
-        "text": "What is the process of soaking and storing food in brine or vinegar?"
+        "text": "Who is McDonald's mascot?"
       },
       "tags": [
-        "food_and_drink",
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63dd25e9742e43ed64f1f048",
-      "correctAnswer": "Inflation",
-      "incorrectAnswers": [
-        "GDP",
-        "Profit Margin",
-        "Unemployment Rate"
-      ],
-      "question": {
-        "text": "What is the term for the rate at which the prices of goods and services increase over time?"
-      },
-      "tags": [
-        "society_and_culture",
-        "economics"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62ab32c15202de619af28124",
-      "correctAnswer": "Ford",
-      "incorrectAnswers": [
-        "Alfa Romeo",
-        "BMW",
-        "Austin"
-      ],
-      "question": {
-        "text": "Which car manufacturer makes the Mustang?"
-      },
-      "tags": [
-        "motoring",
         "business",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64959827e831b1ab5aa11100",
-      "correctAnswer": "Non alcoholic",
-      "incorrectAnswers": [
-        "With ice",
-        "Strong",
-        "Served with a straw"
-      ],
-      "question": {
-        "text": "In cocktails, what does the word 'virgin' mean?"
-      },
-      "tags": [
-        "alcohol",
-        "drink",
-        "cocktails",
+        "advertising",
+        "fictitious_characters",
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -568,23 +154,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f901",
-      "correctAnswer": "Macauley Culkin",
+      "id": "622a1c347cc59eab6f94fc11",
+      "correctAnswer": "\"Mrs. Robinson, you're trying to seduce me. Aren't you?\"",
       "incorrectAnswers": [
-        "Bill Murray",
-        "Andy Serkis",
-        "Al Pacino"
+        "\"Soylent Green is people!\"",
+        "\"Round up the usual suspects.\"",
+        "\"Just keep swimming.\""
       ],
       "question": {
-        "text": "Which actor played the role of Kevin McCallister in Home Alone?"
+        "text": "Which of these quotes is from the film 'The Graduate'?"
       },
       "tags": [
-        "people",
-        "acting",
-        "cult_films",
+        "quotes",
         "film",
-        "christmas",
-        "general_knowledge",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -593,20 +175,60 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f953",
-      "correctAnswer": "Winnie the Pooh",
+      "category": "science",
+      "id": "622a1c3f7cc59eab6f9523bb",
+      "correctAnswer": "Tsunami",
       "incorrectAnswers": [
-        "In Our Time",
-        "Nine Stories",
-        "1984"
+        "Kahuna",
+        "Overflow",
+        "Grand Masif"
       ],
       "question": {
-        "text": "Which book contains the character 'Eeyore'?"
+        "text": "What is the name for a great wave resulting from an earthquake?"
       },
       "tags": [
-        "literature",
-        "fictitious_characters",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056f8e7a97013de78b5472",
+      "correctAnswer": "Conquistador",
+      "incorrectAnswers": [
+        "Esclavo",
+        "Babuino",
+        "Atormentador"
+      ],
+      "question": {
+        "text": "What is the Spanish word for conqueror?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f951369",
+      "correctAnswer": "Art deco",
+      "incorrectAnswers": [
+        "Cubism",
+        "Surrealism",
+        "Dadaism"
+      ],
+      "question": {
+        "text": "Which design style prevalent during the 1920s and 1930s was characterized by a sleek use of straight lines and slender forms?"
+      },
+      "tags": [
+        "art",
+        "1920's",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -615,19 +237,131 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62602dcb014f58b5fc1a3fc5",
-      "correctAnswer": "New Zealand",
+      "category": "film_and_tv",
+      "id": "62573f3a3d2f5c16bfb8832f",
+      "correctAnswer": "Historical events unfold from the perspective of an Alabama man with an IQ of 75.",
       "incorrectAnswers": [
-        "Australia",
-        "Ireland",
-        "Canada"
+        "A thief who steals secrets through dreams must plant an idea into the mind of a C.E.O.",
+        "The son of a city's mastermind falls in love with a working-class prophet.",
+        "An insomniac and a soap maker form an underground organisation that evolves into much more."
       ],
       "question": {
-        "text": "In which country is the city of Auckland?"
+        "text": "What is the plot of the movie Forrest Gump?"
       },
       "tags": [
-        "cities",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6462624dab138b829b81e9e9",
+      "correctAnswer": "KFC",
+      "incorrectAnswers": [
+        "McDonald's",
+        "Burger King",
+        "Wendy's"
+      ],
+      "question": {
+        "text": "Which fast food is known for a menu that mainly contains fried chicken?"
+      },
+      "tags": [
+        "food",
+        "meat",
+        "fast_food",
+        "food_and_drink",
+        "business"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ea7",
+      "correctAnswer": "J. K. Rowling",
+      "incorrectAnswers": [
+        "Christopher Tolkien",
+        "Philip Pullman",
+        "C. S. Lewis"
+      ],
+      "question": {
+        "text": "Which author wrote 'Quidditch Through the Ages'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625741333d2f5c16bfb88345",
+      "correctAnswer": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine.",
+      "incorrectAnswers": [
+        "A Marine observes the effects of war on his fellow recruits from their boot camp training to fighting in a war.",
+        "The lives of mob hitmen, a boxer, a gangster and his wife, and a pair of bandits intertwine in four tales.",
+        "Historical events unfold from the perspective of an Alabama man with an IQ of 75."
+      ],
+      "question": {
+        "text": "What is the plot of the movie The Terminator?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "639ae873929b90846f2fc8df",
+      "correctAnswer": "Red",
+      "incorrectAnswers": [
+        "Blue",
+        "Green",
+        "Purple"
+      ],
+      "question": {
+        "text": "In Star Wars, what color is Darth Vader's lightsaber?"
+      },
+      "tags": [
+        "star_wars",
+        "film_and_tv",
+        "cult_films",
+        "film",
+        "science_fiction"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b577afd6c701a9211835e",
+      "correctAnswer": "India",
+      "incorrectAnswers": [
+        "Egypt",
+        "Italy",
+        "China"
+      ],
+      "question": {
+        "text": "In which country would you find the Taj Mahal?"
+      },
+      "tags": [
+        "tourist_attractions",
+        "general_knowledge",
         "geography"
       ],
       "type": "text_choice",
@@ -637,21 +371,281 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951367",
-      "correctAnswer": "A Palette",
+      "id": "6396eeb96017b1e8e09020d2",
+      "correctAnswer": "A scientist in want of a companion creates a living creature, who turns out to be misunderstood and is subject to torment by all he meets",
       "incorrectAnswers": [
-        "An eisel",
-        "A square",
-        "A pitcher"
+        "A tiger visits a house for tea and eats everything it has inside",
+        "A boy makes friends with a Jewish boy at a concentration camp ",
+        "A brief history of space, science and time "
       ],
       "question": {
-        "text": "What is the word given to a flat board used by a painter to mix and hold colors?"
+        "text": "Which of these is the plot to the novel Frankenstein by Mary Shelley?"
       },
       "tags": [
-        "words",
-        "art",
-        "painting",
-        "arts_and_literature"
+        "literature",
+        "arts_and_literature",
+        "novel",
+        "classic_novels",
+        "gothic",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f569da29df7b05f7396",
+      "correctAnswer": "Back to the Future",
+      "incorrectAnswers": [
+        "The Truman Show",
+        "Raiders of the Lost Ark",
+        "Forrest Gump"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'A high school student is sent thirty years into the past in a time-traveling car.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8be",
+      "correctAnswer": "Tennis",
+      "incorrectAnswers": [
+        "Badminton",
+        "Swimming",
+        "Cycling"
+      ],
+      "question": {
+        "text": "With which sport is Roger Federer associated?"
+      },
+      "tags": [
+        "people",
+        "general_knowledge",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63e4c35a106de6ffa7d4a7da",
+      "correctAnswer": "Green",
+      "incorrectAnswers": [
+        "Blue",
+        "Red",
+        "Yellow"
+      ],
+      "question": {
+        "text": "What is the traditional color associated with St. Patrick's Day?"
+      },
+      "tags": [
+        "society_and_culture",
+        "colours",
+        "celebrations"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623388b60161109f922aaca4",
+      "correctAnswer": "Pisa ",
+      "incorrectAnswers": [
+        "Florence",
+        "Naples",
+        "Turin"
+      ],
+      "question": {
+        "text": "Which Italian City Is Famous For Its Leaning Tower"
+      },
+      "tags": [
+        "tourist_attractions",
+        "italy",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9507b4",
+      "correctAnswer": "Arnold Schwarzenegger",
+      "incorrectAnswers": [
+        "Sylvester Stallone",
+        "Jason Statham",
+        "Chuck Norris"
+      ],
+      "question": {
+        "text": "Which action star has featured in both Terminator and Predator?"
+      },
+      "tags": [
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f049da29df7b05f7382",
+      "correctAnswer": "The Lord of the Rings: The Fellowship of the Ring",
+      "incorrectAnswers": [
+        "Star Wars",
+        "Double Indemnity",
+        "Logan"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'A Hobbit and eight companions set out on a journey to destroy the powerful One Ring.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8d9",
+      "correctAnswer": "Bruce Willis",
+      "incorrectAnswers": [
+        "John Travolta",
+        "Sean Penn",
+        "Al Pacino"
+      ],
+      "question": {
+        "text": "Which actor played the role of John McClane in Die Hard?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9f74796f721e95543f9e",
+      "correctAnswer": "Green",
+      "incorrectAnswers": [
+        "Maroon",
+        "Yellow",
+        "Blue"
+      ],
+      "question": {
+        "text": "Which of these colors is included on the flag of Nigeria?"
+      },
+      "tags": [
+        "flags",
+        "africa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515fb",
+      "correctAnswer": "Margarita",
+      "incorrectAnswers": [
+        "Bloody Mary",
+        "Mojito",
+        "Martini"
+      ],
+      "question": {
+        "text": "What cocktail is made with triple sec, tequila, and lime juice?"
+      },
+      "tags": [
+        "drink",
+        "food_and_drink",
+        "cocktails",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9ede796f721e95543f72",
+      "correctAnswer": "Red",
+      "incorrectAnswers": [
+        "Gold",
+        "Yellow",
+        "Blue"
+      ],
+      "question": {
+        "text": "Which of these colors would you find on the flag of Japan?"
+      },
+      "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056e867a97013de78b5301",
+      "correctAnswer": "Jesus",
+      "incorrectAnswers": [
+        "Muhammad",
+        "Buddha",
+        "Moses"
+      ],
+      "question": {
+        "text": "Who did the Twelve Apostles follow?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d31",
+      "correctAnswer": "The Beatles",
+      "incorrectAnswers": [
+        "Deep Purple",
+        "Feeder",
+        "Uriah Heep"
+      ],
+      "question": {
+        "text": "Which English rock band released the song 'A Hard Day's Night'?"
+      },
+      "tags": [
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
