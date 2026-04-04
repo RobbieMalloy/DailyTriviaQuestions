@@ -1,21 +1,24 @@
 {
-  "gameDate": "2026-04-03",
+  "gameDate": "2026-04-04",
   "difficulty": "easy",
   "results": [
     {
       "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95010b",
-      "correctAnswer": "Atlantis",
+      "id": "6477bb12550bc819ad646b59",
+      "correctAnswer": "Alexa",
       "incorrectAnswers": [
-        "Gondwana",
-        "Pangea",
-        "Europa"
+        "Siri",
+        "Cortana",
+        "Amazon Assistant"
       ],
       "question": {
-        "text": "Which ancient continent is said to be submerged?"
+        "text": "Which virtual assistant is produced by Amazon? "
       },
       "tags": [
-        "society_and_culture"
+        "ai",
+        "brands",
+        "society_and_culture",
+        "technology"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -24,21 +27,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fadd",
-      "correctAnswer": "Tom Hanks",
+      "id": "622a1c377cc59eab6f9507c5",
+      "correctAnswer": "Harrison Ford",
       "incorrectAnswers": [
-        "Morgan Freeman",
-        "Nigel Hawthorne",
-        "Paul Newman"
+        "Brad Pitt",
+        "Michael Fassbender",
+        "John Cusack"
       ],
       "question": {
-        "text": "Who won the 1994 Academy Award for Best Leading Actor for playing the role of Forrest Gump in Forrest Gump?"
+        "text": "Which actor has starred in films including Star Wars and Blade Runner?"
       },
       "tags": [
-        "academy_awards",
         "acting",
         "film",
-        "general_knowledge",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -47,20 +48,19 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "6476390bf05ea6d6f587a178",
-      "correctAnswer": "A cascade",
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9501fe",
+      "correctAnswer": "Quentin Tarantino",
       "incorrectAnswers": [
-        "A shuffle",
-        "A fountain",
-        "A reverse"
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
       ],
       "question": {
-        "text": "What is the most basic juggling pattern?"
+        "text": "Which director directed Pulp Fiction?"
       },
       "tags": [
-        "general_knowledge",
-        "games"
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -69,19 +69,19 @@
     },
     {
       "category": "food_and_drink",
-      "id": "65056e8e7a97013de78b530d",
-      "correctAnswer": "Grain",
+      "id": "624c60d150d1a5e051325a75",
+      "correctAnswer": "Mexico",
       "incorrectAnswers": [
-        "Cheese",
-        "Wine",
-        "Butter"
+        "Bhutan",
+        "Japan",
+        "Brazil"
       ],
       "question": {
-        "text": "What type of food is barley?"
+        "text": "Where in the world would you most expect to be served a taco?"
       },
       "tags": [
-        "food_and_drink",
-        "food"
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -89,21 +89,41 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "65056ef77a97013de78b539f",
-      "correctAnswer": "Adverb",
+      "category": "film_and_tv",
+      "id": "622a1c3b7cc59eab6f951782",
+      "correctAnswer": "Back to the Future",
       "incorrectAnswers": [
-        "Adjective",
-        "Noun",
-        "Conjunction"
+        "Star Wars",
+        "Jurassic Park",
+        "The Goonies"
       ],
       "question": {
-        "text": "Which part of speech is 'hastily'?"
+        "text": "Which movie had a device known as a flux capacitor?"
       },
       "tags": [
-        "language",
-        "grammar",
-        "vocabulary"
+        "film",
+        "film_and_tv",
+        "cult_films"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6266bc4ab0e62e469cf43e90",
+      "correctAnswer": "Stringed",
+      "incorrectAnswers": [
+        "Woodwind",
+        "Brass",
+        "Percussion"
+      ],
+      "question": {
+        "text": "What type of instrument is a banjo?"
+      },
+      "tags": [
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -112,19 +132,20 @@
     },
     {
       "category": "geography",
-      "id": "649b4f4f828109028d236250",
-      "correctAnswer": "The Panama Canal",
+      "id": "6461407e4d46e537ca8cd9e0",
+      "correctAnswer": "The Great Wall of China",
       "incorrectAnswers": [
-        "The Suez Canal",
-        "The Erie Canal",
-        "The Gulf Intracoastal Waterway"
+        "The Panama Canal",
+        "The Golden Gate Bridge",
+        "The Hoover Dam"
       ],
       "question": {
-        "text": "What is the name of the 50-mile waterway that stretches from Limon Bay on the Caribbean to the Bridge of the Americas on the Pacific Ocean?"
+        "text": "Which of these structures stretches for over 4,000 miles, often called the largest building project ever completed?"
       },
       "tags": [
-        "canals",
-        "bodies_of_water",
+        "architecture",
+        "engineering",
+        "civil_engineering",
         "geography"
       ],
       "type": "text_choice",
@@ -133,18 +154,225 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "646140784d46e537ca8cd9c1",
-      "correctAnswer": "Buoyancy",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c32",
+      "correctAnswer": "ABBA",
       "incorrectAnswers": [
-        "Liquefaction",
-        "Oscillation",
-        "Gravity"
+        "In Flames",
+        "HammerFall",
+        "Katatonia"
       ],
       "question": {
-        "text": "What is the term for the tendency of an object to float, or the upward pressure of fluid in an object?"
+        "text": "Which Swedish pop group released the song 'Money, Money, Money'?"
       },
       "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "65056e437a97013de78b52a4",
+      "correctAnswer": "Johann Sebastian",
+      "incorrectAnswers": [
+        "Josef Siegfried",
+        "Jürgen Siegismund",
+        "Jochen Simon"
+      ],
+      "question": {
+        "text": "What do the initials J. S. in J. S. Bach's name stand for?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c367cc59eab6f950079",
+      "correctAnswer": "Washington DC",
+      "incorrectAnswers": [
+        "New York City",
+        "Brussels",
+        "Geneva"
+      ],
+      "question": {
+        "text": "Where is Capitol Hill?"
+      },
+      "tags": [
+        "places",
+        "politics",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950511",
+      "correctAnswer": "the immune system",
+      "incorrectAnswers": [
+        "living tissues",
+        "eggs",
+        "the laws and phenomena of aqueous vapors"
+      ],
+      "question": {
+        "text": "What is Immunology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8bb",
+      "correctAnswer": "Harrison Ford",
+      "incorrectAnswers": [
+        "Marlon Brando",
+        "Samuel L. Jackson",
+        "Al Pacino"
+      ],
+      "question": {
+        "text": "Which actor played the role of Indiana Jones in Raiders of the Lost Ark?"
+      },
+      "tags": [
+        "people",
+        "acting",
+        "general_knowledge",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "65056f847a97013de78b5465",
+      "correctAnswer": "Puck",
+      "incorrectAnswers": [
+        "Jack",
+        "Duck",
+        "Chuck"
+      ],
+      "question": {
+        "text": "What is hit by ice hockey players?"
+      },
+      "tags": [
+        "sport_and_leisure"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbdb",
+      "correctAnswer": "\"This is the day you will always remember as the day you almost caught Captain Jack Sparrow!\"",
+      "incorrectAnswers": [
+        "\"My precious.\"",
+        "\"I'll get you, my pretty, and your little dog, too!\"",
+        "\"Keep your friends close, but your enemies closer.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Pirates of the Caribbean: The Curse of the Black Pearl'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "general_knowledge",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "65056eb27a97013de78b533e",
+      "correctAnswer": "Orson Welles",
+      "incorrectAnswers": [
+        "Billy Wilder",
+        "Howard Hawks",
+        "Carol Reed"
+      ],
+      "question": {
+        "text": "Who was the director of the film \"Citizen Kane\"?"
+      },
+      "tags": [
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3f7cc59eab6f95237c",
+      "correctAnswer": "Bulls",
+      "incorrectAnswers": [
+        "Fellas",
+        "Dogs",
+        "Blokes"
+      ],
+      "question": {
+        "text": "What are male cows called?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "69a561b103d8987f10a83b15",
+      "correctAnswer": "Sleeping Beauty",
+      "incorrectAnswers": [
+        "Alice",
+        "Rapunzel",
+        "Snow White"
+      ],
+      "question": {
+        "text": "Which fairy tale character falls asleep for a hundred years after pricking her finger?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64824e287778562fd76a9608",
+      "correctAnswer": "Vulpine",
+      "incorrectAnswers": [
+        "Feline",
+        "Canine",
+        "Serpentine"
+      ],
+      "question": {
+        "text": "What adjective describes a fox?"
+      },
+      "tags": [
+        "animals",
         "words"
       ],
       "type": "text_choice",
@@ -153,89 +381,18 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6262884d4b176d54800e3d94",
-      "correctAnswer": "Maybelline",
-      "incorrectAnswers": [
-        "L'Oreal",
-        "CoverGirl",
-        "Levis"
-      ],
-      "question": {
-        "text": "Which brand is associated with the marketing slogan 'Maybe she's born with it'?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "fashion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9507bb",
-      "correctAnswer": "Clint Eastwood",
-      "incorrectAnswers": [
-        "Matt Damon",
-        "Robert De Niro",
-        "Sean Connery"
-      ],
-      "question": {
-        "text": "Which actor has featured in films including The Good, the Bad and the Ugly and Million Dollar Baby?"
-      },
-      "tags": [
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639c9d90929b90846f2fc953",
-      "correctAnswer": "Barack Obama",
-      "incorrectAnswers": [
-        "Bill Clinton",
-        "George W. Bush",
-        "Donald Trump"
-      ],
-      "question": {
-        "text": "Which US president served two terms in office as the first African American president?"
-      },
-      "tags": [
-        "history",
-        "2000's",
-        "usa",
-        "presidents",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fef9",
-      "correctAnswer": "Kylie Minogue",
+      "id": "622a1c397cc59eab6f950d2e",
+      "correctAnswer": "The Beatles",
       "incorrectAnswers": [
-        "Madonna",
-        "Mika",
-        "Hikaru Utada"
+        "Oasis",
+        "Led Zeppelin",
+        "The Clash"
       ],
       "question": {
-        "text": "Which singer released the song 'I Should Be So Lucky'?"
+        "text": "Which English rock band released the song 'Hey Jude'?"
       },
       "tags": [
-        "songs",
-        "musicians",
         "music"
       ],
       "type": "text_choice",
@@ -244,152 +401,22 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "6239f8019129041bf3925cbd",
-      "correctAnswer": "Alpha",
-      "incorrectAnswers": [
-        "Apple",
-        "Animal",
-        "Aeroplan"
-      ],
-      "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter A?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "63afff832d1dcedfbb654557",
-      "correctAnswer": "Photography",
+      "id": "622a1c3c7cc59eab6f951797",
+      "correctAnswer": "Lord Voldemort",
       "incorrectAnswers": [
-        "Painting",
-        "Sculpture",
-        "Architecture"
+        "Lord Darkmoor",
+        "Lord Moribund",
+        "Lord Doit Chagrin"
       ],
       "question": {
-        "text": "Which of the following is NOT a type of art commonly associated with the Renaissance?"
+        "text": "Which is the name of the villain in the Harry Potter series?"
       },
       "tags": [
-        "history",
-        "renaissance",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "65056e377a97013de78b5294",
-      "correctAnswer": "Composer",
-      "incorrectAnswers": [
-        "Scientist",
-        "Politician",
-        "Painter"
-      ],
-      "question": {
-        "text": "What was Wolfgang Amadeus Mozart's profession?"
-      },
-      "tags": [
-        "music",
-        "classical",
-        "composer"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056e4f7a97013de78b52b5",
-      "correctAnswer": "1492",
-      "incorrectAnswers": [
-        "1502",
-        "1607",
-        "1776"
-      ],
-      "question": {
-        "text": "In what year did Christopher Columbus first reach the Bahamas?"
-      },
-      "tags": [
-        "history",
-        "exploration",
-        "Christopher Columbus"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6256989c9da29df7b05f7292",
-      "correctAnswer": "Benedict Cumberbatch",
-      "incorrectAnswers": [
-        "Jeff Goldblum",
-        "J.K. Simmons",
-        "Michael Douglas"
-      ],
-      "question": {
-        "text": "Which actor plays the role of Dr Strange in the Marvel Cinematic Universe?"
-      },
-      "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "65056f247a97013de78b53de",
-      "correctAnswer": "Mausoleum",
-      "incorrectAnswers": [
-        "Palace",
-        "Mosque",
-        "Tomb"
-      ],
-      "question": {
-        "text": "What kind of structure is the Taj Mahal?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95139f",
-      "correctAnswer": "Harry Potter",
-      "incorrectAnswers": [
-        "Voyages Extraordinaires",
-        "Percy Jackson & the Olympians",
-        "Twilight"
-      ],
-      "question": {
-        "text": "In which book series does Lord Voldemort appear?"
-      },
-      "tags": [
+        "harry_potter",
         "fictitious_characters",
-        "childrens_literature",
         "literature",
+        "young_adult",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -398,20 +425,64 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe93",
-      "correctAnswer": "Rihanna",
+      "category": "sport_and_leisure",
+      "id": "622a1c357cc59eab6f950023",
+      "correctAnswer": "Boxing",
       "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Ricky Martin"
+        "Rugby",
+        "Cricket",
+        "Football"
       ],
       "question": {
-        "text": "Which singer released the song 'S&M'?"
+        "text": "With which sport is Muhammad Ali associated?"
+      },
+      "tags": [
+        "sport",
+        "people",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f95224c",
+      "correctAnswer": "Hot",
+      "incorrectAnswers": [
+        "Wet",
+        "Windy",
+        "Dark"
+      ],
+      "question": {
+        "text": "In what conditions do thermophilous plants thrive?"
+      },
+      "tags": [
+        "science",
+        "words",
+        "plants",
+        "biology"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff3c",
+      "correctAnswer": "Michael Jackson",
+      "incorrectAnswers": [
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
+      ],
+      "question": {
+        "text": "Which American singer, songwriter and dancer released the song 'Don't Stop 'Til You Get Enough'?"
       },
       "tags": [
         "songs",
-        "musicians",
         "music"
       ],
       "type": "text_choice",
@@ -420,16 +491,38 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "65056f947a97013de78b547a",
-      "correctAnswer": "Dam",
+      "category": "arts_and_literature",
+      "id": "64f6d9b9660c3a8d960101e4",
+      "correctAnswer": "The Mona Lisa",
       "incorrectAnswers": [
-        "Clam",
-        "Scam",
-        "Lamb"
+        "The Starry Night",
+        "The Birth of Venus",
+        "The Last Supper"
       ],
       "question": {
-        "text": "What is a barrier that blocks flowing water?"
+        "text": "Which painting is also known as \"La Gioconda\"?"
+      },
+      "tags": [
+        "art",
+        "paintings",
+        "artists"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3a7cc59eab6f951067",
+      "correctAnswer": "Bonsai",
+      "incorrectAnswers": [
+        "Ornamental Shrubbery",
+        "Decorage",
+        "Topiary"
+      ],
+      "question": {
+        "text": "What is the name given to the art of miniaturising trees and maintaining their small size?"
       },
       "tags": [
         "words",
@@ -441,21 +534,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "63f39502989356ef48370be1",
-      "correctAnswer": "Apple",
+      "category": "arts_and_literature",
+      "id": "64af1025deeef534fb54ad0d",
+      "correctAnswer": "Marvel",
       "incorrectAnswers": [
-        "Mango",
-        "Papaya",
-        "Pineapple"
+        "Wonder",
+        "DC",
+        "Image"
       ],
       "question": {
-        "text": "Which of these fruits is not a tropical fruit?"
+        "text": "What is the name of the comic book company whose comics feature Spiderman?"
       },
       "tags": [
-        "food_and_drink",
-        "food",
-        "fruit"
+        "comics",
+        "arts_and_literature",
+        "superheroes"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -463,20 +556,21 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "63d95321168979b94b2e4fa3",
-      "correctAnswer": "Charles Darwin",
+      "category": "sport_and_leisure",
+      "id": "622a1c3a7cc59eab6f9510be",
+      "correctAnswer": "Six",
       "incorrectAnswers": [
-        "Albert Einstein",
-        "Isaac Newton",
-        "Galileo Galilei"
+        "Four",
+        "Eight",
+        "Two"
       ],
       "question": {
-        "text": "Who developed the theory of evolution by natural selection?"
+        "text": "How many pockets does a snooker table have?"
       },
       "tags": [
-        "science",
-        "scientific_discoveries"
+        "general_knowledge",
+        "numbers",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -485,21 +579,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f951889",
-      "correctAnswer": "Apples",
+      "id": "64860e82113d76c6b63179f5",
+      "correctAnswer": "Inflation",
       "incorrectAnswers": [
-        "Bananas",
-        "Cherries",
-        "Carrots"
+        "Deflation",
+        "Recession",
+        "Depression"
       ],
       "question": {
-        "text": "What Would You Traditionally 'Bob' For At Halloween?"
+        "text": "In 2008, what economic phenomenon caused prices in Zimbabwe to double every 24.7 hours?"
       },
       "tags": [
-        "halloween",
-        "traditions",
-        "food",
-        "society_and_culture"
+        "economics",
+        "society_and_culture",
+        "zimbabwe"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -507,23 +600,23 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "645b9ebcf09106226db23571",
-      "correctAnswer": "Spinach",
+      "category": "geography",
+      "id": "62602d284b176d54800e3c83",
+      "correctAnswer": "Munich",
       "incorrectAnswers": [
-        "Kale",
-        "Broccoli",
-        "Cabbage"
+        "Valencia",
+        "Budapest",
+        "Milan"
       ],
       "question": {
-        "text": "Which vegetable did Popeye love to eat from a can?"
+        "text": "Which of these cities is in Germany?"
       },
       "tags": [
-        "nutrition",
-        "vegetables",
-        "food_and_drink",
-        "food",
-        "cartoons"
+        "cities",
+        "europe",
+        "germany",
+        "general_knowledge",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -531,124 +624,21 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510c8",
-      "correctAnswer": "Reptiles",
+      "category": "general_knowledge",
+      "id": "649c8996e3aef0a3c23f63f8",
+      "correctAnswer": "A simile",
       "incorrectAnswers": [
-        "Mammals",
-        "Amphibians",
-        "Lizards"
+        "A metaphor",
+        "An analogy",
+        "A hyperbole"
       ],
       "question": {
-        "text": "Marine iguanas, saltwater crocodiles, sea snakes, and sea turtles are the only surviving seawater __________"
+        "text": "What type of comparison is the phrase 'He was like an eagle chained to the ground' an example of?"
       },
       "tags": [
-        "animals",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056e967a97013de78b5318",
-      "correctAnswer": "Vincent van Gogh",
-      "incorrectAnswers": [
-        "Claude Monet",
-        "Johannes Vermeer",
-        "Egon Schiele"
-      ],
-      "question": {
-        "text": "Who painted \"The Starry Night\" in 1889?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "painting",
-        "post-impressionism"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625741159da29df7b05f740b",
-      "correctAnswer": "A prince cursed to spend his days as a monster sets out to regain his humanity.",
-      "incorrectAnswers": [
-        "A paleontologist is tasked with protecting two children when cloned dinosaurs are set free.",
-        "The son of a former boxer is trained by his father for a mixed martial arts tournament.",
-        "A young F.B.I. cadet must receive the help of a cannibal to help catch another serial killer."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Beauty and the Beast?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "6477bad7550bc819ad646b2c",
-      "correctAnswer": "A penalty kick",
-      "incorrectAnswers": [
-        "A free kick",
-        "An own goal",
-        "A red card"
-      ],
-      "question": {
-        "text": "What event occurs in soccer when a defender commits a foul in their own penalty area?"
-      },
-      "tags": [
-        "soccer",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "6384b44183dddfb71ee5e36a",
-      "correctAnswer": "American Football",
-      "incorrectAnswers": [
-        "Horse Racing",
-        "Tennis",
-        "Cycling"
-      ],
-      "question": {
-        "text": "Which sport is played at The Super Bowl?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624334dfcfaae40c1296146f",
-      "correctAnswer": "An Owlet",
-      "incorrectAnswers": [
-        "A Caterpillar",
-        "A Codling",
-        "A Colt"
-      ],
-      "question": {
-        "text": "What would you call a baby owl?"
-      },
-      "tags": [
-        "science"
+        "language",
+        "writing",
+        "grammar"
       ],
       "type": "text_choice",
       "difficulty": "easy",
