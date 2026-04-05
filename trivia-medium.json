@@ -1,24 +1,48 @@
 {
-  "gameDate": "2026-04-04",
+  "gameDate": "2026-04-05",
   "difficulty": "medium",
   "results": [
     {
-      "category": "sport_and_leisure",
-      "id": "6496ac48e831b1ab5aa11147",
-      "correctAnswer": "The Indianapolis Colts",
+      "category": "food_and_drink",
+      "id": "63bc3f990e893d6e5a6a0fc1",
+      "correctAnswer": "Cannoli",
       "incorrectAnswers": [
-        "The Dallas Cowboys",
-        "The Pittsburgh Steelers",
-        "The Oakland Raiders"
+        "Bomboloni",
+        "Kringle",
+        "Torti"
       ],
       "question": {
-        "text": "What is the name of the NFL team whose logo features a blue horseshoe?"
+        "text": "What is the name of an Italian pastry made of deep-fried dough shaped into a tube and filled with custard or cream?"
       },
       "tags": [
-        "football",
-        "american_football",
-        "sport",
-        "logos"
+        "food",
+        "food_and_drink",
+        "pastry",
+        "baking",
+        "italy"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "64746b3e5a4c31088dd9d037",
+      "correctAnswer": "Gandalf",
+      "incorrectAnswers": [
+        "Saruman",
+        "Radagast",
+        "Merlin"
+      ],
+      "question": {
+        "text": "In J.R.R. Tolkien's Middle-earth stories, which wizard gets promoted from \"the Grey\" to \"the White\"?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "literature",
+        "fantasy",
+        "fictitious_characters"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -27,15 +51,323 @@
     },
     {
       "category": "geography",
-      "id": "623b57a9fd6c701a92118370",
-      "correctAnswer": "Indonesia",
+      "id": "6476390bf05ea6d6f587a16f",
+      "correctAnswer": "Tokyo",
       "incorrectAnswers": [
-        "Turkey",
-        "Saudi Arabia",
-        "Thailand"
+        "Kyoto",
+        "Osaka",
+        "Nagoya"
       ],
       "question": {
-        "text": "In which country would you find the island of Bali?"
+        "text": "In which city is Edo Castle located?"
+      },
+      "tags": [
+        "architecture",
+        "japan",
+        "tourist_attractions",
+        "castles",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417d5f0f96c4efe8d773c0",
+      "correctAnswer": "New York Giants",
+      "incorrectAnswers": [
+        "New York Predators",
+        "New York Raiders",
+        "New York Lions"
+      ],
+      "question": {
+        "text": "Which of these is an American Football team based in New York?"
+      },
+      "tags": [
+        "new_york",
+        "football",
+        "nfl",
+        "usa",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3a7cc59eab6f9511da",
+      "correctAnswer": "Osiris",
+      "incorrectAnswers": [
+        "Isis",
+        "Horus",
+        "Imhotep"
+      ],
+      "question": {
+        "text": "In Egyptian mythology, who is the god of the underworld?"
+      },
+      "tags": [
+        "society_and_culture",
+        "ancient_egypt",
+        "mythology"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "647edb90520523194910c35a",
+      "correctAnswer": "Verona",
+      "incorrectAnswers": [
+        "Venice",
+        "Florence",
+        "Rome"
+      ],
+      "question": {
+        "text": "What Italian city is the setting for the opening of 'Romeo & Juliet'?"
+      },
+      "tags": [
+        "italy",
+        "shakespeare",
+        "arts_and_literature",
+        "cities",
+        "theater"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6242e83da22452794eaef20b",
+      "correctAnswer": "Wolves",
+      "incorrectAnswers": [
+        "Cottagers",
+        "The Cherries",
+        "The Boro"
+      ],
+      "question": {
+        "text": "What is the nickname of the English football team Wolverhampton Wanderers?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e3e",
+      "correctAnswer": "George Orwell",
+      "incorrectAnswers": [
+        "Joseph Conrad",
+        "Virginia Woolf",
+        "Charles Dickens"
+      ],
+      "question": {
+        "text": "Which author wrote 'Nineteen Eighty-Four'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740d49da29df7b05f73fb",
+      "correctAnswer": "A law enforcement agent pursues four replicants who have returned to Earth to find their creator.",
+      "incorrectAnswers": [
+        "A man houses over a thousand Tutsi refugees during their struggle against the Hutu militia.",
+        "When a serial killer murders key political figures, a vigilante is forced to intervene.",
+        "An insurance representative lets a housewife seduce him into a scheme of insurance fraud and murder."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Blade Runner?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9518c7",
+      "correctAnswer": "Fat Man",
+      "incorrectAnswers": [
+        "Big Boy",
+        "Bonnie Lad",
+        "Chunky Joe"
+      ],
+      "question": {
+        "text": "What was the name given to the atom bomb that was dropped on Hiroshima?"
+      },
+      "tags": [
+        "world_war_2",
+        "wars",
+        "names",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62c2f9ddb3eadb0437fda6aa",
+      "correctAnswer": "Playboy",
+      "incorrectAnswers": [
+        "Lamborghini",
+        "Peugeot",
+        "Nestlé"
+      ],
+      "question": {
+        "text": "Which of these brands has a rabbit on its logo?"
+      },
+      "tags": [
+        "society_and_culture",
+        "business",
+        "marketing",
+        "animals",
+        "logos",
+        "symbols"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f951619",
+      "correctAnswer": "Pina Colada",
+      "incorrectAnswers": [
+        "Martini",
+        "Negroni",
+        "Daiquiri"
+      ],
+      "question": {
+        "text": "Which Cocktail contains rum, pineapple and coconut?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623389510161109f922aacdf",
+      "correctAnswer": "Denver ",
+      "incorrectAnswers": [
+        "Columbus",
+        "Austin",
+        "Sacramento"
+      ],
+      "question": {
+        "text": "Which US state capital is known as the mile high city?"
+      },
+      "tags": [
+        "usa",
+        "cities",
+        "nicknames",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e661ff2394bd44dee046",
+      "correctAnswer": "Five",
+      "incorrectAnswers": [
+        "Six",
+        "Seven",
+        "Black"
+      ],
+      "question": {
+        "text": "In Italian, what is the meaning of the word 'cinque'?"
+      },
+      "tags": [
+        "language",
+        "translations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63951efbe55fa75b149597b4",
+      "correctAnswer": "Ionization",
+      "incorrectAnswers": [
+        "Electionification",
+        "Molecularization",
+        "Atomification"
+      ],
+      "question": {
+        "text": "What is the process by which an atom gains or loses charge by gaining or losing an electron?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6488914b4cd3f064f443dc01",
+      "correctAnswer": "The White House",
+      "incorrectAnswers": [
+        "The Louvre",
+        "Buckingham Palace",
+        "The Vatican"
+      ],
+      "question": {
+        "text": "In which iconic building is \"The Yellow Oval Room\" located?"
+      },
+      "tags": [
+        "architecture",
+        "buildings",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623735cfcfe13103f55eb56f",
+      "correctAnswer": "Seychelles",
+      "incorrectAnswers": [
+        "Madagascar",
+        "Costa Rica",
+        "Comoros"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.sc' at the end of its web addresses?"
       },
       "tags": [
         "geography"
@@ -47,18 +379,20 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f950443",
-      "correctAnswer": "Polio",
+      "id": "63adbd7504c68cc1e14b8e43",
+      "correctAnswer": "Mantle",
       "incorrectAnswers": [
-        "Smallpox",
-        "Coronavirus",
-        "Malaria"
+        "Core",
+        "Lithosphere",
+        "Atmosphere"
       ],
       "question": {
-        "text": "In 1954 the Salk vaccine was introduced - a vaccine which effectively wiped out which devastating disease?"
+        "text": "What is the name of the large mass of molten rock immediately beneath the Earth's crust?"
       },
       "tags": [
-        "science"
+        "geology",
+        "science",
+        "earth"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -66,21 +400,20 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6471e4297206d7c314606f6f",
-      "correctAnswer": "A fish",
+      "category": "food_and_drink",
+      "id": "624c60e750d1a5e051325a7b",
+      "correctAnswer": "Peru",
       "incorrectAnswers": [
-        " A lion",
-        "A cow",
-        "An octopus"
+        "Belgium",
+        "Japan",
+        "Cambodia"
       ],
       "question": {
-        "text": "In the biblical story, what does Jonah get swallowed by?"
+        "text": "Where in the world would you most expect to be served Ceviche?"
       },
       "tags": [
-        "bible",
-        "society_and_culture",
-        "christianity"
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -88,110 +421,21 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3d7cc59eab6f951bd9",
-      "correctAnswer": "13",
+      "category": "film_and_tv",
+      "id": "622a1c3c7cc59eab6f9517f4",
+      "correctAnswer": "Poltergeist",
       "incorrectAnswers": [
-        "4",
-        "50",
-        "49"
+        "The Exorcist",
+        "The Shining",
+        "Halloween"
       ],
       "question": {
-        "text": "How Many Colonies Signed The American Declaration Of Independence?"
+        "text": "Which classic scary movie features the line 'They're Here'?"
       },
       "tags": [
-        "usa",
-        "us_states",
-        "numbers",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "645aba5e158db1bd1779f1d1",
-      "correctAnswer": "Nicaragua",
-      "incorrectAnswers": [
-        "Honduras",
-        "El Salvador",
-        "Costa Rica"
-      ],
-      "question": {
-        "text": "In which country are the largest two lakes in Central America located, including Lake Managua?"
-      },
-      "tags": [
-        "lakes",
-        "geography",
-        "central_america",
-        "bodies_of_water"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "647f9db33a4302a719271628",
-      "correctAnswer": "Erode",
-      "incorrectAnswers": [
-        "Erupt",
-        "Elevate",
-        "Emanate"
-      ],
-      "question": {
-        "text": "What is the geological term meaning 'to wear away'?"
-      },
-      "tags": [
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f952247",
-      "correctAnswer": "The Human Nose",
-      "incorrectAnswers": [
-        "Rhinoceroses",
-        "Kidneys",
-        "The Moon"
-      ],
-      "question": {
-        "text": "In what does a rhinologist specialise?"
-      },
-      "tags": [
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "649dee4e615f8db40f5422d7",
-      "correctAnswer": "Ronald Reagan",
-      "incorrectAnswers": [
-        "John F. Kennedy",
-        "Abraham Lincoln",
-        "Barack Obama"
-      ],
-      "question": {
-        "text": "Before becoming a politician, which US President was a Hollywood actor?"
-      },
-      "tags": [
-        "presidents",
-        "acting",
-        "usa",
-        "history",
         "film",
+        "quotes",
+        "horror",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -201,440 +445,20 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94ff40",
-      "correctAnswer": "Michael Jackson",
+      "id": "647f9db33a4302a71927160f",
+      "correctAnswer": "Joni Mitchell",
       "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
+        "Carole King",
+        "Janis Joplin",
+        "Stevie Nicks"
       ],
       "question": {
-        "text": "Which American singer, songwriter and dancer released the song 'Love Never Felt So Good'?"
+        "text": "Which music icon is famous for songs like \"Both Sides Now\" and \"Big Yellow Taxi\"?"
       },
       "tags": [
         "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64fadc3c717513cb79190385",
-      "correctAnswer": "Michael Jackson",
-      "incorrectAnswers": [
-        "Prince",
-        "Madonna",
-        "Jamiroquai"
-      ],
-      "question": {
-        "text": "In 1993, which famous singer co-patented a pair of shoes that provided a \"Method and means for creating anti-gravity illusion\"?"
-      },
-      "tags": [
-        "inventions",
-        "musicians",
-        "fashion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd0b",
-      "correctAnswer": "Plato",
-      "incorrectAnswers": [
-        "Thomas Hobbes",
-        "Spinoza",
-        "Jean-Jacques Rousseau"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'That man is wisest who, like Socrates, realizes that his wisdom is worthless'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951372",
-      "correctAnswer": "Alice's Adventures in Wonderland",
-      "incorrectAnswers": [
-        "Charlotte's Web",
-        "The Hobbit",
-        "Taras Bulba"
-      ],
-      "question": {
-        "text": "In which book does the White Rabbit appear?"
-      },
-      "tags": [
-        "literature",
-        "childrens_literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95138d",
-      "correctAnswer": "Les Misérables",
-      "incorrectAnswers": [
-        "The Boy in the Striped Pyjamas",
-        "Romance of the Three Kingdoms",
-        "The Count of Monte Cristo"
-      ],
-      "question": {
-        "text": "In which book does the character 'Gavroche' appear?"
-      },
-      "tags": [
-        "classic_novels",
-        "arts_and_literature",
-        "literature",
-        "fictitious_characters"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500d9",
-      "correctAnswer": "Brock",
-      "incorrectAnswers": [
-        "Vince",
-        "Erika",
-        "Commander Cole"
-      ],
-      "question": {
-        "text": "Who is the first gym leader you fight in 'Pokémon' for the Game Boy?"
-      },
-      "tags": [
-        "video_games"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "646262c1ab138b829b81ea64",
-      "correctAnswer": "Sentence",
-      "incorrectAnswers": [
-        "Word",
-        "Conjunction",
-        "Clause"
-      ],
-      "question": {
-        "text": "What grammatical unit can be simple, compound or complex?"
-      },
-      "tags": [
-        "grammar",
-        "language",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639c9da1929b90846f2fc974",
-      "correctAnswer": "1947",
-      "incorrectAnswers": [
-        "1945",
-        "1938",
-        "1955"
-      ],
-      "question": {
-        "text": "In which year did the Cold War between the U.S. and Soviet Union begin?"
-      },
-      "tags": [
-        "history",
-        "1900's",
-        "cold_war",
-        "usa",
-        "soviet_union",
-        "wars"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "645c9f4f42ea81e2554c5efb",
-      "correctAnswer": "Gorbachev",
-      "incorrectAnswers": [
-        "Yeltsin",
-        "Putin",
-        "Khrushchev"
-      ],
-      "question": {
-        "text": "Who was the last president of the Soviet Union?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "politics",
-        "soviet_union",
-        "leaders"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95078f",
-      "correctAnswer": "Laurence Fishburne",
-      "incorrectAnswers": [
-        "Sean Connery",
-        "Gary Oldman",
-        "Donald Sutherland"
-      ],
-      "question": {
-        "text": "Which actor has featured in films including The Matrix and Batman v Superman: Dawn of Justice?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64e6533a0b79e5bedd549500",
-      "correctAnswer": "Lego",
-      "incorrectAnswers": [
-        "Hasbro",
-        "K'Nex",
-        "Playmobil"
-      ],
-      "question": {
-        "text": "Which brand produces building sets like Technic and Ninjago?"
-      },
-      "tags": [
-        "toys",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056f677a97013de78b543c",
-      "correctAnswer": "On trees",
-      "incorrectAnswers": [
-        "Under water",
-        "In the ground",
-        "On grasses"
-      ],
-      "question": {
-        "text": "Where do cashews grow?"
-      },
-      "tags": [
-        "food_and_drink",
-        "nuts"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa23",
-      "correctAnswer": "‎Salvador Dalí",
-      "incorrectAnswers": [
-        "James Abbott McNeill Whistler",
-        "Cassius Marcellus Coolidge",
-        "Vincent van Gogh"
-      ],
-      "question": {
-        "text": "Which artist painted \"The Persistence of Memory\""
-      },
-      "tags": [
-        "art",
-        "painting",
-        "general_knowledge",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f950305",
-      "correctAnswer": "Texas Chainsaw Massacre",
-      "incorrectAnswers": [
-        "Halloween",
-        "Nightmare on Elm Street",
-        "The Blair Witch Project"
-      ],
-      "question": {
-        "text": "With Which Horror Film Would You Associate The Character Of Leatherface"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950625",
-      "correctAnswer": "Jennifer Lawrence",
-      "incorrectAnswers": [
-        "Catherine Deneuve",
-        "Audrey Hepburn",
-        "Rachel Weisz"
-      ],
-      "question": {
-        "text": "Which actor has played roles in films including X-Men: Days of Future Past and American Hustle?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fce9",
-      "correctAnswer": "Sino-Tibetan",
-      "incorrectAnswers": [
-        "Turkic",
-        "Niger–Congo",
-        "Uralic"
-      ],
-      "question": {
-        "text": "The language 'Wu Chinese' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63989c175c9a75021f31047f",
-      "correctAnswer": "The Thirty Years' War",
-      "incorrectAnswers": [
-        "The Hundred Years' War",
-        "The War of the Roses",
-        "The War of Spanish Succession"
-      ],
-      "question": {
-        "text": "What was the name of the prominent religious conflict that arose in Europe in the 17th century?"
-      },
-      "tags": [
-        "history",
-        "1600s",
-        "wars",
-        "religion",
-        "holy_roman_empire",
-        "europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "65056eea7a97013de78b538e",
-      "correctAnswer": "Achilles",
-      "incorrectAnswers": [
-        "Hercules",
-        "Perseus",
-        "Odysseus"
-      ],
-      "question": {
-        "text": "Which Ancient Greek hero was invulnerable in all of his body except for one heel?"
-      },
-      "tags": [
-        "ancient_greece",
-        "mythology",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95138f",
-      "correctAnswer": "Through the Looking-Glass",
-      "incorrectAnswers": [
-        "Mio, My Son",
-        "Jonathan Strange & Mr Norrell",
-        "The Stand"
-      ],
-      "question": {
-        "text": "In which book does 'The Hatter' appear?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3e7cc59eab6f9522a2",
-      "correctAnswer": "24",
-      "incorrectAnswers": [
-        "12",
-        "30",
-        "365"
-      ],
-      "question": {
-        "text": "How many days will it be before an analogue clock losing 30 minutes a day shows the right time again?"
-      },
-      "tags": [
-        "mathematics",
-        "numbers",
-        "general_knowledge"
+        "music",
+        "musicians"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -643,20 +467,193 @@
     },
     {
       "category": "science",
-      "id": "6243333acfaae40c129613cb",
-      "correctAnswer": "A Cock",
+      "id": "622a1c3f7cc59eab6f9523cc",
+      "correctAnswer": "Bactrian",
       "incorrectAnswers": [
-        "A Rooster",
-        "A Cob",
-        "A Ram"
+        "Dromedary",
+        "Alpine",
+        "Bolo"
       ],
       "question": {
-        "text": "A male bird is known as what?"
+        "text": "What type of camel has two humps?"
       },
       "tags": [
         "animals",
-        "names",
+        "biology",
         "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6384b45c83dddfb71ee5e375",
+      "correctAnswer": "Motorsports",
+      "incorrectAnswers": [
+        "Baseball",
+        "Horse Racing",
+        "American Football"
+      ],
+      "question": {
+        "text": "What sport would you associate with The Daytona 500?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501d6",
+      "correctAnswer": "A Clockwork Orange",
+      "incorrectAnswers": [
+        "Do Androids Dream of Electric Sheep?",
+        "Slaughterhouse-Five",
+        "We"
+      ],
+      "question": {
+        "text": "Which piece of written work starts with the line '“What's it going to be then, eh?” There was me, that is Alex, and my three droogs, that is Pete, Georgie, and Dim, Dim being really dim, and we sat in the Korova Milkbar making up our rassoodocks what to do with the evening, a flip dark chill winter bastard though dry.'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951b3a",
+      "correctAnswer": "China",
+      "incorrectAnswers": [
+        "Spain",
+        "Brazil",
+        "Australia"
+      ],
+      "question": {
+        "text": "In which country did the Boxer Rebellion take place?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625698d09da29df7b05f729f",
+      "correctAnswer": "Chris Pratt",
+      "incorrectAnswers": [
+        "Tom Hiddleston",
+        "Anthony Hopkins",
+        "Tom Holland"
+      ],
+      "question": {
+        "text": "Who plays the role of Star Lord in the Marvel Cinematic Universe?"
+      },
+      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623388eb49d7a9fc012fb52f",
+      "correctAnswer": "Macau",
+      "incorrectAnswers": [
+        "Hong Kong",
+        "Goa",
+        "Cape Belia"
+      ],
+      "question": {
+        "text": "Which Portuguese colony reverted to China in December 1999?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3b7cc59eab6f951705",
+      "correctAnswer": "Georges Pompidou",
+      "incorrectAnswers": [
+        "Jaques Chirac",
+        "François Mitterrand",
+        "Gaston Doumergue"
+      ],
+      "question": {
+        "text": "Who became President of France after Charles de Gaulle?"
+      },
+      "tags": [
+        "history",
+        "france",
+        "presidents",
+        "leaders",
+        "politics",
+        "europe"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c347cc59eab6f94f9c5",
+      "correctAnswer": "George W. Bush",
+      "incorrectAnswers": [
+        "Gerald Ford",
+        "Thomas Jefferson ",
+        "Franklin D. Roosevelt"
+      ],
+      "question": {
+        "text": "Who was the 43rd president of the USA, in term during the period 2001–2009?"
+      },
+      "tags": [
+        "usa",
+        "presidents",
+        "leaders",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f9507fb",
+      "correctAnswer": "Asia",
+      "incorrectAnswers": [
+        "South America",
+        "Oceania",
+        "Europe"
+      ],
+      "question": {
+        "text": "The country of Bhutan is on which continent?"
+      },
+      "tags": [
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",

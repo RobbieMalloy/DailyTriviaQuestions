@@ -1,43 +1,133 @@
 {
-  "gameDate": "2026-04-04",
+  "gameDate": "2026-04-05",
   "difficulty": "random",
   "results": [
     {
-      "category": "society_and_culture",
-      "id": "65056eea7a97013de78b538e",
-      "correctAnswer": "Achilles",
+      "category": "history",
+      "id": "62611f214b176d54800e3d43",
+      "correctAnswer": "1948",
       "incorrectAnswers": [
-        "Hercules",
-        "Perseus",
-        "Odysseus"
+        "1890",
+        "1966",
+        "2002"
       ],
       "question": {
-        "text": "Which Ancient Greek hero was invulnerable in all of his body except for one heel?"
+        "text": "When did the United States enact the Marshall Plan?"
       },
       "tags": [
-        "ancient_greece",
-        "mythology",
+        "events",
+        "usa",
+        "politics",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "645fcc80541c4d4fc8cf307f",
+      "correctAnswer": "Scattering",
+      "incorrectAnswers": [
+        "Cohesion",
+        "Adhesion",
+        "Diffusion"
+      ],
+      "question": {
+        "text": "In physics, what phenomenon can be defined as \"a change in the direction of motion of a particle because of a collision with another particle\"?"
+      },
+      "tags": [
+        "physics",
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcc7",
+      "correctAnswer": "Afroasiatic",
+      "incorrectAnswers": [
+        "Kra–Dai",
+        "Niger–Congo",
+        "Austronesian"
+      ],
+      "question": {
+        "text": "The language 'Sudanese Arabic' belongs to which language family?"
+      },
+      "tags": [
+        "language",
         "society_and_culture"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95138f",
-      "correctAnswer": "Through the Looking-Glass",
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f95163b",
+      "correctAnswer": "Green",
       "incorrectAnswers": [
-        "Mio, My Son",
-        "Jonathan Strange & Mr Norrell",
-        "The Stand"
+        "Blue",
+        "Yellow",
+        "Red"
       ],
       "question": {
-        "text": "In which book does 'The Hatter' appear?"
+        "text": " What colour is the flesh of an avocado?"
       },
       "tags": [
-        "arts_and_literature"
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64824e397778562fd76a9618",
+      "correctAnswer": "Tupac",
+      "incorrectAnswers": [
+        "Notorious B.I.G.",
+        "Nas",
+        "Snoop Dogg"
+      ],
+      "question": {
+        "text": "Which rapper released the song 'California Love'?"
+      },
+      "tags": [
+        "rap_music",
+        "hip_hop",
+        "music",
+        "songs"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f952261",
+      "correctAnswer": "Hyper Text Transfer Protocol",
+      "incorrectAnswers": [
+        "Hard Time Telecommunications Pact",
+        "Head To Tail Photons",
+        "High Top Transduction Paths"
+      ],
+      "question": {
+        "text": "In computer networking what do the initials HTTP stand for?"
+      },
+      "tags": [
+        "science",
+        "computing",
+        "the_internet",
+        "initials"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -45,21 +135,40 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c3e7cc59eab6f9522a2",
-      "correctAnswer": "24",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950ca4",
+      "correctAnswer": "The Rolling Stones",
       "incorrectAnswers": [
-        "12",
-        "30",
-        "365"
+        "McFly",
+        "Delirious?",
+        "Depeche Mode"
       ],
       "question": {
-        "text": "How many days will it be before an analogue clock losing 30 minutes a day shows the right time again?"
+        "text": "Which English rock band released the song 'Honky Tonk Women'?"
       },
       "tags": [
-        "mathematics",
-        "numbers",
-        "general_knowledge"
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950556",
+      "correctAnswer": "The relationships between living organisms and their environment",
+      "incorrectAnswers": [
+        "The death of stars",
+        "Windmills, watermills and animal engines",
+        "The practice of escaping from restraints"
+      ],
+      "question": {
+        "text": "What is Ecology the study of?"
+      },
+      "tags": [
+        "words",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -68,15 +177,15 @@
     },
     {
       "category": "geography",
-      "id": "6237401fcb85f7ce9e949cde",
-      "correctAnswer": "Zagreb",
+      "id": "623b5778fd6c701a9211835d",
+      "correctAnswer": "Cambodia",
       "incorrectAnswers": [
-        "Rabat",
-        "Ashgabat",
-        "Niamey"
+        "Guatemala",
+        "Belgium",
+        "Iraq"
       ],
       "question": {
-        "text": "What is the capital city of Croatia?"
+        "text": "In which country would you find the UNESCO World Heritage site of Angkor Wat?"
       },
       "tags": [
         "geography"
@@ -88,19 +197,17 @@
     },
     {
       "category": "science",
-      "id": "6243333acfaae40c129613cb",
-      "correctAnswer": "A Cock",
+      "id": "622a1c397cc59eab6f950fad",
+      "correctAnswer": "Isaac Newton",
       "incorrectAnswers": [
-        "A Rooster",
-        "A Cob",
-        "A Ram"
+        "Charles Darwin",
+        "Archimedes",
+        "Ernest Rutherford"
       ],
       "question": {
-        "text": "A male bird is known as what?"
+        "text": "Who Was Inspired By An Apple Falling?"
       },
       "tags": [
-        "animals",
-        "names",
         "science"
       ],
       "type": "text_choice",
@@ -109,21 +216,19 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "65056f307a97013de78b53ef",
-      "correctAnswer": "Adventists",
+      "category": "geography",
+      "id": "62373738cfe13103f55eb59d",
+      "correctAnswer": "Vietnam",
       "incorrectAnswers": [
-        "Samaritans",
-        "Assyrian Church",
-        "Anabaptists"
+        "Vanuatu",
+        "Vienna",
+        "New Zealand"
       ],
       "question": {
-        "text": "Which people believe that Christ will return to Earth in the near future?"
+        "text": "Which region of the world uses '.vn' at the end of its web addresses?"
       },
       "tags": [
-        "society_and_culture",
-        "religion",
-        "christianity"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -132,21 +237,42 @@
     },
     {
       "category": "film_and_tv",
-      "id": "624dba29de6018633d31f6b8",
-      "correctAnswer": "Tom Jones",
+      "id": "622a1c347cc59eab6f94f8da",
+      "correctAnswer": "Robert De Niro",
       "incorrectAnswers": [
-        "Adele",
-        "Shirley Bassey",
-        "Duran Duran"
+        "Peter Lorre",
+        "Robert Englund",
+        "Joe Pesci"
       ],
       "question": {
-        "text": "Who performed the theme song to the James Bond film Thunderball?"
+        "text": "Which actor played the role of Travis Bickle in Taxi Driver?"
       },
       "tags": [
-        "james_bond",
+        "people",
+        "acting",
         "film",
-        "soundtracks",
         "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9e8c796f721e95543f5d",
+      "correctAnswer": "Yellow",
+      "incorrectAnswers": [
+        "Maroon",
+        "Blue",
+        "White"
+      ],
+      "question": {
+        "text": "Which of these colors would you find on the flag of Ghana?"
+      },
+      "tags": [
+        "flags",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -154,19 +280,86 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f2e",
-      "correctAnswer": "Hans Christian Andersen",
+      "category": "film_and_tv",
+      "id": "645c9fc442ea81e2554c5f84",
+      "correctAnswer": "Nosferatu",
       "incorrectAnswers": [
-        "Beatrix Potter",
-        "Søren Kierkegaard",
-        "Oscar Wilde"
+        "Dracula",
+        "Frankenstein",
+        "The Wolf Man"
       ],
       "question": {
-        "text": "Which author wrote 'The Ugly Duckling'?"
+        "text": "What 1922 F.W. Murnau film is detailed in the movie \"Shadow of the Vampire\"?"
       },
       "tags": [
-        "arts_and_literature"
+        "horror",
+        "film",
+        "vampires",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611f9d4b176d54800e3d65",
+      "correctAnswer": "1945",
+      "incorrectAnswers": [
+        "1929",
+        "1960",
+        "1911"
+      ],
+      "question": {
+        "text": "When was the ENIAC, the first programmable computer, created?"
+      },
+      "tags": [
+        "events",
+        "firsts",
+        "technology",
+        "inventions",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515c0",
+      "correctAnswer": "Cherry",
+      "incorrectAnswers": [
+        "Plum",
+        "Apple",
+        "Apricot"
+      ],
+      "question": {
+        "text": "From which fruit is the liqueur Kirsh made?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c3d7cc59eab6f951cab",
+      "correctAnswer": "Paris",
+      "incorrectAnswers": [
+        "New York",
+        "London",
+        "Sydney"
+      ],
+      "question": {
+        "text": "Macaulay Caulkin's folks left him \"Home Alone\" in the original 1990 movie. Where did they go?"
+      },
+      "tags": [
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -175,15 +368,76 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f9505a7",
-      "correctAnswer": "The atmosphere",
+      "id": "624333b4cfaae40c129613fb",
+      "correctAnswer": "A Jack",
       "incorrectAnswers": [
-        "Books and manuscripts",
-        "Yeast",
-        "Christianity"
+        "A Drake",
+        "A Dog",
+        "A Hob"
       ],
       "question": {
-        "text": "What is Aerology the study of?"
+        "text": "What is the word for a male donkey?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "63a039b4c7d86251f9b65ca4",
+      "correctAnswer": "Trinity",
+      "incorrectAnswers": [
+        "Little Boy",
+        "Fat Man",
+        "Big Bang"
+      ],
+      "question": {
+        "text": "What was the name of the first nuclear bomb tested by the United States?"
+      },
+      "tags": [
+        "history",
+        "usa"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f950208",
+      "correctAnswer": "Steven Spielberg",
+      "incorrectAnswers": [
+        "Woody Allen",
+        "Martin Scorsese",
+        "Alfred Hitchcock"
+      ],
+      "question": {
+        "text": "Which director directed Raiders of the Lost Ark?"
+      },
+      "tags": [
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950571",
+      "correctAnswer": "The art using make-up",
+      "incorrectAnswers": [
+        "Winemaking",
+        "The Sumerians",
+        "The cosmos"
+      ],
+      "question": {
+        "text": "What is Cosmetology the study of?"
       },
       "tags": [
         "science",
@@ -195,21 +449,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbf9",
-      "correctAnswer": "\"Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.\"",
+      "category": "society_and_culture",
+      "id": "6266e596ff2394bd44dee00a",
+      "correctAnswer": "Rojo",
       "incorrectAnswers": [
-        "\"Louis, I think this is the beginning of a beautiful friendship.\"",
-        "\"That’s my secret, Captain: I’m always angry.\"",
-        "\"Oh, Jerry, don't let's ask for the moon. We have the stars.\""
+        "Rouge",
+        "Vermelho",
+        "Seis"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'King Kong'?"
+        "text": "In Spanish, what is the word for for 'red'?"
       },
       "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
+        "language",
+        "translations",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -217,19 +471,46 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950ba2",
-      "correctAnswer": "Weezer",
+      "category": "film_and_tv",
+      "id": "625698849da29df7b05f728c",
+      "correctAnswer": "Spiderman",
       "incorrectAnswers": [
-        "LMFAO",
-        "Static-X",
-        "The Black Keys"
+        "Obadiah Stane",
+        "Iron Man",
+        "Hawkeye"
       ],
       "question": {
-        "text": "Which alternative rock band from the United States released the studio album 'Everything Will Be Alright in the End'?"
+        "text": "In the Marvel Cinematic Universe, which character is played by Tom Holland?"
       },
       "tags": [
-        "music"
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "639c9dbf929b90846f2fc9b0",
+      "correctAnswer": "The Bhagavad Gita",
+      "incorrectAnswers": [
+        "The Upanishads",
+        "The Ramayana",
+        "The Puranas"
+      ],
+      "question": {
+        "text": "What is the name of the Hindu scripture that contains the dialogue between Krishna and Arjuna?"
+      },
+      "tags": [
+        "hinduism",
+        "religion",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -237,19 +518,88 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f95030f",
-      "correctAnswer": "Stephen King",
+      "category": "science",
+      "id": "622a1c377cc59eab6f95055d",
+      "correctAnswer": "Flies",
       "incorrectAnswers": [
-        "George Orwell",
-        "John Steinbeck",
-        "Tom Clancy"
+        "Schematics",
+        "The interpretation of symbols",
+        "Ligaments"
       ],
       "question": {
-        "text": "Who wrote the book 'The Shining' on which the 1980 Stanley Kubrick film was based?"
+        "text": "What is Dipterology the study of?"
       },
       "tags": [
-        "arts_and_literature"
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293eccb7f41d6338b96ef0b",
+      "correctAnswer": "Peter the Great",
+      "incorrectAnswers": [
+        "Jean-Jacques Rousseau",
+        "Napoleon",
+        "Rasputin"
+      ],
+      "question": {
+        "text": "Which influential historical person was a Russian Emperor?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture",
+        "russia",
+        "leaders"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64f3a941601ffca0b7615ddb",
+      "correctAnswer": "Read Only Memory",
+      "incorrectAnswers": [
+        "Random Object Medium",
+        "Real Orchestration Mode",
+        "Rare Ownership Modifications"
+      ],
+      "question": {
+        "text": "What does the acronym 'ROM' stand for in computers?"
+      },
+      "tags": [
+        "computing",
+        "technology",
+        "acronyms",
+        "initials",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95053c",
+      "correctAnswer": "Life in outer space",
+      "incorrectAnswers": [
+        "Prehistoric people",
+        "Massage",
+        "The significance of words"
+      ],
+      "question": {
+        "text": "What is Exobiology the study of?"
+      },
+      "tags": [
+        "science",
+        "words"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -258,21 +608,19 @@
     },
     {
       "category": "general_knowledge",
-      "id": "6355b7fce8b368eed3a6823e",
-      "correctAnswer": "The y in 'yellow'",
+      "id": "622a1c367cc59eab6f9503df",
+      "correctAnswer": "Ceylon",
       "incorrectAnswers": [
-        "The p in 'pin'",
-        "The t in 'train'",
-        "The sh in 'shop'"
+        "Burma",
+        "East Pakistan",
+        "Persia"
       ],
       "question": {
-        "text": "In phonetics, which of these is an example of an approximant sound?"
+        "text": "What is the former name of Sri Lanka?"
       },
       "tags": [
-        "language",
-        "linguistics",
-        "general_knowledge",
-        "science"
+        "names",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -280,362 +628,19 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510bb",
-      "correctAnswer": "Jurassic",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c8f",
+      "correctAnswer": "Metallica",
       "incorrectAnswers": [
-        "Mesozoic",
-        "Triassic",
-        "Devonian"
+        "Alice Cooper",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
       ],
       "question": {
-        "text": "In Geology What Period followed The Cretaceous?"
+        "text": "Which American heavy metal band released the studio album 'Kill 'Em All'?"
       },
       "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f987",
-      "correctAnswer": "Heart of Darkness",
-      "incorrectAnswers": [
-        "The Quiet American",
-        "The Trial",
-        "Pale Fire"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Kurtz'?"
-      },
-      "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "6488deed50a27f7378a91def",
-      "correctAnswer": "Lady Macbeth",
-      "incorrectAnswers": [
-        "Juliet",
-        "Ophelia",
-        "Cordelia"
-      ],
-      "question": {
-        "text": "Which Shakespeare character urges her husband to kill the king?"
-      },
-      "tags": [
-        "theater",
-        "shakespeare",
-        "arts_and_literature",
-        "literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f950007",
-      "correctAnswer": "France",
-      "incorrectAnswers": [
-        "Andorra",
-        "Belgium",
-        "Luxembourg"
-      ],
-      "question": {
-        "text": "In which country is Normandy?"
-      },
-      "tags": [
-        "places",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237400ecb85f7ce9e949cd7",
-      "correctAnswer": "Republic of the Congo",
-      "incorrectAnswers": [
-        "Central African Republic",
-        "Moldova",
-        "Tonga"
-      ],
-      "question": {
-        "text": "Brazzaville is the capital city of which country?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "648889135dba6c873ef650c0",
-      "correctAnswer": "Onions",
-      "incorrectAnswers": [
-        "Garlic",
-        "Carrots",
-        "Broccoli"
-      ],
-      "question": {
-        "text": "Which vegetable is scientifically named Allium cepa?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink",
-        "vegetables"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503fe",
-      "correctAnswer": "Aqueduct",
-      "incorrectAnswers": [
-        "Canal",
-        "Forum",
-        "Arena"
-      ],
-      "question": {
-        "text": "What did the Romans build to convey water? "
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3f7cc59eab6f952393",
-      "correctAnswer": "Herpetologist",
-      "incorrectAnswers": [
-        "Entomologist",
-        "Barologist",
-        "Seismologist"
-      ],
-      "question": {
-        "text": "What is a scientist who studies reptiles and amphibians known as?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "64e6536e0b79e5bedd549515",
-      "correctAnswer": "Hudson Bay",
-      "incorrectAnswers": [
-        "Erie Bay",
-        "Superior Bay",
-        "Georgian Bay"
-      ],
-      "question": {
-        "text": "James Bay, located in Ontario and Quebec, is the southern arm of which larger bay?"
-      },
-      "tags": [
-        "bodies_of_water",
-        "canada",
-        "bays",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c377cc59eab6f950447",
-      "correctAnswer": "Turkey",
-      "incorrectAnswers": [
-        "Italy",
-        "Russia",
-        "Spain"
-      ],
-      "question": {
-        "text": "Germany's WWI allies were Austria-Hungary, Bulgaria, and ________."
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f986",
-      "correctAnswer": "The Baron in the Trees",
-      "incorrectAnswers": [
-        "Catch-22",
-        "The Big Sleep",
-        "The Sun Also Rises"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Cosimo Piovasco di Rondo'?"
-      },
-      "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374250cb85f7ce9e949dc0",
-      "correctAnswer": "Ljubljana",
-      "incorrectAnswers": [
-        "Sarajevo",
-        "Yaounde",
-        "Reykjavik"
-      ],
-      "question": {
-        "text": "What is the capital city of Slovenia?"
-      },
-      "tags": [
-        "capital_cities",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262885a4b176d54800e3d97",
-      "correctAnswer": "Because you're worth it",
-      "incorrectAnswers": [
-        "Quality never goes out of style",
-        "Maybe she's born with it",
-        "It's Style"
-      ],
-      "question": {
-        "text": "Which marketing slogan would you associate with L'Oreal?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "fashion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506e1",
-      "correctAnswer": "Gerard Butler",
-      "incorrectAnswers": [
-        "Hugh Jackman",
-        "Robert Redford",
-        "Jim Carrey"
-      ],
-      "question": {
-        "text": "Which actor has featured in films including 300 and Watchmen?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502bc",
-      "correctAnswer": "Pasta ",
-      "incorrectAnswers": [
-        "Chicken",
-        "Cheese",
-        "Bread"
-      ],
-      "question": {
-        "text": "What Is Ravioli? "
-      },
-      "tags": [
-        "food",
-        "general_knowledge",
-        "words",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe41",
-      "correctAnswer": "Oahu",
-      "incorrectAnswers": [
-        "Kauai",
-        "Hawaii",
-        "Maui"
-      ],
-      "question": {
-        "text": "On what island is Pearl Harbour?"
-      },
-      "tags": [
-        "usa",
-        "world_war_2",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950117",
-      "correctAnswer": "Brigadoon",
-      "incorrectAnswers": [
-        "Ness",
-        "Langard",
-        "Brenkilly"
-      ],
-      "question": {
-        "text": "What mythical Scottish town appears for one day every 100 years?"
-      },
-      "tags": [
-        "society_and_culture"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",

@@ -1,24 +1,44 @@
 {
-  "gameDate": "2026-04-04",
+  "gameDate": "2026-04-05",
   "difficulty": "easy",
   "results": [
     {
+      "category": "history",
+      "id": "65056ee37a97013de78b5383",
+      "correctAnswer": "Third Reich",
+      "incorrectAnswers": [
+        "New Holland",
+        "Marburg Republic",
+        "Holy Roman Empire"
+      ],
+      "question": {
+        "text": "What term refers to Germany between 1933 and 1945?"
+      },
+      "tags": [
+        "history",
+        "germany",
+        "world_war_2",
+        "europe"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
       "category": "society_and_culture",
-      "id": "6477bb12550bc819ad646b59",
-      "correctAnswer": "Alexa",
+      "id": "65056f8e7a97013de78b5473",
+      "correctAnswer": "Constitution",
       "incorrectAnswers": [
-        "Siri",
-        "Cortana",
-        "Amazon Assistant"
+        "Infestation",
+        "Testimony",
+        "Forbearance"
       ],
       "question": {
-        "text": "Which virtual assistant is produced by Amazon? "
+        "text": "What is a set of rules that guides how a country should work?"
       },
       "tags": [
-        "ai",
-        "brands",
-        "society_and_culture",
-        "technology"
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -26,41 +46,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9507c5",
-      "correctAnswer": "Harrison Ford",
+      "category": "society_and_culture",
+      "id": "64fb5b33717513cb79190406",
+      "correctAnswer": "Loitering",
       "incorrectAnswers": [
-        "Brad Pitt",
-        "Michael Fassbender",
-        "John Cusack"
+        "Shoplifting",
+        "Jaywalking",
+        "Vandalism"
       ],
       "question": {
-        "text": "Which actor has starred in films including Star Wars and Blade Runner?"
+        "text": "What crime could be considered if someone is hanging out in public for no good reason?"
       },
       "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501fe",
-      "correctAnswer": "Quentin Tarantino",
-      "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
-      ],
-      "question": {
-        "text": "Which director directed Pulp Fiction?"
-      },
-      "tags": [
-        "film_and_tv"
+        "crime",
+        "law",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -69,145 +69,20 @@
     },
     {
       "category": "food_and_drink",
-      "id": "624c60d150d1a5e051325a75",
-      "correctAnswer": "Mexico",
+      "id": "63a03949c7d86251f9b65c35",
+      "correctAnswer": "Mozzarella",
       "incorrectAnswers": [
-        "Bhutan",
-        "Japan",
-        "Brazil"
+        "Gouda",
+        "Blue Cheese",
+        "Feta"
       ],
       "question": {
-        "text": "Where in the world would you most expect to be served a taco?"
+        "text": "What type of cheese is used on a pizza?"
       },
       "tags": [
+        "cheese",
+        "food_and_drink",
         "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3b7cc59eab6f951782",
-      "correctAnswer": "Back to the Future",
-      "incorrectAnswers": [
-        "Star Wars",
-        "Jurassic Park",
-        "The Goonies"
-      ],
-      "question": {
-        "text": "Which movie had a device known as a flux capacitor?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv",
-        "cult_films"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6266bc4ab0e62e469cf43e90",
-      "correctAnswer": "Stringed",
-      "incorrectAnswers": [
-        "Woodwind",
-        "Brass",
-        "Percussion"
-      ],
-      "question": {
-        "text": "What type of instrument is a banjo?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6461407e4d46e537ca8cd9e0",
-      "correctAnswer": "The Great Wall of China",
-      "incorrectAnswers": [
-        "The Panama Canal",
-        "The Golden Gate Bridge",
-        "The Hoover Dam"
-      ],
-      "question": {
-        "text": "Which of these structures stretches for over 4,000 miles, often called the largest building project ever completed?"
-      },
-      "tags": [
-        "architecture",
-        "engineering",
-        "civil_engineering",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c32",
-      "correctAnswer": "ABBA",
-      "incorrectAnswers": [
-        "In Flames",
-        "HammerFall",
-        "Katatonia"
-      ],
-      "question": {
-        "text": "Which Swedish pop group released the song 'Money, Money, Money'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "65056e437a97013de78b52a4",
-      "correctAnswer": "Johann Sebastian",
-      "incorrectAnswers": [
-        "Josef Siegfried",
-        "Jürgen Siegismund",
-        "Jochen Simon"
-      ],
-      "question": {
-        "text": "What do the initials J. S. in J. S. Bach's name stand for?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f950079",
-      "correctAnswer": "Washington DC",
-      "incorrectAnswers": [
-        "New York City",
-        "Brussels",
-        "Geneva"
-      ],
-      "question": {
-        "text": "Where is Capitol Hill?"
-      },
-      "tags": [
-        "places",
-        "politics",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -216,164 +91,19 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950511",
-      "correctAnswer": "the immune system",
-      "incorrectAnswers": [
-        "living tissues",
-        "eggs",
-        "the laws and phenomena of aqueous vapors"
-      ],
-      "question": {
-        "text": "What is Immunology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8bb",
-      "correctAnswer": "Harrison Ford",
-      "incorrectAnswers": [
-        "Marlon Brando",
-        "Samuel L. Jackson",
-        "Al Pacino"
-      ],
-      "question": {
-        "text": "Which actor played the role of Indiana Jones in Raiders of the Lost Ark?"
-      },
-      "tags": [
-        "people",
-        "acting",
-        "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "sport_and_leisure",
-      "id": "65056f847a97013de78b5465",
-      "correctAnswer": "Puck",
+      "id": "63a0397ac7d86251f9b65c65",
+      "correctAnswer": "Monopoly",
       "incorrectAnswers": [
-        "Jack",
-        "Duck",
-        "Chuck"
+        "Life",
+        "Risk",
+        "Chess"
       ],
       "question": {
-        "text": "What is hit by ice hockey players?"
+        "text": "What is the name of the classic board game where players must collect properties and build houses and hotels?"
       },
       "tags": [
-        "sport_and_leisure"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbdb",
-      "correctAnswer": "\"This is the day you will always remember as the day you almost caught Captain Jack Sparrow!\"",
-      "incorrectAnswers": [
-        "\"My precious.\"",
-        "\"I'll get you, my pretty, and your little dog, too!\"",
-        "\"Keep your friends close, but your enemies closer.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Pirates of the Caribbean: The Curse of the Black Pearl'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "65056eb27a97013de78b533e",
-      "correctAnswer": "Orson Welles",
-      "incorrectAnswers": [
-        "Billy Wilder",
-        "Howard Hawks",
-        "Carol Reed"
-      ],
-      "question": {
-        "text": "Who was the director of the film \"Citizen Kane\"?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3f7cc59eab6f95237c",
-      "correctAnswer": "Bulls",
-      "incorrectAnswers": [
-        "Fellas",
-        "Dogs",
-        "Blokes"
-      ],
-      "question": {
-        "text": "What are male cows called?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "69a561b103d8987f10a83b15",
-      "correctAnswer": "Sleeping Beauty",
-      "incorrectAnswers": [
-        "Alice",
-        "Rapunzel",
-        "Snow White"
-      ],
-      "question": {
-        "text": "Which fairy tale character falls asleep for a hundred years after pricking her finger?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "64824e287778562fd76a9608",
-      "correctAnswer": "Vulpine",
-      "incorrectAnswers": [
-        "Feline",
-        "Canine",
-        "Serpentine"
-      ],
-      "question": {
-        "text": "What adjective describes a fox?"
-      },
-      "tags": [
-        "animals",
-        "words"
+        "board_games"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -382,15 +112,37 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950d2e",
+      "id": "622a1c397cc59eab6f950dc1",
       "correctAnswer": "The Beatles",
       "incorrectAnswers": [
+        "The Rolling Stones",
         "Oasis",
-        "Led Zeppelin",
-        "The Clash"
+        "Simon & Garfunkel"
       ],
       "question": {
-        "text": "Which English rock band released the song 'Hey Jude'?"
+        "text": "Which band did Paul McCartney belong to?"
+      },
+      "tags": [
+        "music",
+        "bands",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b89",
+      "correctAnswer": "The Jimi Hendrix Experience",
+      "incorrectAnswers": [
+        "Poison",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
+      ],
+      "question": {
+        "text": "Which English-American psychedelic rock band released the song 'Purple Haze'?"
       },
       "tags": [
         "music"
@@ -401,19 +153,130 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3c7cc59eab6f951797",
-      "correctAnswer": "Lord Voldemort",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a90",
+      "correctAnswer": "A Gladiator",
       "incorrectAnswers": [
-        "Lord Darkmoor",
-        "Lord Moribund",
-        "Lord Doit Chagrin"
+        "A Centurion",
+        "A Dominus",
+        "A Caesar"
       ],
       "question": {
-        "text": "Which is the name of the villain in the Harry Potter series?"
+        "text": "What was the name of someone who fought professionally in Roman arenas?"
       },
       "tags": [
-        "harry_potter",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6463394601d576cfac3aa32b",
+      "correctAnswer": "Jailhouse Rock",
+      "incorrectAnswers": [
+        "All Shook Up",
+        "Hound Dog",
+        "Love Me Tender"
+      ],
+      "question": {
+        "text": "Which Elvis song has the lyrics 'Everybody in the whole cell block was dancin' to the ...'?"
+      },
+      "tags": [
+        "songs",
+        "lyrics",
+        "music",
+        "elvis_presley"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "64746b075a4c31088dd9d01d",
+      "correctAnswer": "Oysters",
+      "incorrectAnswers": [
+        "Lobsters",
+        "Crabs",
+        "Shrimps"
+      ],
+      "question": {
+        "text": "Which shellfish is said to be an aphrodisiac?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink",
+        "seafood",
+        "love"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602d104b176d54800e3c7c",
+      "correctAnswer": "Germany",
+      "incorrectAnswers": [
+        "Croatia",
+        "Albania",
+        "Switzerland"
+      ],
+      "question": {
+        "text": "In which country is the city of Berlin?"
+      },
+      "tags": [
+        "cities",
+        "europe",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "64a0966bcf8fd58080cefff5",
+      "correctAnswer": "Charlie and the Chocolate Factory",
+      "incorrectAnswers": [
+        "The Sweet Factory",
+        "The Chocolatier's Gamble",
+        "The Candy Kingdom"
+      ],
+      "question": {
+        "text": "Which book contains the character Willy Wonka?"
+      },
+      "tags": [
+        "childrens_literature",
+        "literature",
+        "arts_and_literature",
+        "fictitious_characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501a9",
+      "correctAnswer": "Harry Potter",
+      "incorrectAnswers": [
+        "Voyages Extraordinaires",
+        "Percy Jackson & the Olympians",
+        "Twilight"
+      ],
+      "question": {
+        "text": "In which book series does 'Neville Longbottom' appear?"
+      },
+      "tags": [
         "fictitious_characters",
         "literature",
         "young_adult",
@@ -425,152 +288,24 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c357cc59eab6f950023",
-      "correctAnswer": "Boxing",
+      "category": "film_and_tv",
+      "id": "625698689da29df7b05f7285",
+      "correctAnswer": "Captain America",
       "incorrectAnswers": [
-        "Rugby",
-        "Cricket",
-        "Football"
+        "Thor",
+        "The Collector",
+        "Spiderman"
       ],
       "question": {
-        "text": "With which sport is Muhammad Ali associated?"
+        "text": "Chris Evans plays the role of which character in the Marvel Cinematic Universe?"
       },
       "tags": [
-        "sport",
-        "people",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f95224c",
-      "correctAnswer": "Hot",
-      "incorrectAnswers": [
-        "Wet",
-        "Windy",
-        "Dark"
-      ],
-      "question": {
-        "text": "In what conditions do thermophilous plants thrive?"
-      },
-      "tags": [
-        "science",
-        "words",
-        "plants",
-        "biology"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff3c",
-      "correctAnswer": "Michael Jackson",
-      "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
-      ],
-      "question": {
-        "text": "Which American singer, songwriter and dancer released the song 'Don't Stop 'Til You Get Enough'?"
-      },
-      "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "64f6d9b9660c3a8d960101e4",
-      "correctAnswer": "The Mona Lisa",
-      "incorrectAnswers": [
-        "The Starry Night",
-        "The Birth of Venus",
-        "The Last Supper"
-      ],
-      "question": {
-        "text": "Which painting is also known as \"La Gioconda\"?"
-      },
-      "tags": [
-        "art",
-        "paintings",
-        "artists"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3a7cc59eab6f951067",
-      "correctAnswer": "Bonsai",
-      "incorrectAnswers": [
-        "Ornamental Shrubbery",
-        "Decorage",
-        "Topiary"
-      ],
-      "question": {
-        "text": "What is the name given to the art of miniaturising trees and maintaining their small size?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "64af1025deeef534fb54ad0d",
-      "correctAnswer": "Marvel",
-      "incorrectAnswers": [
-        "Wonder",
-        "DC",
-        "Image"
-      ],
-      "question": {
-        "text": "What is the name of the comic book company whose comics feature Spiderman?"
-      },
-      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
         "comics",
-        "arts_and_literature",
-        "superheroes"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c3a7cc59eab6f9510be",
-      "correctAnswer": "Six",
-      "incorrectAnswers": [
-        "Four",
-        "Eight",
-        "Two"
-      ],
-      "question": {
-        "text": "How many pockets does a snooker table have?"
-      },
-      "tags": [
-        "general_knowledge",
-        "numbers",
-        "sport"
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -579,20 +314,22 @@
     },
     {
       "category": "society_and_culture",
-      "id": "64860e82113d76c6b63179f5",
-      "correctAnswer": "Inflation",
+      "id": "622a1c367cc59eab6f9500ed",
+      "correctAnswer": "David",
       "incorrectAnswers": [
-        "Deflation",
-        "Recession",
-        "Depression"
+        "Daniel",
+        "John",
+        "Michael"
       ],
       "question": {
-        "text": "In 2008, what economic phenomenon caused prices in Zimbabwe to double every 24.7 hours?"
+        "text": "Who killed Goliath?"
       },
       "tags": [
-        "economics",
-        "society_and_culture",
-        "zimbabwe"
+        "christianity",
+        "mythology",
+        "people",
+        "general_knowledge",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -600,23 +337,285 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62602d284b176d54800e3c83",
-      "correctAnswer": "Munich",
+      "category": "society_and_culture",
+      "id": "622a1c3c7cc59eab6f951ab8",
+      "correctAnswer": "Pegasus",
       "incorrectAnswers": [
-        "Valencia",
-        "Budapest",
-        "Milan"
+        "Centaur",
+        "Griffin",
+        "Gorgon"
       ],
       "question": {
-        "text": "Which of these cities is in Germany?"
+        "text": "Which Ancient Greek mythological creature was a winged horse?"
       },
       "tags": [
-        "cities",
-        "europe",
-        "germany",
+        "ancient_greece",
+        "classics",
+        "mythology",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6477bb12550bc819ad646b61",
+      "correctAnswer": "Snowflake",
+      "incorrectAnswers": [
+        "Buttercup",
+        "Pumpkin",
+        "Cupcake"
+      ],
+      "question": {
+        "text": "What slang term refers to a very sensitive person who is easily offended?"
+      },
+      "tags": [
+        "slang",
+        "words",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950224",
+      "correctAnswer": "Mushrooms ",
+      "incorrectAnswers": [
+        "Garlic",
+        "Onion",
+        "Cabbage"
+      ],
+      "question": {
+        "text": "Which Vegetable Can Be Oyster, Chestnut, or Shitaki?"
+      },
+      "tags": [
+        "food",
         "general_knowledge",
-        "geography"
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f899da29df7b05f73a1",
+      "correctAnswer": "A young man joins forces with an old man, a cocky pilot, a beast and two robots to save the galaxy.",
+      "incorrectAnswers": [
+        "The son of a city's mastermind falls in love with a working-class prophet.",
+        "After two male musicians witness a murder, they flee in an all-female band disguised as women.",
+        "Violence and mayhem ensue after a man stumbles upon more than two million dollars."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Star Wars?"
+      },
+      "tags": [
+        "film"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503ba",
+      "correctAnswer": "Babylon",
+      "incorrectAnswers": [
+        "Atlantis",
+        "Jerusalem",
+        "Scythia"
+      ],
+      "question": {
+        "text": "Where were the Hanging Gardens?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60fc50d1a5e051325a81",
+      "correctAnswer": "Spain",
+      "incorrectAnswers": [
+        "Denmark",
+        "Cambodia",
+        "Costa Rica"
+      ],
+      "question": {
+        "text": "Where in the world would you most expect to be served Paella?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "645a6490158db1bd1779f197",
+      "correctAnswer": "Dancing",
+      "incorrectAnswers": [
+        "Buzzing",
+        "Singing",
+        "Whistling"
+      ],
+      "question": {
+        "text": "How does a scout bee communicate to other bees about the location of flowers?"
+      },
+      "tags": [
+        "animals",
+        "insects",
+        "biology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63adbd5d04c68cc1e14b8e1d",
+      "correctAnswer": "Maple Tree",
+      "incorrectAnswers": [
+        "Oak Tree",
+        "Birch Tree",
+        "Elm Tree"
+      ],
+      "question": {
+        "text": "Which type of tree is known for its association with Canada and its bright red foliage in autumn?"
+      },
+      "tags": [
+        "science",
+        "trees",
+        "canada",
+        "plants",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cef",
+      "correctAnswer": "Queen",
+      "incorrectAnswers": [
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
+      ],
+      "question": {
+        "text": "Which British rock band released the song 'Bohemian Rhapsody'?"
+      },
+      "tags": [
+        "rock_music",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950027",
+      "correctAnswer": "Golf",
+      "incorrectAnswers": [
+        "Tennis",
+        "Cricket",
+        "Rugby"
+      ],
+      "question": {
+        "text": "With what sport is Jack Nicklaus associated?"
+      },
+      "tags": [
+        "people",
+        "general_knowledge",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "63b058784799123c67712f38",
+      "correctAnswer": "Taco",
+      "incorrectAnswers": [
+        "Sushi",
+        "Ramen",
+        "Pho"
+      ],
+      "question": {
+        "text": "Which of these is a popular dish in Mexico?"
+      },
+      "tags": [
+        "mexico",
+        "food_and_drink",
+        "food",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "639c9da4929b90846f2fc97a",
+      "correctAnswer": "Ramadan",
+      "incorrectAnswers": [
+        "Passover",
+        "Yom Kippur",
+        "Lent"
+      ],
+      "question": {
+        "text": "What is the name for the Islamic fasting period?"
+      },
+      "tags": [
+        "islam",
+        "religion",
+        "society_and_culture",
+        "traditions"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "65056e957a97013de78b5316",
+      "correctAnswer": "Saffron",
+      "incorrectAnswers": [
+        "Cloves",
+        "Cinnamon",
+        "Pepper"
+      ],
+      "question": {
+        "text": "What is the world's most expensive spice by weight?"
+      },
+      "tags": [
+        "food_and_drink",
+        "food",
+        "spices"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -625,20 +624,39 @@
     },
     {
       "category": "general_knowledge",
-      "id": "649c8996e3aef0a3c23f63f8",
-      "correctAnswer": "A simile",
+      "id": "645ba87ff09106226db2357f",
+      "correctAnswer": "Great",
       "incorrectAnswers": [
-        "A metaphor",
-        "An analogy",
-        "A hyperbole"
+        "Large",
+        "Grand",
+        "Happy"
       ],
       "question": {
-        "text": "What type of comparison is the phrase 'He was like an eagle chained to the ground' an example of?"
+        "text": "What word precedes both 'Dane' and 'Depression'?"
       },
       "tags": [
-        "language",
-        "writing",
-        "grammar"
+        "puzzles",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3d7cc59eab6f951c69",
+      "correctAnswer": "Five Gold Rings",
+      "incorrectAnswers": [
+        "Five Lords a Leaping",
+        "Five Drummers Drumming",
+        "Five Calling Birds"
+      ],
+      "question": {
+        "text": "According to the Christmas song what did my true love give to me on the fifth day of Christmas?"
+      },
+      "tags": [
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "easy",
