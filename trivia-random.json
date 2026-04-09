@@ -1,42 +1,42 @@
 {
-  "gameDate": "2026-04-08",
+  "gameDate": "2026-04-09",
   "difficulty": "random",
   "results": [
     {
-      "category": "general_knowledge",
-      "id": "6239f83da72e7a347ac879d8",
-      "correctAnswer": "Whiskey",
+      "category": "food_and_drink",
+      "id": "624c616fbadf21197f98f77c",
+      "correctAnswer": "Verivorst",
       "incorrectAnswers": [
-        "Wizard",
-        "Warlock",
-        "Womble"
+        "Cou Cou and Flying Fish",
+        "Plov",
+        "Pad Thai"
       ],
       "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter W?"
+        "text": "Which of these dishes would you most expect to find in Estonia?"
       },
       "tags": [
-        "words",
-        "general_knowledge"
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f951910",
-      "correctAnswer": "The war of American independence",
+      "id": "622a1c367cc59eab6f9503a3",
+      "correctAnswer": "The Inquisition",
       "incorrectAnswers": [
-        "The Napoleonic wars",
-        "World War 2",
-        "The English Civil War"
+        "The Papacy",
+        "The Monad",
+        "The Cardinality"
       ],
       "question": {
-        "text": "What war followed the original 'shot heard round the world'?"
+        "text": "Which Institution Was Founded By The Roman Catholic Church In The 13th Century To Root Out Heresy?"
       },
       "tags": [
-        "wars",
+        "christianity",
         "history"
       ],
       "type": "text_choice",
@@ -45,16 +45,318 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506c3",
-      "correctAnswer": "Reese Witherspoon",
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950854",
+      "correctAnswer": "Iraq",
       "incorrectAnswers": [
-        "Kristin Scott Thomas",
-        "Naomi Watts",
-        "Penélope Cruz"
+        "Bahrain",
+        "Qatar",
+        "Iran"
       ],
       "question": {
-        "text": "Which actress has starred in both Walk the Line and Cruel Intentions?"
+        "text": "Which of these countries borders Kuwait?"
+      },
+      "tags": [
+        "the_middle_east",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6502100c2b411b896c984b1e",
+      "correctAnswer": "Marion Cotillard",
+      "incorrectAnswers": [
+        "Angelina Jolie",
+        "Jennifer Lawrence",
+        "Scarlett Johansson"
+      ],
+      "question": {
+        "text": "In the 2016 film 'Allied', which actress stars opposite Brad Pitt as his wife and fellow spy?"
+      },
+      "tags": [
+        "movies",
+        "actors",
+        "spy"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6257410e3d2f5c16bfb8833e",
+      "correctAnswer": "Spotlight",
+      "incorrectAnswers": [
+        "Django Unchained",
+        "Trainspotting",
+        "Catch Me If You Can"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'The story of how the scandal of child molestation within the Boston Catholic church was uncovered.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62ab33025202de619af28137",
+      "correctAnswer": "Opel",
+      "incorrectAnswers": [
+        "Honda",
+        "Ford",
+        "Rolls-Royce"
+      ],
+      "question": {
+        "text": "The Corsa is a model of car made by which manufacturer?"
+      },
+      "tags": [
+        "motoring",
+        "business",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6477ba9d550bc819ad646ae8",
+      "correctAnswer": "Manscaping",
+      "incorrectAnswers": [
+        "Bodyculture",
+        "Topihairy",
+        "Guydening"
+      ],
+      "question": {
+        "text": "What is the slang term for removing body hair from men?"
+      },
+      "tags": [
+        "words",
+        "society_and_culture",
+        "slang"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdcb",
+      "correctAnswer": "2",
+      "incorrectAnswers": [
+        "1/2",
+        "4",
+        "8"
+      ],
+      "question": {
+        "text": "How Many Crotchets Do You Get In A Minim?"
+      },
+      "tags": [
+        "words",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "639898425c9a75021f31046d",
+      "correctAnswer": "Operation Bagration",
+      "incorrectAnswers": [
+        "Operation Barbarossa",
+        "Operation Overlord",
+        "Operation Market Garden"
+      ],
+      "question": {
+        "text": "What was the name of the Soviet Union's counter-attack on Germany in 1944?"
+      },
+      "tags": [
+        "history",
+        "world_war_2",
+        "wars"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9503cb",
+      "correctAnswer": "Holiday Inn",
+      "incorrectAnswers": [
+        "Miracle on 34th Street",
+        "White Christmas",
+        "The Holly & The Ivy"
+      ],
+      "question": {
+        "text": "What Was The Name Of The Film Which First Featured Bing Crosby's Song 'White Christmas''?"
+      },
+      "tags": [
+        "christmas",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "626288ac4b176d54800e3dad",
+      "correctAnswer": "Google",
+      "incorrectAnswers": [
+        "Nokia",
+        "PlayStation",
+        "Panasonic"
+      ],
+      "question": {
+        "text": "Which technology brand is associated with the marketing slogan 'Don't Be Evil'?"
+      },
+      "tags": [
+        "business",
+        "marketing",
+        "technology",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b5815fd6c701a92118398",
+      "correctAnswer": "The UK",
+      "incorrectAnswers": [
+        "Norway",
+        "New Zealand",
+        "South Africa"
+      ],
+      "question": {
+        "text": "In which country would you find the UNESCO World Heritage site of the Dorset and East Devon Coast?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6477bada550bc819ad646b4e",
+      "correctAnswer": "Juan Valdez",
+      "incorrectAnswers": [
+        "Emilio Estefan",
+        "Pablo Escobar",
+        "Fidel Castro"
+      ],
+      "question": {
+        "text": "Which of these men is a fictional character used to market Colombian coffee growers, and is always seen with his mule named Conchita?"
+      },
+      "tags": [
+        "advertising",
+        "marketing",
+        "society_and_culture",
+        "coffee"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9505a9",
+      "correctAnswer": "The effect of light on chemicals",
+      "incorrectAnswers": [
+        "Animal behaviour",
+        "Ticks and mites",
+        "Fresh water environments"
+      ],
+      "question": {
+        "text": "What is Actinology the study of?"
+      },
+      "tags": [
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950be9",
+      "correctAnswer": "Nightwish",
+      "incorrectAnswers": [
+        "Haloo Helsinki!",
+        "Hanoi Rocks",
+        "Children of Bodom"
+      ],
+      "question": {
+        "text": "Which Finnish symphonic metal band released the album 'Once'?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62c2fa15b3eadb0437fda6c2",
+      "correctAnswer": "Swarovski",
+      "incorrectAnswers": [
+        "Mustang",
+        "Ferrari",
+        "Bacardi"
+      ],
+      "question": {
+        "text": "Which of these brands has a swan on its logo?"
+      },
+      "tags": [
+        "society_and_culture",
+        "business",
+        "marketing",
+        "animals",
+        "birds"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8d3",
+      "correctAnswer": "Glenn Close",
+      "incorrectAnswers": [
+        "Olivia Newton-John",
+        "Judy Garland",
+        "Anne Bancroft"
+      ],
+      "question": {
+        "text": "Which actress played the role of Alex Forrest in Fatal Attraction?"
       },
       "tags": [
         "film",
@@ -68,82 +370,20 @@
     },
     {
       "category": "music",
-      "id": "622a1c367cc59eab6f95039a",
-      "correctAnswer": "Stevie Wonder",
+      "id": "622a1c347cc59eab6f94fb8c",
+      "correctAnswer": "\"In da Club\" by 50 Cent",
       "incorrectAnswers": [
-        "Stevie Nicks",
-        "Stevie Ray Vaughan",
-        "Stevie Winwood"
+        "\"All Star\" by Smash Mouth",
+        "\"Gimme More\" by Britney Spears",
+        "\"I Write Sins Not Tragedies\" by Panic! at the Disco"
       ],
       "question": {
-        "text": "Who Released The 70's Album Entitled \"Innervisions\"?"
+        "text": "Which song begins with the lyrics: \"Go shawty, it's your birthday, we gon' party like it's yo birthday.\"?"
       },
       "tags": [
+        "songs",
+        "lyrics",
         "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c367cc59eab6f95021a",
-      "correctAnswer": "Shakira ",
-      "incorrectAnswers": [
-        "Enrique Iglesias",
-        "Pitbull",
-        "Jennifer Lopez"
-      ],
-      "question": {
-        "text": "Who released the album 'Pies Descalzos'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b25",
-      "correctAnswer": "Blondie",
-      "incorrectAnswers": [
-        "The Pussycat Dolls",
-        "Fleetwood Mac",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which band was fronted by Debbie Harry?"
-      },
-      "tags": [
-        "music",
-        "people",
-        "bands",
-        "women"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "646089a9de964ebc39016c65",
-      "correctAnswer": "Comb",
-      "incorrectAnswers": [
-        "Pliers",
-        "Scissor",
-        "Razor"
-      ],
-      "question": {
-        "text": "What is the name of the toothed object commonly used to straighten hair?"
-      },
-      "tags": [
-        "tools",
-        "words"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -151,19 +391,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b51",
-      "correctAnswer": "The Prodigy",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f94a",
+      "correctAnswer": "Rain Man",
       "incorrectAnswers": [
-        "Squeeze",
-        "Gorillaz",
-        "Kaiser Chiefs"
+        "The Godfather",
+        "The 400 Blows",
+        "Fast Times at Ridgemont High"
       ],
       "question": {
-        "text": "Which English electronic dance music group released the song 'Firestarter'?"
+        "text": "Which film contains the character 'Raymond Babbitt'?"
       },
       "tags": [
-        "music"
+        "fictitious_characters",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -172,220 +414,62 @@
     },
     {
       "category": "history",
-      "id": "647638d1f05ea6d6f587a15b",
-      "correctAnswer": "Iwo Jima",
+      "id": "622a1c3c7cc59eab6f951a4e",
+      "correctAnswer": "France",
       "incorrectAnswers": [
-        "Okinawa",
-        "Guam",
-        "Saipan"
+        "Italy",
+        "England",
+        "China"
       ],
       "question": {
-        "text": "Which island was the scene of the famous flag-raising during World War II and is depicted in the US Marine Corps War Memorial statue?"
-      },
-      "tags": [
-        "military",
-        "world_war_2",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3c7cc59eab6f95181e",
-      "correctAnswer": "James Hoban",
-      "incorrectAnswers": [
-        "Frank Lloyd Wright",
-        "Christopher Wren",
-        "Otto Wagner"
-      ],
-      "question": {
-        "text": "Which architect designed The Whitehouse?"
-      },
-      "tags": [
-        "architecture",
-        "buildings",
-        "usa",
-        "history",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950300",
-      "correctAnswer": "Turkey",
-      "incorrectAnswers": [
-        "Chicken",
-        "Horse",
-        "Pig"
-      ],
-      "question": {
-        "text": "Yorkshireman William Strickland is believed to have brought the first _______ to Britain from North America in 1526?"
+        "text": "The Eldest Sons Of The Kings Of Which Country Had The Title 'Dauphin'?"
       },
       "tags": [
         "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233855562eaad73716a8c64",
-      "correctAnswer": "Tennessee",
-      "incorrectAnswers": [
-        "Georgia",
-        "Maine",
-        "Washington"
-      ],
-      "question": {
-        "text": "What US state borders Alabama to the north?"
-      },
-      "tags": [
-        "usa",
-        "us_states",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f95017f",
-      "correctAnswer": "The Water Babies",
-      "incorrectAnswers": [
-        "Oliver Twist",
-        "The Little Prince",
-        "The Prince and the Pauper"
-      ],
-      "question": {
-        "text": "Which famous book contains the line \"Once upon a time there was a little chimney sweep and his name was Tom\"?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "science",
-      "id": "645c9f8642ea81e2554c5f38",
-      "correctAnswer": "Mons",
+      "id": "622a1c3a7cc59eab6f95104e",
+      "correctAnswer": "Plankton",
       "incorrectAnswers": [
-        "Volcanus",
-        "Patera",
-        "Alpus"
+        "Fishes",
+        "Algae",
+        "Larvae"
       ],
       "question": {
-        "text": "What is the Latin word for 'mountain' that follows Olympus and Pavonis in the names of Martian volcanoes?"
+        "text": "What is the name of the minute organisms found drifting near the surface of seas and lakes? "
       },
       "tags": [
-        "latin",
-        "planets",
-        "the_solar_system",
-        "mountains",
-        "astronomy"
+        "biology",
+        "names",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64bee2e595a7194220973958",
-      "correctAnswer": "The pith",
-      "incorrectAnswers": [
-        "The pulp",
-        "The skin",
-        "The zest"
-      ],
-      "question": {
-        "text": "What is the term that refers to the white substance between the peel and flesh of an orange?"
-      },
-      "tags": [
-        "fruit",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "65056f8d7a97013de78b5471",
-      "correctAnswer": "Congress",
-      "incorrectAnswers": [
-        "Supreme Court",
-        "Cabinet",
-        "House of Lords"
-      ],
-      "question": {
-        "text": "What part of the US government makes the laws?"
-      },
-      "tags": [
-        "society_and_culture",
-        "government",
-        "usa"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "637162861bf863c45ca6c382",
-      "correctAnswer": "Great is the power of habit",
-      "incorrectAnswers": [
-        "Tomorrow, be ours",
-        "Lead in order to serve, not in order to rule",
-        "Such is life"
-      ],
-      "question": {
-        "text": "How does that Latin phrase 'Magna est vis consuetudinis' translate into English?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "history",
-      "id": "622a1c357cc59eab6f94fde6",
-      "correctAnswer": "Peter I",
+      "id": "65056ec07a97013de78b5353",
+      "correctAnswer": "Attila",
       "incorrectAnswers": [
-        "Nicholas III",
-        "Ivan IV",
-        "Alexei VI"
+        "Leonidas",
+        "Ariston",
+        "Anaxander"
       ],
       "question": {
-        "text": "Who is regarded as the most influential monarch of Russian Romanov Dynasty?"
+        "text": "Which of these people was a leader of the Hunnic empire?"
       },
       "tags": [
+        "history",
         "people",
-        "russia",
-        "leaders",
-        "history"
+        "empires"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -393,19 +477,64 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502da",
-      "correctAnswer": "Lamb ",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fb5d",
+      "correctAnswer": "The Sound of Music",
       "incorrectAnswers": [
-        "Beef",
-        "Pork",
-        "Chicken"
+        "Darling",
+        "Doctor Zhivago",
+        "Ship of Fools"
       ],
       "question": {
-        "text": "Traditionally what type of meat is used to make a mousakka?"
+        "text": "Which film won the Academy Award for Best Picture in 1965?"
       },
       "tags": [
-        "food_and_drink"
+        "academy_awards",
+        "film",
+        "cult_films",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624333decfaae40c1296140c",
+      "correctAnswer": "A Tiercel",
+      "incorrectAnswers": [
+        "A Jack",
+        "A Cob",
+        "A Boar"
+      ],
+      "question": {
+        "text": "What is a male falcon known as?"
+      },
+      "tags": [
+        "animals",
+        "birds",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f9500e3",
+      "correctAnswer": "Anubis",
+      "incorrectAnswers": [
+        "Set",
+        "Isis",
+        "Horus"
+      ],
+      "question": {
+        "text": "Who, in Egyptian mythology, is the god of the dead?"
+      },
+      "tags": [
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -414,20 +543,17 @@
     },
     {
       "category": "geography",
-      "id": "6233847b62eaad73716a8c0f",
-      "correctAnswer": "The Dead Sea",
+      "id": "622a1c3c7cc59eab6f951b25",
+      "correctAnswer": "Indian Ocean",
       "incorrectAnswers": [
-        "The Mediterranean Sea",
-        "The Philippine Sea",
-        "The South China Sea"
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Mediterranean Sea"
       ],
       "question": {
-        "text": "What is the saltiest sea in the world?"
+        "text": "In which body of water is Christmas Island?"
       },
       "tags": [
-        "bodies_of_water",
-        "records",
-        "oceans",
         "geography"
       ],
       "type": "text_choice",
@@ -436,125 +562,38 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950306",
-      "correctAnswer": "The Golden Hind",
+      "category": "society_and_culture",
+      "id": "647c9855f89e0968cfbc1a30",
+      "correctAnswer": "Gemini",
       "incorrectAnswers": [
-        "The HMS Victory",
-        "The Mary Rose",
-        "The Black Pearl"
+        "Taurus",
+        "Leo",
+        "Scorpio"
       ],
       "question": {
-        "text": "With Which Ship Did Francis Drake Circumnavigate The World?"
+        "text": "Which dual-natured astrological sign is associated with Castor & Pollux and means two-faced?"
       },
       "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d870f96c4efe8d773d0",
-      "correctAnswer": "Philadelphia Union",
-      "incorrectAnswers": [
-        "Philadelphia Indians",
-        "Philadelphia Ravens",
-        "Philadelphia Reds"
-      ],
-      "question": {
-        "text": "Which of these is a soccer team based in Philadelphia?"
-      },
-      "tags": [
-        "soccer",
-        "football",
-        "usa",
-        "mls",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "64f3a941601ffca0b7615dd7",
-      "correctAnswer": "A beanball",
-      "incorrectAnswers": [
-        "A curveball",
-        "A fastball",
-        "A slider"
-      ],
-      "question": {
-        "text": "What is the baseball term for when a pitcher intentionally hits a batter with the pitch?"
-      },
-      "tags": [
-        "baseball",
-        "sport"
+        "astrology",
+        "stars",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "645cb162602ff42ca52fb438",
-      "correctAnswer": "Juneau",
-      "incorrectAnswers": [
-        "Anchorage",
-        "Fairbanks",
-        "Ketchikan"
-      ],
-      "question": {
-        "text": "What is the capital city of Alaska?"
-      },
-      "tags": [
-        "cities",
-        "us_states",
-        "usa",
-        "alaska"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc84",
-      "correctAnswer": "Finifugal",
-      "incorrectAnswers": [
-        "Groke",
-        "Gabelle",
-        "Salopettes"
-      ],
-      "question": {
-        "text": "Which word is defined as 'afraid of finishing anything'?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950dfa",
-      "correctAnswer": "Isaac Newton",
+      "id": "622a1c397cc59eab6f950efc",
+      "correctAnswer": "Victor Hugo",
       "incorrectAnswers": [
-        "Daniel Defoe",
-        "Percy Bysshe Shelley",
-        "Walter Scott"
+        "Alphonse Daudet",
+        "Jules Verne",
+        "Miguel de Cervantes"
       ],
       "question": {
-        "text": "Which author wrote 'Opticks, or a Treatise of the Reflections, Refractions, Inflections and Colours of Light'?"
+        "text": "Which author wrote 'The Man Who Laughs'?"
       },
       "tags": [
         "arts_and_literature"
@@ -565,40 +604,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcb3",
-      "correctAnswer": "Indo-European",
+      "category": "food_and_drink",
+      "id": "6505704b7a97013de78b5576",
+      "correctAnswer": "Sardine",
       "incorrectAnswers": [
-        "Koreanic",
-        "Sino-Tibetan",
-        "Austronesian"
+        "Broccoli",
+        "Beef",
+        "Peanuts"
       ],
       "question": {
-        "text": "The language 'Sinhalese' belongs to which language family?"
+        "text": "Which of these foods is a good source of omega-3 fatty acids?"
       },
       "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3d7cc59eab6f951ca7",
-      "correctAnswer": "4 Calling Birds",
-      "incorrectAnswers": [
-        "4 Turtle Doves",
-        "4 French Hens",
-        "4 Drummers Drumming"
-      ],
-      "question": {
-        "text": "What did 'my true love give to me' on the fourth day of Christmas?"
-      },
-      "tags": [
-        "society_and_culture"
+        "food_and_drink",
+        "food",
+        "nutrition"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -607,39 +627,20 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950d2b",
-      "correctAnswer": "The Beatles",
+      "id": "622a1c357cc59eab6f94fdce",
+      "correctAnswer": "Best Shot",
       "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Uriah Heep"
+        "Rhythm Stick",
+        "Lovin'",
+        "Poison Arrow"
       ],
       "question": {
-        "text": "Which English rock band released the song 'I Want to Hold Your Hand'?"
+        "text": "Pat Benatar Asked You To \"Hit Me With Your ________\""
       },
       "tags": [
+        "songs",
+        "lyrics",
         "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "645c9fc842ea81e2554c5f8d",
-      "correctAnswer": "St. Ignatius Loyola",
-      "incorrectAnswers": [
-        "Pope Francis",
-        "St. Peter",
-        "St. Paul"
-      ],
-      "question": {
-        "text": "Which founder of the Jesuits was imprisoned on two occasions during the Spanish Inquisition?"
-      },
-      "tags": [
-        "religion",
-        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",

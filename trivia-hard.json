@@ -1,21 +1,44 @@
 {
-  "gameDate": "2026-04-08",
+  "gameDate": "2026-04-09",
   "difficulty": "hard",
   "results": [
     {
-      "category": "science",
-      "id": "62443744746187c5e7be9341",
-      "correctAnswer": "Potassium hydroxide",
+      "category": "film_and_tv",
+      "id": "649dee4e615f8db40f5422cd",
+      "correctAnswer": "The Terminator",
       "incorrectAnswers": [
-        "Silicon dioxide",
-        "Isopropyl alcohol",
-        "Deuterium Oxide"
+        "RoboCop",
+        "Aliens",
+        "Predator"
       ],
       "question": {
-        "text": "What chemical has the formula KOH?"
+        "text": "Which movie from 1984 features the line 'It doesn't feel pity, or remorse, or fear. And it absolutely will not stop... ever, until you are dead!'?"
       },
       "tags": [
-        "chemistry",
+        "film",
+        "film_quotes",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "648614a2f773f09dc0193b39",
+      "correctAnswer": "Glaucoma",
+      "incorrectAnswers": [
+        "Cataracts",
+        "Myopia",
+        "Astigmatism"
+      ],
+      "question": {
+        "text": "What medical term is often caused by abnormally high fluid pressure in the eye?"
+      },
+      "tags": [
+        "medicine",
+        "ophthalmology",
         "science"
       ],
       "type": "text_choice",
@@ -24,41 +47,20 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62417d2d0f96c4efe8d773ac",
-      "correctAnswer": "Jacksonville Jaguars",
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc92",
+      "correctAnswer": "Borborygmus",
       "incorrectAnswers": [
-        "Jacksonville Wizards",
-        "Jacksonville Seahawks",
-        "Jacksonville Nuggets"
+        "Taradiddle",
+        "Ill-willie",
+        "Quomodocunquizing"
       ],
       "question": {
-        "text": "Which of these is an American Football team based in Jacksonville?"
+        "text": "Which word is defined as 'a rumbling or gurgling noise in the intestines'?"
       },
       "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa15",
-      "correctAnswer": "Diego Rivera",
-      "incorrectAnswers": [
-        "‎Salvador Dalí",
-        "Paul Cézanne",
-        "Vincent van Gogh"
-      ],
-      "question": {
-        "text": "Which artist painted \"The Flower Carrier\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
+        "words",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -67,19 +69,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6266e5f8ff2394bd44dee027",
-      "correctAnswer": "Nero",
+      "id": "64f3a941601ffca0b7615dde",
+      "correctAnswer": "General Electric",
       "incorrectAnswers": [
-        "Noir",
-        "Zwart",
-        "Nove"
+        "IBM",
+        "Apple",
+        "Tesla"
       ],
       "question": {
-        "text": "What is the Italian word for 'black'?"
+        "text": "What company uses the slogan \"Imagination at Work\"?"
       },
       "tags": [
-        "language",
-        "translations",
+        "companies",
+        "marketing",
+        "slogans",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -89,40 +92,21 @@
     },
     {
       "category": "music",
-      "id": "622a1c3c7cc59eab6f9517b9",
-      "correctAnswer": "Don McLean",
+      "id": "636a5232990390307063f37e",
+      "correctAnswer": "The Equals",
       "incorrectAnswers": [
-        "Elvis Presley",
-        "Prince",
-        "Cliff Richard"
+        "Blind Willie Johnson",
+        "Ike and Tina Turner",
+        "Metallica"
       ],
       "question": {
-        "text": "Who was the song 'Killing Me Softly' written about?"
+        "text": "Which artist first recorded 'Police on My Back', which was later covered by The Clash?"
       },
       "tags": [
+        "music",
+        "cover_song",
         "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9f30796f721e95543f8a",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Black",
-        "Yellow",
-        "Orange"
-      ],
-      "question": {
-        "text": "Which of these colors would you find on the flag of Luxembourg?"
-      },
-      "tags": [
-        "flags",
-        "geography"
+        "musicians"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -131,18 +115,63 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8e6",
-      "correctAnswer": "James Stewart",
+      "id": "622a1c347cc59eab6f94fa94",
+      "correctAnswer": "Lupita Nyong'o",
       "incorrectAnswers": [
-        "Anthony Hopkins",
-        "Peter Lorre",
-        "Peter Finch"
+        "Sally Hawkins",
+        "Jennifer Lawrence",
+        "Julia Roberts"
       ],
       "question": {
-        "text": "Which actor played the role of George Bailey in It's A Wonderful Life?"
+        "text": "Who won the 2013 Academy Award for Best Supporting Actress for playing the role of Patsey in 12 Years a Slave?"
       },
       "tags": [
         "acting",
+        "film",
+        "academy_awards",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "648889155dba6c873ef650ca",
+      "correctAnswer": "Bonnie and Clyde",
+      "incorrectAnswers": [
+        "The French Connection",
+        "Dirty Harry",
+        "The Godfather"
+      ],
+      "question": {
+        "text": "Which crime film from 1967 features Gene Hackman as Buck Barrow?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv",
+        "acting",
+        "crime"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9503e9",
+      "correctAnswer": "A Baby Ruth candy bar",
+      "incorrectAnswers": [
+        "Smores",
+        "A Twinky",
+        "A Baseball"
+      ],
+      "question": {
+        "text": "What did the person chained to wall in Goonies want?"
+      },
+      "tags": [
         "film",
         "film_and_tv"
       ],
@@ -153,152 +182,19 @@
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502e8",
-      "correctAnswer": "Eight ",
+      "id": "624c60c350d1a5e051325a71",
+      "correctAnswer": "Laos",
       "incorrectAnswers": [
-        "Two",
-        "Four",
-        "Sixteen"
+        "Indonesia",
+        "Singapore",
+        "Ivory Coast"
       ],
       "question": {
-        "text": "How many standard bottles of wine are in a Methuselah? "
-      },
-      "tags": [
-        "drink",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "625006ba0d86c8f685d80ef8",
-      "correctAnswer": "Gomiti",
-      "incorrectAnswers": [
-        "Rotelle",
-        "Bigoli",
-        "Campanelle"
-      ],
-      "question": {
-        "text": "Which pasta's name means 'Elbows'?"
+        "text": "Larb is a dish that is most associated with which part of the world?"
       },
       "tags": [
         "food",
-        "words",
-        "language",
         "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "645c9f4f42ea81e2554c5f02",
-      "correctAnswer": "Angels",
-      "incorrectAnswers": [
-        "Prophets",
-        "Demons",
-        "Saints"
-      ],
-      "question": {
-        "text": "In the Islamic faith, what are Harut and Marut?"
-      },
-      "tags": [
-        "islam",
-        "religion"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "645cb12a602ff42ca52fb42e",
-      "correctAnswer": "The Senate",
-      "incorrectAnswers": [
-        "The House of Representatives",
-        "The Supreme Court",
-        "The Cabinet"
-      ],
-      "question": {
-        "text": "In what U.S. government body does the Vice President serve as the presiding officer, or president?"
-      },
-      "tags": [
-        "politics",
-        "government",
-        "law",
-        "usa"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3a7cc59eab6f9511bf",
-      "correctAnswer": "Rig Veda",
-      "incorrectAnswers": [
-        "Big Veda",
-        "Trig Veda",
-        "Gig Veda"
-      ],
-      "question": {
-        "text": "What is the 1st book of the Hindu scripture?"
-      },
-      "tags": [
-        "religion",
-        "hinduism",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f95100d",
-      "correctAnswer": "Seat Belt",
-      "incorrectAnswers": [
-        "Cat Eye",
-        "Airbag",
-        "Crumple Zone"
-      ],
-      "question": {
-        "text": "What Vehicular Safety Device Was First Pantented By Ej Claghorn?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63e4c34e106de6ffa7d4a7cc",
-      "correctAnswer": "Pastel Colors",
-      "incorrectAnswers": [
-        "Neon Colors",
-        "Dark Colors",
-        "Bright Colors"
-      ],
-      "question": {
-        "text": "What type of color is traditionally associated with Easter?"
-      },
-      "tags": [
-        "society_and_culture",
-        "christianity",
-        "colours",
-        "celebrations",
-        "traditions"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -307,17 +203,18 @@
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950210",
-      "correctAnswer": "Kippers",
+      "id": "624c6156badf21197f98f775",
+      "correctAnswer": "Barbados",
       "incorrectAnswers": [
-        "Herring",
-        "Salmon",
-        "Cod"
+        "Bahrain",
+        "Thailand",
+        "Benin"
       ],
       "question": {
-        "text": "With What Food Might You Associate Arbroath"
+        "text": "Cou Cou and Flying Fish is a dish that is most associated with which part of the world?"
       },
       "tags": [
+        "food",
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -326,41 +223,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f954",
-      "correctAnswer": "The Age of Innocence",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f890",
+      "correctAnswer": "Golf",
       "incorrectAnswers": [
-        "The House of Mirth",
-        "Heart of Darkness",
-        "On the Road"
+        "Cricket",
+        "Badminton",
+        "Surfing"
       ],
       "question": {
-        "text": "Which book contains the character 'Newland Archer'?"
+        "text": "With which sport is Seve Ballesteros associated?"
       },
       "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b3e",
-      "correctAnswer": "Ha*Ash",
-      "incorrectAnswers": [
-        "The Pussycat Dolls",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American Latin pop duo released the album 'Primera fila: Hecho realidad'?"
-      },
-      "tags": [
-        "music"
+        "people",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -369,15 +245,15 @@
     },
     {
       "category": "geography",
-      "id": "62374044cb85f7ce9e949ced",
-      "correctAnswer": "Ecuador",
+      "id": "62374065cb85f7ce9e949cfa",
+      "correctAnswer": "Suva",
       "incorrectAnswers": [
-        "Bahamas",
-        "Mauritius",
-        "Albania"
+        "Bandar Seri Begawan",
+        "Dushanbe",
+        "Victoria"
       ],
       "question": {
-        "text": "Quito is the capital city of which country?"
+        "text": "What is the capital city of Fiji?"
       },
       "tags": [
         "geography"
@@ -388,20 +264,125 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c57",
-      "correctAnswer": "Coldplay",
+      "category": "film_and_tv",
+      "id": "645bc4634638d58091b1b9d5",
+      "correctAnswer": "Mick Jagger",
       "incorrectAnswers": [
-        "Level 42",
+        "Elvis Presley",
+        "David Bowie",
+        "Elton John"
+      ],
+      "question": {
+        "text": "Which singer starred as the Australian outlaw \"Ned Kelly\" in the 1970 film?"
+      },
+      "tags": [
+        "music",
+        "films"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f95194a",
+      "correctAnswer": "Operation Torch",
+      "incorrectAnswers": [
+        "Operation Market Garden",
+        "Operation Blitz",
+        "Operation Enterprise"
+      ],
+      "question": {
+        "text": "What name was given to the Allied invasion of North Africa in 1942?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95037c",
+      "correctAnswer": "ELO",
+      "incorrectAnswers": [
+        "The Kinks",
         "Deep Purple",
-        "Feeder"
+        "Elton John"
       ],
       "question": {
-        "text": "Which British band released the studio album 'X&Y'?"
+        "text": "Who Released The 70's Album Entitled 'Out of the Blue'?"
       },
       "tags": [
-        "pop_music",
-        "music"
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "639c9db5929b90846f2fc99e",
+      "correctAnswer": "Krishna",
+      "incorrectAnswers": [
+        "Vishnu",
+        "Brihaspati",
+        "Shiva"
+      ],
+      "question": {
+        "text": "What is the name of the Hindu god of love and compassion?"
+      },
+      "tags": [
+        "hinduism",
+        "religion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd1f",
+      "correctAnswer": "William James",
+      "incorrectAnswers": [
+        "Heraclitus",
+        "G. W. F. Hegel",
+        "Protagoras"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'Philosophy is at once the most sublime and the most trivial of human pursuits'?"
+      },
+      "tags": [
+        "philosophy",
+        "quotes",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fdef",
+      "correctAnswer": "Tropic of Capricorn",
+      "incorrectAnswers": [
+        "Tropic of Cancer",
+        "Tropic of Virgo",
+        "Tropic of Gemini"
+      ],
+      "question": {
+        "text": "Which tropic passes through Australia?"
+      },
+      "tags": [
+        "australia",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -410,15 +391,15 @@
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502ea",
-      "correctAnswer": "4",
+      "id": "622a1c367cc59eab6f95025f",
+      "correctAnswer": "Austria ",
       "incorrectAnswers": [
-        "2",
-        "6",
-        "8"
+        "Germany",
+        "Belgium",
+        "Switzerland"
       ],
       "question": {
-        "text": "How Many 75cl Bottles Of Champagne Would You Get From A Jeroboam?"
+        "text": "'Sachertorte' is a chocolate cake from which country? "
       },
       "tags": [
         "food_and_drink"
@@ -429,22 +410,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "647f9d363a4302a719271573",
-      "correctAnswer": "Lobster",
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503b1",
+      "correctAnswer": "France",
       "incorrectAnswers": [
-        "Egg",
-        "Ham",
-        "Tomato"
+        "Italy",
+        "China",
+        "Russia"
       ],
       "question": {
-        "text": "What type of food can be prepared 'Newberg style'?"
+        "text": "Which country blew up a Greenpeace ship in New Zealand?"
       },
       "tags": [
-        "recipes",
-        "cooking",
-        "food",
-        "food_and_drink"
+        "events",
+        "new_zealand",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -453,15 +433,15 @@
     },
     {
       "category": "food_and_drink",
-      "id": "627164551ba117625baac958",
-      "correctAnswer": "Uganda",
+      "id": "627164511ba117625baac957",
+      "correctAnswer": "Iceland",
       "incorrectAnswers": [
-        "Niger",
-        "Colombia",
-        "The Czech Republic"
+        "The Czech Republic",
+        "Austria",
+        "Nepal"
       ],
       "question": {
-        "text": "Which country is associated with the drink waragi?"
+        "text": "Which country is associated with the drink brennivín?"
       },
       "tags": [
         "drink",
@@ -473,22 +453,19 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950fe2",
-      "correctAnswer": "Hibiscus",
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f950194",
+      "correctAnswer": "Madame Butterfly",
       "incorrectAnswers": [
-        "Orchid",
-        "Lavender",
-        "Rose"
+        "Swan Lake",
+        "HMS Pinafore",
+        "Candide"
       ],
       "question": {
-        "text": "Which plant is known for attracting hummingbirds?"
+        "text": "In what opera would you find Lt. Pinkerton?"
       },
       "tags": [
-        "biology",
-        "animals",
-        "plants",
-        "science"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -496,20 +473,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623388880161109f922aac92",
-      "correctAnswer": "Laos",
+      "category": "food_and_drink",
+      "id": "624c604a50d1a5e051325a50",
+      "correctAnswer": "Kabuli Pulao",
       "incorrectAnswers": [
-        "Cambodia",
-        "Thailand",
-        "Vietnam"
+        "Frikadeller",
+        "Ema Datshi",
+        "Masala Dosa"
       ],
       "question": {
-        "text": "Which is the only landlocked country in South East Asia?"
+        "text": "Which of these dishes would you most expect to find in Afghanistan?"
       },
       "tags": [
-        "southeast_asia",
-        "geography"
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -517,43 +494,19 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "63adbd7304c68cc1e14b8e42",
-      "correctAnswer": "Pear Tree",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ec9",
+      "correctAnswer": "Haruki Murakami",
       "incorrectAnswers": [
-        "Oak Tree",
-        "Maple Tree",
-        "Birch Tree"
+        "Oscar Wilde",
+        "Umberto Eco",
+        "Søren Kierkegaard"
       ],
       "question": {
-        "text": "Which type of tree is known for its fragrant white flowers?"
+        "text": "Which author wrote 'The Wind-Up Bird Chronicle'?"
       },
       "tags": [
-        "science",
-        "trees",
-        "plants",
-        "nature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950056",
-      "correctAnswer": "Joe Frazier",
-      "incorrectAnswers": [
-        "Sugar Ray Robinson",
-        "George Foreman",
-        "Mike Tyson"
-      ],
-      "question": {
-        "text": "Who Was Beaten By Muhammad Ali In The Bout Entitled 'The Thriller In Manilla'?"
-      },
-      "tags": [
-        "boxing",
-        "sport"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -562,21 +515,20 @@
     },
     {
       "category": "music",
-      "id": "6477baa2550bc819ad646afc",
-      "correctAnswer": "1999",
+      "id": "622a1c347cc59eab6f94fba3",
+      "correctAnswer": "\"Swing Life Away\" by Rise Against",
       "incorrectAnswers": [
-        "Purple Rain",
-        "Kiss",
-        "Let's Go Crazy"
+        "\"SpongeBob SquarePants Theme\" by Painty the Pirate",
+        "\"Old Man\" by Neil Young",
+        "\"Chimpan-A to Chimpan-Z\" by Troy McClure"
       ],
       "question": {
-        "text": "Which Prince hit from 1983 begins with the lyrics, 'I was dreamin' when I wrote this, so sue me if I go too fast'?"
+        "text": "Which song begins with the lyrics: \"Am I loud and clear, or am I breaking up? / Am I still your charm, or am I just bad luck? / Are we getting closer, or are we just getting more lost?\"?"
       },
       "tags": [
-        "1980s",
+        "songs",
         "lyrics",
-        "music",
-        "songs"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -585,38 +537,15 @@
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94ff94",
-      "correctAnswer": "Prague",
+      "id": "623b5810fd6c701a92118396",
+      "correctAnswer": "Bosnia & Herzegovina",
       "incorrectAnswers": [
-        "Vienna",
-        "Oxford",
-        "Budapest"
+        "Turkey",
+        "Argentina",
+        "Estonia"
       ],
       "question": {
-        "text": "Which European city is nicknamed the city of a hundred spires?"
-      },
-      "tags": [
-        "europe",
-        "cities",
-        "nicknames",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237373ccfe13103f55eb5a0",
-      "correctAnswer": "Zimbabwe",
-      "incorrectAnswers": [
-        "Zambia",
-        "The Netherlands",
-        "Western Sahara"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.zw' at the end of its web addresses?"
+        "text": "In which country would you find the UNESCO World Heritage site of Mostar?"
       },
       "tags": [
         "geography"
@@ -627,22 +556,80 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "624db9ebde6018633d31f6ab",
-      "correctAnswer": "Matt Monro",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cce",
+      "correctAnswer": "Queen",
       "incorrectAnswers": [
-        "Shirley Bassey",
-        "Lulu",
-        "Madonna"
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
       ],
       "question": {
-        "text": "Who performed the theme song to the James Bond film From Russia With Love?"
+        "text": "Which British rock band (1970-) released the studio album 'News of the World'?"
       },
       "tags": [
-        "james_bond",
-        "film",
-        "soundtracks",
-        "film_and_tv"
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6477bb70550bc819ad646b8f",
+      "correctAnswer": "The wind-up",
+      "incorrectAnswers": [
+        "The pitch",
+        "The strike",
+        "The charge"
+      ],
+      "question": {
+        "text": "Which of these is a legal pitching position in baseball?"
+      },
+      "tags": [
+        "baseball",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950367",
+      "correctAnswer": "Jack Ruby",
+      "incorrectAnswers": [
+        "Mark Bench",
+        "Tom Gunn",
+        "Alvin Grey"
+      ],
+      "question": {
+        "text": "Who Shot Lee Harvey Oswald, The Assassin Of John F Kennedy?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950489",
+      "correctAnswer": "study of human characteristics",
+      "incorrectAnswers": [
+        "the eyes",
+        "wood",
+        "the study and psychology of organisms with regard to their functions and structures"
+      ],
+      "question": {
+        "text": "What is Somatology the study of?"
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
