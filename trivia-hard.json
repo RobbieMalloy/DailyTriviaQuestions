@@ -1,22 +1,63 @@
 {
-  "gameDate": "2026-04-09",
+  "gameDate": "2026-04-10",
   "difficulty": "hard",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "649dee4e615f8db40f5422cd",
-      "correctAnswer": "The Terminator",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c0d",
+      "correctAnswer": "Dream Theater",
       "incorrectAnswers": [
-        "RoboCop",
-        "Aliens",
-        "Predator"
+        "Jars of Clay",
+        "Three 6 Mafia",
+        "The Velvet Underground"
       ],
       "question": {
-        "text": "Which movie from 1984 features the line 'It doesn't feel pity, or remorse, or fear. And it absolutely will not stop... ever, until you are dead!'?"
+        "text": "Which American progressive metal band released the studio album 'Images and Words'?"
       },
       "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c377cc59eab6f950455",
+      "correctAnswer": "160",
+      "incorrectAnswers": [
+        "0",
+        "50",
+        "300"
+      ],
+      "question": {
+        "text": "Approximately how many children did pharaoh Ramses II father?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94faea",
+      "correctAnswer": "Jeremy Irons",
+      "incorrectAnswers": [
+        "Kevin Costner",
+        "Robert De Niro",
+        "Gerard Depardieu"
+      ],
+      "question": {
+        "text": "Who won the 1990 Academy Award for Best Leading Actor for playing the role of Claus Von Bulow in Reversal of Fortune?"
+      },
+      "tags": [
+        "academy_awards",
+        "acting",
         "film",
-        "film_quotes",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -25,21 +66,23 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "648614a2f773f09dc0193b39",
-      "correctAnswer": "Glaucoma",
+      "category": "sport_and_leisure",
+      "id": "62417d580f96c4efe8d773bd",
+      "correctAnswer": "New Orleans Pelicans",
       "incorrectAnswers": [
-        "Cataracts",
-        "Myopia",
-        "Astigmatism"
+        "New Orleans Rockets",
+        "New Orleans Suns",
+        "New Orleans Blackhawks"
       ],
       "question": {
-        "text": "What medical term is often caused by abnormally high fluid pressure in the eye?"
+        "text": "Which of these is a basketball team based in New Orleans?"
       },
       "tags": [
-        "medicine",
-        "ophthalmology",
-        "science"
+        "new_orleans",
+        "basketball",
+        "nba",
+        "usa",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -47,66 +90,19 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc92",
-      "correctAnswer": "Borborygmus",
+      "category": "geography",
+      "id": "622a1c367cc59eab6f9503ae",
+      "correctAnswer": "Australia",
       "incorrectAnswers": [
-        "Taradiddle",
-        "Ill-willie",
-        "Quomodocunquizing"
+        "New Zealand",
+        "The United Kingdom",
+        "The USA"
       ],
       "question": {
-        "text": "Which word is defined as 'a rumbling or gurgling noise in the intestines'?"
+        "text": "Which Country Owns Christmas Island?"
       },
       "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64f3a941601ffca0b7615dde",
-      "correctAnswer": "General Electric",
-      "incorrectAnswers": [
-        "IBM",
-        "Apple",
-        "Tesla"
-      ],
-      "question": {
-        "text": "What company uses the slogan \"Imagination at Work\"?"
-      },
-      "tags": [
-        "companies",
-        "marketing",
-        "slogans",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "636a5232990390307063f37e",
-      "correctAnswer": "The Equals",
-      "incorrectAnswers": [
-        "Blind Willie Johnson",
-        "Ike and Tina Turner",
-        "Metallica"
-      ],
-      "question": {
-        "text": "Which artist first recorded 'Police on My Back', which was later covered by The Clash?"
-      },
-      "tags": [
-        "music",
-        "cover_song",
-        "songs",
-        "musicians"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -115,15 +111,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa94",
-      "correctAnswer": "Lupita Nyong'o",
+      "id": "622a1c347cc59eab6f94fac5",
+      "correctAnswer": "Matthew McConaughey",
       "incorrectAnswers": [
-        "Sally Hawkins",
-        "Jennifer Lawrence",
-        "Julia Roberts"
+        "Christian Bale",
+        "Bruce Dern",
+        "Leonardo DiCaprio"
       ],
       "question": {
-        "text": "Who won the 2013 Academy Award for Best Supporting Actress for playing the role of Patsey in 12 Years a Slave?"
+        "text": "Who won the 2013 Academy Award for Best Leading Actor for playing the role of Ron Woodroof in Dallas Buyers Club?"
       },
       "tags": [
         "acting",
@@ -137,22 +133,334 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "648889155dba6c873ef650ca",
-      "correctAnswer": "Bonnie and Clyde",
+      "category": "food_and_drink",
+      "id": "6463394601d576cfac3aa32e",
+      "correctAnswer": "Cranberry juice",
       "incorrectAnswers": [
-        "The French Connection",
-        "Dirty Harry",
-        "The Godfather"
+        "Pomegranate juice",
+        "Cherry juice",
+        "Raspberry juice"
       ],
       "question": {
-        "text": "Which crime film from 1967 features Gene Hackman as Buck Barrow?"
+        "text": "What juice makes a Cape Cod cocktail red?"
       },
       "tags": [
-        "film",
-        "film_and_tv",
-        "acting",
-        "crime"
+        "cocktails",
+        "alcohol",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515a5",
+      "correctAnswer": "9",
+      "incorrectAnswers": [
+        "4",
+        "1",
+        "36"
+      ],
+      "question": {
+        "text": "How Many Gallons In A Firkin?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f95018f",
+      "correctAnswer": "Percy Bysshe Shelley",
+      "incorrectAnswers": [
+        "Anthony Byron Shelley",
+        "Henry Mark Shelley",
+        "Harvey Butler Shelley"
+      ],
+      "question": {
+        "text": "This Romantic poet and husband of Mary Shelley drowned in a boating accident?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623388a20161109f922aac9c",
+      "correctAnswer": "Réunion",
+      "incorrectAnswers": [
+        "The Seychelles",
+        "The Bahamas",
+        "The Maldives"
+      ],
+      "question": {
+        "text": "Which island country lies immediately to the West of Mauritius?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c367cc59eab6f950373",
+      "correctAnswer": "The Stranglers",
+      "incorrectAnswers": [
+        "Sex Pistols",
+        "Violent Femmes",
+        "T. Rex"
+      ],
+      "question": {
+        "text": "Who sang 'No More Heroes'?"
+      },
+      "tags": [
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237420bcb85f7ce9e949da4",
+      "correctAnswer": "Kigali",
+      "incorrectAnswers": [
+        "Kuala Lumpur",
+        "Bishkek",
+        "Ljubljana"
+      ],
+      "question": {
+        "text": "What is the capital city of Rwanda?"
+      },
+      "tags": [
+        "capital_cities",
+        "africa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ea6",
+      "correctAnswer": "J. K. Rowling",
+      "incorrectAnswers": [
+        "Christopher Tolkien",
+        "Philip Pullman",
+        "C. S. Lewis"
+      ],
+      "question": {
+        "text": "Which author wrote 'Cormoran Strike'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f951388",
+      "correctAnswer": "One Thousand and One Nights",
+      "incorrectAnswers": [
+        "Charlotte's Web",
+        "Alice's Adventures in Wonderland",
+        "The Snow Queen"
+      ],
+      "question": {
+        "text": "In which book does 'Solomon in Islam' appear?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501d0",
+      "correctAnswer": "A Study in Scarlet",
+      "incorrectAnswers": [
+        "The Murder of Roger Ackroyd",
+        "The Shadow of the Wind",
+        "Inferno"
+      ],
+      "question": {
+        "text": "Which piece of written work starts with the line 'In the year 1878 I took my degree of Doctor of Medicine of the University of London, and proceeded to Netley to go through the course prescribed for surgeons in the army.'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b0b",
+      "correctAnswer": "Rage Against the Machine",
+      "incorrectAnswers": [
+        "MercyMe",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which American band released the studio album 'Renegades'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcb5",
+      "correctAnswer": "Indo-European",
+      "incorrectAnswers": [
+        "Austroasiatic",
+        "Kra–Dai",
+        "Turkic"
+      ],
+      "question": {
+        "text": "The language 'Nepali' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95031e",
+      "correctAnswer": "Mary Queen Of Scots",
+      "incorrectAnswers": [
+        "Elizabeth I",
+        "Victoria",
+        "Jane Seymour"
+      ],
+      "question": {
+        "text": "Who was the mother of James I of England?"
+      },
+      "tags": [
+        "people",
+        "uk",
+        "kings",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c377cc59eab6f95041c",
+      "correctAnswer": "1984",
+      "incorrectAnswers": [
+        "1986",
+        "1988",
+        "1990"
+      ],
+      "question": {
+        "text": "In what year was Band-Aid's Do They Know It's Christmas the UK Christmas chart-topping record?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62433536cfaae40c12961491",
+      "correctAnswer": "A Pup",
+      "incorrectAnswers": [
+        "A Foal",
+        "A Calf",
+        "A Piglet"
+      ],
+      "question": {
+        "text": "A young sea lion is known as what?"
+      },
+      "tags": [
+        "animals",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950df1",
+      "correctAnswer": "Antoine de Saint-Exupéry",
+      "incorrectAnswers": [
+        "Alphonse Daudet",
+        "François-René de Chateaubriand",
+        "Victor Hugo"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Little Prince'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6477bada550bc819ad646b4b",
+      "correctAnswer": "Aspirin",
+      "incorrectAnswers": [
+        "Ibuprofen",
+        "Paracetamol",
+        "Morphine"
+      ],
+      "question": {
+        "text": "Which drug can be given to prevent blood clots?"
+      },
+      "tags": [
+        "science",
+        "drugs",
+        "medicine"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -161,17 +469,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9503e9",
-      "correctAnswer": "A Baby Ruth candy bar",
+      "id": "622a1c347cc59eab6f94f8df",
+      "correctAnswer": "Dennis Hopper",
       "incorrectAnswers": [
-        "Smores",
-        "A Twinky",
-        "A Baseball"
+        "Kevin Spacey",
+        "James Stewart",
+        "Robert Mitchum"
       ],
       "question": {
-        "text": "What did the person chained to wall in Goonies want?"
+        "text": "Which actor played the role of Frank Booth in Blue Velvet?"
       },
       "tags": [
+        "people",
+        "acting",
         "film",
         "film_and_tv"
       ],
@@ -181,20 +491,20 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "624c60c350d1a5e051325a71",
-      "correctAnswer": "Laos",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fea5",
+      "correctAnswer": "Elton John",
       "incorrectAnswers": [
-        "Indonesia",
-        "Singapore",
-        "Ivory Coast"
+        "Mika",
+        "Madonna",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "Larb is a dish that is most associated with which part of the world?"
+        "text": "Which English rock singer-songwriter, composer and pianist released the studio album 'Captain Fantastic and the Brown Dirt Cowboy'?"
       },
       "tags": [
-        "food",
-        "food_and_drink"
+        "rock_music",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -202,82 +512,20 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "624c6156badf21197f98f775",
-      "correctAnswer": "Barbados",
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b47",
+      "correctAnswer": "Blackpink",
       "incorrectAnswers": [
-        "Bahrain",
-        "Thailand",
-        "Benin"
+        "GOT7",
+        "T-ara",
+        "Super Junior"
       ],
       "question": {
-        "text": "Cou Cou and Flying Fish is a dish that is most associated with which part of the world?"
+        "text": "Which South Korean girl group released the extended play 'Kill This Love'?"
       },
       "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f890",
-      "correctAnswer": "Golf",
-      "incorrectAnswers": [
-        "Cricket",
-        "Badminton",
-        "Surfing"
-      ],
-      "question": {
-        "text": "With which sport is Seve Ballesteros associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374065cb85f7ce9e949cfa",
-      "correctAnswer": "Suva",
-      "incorrectAnswers": [
-        "Bandar Seri Begawan",
-        "Dushanbe",
-        "Victoria"
-      ],
-      "question": {
-        "text": "What is the capital city of Fiji?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "645bc4634638d58091b1b9d5",
-      "correctAnswer": "Mick Jagger",
-      "incorrectAnswers": [
-        "Elvis Presley",
-        "David Bowie",
-        "Elton John"
-      ],
-      "question": {
-        "text": "Which singer starred as the Australian outlaw \"Ned Kelly\" in the 1970 film?"
-      },
-      "tags": [
-        "music",
-        "films"
+        "kpop",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -286,166 +534,18 @@
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f95194a",
-      "correctAnswer": "Operation Torch",
+      "id": "622a1c367cc59eab6f95033d",
+      "correctAnswer": "Geronimo",
       "incorrectAnswers": [
-        "Operation Market Garden",
-        "Operation Blitz",
-        "Operation Enterprise"
+        "Poundmaker",
+        "Sitting Bull",
+        "Sequoyah"
       ],
       "question": {
-        "text": "What name was given to the Allied invasion of North Africa in 1942?"
+        "text": "Who was the last of the Apache warrior chiefs"
       },
       "tags": [
         "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95037c",
-      "correctAnswer": "ELO",
-      "incorrectAnswers": [
-        "The Kinks",
-        "Deep Purple",
-        "Elton John"
-      ],
-      "question": {
-        "text": "Who Released The 70's Album Entitled 'Out of the Blue'?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "639c9db5929b90846f2fc99e",
-      "correctAnswer": "Krishna",
-      "incorrectAnswers": [
-        "Vishnu",
-        "Brihaspati",
-        "Shiva"
-      ],
-      "question": {
-        "text": "What is the name of the Hindu god of love and compassion?"
-      },
-      "tags": [
-        "hinduism",
-        "religion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd1f",
-      "correctAnswer": "William James",
-      "incorrectAnswers": [
-        "Heraclitus",
-        "G. W. F. Hegel",
-        "Protagoras"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'Philosophy is at once the most sublime and the most trivial of human pursuits'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fdef",
-      "correctAnswer": "Tropic of Capricorn",
-      "incorrectAnswers": [
-        "Tropic of Cancer",
-        "Tropic of Virgo",
-        "Tropic of Gemini"
-      ],
-      "question": {
-        "text": "Which tropic passes through Australia?"
-      },
-      "tags": [
-        "australia",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95025f",
-      "correctAnswer": "Austria ",
-      "incorrectAnswers": [
-        "Germany",
-        "Belgium",
-        "Switzerland"
-      ],
-      "question": {
-        "text": "'Sachertorte' is a chocolate cake from which country? "
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503b1",
-      "correctAnswer": "France",
-      "incorrectAnswers": [
-        "Italy",
-        "China",
-        "Russia"
-      ],
-      "question": {
-        "text": "Which country blew up a Greenpeace ship in New Zealand?"
-      },
-      "tags": [
-        "events",
-        "new_zealand",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "627164511ba117625baac957",
-      "correctAnswer": "Iceland",
-      "incorrectAnswers": [
-        "The Czech Republic",
-        "Austria",
-        "Nepal"
-      ],
-      "question": {
-        "text": "Which country is associated with the drink brennivín?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -454,15 +554,37 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950194",
-      "correctAnswer": "Madame Butterfly",
+      "id": "622a1c347cc59eab6f94fa06",
+      "correctAnswer": "Jean Auguste Dominique Ingres",
       "incorrectAnswers": [
-        "Swan Lake",
-        "HMS Pinafore",
-        "Candide"
+        "Caravaggio",
+        "Jackson Pollock",
+        "El Greco"
       ],
       "question": {
-        "text": "In what opera would you find Lt. Pinkerton?"
+        "text": "Which artist painted \"The Grand Odalisque\""
+      },
+      "tags": [
+        "art",
+        "painting",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f4e",
+      "correctAnswer": "Jules Verne",
+      "incorrectAnswers": [
+        "Victor Hugo",
+        "Alphonse Daudet",
+        "Edgar Rice Burroughs"
+      ],
+      "question": {
+        "text": "Which author wrote 'Michael Strogoff'?"
       },
       "tags": [
         "arts_and_literature"
@@ -473,20 +595,20 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "624c604a50d1a5e051325a50",
-      "correctAnswer": "Kabuli Pulao",
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcce",
+      "correctAnswer": "Indo-European",
       "incorrectAnswers": [
-        "Frikadeller",
-        "Ema Datshi",
-        "Masala Dosa"
+        "Dravidian",
+        "Japonic",
+        "Uralic"
       ],
       "question": {
-        "text": "Which of these dishes would you most expect to find in Afghanistan?"
+        "text": "The language 'Odia' belongs to which language family?"
       },
       "tags": [
-        "food",
-        "food_and_drink"
+        "language",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -494,142 +616,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ec9",
-      "correctAnswer": "Haruki Murakami",
+      "category": "society_and_culture",
+      "id": "6462628bab138b829b81ea2b",
+      "correctAnswer": "Tommy Hilfiger",
       "incorrectAnswers": [
-        "Oscar Wilde",
-        "Umberto Eco",
-        "Søren Kierkegaard"
+        "Ralph Lauren",
+        "Calvin Klein",
+        "Michael Kors"
       ],
       "question": {
-        "text": "Which author wrote 'The Wind-Up Bird Chronicle'?"
+        "text": "Which American fashion designer is famous for his red, white and blue sportswear?"
       },
       "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fba3",
-      "correctAnswer": "\"Swing Life Away\" by Rise Against",
-      "incorrectAnswers": [
-        "\"SpongeBob SquarePants Theme\" by Painty the Pirate",
-        "\"Old Man\" by Neil Young",
-        "\"Chimpan-A to Chimpan-Z\" by Troy McClure"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"Am I loud and clear, or am I breaking up? / Am I still your charm, or am I just bad luck? / Are we getting closer, or are we just getting more lost?\"?"
-      },
-      "tags": [
-        "songs",
-        "lyrics",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b5810fd6c701a92118396",
-      "correctAnswer": "Bosnia & Herzegovina",
-      "incorrectAnswers": [
-        "Turkey",
-        "Argentina",
-        "Estonia"
-      ],
-      "question": {
-        "text": "In which country would you find the UNESCO World Heritage site of Mostar?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950cce",
-      "correctAnswer": "Queen",
-      "incorrectAnswers": [
-        "Level 42",
-        "Deep Purple",
-        "Feeder"
-      ],
-      "question": {
-        "text": "Which British rock band (1970-) released the studio album 'News of the World'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "6477bb70550bc819ad646b8f",
-      "correctAnswer": "The wind-up",
-      "incorrectAnswers": [
-        "The pitch",
-        "The strike",
-        "The charge"
-      ],
-      "question": {
-        "text": "Which of these is a legal pitching position in baseball?"
-      },
-      "tags": [
-        "baseball",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950367",
-      "correctAnswer": "Jack Ruby",
-      "incorrectAnswers": [
-        "Mark Bench",
-        "Tom Gunn",
-        "Alvin Grey"
-      ],
-      "question": {
-        "text": "Who Shot Lee Harvey Oswald, The Assassin Of John F Kennedy?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950489",
-      "correctAnswer": "study of human characteristics",
-      "incorrectAnswers": [
-        "the eyes",
-        "wood",
-        "the study and psychology of organisms with regard to their functions and structures"
-      ],
-      "question": {
-        "text": "What is Somatology the study of?"
-      },
-      "tags": [
-        "science"
+        "clothing",
+        "fashion",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
