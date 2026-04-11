@@ -1,21 +1,45 @@
 {
-  "gameDate": "2026-04-10",
+  "gameDate": "2026-04-11",
   "difficulty": "hard",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c0d",
-      "correctAnswer": "Dream Theater",
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951c4b",
+      "correctAnswer": "Zanzibar and England",
       "incorrectAnswers": [
-        "Jars of Clay",
-        "Three 6 Mafia",
-        "The Velvet Underground"
+        "France and Mauritania",
+        "Belgium and The Netherlands",
+        "India and Fiji"
       ],
       "question": {
-        "text": "Which American progressive metal band released the studio album 'Images and Words'?"
+        "text": "Between which countries was the shortest war in history, lasting 38 minutes?"
       },
       "tags": [
-        "music"
+        "wars",
+        "records",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "647f9db33a4302a719271616",
+      "correctAnswer": "Conan",
+      "incorrectAnswers": [
+        "Hercules",
+        "Thor",
+        "Xena"
+      ],
+      "question": {
+        "text": "Which character was accompanied by a wizard named Akiro in two 1980s movies?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv",
+        "fantasy"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -24,15 +48,15 @@
     },
     {
       "category": "history",
-      "id": "622a1c377cc59eab6f950455",
-      "correctAnswer": "160",
+      "id": "622a1c367cc59eab6f950355",
+      "correctAnswer": "Catherine Parr",
       "incorrectAnswers": [
-        "0",
-        "50",
-        "300"
+        "Catherine of Aragon",
+        "Jane Seymour",
+        "Anne Boleyn"
       ],
       "question": {
-        "text": "Approximately how many children did pharaoh Ramses II father?"
+        "text": "Who Was Henry VIII's Last Wife?"
       },
       "tags": [
         "history"
@@ -43,21 +67,86 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94faea",
-      "correctAnswer": "Jeremy Irons",
+      "category": "history",
+      "id": "622a1c367cc59eab6f950349",
+      "correctAnswer": "Stanley Baldwin",
       "incorrectAnswers": [
-        "Kevin Costner",
-        "Robert De Niro",
-        "Gerard Depardieu"
+        "Anthony Eden",
+        "Winston Churchill",
+        "Bonar Law"
       ],
       "question": {
-        "text": "Who won the 1990 Academy Award for Best Leading Actor for playing the role of Claus Von Bulow in Reversal of Fortune?"
+        "text": "Who Was Prime Minister When King Edward VIII Abdicated?"
       },
       "tags": [
-        "academy_awards",
-        "acting",
-        "film",
+        "leaders",
+        "uk",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa56",
+      "correctAnswer": "Washington Color School",
+      "incorrectAnswers": [
+        "Crystal Cubism",
+        "Primitivism",
+        "Ukiyo-e"
+      ],
+      "question": {
+        "text": "The painting \"Royal Red and Blue\" by Mark Rothko is a part of which art movement?"
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "646089a2de964ebc39016c61",
+      "correctAnswer": "Prince",
+      "incorrectAnswers": [
+        "Madonna",
+        "Michael Jackson",
+        "Elton John"
+      ],
+      "question": {
+        "text": "What singer's \"Lovesexy\" album caused a controversy when some stores refused to stock it due to the nude cover?"
+      },
+      "tags": [
+        "controversies",
+        "music_albums",
+        "music",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9503d5",
+      "correctAnswer": "I Love Lucy",
+      "incorrectAnswers": [
+        "The Brady Bunch",
+        "Sanford and Son",
+        "My Favourite Martian"
+      ],
+      "question": {
+        "text": "What popular sitcom made its first appearance in 1951 & ran until 1957?"
+      },
+      "tags": [
+        "tv",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -66,23 +155,21 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62417d580f96c4efe8d773bd",
-      "correctAnswer": "New Orleans Pelicans",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f939",
+      "correctAnswer": "On the Waterfront",
       "incorrectAnswers": [
-        "New Orleans Rockets",
-        "New Orleans Suns",
-        "New Orleans Blackhawks"
+        "National Lampoon's Animal House",
+        "The Third Man",
+        "Gangs of New York"
       ],
       "question": {
-        "text": "Which of these is a basketball team based in New Orleans?"
+        "text": "Which film contains the character 'Terry Malloy'?"
       },
       "tags": [
-        "new_orleans",
-        "basketball",
-        "nba",
-        "usa",
-        "sport"
+        "film",
+        "fictitious_characters",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -91,17 +178,63 @@
     },
     {
       "category": "geography",
-      "id": "622a1c367cc59eab6f9503ae",
-      "correctAnswer": "Australia",
+      "id": "623389220161109f922aaccc",
+      "correctAnswer": "New Jersey",
       "incorrectAnswers": [
-        "New Zealand",
-        "The United Kingdom",
-        "The USA"
+        "Oregon",
+        "Hawaii",
+        "Montana"
       ],
       "question": {
-        "text": "Which Country Owns Christmas Island?"
+        "text": "Which US state is nicknamed the Garden State?"
       },
       "tags": [
+        "names",
+        "nicknames",
+        "us_states",
+        "usa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e59",
+      "correctAnswer": "Dante Alighieri",
+      "incorrectAnswers": [
+        "Giovanni Boccaccio",
+        "Agatha Christie",
+        "Aleksandr Solzhenitsyn"
+      ],
+      "question": {
+        "text": "Which author wrote 'Paradiso'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6476390cf05ea6d6f587a186",
+      "correctAnswer": "The Red River",
+      "incorrectAnswers": [
+        "The Blue River",
+        "The Yellow River",
+        "The Green River"
+      ],
+      "question": {
+        "text": "What is the name of the river that runs through Canada's Manitoba province and empties into Lake Winnipeg?"
+      },
+      "tags": [
+        "rivers",
+        "canada",
         "geography"
       ],
       "type": "text_choice",
@@ -111,15 +244,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fac5",
-      "correctAnswer": "Matthew McConaughey",
+      "id": "622a1c347cc59eab6f94facd",
+      "correctAnswer": "Jamie Foxx",
       "incorrectAnswers": [
-        "Christian Bale",
-        "Bruce Dern",
+        "Don Cheadle",
+        "Johnny Depp",
         "Leonardo DiCaprio"
       ],
       "question": {
-        "text": "Who won the 2013 Academy Award for Best Leading Actor for playing the role of Ron Woodroof in Dallas Buyers Club?"
+        "text": "Who won the 2004 Academy Award for Best Leading Actor for playing the role of Ray Charles in Ray?"
       },
       "tags": [
         "acting",
@@ -133,22 +266,20 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "6463394601d576cfac3aa32e",
-      "correctAnswer": "Cranberry juice",
+      "category": "film_and_tv",
+      "id": "625fd73adc0dd3b72da64d2c",
+      "correctAnswer": "1976",
       "incorrectAnswers": [
-        "Pomegranate juice",
-        "Cherry juice",
-        "Raspberry juice"
+        "1966",
+        "1971",
+        "1981"
       ],
       "question": {
-        "text": "What juice makes a Cape Cod cocktail red?"
+        "text": "Rocky was released in which year?"
       },
       "tags": [
-        "cocktails",
-        "alcohol",
-        "food",
-        "food_and_drink"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -156,102 +287,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515a5",
-      "correctAnswer": "9",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f946",
+      "correctAnswer": "The Birds",
       "incorrectAnswers": [
-        "4",
-        "1",
-        "36"
+        "The Good, the Bad, and the Ugly",
+        "Sweet Smell of Success",
+        "The Manchurian Candidate"
       ],
       "question": {
-        "text": "How Many Gallons In A Firkin?"
+        "text": "Which film contains the character 'Melanie Daniels'?"
       },
       "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f95018f",
-      "correctAnswer": "Percy Bysshe Shelley",
-      "incorrectAnswers": [
-        "Anthony Byron Shelley",
-        "Henry Mark Shelley",
-        "Harvey Butler Shelley"
-      ],
-      "question": {
-        "text": "This Romantic poet and husband of Mary Shelley drowned in a boating accident?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623388a20161109f922aac9c",
-      "correctAnswer": "Réunion",
-      "incorrectAnswers": [
-        "The Seychelles",
-        "The Bahamas",
-        "The Maldives"
-      ],
-      "question": {
-        "text": "Which island country lies immediately to the West of Mauritius?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c367cc59eab6f950373",
-      "correctAnswer": "The Stranglers",
-      "incorrectAnswers": [
-        "Sex Pistols",
-        "Violent Femmes",
-        "T. Rex"
-      ],
-      "question": {
-        "text": "Who sang 'No More Heroes'?"
-      },
-      "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237420bcb85f7ce9e949da4",
-      "correctAnswer": "Kigali",
-      "incorrectAnswers": [
-        "Kuala Lumpur",
-        "Bishkek",
-        "Ljubljana"
-      ],
-      "question": {
-        "text": "What is the capital city of Rwanda?"
-      },
-      "tags": [
-        "capital_cities",
-        "africa",
-        "geography"
+        "fictitious_characters",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -260,19 +310,21 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ea6",
-      "correctAnswer": "J. K. Rowling",
+      "id": "64626208ab138b829b81e9a0",
+      "correctAnswer": "Sense and Sensibility",
       "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
+        "Pride and Prejudice",
+        "Emma",
+        "Mansfield Park"
       ],
       "question": {
-        "text": "Which author wrote 'Cormoran Strike'?"
+        "text": "Which novel by Jane Austen ends with sisters Marianne & Elinor Dashwood getting married?"
       },
       "tags": [
+        "arts_and_literature",
         "literature",
-        "arts_and_literature"
+        "classic_novels",
+        "novels"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -280,59 +332,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951388",
-      "correctAnswer": "One Thousand and One Nights",
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc94",
+      "correctAnswer": "Blatherskite",
       "incorrectAnswers": [
-        "Charlotte's Web",
-        "Alice's Adventures in Wonderland",
-        "The Snow Queen"
+        "Agastopia",
+        "Cacophony",
+        "Impignorate"
       ],
       "question": {
-        "text": "In which book does 'Solomon in Islam' appear?"
+        "text": "Which word is defined as 'a person who talks at great length without making much sense'?"
       },
       "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501d0",
-      "correctAnswer": "A Study in Scarlet",
-      "incorrectAnswers": [
-        "The Murder of Roger Ackroyd",
-        "The Shadow of the Wind",
-        "Inferno"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'In the year 1878 I took my degree of Doctor of Medicine of the University of London, and proceeded to Netley to go through the course prescribed for surgeons in the army.'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b0b",
-      "correctAnswer": "Rage Against the Machine",
-      "incorrectAnswers": [
-        "MercyMe",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American band released the studio album 'Renegades'?"
-      },
-      "tags": [
-        "music"
+        "words",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -341,18 +354,18 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcb5",
-      "correctAnswer": "Indo-European",
+      "id": "622a1c3d7cc59eab6f951c97",
+      "correctAnswer": "Jason",
       "incorrectAnswers": [
-        "Austroasiatic",
-        "Kra–Dai",
-        "Turkic"
+        "Bartholomew",
+        "Phillip",
+        "Thaddeus"
       ],
       "question": {
-        "text": "The language 'Nepali' belongs to which language family?"
+        "text": "Which of these was not one of Jesus's twelve apostles?"
       },
       "tags": [
-        "language",
+        "christianity",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -361,80 +374,16 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95031e",
-      "correctAnswer": "Mary Queen Of Scots",
-      "incorrectAnswers": [
-        "Elizabeth I",
-        "Victoria",
-        "Jane Seymour"
-      ],
-      "question": {
-        "text": "Who was the mother of James I of England?"
-      },
-      "tags": [
-        "people",
-        "uk",
-        "kings",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c377cc59eab6f95041c",
-      "correctAnswer": "1984",
-      "incorrectAnswers": [
-        "1986",
-        "1988",
-        "1990"
-      ],
-      "question": {
-        "text": "In what year was Band-Aid's Do They Know It's Christmas the UK Christmas chart-topping record?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62433536cfaae40c12961491",
-      "correctAnswer": "A Pup",
-      "incorrectAnswers": [
-        "A Foal",
-        "A Calf",
-        "A Piglet"
-      ],
-      "question": {
-        "text": "A young sea lion is known as what?"
-      },
-      "tags": [
-        "animals",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950df1",
-      "correctAnswer": "Antoine de Saint-Exupéry",
+      "id": "622a1c397cc59eab6f950f83",
+      "correctAnswer": "Agatha Christie",
       "incorrectAnswers": [
-        "Alphonse Daudet",
-        "François-René de Chateaubriand",
-        "Victor Hugo"
+        "Robert Louis Stevenson",
+        "Charles Dickens",
+        "Lewis Carroll"
       ],
       "question": {
-        "text": "Which author wrote 'The Little Prince'?"
+        "text": "Which author wrote 'The Murder of Roger Ackroyd'?"
       },
       "tags": [
         "literature",
@@ -446,21 +395,19 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6477bada550bc819ad646b4b",
-      "correctAnswer": "Aspirin",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950dcc",
+      "correctAnswer": "William Makepeace Thackeray",
       "incorrectAnswers": [
-        "Ibuprofen",
-        "Paracetamol",
-        "Morphine"
+        "Oscar Wilde",
+        "François-René de Chateaubriand",
+        "Orhan Pamuk"
       ],
       "question": {
-        "text": "Which drug can be given to prevent blood clots?"
+        "text": "Which author wrote 'Vanity Fair'?"
       },
       "tags": [
-        "science",
-        "drugs",
-        "medicine"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -469,18 +416,17 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8df",
-      "correctAnswer": "Dennis Hopper",
+      "id": "622a1c347cc59eab6f94f94c",
+      "correctAnswer": "The Crying Game",
       "incorrectAnswers": [
-        "Kevin Spacey",
-        "James Stewart",
-        "Robert Mitchum"
+        "Sunset Boulevard",
+        "Bringing Up Baby",
+        "A Clockwork Orange"
       ],
       "question": {
-        "text": "Which actor played the role of Frank Booth in Blue Velvet?"
+        "text": "Which film contains the character 'Dil'?"
       },
       "tags": [
-        "people",
         "acting",
         "film",
         "film_and_tv"
@@ -492,15 +438,115 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fea5",
-      "correctAnswer": "Elton John",
+      "id": "622a1c387cc59eab6f950b48",
+      "correctAnswer": "Imagine Dragons",
       "incorrectAnswers": [
-        "Mika",
-        "Madonna",
-        "Eric Clapton"
+        "Collective Soul",
+        "Three 6 Mafia",
+        "The Velvet Underground"
       ],
       "question": {
-        "text": "Which English rock singer-songwriter, composer and pianist released the studio album 'Captain Fantastic and the Brown Dirt Cowboy'?"
+        "text": "Which American pop rock band released the song 'Believer'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ece",
+      "correctAnswer": "Haruki Murakami",
+      "incorrectAnswers": [
+        "Oscar Wilde",
+        "Umberto Eco",
+        "Søren Kierkegaard"
+      ],
+      "question": {
+        "text": "Which author wrote '1Q84'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623385e062eaad73716a8c9b",
+      "correctAnswer": "Mexico City ",
+      "incorrectAnswers": [
+        "Washington D.C.",
+        "Ottawa",
+        "San José"
+      ],
+      "question": {
+        "text": "What's the oldest capital city in the Americas?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f950398",
+      "correctAnswer": "David Bowie",
+      "incorrectAnswers": [
+        "Michael Jackson",
+        "Ringo Starr",
+        "Elvis Presley"
+      ],
+      "question": {
+        "text": "Which Singer Starred In The Title Role Of The Film 'Merry Christmas Mr Lawrence''?"
+      },
+      "tags": [
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c81",
+      "correctAnswer": "U2",
+      "incorrectAnswers": [
+        "Public Image Ltd.",
+        "The Script",
+        "The Cure"
+      ],
+      "question": {
+        "text": "Which Irish rock band released the studio album 'Boy'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950bfe",
+      "correctAnswer": "AC/DC",
+      "incorrectAnswers": [
+        "Pendulum",
+        "INXS",
+        "Savage Garden"
+      ],
+      "question": {
+        "text": "Which Australian hard rock band released the studio album 'Ballbreaker'?"
       },
       "tags": [
         "rock_music",
@@ -512,19 +558,38 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b47",
-      "correctAnswer": "Blackpink",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95022e",
+      "correctAnswer": "Truffle",
       "incorrectAnswers": [
-        "GOT7",
-        "T-ara",
-        "Super Junior"
+        "Potato",
+        "Sweet Potato",
+        "Pumpkin"
       ],
       "question": {
-        "text": "Which South Korean girl group released the extended play 'Kill This Love'?"
+        "text": "Which tuber is sometimes called the 'Black Diamond'?"
       },
       "tags": [
-        "kpop",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c5d",
+      "correctAnswer": "Iron Maiden",
+      "incorrectAnswers": [
+        "Deep Purple",
+        "Feeder",
+        "Squeeze"
+      ],
+      "question": {
+        "text": "Which English heavy metal band released the album 'Killers'?"
+      },
+      "tags": [
         "music"
       ],
       "type": "text_choice",
@@ -533,61 +598,20 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95033d",
-      "correctAnswer": "Geronimo",
+      "category": "film_and_tv",
+      "id": "625fd704dc0dd3b72da64d1c",
+      "correctAnswer": "2007",
       "incorrectAnswers": [
-        "Poundmaker",
-        "Sitting Bull",
-        "Sequoyah"
+        "2005",
+        "2009",
+        "2011"
       ],
       "question": {
-        "text": "Who was the last of the Apache warrior chiefs"
+        "text": "In which year was There Will Be Blood first released in the cinema?"
       },
       "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa06",
-      "correctAnswer": "Jean Auguste Dominique Ingres",
-      "incorrectAnswers": [
-        "Caravaggio",
-        "Jackson Pollock",
-        "El Greco"
-      ],
-      "question": {
-        "text": "Which artist painted \"The Grand Odalisque\""
-      },
-      "tags": [
-        "art",
-        "painting",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f4e",
-      "correctAnswer": "Jules Verne",
-      "incorrectAnswers": [
-        "Victor Hugo",
-        "Alphonse Daudet",
-        "Edgar Rice Burroughs"
-      ],
-      "question": {
-        "text": "Which author wrote 'Michael Strogoff'?"
-      },
-      "tags": [
-        "arts_and_literature"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -596,40 +620,19 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcce",
-      "correctAnswer": "Indo-European",
+      "id": "622a1c357cc59eab6f94fd05",
+      "correctAnswer": "Denis Diderot",
       "incorrectAnswers": [
-        "Dravidian",
-        "Japonic",
-        "Uralic"
+        "Spinoza",
+        "Ludwig Wittgenstein",
+        "Friedrich Nietzsche"
       ],
       "question": {
-        "text": "The language 'Odia' belongs to which language family?"
+        "text": "Which philosopher famously said 'Man will never be free until the last king is strangled with the entrails of the last priest'?"
       },
       "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6462628bab138b829b81ea2b",
-      "correctAnswer": "Tommy Hilfiger",
-      "incorrectAnswers": [
-        "Ralph Lauren",
-        "Calvin Klein",
-        "Michael Kors"
-      ],
-      "question": {
-        "text": "Which American fashion designer is famous for his red, white and blue sportswear?"
-      },
-      "tags": [
-        "clothing",
-        "fashion",
+        "philosophy",
+        "quotes",
         "society_and_culture"
       ],
       "type": "text_choice",
