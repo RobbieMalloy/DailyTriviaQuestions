@@ -1,22 +1,23 @@
 {
-  "gameDate": "2026-04-11",
+  "gameDate": "2026-04-12",
   "difficulty": "random",
   "results": [
     {
-      "category": "society_and_culture",
-      "id": "649553a42cb69a84d25273f1",
-      "correctAnswer": "Anjali mudra",
+      "category": "science",
+      "id": "64dfa27da6681754ea052bac",
+      "correctAnswer": "The eyeball",
       "incorrectAnswers": [
-        "Namaste",
-        "Hatha yoga",
-        "Tadasana"
+        "The ear",
+        "The brain",
+        "The skeleton"
       ],
       "question": {
-        "text": "What is the name of the hand gesture, originating in India, where palms are placed together at the heart to show respect and gratitude?"
+        "text": "What part of the body is the sclera a part of?"
       },
       "tags": [
-        "india",
-        "society_and_culture"
+        "anatomy",
+        "biology",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -25,20 +26,17 @@
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94fe18",
-      "correctAnswer": "Galata Bridge",
+      "id": "623742c3cb85f7ce9e949dee",
+      "correctAnswer": "Kampala",
       "incorrectAnswers": [
-        "Bosphor Bridge",
-        "Istanbul Suspension Bridge",
-        "Topkaki Bridge"
+        "Nuku'alofa",
+        "Yamoussoukro",
+        "Lilongwe"
       ],
       "question": {
-        "text": "Which Bridge Connects Europe With Asia?"
+        "text": "What is the capital city of Uganda?"
       },
       "tags": [
-        "bridges",
-        "europe",
-        "asia",
         "geography"
       ],
       "type": "text_choice",
@@ -47,19 +45,66 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b5d",
-      "correctAnswer": "Emerson, Lake & Palmer",
+      "category": "science",
+      "id": "64b5a8837282fc9eadbafd99",
+      "correctAnswer": "Feedback",
       "incorrectAnswers": [
-        "Supertramp",
-        "UB40",
-        "Editors"
+        "Echo",
+        "Resonance",
+        "Interference"
       ],
       "question": {
-        "text": "Which English progressive rock band released the song 'And did those feet in ancient time'?"
+        "text": "What word refers to distortion caused by a loop in a sound system?"
       },
       "tags": [
-        "music"
+        "music",
+        "technology",
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fe27",
+      "correctAnswer": "Fort Knox",
+      "incorrectAnswers": [
+        "Fort Box",
+        "Fort Dox",
+        "Fort Stox"
+      ],
+      "question": {
+        "text": "Where is most of America's gold located?"
+      },
+      "tags": [
+        "places",
+        "usa",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "627164c31ba117625baac974",
+      "correctAnswer": "Romania",
+      "incorrectAnswers": [
+        "Denmark",
+        "Finland",
+        "Latvia"
+      ],
+      "question": {
+        "text": "Which country is associated with the drink tuica?"
+      },
+      "tags": [
+        "drink",
+        "alcohol",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -68,148 +113,59 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c3c7cc59eab6f951797",
-      "correctAnswer": "Lord Voldemort",
+      "id": "622a1c347cc59eab6f94f967",
+      "correctAnswer": "Brideshead Revisited",
       "incorrectAnswers": [
-        "Lord Darkmoor",
-        "Lord Moribund",
-        "Lord Doit Chagrin"
+        "The Old Man and the Sea",
+        "The English Patient",
+        "Ulysses"
       ],
       "question": {
-        "text": "Which is the name of the villain in the Harry Potter series?"
+        "text": "Which book contains the character 'Charles Ryder'?"
       },
       "tags": [
-        "harry_potter",
-        "fictitious_characters",
         "literature",
-        "young_adult",
+        "fictitious_characters",
         "arts_and_literature"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f9503c9",
-      "correctAnswer": "Betamax",
-      "incorrectAnswers": [
-        "VHS",
-        "SuperMotion",
-        "Videoman"
-      ],
-      "question": {
-        "text": "What was the name of the domestic videocassette tape recorder system introduced by Sony in 1975?"
-      },
-      "tags": [
-        "technology",
-        "1970's",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd5b",
-      "correctAnswer": "Axl Rose",
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ffd9",
+      "correctAnswer": "Belize",
       "incorrectAnswers": [
-        "Bob Dylan",
-        "Leonard Cohen",
-        "Slash"
+        "Guatemala",
+        "Honduras",
+        "El Salvador"
       ],
       "question": {
-        "text": "William Bailey Is The Real Name Of Whch Singer?"
+        "text": "Which Central American country extends furthest North?"
       },
       "tags": [
-        "pseudonyms",
-        "people",
-        "music"
+        "central_america",
+        "countries",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950392",
-      "correctAnswer": "Sir Walter Raleigh",
-      "incorrectAnswers": [
-        "Sir Francis Drake",
-        "James Cook",
-        "Ernest Shackleton"
-      ],
-      "question": {
-        "text": "Who Brought Back Tobacco And Potatoes From The Americas?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64720c933bbb58c31f411c8c",
-      "correctAnswer": "Carnitas",
-      "incorrectAnswers": [
-        "Tacos",
-        "Burritos",
-        "Enchiladas"
-      ],
-      "question": {
-        "text": "What Mexican dish that means \"little meats\" is made with shredded pork?"
-      },
-      "tags": [
-        "pork",
-        "meat",
-        "mexican_cuisine",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcdb",
-      "correctAnswer": "Indo-European",
-      "incorrectAnswers": [
-        "Koreanic",
-        "Afroasiatic",
-        "Sino-Tibetan"
-      ],
-      "question": {
-        "text": "The language 'Italian' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f95108b",
-      "correctAnswer": "Iris",
+      "id": "6242cb28d543524f1b19c912",
+      "correctAnswer": "A skulk",
       "incorrectAnswers": [
-        "Sclera",
-        "Cornea",
-        "Retina"
+        "A school",
+        "A yoke",
+        "A stud"
       ],
       "question": {
-        "text": "Which membrane controls the amount of light entering the eye?"
+        "text": "What is the word for a group of foxes?"
       },
       "tags": [
         "science"
@@ -220,20 +176,85 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "63b058784799123c67712f39",
-      "correctAnswer": "Moscow Exchange",
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951c1b",
+      "correctAnswer": "Portugal",
       "incorrectAnswers": [
-        "Wall Street",
-        "Stalinobmen",
-        "Vladivostock"
+        "Italy",
+        "Spain",
+        "France"
       ],
       "question": {
-        "text": "What is the name of Russia's main stock market?"
+        "text": "From which European country did Mozambique declare independence in 1975?"
       },
       "tags": [
-        "russia",
-        "economics",
+        "africa",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "64909c1758265893a0c86d7a",
+      "correctAnswer": "Harry Potter and the Deathly Hallows",
+      "incorrectAnswers": [
+        "Harry Potter and the Cursed Child",
+        "Harry Potter and the Order of Phoenix",
+        "Harry Potter and the Chamber of Secrets"
+      ],
+      "question": {
+        "text": "Which book is the 7th book of the Harry Potter series?"
+      },
+      "tags": [
+        "young_adult",
+        "arts_and_literature",
+        "literature",
+        "harry_potter"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056f927a97013de78b5478",
+      "correctAnswer": "The Crusaders",
+      "incorrectAnswers": [
+        "The Zealots",
+        "The Infidels",
+        "The Righteous"
+      ],
+      "question": {
+        "text": "Who fought for the Holy Land between 1095 and 1291?"
+      },
+      "tags": [
+        "history",
+        "wars"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e69bff2394bd44dee057",
+      "correctAnswer": "Eight",
+      "incorrectAnswers": [
+        "White",
+        "Seven",
+        "Green"
+      ],
+      "question": {
+        "text": "In German, what is the meaning of the word 'acht'?"
+      },
+      "tags": [
+        "language",
+        "translations",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -242,42 +263,23 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "645b431a067ef798d145507d",
-      "correctAnswer": "Bowdlerize",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a76",
+      "correctAnswer": "Joan of Arc",
       "incorrectAnswers": [
-        "Censor",
-        "Redact",
-        "Amend"
+        "Marie Antoinette",
+        "Birgitte Bardot",
+        "Simone de Beauvoir"
       ],
       "question": {
-        "text": "What term means to prudishly edit vulgar bits out of a written work, named after someone who did it to Shakespeare?"
+        "text": "Who was called 'The Maid of Orleans'?"
       },
       "tags": [
-        "language",
-        "words",
-        "shakespeare"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623385ea62eaad73716a8c9f",
-      "correctAnswer": "North Africa ",
-      "incorrectAnswers": [
-        "Australia",
-        "Central America",
-        "Eastern Europe"
-      ],
-      "question": {
-        "text": "Where Are The Atlas Mountains?"
-      },
-      "tags": [
-        "mountains",
-        "geography"
+        "people",
+        "medieval",
+        "middle_ages",
+        "france",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -285,16 +287,99 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "625064eee12f6dec240bdfd8",
-      "correctAnswer": "Carl Douglas",
+      "category": "society_and_culture",
+      "id": "63b058864799123c67712f4f",
+      "correctAnswer": "Lotus",
       "incorrectAnswers": [
-        "Nena",
-        "Billy Ray Cyrus",
-        "The Verve"
+        "Rose",
+        "Jasmine",
+        "Marigold"
       ],
       "question": {
-        "text": "'Kung Fu Fighting' was a one hit wonder in 1974 by which artist?"
+        "text": "Which is the national flower of India?"
+      },
+      "tags": [
+        "india",
+        "plants",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417cf50f96c4efe8d77396",
+      "correctAnswer": "Cleveland Indians",
+      "incorrectAnswers": [
+        "Cleveland Celtics",
+        "Cleveland Hornets",
+        "Cleveland Blackhawks"
+      ],
+      "question": {
+        "text": "Which of these is a baseball team based in Cleveland?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "65056f947a97013de78b547a",
+      "correctAnswer": "Dam",
+      "incorrectAnswers": [
+        "Clam",
+        "Scam",
+        "Lamb"
+      ],
+      "question": {
+        "text": "What is a barrier that blocks flowing water?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bc6",
+      "correctAnswer": "Alice in Chains",
+      "incorrectAnswers": [
+        "Poison",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which American grunge band released the studio album 'Black Gives Way to Blue'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625063cde12f6dec240bdf83",
+      "correctAnswer": "96 Tears",
+      "incorrectAnswers": [
+        "Puttin' on the Ritz",
+        "Mambo No. 5 (A Little Bit Of...)",
+        "I'Ve Never Been to Me"
+      ],
+      "question": {
+        "text": "What song did ? & The Mysterians have a hit with in 1966?"
       },
       "tags": [
         "songs",
@@ -307,259 +392,18 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c357cc59eab6f950023",
-      "correctAnswer": "Boxing",
-      "incorrectAnswers": [
-        "Rugby",
-        "Cricket",
-        "Football"
-      ],
-      "question": {
-        "text": "With which sport is Muhammad Ali associated?"
-      },
-      "tags": [
-        "sport",
-        "people",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f95109b",
-      "correctAnswer": "Lobster",
-      "incorrectAnswers": [
-        "Sea Snake",
-        "Dolphin",
-        "Jellyfish"
-      ],
-      "question": {
-        "text": "The crayfish isn't a fish at all _ it is related to the __________"
-      },
-      "tags": [
-        "animals",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcb0",
-      "correctAnswer": "Niger–Congo",
-      "incorrectAnswers": [
-        "Afroasiatic",
-        "Kra–Dai",
-        "Austroasiatic"
-      ],
-      "question": {
-        "text": "The language 'Nigerian Fulfulde' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950632",
-      "correctAnswer": "Jennifer Connelly",
-      "incorrectAnswers": [
-        "Rachel Weisz",
-        "Frances Fisher",
-        "Salma Hayek"
-      ],
-      "question": {
-        "text": "Which acress has starred in both A Beautiful Mind and Requiem for a Dream?"
-      },
-      "tags": [
-        "film_and_tv",
-        "film"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951026",
-      "correctAnswer": "Entomology",
-      "incorrectAnswers": [
-        "Botany",
-        "Zoology",
-        "Horticulture"
-      ],
-      "question": {
-        "text": "What Is The Study Of Insects Called? "
-      },
-      "tags": [
-        "words",
-        "animals",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500bd",
-      "correctAnswer": "Four",
-      "incorrectAnswers": [
-        "Six",
-        "Three",
-        "Five"
-      ],
-      "question": {
-        "text": "How many seams are there on a football (American)?"
-      },
-      "tags": [
-        "american_football",
-        "football",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f95224c",
-      "correctAnswer": "Hot",
-      "incorrectAnswers": [
-        "Wet",
-        "Windy",
-        "Dark"
-      ],
-      "question": {
-        "text": "In what conditions do thermophilous plants thrive?"
-      },
-      "tags": [
-        "science",
-        "words",
-        "plants",
-        "biology"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff3c",
-      "correctAnswer": "Michael Jackson",
-      "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
-      ],
-      "question": {
-        "text": "Which American singer, songwriter and dancer released the song 'Don't Stop 'Til You Get Enough'?"
-      },
-      "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "63a03992c7d86251f9b65c82",
-      "correctAnswer": "Kaa",
-      "incorrectAnswers": [
-        "Baloo",
-        "Shere Khan",
-        "King Louie"
-      ],
-      "question": {
-        "text": "What is the name of the snake in the Disney film The Jungle Book?"
-      },
-      "tags": [
-        "film_and_tv",
-        "disney",
-        "film",
-        "fictitious_characters"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62433545cfaae40c12961497",
-      "correctAnswer": "A Pup",
-      "incorrectAnswers": [
-        "A Tadpole",
-        "A Codling",
-        "A Calf"
-      ],
-      "question": {
-        "text": "What is the word for a young shark?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f17",
-      "correctAnswer": "Alice Munro",
-      "incorrectAnswers": [
-        "Ivan Turgenev",
-        "E. T. A. Hoffmann",
-        "Alphonse Daudet"
-      ],
-      "question": {
-        "text": "Which author wrote 'Who Do You Think You Are?'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "623387050161109f922aabfa",
-      "correctAnswer": "Detroit",
+      "id": "623742afcb85f7ce9e949de6",
+      "correctAnswer": "Tunis",
       "incorrectAnswers": [
-        "Mojave",
-        "Denver",
-        "Las Vegas"
+        "Ankara",
+        "Algiers",
+        "Dakar"
       ],
       "question": {
-        "text": "From which city's nickname is Motown's name derived?"
+        "text": "What is the capital city of Tunisia?"
       },
       "tags": [
-        "motown",
-        "cities",
-        "usa",
-        "nicknames",
         "geography"
       ],
       "type": "text_choice",
@@ -568,88 +412,237 @@
       "isNiche": false
     },
     {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950dc3",
+      "correctAnswer": "Green Day",
+      "incorrectAnswers": [
+        "Mastodon",
+        "Animal Collective",
+        "Fall Out Boy"
+      ],
+      "question": {
+        "text": "Which band includes 'Billie Joe Armstrong'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62399eeb43254f1dbcdd082d",
+      "correctAnswer": "Brazil",
+      "incorrectAnswers": [
+        "France",
+        "Germany",
+        "Uruguay"
+      ],
+      "question": {
+        "text": "Which country won the 1994 FIFA World Cup, hosted in United States?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "63a0397ec7d86251f9b65c6a",
+      "correctAnswer": "Aurora",
+      "incorrectAnswers": [
+        "Rapunzel",
+        "Belle",
+        "Cinderella"
+      ],
+      "question": {
+        "text": "What is the name of the beautiful princess in Sleeping Beauty?"
+      },
+      "tags": [
+        "film_and_tv",
+        "disney",
+        "film"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503d8",
+      "correctAnswer": "Melmac",
+      "incorrectAnswers": [
+        "Barnzac",
+        "Tonzac",
+        "Fardac"
+      ],
+      "question": {
+        "text": "What planet was 'ALF' from?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
       "category": "science",
-      "id": "6505702f7a97013de78b5550",
-      "correctAnswer": "Hyperopia",
+      "id": "622a1c3a7cc59eab6f9510d1",
+      "correctAnswer": "Heart",
       "incorrectAnswers": [
-        "Myopia",
-        "Astigmatism",
-        "Presbyopia"
+        "Soul",
+        "Blood",
+        "Eyes"
       ],
       "question": {
-        "text": "What is another term for long-sightedness?"
+        "text": "What part of the body does carditis affect?"
       },
       "tags": [
-        "science",
-        "medicine"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d820f96c4efe8d773ce",
-      "correctAnswer": "Philadelphia 76ers",
-      "incorrectAnswers": [
-        "Philadelphia Inter",
-        "Philadelphia Lions",
-        "Philadelphia Whitecaps"
-      ],
-      "question": {
-        "text": "Which of these is a basketball team based in Philadelphia?"
-      },
-      "tags": [
-        "basketball",
-        "nba",
-        "usa",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc56",
-      "correctAnswer": "Widdershins",
-      "incorrectAnswers": [
-        "Borborygmus",
-        "Meldrop",
-        "Kakorrhaphiophobia"
-      ],
-      "question": {
-        "text": "Which word is defined as 'adin a left-handed or contrary direction; counterclockwise'?"
-      },
-      "tags": [
+        "medicine",
         "words",
-        "general_knowledge"
+        "science"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950087",
-      "correctAnswer": "5 And 1",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fb76",
+      "correctAnswer": "Gone with the Wind",
       "incorrectAnswers": [
-        "1 and 19",
-        "7 and 13",
-        "15 and 5"
+        "Dark Victory",
+        "Goodbye, Mr. Chips",
+        "Love Affair"
       ],
       "question": {
-        "text": "What Numbers Are Either Side Of 20 On A Dartboard"
+        "text": "Which film won the Academy Award for Best Picture in 1939?"
       },
       "tags": [
-        "numbers",
-        "sport"
+        "academy_awards",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "645f9526541c4d4fc8cf2ead",
+      "correctAnswer": "Italy",
+      "incorrectAnswers": [
+        "Spain",
+        "Portugal",
+        "Greece"
+      ],
+      "question": {
+        "text": "Which country is home to the cities of Taranto, Anzio, and Padua?"
+      },
+      "tags": [
+        "cities",
+        "europe",
+        "countries",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c609f50d1a5e051325a68",
+      "correctAnswer": "India",
+      "incorrectAnswers": [
+        "Ghana",
+        "Thailand",
+        "Barbados"
+      ],
+      "question": {
+        "text": "Masala Dosa is a dish that is most associated with which part of the world?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "63f39502989356ef48370be1",
+      "correctAnswer": "Apple",
+      "incorrectAnswers": [
+        "Mango",
+        "Papaya",
+        "Pineapple"
+      ],
+      "question": {
+        "text": "Which of these fruits is not a tropical fruit?"
+      },
+      "tags": [
+        "food_and_drink",
+        "food",
+        "fruit"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950286",
+      "correctAnswer": "Courgette ",
+      "incorrectAnswers": [
+        "Carrot",
+        "Onion",
+        "Cucumber"
+      ],
+      "question": {
+        "text": "What vegetable is known a zucchini in the USA?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "64dd398a9cef2bd3a34add05",
+      "correctAnswer": "Nevada",
+      "incorrectAnswers": [
+        "Arizona",
+        "Colorado",
+        "Utah"
+      ],
+      "question": {
+        "text": "Which US state is known by the nicknames \"The Sagebrush State\" and \"The Silver State\"?"
+      },
+      "tags": [
+        "nicknames",
+        "usa",
+        "us_states",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     }
