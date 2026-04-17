@@ -1,45 +1,23 @@
 {
-  "gameDate": "2026-04-16",
+  "gameDate": "2026-04-17",
   "difficulty": "medium",
   "results": [
     {
-      "category": "society_and_culture",
-      "id": "639c9dae929b90846f2fc98e",
-      "correctAnswer": "Salam",
+      "category": "food_and_drink",
+      "id": "6477bb70550bc819ad646b91",
+      "correctAnswer": "Fish",
       "incorrectAnswers": [
-        "Hola",
-        "Namaste",
-        "Shalom"
+        "Meat",
+        "Vegetables",
+        "Fruit"
       ],
       "question": {
-        "text": "What is the name of the Islamic greeting for 'hello'?"
+        "text": "What is the English translation of the French word \"poisson\"?"
       },
       "tags": [
-        "islam",
-        "religion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62ab33255202de619af28141",
-      "correctAnswer": "Aston Martin",
-      "incorrectAnswers": [
-        "Toyota",
-        "Austin",
-        "Volkswagen"
-      ],
-      "question": {
-        "text": "Which car manufacturer made the DB5?"
-      },
-      "tags": [
-        "motoring",
-        "business",
-        "society_and_culture"
+        "food_and_drink",
+        "food",
+        "translations"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -48,24 +26,18 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "6476390cf05ea6d6f587a181",
-      "correctAnswer": "The Bird's Nest",
+      "id": "622a1c367cc59eab6f9500ba",
+      "correctAnswer": "4",
       "incorrectAnswers": [
-        "The Bamboo Grove",
-        "The Panda's Den",
-        "The Ancestor's Grave"
+        "6",
+        "8",
+        "10"
       ],
       "question": {
-        "text": "Built for the 2008 Olympics, what is the name of the Beijing city structure that won architecture's Lubetkin Prize?"
+        "text": "How Many Tournaments make up a Grand Slam In Golf? "
       },
       "tags": [
-        "architecture",
-        "tourist_attractions",
-        "buildings",
-        "china",
-        "beijing",
-        "sport",
-        "olympics"
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -73,24 +45,23 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "62c2f9feb3eadb0437fda6b8",
-      "correctAnswer": "Moose",
+      "category": "history",
+      "id": "63b058834799123c67712f4b",
+      "correctAnswer": "Narendra Modi",
       "incorrectAnswers": [
-        "Rabbit",
-        "Kangaroo",
-        "Bull"
+        "Rahul Gandhi",
+        "Manmohan Singh",
+        "Atal Bihari Vajpayee"
       ],
       "question": {
-        "text": "Which animal would you associate with the Abercrombie & Fitch logo?"
+        "text": "Who became the Prime Minister of India in 2014?"
       },
       "tags": [
+        "india",
+        "politics",
         "society_and_culture",
-        "business",
-        "marketing",
-        "animals",
-        "logos",
-        "symbols"
+        "history",
+        "2010's"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -98,20 +69,40 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc8b",
-      "correctAnswer": "Doodle Sack",
+      "category": "geography",
+      "id": "6233867a62eaad73716a8cd6",
+      "correctAnswer": "South Africa ",
       "incorrectAnswers": [
-        "Fipple",
-        "Tittynope",
-        "Quire"
+        "Belgium",
+        "Canada",
+        "Australia"
       ],
       "question": {
-        "text": "Which word is defined as 'Old English word for bagpipe'?"
+        "text": "Where Is The Veldt?"
       },
       "tags": [
-        "words",
-        "general_knowledge"
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "64746b395a4c31088dd9d02c",
+      "correctAnswer": "Skateboarding",
+      "incorrectAnswers": [
+        "Surfing",
+        "BMX",
+        "Skydiving"
+      ],
+      "question": {
+        "text": "What extreme sport is Tony Hawk known for?"
+      },
+      "tags": [
+        "sport",
+        "people"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -120,15 +111,148 @@
     },
     {
       "category": "science",
-      "id": "62433381cfaae40c129613e7",
-      "correctAnswer": "A Rooster",
+      "id": "63e4c35c106de6ffa7d4a7df",
+      "correctAnswer": "Stegosaurus",
       "incorrectAnswers": [
-        "A Buck",
-        "A Dog",
-        "A Ram"
+        "Tyrannosaurus Rex",
+        "Diplodocus",
+        "Ankylosaurus"
       ],
       "question": {
-        "text": "A male chicken is known as what?"
+        "text": "Which dinosaur had a long, spiked tail?"
+      },
+      "tags": [
+        "science",
+        "dinosaurs",
+        "nature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "646140784d46e537ca8cd9bf",
+      "correctAnswer": "Anesthesia",
+      "incorrectAnswers": [
+        "Amnesia",
+        "Hypnosis",
+        "Paralysis"
+      ],
+      "question": {
+        "text": "Which of these medical terms comes from an Ancient Greek word meaning \"without sensation\"?"
+      },
+      "tags": [
+        "medicine",
+        "languages",
+        "history",
+        "ancient_greece"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c3b7cc59eab6f95172e",
+      "correctAnswer": "The Simpsons",
+      "incorrectAnswers": [
+        "The Flintstones",
+        "The Bradys",
+        "The Sopranos"
+      ],
+      "question": {
+        "text": "Which TV Family Adopted A Greyhound For Christmas?"
+      },
+      "tags": [
+        "tv",
+        "dogs",
+        "film_and_tv",
+        "fictitious_characters",
+        "christmas"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740509da29df7b05f73d4",
+      "correctAnswer": "Downfall",
+      "incorrectAnswers": [
+        "Platoon",
+        "The Green Mile",
+        "Up"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'The final secretary for Adolf Hitler tells of the Nazi dictator's final days.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "64746b6f5a4c31088dd9d05d",
+      "correctAnswer": "Coup de grâce",
+      "incorrectAnswers": [
+        "Tête à tête",
+        "Entente cordiale",
+        "Merci beaucoup"
+      ],
+      "question": {
+        "text": "What is the French term for a killing stroke delivered as a merciful act?"
+      },
+      "tags": [
+        "phrases"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "636a52ba990390307063f3b9",
+      "correctAnswer": "The Beatles",
+      "incorrectAnswers": [
+        "Urge Overkill",
+        "Tori Amos",
+        "The Zutons"
+      ],
+      "question": {
+        "text": "The song 'With a Little Help From My Friends' had a well-known cover by Joe Cocker, but who recorded the original?"
+      },
+      "tags": [
+        "music",
+        "cover_song",
+        "songs",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950479",
+      "correctAnswer": "Religion",
+      "incorrectAnswers": [
+        "Trees",
+        "Children",
+        "Blood"
+      ],
+      "question": {
+        "text": "What is Theology the study of?"
       },
       "tags": [
         "science"
@@ -139,18 +263,46 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e81",
-      "correctAnswer": "Voltaire",
+      "category": "geography",
+      "id": "64fb5b33717513cb7919040a",
+      "correctAnswer": "Niagara Falls",
       "incorrectAnswers": [
-        "Stendhal",
-        "Paulo Coelho",
-        "Isabel Allende"
+        "Grand Canyon",
+        "Great Barrier Reef",
+        "Mount Everest"
       ],
       "question": {
-        "text": "Which author wrote 'Complete Works of Voltaire'?"
+        "text": "Which landmark is often viewed from Goat Island?"
       },
       "tags": [
+        "natural_wonders",
+        "geography",
+        "islands",
+        "tourism",
+        "travel"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f9513a1",
+      "correctAnswer": "Harry Potter",
+      "incorrectAnswers": [
+        "Twilight",
+        "His Dark Materials",
+        "Red Rising"
+      ],
+      "question": {
+        "text": "In which book series does 'Minerva McGonagall' appear?"
+      },
+      "tags": [
+        "literature",
+        "young_adult",
+        "fictitious_characters",
+        "general_knowledge",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -159,16 +311,39 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503d1",
-      "correctAnswer": "Lucitania",
+      "category": "film_and_tv",
+      "id": "624dba00de6018633d31f6af",
+      "correctAnswer": "Billie Eilish",
       "incorrectAnswers": [
-        "Olympic",
-        "Mary Rose",
-        "Mauretania"
+        "A-ha",
+        "Gladys Knight",
+        "Chris Cornell"
       ],
       "question": {
-        "text": "What was name of the Titanic's sister ship?"
+        "text": "Who performed the theme song to the James Bond film No Time To Die?"
+      },
+      "tags": [
+        "james_bond",
+        "film",
+        "soundtracks",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9519b2",
+      "correctAnswer": "Radiation poisoning",
+      "incorrectAnswers": [
+        "Drowning",
+        "She was hit by a car",
+        "She was struck by lightning"
+      ],
+      "question": {
+        "text": "What did Marie Curie die of on 4th July, 1934?"
       },
       "tags": [
         "history"
@@ -179,89 +354,46 @@
       "isNiche": false
     },
     {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f957",
+      "correctAnswer": "Of Mice and Men",
+      "incorrectAnswers": [
+        "Master and Commander",
+        "We Have Always Lived in the Castle",
+        "The Moviegoer"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Lennie Small'?"
+      },
+      "tags": [
+        "fictitious_characters",
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
       "category": "history",
-      "id": "648888905dba6c873ef6504b",
-      "correctAnswer": "The 1990s",
+      "id": "645cb19b7d263fd5097043e6",
+      "correctAnswer": "The Dardanelles",
       "incorrectAnswers": [
-        "The 1980s",
-        "The 1970s",
-        "The 1960s"
+        "The Bering Strait",
+        "The English Channel",
+        "The Panama Canal"
       ],
       "question": {
-        "text": "Which decade saw the dissolution of the Soviet Union and the end of the Cold War?"
+        "text": "During World War I, which strait between the Aegean and the Sea of Marmara was unsuccessfully contested by the Allies in 1915?"
       },
       "tags": [
-        "history",
-        "politics",
-        "cold_war",
-        "decades",
-        "soviet_union",
-        "russia"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6470d59c32850588056636ee",
-      "correctAnswer": "The Alps",
-      "incorrectAnswers": [
-        "The Pyrenees",
-        "The Urals",
-        "The Himalayas"
-      ],
-      "question": {
-        "text": "What is the name of the European mountain range whose glaciers formed lakes like Como and Constance?"
-      },
-      "tags": [
-        "mountains",
-        "lakes",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "63d9530f168979b94b2e4f8a",
-      "correctAnswer": "Law of Conservation of Energy",
-      "incorrectAnswers": [
-        "Law of Universal Gravitation",
-        "Law of Thermodynamics",
-        "Law of the Lever"
-      ],
-      "question": {
-        "text": "What is the name of the physical law that states that energy is neither created or destroyed?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "65056f6a7a97013de78b5440",
-      "correctAnswer": "Cathedral",
-      "incorrectAnswers": [
-        "Chapel",
-        "Spire",
-        "Oratory"
-      ],
-      "question": {
-        "text": "What type of Catholic church is the home church of a bishop?"
-      },
-      "tags": [
-        "society_and_culture",
-        "christianity",
-        "religion"
+        "geography",
+        "world_war_1",
+        "wars",
+        "bodies_of_water",
+        "straits",
+        "1910's"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -270,21 +402,17 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f95005c",
-      "correctAnswer": "Adidas",
+      "id": "6242e80f8c2538f9601d2f90",
+      "correctAnswer": "The Villans",
       "incorrectAnswers": [
-        "Reebok",
-        "Puma",
-        "Nike"
+        "The Seagulls",
+        "The Hornets",
+        "The Seasiders"
       ],
       "question": {
-        "text": "Which Sportswear Company Is The Brand With The Three Stripes?"
+        "text": "What is the nickname of the English football team Aston Villa?"
       },
       "tags": [
-        "marketing",
-        "logos",
-        "business",
-        "fashion",
         "sport"
       ],
       "type": "text_choice",
@@ -293,46 +421,21 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62602ea74b176d54800e3ceb",
-      "correctAnswer": "Ho Chi Minh City",
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f95007f",
+      "correctAnswer": "Baseball",
       "incorrectAnswers": [
-        "Yangon",
-        "Jakarta",
-        "Chittagong"
+        "Basketball",
+        "Football",
+        "Soccer"
       ],
       "question": {
-        "text": "Which of these cities is in Vietnam?"
+        "text": "What sport is played at Wrigley Field in Chicago?"
       },
       "tags": [
-        "cities",
-        "asia",
-        "southeast_asia",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "645ababf158db1bd1779f1d5",
-      "correctAnswer": "The Furies",
-      "incorrectAnswers": [
-        "The Sirens",
-        "The Harpies",
-        "The Gorgons"
-      ],
-      "question": {
-        "text": "What name is given to the Greek female divinities who punished crimes at the request of the victims?"
-      },
-      "tags": [
-        "mythology",
-        "punishment",
-        "ancient_greece",
-        "crime",
-        "society_and_culture"
+        "sport",
+        "chicago",
+        "usa"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -341,17 +444,18 @@
     },
     {
       "category": "science",
-      "id": "6505701e7a97013de78b5537",
-      "correctAnswer": "Meteor",
+      "id": "622a1c377cc59eab6f95056e",
+      "correctAnswer": "Very low temperatures",
       "incorrectAnswers": [
-        "Comet",
-        "Pulsar",
-        "Aurora"
+        "Lightning",
+        "Measurement",
+        "Victorian literature"
       ],
       "question": {
-        "text": "Which of these is an object from outer space that has entered Earth's atmosphere?"
+        "text": "What is Cryology the study of?"
       },
       "tags": [
+        "words",
         "science"
       ],
       "type": "text_choice",
@@ -360,43 +464,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "62ab32e05202de619af2812d",
-      "correctAnswer": "Golf",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f49",
+      "correctAnswer": "Edgar Allan Poe",
       "incorrectAnswers": [
-        "CR-V",
-        "Model T",
-        "3-Series"
+        "Stephen King",
+        "Nathaniel Hawthorne",
+        "Mario Puzo"
       ],
       "question": {
-        "text": "Which of these is a model of car made by Volkswagen?"
+        "text": "Which author wrote 'The Raven'?"
       },
       "tags": [
-        "motoring",
-        "business",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6239f80e9129041bf3925cc2",
-      "correctAnswer": "Foxtrot",
-      "incorrectAnswers": [
-        "Forget",
-        "Fail",
-        "Felicity"
-      ],
-      "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter F?"
-      },
-      "tags": [
-        "words",
+        "literature",
         "general_knowledge",
-        "language"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -405,61 +487,20 @@
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94fd4d",
-      "correctAnswer": "Kazakhstan",
+      "id": "62602d444b176d54800e3c8b",
+      "correctAnswer": "Osaka",
       "incorrectAnswers": [
-        "Mongolia",
-        "Saudi Arabia",
-        "Afghanistan"
+        "Adelaide",
+        "Incheon",
+        "Gold Coast"
       ],
       "question": {
-        "text": "What is the largest landlocked country in the world?"
-      },
-      "tags": [
-        "records",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6250071a0d86c8f685d80f14",
-      "correctAnswer": "Stuffed pasta",
-      "incorrectAnswers": [
-        "Soup pasta",
-        "Strand pasta",
-        "Tubular pasta"
-      ],
-      "question": {
-        "text": "What type of pasta is tortellini?"
-      },
-      "tags": [
-        "food",
-        "italy",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602ecf4b176d54800e3cf7",
-      "correctAnswer": "Pakistan",
-      "incorrectAnswers": [
-        "Ukraine",
-        "Tajikistan",
-        "Belarus"
-      ],
-      "question": {
-        "text": "Where would you find the city of Karachi?"
+        "text": "Which of these cities is in Japan?"
       },
       "tags": [
         "cities",
+        "asia",
+        "japan",
         "geography"
       ],
       "type": "text_choice",
@@ -469,17 +510,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f951a69",
-      "correctAnswer": "Jaws",
+      "id": "622a1c347cc59eab6f94fa66",
+      "correctAnswer": "Javier Bardem",
       "incorrectAnswers": [
-        "The Godfather",
-        "Titanic",
-        "Star Wars"
+        "Casey Affleck",
+        "Philip Seymour Hoffman",
+        "Hal Holbrook"
       ],
       "question": {
-        "text": "\"You're gonna need a bigger boat\" is a line from which 70's film?"
+        "text": "Who won the 2007 Academy Award for Best Supporting Actor for playing the role of Anton Chigurh in No Country for Old Men?"
       },
       "tags": [
+        "academy_awards",
+        "acting",
+        "film",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -488,113 +532,18 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "63a0394ec7d86251f9b65c3b",
-      "correctAnswer": "Ricotta",
-      "incorrectAnswers": [
-        "Feta",
-        "Gouda",
-        "Mozzarella"
-      ],
-      "question": {
-        "text": "What type of cheese would you be most likely to find in a cheesecake?"
-      },
-      "tags": [
-        "cheese",
-        "food_and_drink",
-        "food",
-        "desserts"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "6477ba1c550bc819ad646a1b",
-      "correctAnswer": "Elvis",
+      "id": "622a1c397cc59eab6f950d6b",
+      "correctAnswer": "Genesis",
       "incorrectAnswers": [
-        "John Lennon",
-        "Bob Marley",
-        "Freddie Mercury"
+        "Orchestral Manoeuvres in the Dark",
+        "Soft Machine",
+        "The Human League"
       ],
       "question": {
-        "text": "Which singer made $55 million between October 2013 and 2014 despite being dead since 1977?"
+        "text": "Which band includes 'Peter Gabriel'?"
       },
       "tags": [
-        "music",
-        "people"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "6471e4297206d7c314606f6c",
-      "correctAnswer": "the Unabomber",
-      "incorrectAnswers": [
-        "Ted Bundy",
-        "Jeffrey Dahmer",
-        "The Zodiac Killer"
-      ],
-      "question": {
-        "text": "Who was arrested in 1996 after years spent living in the wilderness as a wanted man?"
-      },
-      "tags": [
-        "crime",
-        "people",
-        "history",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62c2f9e9b3eadb0437fda6af",
-      "correctAnswer": "Horse",
-      "incorrectAnswers": [
-        "Lion",
-        "Moose",
-        "Swan"
-      ],
-      "question": {
-        "text": "Which animal would you associate with the Ferrari logo?"
-      },
-      "tags": [
-        "society_and_culture",
-        "business",
-        "marketing",
-        "animals",
-        "motoring",
-        "logos",
-        "symbols"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fbba",
-      "correctAnswer": "\"Werewolves of London\" by Warren Zevon",
-      "incorrectAnswers": [
-        "\"In da Club\" by 50 Cent",
-        "\"Crazy Train\" by Ozzy Osbourne",
-        "\"Baby Got Back\" by Sir Mix-a-Lot"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"I saw a werewolf with a Chinese menu in his hand...\"?"
-      },
-      "tags": [
-        "songs",
-        "lyrics",
         "music"
       ],
       "type": "text_choice",
@@ -603,19 +552,65 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "6239f845a72e7a347ac879db",
-      "correctAnswer": "Zulu",
+      "category": "film_and_tv",
+      "id": "624db9e1de6018633d31f6a8",
+      "correctAnswer": "Pierce Brosnan",
       "incorrectAnswers": [
-        "Zebra",
-        "Zoological",
-        "Zipper"
+        "Sean Connery",
+        "Daniel Craig",
+        "George Lazenby"
       ],
       "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter Z?"
+        "text": "Who played the role of James Bond in Die Another Day?"
       },
       "tags": [
-        "general_knowledge"
+        "james_bond",
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f449da29df7b05f7391",
+      "correctAnswer": "A sole survivor tells of the events leading up to a horrific gun battle on a boat.",
+      "incorrectAnswers": [
+        "A withdrawn boy who communicates with spirits seeks the help of a child psychologist.",
+        "Explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "The stepdaughter of a sadistic army officer escapes into an eerie fantasy world."
+      ],
+      "question": {
+        "text": "What is the plot of the movie The Usual Suspects?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611f6a4b176d54800e3d57",
+      "correctAnswer": "2020",
+      "incorrectAnswers": [
+        "2019",
+        "2021",
+        "2018"
+      ],
+      "question": {
+        "text": "When was COVID-19 declared a Global Pandemic?"
+      },
+      "tags": [
+        "events",
+        "medicine",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -624,20 +619,18 @@
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94fe47",
-      "correctAnswer": "Burma",
+      "id": "62602ead4b176d54800e3ced",
+      "correctAnswer": "Taiwan",
       "incorrectAnswers": [
-        "Cambodia",
-        "Laos",
-        "Meenmar"
+        "South Korea",
+        "Malaysia",
+        "Philippines"
       ],
       "question": {
-        "text": "Myanmar was known as _____________ until 1989."
+        "text": "Tainan is a city in which country?"
       },
       "tags": [
-        "southeast_asia",
-        "names",
-        "previous_names",
+        "cities",
         "geography"
       ],
       "type": "text_choice",
@@ -646,21 +639,22 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "626288a84b176d54800e3dac",
-      "correctAnswer": "The World's Local Bank",
+      "category": "arts_and_literature",
+      "id": "648888605dba6c873ef65040",
+      "correctAnswer": "The meter",
       "incorrectAnswers": [
-        "There are some things money can't buy",
-        "Everywhere you want to be",
-        "Because Change Happens"
+        "The rhyme",
+        "The consonance",
+        "The alliteration"
       ],
       "question": {
-        "text": "What is the marketing slogan of HSBC?"
+        "text": "What word refers to the rhythmic structure of a poem?"
       },
       "tags": [
-        "business",
-        "marketing",
-        "society_and_culture"
+        "poetry",
+        "language",
+        "words",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
