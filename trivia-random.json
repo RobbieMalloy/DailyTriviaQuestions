@@ -1,23 +1,22 @@
 {
-  "gameDate": "2026-04-18",
+  "gameDate": "2026-04-19",
   "difficulty": "random",
   "results": [
     {
-      "category": "society_and_culture",
-      "id": "622a1c3a7cc59eab6f9511d9",
-      "correctAnswer": "Osiris",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e15",
+      "correctAnswer": "Marquis de Sade",
       "incorrectAnswers": [
-        "Set",
-        "Horus",
-        "Anubis"
+        "Nikolai Gogol",
+        "J. R. R. Tolkien",
+        "Virginia Woolf"
       ],
       "question": {
-        "text": "In Egyptian mythology, who was the husband of Isis?"
+        "text": "Which author wrote 'The 120 Days of Sodom'?"
       },
       "tags": [
-        "society_and_culture",
-        "mythology",
-        "ancient_egypt"
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -25,63 +24,42 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c367cc59eab6f950395",
-      "correctAnswer": "Duran Duran",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ea9",
+      "correctAnswer": "J. K. Rowling",
       "incorrectAnswers": [
-        "Elvis Costello",
-        "David Bowie",
-        "Janis Joplin"
+        "Christopher Tolkien",
+        "Philip Pullman",
+        "C. S. Lewis"
       ],
       "question": {
-        "text": "Who Had An 80's Hit With The Song 'Is There Something I Should Know'?"
+        "text": "Which author wrote 'Harry Potter and the Cursed Child'?"
       },
       "tags": [
-        "1980's",
-        "music"
+        "arts_and_literature"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "624334f6cfaae40c12961478",
-      "correctAnswer": "A Sow",
+      "category": "history",
+      "id": "62611f904b176d54800e3d61",
+      "correctAnswer": "1958",
       "incorrectAnswers": [
-        "A Gander",
-        "A Jenny",
-        "A Hen"
+        "1934",
+        "1942",
+        "1971"
       ],
       "question": {
-        "text": "What is a female pig known as?"
+        "text": "When was the pacemaker invented?"
       },
       "tags": [
-        "animals",
-        "biology",
-        "names",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9504d5",
-      "correctAnswer": "grasshoppers and crickets",
-      "incorrectAnswers": [
-        "the study and treatment of diseases of the urogenital tract",
-        "the biosphere and its relations to the lithosphere and atmosphere",
-        "male health and disease"
-      ],
-      "question": {
-        "text": "What is Orthopterology the study of?"
-      },
-      "tags": [
-        "science"
+        "events",
+        "medicine",
+        "inventions",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -90,40 +68,21 @@
     },
     {
       "category": "geography",
-      "id": "623b57c4fd6c701a9211837b",
-      "correctAnswer": "France",
+      "id": "649fcf8eebb41911d4cbd6df",
+      "correctAnswer": "Spain",
       "incorrectAnswers": [
-        "Belgium",
-        "Argentina",
-        "Israel"
+        "Mexico",
+        "Portugal",
+        "France"
       ],
       "question": {
-        "text": "In which country would you find the UNESCO World Heritage site of Mont Saint Michel?"
+        "text": "The world's first leaning skyscrapers, Puerto de Europa, can be found in which country?"
       },
       "tags": [
+        "architecture",
+        "buildings",
+        "skyscrapers",
         "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "645c9f4f42ea81e2554c5efa",
-      "correctAnswer": "Mr. T",
-      "incorrectAnswers": [
-        "Carl Weathers",
-        "Hulk Hogan",
-        "Dolph Lundgren"
-      ],
-      "question": {
-        "text": "Which actor played the character Clubber Lang, the rival of Sylvester Stallone's character in Rocky III?"
-      },
-      "tags": [
-        "film_and_tv",
-        "film",
-        "acting"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -132,19 +91,43 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f95008e",
-      "correctAnswer": "Southpaw",
+      "id": "622a1c347cc59eab6f94f8ab",
+      "correctAnswer": "Basketball",
       "incorrectAnswers": [
-        "Goofy",
-        "Regular",
-        "Orthodox"
+        "Gymnastics",
+        "Rowing",
+        "Volleyball"
       ],
       "question": {
-        "text": "What Do You Call A Boxer Who Leads With Their Right? "
+        "text": "With which sport is Michael Jordan associated?"
       },
       "tags": [
-        "boxing",
+        "people",
+        "general_knowledge",
         "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6490c60158265893a0c86db8",
+      "correctAnswer": "The apple doesn't fall far from the tree",
+      "incorrectAnswers": [
+        "Money doesn't grow on trees",
+        "It's raining cats and dogs",
+        "A bird in the hand is worth two in the bush"
+      ],
+      "question": {
+        "text": "Which popular idiom refers to a child inheriting traits or qualities of their parents?"
+      },
+      "tags": [
+        "sayings",
+        "phrases",
+        "idioms",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -152,21 +135,85 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503d0",
-      "correctAnswer": "The Black Prince",
+      "category": "general_knowledge",
+      "id": "6239f8049129041bf3925cbe",
+      "correctAnswer": "Bravo",
       "incorrectAnswers": [
-        "The White Prince",
-        "The Red Prince",
-        "The Green Prince"
+        "Boot",
+        "Ball",
+        "Baby"
       ],
       "question": {
-        "text": "What was The Eldest Son Of Edward III Better Known As?"
+        "text": "What word is used in the NATO Phonetic Alphabet for the letter B?"
       },
       "tags": [
-        "kings",
-        "uk",
-        "nicknames",
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ff7f",
+      "correctAnswer": "Manila",
+      "incorrectAnswers": [
+        "Quezon City",
+        "Cebu City",
+        "Makati"
+      ],
+      "question": {
+        "text": "What Is The Capital Of The Philippines?"
+      },
+      "tags": [
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "63dd25de742e43ed64f1f03a",
+      "correctAnswer": "George Costanza",
+      "incorrectAnswers": [
+        "Kramer",
+        "Elaine Benes",
+        "Jerry Seinfeld"
+      ],
+      "question": {
+        "text": "What is the name of the character played by Jason Alexander on the show 'Seinfeld'?"
+      },
+      "tags": [
+        "film_and_tv",
+        "tv",
+        "sitcoms"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611fd8014f58b5fc1a3fd1",
+      "correctAnswer": "1996",
+      "incorrectAnswers": [
+        "1986",
+        "1991",
+        "2001"
+      ],
+      "question": {
+        "text": "In which year was a mammal first cloned?"
+      },
+      "tags": [
+        "events",
+        "firsts",
+        "animals",
         "history"
       ],
       "type": "text_choice",
@@ -175,41 +222,85 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "64746b005a4c31088dd9d005",
-      "correctAnswer": "Hermana",
+      "category": "film_and_tv",
+      "id": "645f94ec541c4d4fc8cf2e71",
+      "correctAnswer": "Emilio Estevez",
       "incorrectAnswers": [
-        "Familia",
-        "Amor",
-        "Nina"
+        "Martin Sheen",
+        "Joe Estevez",
+        "Christian Slater"
       ],
       "question": {
-        "text": "What term of endearment is appropriate for your sister in Spanish?"
+        "text": "What is the name of the older brother of Charlie Sheen who made his feature film debut in \"Tex\" at the age of 20?"
       },
       "tags": [
-        "spanish",
-        "language"
+        "film",
+        "film_and_tv",
+        "acting",
+        "siblings"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623735ffcfe13103f55eb58f",
-      "correctAnswer": "Ukraine",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f45",
+      "correctAnswer": "Edgar Allan Poe",
       "incorrectAnswers": [
-        "Antigua and Barbuda",
-        "Equatorial Guinea",
-        "Uruguay"
+        "Stephen King",
+        "Nathaniel Hawthorne",
+        "Mario Puzo"
       ],
       "question": {
-        "text": "Which region of the world uses '.ua' at the end of its web addresses?"
+        "text": "Which author wrote 'The Fall of the House of Usher'?"
       },
       "tags": [
-        "the_internet",
-        "geography"
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625064d3e12f6dec240bdfd0",
+      "correctAnswer": "Heart And Soul",
+      "incorrectAnswers": [
+        "Electric Avenue",
+        "Smokin' in the Boys Room",
+        "Seasons in the Sun"
+      ],
+      "question": {
+        "text": "T'Pau had a one hit wonder in 1987 with which song?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950536",
+      "correctAnswer": "Lightning",
+      "incorrectAnswers": [
+        "Prehistoric life",
+        "Wine and winemaking",
+        "Movement in relation to human anatomy"
+      ],
+      "question": {
+        "text": "What is fulminology the study of?"
+      },
+      "tags": [
+        "science",
+        "words"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -218,317 +309,15 @@
     },
     {
       "category": "food_and_drink",
-      "id": "624c616fbadf21197f98f77c",
-      "correctAnswer": "Verivorst",
+      "id": "6233880f0161109f922aac62",
+      "correctAnswer": "Singapore Sling ",
       "incorrectAnswers": [
-        "Cou Cou and Flying Fish",
-        "Plov",
-        "Pad Thai"
+        "Mojito",
+        "Daiqiri",
+        "Manhattan"
       ],
       "question": {
-        "text": "Which of these dishes would you most expect to find in Estonia?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503a3",
-      "correctAnswer": "The Inquisition",
-      "incorrectAnswers": [
-        "The Papacy",
-        "The Monad",
-        "The Cardinality"
-      ],
-      "question": {
-        "text": "Which Institution Was Founded By The Roman Catholic Church In The 13th Century To Root Out Heresy?"
-      },
-      "tags": [
-        "christianity",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950854",
-      "correctAnswer": "Iraq",
-      "incorrectAnswers": [
-        "Bahrain",
-        "Qatar",
-        "Iran"
-      ],
-      "question": {
-        "text": "Which of these countries borders Kuwait?"
-      },
-      "tags": [
-        "the_middle_east",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6502100c2b411b896c984b1e",
-      "correctAnswer": "Marion Cotillard",
-      "incorrectAnswers": [
-        "Angelina Jolie",
-        "Jennifer Lawrence",
-        "Scarlett Johansson"
-      ],
-      "question": {
-        "text": "In the 2016 film 'Allied', which actress stars opposite Brad Pitt as his wife and fellow spy?"
-      },
-      "tags": [
-        "movies",
-        "actors",
-        "spy"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6257410e3d2f5c16bfb8833e",
-      "correctAnswer": "Spotlight",
-      "incorrectAnswers": [
-        "Django Unchained",
-        "Trainspotting",
-        "Catch Me If You Can"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'The story of how the scandal of child molestation within the Boston Catholic church was uncovered.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62ab33025202de619af28137",
-      "correctAnswer": "Opel",
-      "incorrectAnswers": [
-        "Honda",
-        "Ford",
-        "Rolls-Royce"
-      ],
-      "question": {
-        "text": "The Corsa is a model of car made by which manufacturer?"
-      },
-      "tags": [
-        "motoring",
-        "business",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6477ba9d550bc819ad646ae8",
-      "correctAnswer": "Manscaping",
-      "incorrectAnswers": [
-        "Bodyculture",
-        "Topihairy",
-        "Guydening"
-      ],
-      "question": {
-        "text": "What is the slang term for removing body hair from men?"
-      },
-      "tags": [
-        "words",
-        "society_and_culture",
-        "slang"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fdcb",
-      "correctAnswer": "2",
-      "incorrectAnswers": [
-        "1/2",
-        "4",
-        "8"
-      ],
-      "question": {
-        "text": "How Many Crotchets Do You Get In A Minim?"
-      },
-      "tags": [
-        "words",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639898425c9a75021f31046d",
-      "correctAnswer": "Operation Bagration",
-      "incorrectAnswers": [
-        "Operation Barbarossa",
-        "Operation Overlord",
-        "Operation Market Garden"
-      ],
-      "question": {
-        "text": "What was the name of the Soviet Union's counter-attack on Germany in 1944?"
-      },
-      "tags": [
-        "history",
-        "world_war_2",
-        "wars"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9503cb",
-      "correctAnswer": "Holiday Inn",
-      "incorrectAnswers": [
-        "Miracle on 34th Street",
-        "White Christmas",
-        "The Holly & The Ivy"
-      ],
-      "question": {
-        "text": "What Was The Name Of The Film Which First Featured Bing Crosby's Song 'White Christmas''?"
-      },
-      "tags": [
-        "christmas",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "626288ac4b176d54800e3dad",
-      "correctAnswer": "Google",
-      "incorrectAnswers": [
-        "Nokia",
-        "PlayStation",
-        "Panasonic"
-      ],
-      "question": {
-        "text": "Which technology brand is associated with the marketing slogan 'Don't Be Evil'?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "technology",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b5815fd6c701a92118398",
-      "correctAnswer": "The UK",
-      "incorrectAnswers": [
-        "Norway",
-        "New Zealand",
-        "South Africa"
-      ],
-      "question": {
-        "text": "In which country would you find the UNESCO World Heritage site of the Dorset and East Devon Coast?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6477bada550bc819ad646b4e",
-      "correctAnswer": "Juan Valdez",
-      "incorrectAnswers": [
-        "Emilio Estefan",
-        "Pablo Escobar",
-        "Fidel Castro"
-      ],
-      "question": {
-        "text": "Which of these men is a fictional character used to market Colombian coffee growers, and is always seen with his mule named Conchita?"
-      },
-      "tags": [
-        "advertising",
-        "marketing",
-        "society_and_culture",
-        "coffee"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9505a9",
-      "correctAnswer": "The effect of light on chemicals",
-      "incorrectAnswers": [
-        "Animal behaviour",
-        "Ticks and mites",
-        "Fresh water environments"
-      ],
-      "question": {
-        "text": "What is Actinology the study of?"
-      },
-      "tags": [
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950be9",
-      "correctAnswer": "Nightwish",
-      "incorrectAnswers": [
-        "Haloo Helsinki!",
-        "Hanoi Rocks",
-        "Children of Bodom"
-      ],
-      "question": {
-        "text": "Which Finnish symphonic metal band released the album 'Once'?"
+        "text": "Which Cocktail Was Invented At The Raffles Hotel?"
       },
       "tags": [],
       "type": "text_choice",
@@ -537,23 +326,150 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "62c2fa15b3eadb0437fda6c2",
-      "correctAnswer": "Swarovski",
+      "category": "science",
+      "id": "63e13a19106de6ffa7d4a794",
+      "correctAnswer": "Kidney",
       "incorrectAnswers": [
-        "Mustang",
-        "Ferrari",
-        "Bacardi"
+        "Liver",
+        "Spleen",
+        "Heart"
       ],
       "question": {
-        "text": "Which of these brands has a swan on its logo?"
+        "text": "What is the name of the organ that filters blood?"
       },
       "tags": [
-        "society_and_culture",
-        "business",
-        "marketing",
-        "animals",
-        "birds"
+        "science",
+        "biology",
+        "anatomy",
+        "medicine"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64633a0b01d576cfac3aa3d9",
+      "correctAnswer": "Potassium",
+      "incorrectAnswers": [
+        "Uranium",
+        "Lead",
+        "Iron"
+      ],
+      "question": {
+        "text": "What metal that is so soft it can be cut with a knife?"
+      },
+      "tags": [
+        "chemistry",
+        "elements",
+        "metals",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fce3",
+      "correctAnswer": "Austronesian",
+      "incorrectAnswers": [
+        "Sino-Tibetan",
+        "Indo-European",
+        "Austroasiatic"
+      ],
+      "question": {
+        "text": "The language 'Indonesian' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6271641a1ba117625baac947",
+      "correctAnswer": "Bolivia",
+      "incorrectAnswers": [
+        "Ukraine",
+        "China",
+        "Belgium"
+      ],
+      "question": {
+        "text": "In which country is singani a popular drink?"
+      },
+      "tags": [
+        "drink",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623385d662eaad73716a8c97",
+      "correctAnswer": "Mount Whitney",
+      "incorrectAnswers": [
+        "Mount Rushmore",
+        "Mount Elbert",
+        "Mount Rainier"
+      ],
+      "question": {
+        "text": "What's the highest mountain in the 48 contiguous U.S. states?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623741e3cb85f7ce9e949d94",
+      "correctAnswer": "Asunción",
+      "incorrectAnswers": [
+        "Praia",
+        "Vilnius",
+        "Castries"
+      ],
+      "question": {
+        "text": "What is the capital city of Paraguay?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fabb",
+      "correctAnswer": "Joaquin Phoenix",
+      "incorrectAnswers": [
+        "Antonio Banderas",
+        "Leonardo DiCaprio",
+        "Adam Driver"
+      ],
+      "question": {
+        "text": "Who won the 2019 Academy Award for Best Leading Actor for playing the role of Arthur Fleck in Joker?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "academy_awards",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -562,20 +478,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8d3",
-      "correctAnswer": "Glenn Close",
+      "id": "622a1c377cc59eab6f950714",
+      "correctAnswer": "Maggie Smith",
       "incorrectAnswers": [
-        "Olivia Newton-John",
-        "Judy Garland",
-        "Anne Bancroft"
+        "Kathy Bates",
+        "Sandra Bæ Hovedr",
+        "Kirsten Dunst"
       ],
       "question": {
-        "text": "Which actress played the role of Alex Forrest in Fatal Attraction?"
+        "text": "Which actress has starred in films including Gosford Park and Downton Abbey?"
       },
       "tags": [
-        "film",
         "acting",
-        "film_and_tv"
+        "film"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -583,43 +498,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fb8c",
-      "correctAnswer": "\"In da Club\" by 50 Cent",
+      "category": "science",
+      "id": "622a1c377cc59eab6f9505a1",
+      "correctAnswer": "The causes and treatment of allergies",
       "incorrectAnswers": [
-        "\"All Star\" by Smash Mouth",
-        "\"Gimme More\" by Britney Spears",
-        "\"I Write Sins Not Tragedies\" by Panic! at the Disco"
+        "Wine",
+        "Fossils of ancient life",
+        "Interactions between organisms and geomorphological processes"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"Go shawty, it's your birthday, we gon' party like it's yo birthday.\"?"
+        "text": "What is Allergology the study of?"
       },
       "tags": [
-        "songs",
-        "lyrics",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f94a",
-      "correctAnswer": "Rain Man",
-      "incorrectAnswers": [
-        "The Godfather",
-        "The 400 Blows",
-        "Fast Times at Ridgemont High"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Raymond Babbitt'?"
-      },
-      "tags": [
-        "fictitious_characters",
-        "film",
-        "film_and_tv"
+        "words",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -628,18 +520,131 @@
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f951a4e",
-      "correctAnswer": "France",
+      "id": "622a1c367cc59eab6f9503bd",
+      "correctAnswer": "The Declaration Of Independence",
       "incorrectAnswers": [
-        "Italy",
-        "England",
-        "China"
+        "The Constitution",
+        "The Emancipation Procalation",
+        "The Liberty Decree"
       ],
       "question": {
-        "text": "The Eldest Sons Of The Kings Of Which Country Had The Title 'Dauphin'?"
+        "text": "Which 1776 American Affirmation Asserted The Basic Rights Of All?"
       },
       "tags": [
         "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ec877f41d6338b96eef7",
+      "correctAnswer": "Julius Caesar",
+      "incorrectAnswers": [
+        "Augustus Caesar",
+        "Claudius",
+        "Nero"
+      ],
+      "question": {
+        "text": "Which Roman ruler oversaw the demise of the Roman Republic to be replaced with a Roman Empire?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture",
+        "romans",
+        "classics",
+        "empires"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "63adbd6904c68cc1e14b8e31",
+      "correctAnswer": "Josephine de Beauharnais",
+      "incorrectAnswers": [
+        "Marie Louise of Austria",
+        "Maria Walewska",
+        "Marie Antoinette"
+      ],
+      "question": {
+        "text": "Who was Napoleon's first wife?"
+      },
+      "tags": [
+        "history",
+        "napoleonic_wars",
+        "people",
+        "france"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbfe",
+      "correctAnswer": "\"Striker: Surely you can't be serious.\"",
+      "incorrectAnswers": [
+        "\"Greed, for lack of a better word, is good.\"",
+        "\"With great power comes great responsiblity.\"",
+        "\"I’m already pregnant. So, what other shenanigans could I get myself into?\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Airplane!'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63a03940c7d86251f9b65c2b",
+      "correctAnswer": "Hydrogen",
+      "incorrectAnswers": [
+        "Helium",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "question": {
+        "text": "What is the most common element in the universe?"
+      },
+      "tags": [
+        "astrophysics",
+        "science",
+        "chemistry"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3d7cc59eab6f951c11",
+      "correctAnswer": "All Hallows Eve",
+      "incorrectAnswers": [
+        "Hallowed Between",
+        "Hello Satan",
+        "Hall of Winter"
+      ],
+      "question": {
+        "text": "From which phrase is the word Halloween Derived?"
+      },
+      "tags": [
+        "halloween",
+        "words"
       ],
       "type": "text_choice",
       "difficulty": "medium",

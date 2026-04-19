@@ -1,21 +1,132 @@
 {
-  "gameDate": "2026-04-18",
+  "gameDate": "2026-04-19",
   "difficulty": "easy",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc10",
-      "correctAnswer": "\"Elementary, my dear Watson.\"",
+      "category": "society_and_culture",
+      "id": "63dd25c7742e43ed64f1f016",
+      "correctAnswer": "Elon Musk",
       "incorrectAnswers": [
-        "\"Keep your friends close, but your enemies closer.\"",
-        "\"My mother thanks you. My father thanks you. My sister thanks you. And I thank you.\"",
-        "\"My precious.\""
+        "Jeff Bezos",
+        "Bill Gates",
+        "Mark Zuckerberg"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'The Adventures of Sherlock Holmes'?"
+        "text": "What is the name of the founder of Tesla Motors?"
       },
       "tags": [
-        "quotes",
+        "society_and_culture",
+        "business",
+        "people",
+        "motoring"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "64a094bccf8fd58080ceffda",
+      "correctAnswer": "A touchdown",
+      "incorrectAnswers": [
+        "A field goal",
+        "An interception",
+        "A sack"
+      ],
+      "question": {
+        "text": "In the sport of American football, what is the term for scoring 6 points by carrying the ball into the opponent's end zone?"
+      },
+      "tags": [
+        "football",
+        "american_football",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6486be3159bc33d1c362f320",
+      "correctAnswer": "St. Valentine",
+      "incorrectAnswers": [
+        "St. Patrick",
+        "St. Michael",
+        "St. Francis"
+      ],
+      "question": {
+        "text": "Which saint is celebrated on February 14th?"
+      },
+      "tags": [
+        "traditions",
+        "celebrations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9ee8796f721e95543f75",
+      "correctAnswer": "Three equal vertical bands of green white and red.",
+      "incorrectAnswers": [
+        "Three equal horizontal bands of red white and black.",
+        "Red with a green five-pointed star in the center.",
+        "Red field with a yellow sun in the center."
+      ],
+      "question": {
+        "text": "What does the flag of Italy look like?"
+      },
+      "tags": [
+        "flags",
+        "italy",
+        "europe",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f96f",
+      "correctAnswer": "1984",
+      "incorrectAnswers": [
+        "Parade's End",
+        "The Age of Innocence",
+        "Howards End"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Big Brother'?"
+      },
+      "tags": [
+        "literature",
+        "general_knowledge",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740f39da29df7b05f7404",
+      "correctAnswer": "A young girl and her dog are swept away by a tornado from their Kansas farm to a magical land.",
+      "incorrectAnswers": [
+        "A man with short-term memory loss attempts to track down his wife's murderer.",
+        "The jury in a murder trial is frustrated by a member whose caution forces them to consider the evidence.",
+        "A former neo-nazi tries to prevent his brother from going down the same path that he did."
+      ],
+      "question": {
+        "text": "What is the plot of the movie The Wizard of Oz?"
+      },
+      "tags": [
         "film",
         "film_and_tv"
       ],
@@ -25,19 +136,341 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff53",
-      "correctAnswer": "Michael Jackson",
+      "category": "general_knowledge",
+      "id": "622a1c367cc59eab6f9503f9",
+      "correctAnswer": "Robots",
       "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
+        "Aliens",
+        "Gods",
+        "Wizards"
       ],
       "question": {
-        "text": "Which American singer released the album 'Dangerous'?"
+        "text": "Transformers are ___________ in disguise. "
       },
       "tags": [
-        "music_albums",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f9522cb",
+      "correctAnswer": "Hydroponics",
+      "incorrectAnswers": [
+        "Aquonics",
+        "Horticulture",
+        "Waterculture"
+      ],
+      "question": {
+        "text": "What is the name given to the practice of growing plants in liquids rather than soil?"
+      },
+      "tags": [
+        "plants",
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ece67f41d6338b96ef13",
+      "correctAnswer": "Menes",
+      "incorrectAnswers": [
+        "Rene Descartes",
+        "Imhotep",
+        "Diogenes"
+      ],
+      "question": {
+        "text": "Which influential historical person was an Egyptian pharaoh who united Upper and Lower Egypt to found the First Dynasty?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture",
+        "ancient_egypt"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a08",
+      "correctAnswer": "Holocaust",
+      "incorrectAnswers": [
+        "Auchterarder",
+        "Blitzkrieg",
+        "Luftwaffe"
+      ],
+      "question": {
+        "text": "Which word describes the Nazi genocide of Jews?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602e034b176d54800e3cbb",
+      "correctAnswer": "Bilbao",
+      "incorrectAnswers": [
+        "Dublin",
+        "Stuttgart",
+        "Cologne"
+      ],
+      "question": {
+        "text": "Which of these cities is in Spain?"
+      },
+      "tags": [
+        "cities",
+        "europe",
+        "spain",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d11",
+      "correctAnswer": "The Beatles",
+      "incorrectAnswers": [
+        "The Who",
+        "The Clash",
+        "Pink Floyd"
+      ],
+      "question": {
+        "text": "Which English rock band released the song 'Here Comes the Sun'?"
+      },
+      "tags": [
+        "rock_music",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "6463391401d576cfac3aa316",
+      "correctAnswer": "Curds & Whey",
+      "incorrectAnswers": [
+        "Bread & Butter",
+        "Neaps & Tatties",
+        "Apples & Pears"
+      ],
+      "question": {
+        "text": "In \"Little Miss Muffet\", what are the two foods being consumed by Miss Muffet when the spider frightens her?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink",
+        "nursery_rhymes",
+        "society_and_culture",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "627164241ba117625baac94a",
+      "correctAnswer": "Scotland",
+      "incorrectAnswers": [
+        "Italy",
+        "Romania",
+        "Mexico"
+      ],
+      "question": {
+        "text": "Which country is associated with the drink whisky?"
+      },
+      "tags": [
+        "drink",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c3e7cc59eab6f95222a",
+      "correctAnswer": "Texas",
+      "incorrectAnswers": [
+        "Florida",
+        "Michigan",
+        "California"
+      ],
+      "question": {
+        "text": "In which US state is the Houston Space Centre?"
+      },
+      "tags": [
+        "geography",
+        "places",
+        "usa"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95031c",
+      "correctAnswer": "Boudica",
+      "incorrectAnswers": [
+        "Joan of Arc",
+        "Zenobia",
+        "Fulvia"
+      ],
+      "question": {
+        "text": "Who Was the Queen Of The Iceni Tribe Of England Who Led An Uprising Against The Romans?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "63b0588a4799123c67712f56",
+      "correctAnswer": "Corona",
+      "incorrectAnswers": [
+        "Budweiser",
+        "Coors",
+        "Heineken"
+      ],
+      "question": {
+        "text": "Which of these is a popular Mexican beer?"
+      },
+      "tags": [
+        "mexico",
+        "drink",
+        "beer",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c377cc59eab6f950425",
+      "correctAnswer": "Chestnuts",
+      "incorrectAnswers": [
+        "Mistletoe",
+        "Santa",
+        "Marshmallows"
+      ],
+      "question": {
+        "text": "In the Christmas song what was 'Roasting on an Open Fire'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "65056f767a97013de78b5451",
+      "correctAnswer": "West",
+      "incorrectAnswers": [
+        "North",
+        "South",
+        "East"
+      ],
+      "question": {
+        "text": "What direction is the opposite of East?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9e85796f721e95543f5c",
+      "correctAnswer": "France",
+      "incorrectAnswers": [
+        "Gabon",
+        "Belgium",
+        "Lithuania"
+      ],
+      "question": {
+        "text": "Which of these countries has white on its flag?"
+      },
+      "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f951364",
+      "correctAnswer": "Mural",
+      "incorrectAnswers": [
+        "Sculpture",
+        "Graffiti",
+        "Mozaic"
+      ],
+      "question": {
+        "text": "A large painting or decoration done on a wall is known as what?"
+      },
+      "tags": [
+        "art",
+        "words",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff14",
+      "correctAnswer": "Madonna",
+      "incorrectAnswers": [
+        "Eric Clapton",
+        "Nicki Minaj",
+        "Alanis Morissette"
+      ],
+      "question": {
+        "text": "The iconic song 'Vogue' was a hit by which musician?"
+      },
+      "tags": [
+        "songs",
         "musicians",
         "1980's",
         "general_knowledge",
@@ -49,423 +482,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f9522a9",
-      "correctAnswer": "360",
-      "incorrectAnswers": [
-        "1",
-        "100",
-        "3.14"
-      ],
-      "question": {
-        "text": "How many degrees are there in a circle?"
-      },
-      "tags": [
-        "shapes",
-        "science",
-        "mathematics",
-        "numbers",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "647f9df73a4302a719271698",
-      "correctAnswer": "Twister",
-      "incorrectAnswers": [
-        "Spinster",
-        "Twirlster",
-        "Rollster"
-      ],
-      "question": {
-        "text": "What is the slang term commonly used for a tornado?"
-      },
-      "tags": [
-        "slang",
-        "natural_disasters",
-        "meteorology",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "63d95307168979b94b2e4f7e",
-      "correctAnswer": "Big Bang Theory",
-      "incorrectAnswers": [
-        "General Relativity",
-        "String Theory",
-        "Quantum Theory"
-      ],
-      "question": {
-        "text": "What is the name of the scientific theory that states that the universe began with a singularity?"
-      },
-      "tags": [
-        "science",
-        "physics",
-        "astrophysics",
-        "space"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "648889175dba6c873ef650de",
-      "correctAnswer": "Endangered species",
-      "incorrectAnswers": [
-        "Exotic species",
-        "Invasive species",
-        "Declining species"
-      ],
-      "question": {
-        "text": "What is the term for animals that are at risk of becoming extinct?"
-      },
-      "tags": [
-        "biology",
-        "animals",
-        "nature",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602dc44b176d54800e3cac",
-      "correctAnswer": "Glasgow",
-      "incorrectAnswers": [
-        "Baltimore",
-        "Houston",
-        "Minneapolis-St Paul"
-      ],
-      "question": {
-        "text": "Which of these cities is in United Kingdom?"
-      },
-      "tags": [
-        "cities",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63e4c353106de6ffa7d4a7d2",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "White",
-        "Blue",
-        "Purple"
-      ],
-      "question": {
-        "text": "What is the traditional color associated with Valentine's Day?"
-      },
-      "tags": [
-        "society_and_culture",
-        "traditions",
-        "colours"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "646b3ec40361c7fb32d6b6cf",
-      "correctAnswer": "Vatican City",
-      "incorrectAnswers": [
-        "Monaco",
-        "Nauru",
-        "San Marino"
-      ],
-      "question": {
-        "text": "What is the smallest country in the world?"
-      },
-      "tags": [
-        "geography",
-        "countries"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "645bc4634638d58091b1b9d2",
-      "correctAnswer": "Mamma Mia!",
+      "id": "622a1c397cc59eab6f950d48",
+      "correctAnswer": "One Direction",
       "incorrectAnswers": [
-        "Grease",
-        "West Side Story",
-        "Les Misérables"
+        "Blur",
+        "The Beatles",
+        "U2"
       ],
       "question": {
-        "text": "Which popular musical features the music of ABBA?"
-      },
-      "tags": [
-        "musicals",
-        "music",
-        "abba",
-        "theater"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602d3d4b176d54800e3c89",
-      "correctAnswer": "Shanghai",
-      "incorrectAnswers": [
-        "Brisbane",
-        "Yokohama",
-        "Osaka"
-      ],
-      "question": {
-        "text": "Which of these cities is in China?"
-      },
-      "tags": [
-        "cities",
-        "asia",
-        "china"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056fa67a97013de78b5492",
-      "correctAnswer": "Husky",
-      "incorrectAnswers": [
-        "Boxer",
-        "Dachshund",
-        "Dalmatian"
-      ],
-      "question": {
-        "text": "Which dog breed is commonly used as a sled dog in Arctic and subarctic regions?"
-      },
-      "tags": [
-        "animals",
-        "dogs",
-        "sled-dog",
-        "husky"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff4c",
-      "correctAnswer": "Michael Jackson",
-      "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
-      ],
-      "question": {
-        "text": "Who released the studio album 'Invincible'?"
-      },
-      "tags": [
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64626214ab138b829b81e9bb",
-      "correctAnswer": "Apples",
-      "incorrectAnswers": [
-        "Bananas",
-        "Cherries",
-        "Oranges"
-      ],
-      "question": {
-        "text": "What fruit allegedly keeps the doctor away if you eat one per day?"
-      },
-      "tags": [
-        "food",
-        "fruit",
-        "food_and_drink",
-        "sayings",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602dab957e77cecfa4ec32",
-      "correctAnswer": "Mumbai",
-      "incorrectAnswers": [
-        "Sydney",
-        "Taipei",
-        "Yokohama"
-      ],
-      "question": {
-        "text": "Which of these cities is in India?"
-      },
-      "tags": [
-        "cities",
-        "asia",
-        "india",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501c8",
-      "correctAnswer": "The Hobbit",
-      "incorrectAnswers": [
-        "Charlotte's Web",
-        "Alice's Adventures in Wonderland",
-        "Bluebeard"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'In a hole in the ground there lived a hobbit.'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602e6d4b176d54800e3cda",
-      "correctAnswer": "Cape Town",
-      "incorrectAnswers": [
-        "Douala",
-        "Port Harcourt",
-        "Nairobi"
-      ],
-      "question": {
-        "text": "Which of these cities is in South Africa?"
-      },
-      "tags": [
-        "cities",
-        "africa",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624dba52de6018633d31f6c0",
-      "correctAnswer": "Adele",
-      "incorrectAnswers": [
-        "Jack White and Alicia Keys",
-        "Madonna",
-        "Chris Cornell"
-      ],
-      "question": {
-        "text": "Who performed the theme song to the James Bond film Skyfall?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "soundtracks",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94febf",
-      "correctAnswer": "Beyoncé",
-      "incorrectAnswers": [
-        "Madonna",
-        "Drake",
-        "Nicki Minaj"
-      ],
-      "question": {
-        "text": "Which American singer, actress and record producer released the song 'Single Ladies (Put a Ring on It)'?"
-      },
-      "tags": [
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eaf",
-      "correctAnswer": "J. K. Rowling",
-      "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
-      ],
-      "question": {
-        "text": "Which author wrote 'Harry Potter and the Half-Blood Prince'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ebdc7f41d6338b96eec5",
-      "correctAnswer": "Moses",
-      "incorrectAnswers": [
-        "Mohammed",
-        "Frodo",
-        "Buddha"
-      ],
-      "question": {
-        "text": "Who of these was a key figure of Jewish/Christian history?"
+        "text": "Which band did Liam Payne belong to?"
       },
       "tags": [
         "people",
-        "society_and_culture",
-        "christianity",
-        "judaism",
-        "religion"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -474,18 +504,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcf8",
-      "correctAnswer": "Turkic",
+      "id": "648614a2f773f09dc0193b3c",
+      "correctAnswer": "Mice",
       "incorrectAnswers": [
-        "Koreanic",
-        "Afroasiatic",
-        "Niger–Congo"
+        "Lions",
+        "Dogs",
+        "Monkeys"
       ],
       "question": {
-        "text": "The language 'Turkish' belongs to which language family?"
+        "text": "Fill in the blank: \"The best-laid schemes of _____ and men.\""
       },
       "tags": [
-        "language",
+        "idioms",
+        "sayings",
+        "phrases",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -494,63 +526,20 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8ae",
-      "correctAnswer": "Swimming",
+      "category": "film_and_tv",
+      "id": "625740f69da29df7b05f7405",
+      "correctAnswer": "Rocky",
       "incorrectAnswers": [
-        "Figure skating",
-        "Track and field",
-        "Boxing"
+        "Amélie",
+        "The Deer Hunter",
+        "Schindler's List"
       ],
       "question": {
-        "text": "With which sport is Michael Phelps associated?"
+        "text": "Name the movie that matches the following plot summary: 'A small-time boxer gets a chance to fight the world heavyweight champion.'"
       },
       "tags": [
-        "olympics",
-        "people",
-        "general_knowledge",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "65056f7f7a97013de78b545e",
-      "correctAnswer": "Cricket",
-      "incorrectAnswers": [
-        "Javelin throw",
-        "Archery",
-        "Karate"
-      ],
-      "question": {
-        "text": "Which of these sports uses a ball?"
-      },
-      "tags": [
-        "sport_and_leisure",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951071",
-      "correctAnswer": "Leeches",
-      "incorrectAnswers": [
-        "Vampire Bats",
-        "Cobras",
-        "Wasps"
-      ],
-      "question": {
-        "text": "What Creatures Were Frequently Used To Bleed Patients In The Nineteeth Century?"
-      },
-      "tags": [
-        "science"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -559,41 +548,21 @@
     },
     {
       "category": "food_and_drink",
-      "id": "63f394f8989356ef48370bcd",
-      "correctAnswer": "Strawberry",
+      "id": "648889135dba6c873ef650b8",
+      "correctAnswer": "Parsley",
       "incorrectAnswers": [
-        "Nectarine",
-        "Peach",
-        "Cherry"
+        "Basil",
+        "Oregano",
+        "Thyme"
       ],
       "question": {
-        "text": "Which of these fruits does not contain a stone?"
+        "text": "Which herb is often used as a garnish and comes in curly-leaf and flat-leaf varieties?"
       },
       "tags": [
-        "food_and_drink",
+        "cooking",
+        "herbs",
         "food",
-        "fruit"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "64a9daf98e13b3b23eb9fde7",
-      "correctAnswer": "Propellers",
-      "incorrectAnswers": [
-        "Fans",
-        "Turbines",
-        "Spinnies"
-      ],
-      "question": {
-        "text": "What are the rotating blades on an aircraft called?"
-      },
-      "tags": [
-        "aviation",
-        "words"
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -602,20 +571,21 @@
     },
     {
       "category": "society_and_culture",
-      "id": "64746b6f5a4c31088dd9d05b",
-      "correctAnswer": "Bell-bottoms",
+      "id": "6463395501d576cfac3aa355",
+      "correctAnswer": "Bigfoot",
       "incorrectAnswers": [
-        "Cargo pants",
-        "Three-quarter lengths",
-        "Trumpet pants"
+        "Loch Ness Monster",
+        "Yeti",
+        "Chupacabra"
       ],
       "question": {
-        "text": "What type of flared pants were popular during the era of disco music?"
+        "text": "Which legendary creature is thought to inhabit the forests of North America, standing up to 10 feet tall and weighing about 500 pounds?"
       },
       "tags": [
-        "fashion",
+        "mythology",
+        "legends",
         "society_and_culture",
-        "clothing"
+        "usa"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -623,19 +593,21 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3f7cc59eab6f952399",
-      "correctAnswer": "Petri dish",
+      "category": "society_and_culture",
+      "id": "646262b8ab138b829b81ea55",
+      "correctAnswer": "Kimono",
       "incorrectAnswers": [
-        "Bunson burner",
-        "Erlenmeyer flask",
-        "Graduated cylinder"
+        "Cheongsam",
+        "Sari",
+        "Hijab"
       ],
       "question": {
-        "text": "What is the name for a shallow dish with a cover, used for science specimens?"
+        "text": "What is the Asian-style robe that is often used as a dressing gown?"
       },
       "tags": [
-        "science"
+        "clothing",
+        "fashion",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -643,23 +615,42 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "625063b1e12f6dec240bdf7b",
-      "correctAnswer": "Ice Ice Baby",
+      "category": "food_and_drink",
+      "id": "65056ed77a97013de78b5372",
+      "correctAnswer": "Cranberry",
       "incorrectAnswers": [
-        "I Want Candy",
-        "Baby Got Back",
-        "We're Not Gonna Take It"
+        "Land cress",
+        "Spinach",
+        "Mustard"
       ],
       "question": {
-        "text": "Vanilla Ice had a one hit wonder in 1990 with which song?"
+        "text": "Which of these is a fruit?"
       },
       "tags": [
-        "songs",
-        "one_hit_wonders",
-        "1990's",
-        "general_knowledge",
-        "music"
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951c85",
+      "correctAnswer": "Watergate",
+      "incorrectAnswers": [
+        "Hotelgate",
+        "Croneygate",
+        "Corruptiongate"
+      ],
+      "question": {
+        "text": "What was the name of the scandal that forced President Nixon to resign?"
+      },
+      "tags": [
+        "events",
+        "presidents",
+        "usa",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "easy",
