@@ -1,41 +1,22 @@
 {
-  "gameDate": "2026-04-23",
+  "gameDate": "2026-04-24",
   "difficulty": "random",
   "results": [
     {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950800",
-      "correctAnswer": "Asia",
+      "category": "science",
+      "id": "64b9a297fa11352f5124c35a",
+      "correctAnswer": "A centrifuge",
       "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Europe"
+        "A blender",
+        "A juicer",
+        "A mixer"
       ],
       "question": {
-        "text": "The country of Brunei is on which continent?"
+        "text": "What machine is used to separate denser substances from less dense ones by spinning them around in a container?"
       },
       "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ee9",
-      "correctAnswer": "Charles Dickens",
-      "incorrectAnswers": [
-        "Oscar Wilde",
-        "Joseph Conrad",
-        "Henryk Sienkiewicz"
-      ],
-      "question": {
-        "text": "Which author wrote 'Dombey and Son'?"
-      },
-      "tags": [
-        "arts_and_literature"
+        "science",
+        "technology"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -43,16 +24,59 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "62433424cfaae40c12961426",
-      "correctAnswer": "A Kid",
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f9512f0",
+      "correctAnswer": "Macbeth",
       "incorrectAnswers": [
-        "A Foal",
-        "A Poult",
-        "A Spiderling"
+        "Richard III",
+        "Hamlet",
+        "Romeo & Juliet"
       ],
       "question": {
-        "text": "A young goat is known as what?"
+        "text": "Name the Shakespeare play from this plot summary: \"Urged on by his wife, a man murders his king in order to take his place\"."
+      },
+      "tags": [
+        "arts_and_literature",
+        "theater",
+        "shakespeare"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9506c8",
+      "correctAnswer": "Kevin Spacey",
+      "incorrectAnswers": [
+        "Russell Crowe",
+        "Jean-Claude Van Damme",
+        "John Turturro"
+      ],
+      "question": {
+        "text": "Which actor has appeared in films including House of Cards and Superman Returns?"
+      },
+      "tags": [
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624437a7746187c5e7be9368",
+      "correctAnswer": "It is used in thermometers, thermostats, barometers",
+      "incorrectAnswers": [
+        "It is used as an ingredient in baking.",
+        "It is used as an ingredient in the production of glass, bricks, and ceramics.",
+        "It is used in disinfectants and antiseptics."
+      ],
+      "question": {
+        "text": "What is the chemical mercury often used for?"
       },
       "tags": [
         "science"
@@ -63,19 +87,529 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950798",
-      "correctAnswer": "Sean Connery",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdd4",
+      "correctAnswer": "Bruno Mars",
       "incorrectAnswers": [
-        "Laurence Fishburne",
-        "George Clooney",
-        "James Franco"
+        "Nicki Minaj",
+        "Ludacris",
+        "Katy Perry"
       ],
       "question": {
-        "text": "Which James Bond actor played the role in Dr. No and Thunderball?"
+        "text": "Which American musician released the song 'Just the Way You Are'?"
       },
       "tags": [
-        "james_bond",
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f95198a",
+      "correctAnswer": "It Was Sold To The United States",
+      "incorrectAnswers": [
+        "It had the most deadly volcanic eruption in history",
+        "The first recorded meteor impact",
+        "It declared independence"
+      ],
+      "question": {
+        "text": "What Happened To Alaska In 1867?"
+      },
+      "tags": [
+        "us_states",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374233cb85f7ce9e949db4",
+      "correctAnswer": "Dakar",
+      "incorrectAnswers": [
+        "Nuku'alofa",
+        "Jakarta",
+        "Nouakchott"
+      ],
+      "question": {
+        "text": "What is the capital city of Senegal?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503b0",
+      "correctAnswer": "Tibet",
+      "incorrectAnswers": [
+        "Bhutan",
+        "Nepal",
+        "Mongolia"
+      ],
+      "question": {
+        "text": "Which country did China invade on Christmas day 1950"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242cb6bd543524f1b19c92c",
+      "correctAnswer": "A parliament",
+      "incorrectAnswers": [
+        "A host",
+        "A nest",
+        "A yoke"
+      ],
+      "question": {
+        "text": "What is the word for a group of owls?"
+      },
+      "tags": [
+        "names",
+        "animals",
+        "birds",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdc3",
+      "correctAnswer": "Glen Miller",
+      "incorrectAnswers": [
+        "Jack Acres",
+        "Laurence Ransom",
+        "Mark Bosworth"
+      ],
+      "question": {
+        "text": "Name The Musical Major Whose Plane Dissapeared Somewhere Over The English Channel In December 1944"
+      },
+      "tags": [
+        "musicians",
+        "1940's",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ea2",
+      "correctAnswer": "Alexandre Dumas",
+      "incorrectAnswers": [
+        "Anatole France",
+        "Gustave Flaubert",
+        "Charles Perrault"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Three Musketeers'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056f0b7a97013de78b53bb",
+      "correctAnswer": "Laser",
+      "incorrectAnswers": [
+        "Kodachrome",
+        "Television",
+        "Atomic Bomb"
+      ],
+      "question": {
+        "text": "Which of the following technologies was developed most recently?"
+      },
+      "tags": [
+        "history",
+        "technology"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eef",
+      "correctAnswer": "Jack London",
+      "incorrectAnswers": [
+        "Edgar Rice Burroughs",
+        "James Fenimore Cooper",
+        "Frederik Pohl"
+      ],
+      "question": {
+        "text": "Which author wrote 'Martin Eden'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f44",
+      "correctAnswer": "Edgar Allan Poe",
+      "incorrectAnswers": [
+        "Stephen King",
+        "Nathaniel Hawthorne",
+        "Mario Puzo"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Tell-Tale Heart'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f9503d6",
+      "correctAnswer": "Barbie",
+      "incorrectAnswers": [
+        "GI Joe",
+        "Stretch Armstrong",
+        "Beanie Babies"
+      ],
+      "question": {
+        "text": "What Toy Still Hugely Popular Today First Went On Sale In 1959 Costing Just $3"
+      },
+      "tags": [
+        "toys",
+        "1950's",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950220",
+      "correctAnswer": "Potato ",
+      "incorrectAnswers": [
+        "Tomato",
+        "Onion",
+        "Carrot"
+      ],
+      "question": {
+        "text": "Which vegetable is the principal ingredient of rosti?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6239f8219129041bf3925cc9",
+      "correctAnswer": "Mike",
+      "incorrectAnswers": [
+        "Mambo",
+        "Mauritius",
+        "Mendip"
+      ],
+      "question": {
+        "text": "What word is used in the NATO Phonetic Alphabet for the letter M?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcb6",
+      "correctAnswer": "Afroasiatic",
+      "incorrectAnswers": [
+        "Indo-European",
+        "Koreanic",
+        "Dravidian"
+      ],
+      "question": {
+        "text": "The language 'Somali' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625064e7e12f6dec240bdfd6",
+      "correctAnswer": "Two of Hearts",
+      "incorrectAnswers": [
+        "Heart And Soul",
+        "Tainted Love",
+        "Lovin' You"
+      ],
+      "question": {
+        "text": "Stacey Q had a one hit wonder in 1986 with which song?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950512",
+      "correctAnswer": "Sleep",
+      "incorrectAnswers": [
+        "Radiation",
+        "Earth materials",
+        "The eyes"
+      ],
+      "question": {
+        "text": "What is Hypnology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe10",
+      "correctAnswer": "Madrid ",
+      "incorrectAnswers": [
+        "Lisbon",
+        "Paris",
+        "Rome"
+      ],
+      "question": {
+        "text": "Which European capital city stands on the Manzanares River?"
+      },
+      "tags": [
+        "rivers",
+        "bodies_of_water",
+        "cities",
+        "capital_cities",
+        "europe",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "649fe02bebb41911d4cbd6e9",
+      "correctAnswer": "Valet",
+      "incorrectAnswers": [
+        "Chef",
+        "Doctor",
+        "Assassin"
+      ],
+      "question": {
+        "text": "In P.G. Wodehouse's novels, what is the job that Jeeves has? "
+      },
+      "tags": [
+        "arts_and_literature",
+        "fictitious_characters",
+        "occupations",
+        "literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6242e83aa22452794eaef20a",
+      "correctAnswer": "The Irons",
+      "incorrectAnswers": [
+        "Cottagers",
+        "The Hatters",
+        "The Reds"
+      ],
+      "question": {
+        "text": "What is the nickname of the English football team West Ham United?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "64f6d9b9660c3a8d960101eb",
+      "correctAnswer": "Good Will Hunting",
+      "incorrectAnswers": [
+        "The Bourne Identity",
+        "The Departed",
+        "Argo"
+      ],
+      "question": {
+        "text": "What film was co-written by Matt Damon and Ben Affleck?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c357cc59eab6f95001f",
+      "correctAnswer": "Boxing",
+      "incorrectAnswers": [
+        "Karate",
+        "Kickboxing",
+        "Judo"
+      ],
+      "question": {
+        "text": "With Which Sport Would You Associate A Lonsdale Belt?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63b0586f4799123c67712f2a",
+      "correctAnswer": "Pound",
+      "incorrectAnswers": [
+        "Euro",
+        "Dollar",
+        "Shilling"
+      ],
+      "question": {
+        "text": "What is the name of the British currency?"
+      },
+      "tags": [
+        "uk",
+        "society_and_culture",
+        "currency"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6396ed6f6017b1e8e09020d0",
+      "correctAnswer": "What Hath God Wrought?",
+      "incorrectAnswers": [
+        "Testing Testing Testing",
+        "Good Morning Victory ",
+        "You Smell"
+      ],
+      "question": {
+        "text": "What was the first ever message sent via morse code?"
+      },
+      "tags": [
+        "history",
+        "technology",
+        "firsts",
+        "inventions"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63dd25cc742e43ed64f1f01e",
+      "correctAnswer": "Hyundai",
+      "incorrectAnswers": [
+        "Toyota",
+        "Ford",
+        "Honda"
+      ],
+      "question": {
+        "text": "What company owns the motoring brand 'Kia'?"
+      },
+      "tags": [
+        "society_and_culture",
+        "business",
+        "motoring"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fade",
+      "correctAnswer": "Michael Douglas",
+      "incorrectAnswers": [
+        "William Hurt",
+        "Marcello Mastroianni",
+        "Jack Nicholson"
+      ],
+      "question": {
+        "text": "Who won the 1987 Academy Award for Best Leading Actor for playing the role of Gordon Gekko in Wall Street?"
+      },
+      "tags": [
+        "academy_awards",
         "acting",
         "film",
         "film_and_tv"
@@ -86,551 +620,22 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62373f70cb85f7ce9e949c99",
-      "correctAnswer": "Buenos Aires",
-      "incorrectAnswers": [
-        "Porto-Novo",
-        "São Paulo",
-        "Córdoba"
-      ],
-      "question": {
-        "text": "What is the capital city of Argentina?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e3d",
-      "correctAnswer": "Mikhail Bulgakov",
-      "incorrectAnswers": [
-        "Vladimir Nabokov",
-        "Ayn Rand",
-        "Stanisław Lem"
-      ],
-      "question": {
-        "text": "Which author wrote 'A Country Doctor's Notebook'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "622a1c377cc59eab6f95047e",
-      "correctAnswer": "ends or final causes",
+      "id": "6243356bcfaae40c129614a6",
+      "correctAnswer": "A Larva",
       "incorrectAnswers": [
-        "ticks and mites",
-        "bryophytes",
-        "mental processes in living creatures"
+        "An Elver",
+        "A Kitten",
+        "An Owlet"
       ],
       "question": {
-        "text": "What is Teleology the study of?"
+        "text": "What is the word for a young termite?"
       },
       "tags": [
         "science"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950238",
-      "correctAnswer": "Tartare Sauce ",
-      "incorrectAnswers": [
-        "Mayonnaise",
-        "Hollandaise Sauce",
-        "Bernaise Sauce"
-      ],
-      "question": {
-        "text": "Which sauce is made with mayonnaise and chopped pickled gherkin?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
       "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6463395501d576cfac3aa34c",
-      "correctAnswer": "Sole",
-      "incorrectAnswers": [
-        "Heel",
-        "Arch",
-        "Instep"
-      ],
-      "question": {
-        "text": "What is the name for the undersurface of a foot?"
-      },
-      "tags": [
-        "medicine",
-        "anatomy",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f9501c2",
-      "correctAnswer": "Frieze ",
-      "incorrectAnswers": [
-        "Architrave",
-        "Cornice",
-        "Fresco"
-      ],
-      "question": {
-        "text": "What is the name for a band of painted or sculpted decoration, often at the top of a wall?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "63d8d44c168979b94b2e4f65",
-      "correctAnswer": "Goalkeeper",
-      "incorrectAnswers": [
-        "Wing back",
-        "Centre Half",
-        "Linesman"
-      ],
-      "question": {
-        "text": "In football (soccer), which player uses their hands stop the opposition scoring?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b1f",
-      "correctAnswer": "Spice Girls",
-      "incorrectAnswers": [
-        "Girls Aloud",
-        "All Saints",
-        "B*Witched"
-      ],
-      "question": {
-        "text": "Which 90's girl group was Victoria Beckham a member of?"
-      },
-      "tags": [
-        "music",
-        "1990's",
-        "bands",
-        "people"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950035",
-      "correctAnswer": "Michael Schumacher",
-      "incorrectAnswers": [
-        "Lewis Hamilton",
-        "Ayrton Senna",
-        "Mika Häkkinen"
-      ],
-      "question": {
-        "text": "Who Won Nine Formula One Grand Prix Races In 2000?"
-      },
-      "tags": [
-        "racing",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602d254b176d54800e3c82",
-      "correctAnswer": "China",
-      "incorrectAnswers": [
-        "Mongolia",
-        "India",
-        "Australia"
-      ],
-      "question": {
-        "text": "Where would you find the city of Beijing?"
-      },
-      "tags": [
-        "cities",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63b058814799123c67712f48",
-      "correctAnswer": "Golden Eagle",
-      "incorrectAnswers": [
-        "Monarch Butterfly",
-        "Jaguar",
-        "Chihuahua"
-      ],
-      "question": {
-        "text": "What animal appears on the flag of Mexico?"
-      },
-      "tags": [
-        "mexico",
-        "flags",
-        "animals",
-        "society_and_culture",
-        "central_america"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625ea019796f721e95543fce",
-      "correctAnswer": "Blue",
-      "incorrectAnswers": [
-        "Red",
-        "Orange",
-        "Gold"
-      ],
-      "question": {
-        "text": "Which of these colors is included on the flag of Uruguay?"
-      },
-      "tags": [
-        "flags",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6496ac48e831b1ab5aa11146",
-      "correctAnswer": "Lapidary",
-      "incorrectAnswers": [
-        "Byzantine",
-        "Iconography",
-        "Philately"
-      ],
-      "question": {
-        "text": "What is the term for the polishing and cutting of stones and gems?"
-      },
-      "tags": [
-        "jewelry",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "63e4c355106de6ffa7d4a7d6",
-      "correctAnswer": "Diplodocus",
-      "incorrectAnswers": [
-        "Triceratops",
-        "Velociraptor",
-        "Stegosaurus"
-      ],
-      "question": {
-        "text": "Which of these dinosaur s is known for its enormous size, with a long neck and tail?"
-      },
-      "tags": [
-        "science",
-        "dinosaurs",
-        "nature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c377cc59eab6f950416",
-      "correctAnswer": "Spain",
-      "incorrectAnswers": [
-        "Italy",
-        "France",
-        "Chile"
-      ],
-      "question": {
-        "text": "In which country do they eat 12 grapes as the clock strikes midnight (one each time the clock chimes) on New Year's Eve?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62443760746187c5e7be934c",
-      "correctAnswer": "It is used to relieve pain and inflammation.",
-      "incorrectAnswers": [
-        "It is used to preserve food.",
-        "It is used as a solvent for lacquer, floor polishes and resins.",
-        "It is used in thermometers, thermostats, barometers"
-      ],
-      "question": {
-        "text": "What is the chemical magnesium sulphate heptahydrate often used for?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c614bbadf21197f98f772",
-      "correctAnswer": "Uzbekistan",
-      "incorrectAnswers": [
-        "Guyana",
-        "Switzerland",
-        "Ghana"
-      ],
-      "question": {
-        "text": "Plov is a dish that is most associated with which part of the world?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd35",
-      "correctAnswer": "René Descartes",
-      "incorrectAnswers": [
-        "Jean-Jacques Rousseau",
-        "Epictetus",
-        "Socrates"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'I think therefore I am' ('Cogito, ergo sum')?"
-      },
-      "tags": [
-        "people",
-        "quotes",
-        "philosophy",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "63f39518989356ef48370c11",
-      "correctAnswer": "Bass",
-      "incorrectAnswers": [
-        "Baroque",
-        "Banjo",
-        "Mandolin"
-      ],
-      "question": {
-        "text": "What is the name of the lowest pitched member of the guitar family?"
-      },
-      "tags": [
-        "music",
-        "musical_instruments"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fdda",
-      "correctAnswer": "Tupac Shakur",
-      "incorrectAnswers": [
-        "Drake",
-        "Ludacris",
-        "Nas"
-      ],
-      "question": {
-        "text": "Which American rapper released the album 'All Eyez on Me'?"
-      },
-      "tags": [
-        "rap_music",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c605450d1a5e051325a53",
-      "correctAnswer": "Wiener Schnitzel",
-      "incorrectAnswers": [
-        "Plov",
-        "Döner Kebab",
-        "Pho"
-      ],
-      "question": {
-        "text": "Which of these dishes is most associated with Austria?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "625006b60d86c8f685d80ef7",
-      "correctAnswer": "Shaped pasta",
-      "incorrectAnswers": [
-        "Soup pasta",
-        "Stuffed pasta",
-        "Strand pasta"
-      ],
-      "question": {
-        "text": "What type of pasta is gemelli?"
-      },
-      "tags": [
-        "food",
-        "italy",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "627164281ba117625baac94b",
-      "correctAnswer": "Bourbon",
-      "incorrectAnswers": [
-        "Waragi",
-        "Pastis",
-        "Becherovka"
-      ],
-      "question": {
-        "text": "Which of these is a popular drink in The USA?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "646089cade964ebc39016c75",
-      "correctAnswer": "Dachshund",
-      "incorrectAnswers": [
-        "German Shepherd",
-        "Doberman Pinscher",
-        "Rottweiler"
-      ],
-      "question": {
-        "text": "Which German dog breed features short legs and a long body?"
-      },
-      "tags": [
-        "dogs",
-        "animals"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "64824eaa7778562fd76a9663",
-      "correctAnswer": "San Francisco Bay",
-      "incorrectAnswers": [
-        "Monterey Bay",
-        "Santa Monica Bay",
-        "San Diego Bay"
-      ],
-      "question": {
-        "text": "What bay is connected to the Pacific Ocean by the three-mile-long Golden Gate Strait?"
-      },
-      "tags": [
-        "bodies_of_water",
-        "bays",
-        "geography",
-        "usa"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6470d59c32850588056636f1",
-      "correctAnswer": "Highbrow",
-      "incorrectAnswers": [
-        "Bearded",
-        "Moûstaché",
-        "Quiff"
-      ],
-      "question": {
-        "text": "Which of these words is used to refer to a very cultured activity?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     }

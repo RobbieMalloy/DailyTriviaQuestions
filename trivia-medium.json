@@ -1,18 +1,38 @@
 {
-  "gameDate": "2026-04-23",
+  "gameDate": "2026-04-24",
   "difficulty": "medium",
   "results": [
     {
-      "category": "sport_and_leisure",
-      "id": "62417dc00f96c4efe8d773e6",
-      "correctAnswer": "Tampa Bay Lightening",
+      "category": "music",
+      "id": "6266bc7cb0e62e469cf43e97",
+      "correctAnswer": "Brass",
       "incorrectAnswers": [
-        "Tampa Bay Steelers",
-        "Tampa Bay Seahawks",
-        "Tamba Bay Wizards"
+        "Stringed",
+        "Woodwind",
+        "Percussion"
       ],
       "question": {
-        "text": "Which of these is a hockey team based in Tampa?"
+        "text": "What type of instrument is a trombone?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6384b43383dddfb71ee5e364",
+      "correctAnswer": "The Open Championship",
+      "incorrectAnswers": [
+        "Le Mans 24 Hours",
+        "The Copa Libertadores",
+        "The IAAF World Championships"
+      ],
+      "question": {
+        "text": "Which of these is a competition in Golf?"
       },
       "tags": [
         "sport"
@@ -23,38 +43,16 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c3b7cc59eab6f9516fc",
-      "correctAnswer": "John Lennon",
-      "incorrectAnswers": [
-        "Muhammad Ali",
-        "Josef Stalin",
-        "Geri Halliwell"
-      ],
-      "question": {
-        "text": "Who caused outrage with the quote 'We are more popular than Jesus now'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "people",
-        "quotes"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "625e9fa8796f721e95543fad",
-      "correctAnswer": "Puerto Rico",
+      "id": "625e9e36796f721e95543f47",
+      "correctAnswer": "Red",
       "incorrectAnswers": [
-        "Sweden",
-        "Sri Lanka",
-        "Iceland"
+        "Maroon",
+        "Black",
+        "Orange"
       ],
       "question": {
-        "text": "Which country's flag fits the description of 'Five equal horizontal bands of red alternating with white. A blue triangle on the left containing a white star.'?"
+        "text": "Which of these colors is included on the flag of Costa Rica?"
       },
       "tags": [
         "flags",
@@ -66,85 +64,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "63b058724799123c67712f2f",
-      "correctAnswer": "Kangchenjunga",
-      "incorrectAnswers": [
-        "Nanda Devi",
-        "Kamet",
-        "Mt. Everest"
-      ],
-      "question": {
-        "text": "Which is the highest mountain in India?"
-      },
-      "tags": [
-        "india",
-        "mountains",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6463398e01d576cfac3aa38e",
-      "correctAnswer": "Lone Wolf",
-      "incorrectAnswers": [
-        "Black Sheep",
-        "Han Solo",
-        "Alpha Male"
-      ],
-      "question": {
-        "text": "What is the term for a canis lupus that prefers to live independent of others or leaves its pack?"
-      },
-      "tags": [
-        "animals",
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950ad7",
-      "correctAnswer": "France",
-      "incorrectAnswers": [
-        "Monaco",
-        "Algeria",
-        "Belgium"
-      ],
-      "question": {
-        "text": "Which of these countries borders Spain?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "622a1c3b7cc59eab6f95173f",
-      "correctAnswer": "Mini",
+      "id": "64626214ab138b829b81e9c0",
+      "correctAnswer": "Divining Rods",
       "incorrectAnswers": [
-        "Beetle",
-        "Porsche 911",
-        "E-Type"
+        "Feng Shui Rods",
+        "Geomancy Sticks",
+        "Magnetic Field Sensors"
       ],
       "question": {
-        "text": "Which iconic car did Austin And Morris launch in 1959?"
+        "text": "What are the forked sticks sometimes used to locate water, dismissed by scientists as superstition?"
       },
       "tags": [
-        "motoring",
-        "business",
-        "1950's",
+        "superstitions",
+        "myths",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -153,22 +86,24 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "64dfa27da6681754ea052bb4",
-      "correctAnswer": "John Grisham",
+      "category": "society_and_culture",
+      "id": "645fcc91541c4d4fc8cf30ac",
+      "correctAnswer": "Beefeaters",
       "incorrectAnswers": [
-        "Stephen King",
-        "J.K. Rowling",
-        "Dan Brown"
+        "The SAS",
+        "The Swiss Guard",
+        "The Green Berets"
       ],
       "question": {
-        "text": "Which author had a No. 1 bestseller in 2015 with his latest legal thriller 'Rogue Lawyer'?"
+        "text": "What nickname is given to England's Yeoman Warders of the Tower of London?"
       },
       "tags": [
-        "authors",
-        "arts_and_literature",
-        "literature",
-        "novels"
+        "history",
+        "culture",
+        "london",
+        "uk",
+        "society_and_culture",
+        "military"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -177,42 +112,20 @@
     },
     {
       "category": "food_and_drink",
-      "id": "6477bad7550bc819ad646b33",
-      "correctAnswer": "Garlic",
+      "id": "63f3950d989356ef48370bfa",
+      "correctAnswer": "Orange",
       "incorrectAnswers": [
-        "Lemon",
-        "Egg",
-        "Chickpea"
+        "Strawberry",
+        "Apple",
+        "Blueberry"
       ],
       "question": {
-        "text": "What is the main ingredient of aioli sauce?"
+        "text": "Which of these fruits is a citrus fruit?"
       },
       "tags": [
-        "sauces",
-        "cooking",
+        "food_and_drink",
         "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f679da29df7b05f739a",
-      "correctAnswer": "City Lights",
-      "incorrectAnswers": [
-        "Pulp Fiction",
-        "The Terminator",
-        "The Truman Show"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A tramp who has fallen in love with a blind flower girl saves money to help her medically.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
+        "fruit"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -221,18 +134,43 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950df8",
-      "correctAnswer": "Isaac Newton",
+      "id": "645b69d8f09106226db23568",
+      "correctAnswer": "Moby Dick",
       "incorrectAnswers": [
-        "Daniel Defoe",
-        "Percy Bysshe Shelley",
-        "Walter Scott"
+        "The Old Man and the Sea",
+        "20,000 Leagues Under the Sea",
+        "The Sea-Wolf"
       ],
       "question": {
-        "text": "Which author wrote 'Philosophiae Naturalis Principia Mathematica'?"
+        "text": "Which novel tells the story of Ishmael, who goes to work on a whaler after feeling 'a damp, drizzly November' in his soul?"
       },
       "tags": [
-        "arts_and_literature"
+        "novels",
+        "literature",
+        "arts_and_literature",
+        "classic_novels"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "63f39519989356ef48370c13",
+      "correctAnswer": "Cherry",
+      "incorrectAnswers": [
+        "Mango",
+        "Papaya",
+        "Pineapple"
+      ],
+      "question": {
+        "text": "Which of these fruits is not a tropical fruit?"
+      },
+      "tags": [
+        "food_and_drink",
+        "food",
+        "fruit"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -241,105 +179,18 @@
     },
     {
       "category": "geography",
-      "id": "625e9e96796f721e95543f5f",
-      "correctAnswer": "Nine horizontal stripes of blue and white, with a blue square in the top left containing a white cross.",
+      "id": "623735decfe13103f55eb579",
+      "correctAnswer": "Spain",
       "incorrectAnswers": [
-        "Red with a white crescent moon and star.",
-        "Three equal horizontal bands of white, blue, and red",
-        "Red with five yellow stars in the top left."
+        "Seychelles",
+        "Eswatini",
+        "Estonia"
       ],
       "question": {
-        "text": "What does the flag of Greece look like?"
+        "text": "Which region of the world uses '.es' at the end of its web addresses?"
       },
       "tags": [
-        "flags",
-        "greece"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "649c8996e3aef0a3c23f63f6",
-      "correctAnswer": "Krypton",
-      "incorrectAnswers": [
-        "Argon",
-        "Helium",
-        "Xenon"
-      ],
-      "question": {
-        "text": "In 1898, which noble gas was discovered and named after the Greek word for 'hidden'?"
-      },
-      "tags": [
-        "science",
-        "chemistry",
-        "chemical_elements",
-        "scientific_discoveries"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f9512f0",
-      "correctAnswer": "Macbeth",
-      "incorrectAnswers": [
-        "Richard III",
-        "Hamlet",
-        "Romeo & Juliet"
-      ],
-      "question": {
-        "text": "Name the Shakespeare play from this plot summary: \"Urged on by his wife, a man murders his king in order to take his place\"."
-      },
-      "tags": [
-        "arts_and_literature",
-        "theater",
-        "shakespeare"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506c8",
-      "correctAnswer": "Kevin Spacey",
-      "incorrectAnswers": [
-        "Russell Crowe",
-        "Jean-Claude Van Damme",
-        "John Turturro"
-      ],
-      "question": {
-        "text": "Which actor has appeared in films including House of Cards and Superman Returns?"
-      },
-      "tags": [
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624437a7746187c5e7be9368",
-      "correctAnswer": "It is used in thermometers, thermostats, barometers",
-      "incorrectAnswers": [
-        "It is used as an ingredient in baking.",
-        "It is used as an ingredient in the production of glass, bricks, and ceramics.",
-        "It is used in disinfectants and antiseptics."
-      ],
-      "question": {
-        "text": "What is the chemical mercury often used for?"
-      },
-      "tags": [
-        "science"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -348,15 +199,37 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fdd4",
-      "correctAnswer": "Bruno Mars",
+      "id": "622a1c387cc59eab6f950b9e",
+      "correctAnswer": "Wings",
       "incorrectAnswers": [
-        "Nicki Minaj",
-        "Ludacris",
-        "Katy Perry"
+        "The Band",
+        "The Kinks",
+        "Deep Purple"
       ],
       "question": {
-        "text": "Which American musician released the song 'Just the Way You Are'?"
+        "text": "Which band did Paul McCartney form after The Beatles?"
+      },
+      "tags": [
+        "music",
+        "bands",
+        "the_beatles"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94feb0",
+      "correctAnswer": "Beyoncé",
+      "incorrectAnswers": [
+        "Madonna",
+        "Drake",
+        "Nicki Minaj"
+      ],
+      "question": {
+        "text": "Which American singer, actress and record producer released the song 'Lift Off'?"
       },
       "tags": [
         "songs",
@@ -368,20 +241,21 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f95198a",
-      "correctAnswer": "It Was Sold To The United States",
+      "category": "geography",
+      "id": "623b5792fd6c701a92118367",
+      "correctAnswer": "Japan",
       "incorrectAnswers": [
-        "It had the most deadly volcanic eruption in history",
-        "The first recorded meteor impact",
-        "It declared independence"
+        "Vietnam",
+        "Russia",
+        "France"
       ],
       "question": {
-        "text": "What Happened To Alaska In 1867?"
+        "text": "In which country would you find the Itsukushima Shinto Shrine?"
       },
       "tags": [
-        "us_states",
-        "history"
+        "tourist_attractions",
+        "places",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -390,123 +264,21 @@
     },
     {
       "category": "history",
-      "id": "622a1c367cc59eab6f9503b0",
-      "correctAnswer": "Tibet",
+      "id": "64746b055a4c31088dd9d00b",
+      "correctAnswer": "El Cid",
       "incorrectAnswers": [
-        "Bhutan",
-        "Nepal",
-        "Mongolia"
+        "Don Quixote",
+        "Ferdinand II of Aragon",
+        "Zorro"
       ],
       "question": {
-        "text": "Which country did China invade on Christmas day 1950"
+        "text": "Which of these was an 11th-century  Spanish knight and warlord?"
       },
       "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6242cb6bd543524f1b19c92c",
-      "correctAnswer": "A parliament",
-      "incorrectAnswers": [
-        "A host",
-        "A nest",
-        "A yoke"
-      ],
-      "question": {
-        "text": "What is the word for a group of owls?"
-      },
-      "tags": [
-        "names",
-        "animals",
-        "birds",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056f0b7a97013de78b53bb",
-      "correctAnswer": "Laser",
-      "incorrectAnswers": [
-        "Kodachrome",
-        "Television",
-        "Atomic Bomb"
-      ],
-      "question": {
-        "text": "Which of the following technologies was developed most recently?"
-      },
-      "tags": [
+        "spain",
         "history",
-        "technology"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6239f8219129041bf3925cc9",
-      "correctAnswer": "Mike",
-      "incorrectAnswers": [
-        "Mambo",
-        "Mauritius",
-        "Mendip"
-      ],
-      "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter M?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcb6",
-      "correctAnswer": "Afroasiatic",
-      "incorrectAnswers": [
-        "Indo-European",
-        "Koreanic",
-        "Dravidian"
-      ],
-      "question": {
-        "text": "The language 'Somali' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950512",
-      "correctAnswer": "Sleep",
-      "incorrectAnswers": [
-        "Radiation",
-        "Earth materials",
-        "The eyes"
-      ],
-      "question": {
-        "text": "What is Hypnology the study of?"
-      },
-      "tags": [
-        "science"
+        "1000s",
+        "people"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -515,21 +287,21 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "649fe02bebb41911d4cbd6e9",
-      "correctAnswer": "Valet",
+      "id": "622a1c3a7cc59eab6f951322",
+      "correctAnswer": "1",
       "incorrectAnswers": [
-        "Chef",
-        "Doctor",
-        "Assassin"
+        "0",
+        "2",
+        "3"
       ],
       "question": {
-        "text": "In P.G. Wodehouse's novels, what is the job that Jeeves has? "
+        "text": "How many holes are there on a traditional paint pallette?"
       },
       "tags": [
         "arts_and_literature",
-        "fictitious_characters",
-        "occupations",
-        "literature"
+        "art",
+        "general_knowledge",
+        "painting"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -537,19 +309,21 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "6242e83aa22452794eaef20a",
-      "correctAnswer": "The Irons",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd44",
+      "correctAnswer": "Wood & Sound",
       "incorrectAnswers": [
-        "Cottagers",
-        "The Hatters",
-        "The Reds"
+        "Multiple & Sound",
+        "Wood & Tone",
+        "Multiple & Tone"
       ],
       "question": {
-        "text": "What is the nickname of the English football team West Ham United?"
+        "text": "'Xylophone' Is Derived From The Greek Words For What?"
       },
       "tags": [
-        "sport"
+        "language",
+        "words",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -557,19 +331,23 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c357cc59eab6f95001f",
-      "correctAnswer": "Boxing",
+      "category": "geography",
+      "id": "645cb0e67d263fd50970438d",
+      "correctAnswer": "Indochina",
       "incorrectAnswers": [
-        "Karate",
-        "Kickboxing",
-        "Judo"
+        "Malay",
+        "Malacca",
+        "Sunda"
       ],
       "question": {
-        "text": "With Which Sport Would You Associate A Lonsdale Belt?"
+        "text": "Cambodia, Laos, and Vietnam are located on what peninsula?"
       },
       "tags": [
-        "sport"
+        "countries",
+        "peninsulas",
+        "southeast_asia",
+        "asia",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -577,21 +355,42 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "63b0586f4799123c67712f2a",
-      "correctAnswer": "Pound",
+      "category": "food_and_drink",
+      "id": "624c607f50d1a5e051325a5f",
+      "correctAnswer": "The United Kingdom",
       "incorrectAnswers": [
-        "Euro",
-        "Dollar",
-        "Shilling"
+        "Cuba",
+        "Indonesia",
+        "India"
       ],
       "question": {
-        "text": "What is the name of the British currency?"
+        "text": "Where in the world was Chicken Tikka Masala invented?"
       },
       "tags": [
-        "uk",
-        "society_and_culture",
-        "currency"
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "63d952fc168979b94b2e4f6b",
+      "correctAnswer": "Simon Bolivar",
+      "incorrectAnswers": [
+        "Juan Peron",
+        "Augusto Pinochet",
+        "Ho Chi Minh"
+      ],
+      "question": {
+        "text": "Which leader was known as 'The Great Liberator'?"
+      },
+      "tags": [
+        "history",
+        "leaders",
+        "people"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -600,19 +399,105 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fade",
-      "correctAnswer": "Michael Douglas",
+      "id": "64e927cd0b0fc0be2ff5aa3c",
+      "correctAnswer": "Vin Diesel",
       "incorrectAnswers": [
-        "William Hurt",
-        "Marcello Mastroianni",
-        "Jack Nicholson"
+        "Jason Statham",
+        "Dwayne Johnson",
+        "Chris Hemsworth"
       ],
       "question": {
-        "text": "Who won the 1987 Academy Award for Best Leading Actor for playing the role of Gordon Gekko in Wall Street?"
+        "text": "Which actor, who starred in several 'Fast & Furious' films and in the 2020 movie 'Bloodshot', is also a producer?"
       },
       "tags": [
-        "academy_awards",
-        "acting",
+        "actors",
+        "movies",
+        "action"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "637162981bf863c45ca6c38a",
+      "correctAnswer": "For the good",
+      "incorrectAnswers": [
+        "Professional soldier",
+        "I am not led, I lead",
+        "Great is the power of habit"
+      ],
+      "question": {
+        "text": "What is the meaning of the Latin phrase 'Pro bono'?"
+      },
+      "tags": [
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233876d0161109f922aac23",
+      "correctAnswer": "Ecuador ",
+      "incorrectAnswers": [
+        "Latvia",
+        "Liberia",
+        "Indonesia"
+      ],
+      "question": {
+        "text": "Which country has taken its name from a line of latitude?"
+      },
+      "tags": [
+        "words",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950363",
+      "correctAnswer": "Lyndon B Johnson",
+      "incorrectAnswers": [
+        "Gerald Ford",
+        "Richard Nixon",
+        "Thomas Jefferson"
+      ],
+      "question": {
+        "text": "Who took over from John F Kennedy after he was assassinated?"
+      },
+      "tags": [
+        "presidents",
+        "usa",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6257405a9da29df7b05f73d7",
+      "correctAnswer": "Double Indemnity",
+      "incorrectAnswers": [
+        "Casino",
+        "Dune",
+        "The Great Escape"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'An insurance representative lets a housewife seduce him into a scheme of insurance fraud and murder.'"
+      },
+      "tags": [
         "film",
         "film_and_tv"
       ],
@@ -622,19 +507,143 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6243356bcfaae40c129614a6",
-      "correctAnswer": "A Larva",
+      "category": "society_and_culture",
+      "id": "63f39507989356ef48370bec",
+      "correctAnswer": "Shintoism",
       "incorrectAnswers": [
-        "An Elver",
-        "A Kitten",
-        "An Owlet"
+        "Confucianism",
+        "Taoism",
+        "Buddhism"
       ],
       "question": {
-        "text": "What is the word for a young termite?"
+        "text": "Which of these religions originated in Japan?"
+      },
+      "tags": [
+        "japan",
+        "religion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6462621bab138b829b81e9c6",
+      "correctAnswer": "Luxembourg",
+      "incorrectAnswers": [
+        "Liechtenstein",
+        "Liberia",
+        "Laos"
+      ],
+      "question": {
+        "text": "Which country is the northernmost among Luxembourg, Liechtenstein, Laos and Liberia?"
+      },
+      "tags": [
+        "countries",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951008",
+      "correctAnswer": "A code-breaking computer",
+      "incorrectAnswers": [
+        "A nuclear-resistant tank",
+        "A supersonic bomber",
+        "An intercontinental missile"
+      ],
+      "question": {
+        "text": "What Was The Colossus, Developed In Buckinghamshire In 1943?"
       },
       "tags": [
         "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502cb",
+      "correctAnswer": "Alcohol By Volume ",
+      "incorrectAnswers": [
+        "Alcohol Bucahol Variance",
+        "Alcoholic Barrier Vitality",
+        "Alcoholic Barometric Vice"
+      ],
+      "question": {
+        "text": "What does the abbreviation A.B.V. Stand for in alcoholic drinks?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95055b",
+      "correctAnswer": "How the environment interacts with an organism",
+      "incorrectAnswers": [
+        "The art of bell ringing",
+        "Bats",
+        "Redemption"
+      ],
+      "question": {
+        "text": "What is Ecophysiology the study of?"
+      },
+      "tags": [
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a9c",
+      "correctAnswer": "The Empire State Building",
+      "incorrectAnswers": [
+        "The Chrysler Building",
+        "The World Trade Center",
+        "The CN Tower"
+      ],
+      "question": {
+        "text": "On May 1st 1931 the world's then tallest building was opened in New York City. Which building was it?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6384b47183dddfb71ee5e37e",
+      "correctAnswer": "Tennis",
+      "incorrectAnswers": [
+        "Baseball",
+        "Athletics",
+        "Motorsports"
+      ],
+      "question": {
+        "text": "Which sport is played at The Billie Jean King Cup?"
+      },
+      "tags": [
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "medium",
