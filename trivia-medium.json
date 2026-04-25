@@ -1,18 +1,85 @@
 {
-  "gameDate": "2026-04-24",
+  "gameDate": "2026-04-25",
   "difficulty": "medium",
   "results": [
     {
       "category": "music",
-      "id": "6266bc7cb0e62e469cf43e97",
-      "correctAnswer": "Brass",
+      "id": "6250647be12f6dec240bdfb6",
+      "correctAnswer": "Lou Bega",
       "incorrectAnswers": [
-        "Stringed",
-        "Woodwind",
-        "Percussion"
+        "Rockwell",
+        "K-Ci & JoJo",
+        "Big Country"
       ],
       "question": {
-        "text": "What type of instrument is a trombone?"
+        "text": "'Mambo No. 5 (A Little Bit Of...)' was a one hit wonder in 1999 by which artist?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "64746b055a4c31088dd9d014",
+      "correctAnswer": "Tequila",
+      "incorrectAnswers": [
+        "Vodka",
+        "Gin",
+        "Whiskey"
+      ],
+      "question": {
+        "text": "What liquor precedes 'mockingbird' in the name of a cocktail?"
+      },
+      "tags": [
+        "alcohol",
+        "cocktails",
+        "drink",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64730798cf09068746f63780",
+      "correctAnswer": "Rolls-Royce",
+      "incorrectAnswers": [
+        "Bentley",
+        "Mercedes-Benz",
+        "Lamborghini"
+      ],
+      "question": {
+        "text": "Which luxury car brand manufactured a convertible 2013 Phantom model that can fetch over $470,000?"
+      },
+      "tags": [
+        "motoring",
+        "consumer_products",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6266bc34ff2394bd44dedffe",
+      "correctAnswer": "Tabourine",
+      "incorrectAnswers": [
+        "Cornett",
+        "Fife",
+        "Clarinet"
+      ],
+      "question": {
+        "text": "Which of these is a percussion instrument?"
       },
       "tags": [
         "music"
@@ -23,16 +90,193 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "6384b43383dddfb71ee5e364",
-      "correctAnswer": "The Open Championship",
+      "category": "society_and_culture",
+      "id": "62ab33105202de619af2813b",
+      "correctAnswer": "Opel",
       "incorrectAnswers": [
-        "Le Mans 24 Hours",
-        "The Copa Libertadores",
-        "The IAAF World Championships"
+        "Honda",
+        "Ferrari",
+        "Rolls-Royce"
       ],
       "question": {
-        "text": "Which of these is a competition in Golf?"
+        "text": "Which car manufacturer makes the Astra?"
+      },
+      "tags": [
+        "motoring",
+        "business",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625698fc9da29df7b05f72aa",
+      "correctAnswer": "Zendaya",
+      "incorrectAnswers": [
+        "Elizabeth Olsen",
+        "Hayley Atwell",
+        "Karen Gillan"
+      ],
+      "question": {
+        "text": "Which actor plays the role of Michelle \"MJ\" Jones-Watson in the Marvel Cinematic Universe?"
+      },
+      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcef",
+      "correctAnswer": "Indo-European",
+      "incorrectAnswers": [
+        "Austronesian",
+        "Uralic",
+        "Dravidian"
+      ],
+      "question": {
+        "text": "The language 'Hindi' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3c7cc59eab6f9517de",
+      "correctAnswer": "January 6th",
+      "incorrectAnswers": [
+        "June 20th",
+        "December 1st",
+        "October 19th"
+      ],
+      "question": {
+        "text": "Which date on the Christian calendar marks The Epiphany, when Jesus, Mary and Joseph met The Three Wise Men?"
+      },
+      "tags": [
+        "religion",
+        "christianity",
+        "christmas",
+        "society_and_culture",
+        "traditions"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f95189a",
+      "correctAnswer": "Russian",
+      "incorrectAnswers": [
+        "Indian",
+        "French",
+        "Egyptian"
+      ],
+      "question": {
+        "text": "What was the nationality of Rasputin?"
+      },
+      "tags": [
+        "people",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c367cc59eab6f950336",
+      "correctAnswer": "Queen Victoria",
+      "incorrectAnswers": [
+        "James VI",
+        "Elizabeth I",
+        "George II"
+      ],
+      "question": {
+        "text": "Who was the first English monarch to have a Christmas tree?"
+      },
+      "tags": [
+        "christmas",
+        "uk",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bc3",
+      "correctAnswer": "Oasis",
+      "incorrectAnswers": [
+        "Goldfrapp",
+        "Kaiser Chiefs",
+        "Jethro Tull"
+      ],
+      "question": {
+        "text": "Which English rock band formed in Manchester in 1991 released the studio album 'Definitely Maybe'?"
+      },
+      "tags": [
+        "manchester",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62443779746187c5e7be9356",
+      "correctAnswer": "Iron Oxide",
+      "incorrectAnswers": [
+        "Magnesium sulphate heptahydrate",
+        "Calcium sulphate dihydrate",
+        "Potassium hydrogen tartrate"
+      ],
+      "question": {
+        "text": "What chemical has the formula Fe2O3?"
+      },
+      "tags": [
+        "chemistry",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417d7f0f96c4efe8d773cd",
+      "correctAnswer": "Philadelphia Eagles",
+      "incorrectAnswers": [
+        "Philadelphia Saints",
+        "Philadelphia Fire",
+        "Philadelphia Thunder"
+      ],
+      "question": {
+        "text": "Which of these is an American Football team based in Philadelphia?"
       },
       "tags": [
         "sport"
@@ -43,41 +287,21 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "625e9e36796f721e95543f47",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Maroon",
-        "Black",
-        "Orange"
-      ],
-      "question": {
-        "text": "Which of these colors is included on the flag of Costa Rica?"
-      },
-      "tags": [
-        "flags",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "64626214ab138b829b81e9c0",
-      "correctAnswer": "Divining Rods",
+      "id": "622a1c367cc59eab6f95011f",
+      "correctAnswer": "Hajji",
       "incorrectAnswers": [
-        "Feng Shui Rods",
-        "Geomancy Sticks",
-        "Magnetic Field Sensors"
+        "Mujahideen",
+        "Khafoor",
+        "Imam"
       ],
       "question": {
-        "text": "What are the forked sticks sometimes used to locate water, dismissed by scientists as superstition?"
+        "text": "What is a person who has made a pilgimage to Mecca?"
       },
       "tags": [
-        "superstitions",
-        "myths",
+        "islam",
+        "places",
+        "religion",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -86,398 +310,18 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "645fcc91541c4d4fc8cf30ac",
-      "correctAnswer": "Beefeaters",
-      "incorrectAnswers": [
-        "The SAS",
-        "The Swiss Guard",
-        "The Green Berets"
-      ],
-      "question": {
-        "text": "What nickname is given to England's Yeoman Warders of the Tower of London?"
-      },
-      "tags": [
-        "history",
-        "culture",
-        "london",
-        "uk",
-        "society_and_culture",
-        "military"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "63f3950d989356ef48370bfa",
-      "correctAnswer": "Orange",
-      "incorrectAnswers": [
-        "Strawberry",
-        "Apple",
-        "Blueberry"
-      ],
-      "question": {
-        "text": "Which of these fruits is a citrus fruit?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food",
-        "fruit"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "645b69d8f09106226db23568",
-      "correctAnswer": "Moby Dick",
-      "incorrectAnswers": [
-        "The Old Man and the Sea",
-        "20,000 Leagues Under the Sea",
-        "The Sea-Wolf"
-      ],
-      "question": {
-        "text": "Which novel tells the story of Ishmael, who goes to work on a whaler after feeling 'a damp, drizzly November' in his soul?"
-      },
-      "tags": [
-        "novels",
-        "literature",
-        "arts_and_literature",
-        "classic_novels"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "63f39519989356ef48370c13",
-      "correctAnswer": "Cherry",
-      "incorrectAnswers": [
-        "Mango",
-        "Papaya",
-        "Pineapple"
-      ],
-      "question": {
-        "text": "Which of these fruits is not a tropical fruit?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food",
-        "fruit"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623735decfe13103f55eb579",
-      "correctAnswer": "Spain",
-      "incorrectAnswers": [
-        "Seychelles",
-        "Eswatini",
-        "Estonia"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.es' at the end of its web addresses?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b9e",
-      "correctAnswer": "Wings",
-      "incorrectAnswers": [
-        "The Band",
-        "The Kinks",
-        "Deep Purple"
-      ],
-      "question": {
-        "text": "Which band did Paul McCartney form after The Beatles?"
-      },
-      "tags": [
-        "music",
-        "bands",
-        "the_beatles"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94feb0",
-      "correctAnswer": "Beyoncé",
-      "incorrectAnswers": [
-        "Madonna",
-        "Drake",
-        "Nicki Minaj"
-      ],
-      "question": {
-        "text": "Which American singer, actress and record producer released the song 'Lift Off'?"
-      },
-      "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b5792fd6c701a92118367",
-      "correctAnswer": "Japan",
-      "incorrectAnswers": [
-        "Vietnam",
-        "Russia",
-        "France"
-      ],
-      "question": {
-        "text": "In which country would you find the Itsukushima Shinto Shrine?"
-      },
-      "tags": [
-        "tourist_attractions",
-        "places",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "64746b055a4c31088dd9d00b",
-      "correctAnswer": "El Cid",
+      "id": "622a1c3c7cc59eab6f951aaa",
+      "correctAnswer": "Spartacus",
       "incorrectAnswers": [
-        "Don Quixote",
-        "Ferdinand II of Aragon",
-        "Zorro"
+        "Ithacus",
+        "Commodus",
+        "Maximus"
       ],
       "question": {
-        "text": "Which of these was an 11th-century  Spanish knight and warlord?"
+        "text": "Which Roman Gladiator Lead An Unsuccessful Revolt Against Rome?"
       },
       "tags": [
-        "spain",
-        "history",
-        "1000s",
-        "people"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951322",
-      "correctAnswer": "1",
-      "incorrectAnswers": [
-        "0",
-        "2",
-        "3"
-      ],
-      "question": {
-        "text": "How many holes are there on a traditional paint pallette?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "art",
-        "general_knowledge",
-        "painting"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd44",
-      "correctAnswer": "Wood & Sound",
-      "incorrectAnswers": [
-        "Multiple & Sound",
-        "Wood & Tone",
-        "Multiple & Tone"
-      ],
-      "question": {
-        "text": "'Xylophone' Is Derived From The Greek Words For What?"
-      },
-      "tags": [
-        "language",
-        "words",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "645cb0e67d263fd50970438d",
-      "correctAnswer": "Indochina",
-      "incorrectAnswers": [
-        "Malay",
-        "Malacca",
-        "Sunda"
-      ],
-      "question": {
-        "text": "Cambodia, Laos, and Vietnam are located on what peninsula?"
-      },
-      "tags": [
-        "countries",
-        "peninsulas",
-        "southeast_asia",
-        "asia",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c607f50d1a5e051325a5f",
-      "correctAnswer": "The United Kingdom",
-      "incorrectAnswers": [
-        "Cuba",
-        "Indonesia",
-        "India"
-      ],
-      "question": {
-        "text": "Where in the world was Chicken Tikka Masala invented?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63d952fc168979b94b2e4f6b",
-      "correctAnswer": "Simon Bolivar",
-      "incorrectAnswers": [
-        "Juan Peron",
-        "Augusto Pinochet",
-        "Ho Chi Minh"
-      ],
-      "question": {
-        "text": "Which leader was known as 'The Great Liberator'?"
-      },
-      "tags": [
-        "history",
-        "leaders",
-        "people"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "64e927cd0b0fc0be2ff5aa3c",
-      "correctAnswer": "Vin Diesel",
-      "incorrectAnswers": [
-        "Jason Statham",
-        "Dwayne Johnson",
-        "Chris Hemsworth"
-      ],
-      "question": {
-        "text": "Which actor, who starred in several 'Fast & Furious' films and in the 2020 movie 'Bloodshot', is also a producer?"
-      },
-      "tags": [
-        "actors",
-        "movies",
-        "action"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "637162981bf863c45ca6c38a",
-      "correctAnswer": "For the good",
-      "incorrectAnswers": [
-        "Professional soldier",
-        "I am not led, I lead",
-        "Great is the power of habit"
-      ],
-      "question": {
-        "text": "What is the meaning of the Latin phrase 'Pro bono'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233876d0161109f922aac23",
-      "correctAnswer": "Ecuador ",
-      "incorrectAnswers": [
-        "Latvia",
-        "Liberia",
-        "Indonesia"
-      ],
-      "question": {
-        "text": "Which country has taken its name from a line of latitude?"
-      },
-      "tags": [
-        "words",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950363",
-      "correctAnswer": "Lyndon B Johnson",
-      "incorrectAnswers": [
-        "Gerald Ford",
-        "Richard Nixon",
-        "Thomas Jefferson"
-      ],
-      "question": {
-        "text": "Who took over from John F Kennedy after he was assassinated?"
-      },
-      "tags": [
-        "presidents",
-        "usa",
         "history"
       ],
       "type": "text_choice",
@@ -486,16 +330,64 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "6257405a9da29df7b05f73d7",
-      "correctAnswer": "Double Indemnity",
+      "category": "sport_and_leisure",
+      "id": "647c9855f89e0968cfbc1a22",
+      "correctAnswer": "3",
       "incorrectAnswers": [
-        "Casino",
-        "Dune",
-        "The Great Escape"
+        "1",
+        "5",
+        "7"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'An insurance representative lets a housewife seduce him into a scheme of insurance fraud and murder.'"
+        "text": "What is the maximum amount of points that can be scored from a single shot in basketball?"
+      },
+      "tags": [
+        "basketball",
+        "sport",
+        "nba"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3c7cc59eab6f9517ef",
+      "correctAnswer": "Apple",
+      "incorrectAnswers": [
+        "Microsoft",
+        "IBM",
+        "Amstrad"
+      ],
+      "question": {
+        "text": "Which company in 1984 advertised their new computer during the Super Bowl, and never re-used the commercial?"
+      },
+      "tags": [
+        "business",
+        "society_and_culture",
+        "advertising",
+        "computing",
+        "american_football",
+        "football",
+        "technology"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740979da29df7b05f73e9",
+      "correctAnswer": "A man deeply immersed in the Edinburgh drug scene tries to clean up and get out.",
+      "incorrectAnswers": [
+        "A veteran sets out to reform his neighbor who tried to steal his prized possession.",
+        "A Polish Jew struggles to survive the destruction of the Warsaw ghetto of World War II.",
+        "King Arthur and his Knights embark on a search for a religious relic."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Trainspotting?"
       },
       "tags": [
         "film",
@@ -507,120 +399,16 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "63f39507989356ef48370bec",
-      "correctAnswer": "Shintoism",
-      "incorrectAnswers": [
-        "Confucianism",
-        "Taoism",
-        "Buddhism"
-      ],
-      "question": {
-        "text": "Which of these religions originated in Japan?"
-      },
-      "tags": [
-        "japan",
-        "religion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6462621bab138b829b81e9c6",
-      "correctAnswer": "Luxembourg",
-      "incorrectAnswers": [
-        "Liechtenstein",
-        "Liberia",
-        "Laos"
-      ],
-      "question": {
-        "text": "Which country is the northernmost among Luxembourg, Liechtenstein, Laos and Liberia?"
-      },
-      "tags": [
-        "countries",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951008",
-      "correctAnswer": "A code-breaking computer",
-      "incorrectAnswers": [
-        "A nuclear-resistant tank",
-        "A supersonic bomber",
-        "An intercontinental missile"
-      ],
-      "question": {
-        "text": "What Was The Colossus, Developed In Buckinghamshire In 1943?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502cb",
-      "correctAnswer": "Alcohol By Volume ",
-      "incorrectAnswers": [
-        "Alcohol Bucahol Variance",
-        "Alcoholic Barrier Vitality",
-        "Alcoholic Barometric Vice"
-      ],
-      "question": {
-        "text": "What does the abbreviation A.B.V. Stand for in alcoholic drinks?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95055b",
-      "correctAnswer": "How the environment interacts with an organism",
-      "incorrectAnswers": [
-        "The art of bell ringing",
-        "Bats",
-        "Redemption"
-      ],
-      "question": {
-        "text": "What is Ecophysiology the study of?"
-      },
-      "tags": [
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f951a9c",
-      "correctAnswer": "The Empire State Building",
+      "id": "622a1c3c7cc59eab6f9519c0",
+      "correctAnswer": "Cambodia",
       "incorrectAnswers": [
-        "The Chrysler Building",
-        "The World Trade Center",
-        "The CN Tower"
+        "Ethiopia",
+        "Cuba",
+        "Indonesia"
       ],
       "question": {
-        "text": "On May 1st 1931 the world's then tallest building was opened in New York City. Which building was it?"
+        "text": "What country was ruled by Pol Pot, leader of the Khmer Rouge party?"
       },
       "tags": [
         "history"
@@ -631,19 +419,248 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "6384b47183dddfb71ee5e37e",
-      "correctAnswer": "Tennis",
+      "category": "geography",
+      "id": "6477bad7550bc819ad646b3b",
+      "correctAnswer": "Iceland",
       "incorrectAnswers": [
-        "Baseball",
-        "Athletics",
-        "Motorsports"
+        "Belgium",
+        "Russia",
+        "Greece"
       ],
       "question": {
-        "text": "Which sport is played at The Billie Jean King Cup?"
+        "text": "In 2010, air traffic across Europe was disrupted by the Eyjafjallajokull volcano in which country?"
       },
       "tags": [
+        "volcanoes",
+        "aviation",
+        "europe",
+        "geography",
+        "history",
+        "2010's"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ec8d7f41d6338b96eef9",
+      "correctAnswer": "Sigmund Freud",
+      "incorrectAnswers": [
+        "Francis Bacon",
+        "George Washington",
+        "Francisco Pizarro"
+      ],
+      "question": {
+        "text": "Which influential neurologist founded psychoanalysis, which involved the investigation of the subconscious, dreams and human mind?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture",
+        "psychology"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64909c4c58265893a0c86d90",
+      "correctAnswer": "Pyrite",
+      "incorrectAnswers": [
+        "Magnetite",
+        "Hematite",
+        "Chromite"
+      ],
+      "question": {
+        "text": "What is the name of the type of iron which is sometimes known as \"Fool's gold\"?"
+      },
+      "tags": [
+        "chemistry",
+        "geology",
+        "minerals",
+        "science",
+        "materials"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f95228c",
+      "correctAnswer": "4",
+      "incorrectAnswers": [
+        "6",
+        "8",
+        "5"
+      ],
+      "question": {
+        "text": "How many teats does a cow have?"
+      },
+      "tags": [
+        "animals",
+        "biology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9de4796f721e95543f31",
+      "correctAnswer": "Three vertical bands of black yellow and red.",
+      "incorrectAnswers": [
+        "Two equal horizontal bands of red and white.",
+        "Red field with a yellow sun in the center.",
+        "Red with five yellow stars in the top left."
+      ],
+      "question": {
+        "text": "What does the flag of Belgium look like?"
+      },
+      "tags": [
+        "flags",
+        "europe",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "648891c34cd3f064f443dc58",
+      "correctAnswer": "Ursa Major",
+      "incorrectAnswers": [
+        "Canis Major",
+        "Cygnus Major",
+        "Leo Major"
+      ],
+      "question": {
+        "text": "What is the name of the constellation that is commonly known as 'Big Bear'?"
+      },
+      "tags": [
+        "astronomy",
+        "stars",
+        "space",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "626030704b176d54800e3d24",
+      "correctAnswer": "Ukraine",
+      "incorrectAnswers": [
+        "Kyrgyzstan",
+        "Belarus",
+        "Georgia"
+      ],
+      "question": {
+        "text": "Odessa is a city in which country?"
+      },
+      "tags": [
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f95104b",
+      "correctAnswer": "Radioactivity",
+      "incorrectAnswers": [
+        "Oscillations",
+        "Snowfall",
+        "Planetary Orbits"
+      ],
+      "question": {
+        "text": "What is measured by a Geiger counter"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "63f39523989356ef48370c29",
+      "correctAnswer": "Kendo",
+      "incorrectAnswers": [
+        "Karate",
+        "Aikido",
+        "Judo"
+      ],
+      "question": {
+        "text": "What is the name of the traditional Japanese martial art of sword fighting?"
+      },
+      "tags": [
+        "japan",
+        "martial_arts",
+        "society_and_culture",
         "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9518bf",
+      "correctAnswer": "Vichy",
+      "incorrectAnswers": [
+        "De Gaulle",
+        "Soire",
+        "Truffaut"
+      ],
+      "question": {
+        "text": "What Was The Name Given To The French Goverment Which Collaborated With The Nazis?"
+      },
+      "tags": [
+        "france",
+        "world_war_2",
+        "politics",
+        "1940's",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "645cb16b7d263fd5097043ce",
+      "correctAnswer": "Lithuania",
+      "incorrectAnswers": [
+        "Finland",
+        "Latvia",
+        "Austria"
+      ],
+      "question": {
+        "text": "What nation, with Vilnius as its capital, won independence in 1991 after previously being part of Poland and Russia?"
+      },
+      "tags": [
+        "countries",
+        "history",
+        "capital_cities"
       ],
       "type": "text_choice",
       "difficulty": "medium",
