@@ -1,22 +1,22 @@
 {
-  "gameDate": "2026-04-25",
+  "gameDate": "2026-04-26",
   "difficulty": "hard",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fea5",
-      "correctAnswer": "Elton John",
+      "category": "arts_and_literature",
+      "id": "648891c14cd3f064f443dc51",
+      "correctAnswer": "Rex",
       "incorrectAnswers": [
-        "Mika",
-        "Madonna",
-        "Eric Clapton"
+        "Max",
+        "Leo",
+        "Bob"
       ],
       "question": {
-        "text": "Which English rock singer-songwriter, composer and pianist released the studio album 'Captain Fantastic and the Brown Dirt Cowboy'?"
+        "text": "What is the second part of the title of the Sophocles play about the king of Thebes?"
       },
       "tags": [
-        "rock_music",
-        "music"
+        "theater",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -25,18 +25,17 @@
     },
     {
       "category": "music",
-      "id": "622a1c387cc59eab6f950b47",
-      "correctAnswer": "Blackpink",
+      "id": "622a1c397cc59eab6f950c74",
+      "correctAnswer": "U2",
       "incorrectAnswers": [
-        "GOT7",
-        "T-ara",
-        "Super Junior"
+        "Public Image Ltd.",
+        "The Script",
+        "The Cure"
       ],
       "question": {
-        "text": "Which South Korean girl group released the extended play 'Kill This Love'?"
+        "text": "Which Irish rock band released the song 'Elevation'?"
       },
       "tags": [
-        "kpop",
         "music"
       ],
       "type": "text_choice",
@@ -46,17 +45,21 @@
     },
     {
       "category": "history",
-      "id": "622a1c367cc59eab6f95033d",
-      "correctAnswer": "Geronimo",
+      "id": "622a1c347cc59eab6f94f9bd",
+      "correctAnswer": "Henry I",
       "incorrectAnswers": [
-        "Poundmaker",
-        "Sitting Bull",
-        "Sequoyah"
+        "George II",
+        "John",
+        "George IV"
       ],
       "question": {
-        "text": "Who was the last of the Apache warrior chiefs"
+        "text": "Who was the monarch of England during the time period 1100-1135?"
       },
       "tags": [
+        "uk",
+        "kings",
+        "middle_ages",
+        "medieval",
         "history"
       ],
       "type": "text_choice",
@@ -65,104 +68,23 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa06",
-      "correctAnswer": "Jean Auguste Dominique Ingres",
+      "category": "science",
+      "id": "6462628bab138b829b81ea2a",
+      "correctAnswer": "Osprey",
       "incorrectAnswers": [
-        "Caravaggio",
-        "Jackson Pollock",
-        "El Greco"
+        "Peregrine falcon",
+        "Golden eagle",
+        "Kestrel"
       ],
       "question": {
-        "text": "Which artist painted \"The Grand Odalisque\""
+        "text": "Which of these birds of prey mainly feeds on fish?"
       },
       "tags": [
-        "art",
-        "painting",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f4e",
-      "correctAnswer": "Jules Verne",
-      "incorrectAnswers": [
-        "Victor Hugo",
-        "Alphonse Daudet",
-        "Edgar Rice Burroughs"
-      ],
-      "question": {
-        "text": "Which author wrote 'Michael Strogoff'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcce",
-      "correctAnswer": "Indo-European",
-      "incorrectAnswers": [
-        "Dravidian",
-        "Japonic",
-        "Uralic"
-      ],
-      "question": {
-        "text": "The language 'Odia' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6462628bab138b829b81ea2b",
-      "correctAnswer": "Tommy Hilfiger",
-      "incorrectAnswers": [
-        "Ralph Lauren",
-        "Calvin Klein",
-        "Michael Kors"
-      ],
-      "question": {
-        "text": "Which American fashion designer is famous for his red, white and blue sportswear?"
-      },
-      "tags": [
-        "clothing",
-        "fashion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "6242e851a22452794eaef211",
-      "correctAnswer": "The Rams",
-      "incorrectAnswers": [
-        "The Blades",
-        "The Clarets",
-        "The Tigers"
-      ],
-      "question": {
-        "text": "What is the nickname of the English football team Derby County?"
-      },
-      "tags": [
-        "sport"
+        "birds",
+        "nature",
+        "animals",
+        "science",
+        "biology"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -171,15 +93,15 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f950532",
-      "correctAnswer": "The liver",
+      "id": "6242cb23d543524f1b19c910",
+      "correctAnswer": "A shoal",
       "incorrectAnswers": [
-        "Religion",
-        "The moon",
-        "The number 7"
+        "A clowder",
+        "A brace",
+        "A run"
       ],
       "question": {
-        "text": "What is Hepatology the study of?"
+        "text": "What is the word for a group of fish?"
       },
       "tags": [
         "science"
@@ -190,20 +112,85 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f920",
-      "correctAnswer": "Midnight Cowboy",
+      "category": "food_and_drink",
+      "id": "624ab0b2348a461bfc670690",
+      "correctAnswer": "The Middle East",
       "incorrectAnswers": [
-        "Ghost",
-        "Taxi Driver",
-        "The Manchurian Candidate"
+        "Southeast Asia",
+        "Europe",
+        "North America"
       ],
       "question": {
-        "text": "Which film contains the character 'Ratso Rizzo'?"
+        "text": "From which part of the world does celery originate?"
       },
       "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64720cd93bbb58c31f411cd4",
+      "correctAnswer": "Adam Smith",
+      "incorrectAnswers": [
+        "Karl Marx",
+        "John Maynard Keynes",
+        "Milton Friedman"
+      ],
+      "question": {
+        "text": "\"Wealth of Nations\" was written by which economist?"
+      },
+      "tags": [
+        "economics",
+        "philosophy",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "64a32df9fc63594e30247821",
+      "correctAnswer": "The Drake Passage",
+      "incorrectAnswers": [
+        "The Panama Canal",
+        "The Bering Strait",
+        "The Gulf of St Lawrence"
+      ],
+      "question": {
+        "text": "What is the name of the body of water between South America and Antarctica?"
+      },
+      "tags": [
+        "bodies_of_water",
+        "geography",
+        "south_america",
+        "antarctica"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbda",
+      "correctAnswer": "\"You know how I know that you’re gay?\"",
+      "incorrectAnswers": [
+        "\"Today, I consider myself the luckiest man on the face of the earth.\"",
+        "\"Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.\"",
+        "\"Not my tempo.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'The 40-Year-Old Virgin'?"
+      },
+      "tags": [
+        "quotes",
         "film",
-        "fictitious_characters",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -212,16 +199,80 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ed2",
-      "correctAnswer": "Nikolai Gogol",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8bc",
+      "correctAnswer": "Tennis",
       "incorrectAnswers": [
-        "Virginia Woolf",
-        "Alexander Pushkin",
-        "Ayn Rand"
+        "Table tennis",
+        "Gymnastics",
+        "Motor Racing"
       ],
       "question": {
-        "text": "Which author wrote 'Mirgorod'?"
+        "text": "With which sport is Martina Navratilova associated?"
+      },
+      "tags": [
+        "people",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f959",
+      "correctAnswer": "Lucky Jim",
+      "incorrectAnswers": [
+        "Of Mice and Men",
+        "Love in the Time of Cholera",
+        "In Our Time"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Jim Dixon'?"
+      },
+      "tags": [
+        "film",
+        "fictitious_characters",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62373fd0cb85f7ce9e949cbe",
+      "correctAnswer": "Ouagadougou",
+      "incorrectAnswers": [
+        "Monrovia",
+        "Manila",
+        "Dushanbe"
+      ],
+      "question": {
+        "text": "What is the capital city of Burkina Faso?"
+      },
+      "tags": [
+        "capital_cities",
+        "africa"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "649d6d6de3aef0a3c23f6433",
+      "correctAnswer": "Fear and Loathing in Las Vegas",
+      "incorrectAnswers": [
+        "On the Road",
+        "Blood Meridian",
+        "Catch-22"
+      ],
+      "question": {
+        "text": "Which Hunter S. Thompson book involves a wild journey through the desert and a series of autobiographical stories?"
       },
       "tags": [
         "literature",
@@ -233,19 +284,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9507cd",
-      "correctAnswer": "Meryl Streep",
+      "category": "food_and_drink",
+      "id": "625006600d86c8f685d80ee6",
+      "correctAnswer": "Tubular pasta",
       "incorrectAnswers": [
-        "Cate Blanchett",
-        "Nicole Kidman",
-        "Natalie Portman"
+        "Ribbon pasta",
+        "Shaped pasta",
+        "Soup pasta"
       ],
       "question": {
-        "text": "Which actress has featured in films including The Deer Hunter and Out of Africa?"
+        "text": "What type of pasta is calamarata?"
       },
       "tags": [
-        "film_and_tv"
+        "food",
+        "italy",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -253,19 +306,19 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501ba",
-      "correctAnswer": "Through the Looking-Glass",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d7f",
+      "correctAnswer": "AC/DC",
       "incorrectAnswers": [
-        "Mio, My Son",
-        "Jonathan Strange & Mr Norrell",
-        "The Stand"
+        "Pendulum",
+        "INXS",
+        "Savage Garden"
       ],
       "question": {
-        "text": "Which piece of written work starts with the line 'One thing was certain, that the white kitten had had nothing to do with it: — it was the black kitten’s fault entirely.'?"
+        "text": "Which band includes 'Angus Young'?"
       },
       "tags": [
-        "arts_and_literature"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -274,43 +327,21 @@
     },
     {
       "category": "history",
-      "id": "63a039c8c7d86251f9b65cb4",
-      "correctAnswer": "Andrew Johnson",
+      "id": "622a1c3c7cc59eab6f951b43",
+      "correctAnswer": "1789",
       "incorrectAnswers": [
-        "John Adams",
-        "Thomas Jefferson",
-        "James Madison"
+        "1689",
+        "1889",
+        "1989"
       ],
       "question": {
-        "text": "Who was the first president to be impeached?"
+        "text": "In What Year Did The French Revolution Begin?"
       },
       "tags": [
-        "history",
-        "usa",
-        "presidents",
-        "firsts"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506b7",
-      "correctAnswer": "John Wayne",
-      "incorrectAnswers": [
-        "Jean-Claude Van Damme",
-        "Seth Rogen",
-        "John Turturro"
-      ],
-      "question": {
-        "text": "Which actor has starred in films including The Longest Day and Stagecoach?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
+        "france",
+        "wars",
+        "revolutions",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -319,15 +350,15 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "6242e81d8c2538f9601d2f95",
-      "correctAnswer": "The Eagles",
+      "id": "62399ef6af96521963a0870d",
+      "correctAnswer": "Argentina",
       "incorrectAnswers": [
-        "The Bluebirds",
-        "The Sky Blues",
-        "The Rams"
+        "France",
+        "Brazil",
+        "England"
       ],
       "question": {
-        "text": "What is the nickname of the English football team Crystal Palace?"
+        "text": "Which country won the 1986 FIFA World Cup, hosted in Mexico?"
       },
       "tags": [
         "sport"
@@ -338,130 +369,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950bc8",
-      "correctAnswer": "Alice in Chains",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8b0",
+      "correctAnswer": "Cycling",
       "incorrectAnswers": [
-        "Poison",
-        "Three 6 Mafia",
-        "The Velvet Underground"
+        "Skiing",
+        "Snooker",
+        "Tennis"
       ],
       "question": {
-        "text": "Which American grunge band released the extended play 'Jar of Flies'?"
+        "text": "With which sport is Eddy Merckx associated?"
       },
       "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570197a97013de78b5531",
-      "correctAnswer": "Anti-freeze",
-      "incorrectAnswers": [
-        "Vitamin D",
-        "RNA",
-        "Fuel"
-      ],
-      "question": {
-        "text": "What other name is used to refer to ethylene glycol?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "649553a42cb69a84d25273f3",
-      "correctAnswer": "Justin Bieber",
-      "incorrectAnswers": [
-        "Shawn Mendes",
-        "Ed Sheeran",
-        "Harry Styles"
-      ],
-      "question": {
-        "text": "Who sang the 2009 hit 'One Time' with the lyrics 'Girl I love, girl I love you'?"
-      },
-      "tags": [
-        "music",
-        "pop_music",
-        "songs",
-        "lyrics"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950cf2",
-      "correctAnswer": "Queen",
-      "incorrectAnswers": [
-        "Level 42",
-        "Deep Purple",
-        "Feeder"
-      ],
-      "question": {
-        "text": "Which British rock band released the song 'You're My Best Friend'?"
-      },
-      "tags": [
-        "rock_music",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625698cc9da29df7b05f729e",
-      "correctAnswer": "Ayo",
-      "incorrectAnswers": [
-        "Agent Peggy Carter",
-        "Agent Maria Hill",
-        "Jane Foster"
-      ],
-      "question": {
-        "text": "In the Marvel Cinematic Universe, which character is played by Florence Kasumba?"
-      },
-      "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd1c",
-      "correctAnswer": "Søren Kierkegaard",
-      "incorrectAnswers": [
-        "Ludwig Wittgenstein",
-        "Friedrich Nietzsche",
-        "Bertrand Russell"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'Life must be understood backward. But it must be lived forward '?"
-      },
-      "tags": [
-        "quotes",
-        "philosophy",
-        "society_and_culture"
+        "people",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -470,15 +391,15 @@
     },
     {
       "category": "geography",
-      "id": "623387a40161109f922aac38",
-      "correctAnswer": "Somalia",
+      "id": "623388cd0161109f922aacad",
+      "correctAnswer": "Ural",
       "incorrectAnswers": [
-        "Niger",
-        "Chad",
-        "Tunisia"
+        "Alps",
+        "Pyrenees",
+        "Atlas"
       ],
       "question": {
-        "text": "Which of these countries occupies the 'horn' of Africa?"
+        "text": "Which mountain range is regarded as the Eastern border of Europe?"
       },
       "tags": [
         "geography"
@@ -489,21 +410,108 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "625063d3e12f6dec240bdf85",
-      "correctAnswer": "Twisted Sister",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fc5",
+      "correctAnswer": "John Logie Baird",
       "incorrectAnswers": [
-        "Men Without Hats",
-        "Brownsville Station",
-        "Spandau Ballet"
+        "Karl Benz",
+        "Johannes Gutenberg",
+        "Eli Whitney"
       ],
       "question": {
-        "text": "'We're Not Gonna Take It' was a one hit wonder in 1984 by which artist?"
+        "text": "Who First Demonstrated Television In 1926?"
       },
       "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
+        "inventions",
+        "people",
+        "1920's",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242cb61d543524f1b19c928",
+      "correctAnswer": "A labour",
+      "incorrectAnswers": [
+        "A covey",
+        "A watch",
+        "A nest"
+      ],
+      "question": {
+        "text": "What is the word for a group of moles?"
+      },
+      "tags": [
+        "animals",
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f6d",
+      "correctAnswer": "Arthur Conan Doyle",
+      "incorrectAnswers": [
+        "Agatha Christie",
+        "Oscar Wilde",
+        "George Orwell"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Sign of the Four'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd12",
+      "correctAnswer": "Baruch Spinoza",
+      "incorrectAnswers": [
+        "Spinoza",
+        "Jean-Jacques Rousseau",
+        "Socrates"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'If men were born free, they would, so long as they remained free, form no conception of good and evil'?"
+      },
+      "tags": [
+        "philosophy",
+        "quotes",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa33",
+      "correctAnswer": "Realism",
+      "incorrectAnswers": [
+        "Suprematism",
+        "Fauvism",
+        "Modernism"
+      ],
+      "question": {
+        "text": "The painting \"Olympia\" by Édouard Manet is a part of which art movement?"
+      },
+      "tags": [
+        "painting",
+        "art"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -512,40 +520,18 @@
     },
     {
       "category": "film_and_tv",
-      "id": "64860e82113d76c6b6317a00",
-      "correctAnswer": "Battlestar Galactica",
+      "id": "622a1c347cc59eab6f94fc07",
+      "correctAnswer": "\"Is it safe?\"",
       "incorrectAnswers": [
-        "Westworld",
-        "The Terminator",
-        "RoboCop"
+        "\"Wait a minute, wait a minute. You ain't heard nothin' yet!\"",
+        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\"",
+        "\"That’s a bingo!\""
       ],
       "question": {
-        "text": "What 2005-2009 TV show featured Cylons and cyborgs?"
+        "text": "Which of these quotes is from the film 'Marathon Man'?"
       },
       "tags": [
-        "film_and_tv",
-        "tv",
-        "science_fiction"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f929",
-      "correctAnswer": "Breakfast at Tiffany's",
-      "incorrectAnswers": [
-        "Citizen Kane",
-        "The Maltese Falcon",
-        "Say Anything..."
-      ],
-      "question": {
-        "text": "Which film contains the character 'Holly Golightly'?"
-      },
-      "tags": [
-        "acting",
+        "quotes",
         "film",
         "film_and_tv"
       ],
@@ -555,20 +541,63 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa43",
-      "correctAnswer": "Post Impressionism",
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc7a",
+      "correctAnswer": "Gabelle",
       "incorrectAnswers": [
-        "Northern Renaissance",
-        "Washington Color School",
-        "High Renaissance"
+        "Ragamuffin",
+        "Frankenfood",
+        "Gubbins"
       ],
       "question": {
-        "text": "The painting \"The Flower Carrier\" by Diego Rivera is a part of which art movement?"
+        "text": "Which word is defined as 'a tax on salt'?"
       },
       "tags": [
-        "art",
-        "painting",
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63e4c351106de6ffa7d4a7d0",
+      "correctAnswer": "Ankylosaurus",
+      "incorrectAnswers": [
+        "Triceratops",
+        "Stegosaurus",
+        "Parasaurolophus"
+      ],
+      "question": {
+        "text": "What is the name of the dinosaur with a club-like tail?"
+      },
+      "tags": [
+        "science",
+        "dinosaurs",
+        "nature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f976",
+      "correctAnswer": "The Catcher in the Rye",
+      "incorrectAnswers": [
+        "The Remains of the Day",
+        "Howards End",
+        "The Moviegoer"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Phoebe Caulfield'?"
+      },
+      "tags": [
+        "literature",
+        "fictitious_characters",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -577,36 +606,16 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951ac8",
-      "correctAnswer": "Van Morrison",
-      "incorrectAnswers": [
-        "Cat Stevens",
-        "David Bowie",
-        "Bob Dylan"
-      ],
-      "question": {
-        "text": "'Moondance' was a hit for which male singer?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "sport_and_leisure",
-      "id": "62417cd80f96c4efe8d7738b",
-      "correctAnswer": "Calgary Flames",
+      "id": "62417dbe0f96c4efe8d773e5",
+      "correctAnswer": "Tampa Bay Buccaneers",
       "incorrectAnswers": [
-        "Calgary Thunder",
-        "Calgary Bears",
-        "Calgary Royals"
+        "Tamba Bay Bears",
+        "Tampa Bay Nuggets",
+        "Tampa Bay Broncos"
       ],
       "question": {
-        "text": "Which of these is a hockey team based in Calgary?"
+        "text": "Which of these is an American Football team based in Tampa?"
       },
       "tags": [
         "sport"
@@ -617,21 +626,19 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "625063f6e12f6dec240bdf8f",
-      "correctAnswer": "Pop Muzik",
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9501d8",
+      "correctAnswer": "Barry Sonnenfeld",
       "incorrectAnswers": [
-        "No Rain",
-        "I'm Too Sexy",
-        "How Do You Talk to an Angel?"
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
       ],
       "question": {
-        "text": "What song did M have a hit with in 1979?"
+        "text": "Which director directed Men in Black?"
       },
       "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",

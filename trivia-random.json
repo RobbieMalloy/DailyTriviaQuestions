@@ -1,18 +1,38 @@
 {
-  "gameDate": "2026-04-25",
+  "gameDate": "2026-04-26",
   "difficulty": "random",
   "results": [
     {
-      "category": "sport_and_leisure",
-      "id": "62417d960f96c4efe8d773d6",
-      "correctAnswer": "Portland Timbers",
+      "category": "geography",
+      "id": "6237404ccb85f7ce9e949cf0",
+      "correctAnswer": "Cairo",
       "incorrectAnswers": [
-        "Portland Sporting",
-        "Portland Indians",
-        "Portland Dolphins"
+        "Conakry",
+        "Nairobi",
+        "Alexandria"
       ],
       "question": {
-        "text": "Which of these is a soccer team based in Portland?"
+        "text": "What is the capital city of Egypt?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6242e845a22452794eaef20e",
+      "correctAnswer": "The Blues",
+      "incorrectAnswers": [
+        "The Hoops",
+        "The Citizens",
+        "Cottagers"
+      ],
+      "question": {
+        "text": "What is the nickname of the English football team Birmingham City?"
       },
       "tags": [
         "sport"
@@ -23,21 +43,42 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951818",
-      "correctAnswer": "Peenemunde",
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f9500a7",
+      "correctAnswer": "Cockfighting",
       "incorrectAnswers": [
-        "Hamburg",
-        "Lübeck",
-        "Rostock"
+        "Rugby",
+        "Horse Racing",
+        "Tennis"
       ],
       "question": {
-        "text": "Which Baltic seaport was the German rocket centre during WWII?"
+        "text": "In what sport did the word 'crestfallen' originate?"
       },
       "tags": [
-        "world_war_2",
-        "germany",
-        "history"
+        "words",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f95006a",
+      "correctAnswer": "Evander Holyfield",
+      "incorrectAnswers": [
+        "Mike Tyson",
+        "Oscar De La Hoya",
+        "Floyd Mayweather"
+      ],
+      "question": {
+        "text": "Which Heavweight Boxer Was Known As The Real Deal?"
+      },
+      "tags": [
+        "boxing",
+        "people",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -46,388 +87,21 @@
     },
     {
       "category": "food_and_drink",
-      "id": "63f39519989356ef48370c13",
-      "correctAnswer": "Cherry",
+      "id": "625006940d86c8f685d80eed",
+      "correctAnswer": "Small thimbles",
       "incorrectAnswers": [
-        "Mango",
-        "Papaya",
-        "Pineapple"
+        "Elbows",
+        "Butterflies",
+        "Little ears"
       ],
       "question": {
-        "text": "Which of these fruits is not a tropical fruit?"
+        "text": "The pasta ditalini has what meaning in Italian?"
       },
       "tags": [
-        "food_and_drink",
         "food",
-        "fruit"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f98a",
-      "correctAnswer": "The Old Man and the Sea",
-      "incorrectAnswers": [
-        "The Remains of the Day",
-        "Their Eyes Were Watching God",
-        "The Color Purple"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Santiago'?"
-      },
-      "tags": [
-        "literature",
-        "classic_novels",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623735decfe13103f55eb579",
-      "correctAnswer": "Spain",
-      "incorrectAnswers": [
-        "Seychelles",
-        "Eswatini",
-        "Estonia"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.es' at the end of its web addresses?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "6242e860a22452794eaef217",
-      "correctAnswer": "The Lions",
-      "incorrectAnswers": [
-        "The Boro",
-        "The Tigers",
-        "The Magpies"
-      ],
-      "question": {
-        "text": "What is the nickname of the English football team Millwall?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f97c",
-      "correctAnswer": "The Maltese Falcon",
-      "incorrectAnswers": [
-        "The Thin Man",
-        "Blindness",
-        "One Hundred Years of Solitude"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Sam Spade'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "646339a001d576cfac3aa39c",
-      "correctAnswer": "Carmen",
-      "incorrectAnswers": [
-        "Madama Butterfly",
-        "La Traviata",
-        "The Barber of Seville"
-      ],
-      "question": {
-        "text": "What is the name of the opera that features the characters Escamillo, a bullfighter; Mercedes, a gypsy girl; and Don Jose, a soldier?"
-      },
-      "tags": [
-        "music",
-        "opera",
-        "theater",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623385e262eaad73716a8c9c",
-      "correctAnswer": "Lebanon ",
-      "incorrectAnswers": [
-        "Saudi Arabia",
-        "Oman",
-        "Jordan"
-      ],
-      "question": {
-        "text": "What's the only Middle Eastern country without a desert?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b9e",
-      "correctAnswer": "Wings",
-      "incorrectAnswers": [
-        "The Band",
-        "The Kinks",
-        "Deep Purple"
-      ],
-      "question": {
-        "text": "Which band did Paul McCartney form after The Beatles?"
-      },
-      "tags": [
-        "music",
-        "bands",
-        "the_beatles"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f2a",
-      "correctAnswer": "Hans Christian Andersen",
-      "incorrectAnswers": [
-        "Beatrix Potter",
-        "Søren Kierkegaard",
-        "Oscar Wilde"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Nightingale'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94feb0",
-      "correctAnswer": "Beyoncé",
-      "incorrectAnswers": [
-        "Madonna",
-        "Drake",
-        "Nicki Minaj"
-      ],
-      "question": {
-        "text": "Which American singer, actress and record producer released the song 'Lift Off'?"
-      },
-      "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3f7cc59eab6f952353",
-      "correctAnswer": "Willow",
-      "incorrectAnswers": [
-        "Birch",
-        "Elm",
-        "Cypress"
-      ],
-      "question": {
-        "text": "Aspirin was originally obtained from the bark of which tree?"
-      },
-      "tags": [
-        "chemistry",
-        "plants",
-        "medicine",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b5792fd6c701a92118367",
-      "correctAnswer": "Japan",
-      "incorrectAnswers": [
-        "Vietnam",
-        "Russia",
-        "France"
-      ],
-      "question": {
-        "text": "In which country would you find the Itsukushima Shinto Shrine?"
-      },
-      "tags": [
-        "tourist_attractions",
-        "places",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e85",
-      "correctAnswer": "Neil Gaiman",
-      "incorrectAnswers": [
-        "Stephen King",
-        "H. P. Lovecraft",
-        "Douglas Adams"
-      ],
-      "question": {
-        "text": "Which author wrote 'Trigger Warning: Short Fictions and Disturbances'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "64746b055a4c31088dd9d00b",
-      "correctAnswer": "El Cid",
-      "incorrectAnswers": [
-        "Don Quixote",
-        "Ferdinand II of Aragon",
-        "Zorro"
-      ],
-      "question": {
-        "text": "Which of these was an 11th-century  Spanish knight and warlord?"
-      },
-      "tags": [
-        "spain",
-        "history",
-        "1000s",
-        "people"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951322",
-      "correctAnswer": "1",
-      "incorrectAnswers": [
-        "0",
-        "2",
-        "3"
-      ],
-      "question": {
-        "text": "How many holes are there on a traditional paint pallette?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "art",
-        "general_knowledge",
-        "painting"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd44",
-      "correctAnswer": "Wood & Sound",
-      "incorrectAnswers": [
-        "Multiple & Sound",
-        "Wood & Tone",
-        "Multiple & Tone"
-      ],
-      "question": {
-        "text": "'Xylophone' Is Derived From The Greek Words For What?"
-      },
-      "tags": [
-        "language",
         "words",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "645cb0e67d263fd50970438d",
-      "correctAnswer": "Indochina",
-      "incorrectAnswers": [
-        "Malay",
-        "Malacca",
-        "Sunda"
-      ],
-      "question": {
-        "text": "Cambodia, Laos, and Vietnam are located on what peninsula?"
-      },
-      "tags": [
-        "countries",
-        "peninsulas",
-        "southeast_asia",
-        "asia",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d93",
-      "correctAnswer": "The Who",
-      "incorrectAnswers": [
-        "Deep Purple",
-        "Travis",
-        "Spandau Ballet"
-      ],
-      "question": {
-        "text": "Which band was co-founded by 'Pete Townshend'?"
-      },
-      "tags": [
-        "music"
+        "language",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -436,15 +110,276 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625fd72cdc0dd3b72da64d28",
-      "correctAnswer": "1959",
+      "id": "622a1c347cc59eab6f94f9ee",
+      "correctAnswer": "Red",
       "incorrectAnswers": [
-        "1953",
-        "1965",
-        "1971"
+        "Blue",
+        "Black",
+        "White"
       ],
       "question": {
-        "text": "In which year was Ben-Hur first released in the cinema?"
+        "text": "In The Matrix, which pill did Neo take?"
+      },
+      "tags": [
+        "film",
+        "cult_films",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c3c7cc59eab6f9517d4",
+      "correctAnswer": "G.I. Joe",
+      "incorrectAnswers": [
+        "Teenage Mutant Ninja Turtles",
+        "Scooby Doo",
+        "Transformers"
+      ],
+      "question": {
+        "text": "Which 80's cartoon ended with the phrase: 'And knowing is half the battle'?"
+      },
+      "tags": [
+        "1980's",
+        "cartoons",
+        "tv",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63b069394799123c67712f67",
+      "correctAnswer": "Korowai",
+      "incorrectAnswers": [
+        "Kaftan",
+        "Dashiki",
+        "Thobe"
+      ],
+      "question": {
+        "text": "What is the name of the fine woven cloak worn by the Māori people of New Zealand?"
+      },
+      "tags": [
+        "society_and_culture",
+        "new_zealand",
+        "fashion"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625063d7e12f6dec240bdf86",
+      "correctAnswer": "Nothing Compares 2 U",
+      "incorrectAnswers": [
+        "Whoomp! (There It Is)",
+        "Whip It",
+        "Bust a Move"
+      ],
+      "question": {
+        "text": "What song did Sinead O'Connor have a hit with in 1990?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "63a0395dc7d86251f9b65c4d",
+      "correctAnswer": "Feta",
+      "incorrectAnswers": [
+        "Gouda",
+        "Mozzarella",
+        "Parmesan"
+      ],
+      "question": {
+        "text": "What type of cheese is used in a classic Greek salad?"
+      },
+      "tags": [
+        "cheese",
+        "food_and_drink",
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f950132",
+      "correctAnswer": "Vanir",
+      "incorrectAnswers": [
+        "Maiar",
+        "Frost Giants",
+        "Valhallans"
+      ],
+      "question": {
+        "text": "In Norse myth, there were two separate races of gods: the Aesir gods which included Odin and Thor, and the ____ gods from whom descended Freya."
+      },
+      "tags": [
+        "mythology",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417d7d0f96c4efe8d773cc",
+      "correctAnswer": "Philadelphia Phillies",
+      "incorrectAnswers": [
+        "Philadelphia Brewers",
+        "Philadelphia Crew",
+        "Philadelphia Orioles"
+      ],
+      "question": {
+        "text": "Which of these is a baseball team based in Philadelphia?"
+      },
+      "tags": [
+        "usa",
+        "baseball",
+        "nbl",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6398983e5c9a75021f31046a",
+      "correctAnswer": "Italy",
+      "incorrectAnswers": [
+        "France",
+        "Spain",
+        "United States"
+      ],
+      "question": {
+        "text": "Which country is the world's largest producer of wine by volume?"
+      },
+      "tags": [
+        "food_and_drink",
+        "wine",
+        "drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c47",
+      "correctAnswer": "The Beach Boys",
+      "incorrectAnswers": [
+        "The Velvet Underground",
+        "The Ramones",
+        "Eagles"
+      ],
+      "question": {
+        "text": "Which American rock band released the album 'Smile'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f950172",
+      "correctAnswer": "Prokofiev",
+      "incorrectAnswers": [
+        "Beethoven",
+        "Strauss",
+        "Stravinsky"
+      ],
+      "question": {
+        "text": "Who composed the ballet \"Romeo & Juliet\"?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64a9cc039bf4085beaa1b04a",
+      "correctAnswer": "Arcade Fire",
+      "incorrectAnswers": [
+        "Coldplay",
+        "Radiohead",
+        "The Killers"
+      ],
+      "question": {
+        "text": "In 2007, which Montreal group released the album 'Neon Bible'?"
+      },
+      "tags": [
+        "bands",
+        "music",
+        "music_albums"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3f7cc59eab6f9523ac",
+      "correctAnswer": "Amnesia",
+      "incorrectAnswers": [
+        "Insomnia",
+        "Coma",
+        "Kleptomania"
+      ],
+      "question": {
+        "text": "A loss of memory is known as what?"
+      },
+      "tags": [
+        "medicine",
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "645bc180f09106226db2359e",
+      "correctAnswer": "Soccer",
+      "incorrectAnswers": [
+        "Baseball",
+        "Basketball",
+        "Hockey"
+      ],
+      "question": {
+        "text": "In the 1992 film \"Ladybugs\", a flustered Rodney Dangerfield coached a girls' team in which sport?"
       },
       "tags": [
         "film",
@@ -456,41 +391,19 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f3f",
-      "correctAnswer": "Guy de Maupassant",
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504b2",
+      "correctAnswer": "plant diseases",
       "incorrectAnswers": [
-        "François-René de Chateaubriand",
-        "Anatole France",
-        "Albert Camus"
+        "flies",
+        "schematic layouts",
+        "nerves"
       ],
       "question": {
-        "text": "Which author wrote 'Au soleil'?"
+        "text": "What is Phytopathology the study of?"
       },
       "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c607f50d1a5e051325a5f",
-      "correctAnswer": "The United Kingdom",
-      "incorrectAnswers": [
-        "Cuba",
-        "Indonesia",
-        "India"
-      ],
-      "question": {
-        "text": "Where in the world was Chicken Tikka Masala invented?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -498,83 +411,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9519d8",
-      "correctAnswer": "Qing",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fed",
+      "correctAnswer": "Hippopotamus",
       "incorrectAnswers": [
-        "Ming",
-        "Tan",
-        "Han"
+        "Elephant",
+        "Rhinoceros",
+        "American Bison"
       ],
       "question": {
-        "text": "What Chinese dynasty was overthrown in 1912?"
+        "text": "Which Is The Second Heaviest Land Animal?"
       },
       "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63d952fc168979b94b2e4f6b",
-      "correctAnswer": "Simon Bolivar",
-      "incorrectAnswers": [
-        "Juan Peron",
-        "Augusto Pinochet",
-        "Ho Chi Minh"
-      ],
-      "question": {
-        "text": "Which leader was known as 'The Great Liberator'?"
-      },
-      "tags": [
-        "history",
-        "leaders",
-        "people"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd81",
-      "correctAnswer": "Irving Berlin",
-      "incorrectAnswers": [
-        "Stephen Sondheim",
-        "Andrew Lloyd Webber",
-        "George Gershwin"
-      ],
-      "question": {
-        "text": "Who Wrote The Musical \"There's No Business Like Show Business\"?"
-      },
-      "tags": [
-        "musicals",
-        "theater",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e10",
-      "correctAnswer": "James Fenimore Cooper",
-      "incorrectAnswers": [
-        "Edgar Rice Burroughs",
-        "Jack London",
-        "Edgar Allan Poe"
-      ],
-      "question": {
-        "text": "Which author wrote 'Leatherstocking Tales'?"
-      },
-      "tags": [
-        "arts_and_literature"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -583,41 +432,86 @@
     },
     {
       "category": "geography",
-      "id": "623b5859fd6c701a921183b3",
-      "correctAnswer": "Australia",
+      "id": "6233873f0161109f922aac11",
+      "correctAnswer": "France",
       "incorrectAnswers": [
-        "China",
-        "Italy",
-        "France"
+        "Portugal",
+        "The USA",
+        "Australia"
       ],
       "question": {
-        "text": "In which country would you find the Sydney Opera House?"
+        "text": "Which country administers Martinique?"
       },
       "tags": [
         "geography"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c3a7cc59eab6f95109d",
-      "correctAnswer": "12 Pints",
+      "category": "food_and_drink",
+      "id": "6477bb1e550bc819ad646b79",
+      "correctAnswer": "The Rhône",
       "incorrectAnswers": [
-        "9 Pints",
-        "7 Pints",
-        "10 Pints"
+        "The Seine",
+        "The Saône",
+        "The Garonne"
       ],
       "question": {
-        "text": "The Average Woman Has 9 Pints Of Blood, How Much Has The Average Man"
+        "text": "The valley of which French river is known for producing large amounts of quality red wine?"
       },
       "tags": [
-        "biology",
-        "medicine",
-        "anatomy",
-        "general_knowledge"
+        "wine",
+        "france",
+        "food_and_drink",
+        "food",
+        "rivers"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ec277f41d6338b96eedb",
+      "correctAnswer": "Engineer who helped develop radio transmission.",
+      "incorrectAnswers": [
+        "Roman ruler who oversaw the demise of the Roman Republic to be replaced with a Roman Emperor.",
+        "Poet and playwright.",
+        "Renaissance mathematician and astronomer who believed Sun was the centre of the Universe - rather than Earth."
+      ],
+      "question": {
+        "text": "Which of the following describes Guglielmo Marconi?"
+      },
+      "tags": [
+        "people",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fa65",
+      "correctAnswer": "Christoph Waltz",
+      "incorrectAnswers": [
+        "Alan Arkin",
+        "Robert De Niro",
+        "Philip Seymour Hoffman"
+      ],
+      "question": {
+        "text": "Who won the 2012 Academy Award for Best Supporting Actor for playing the role of Dr. King Schultz in Django Unchained?"
+      },
+      "tags": [
+        "academy_awards",
+        "acting",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -625,19 +519,126 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e2a",
-      "correctAnswer": "Gustave Flaubert",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9517af",
+      "correctAnswer": "Napoleon",
       "incorrectAnswers": [
-        "Anatole France",
-        "Guy de Maupassant",
-        "Charles Perrault"
+        "Charlemagne",
+        "De Gaulle",
+        "Joan of Arc"
       ],
       "question": {
-        "text": "Which author wrote 'Bouvard et Pécuchet'?"
+        "text": "Which French Ruler Was Finally Defeated In 1815?"
       },
       "tags": [
-        "arts_and_literature"
+        "france",
+        "wars",
+        "people",
+        "leaders",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950098",
+      "correctAnswer": "Houston",
+      "incorrectAnswers": [
+        "Atlanta",
+        "Settle",
+        "Miami"
+      ],
+      "question": {
+        "text": "The Rockets Basketball Team & The Astros Baseball Team Both Hail From Which US City?"
+      },
+      "tags": [
+        "sport",
+        "usa"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95056b",
+      "correctAnswer": "How to encode and decode secret messages",
+      "incorrectAnswers": [
+        "Animal diseases",
+        "Sacred texts",
+        "Burial grounds"
+      ],
+      "question": {
+        "text": "What is cryptology the study of?"
+      },
+      "tags": [
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624333d2cfaae40c12961407",
+      "correctAnswer": "A Calf",
+      "incorrectAnswers": [
+        "An Owlet",
+        "A Maggot",
+        "An Infant"
+      ],
+      "question": {
+        "text": "What would you call a baby elephant?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62399f1aaf96521963a0871a",
+      "correctAnswer": "Brazil",
+      "incorrectAnswers": [
+        "France",
+        "Italy",
+        "West Germany"
+      ],
+      "question": {
+        "text": "Which country won the 1958 FIFA World Cup, hosted in Sweden?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c367cc59eab6f9503f1",
+      "correctAnswer": "All Born On Christmas Day",
+      "incorrectAnswers": [
+        "All British Nobility",
+        "All Died By Drowning",
+        "All Related To Each Other (by blood)"
+      ],
+      "question": {
+        "text": "What Connects Kenny Everett, Annie Lennox, And Sir Isaac Newton?"
+      },
+      "tags": [
+        "people",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "hard",
