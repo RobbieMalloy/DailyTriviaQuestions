@@ -1,21 +1,24 @@
 {
-  "gameDate": "2026-04-26",
+  "gameDate": "2026-04-27",
   "difficulty": "random",
   "results": [
     {
-      "category": "geography",
-      "id": "6237404ccb85f7ce9e949cf0",
-      "correctAnswer": "Cairo",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fd3",
+      "correctAnswer": "Sol",
       "incorrectAnswers": [
-        "Conakry",
-        "Nairobi",
-        "Alexandria"
+        "Ursa Minor",
+        "Proxima Centauri",
+        "Epsilon Eridani"
       ],
       "question": {
-        "text": "What is the capital city of Egypt?"
+        "text": "Which star is nearest the Earth?"
       },
       "tags": [
-        "geography"
+        "astronomy",
+        "the_solar_system",
+        "general_knowledge",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -23,346 +26,39 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "6242e845a22452794eaef20e",
-      "correctAnswer": "The Blues",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951021",
+      "correctAnswer": "Carnivorous",
       "incorrectAnswers": [
-        "The Hoops",
-        "The Citizens",
-        "Cottagers"
+        "Trap",
+        "Pitcher",
+        "Belljar"
       ],
       "question": {
-        "text": "What is the nickname of the English football team Birmingham City?"
+        "text": "What is the term for the group of plants that catch and digest insects?"
       },
       "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500a7",
-      "correctAnswer": "Cockfighting",
-      "incorrectAnswers": [
-        "Rugby",
-        "Horse Racing",
-        "Tennis"
-      ],
-      "question": {
-        "text": "In what sport did the word 'crestfallen' originate?"
-      },
-      "tags": [
-        "words",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f95006a",
-      "correctAnswer": "Evander Holyfield",
-      "incorrectAnswers": [
-        "Mike Tyson",
-        "Oscar De La Hoya",
-        "Floyd Mayweather"
-      ],
-      "question": {
-        "text": "Which Heavweight Boxer Was Known As The Real Deal?"
-      },
-      "tags": [
-        "boxing",
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "625006940d86c8f685d80eed",
-      "correctAnswer": "Small thimbles",
-      "incorrectAnswers": [
-        "Elbows",
-        "Butterflies",
-        "Little ears"
-      ],
-      "question": {
-        "text": "The pasta ditalini has what meaning in Italian?"
-      },
-      "tags": [
-        "food",
-        "words",
-        "language",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f9ee",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Blue",
-        "Black",
-        "White"
-      ],
-      "question": {
-        "text": "In The Matrix, which pill did Neo take?"
-      },
-      "tags": [
-        "film",
-        "cult_films",
-        "film_and_tv"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f9517d4",
-      "correctAnswer": "G.I. Joe",
-      "incorrectAnswers": [
-        "Teenage Mutant Ninja Turtles",
-        "Scooby Doo",
-        "Transformers"
-      ],
-      "question": {
-        "text": "Which 80's cartoon ended with the phrase: 'And knowing is half the battle'?"
-      },
-      "tags": [
-        "1980's",
-        "cartoons",
-        "tv",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63b069394799123c67712f67",
-      "correctAnswer": "Korowai",
-      "incorrectAnswers": [
-        "Kaftan",
-        "Dashiki",
-        "Thobe"
-      ],
-      "question": {
-        "text": "What is the name of the fine woven cloak worn by the Māori people of New Zealand?"
-      },
-      "tags": [
-        "society_and_culture",
-        "new_zealand",
-        "fashion"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "625063d7e12f6dec240bdf86",
-      "correctAnswer": "Nothing Compares 2 U",
-      "incorrectAnswers": [
-        "Whoomp! (There It Is)",
-        "Whip It",
-        "Bust a Move"
-      ],
-      "question": {
-        "text": "What song did Sinead O'Connor have a hit with in 1990?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "63a0395dc7d86251f9b65c4d",
-      "correctAnswer": "Feta",
-      "incorrectAnswers": [
-        "Gouda",
-        "Mozzarella",
-        "Parmesan"
-      ],
-      "question": {
-        "text": "What type of cheese is used in a classic Greek salad?"
-      },
-      "tags": [
-        "cheese",
-        "food_and_drink",
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950132",
-      "correctAnswer": "Vanir",
-      "incorrectAnswers": [
-        "Maiar",
-        "Frost Giants",
-        "Valhallans"
-      ],
-      "question": {
-        "text": "In Norse myth, there were two separate races of gods: the Aesir gods which included Odin and Thor, and the ____ gods from whom descended Freya."
-      },
-      "tags": [
-        "mythology",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d7d0f96c4efe8d773cc",
-      "correctAnswer": "Philadelphia Phillies",
-      "incorrectAnswers": [
-        "Philadelphia Brewers",
-        "Philadelphia Crew",
-        "Philadelphia Orioles"
-      ],
-      "question": {
-        "text": "Which of these is a baseball team based in Philadelphia?"
-      },
-      "tags": [
-        "usa",
-        "baseball",
-        "nbl",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6398983e5c9a75021f31046a",
-      "correctAnswer": "Italy",
-      "incorrectAnswers": [
-        "France",
-        "Spain",
-        "United States"
-      ],
-      "question": {
-        "text": "Which country is the world's largest producer of wine by volume?"
-      },
-      "tags": [
-        "food_and_drink",
-        "wine",
-        "drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c47",
-      "correctAnswer": "The Beach Boys",
-      "incorrectAnswers": [
-        "The Velvet Underground",
-        "The Ramones",
-        "Eagles"
-      ],
-      "question": {
-        "text": "Which American rock band released the album 'Smile'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950172",
-      "correctAnswer": "Prokofiev",
+      "id": "622a1c397cc59eab6f950eaf",
+      "correctAnswer": "J. K. Rowling",
       "incorrectAnswers": [
-        "Beethoven",
-        "Strauss",
-        "Stravinsky"
+        "Christopher Tolkien",
+        "Philip Pullman",
+        "C. S. Lewis"
       ],
       "question": {
-        "text": "Who composed the ballet \"Romeo & Juliet\"?"
+        "text": "Which author wrote 'Harry Potter and the Half-Blood Prince'?"
       },
       "tags": [
         "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "64a9cc039bf4085beaa1b04a",
-      "correctAnswer": "Arcade Fire",
-      "incorrectAnswers": [
-        "Coldplay",
-        "Radiohead",
-        "The Killers"
-      ],
-      "question": {
-        "text": "In 2007, which Montreal group released the album 'Neon Bible'?"
-      },
-      "tags": [
-        "bands",
-        "music",
-        "music_albums"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3f7cc59eab6f9523ac",
-      "correctAnswer": "Amnesia",
-      "incorrectAnswers": [
-        "Insomnia",
-        "Coma",
-        "Kleptomania"
-      ],
-      "question": {
-        "text": "A loss of memory is known as what?"
-      },
-      "tags": [
-        "medicine",
-        "words",
-        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -370,40 +66,20 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "645bc180f09106226db2359e",
-      "correctAnswer": "Soccer",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f871",
+      "correctAnswer": "Cricket",
       "incorrectAnswers": [
-        "Baseball",
-        "Basketball",
-        "Hockey"
+        "Motor Racing",
+        "Snooker",
+        "Rowing"
       ],
       "question": {
-        "text": "In the 1992 film \"Ladybugs\", a flustered Rodney Dangerfield coached a girls' team in which sport?"
+        "text": "With which sport is Brian Lara associated?"
       },
       "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9504b2",
-      "correctAnswer": "plant diseases",
-      "incorrectAnswers": [
-        "flies",
-        "schematic layouts",
-        "nerves"
-      ],
-      "question": {
-        "text": "What is Phytopathology the study of?"
-      },
-      "tags": [
-        "science"
+        "people",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -412,35 +88,37 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f950fed",
-      "correctAnswer": "Hippopotamus",
+      "id": "624437b1746187c5e7be936c",
+      "correctAnswer": "It is used in disinfectants and antiseptics.",
       "incorrectAnswers": [
-        "Elephant",
-        "Rhinoceros",
-        "American Bison"
+        "It is used in nuclear reactors, as a neutron moderator.",
+        "It is used as oscillators in radios, watches.",
+        "It is used for surface purification, bleaching, odour removal and water disinfection."
       ],
       "question": {
-        "text": "Which Is The Second Heaviest Land Animal?"
+        "text": "What is the chemical isopropyl alcohol often used for?"
       },
       "tags": [
+        "chemistry",
+        "general_knowledge",
         "science"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "geography",
-      "id": "6233873f0161109f922aac11",
-      "correctAnswer": "France",
+      "id": "622a1c387cc59eab6f9507f6",
+      "correctAnswer": "Europe",
       "incorrectAnswers": [
-        "Portugal",
-        "The USA",
-        "Australia"
+        "South America",
+        "Oceania",
+        "Asia"
       ],
       "question": {
-        "text": "Which country administers Martinique?"
+        "text": "The country of Liechtenstein is on which continent?"
       },
       "tags": [
         "geography"
@@ -451,67 +129,22 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "6477bb1e550bc819ad646b79",
-      "correctAnswer": "The Rhône",
+      "category": "science",
+      "id": "622a1c397cc59eab6f950fb8",
+      "correctAnswer": "Alexander Fleming",
       "incorrectAnswers": [
-        "The Seine",
-        "The Saône",
-        "The Garonne"
+        "Louis Pasteur",
+        "Frederick Sanger",
+        "John Dalton"
       ],
       "question": {
-        "text": "The valley of which French river is known for producing large amounts of quality red wine?"
+        "text": "Who Is Accepted As The Discoverer Of Penicillin?"
       },
       "tags": [
-        "wine",
-        "france",
-        "food_and_drink",
-        "food",
-        "rivers"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ec277f41d6338b96eedb",
-      "correctAnswer": "Engineer who helped develop radio transmission.",
-      "incorrectAnswers": [
-        "Roman ruler who oversaw the demise of the Roman Republic to be replaced with a Roman Emperor.",
-        "Poet and playwright.",
-        "Renaissance mathematician and astronomer who believed Sun was the centre of the Universe - rather than Earth."
-      ],
-      "question": {
-        "text": "Which of the following describes Guglielmo Marconi?"
-      },
-      "tags": [
+        "inventions",
+        "chemistry",
         "people",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa65",
-      "correctAnswer": "Christoph Waltz",
-      "incorrectAnswers": [
-        "Alan Arkin",
-        "Robert De Niro",
-        "Philip Seymour Hoffman"
-      ],
-      "question": {
-        "text": "Who won the 2012 Academy Award for Best Supporting Actor for playing the role of Dr. King Schultz in Django Unchained?"
-      },
-      "tags": [
-        "academy_awards",
-        "acting",
-        "film",
-        "film_and_tv"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -520,21 +153,20 @@
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f9517af",
-      "correctAnswer": "Napoleon",
+      "id": "62611f554b176d54800e3d52",
+      "correctAnswer": "1992",
       "incorrectAnswers": [
-        "Charlemagne",
-        "De Gaulle",
-        "Joan of Arc"
+        "1945",
+        "1960",
+        "1977"
       ],
       "question": {
-        "text": "Which French Ruler Was Finally Defeated In 1815?"
+        "text": "When did the Maastricht Treaty lay the foundation for the European Union?"
       },
       "tags": [
-        "france",
-        "wars",
-        "people",
-        "leaders",
+        "events",
+        "politics",
+        "europe",
         "history"
       ],
       "type": "text_choice",
@@ -543,41 +175,21 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950098",
-      "correctAnswer": "Houston",
+      "category": "society_and_culture",
+      "id": "6293ec577f41d6338b96eee9",
+      "correctAnswer": "Powerful Indian King who established a large empire by conquest before converting to Buddhism.",
       "incorrectAnswers": [
-        "Atlanta",
-        "Settle",
-        "Miami"
+        "Queen of England from 1558 to her death in 1603. Cemented England as a Protestant country, defeated Spanish Armada.",
+        "Explorer, first European to reach India and establish a route for imperialism.",
+        "Spiritual Teacher and founder of Buddhism."
       ],
       "question": {
-        "text": "The Rockets Basketball Team & The Astros Baseball Team Both Hail From Which US City?"
+        "text": "Which of the following describes Asoka?"
       },
       "tags": [
-        "sport",
-        "usa"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95056b",
-      "correctAnswer": "How to encode and decode secret messages",
-      "incorrectAnswers": [
-        "Animal diseases",
-        "Sacred texts",
-        "Burial grounds"
-      ],
-      "question": {
-        "text": "What is cryptology the study of?"
-      },
-      "tags": [
-        "science",
-        "words"
+        "people",
+        "history",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -585,38 +197,90 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "624333d2cfaae40c12961407",
-      "correctAnswer": "A Calf",
+      "category": "film_and_tv",
+      "id": "625740a49da29df7b05f73ed",
+      "correctAnswer": "Chinatown",
       "incorrectAnswers": [
-        "An Owlet",
-        "A Maggot",
-        "An Infant"
+        "Gran Torino",
+        "Up",
+        "Gone Girl"
       ],
       "question": {
-        "text": "What would you call a baby elephant?"
+        "text": "Name the movie that matches the following plot summary: 'A detective hired to expose an adulterer finds himself caught up in a web of deceit.'"
       },
       "tags": [
-        "science"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3b7cc59eab6f951791",
+      "correctAnswer": "Louis XIV",
+      "incorrectAnswers": [
+        "Henri III",
+        "Charles the Bald",
+        "Napoleon Bonaparte"
+      ],
+      "question": {
+        "text": "Which King of France was known as The Sun King?"
+      },
+      "tags": [
+        "france",
+        "leaders",
+        "nicknames",
+        "middle_ages",
+        "medieval",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "64974e400752843c0d8aadaf",
+      "correctAnswer": "Nepal",
+      "incorrectAnswers": [
+        "Sri Lanka",
+        "Bangladesh",
+        "Pakistan"
+      ],
+      "question": {
+        "text": "Which country is surrounded by India on three sides and China to the north?"
+      },
+      "tags": [
+        "borders",
+        "asia",
+        "india",
+        "china",
+        "countries",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "sport_and_leisure",
-      "id": "62399f1aaf96521963a0871a",
-      "correctAnswer": "Brazil",
+      "id": "622a1c367cc59eab6f950024",
+      "correctAnswer": "Tennis",
       "incorrectAnswers": [
-        "France",
-        "Italy",
-        "West Germany"
+        "Soccer",
+        "Badminton",
+        "Volleyball"
       ],
       "question": {
-        "text": "Which country won the 1958 FIFA World Cup, hosted in Sweden?"
+        "text": "With which sport is Chris Evert Lloyd identified?"
       },
       "tags": [
+        "people",
         "sport"
       ],
       "type": "text_choice",
@@ -625,20 +289,376 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f9503f1",
-      "correctAnswer": "All Born On Christmas Day",
+      "category": "society_and_culture",
+      "id": "622a1c3d7cc59eab6f951ca3",
+      "correctAnswer": "9 Ladies Dancing",
       "incorrectAnswers": [
-        "All British Nobility",
-        "All Died By Drowning",
-        "All Related To Each Other (by blood)"
+        "9 Lords a Leaping",
+        "9 Calling Birds",
+        "9 Pipers Piping"
       ],
       "question": {
-        "text": "What Connects Kenny Everett, Annie Lennox, And Sir Isaac Newton?"
+        "text": "What did 'my true love give to me' on the ninth day of Christmas?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951b9e",
+      "correctAnswer": "Mount Pelée",
+      "incorrectAnswers": [
+        "Krakatoa",
+        "Mount St Helen's",
+        "Mount Pinatubo"
+      ],
+      "question": {
+        "text": "Which volcano erupted in 1902, killing 30,000?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ec657f41d6338b96eeed",
+      "correctAnswer": "Christian theologian who developed a strict brand of Protestant Christianity.",
+      "incorrectAnswers": [
+        "Explorer, first European to reach India and establish a route for imperialism.",
+        "Inventor of the printing press.",
+        "Physicist who discovered electromagnetic waves or X-rays."
+      ],
+      "question": {
+        "text": "Which of the following describes John Calvin?"
       },
       "tags": [
         "people",
-        "general_knowledge"
+        "history",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ebdc7f41d6338b96eec5",
+      "correctAnswer": "Moses",
+      "incorrectAnswers": [
+        "Mohammed",
+        "Frodo",
+        "Buddha"
+      ],
+      "question": {
+        "text": "Who of these was a key figure of Jewish/Christian history?"
+      },
+      "tags": [
+        "people",
+        "society_and_culture",
+        "christianity",
+        "judaism",
+        "religion"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "639ae2de929b90846f2fc8be",
+      "correctAnswer": "Blót",
+      "incorrectAnswers": [
+        "Flägen",
+        "Midsommar",
+        "Odinskón"
+      ],
+      "question": {
+        "text": "What is the name of the Viking practice of sacrificing prisoners to their gods?"
+      },
+      "tags": [
+        "history",
+        "vikings",
+        "traditions"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcf8",
+      "correctAnswer": "Turkic",
+      "incorrectAnswers": [
+        "Koreanic",
+        "Afroasiatic",
+        "Niger–Congo"
+      ],
+      "question": {
+        "text": "The language 'Turkish' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f80",
+      "correctAnswer": "Stephen King",
+      "incorrectAnswers": [
+        "H. P. Lovecraft",
+        "Edgar Allan Poe",
+        "Jack Vance"
+      ],
+      "question": {
+        "text": "Which author wrote 'It'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "639c9dbc929b90846f2fc9ac",
+      "correctAnswer": "The Ramayana",
+      "incorrectAnswers": [
+        "The Upanishads",
+        "The Bhagavad Gita",
+        "The Puranas"
+      ],
+      "question": {
+        "text": "What is the name of the Hindu scripture that contains the story of Sita?"
+      },
+      "tags": [
+        "hinduism",
+        "religion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "639ae86e929b90846f2fc8dd",
+      "correctAnswer": "Millennium Falcon",
+      "incorrectAnswers": [
+        "Razor Crest",
+        "Ebon Hawk",
+        "X-Wing"
+      ],
+      "question": {
+        "text": "In Star Wars, what is the name of Han Solo's ship?"
+      },
+      "tags": [
+        "star_wars",
+        "film_and_tv",
+        "film",
+        "science_fiction"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64824e287778562fd76a960e",
+      "correctAnswer": "Adele",
+      "incorrectAnswers": [
+        "Taylor Swift",
+        "Ed Sheeran",
+        "Beyoncé"
+      ],
+      "question": {
+        "text": "Released in 2008, which artist's debut album was titled \"19\"?"
+      },
+      "tags": [
+        "music",
+        "music_albums"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8ae",
+      "correctAnswer": "Swimming",
+      "incorrectAnswers": [
+        "Figure skating",
+        "Track and field",
+        "Boxing"
+      ],
+      "question": {
+        "text": "With which sport is Michael Phelps associated?"
+      },
+      "tags": [
+        "olympics",
+        "people",
+        "general_knowledge",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "646089a9de964ebc39016c64",
+      "correctAnswer": "Mount Olympus",
+      "incorrectAnswers": [
+        "Mount Everest",
+        "Mont Blanc",
+        "Mount Etna"
+      ],
+      "question": {
+        "text": "Which mountain was believed by the ancient Greeks to be the center of the Earth?"
+      },
+      "tags": [
+        "history",
+        "mythology",
+        "geography",
+        "ancient_greece",
+        "mountains"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "646339a001d576cfac3aa396",
+      "correctAnswer": "Cheers & Frasier",
+      "incorrectAnswers": [
+        "Seinfeld & Friends",
+        "The Big Bang Theory & How I Met Your Mother",
+        "The Office & Brooklyn Nine-Nine"
+      ],
+      "question": {
+        "text": "On which two popular sitcoms has Bebe Neuwirth played Dr. Lilith Sternin?"
+      },
+      "tags": [
+        "sitcoms",
+        "tv",
+        "film_and_tv",
+        "acting"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "624dba59de6018633d31f6c1",
+      "correctAnswer": "Goldfinger",
+      "incorrectAnswers": [
+        "Casino Royale",
+        "Spectre",
+        "Dr. No"
+      ],
+      "question": {
+        "text": "Which James Bond theme song was performed by Shirley Bassey?"
+      },
+      "tags": [
+        "james_bond",
+        "film",
+        "soundtracks",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "639c9d9f929b90846f2fc972",
+      "correctAnswer": "Skyscraper",
+      "incorrectAnswers": [
+        "Cathedral",
+        "Museum",
+        "Stadium"
+      ],
+      "question": {
+        "text": "The Gherkin is a well-known London building designed by Norman Foster. What type of building is it?"
+      },
+      "tags": [
+        "architecture",
+        "geography",
+        "buildings",
+        "london",
+        "uk"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "647f9ded3a4302a71927167b",
+      "correctAnswer": "Frankfort",
+      "incorrectAnswers": [
+        "Louisville",
+        "Lexington",
+        "Bowling Green"
+      ],
+      "question": {
+        "text": "What is the capital of Kentucky?"
+      },
+      "tags": [
+        "usa",
+        "state_capitals",
+        "cities",
+        "kentucky",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9518fb",
+      "correctAnswer": "Botany Bay",
+      "incorrectAnswers": [
+        "Florida",
+        "Hong Kong",
+        "The Bay of Biscay"
+      ],
+      "question": {
+        "text": "What Was Formerly Called Stingray Harbour?"
+      },
+      "tags": [
+        "previous_names",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",

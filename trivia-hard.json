@@ -1,22 +1,24 @@
 {
-  "gameDate": "2026-04-26",
+  "gameDate": "2026-04-27",
   "difficulty": "hard",
   "results": [
     {
-      "category": "arts_and_literature",
-      "id": "648891c14cd3f064f443dc51",
-      "correctAnswer": "Rex",
+      "category": "film_and_tv",
+      "id": "624dba29de6018633d31f6b8",
+      "correctAnswer": "Tom Jones",
       "incorrectAnswers": [
-        "Max",
-        "Leo",
-        "Bob"
+        "Adele",
+        "Shirley Bassey",
+        "Duran Duran"
       ],
       "question": {
-        "text": "What is the second part of the title of the Sophocles play about the king of Thebes?"
+        "text": "Who performed the theme song to the James Bond film Thunderball?"
       },
       "tags": [
-        "theater",
-        "arts_and_literature"
+        "james_bond",
+        "film",
+        "soundtracks",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -25,15 +27,15 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c74",
-      "correctAnswer": "U2",
+      "id": "622a1c387cc59eab6f950ba2",
+      "correctAnswer": "Weezer",
       "incorrectAnswers": [
-        "Public Image Ltd.",
-        "The Script",
-        "The Cure"
+        "LMFAO",
+        "Static-X",
+        "The Black Keys"
       ],
       "question": {
-        "text": "Which Irish rock band released the song 'Elevation'?"
+        "text": "Which alternative rock band from the United States released the studio album 'Everything Will Be Alright in the End'?"
       },
       "tags": [
         "music"
@@ -44,23 +46,22 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9bd",
-      "correctAnswer": "Henry I",
+      "category": "general_knowledge",
+      "id": "6355b7fce8b368eed3a6823e",
+      "correctAnswer": "The y in 'yellow'",
       "incorrectAnswers": [
-        "George II",
-        "John",
-        "George IV"
+        "The p in 'pin'",
+        "The t in 'train'",
+        "The sh in 'shop'"
       ],
       "question": {
-        "text": "Who was the monarch of England during the time period 1100-1135?"
+        "text": "In phonetics, which of these is an example of an approximant sound?"
       },
       "tags": [
-        "uk",
-        "kings",
-        "middle_ages",
-        "medieval",
-        "history"
+        "language",
+        "linguistics",
+        "general_knowledge",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -69,39 +70,15 @@
     },
     {
       "category": "science",
-      "id": "6462628bab138b829b81ea2a",
-      "correctAnswer": "Osprey",
+      "id": "622a1c3a7cc59eab6f9510bb",
+      "correctAnswer": "Jurassic",
       "incorrectAnswers": [
-        "Peregrine falcon",
-        "Golden eagle",
-        "Kestrel"
+        "Mesozoic",
+        "Triassic",
+        "Devonian"
       ],
       "question": {
-        "text": "Which of these birds of prey mainly feeds on fish?"
-      },
-      "tags": [
-        "birds",
-        "nature",
-        "animals",
-        "science",
-        "biology"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6242cb23d543524f1b19c910",
-      "correctAnswer": "A shoal",
-      "incorrectAnswers": [
-        "A clowder",
-        "A brace",
-        "A run"
-      ],
-      "question": {
-        "text": "What is the word for a group of fish?"
+        "text": "In Geology What Period followed The Cretaceous?"
       },
       "tags": [
         "science"
@@ -112,127 +89,19 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "624ab0b2348a461bfc670690",
-      "correctAnswer": "The Middle East",
-      "incorrectAnswers": [
-        "Southeast Asia",
-        "Europe",
-        "North America"
-      ],
-      "question": {
-        "text": "From which part of the world does celery originate?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64720cd93bbb58c31f411cd4",
-      "correctAnswer": "Adam Smith",
-      "incorrectAnswers": [
-        "Karl Marx",
-        "John Maynard Keynes",
-        "Milton Friedman"
-      ],
-      "question": {
-        "text": "\"Wealth of Nations\" was written by which economist?"
-      },
-      "tags": [
-        "economics",
-        "philosophy",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "64a32df9fc63594e30247821",
-      "correctAnswer": "The Drake Passage",
-      "incorrectAnswers": [
-        "The Panama Canal",
-        "The Bering Strait",
-        "The Gulf of St Lawrence"
-      ],
-      "question": {
-        "text": "What is the name of the body of water between South America and Antarctica?"
-      },
-      "tags": [
-        "bodies_of_water",
-        "geography",
-        "south_america",
-        "antarctica"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbda",
-      "correctAnswer": "\"You know how I know that you’re gay?\"",
-      "incorrectAnswers": [
-        "\"Today, I consider myself the luckiest man on the face of the earth.\"",
-        "\"Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.\"",
-        "\"Not my tempo.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'The 40-Year-Old Virgin'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8bc",
-      "correctAnswer": "Tennis",
-      "incorrectAnswers": [
-        "Table tennis",
-        "Gymnastics",
-        "Motor Racing"
-      ],
-      "question": {
-        "text": "With which sport is Martina Navratilova associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f959",
-      "correctAnswer": "Lucky Jim",
+      "id": "622a1c347cc59eab6f94f987",
+      "correctAnswer": "Heart of Darkness",
       "incorrectAnswers": [
-        "Of Mice and Men",
-        "Love in the Time of Cholera",
-        "In Our Time"
+        "The Quiet American",
+        "The Trial",
+        "Pale Fire"
       ],
       "question": {
-        "text": "Which book contains the character 'Jim Dixon'?"
+        "text": "Which book contains the character 'Kurtz'?"
       },
       "tags": [
-        "film",
+        "literature",
         "fictitious_characters",
         "arts_and_literature"
       ],
@@ -243,163 +112,15 @@
     },
     {
       "category": "geography",
-      "id": "62373fd0cb85f7ce9e949cbe",
-      "correctAnswer": "Ouagadougou",
+      "id": "6237400ecb85f7ce9e949cd7",
+      "correctAnswer": "Republic of the Congo",
       "incorrectAnswers": [
-        "Monrovia",
-        "Manila",
-        "Dushanbe"
+        "Central African Republic",
+        "Moldova",
+        "Tonga"
       ],
       "question": {
-        "text": "What is the capital city of Burkina Faso?"
-      },
-      "tags": [
-        "capital_cities",
-        "africa"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "649d6d6de3aef0a3c23f6433",
-      "correctAnswer": "Fear and Loathing in Las Vegas",
-      "incorrectAnswers": [
-        "On the Road",
-        "Blood Meridian",
-        "Catch-22"
-      ],
-      "question": {
-        "text": "Which Hunter S. Thompson book involves a wild journey through the desert and a series of autobiographical stories?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "625006600d86c8f685d80ee6",
-      "correctAnswer": "Tubular pasta",
-      "incorrectAnswers": [
-        "Ribbon pasta",
-        "Shaped pasta",
-        "Soup pasta"
-      ],
-      "question": {
-        "text": "What type of pasta is calamarata?"
-      },
-      "tags": [
-        "food",
-        "italy",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d7f",
-      "correctAnswer": "AC/DC",
-      "incorrectAnswers": [
-        "Pendulum",
-        "INXS",
-        "Savage Garden"
-      ],
-      "question": {
-        "text": "Which band includes 'Angus Young'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951b43",
-      "correctAnswer": "1789",
-      "incorrectAnswers": [
-        "1689",
-        "1889",
-        "1989"
-      ],
-      "question": {
-        "text": "In What Year Did The French Revolution Begin?"
-      },
-      "tags": [
-        "france",
-        "wars",
-        "revolutions",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62399ef6af96521963a0870d",
-      "correctAnswer": "Argentina",
-      "incorrectAnswers": [
-        "France",
-        "Brazil",
-        "England"
-      ],
-      "question": {
-        "text": "Which country won the 1986 FIFA World Cup, hosted in Mexico?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8b0",
-      "correctAnswer": "Cycling",
-      "incorrectAnswers": [
-        "Skiing",
-        "Snooker",
-        "Tennis"
-      ],
-      "question": {
-        "text": "With which sport is Eddy Merckx associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623388cd0161109f922aacad",
-      "correctAnswer": "Ural",
-      "incorrectAnswers": [
-        "Alps",
-        "Pyrenees",
-        "Atlas"
-      ],
-      "question": {
-        "text": "Which mountain range is regarded as the Eastern border of Europe?"
+        "text": "Brazzaville is the capital city of which country?"
       },
       "tags": [
         "geography"
@@ -410,44 +131,21 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950fc5",
-      "correctAnswer": "John Logie Baird",
+      "category": "food_and_drink",
+      "id": "648889135dba6c873ef650c0",
+      "correctAnswer": "Onions",
       "incorrectAnswers": [
-        "Karl Benz",
-        "Johannes Gutenberg",
-        "Eli Whitney"
+        "Garlic",
+        "Carrots",
+        "Broccoli"
       ],
       "question": {
-        "text": "Who First Demonstrated Television In 1926?"
+        "text": "Which vegetable is scientifically named Allium cepa?"
       },
       "tags": [
-        "inventions",
-        "people",
-        "1920's",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6242cb61d543524f1b19c928",
-      "correctAnswer": "A labour",
-      "incorrectAnswers": [
-        "A covey",
-        "A watch",
-        "A nest"
-      ],
-      "question": {
-        "text": "What is the word for a group of moles?"
-      },
-      "tags": [
-        "animals",
-        "words",
-        "science"
+        "food",
+        "food_and_drink",
+        "vegetables"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -456,144 +154,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f6d",
-      "correctAnswer": "Arthur Conan Doyle",
+      "id": "622a1c347cc59eab6f94f986",
+      "correctAnswer": "The Baron in the Trees",
       "incorrectAnswers": [
-        "Agatha Christie",
-        "Oscar Wilde",
-        "George Orwell"
+        "Catch-22",
+        "The Big Sleep",
+        "The Sun Also Rises"
       ],
       "question": {
-        "text": "Which author wrote 'The Sign of the Four'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd12",
-      "correctAnswer": "Baruch Spinoza",
-      "incorrectAnswers": [
-        "Spinoza",
-        "Jean-Jacques Rousseau",
-        "Socrates"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'If men were born free, they would, so long as they remained free, form no conception of good and evil'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa33",
-      "correctAnswer": "Realism",
-      "incorrectAnswers": [
-        "Suprematism",
-        "Fauvism",
-        "Modernism"
-      ],
-      "question": {
-        "text": "The painting \"Olympia\" by Édouard Manet is a part of which art movement?"
-      },
-      "tags": [
-        "painting",
-        "art"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc07",
-      "correctAnswer": "\"Is it safe?\"",
-      "incorrectAnswers": [
-        "\"Wait a minute, wait a minute. You ain't heard nothin' yet!\"",
-        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\"",
-        "\"That’s a bingo!\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Marathon Man'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc7a",
-      "correctAnswer": "Gabelle",
-      "incorrectAnswers": [
-        "Ragamuffin",
-        "Frankenfood",
-        "Gubbins"
-      ],
-      "question": {
-        "text": "Which word is defined as 'a tax on salt'?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "63e4c351106de6ffa7d4a7d0",
-      "correctAnswer": "Ankylosaurus",
-      "incorrectAnswers": [
-        "Triceratops",
-        "Stegosaurus",
-        "Parasaurolophus"
-      ],
-      "question": {
-        "text": "What is the name of the dinosaur with a club-like tail?"
-      },
-      "tags": [
-        "science",
-        "dinosaurs",
-        "nature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f976",
-      "correctAnswer": "The Catcher in the Rye",
-      "incorrectAnswers": [
-        "The Remains of the Day",
-        "Howards End",
-        "The Moviegoer"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Phoebe Caulfield'?"
+        "text": "Which book contains the character 'Cosimo Piovasco di Rondo'?"
       },
       "tags": [
         "literature",
@@ -606,19 +175,21 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62417dbe0f96c4efe8d773e5",
-      "correctAnswer": "Tampa Bay Buccaneers",
+      "category": "geography",
+      "id": "62374250cb85f7ce9e949dc0",
+      "correctAnswer": "Ljubljana",
       "incorrectAnswers": [
-        "Tamba Bay Bears",
-        "Tampa Bay Nuggets",
-        "Tampa Bay Broncos"
+        "Sarajevo",
+        "Yaounde",
+        "Reykjavik"
       ],
       "question": {
-        "text": "Which of these is an American Football team based in Tampa?"
+        "text": "What is the capital city of Slovenia?"
       },
       "tags": [
-        "sport"
+        "capital_cities",
+        "europe",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -627,18 +198,458 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501d8",
-      "correctAnswer": "Barry Sonnenfeld",
+      "id": "622a1c377cc59eab6f9506e1",
+      "correctAnswer": "Gerard Butler",
       "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
+        "Hugh Jackman",
+        "Robert Redford",
+        "Jim Carrey"
       ],
       "question": {
-        "text": "Which director directed Men in Black?"
+        "text": "Which actor has featured in films including 300 and Watchmen?"
       },
       "tags": [
+        "acting",
+        "film",
         "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe41",
+      "correctAnswer": "Oahu",
+      "incorrectAnswers": [
+        "Kauai",
+        "Hawaii",
+        "Maui"
+      ],
+      "question": {
+        "text": "On what island is Pearl Harbour?"
+      },
+      "tags": [
+        "usa",
+        "world_war_2",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f950117",
+      "correctAnswer": "Brigadoon",
+      "incorrectAnswers": [
+        "Ness",
+        "Langard",
+        "Brenkilly"
+      ],
+      "question": {
+        "text": "What mythical Scottish town appears for one day every 100 years?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ddc",
+      "correctAnswer": "Elias Lönnrot",
+      "incorrectAnswers": [
+        "Astrid Lindgren",
+        "Agatha Christie",
+        "Aleksandr Solzhenitsyn"
+      ],
+      "question": {
+        "text": "Which author wrote 'Kalevala'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623388720161109f922aac89",
+      "correctAnswer": "Western Australia ",
+      "incorrectAnswers": [
+        "Victoria",
+        "Queensland",
+        "Tasmania"
+      ],
+      "question": {
+        "text": "Which Is The Largest State In Australia"
+      },
+      "tags": [
+        "australia",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94faff",
+      "correctAnswer": "Kate Winslet",
+      "incorrectAnswers": [
+        "Anne Hathaway",
+        "Angelina Jolie",
+        "Melissa Leo"
+      ],
+      "question": {
+        "text": "Who won the 2008 Academy Award for Best Leading Actress for playing the role of Hanna Schmitz in The Reader?"
+      },
+      "tags": [
+        "acting",
+        "academy_awards",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624335c1cfaae40c129614c8",
+      "correctAnswer": "A Mare",
+      "incorrectAnswers": [
+        "A Worker",
+        "A Nanny",
+        "A Cow"
+      ],
+      "question": {
+        "text": "What would you call a female zebra?"
+      },
+      "tags": [
+        "animals",
+        "biology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd651dc0dd3b72da64ce7",
+      "correctAnswer": "2008",
+      "incorrectAnswers": [
+        "2006",
+        "2010",
+        "2012"
+      ],
+      "question": {
+        "text": "In which year was The Dark Knight first released in the cinema?"
+      },
+      "tags": [
+        "film",
+        "dc",
+        "batman",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f944",
+      "correctAnswer": "Gangs of New York",
+      "incorrectAnswers": [
+        "Broadcast News",
+        "Terms of Endearment",
+        "Sweet Smell of Success"
+      ],
+      "question": {
+        "text": "Which film contains the character 'William 'Bill the Butcher' Cutting'?"
+      },
+      "tags": [
+        "film",
+        "fictitious_characters",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950629",
+      "correctAnswer": "Angela Bassett",
+      "incorrectAnswers": [
+        "Audrey Hepburn",
+        "Catherine Deneuve",
+        "Frances Fisher"
+      ],
+      "question": {
+        "text": "Which actress was nominated for an academy award for playing the role of Queen Ramonda in the Black Panther films?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv",
+        "academy_awards",
+        "marvel"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa27",
+      "correctAnswer": "‎Rembrandt van Rijn",
+      "incorrectAnswers": [
+        "Cassius Marcellus Coolidge",
+        "Raphael",
+        "Paul Cézanne"
+      ],
+      "question": {
+        "text": "Which artist painted \"Night Watch\""
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6470d79b423445f16131b4d8",
+      "correctAnswer": "Shingles",
+      "incorrectAnswers": [
+        "Measles",
+        "Smallpox",
+        "Polio"
+      ],
+      "question": {
+        "text": "Which disease is carried by the same virus as chicken pox,l and is common amongst older people?"
+      },
+      "tags": [
+        "diseases",
+        "medicine",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f971",
+      "correctAnswer": "The Third Man",
+      "incorrectAnswers": [
+        "The Usual Suspects",
+        "Mad Max",
+        "On the Waterfront"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Harry Lime'?"
+      },
+      "tags": [
+        "fictitious_characters",
+        "literature",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62433445cfaae40c12961432",
+      "correctAnswer": "A Pup",
+      "incorrectAnswers": [
+        "A Joey",
+        "A Lava",
+        "An Owlet"
+      ],
+      "question": {
+        "text": "A young hamster is known as what?"
+      },
+      "tags": [
+        "animals",
+        "biology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62373fd5cb85f7ce9e949cc0",
+      "correctAnswer": "Gitega",
+      "incorrectAnswers": [
+        "Tallinn",
+        "Male",
+        "Bissau"
+      ],
+      "question": {
+        "text": "What is the capital city of Burundi?"
+      },
+      "tags": [
+        "africa",
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa53",
+      "correctAnswer": "Baroque",
+      "incorrectAnswers": [
+        "Impressionism",
+        "Surrealism",
+        "Renaissance"
+      ],
+      "question": {
+        "text": "The painting \"Beheading of Saint John the Baptist\" by Caravaggio is a part of which art movement?"
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f9508f7",
+      "correctAnswer": "El Salvador",
+      "incorrectAnswers": [
+        "Nicaragua",
+        "Costa Rica",
+        "Panama"
+      ],
+      "question": {
+        "text": "Which of these countries borders Guatemala?"
+      },
+      "tags": [
+        "central_america",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e9f",
+      "correctAnswer": "Friedrich Schiller",
+      "incorrectAnswers": [
+        "Sebastian Brant",
+        "Agatha Christie",
+        "Rainer Maria Rilke"
+      ],
+      "question": {
+        "text": "Which author wrote 'William Tell'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ec767f41d6338b96eef2",
+      "correctAnswer": "Francisco Pizarro",
+      "incorrectAnswers": [
+        "Hernando Cortez",
+        "Philip Alberto",
+        "Manuel Cruz"
+      ],
+      "question": {
+        "text": "Who was the conquistador who claimed Inca lands for Spain?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f95224d",
+      "correctAnswer": "Epilepsy",
+      "incorrectAnswers": [
+        "Anemia",
+        "Heart Attack",
+        "Paralysis"
+      ],
+      "question": {
+        "text": "In the early 20th century, rattlesnake venom was used to treat which illness?"
+      },
+      "tags": [
+        "science",
+        "medicine",
+        "snakes"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f96d",
+      "correctAnswer": "Under the Volcano",
+      "incorrectAnswers": [
+        "Nine Stories",
+        "Blood Meridian",
+        "Pale Fire"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Geoffrey Firmin'?"
+      },
+      "tags": [
+        "literature",
+        "fictitious_characters",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
