@@ -1,481 +1,110 @@
 {
-  "gameDate": "2026-04-27",
+  "gameDate": "2026-04-28",
   "difficulty": "random",
   "results": [
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950fd3",
-      "correctAnswer": "Sol",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa26",
+      "correctAnswer": "Caravaggio",
       "incorrectAnswers": [
-        "Ursa Minor",
-        "Proxima Centauri",
-        "Epsilon Eridani"
+        "‎Salvador Dalí",
+        "Michelangelo",
+        "Cassius Marcellus Coolidge"
       ],
       "question": {
-        "text": "Which star is nearest the Earth?"
+        "text": "Which artist painted \"Beheading of Saint John the Baptist\""
       },
       "tags": [
+        "art",
+        "painting",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "648891824cd3f064f443dc0c",
+      "correctAnswer": "The Beach Boys",
+      "incorrectAnswers": [
+        "The Beatles",
+        "The Rolling Stones",
+        "The Four Tops"
+      ],
+      "question": {
+        "text": "Who had a hit in 1964 with the song 'I Get Around'?"
+      },
+      "tags": [
+        "songs",
+        "music",
+        "1960's"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950ba4",
+      "correctAnswer": "Black Eyed Peas",
+      "incorrectAnswers": [
+        "MercyMe",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which American band released the song 'Boom Boom Pow'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe29",
+      "correctAnswer": "Bairiki",
+      "incorrectAnswers": [
+        "Apia",
+        "Honiara",
+        "Adamstown"
+      ],
+      "question": {
+        "text": "What is the capital of Kiribati?"
+      },
+      "tags": [
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510aa",
+      "correctAnswer": "Milky way",
+      "incorrectAnswers": [
+        "Andromeda",
+        "Ursa",
+        "Orion"
+      ],
+      "question": {
+        "text": "What is the name of the galaxy that includes our solar system?"
+      },
+      "tags": [
+        "science",
         "astronomy",
-        "the_solar_system",
-        "general_knowledge",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951021",
-      "correctAnswer": "Carnivorous",
-      "incorrectAnswers": [
-        "Trap",
-        "Pitcher",
-        "Belljar"
-      ],
-      "question": {
-        "text": "What is the term for the group of plants that catch and digest insects?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eaf",
-      "correctAnswer": "J. K. Rowling",
-      "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
-      ],
-      "question": {
-        "text": "Which author wrote 'Harry Potter and the Half-Blood Prince'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f871",
-      "correctAnswer": "Cricket",
-      "incorrectAnswers": [
-        "Motor Racing",
-        "Snooker",
-        "Rowing"
-      ],
-      "question": {
-        "text": "With which sport is Brian Lara associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624437b1746187c5e7be936c",
-      "correctAnswer": "It is used in disinfectants and antiseptics.",
-      "incorrectAnswers": [
-        "It is used in nuclear reactors, as a neutron moderator.",
-        "It is used as oscillators in radios, watches.",
-        "It is used for surface purification, bleaching, odour removal and water disinfection."
-      ],
-      "question": {
-        "text": "What is the chemical isopropyl alcohol often used for?"
-      },
-      "tags": [
-        "chemistry",
-        "general_knowledge",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f9507f6",
-      "correctAnswer": "Europe",
-      "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Asia"
-      ],
-      "question": {
-        "text": "The country of Liechtenstein is on which continent?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c397cc59eab6f950fb8",
-      "correctAnswer": "Alexander Fleming",
-      "incorrectAnswers": [
-        "Louis Pasteur",
-        "Frederick Sanger",
-        "John Dalton"
-      ],
-      "question": {
-        "text": "Who Is Accepted As The Discoverer Of Penicillin?"
-      },
-      "tags": [
-        "inventions",
-        "chemistry",
-        "people",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611f554b176d54800e3d52",
-      "correctAnswer": "1992",
-      "incorrectAnswers": [
-        "1945",
-        "1960",
-        "1977"
-      ],
-      "question": {
-        "text": "When did the Maastricht Treaty lay the foundation for the European Union?"
-      },
-      "tags": [
-        "events",
-        "politics",
-        "europe",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ec577f41d6338b96eee9",
-      "correctAnswer": "Powerful Indian King who established a large empire by conquest before converting to Buddhism.",
-      "incorrectAnswers": [
-        "Queen of England from 1558 to her death in 1603. Cemented England as a Protestant country, defeated Spanish Armada.",
-        "Explorer, first European to reach India and establish a route for imperialism.",
-        "Spiritual Teacher and founder of Buddhism."
-      ],
-      "question": {
-        "text": "Which of the following describes Asoka?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740a49da29df7b05f73ed",
-      "correctAnswer": "Chinatown",
-      "incorrectAnswers": [
-        "Gran Torino",
-        "Up",
-        "Gone Girl"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A detective hired to expose an adulterer finds himself caught up in a web of deceit.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f951791",
-      "correctAnswer": "Louis XIV",
-      "incorrectAnswers": [
-        "Henri III",
-        "Charles the Bald",
-        "Napoleon Bonaparte"
-      ],
-      "question": {
-        "text": "Which King of France was known as The Sun King?"
-      },
-      "tags": [
-        "france",
-        "leaders",
-        "nicknames",
-        "middle_ages",
-        "medieval",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "64974e400752843c0d8aadaf",
-      "correctAnswer": "Nepal",
-      "incorrectAnswers": [
-        "Sri Lanka",
-        "Bangladesh",
-        "Pakistan"
-      ],
-      "question": {
-        "text": "Which country is surrounded by India on three sides and China to the north?"
-      },
-      "tags": [
-        "borders",
-        "asia",
-        "india",
-        "china",
-        "countries",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950024",
-      "correctAnswer": "Tennis",
-      "incorrectAnswers": [
-        "Soccer",
-        "Badminton",
-        "Volleyball"
-      ],
-      "question": {
-        "text": "With which sport is Chris Evert Lloyd identified?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3d7cc59eab6f951ca3",
-      "correctAnswer": "9 Ladies Dancing",
-      "incorrectAnswers": [
-        "9 Lords a Leaping",
-        "9 Calling Birds",
-        "9 Pipers Piping"
-      ],
-      "question": {
-        "text": "What did 'my true love give to me' on the ninth day of Christmas?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3d7cc59eab6f951b9e",
-      "correctAnswer": "Mount Pelée",
-      "incorrectAnswers": [
-        "Krakatoa",
-        "Mount St Helen's",
-        "Mount Pinatubo"
-      ],
-      "question": {
-        "text": "Which volcano erupted in 1902, killing 30,000?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ec657f41d6338b96eeed",
-      "correctAnswer": "Christian theologian who developed a strict brand of Protestant Christianity.",
-      "incorrectAnswers": [
-        "Explorer, first European to reach India and establish a route for imperialism.",
-        "Inventor of the printing press.",
-        "Physicist who discovered electromagnetic waves or X-rays."
-      ],
-      "question": {
-        "text": "Which of the following describes John Calvin?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ebdc7f41d6338b96eec5",
-      "correctAnswer": "Moses",
-      "incorrectAnswers": [
-        "Mohammed",
-        "Frodo",
-        "Buddha"
-      ],
-      "question": {
-        "text": "Who of these was a key figure of Jewish/Christian history?"
-      },
-      "tags": [
-        "people",
-        "society_and_culture",
-        "christianity",
-        "judaism",
-        "religion"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639ae2de929b90846f2fc8be",
-      "correctAnswer": "Blót",
-      "incorrectAnswers": [
-        "Flägen",
-        "Midsommar",
-        "Odinskón"
-      ],
-      "question": {
-        "text": "What is the name of the Viking practice of sacrificing prisoners to their gods?"
-      },
-      "tags": [
-        "history",
-        "vikings",
-        "traditions"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcf8",
-      "correctAnswer": "Turkic",
-      "incorrectAnswers": [
-        "Koreanic",
-        "Afroasiatic",
-        "Niger–Congo"
-      ],
-      "question": {
-        "text": "The language 'Turkish' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f80",
-      "correctAnswer": "Stephen King",
-      "incorrectAnswers": [
-        "H. P. Lovecraft",
-        "Edgar Allan Poe",
-        "Jack Vance"
-      ],
-      "question": {
-        "text": "Which author wrote 'It'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "639c9dbc929b90846f2fc9ac",
-      "correctAnswer": "The Ramayana",
-      "incorrectAnswers": [
-        "The Upanishads",
-        "The Bhagavad Gita",
-        "The Puranas"
-      ],
-      "question": {
-        "text": "What is the name of the Hindu scripture that contains the story of Sita?"
-      },
-      "tags": [
-        "hinduism",
-        "religion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "639ae86e929b90846f2fc8dd",
-      "correctAnswer": "Millennium Falcon",
-      "incorrectAnswers": [
-        "Razor Crest",
-        "Ebon Hawk",
-        "X-Wing"
-      ],
-      "question": {
-        "text": "In Star Wars, what is the name of Han Solo's ship?"
-      },
-      "tags": [
-        "star_wars",
-        "film_and_tv",
-        "film",
-        "science_fiction"
+        "physics",
+        "space",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -484,42 +113,21 @@
     },
     {
       "category": "music",
-      "id": "64824e287778562fd76a960e",
-      "correctAnswer": "Adele",
+      "id": "622a1c357cc59eab6f94fd5a",
+      "correctAnswer": "The Fresh Prince",
       "incorrectAnswers": [
-        "Taylor Swift",
-        "Ed Sheeran",
-        "Beyoncé"
+        "DJ Jazzy Jeff",
+        "Eminem",
+        "Jay Z"
       ],
       "question": {
-        "text": "Released in 2008, which artist's debut album was titled \"19\"?"
+        "text": "What is Will Smith's Rapper Alter Ego?"
       },
       "tags": [
-        "music",
-        "music_albums"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8ae",
-      "correctAnswer": "Swimming",
-      "incorrectAnswers": [
-        "Figure skating",
-        "Track and field",
-        "Boxing"
-      ],
-      "question": {
-        "text": "With which sport is Michael Phelps associated?"
-      },
-      "tags": [
-        "olympics",
+        "pseudonyms",
         "people",
-        "general_knowledge",
-        "sport"
+        "musicians",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -528,22 +136,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "646089a9de964ebc39016c64",
-      "correctAnswer": "Mount Olympus",
+      "id": "6477bacc550bc819ad646b14",
+      "correctAnswer": "Green",
       "incorrectAnswers": [
-        "Mount Everest",
-        "Mont Blanc",
-        "Mount Etna"
+        "Red",
+        "Blue",
+        "Yellow"
       ],
       "question": {
-        "text": "Which mountain was believed by the ancient Greeks to be the center of the Earth?"
+        "text": "What color is traditionally associated with Robin Hood's outfits on film and in illustrations?"
       },
       "tags": [
-        "history",
-        "mythology",
-        "geography",
-        "ancient_greece",
-        "mountains"
+        "fictitious_characters",
+        "fashion",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -551,93 +157,44 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "646339a001d576cfac3aa396",
-      "correctAnswer": "Cheers & Frasier",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff4d",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
-        "Seinfeld & Friends",
-        "The Big Bang Theory & How I Met Your Mother",
-        "The Office & Brooklyn Nine-Nine"
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "On which two popular sitcoms has Bebe Neuwirth played Dr. Lilith Sternin?"
+        "text": "Which musician released the album 'Off the Wall'?"
       },
       "tags": [
-        "sitcoms",
-        "tv",
-        "film_and_tv",
-        "acting"
+        "music_albums",
+        "musicians",
+        "1980's",
+        "general_knowledge",
+        "music"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "624dba59de6018633d31f6c1",
-      "correctAnswer": "Goldfinger",
+      "category": "food_and_drink",
+      "id": "6271642b1ba117625baac94c",
+      "correctAnswer": "Peru",
       "incorrectAnswers": [
-        "Casino Royale",
-        "Spectre",
-        "Dr. No"
+        "Cambodia",
+        "Denmark",
+        "Finland"
       ],
       "question": {
-        "text": "Which James Bond theme song was performed by Shirley Bassey?"
+        "text": "In which country is pisco a popular drink?"
       },
       "tags": [
-        "james_bond",
-        "film",
-        "soundtracks",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "639c9d9f929b90846f2fc972",
-      "correctAnswer": "Skyscraper",
-      "incorrectAnswers": [
-        "Cathedral",
-        "Museum",
-        "Stadium"
-      ],
-      "question": {
-        "text": "The Gherkin is a well-known London building designed by Norman Foster. What type of building is it?"
-      },
-      "tags": [
-        "architecture",
-        "geography",
-        "buildings",
-        "london",
-        "uk"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "647f9ded3a4302a71927167b",
-      "correctAnswer": "Frankfort",
-      "incorrectAnswers": [
-        "Louisville",
-        "Lexington",
-        "Bowling Green"
-      ],
-      "question": {
-        "text": "What is the capital of Kentucky?"
-      },
-      "tags": [
-        "usa",
-        "state_capitals",
-        "cities",
-        "kentucky",
-        "geography"
+        "drink",
+        "alcohol"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -646,19 +203,450 @@
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f9518fb",
-      "correctAnswer": "Botany Bay",
+      "id": "622a1c3c7cc59eab6f951886",
+      "correctAnswer": "1958",
       "incorrectAnswers": [
-        "Florida",
-        "Hong Kong",
-        "The Bay of Biscay"
+        "1980",
+        "1901",
+        "1946"
       ],
       "question": {
-        "text": "What Was Formerly Called Stingray Harbour?"
+        "text": "What year was NASA founded?"
       },
       "tags": [
-        "previous_names",
+        "usa",
+        "space_exploration",
+        "organisations",
         "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "63afff982d1dcedfbb654568",
+      "correctAnswer": "The Tempest",
+      "incorrectAnswers": [
+        "Othello",
+        "A Midsummer Night's Dream",
+        "Romeo and Juliet"
+      ],
+      "question": {
+        "text": "In which of Shakespeare's plays does the character 'Prospero' appear?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "shakespeare",
+        "theater",
+        "fictitious_characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f95016c",
+      "correctAnswer": "Macduff",
+      "incorrectAnswers": [
+        "Macburn",
+        "Lady Macbeth",
+        "Duncan"
+      ],
+      "question": {
+        "text": "Who killed Macbeth?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510e0",
+      "correctAnswer": "Pediatrician",
+      "incorrectAnswers": [
+        "Physician",
+        "Oncologist",
+        "Gynaecologist"
+      ],
+      "question": {
+        "text": "A doctor who specializes in infants, children and young people is called a ______"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ffc9",
+      "correctAnswer": "Blondie",
+      "incorrectAnswers": [
+        "Prince and the Revolution",
+        "Me First and the Gimme Gimmes",
+        "The Flaming Lips"
+      ],
+      "question": {
+        "text": "Whose Albums Included Plastic Letters & Parallel Lines"
+      },
+      "tags": [
+        "music_albums",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95029d",
+      "correctAnswer": "Aguardente ",
+      "incorrectAnswers": [
+        "Grappa",
+        "Schnapps",
+        "Marc"
+      ],
+      "question": {
+        "text": "What spirit is used in fortifying red wine to create port?"
+      },
+      "tags": [
+        "drink",
+        "wine",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63e13a27106de6ffa7d4a7a4",
+      "correctAnswer": "Decagon",
+      "incorrectAnswers": [
+        "Octagon",
+        "Hexagon",
+        "Triangle"
+      ],
+      "question": {
+        "text": "What is the name of a shape with ten sides?"
+      },
+      "tags": [
+        "science",
+        "mathematics",
+        "shapes"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "6398984a5c9a75021f310473",
+      "correctAnswer": "Operation Husky",
+      "incorrectAnswers": [
+        "Operation Overlord",
+        "Operation Barbarossa",
+        "Operation Market Garden"
+      ],
+      "question": {
+        "text": "What was the name of the Allied invasion of Sicily in 1943?"
+      },
+      "tags": [
+        "history",
+        "world_war_2",
+        "wars",
+        "italy"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c347cc59eab6f94f9e4",
+      "correctAnswer": "Franklin Pierce",
+      "incorrectAnswers": [
+        "James Buchanan",
+        "John F. Kennedy",
+        "Jimmy Carter"
+      ],
+      "question": {
+        "text": "Who was the 14th president of the USA, in term during the period 1853–1857?"
+      },
+      "tags": [
+        "presidents",
+        "usa",
+        "1800's",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504c9",
+      "correctAnswer": "the ecology of plant communities",
+      "incorrectAnswers": [
+        "schematic layouts",
+        "the interrelationship between an organism's physical functioning and its environment",
+        "the nature and origins of knowledge"
+      ],
+      "question": {
+        "text": "What is Phytosociology the study of?"
+      },
+      "tags": [
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950ba6",
+      "correctAnswer": "One Direction",
+      "incorrectAnswers": [
+        "Level 42",
+        "Orchestral Manoeuvres in the Dark",
+        "Blur"
+      ],
+      "question": {
+        "text": "Which English-Irish boy band released the song 'One Way or Another (Teenage Kicks)'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570387a97013de78b555c",
+      "correctAnswer": "Bud",
+      "incorrectAnswers": [
+        "Leaf",
+        "Spore",
+        "Fruit"
+      ],
+      "question": {
+        "text": "What is an undeveloped or embryonic shoot of a plant?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "648891864cd3f064f443dc35",
+      "correctAnswer": "Pheromones",
+      "incorrectAnswers": [
+        "Neurotransmitters",
+        "Hormones",
+        "Proteins"
+      ],
+      "question": {
+        "text": "What type of chemical calling cards are released by an animal to affect other members of its species?"
+      },
+      "tags": [
+        "animals",
+        "biology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f95197c",
+      "correctAnswer": "The Pilgrims",
+      "incorrectAnswers": [
+        "The Conquistadors",
+        "The Vikings",
+        "The Kingsmen"
+      ],
+      "question": {
+        "text": "What group landed in America in 1620?"
+      },
+      "tags": [
+        "usa",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ffda",
+      "correctAnswer": "El Salvador",
+      "incorrectAnswers": [
+        "Honduras",
+        "Guatemala",
+        "Belize"
+      ],
+      "question": {
+        "text": "What is the smallest of the Central American countries?"
+      },
+      "tags": [
+        "central_america",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63dd25c9742e43ed64f1f018",
+      "correctAnswer": "Money Supply",
+      "incorrectAnswers": [
+        "Gross Domestic Product",
+        "Inflation Rate",
+        "Circular Flow"
+      ],
+      "question": {
+        "text": "What is the term for the amount of money in circulation in an economy?"
+      },
+      "tags": [
+        "society_and_culture",
+        "economics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f95012e",
+      "correctAnswer": "Sinai",
+      "incorrectAnswers": [
+        "Jerusalem",
+        "Zion",
+        "Lebanon"
+      ],
+      "question": {
+        "text": "On which mountain did Moses receive the Ten Commandments?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417cf30f96c4efe8d77395",
+      "correctAnswer": "FC Cincinnati",
+      "incorrectAnswers": [
+        "Cincinnati Orioles",
+        "Cincinnati Dolphins",
+        "Sporting Cincinnati"
+      ],
+      "question": {
+        "text": "Which of these is a soccer team based in Cincinnati?"
+      },
+      "tags": [
+        "soccer",
+        "mls",
+        "usa",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b35",
+      "correctAnswer": "Blondie",
+      "incorrectAnswers": [
+        "The Pussycat Dolls",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which American rock band released the song 'Heart of Glass'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f95008a",
+      "correctAnswer": "Mayfair",
+      "incorrectAnswers": [
+        "Kensington",
+        "Trafalgar Square",
+        "Old Kent Road"
+      ],
+      "question": {
+        "text": "What Is The Most Valuble Property In A Game Of British Monopoly?"
+      },
+      "tags": [
+        "games",
+        "uk"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f9522b9",
+      "correctAnswer": "Bayer",
+      "incorrectAnswers": [
+        "Merck",
+        "Pfizer",
+        "Novartis"
+      ],
+      "question": {
+        "text": "Heroin is the brand name of morphine once marketed by which pharmaceutical company?"
+      },
+      "tags": [
+        "society_and_culture",
+        "business",
+        "marketing",
+        "medicine",
+        "science",
+        "names"
       ],
       "type": "text_choice",
       "difficulty": "hard",

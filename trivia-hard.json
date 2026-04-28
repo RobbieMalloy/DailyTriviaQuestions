@@ -1,23 +1,43 @@
 {
-  "gameDate": "2026-04-27",
+  "gameDate": "2026-04-28",
   "difficulty": "hard",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "624dba29de6018633d31f6b8",
-      "correctAnswer": "Tom Jones",
+      "category": "geography",
+      "id": "622a1c367cc59eab6f9503ae",
+      "correctAnswer": "Australia",
       "incorrectAnswers": [
-        "Adele",
-        "Shirley Bassey",
-        "Duran Duran"
+        "New Zealand",
+        "The United Kingdom",
+        "The USA"
       ],
       "question": {
-        "text": "Who performed the theme song to the James Bond film Thunderball?"
+        "text": "Which Country Owns Christmas Island?"
       },
       "tags": [
-        "james_bond",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fac5",
+      "correctAnswer": "Matthew McConaughey",
+      "incorrectAnswers": [
+        "Christian Bale",
+        "Bruce Dern",
+        "Leonardo DiCaprio"
+      ],
+      "question": {
+        "text": "Who won the 2013 Academy Award for Best Leading Actor for playing the role of Ron Woodroof in Dallas Buyers Club?"
+      },
+      "tags": [
+        "acting",
         "film",
-        "soundtracks",
+        "academy_awards",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -26,16 +46,203 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950ba2",
-      "correctAnswer": "Weezer",
+      "category": "food_and_drink",
+      "id": "6463394601d576cfac3aa32e",
+      "correctAnswer": "Cranberry juice",
       "incorrectAnswers": [
-        "LMFAO",
-        "Static-X",
-        "The Black Keys"
+        "Pomegranate juice",
+        "Cherry juice",
+        "Raspberry juice"
       ],
       "question": {
-        "text": "Which alternative rock band from the United States released the studio album 'Everything Will Be Alright in the End'?"
+        "text": "What juice makes a Cape Cod cocktail red?"
+      },
+      "tags": [
+        "cocktails",
+        "alcohol",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515a5",
+      "correctAnswer": "9",
+      "incorrectAnswers": [
+        "4",
+        "1",
+        "36"
+      ],
+      "question": {
+        "text": "How Many Gallons In A Firkin?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f95018f",
+      "correctAnswer": "Percy Bysshe Shelley",
+      "incorrectAnswers": [
+        "Anthony Byron Shelley",
+        "Henry Mark Shelley",
+        "Harvey Butler Shelley"
+      ],
+      "question": {
+        "text": "This Romantic poet and husband of Mary Shelley drowned in a boating accident?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623388a20161109f922aac9c",
+      "correctAnswer": "Réunion",
+      "incorrectAnswers": [
+        "The Seychelles",
+        "The Bahamas",
+        "The Maldives"
+      ],
+      "question": {
+        "text": "Which island country lies immediately to the West of Mauritius?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c367cc59eab6f950373",
+      "correctAnswer": "The Stranglers",
+      "incorrectAnswers": [
+        "Sex Pistols",
+        "Violent Femmes",
+        "T. Rex"
+      ],
+      "question": {
+        "text": "Who sang 'No More Heroes'?"
+      },
+      "tags": [
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237420bcb85f7ce9e949da4",
+      "correctAnswer": "Kigali",
+      "incorrectAnswers": [
+        "Kuala Lumpur",
+        "Bishkek",
+        "Ljubljana"
+      ],
+      "question": {
+        "text": "What is the capital city of Rwanda?"
+      },
+      "tags": [
+        "capital_cities",
+        "africa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ea6",
+      "correctAnswer": "J. K. Rowling",
+      "incorrectAnswers": [
+        "Christopher Tolkien",
+        "Philip Pullman",
+        "C. S. Lewis"
+      ],
+      "question": {
+        "text": "Which author wrote 'Cormoran Strike'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f951388",
+      "correctAnswer": "One Thousand and One Nights",
+      "incorrectAnswers": [
+        "Charlotte's Web",
+        "Alice's Adventures in Wonderland",
+        "The Snow Queen"
+      ],
+      "question": {
+        "text": "In which book does 'Solomon in Islam' appear?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501d0",
+      "correctAnswer": "A Study in Scarlet",
+      "incorrectAnswers": [
+        "The Murder of Roger Ackroyd",
+        "The Shadow of the Wind",
+        "Inferno"
+      ],
+      "question": {
+        "text": "Which piece of written work starts with the line 'In the year 1878 I took my degree of Doctor of Medicine of the University of London, and proceeded to Netley to go through the course prescribed for surgeons in the army.'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b0b",
+      "correctAnswer": "Rage Against the Machine",
+      "incorrectAnswers": [
+        "MercyMe",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which American band released the studio album 'Renegades'?"
       },
       "tags": [
         "music"
@@ -46,213 +253,19 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "6355b7fce8b368eed3a6823e",
-      "correctAnswer": "The y in 'yellow'",
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcb5",
+      "correctAnswer": "Indo-European",
       "incorrectAnswers": [
-        "The p in 'pin'",
-        "The t in 'train'",
-        "The sh in 'shop'"
+        "Austroasiatic",
+        "Kra–Dai",
+        "Turkic"
       ],
       "question": {
-        "text": "In phonetics, which of these is an example of an approximant sound?"
+        "text": "The language 'Nepali' belongs to which language family?"
       },
       "tags": [
         "language",
-        "linguistics",
-        "general_knowledge",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510bb",
-      "correctAnswer": "Jurassic",
-      "incorrectAnswers": [
-        "Mesozoic",
-        "Triassic",
-        "Devonian"
-      ],
-      "question": {
-        "text": "In Geology What Period followed The Cretaceous?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f987",
-      "correctAnswer": "Heart of Darkness",
-      "incorrectAnswers": [
-        "The Quiet American",
-        "The Trial",
-        "Pale Fire"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Kurtz'?"
-      },
-      "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237400ecb85f7ce9e949cd7",
-      "correctAnswer": "Republic of the Congo",
-      "incorrectAnswers": [
-        "Central African Republic",
-        "Moldova",
-        "Tonga"
-      ],
-      "question": {
-        "text": "Brazzaville is the capital city of which country?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "648889135dba6c873ef650c0",
-      "correctAnswer": "Onions",
-      "incorrectAnswers": [
-        "Garlic",
-        "Carrots",
-        "Broccoli"
-      ],
-      "question": {
-        "text": "Which vegetable is scientifically named Allium cepa?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink",
-        "vegetables"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f986",
-      "correctAnswer": "The Baron in the Trees",
-      "incorrectAnswers": [
-        "Catch-22",
-        "The Big Sleep",
-        "The Sun Also Rises"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Cosimo Piovasco di Rondo'?"
-      },
-      "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374250cb85f7ce9e949dc0",
-      "correctAnswer": "Ljubljana",
-      "incorrectAnswers": [
-        "Sarajevo",
-        "Yaounde",
-        "Reykjavik"
-      ],
-      "question": {
-        "text": "What is the capital city of Slovenia?"
-      },
-      "tags": [
-        "capital_cities",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506e1",
-      "correctAnswer": "Gerard Butler",
-      "incorrectAnswers": [
-        "Hugh Jackman",
-        "Robert Redford",
-        "Jim Carrey"
-      ],
-      "question": {
-        "text": "Which actor has featured in films including 300 and Watchmen?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe41",
-      "correctAnswer": "Oahu",
-      "incorrectAnswers": [
-        "Kauai",
-        "Hawaii",
-        "Maui"
-      ],
-      "question": {
-        "text": "On what island is Pearl Harbour?"
-      },
-      "tags": [
-        "usa",
-        "world_war_2",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950117",
-      "correctAnswer": "Brigadoon",
-      "incorrectAnswers": [
-        "Ness",
-        "Langard",
-        "Brenkilly"
-      ],
-      "question": {
-        "text": "What mythical Scottish town appears for one day every 100 years?"
-      },
-      "tags": [
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -261,351 +274,42 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ddc",
-      "correctAnswer": "Elias Lönnrot",
+      "category": "history",
+      "id": "622a1c367cc59eab6f95031e",
+      "correctAnswer": "Mary Queen Of Scots",
       "incorrectAnswers": [
-        "Astrid Lindgren",
-        "Agatha Christie",
-        "Aleksandr Solzhenitsyn"
-      ],
-      "question": {
-        "text": "Which author wrote 'Kalevala'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623388720161109f922aac89",
-      "correctAnswer": "Western Australia ",
-      "incorrectAnswers": [
+        "Elizabeth I",
         "Victoria",
-        "Queensland",
-        "Tasmania"
+        "Jane Seymour"
       ],
       "question": {
-        "text": "Which Is The Largest State In Australia"
-      },
-      "tags": [
-        "australia",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94faff",
-      "correctAnswer": "Kate Winslet",
-      "incorrectAnswers": [
-        "Anne Hathaway",
-        "Angelina Jolie",
-        "Melissa Leo"
-      ],
-      "question": {
-        "text": "Who won the 2008 Academy Award for Best Leading Actress for playing the role of Hanna Schmitz in The Reader?"
-      },
-      "tags": [
-        "acting",
-        "academy_awards",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624335c1cfaae40c129614c8",
-      "correctAnswer": "A Mare",
-      "incorrectAnswers": [
-        "A Worker",
-        "A Nanny",
-        "A Cow"
-      ],
-      "question": {
-        "text": "What would you call a female zebra?"
-      },
-      "tags": [
-        "animals",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd651dc0dd3b72da64ce7",
-      "correctAnswer": "2008",
-      "incorrectAnswers": [
-        "2006",
-        "2010",
-        "2012"
-      ],
-      "question": {
-        "text": "In which year was The Dark Knight first released in the cinema?"
-      },
-      "tags": [
-        "film",
-        "dc",
-        "batman",
-        "comics",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f944",
-      "correctAnswer": "Gangs of New York",
-      "incorrectAnswers": [
-        "Broadcast News",
-        "Terms of Endearment",
-        "Sweet Smell of Success"
-      ],
-      "question": {
-        "text": "Which film contains the character 'William 'Bill the Butcher' Cutting'?"
-      },
-      "tags": [
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950629",
-      "correctAnswer": "Angela Bassett",
-      "incorrectAnswers": [
-        "Audrey Hepburn",
-        "Catherine Deneuve",
-        "Frances Fisher"
-      ],
-      "question": {
-        "text": "Which actress was nominated for an academy award for playing the role of Queen Ramonda in the Black Panther films?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv",
-        "academy_awards",
-        "marvel"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa27",
-      "correctAnswer": "‎Rembrandt van Rijn",
-      "incorrectAnswers": [
-        "Cassius Marcellus Coolidge",
-        "Raphael",
-        "Paul Cézanne"
-      ],
-      "question": {
-        "text": "Which artist painted \"Night Watch\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6470d79b423445f16131b4d8",
-      "correctAnswer": "Shingles",
-      "incorrectAnswers": [
-        "Measles",
-        "Smallpox",
-        "Polio"
-      ],
-      "question": {
-        "text": "Which disease is carried by the same virus as chicken pox,l and is common amongst older people?"
-      },
-      "tags": [
-        "diseases",
-        "medicine",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f971",
-      "correctAnswer": "The Third Man",
-      "incorrectAnswers": [
-        "The Usual Suspects",
-        "Mad Max",
-        "On the Waterfront"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Harry Lime'?"
-      },
-      "tags": [
-        "fictitious_characters",
-        "literature",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62433445cfaae40c12961432",
-      "correctAnswer": "A Pup",
-      "incorrectAnswers": [
-        "A Joey",
-        "A Lava",
-        "An Owlet"
-      ],
-      "question": {
-        "text": "A young hamster is known as what?"
-      },
-      "tags": [
-        "animals",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62373fd5cb85f7ce9e949cc0",
-      "correctAnswer": "Gitega",
-      "incorrectAnswers": [
-        "Tallinn",
-        "Male",
-        "Bissau"
-      ],
-      "question": {
-        "text": "What is the capital city of Burundi?"
-      },
-      "tags": [
-        "africa",
-        "capital_cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa53",
-      "correctAnswer": "Baroque",
-      "incorrectAnswers": [
-        "Impressionism",
-        "Surrealism",
-        "Renaissance"
-      ],
-      "question": {
-        "text": "The painting \"Beheading of Saint John the Baptist\" by Caravaggio is a part of which art movement?"
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f9508f7",
-      "correctAnswer": "El Salvador",
-      "incorrectAnswers": [
-        "Nicaragua",
-        "Costa Rica",
-        "Panama"
-      ],
-      "question": {
-        "text": "Which of these countries borders Guatemala?"
-      },
-      "tags": [
-        "central_america",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e9f",
-      "correctAnswer": "Friedrich Schiller",
-      "incorrectAnswers": [
-        "Sebastian Brant",
-        "Agatha Christie",
-        "Rainer Maria Rilke"
-      ],
-      "question": {
-        "text": "Which author wrote 'William Tell'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ec767f41d6338b96eef2",
-      "correctAnswer": "Francisco Pizarro",
-      "incorrectAnswers": [
-        "Hernando Cortez",
-        "Philip Alberto",
-        "Manuel Cruz"
-      ],
-      "question": {
-        "text": "Who was the conquistador who claimed Inca lands for Spain?"
+        "text": "Who was the mother of James I of England?"
       },
       "tags": [
         "people",
-        "history",
-        "society_and_culture"
+        "uk",
+        "kings",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c377cc59eab6f95041c",
+      "correctAnswer": "1984",
+      "incorrectAnswers": [
+        "1986",
+        "1988",
+        "1990"
+      ],
+      "question": {
+        "text": "In what year was Band-Aid's Do They Know It's Christmas the UK Christmas chart-topping record?"
+      },
+      "tags": [
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -614,20 +318,19 @@
     },
     {
       "category": "science",
-      "id": "622a1c3e7cc59eab6f95224d",
-      "correctAnswer": "Epilepsy",
+      "id": "62433536cfaae40c12961491",
+      "correctAnswer": "A Pup",
       "incorrectAnswers": [
-        "Anemia",
-        "Heart Attack",
-        "Paralysis"
+        "A Foal",
+        "A Calf",
+        "A Piglet"
       ],
       "question": {
-        "text": "In the early 20th century, rattlesnake venom was used to treat which illness?"
+        "text": "A young sea lion is known as what?"
       },
       "tags": [
-        "science",
-        "medicine",
-        "snakes"
+        "animals",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -636,19 +339,293 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f96d",
-      "correctAnswer": "Under the Volcano",
+      "id": "622a1c397cc59eab6f950df1",
+      "correctAnswer": "Antoine de Saint-Exupéry",
       "incorrectAnswers": [
-        "Nine Stories",
-        "Blood Meridian",
-        "Pale Fire"
+        "Alphonse Daudet",
+        "François-René de Chateaubriand",
+        "Victor Hugo"
       ],
       "question": {
-        "text": "Which book contains the character 'Geoffrey Firmin'?"
+        "text": "Which author wrote 'The Little Prince'?"
       },
       "tags": [
         "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6477bada550bc819ad646b4b",
+      "correctAnswer": "Aspirin",
+      "incorrectAnswers": [
+        "Ibuprofen",
+        "Paracetamol",
+        "Morphine"
+      ],
+      "question": {
+        "text": "Which drug can be given to prevent blood clots?"
+      },
+      "tags": [
+        "science",
+        "drugs",
+        "medicine"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8df",
+      "correctAnswer": "Dennis Hopper",
+      "incorrectAnswers": [
+        "Kevin Spacey",
+        "James Stewart",
+        "Robert Mitchum"
+      ],
+      "question": {
+        "text": "Which actor played the role of Frank Booth in Blue Velvet?"
+      },
+      "tags": [
+        "people",
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fea5",
+      "correctAnswer": "Elton John",
+      "incorrectAnswers": [
+        "Mika",
+        "Madonna",
+        "Eric Clapton"
+      ],
+      "question": {
+        "text": "Which English rock singer-songwriter, composer and pianist released the studio album 'Captain Fantastic and the Brown Dirt Cowboy'?"
+      },
+      "tags": [
+        "rock_music",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b47",
+      "correctAnswer": "Blackpink",
+      "incorrectAnswers": [
+        "GOT7",
+        "T-ara",
+        "Super Junior"
+      ],
+      "question": {
+        "text": "Which South Korean girl group released the extended play 'Kill This Love'?"
+      },
+      "tags": [
+        "kpop",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95033d",
+      "correctAnswer": "Geronimo",
+      "incorrectAnswers": [
+        "Poundmaker",
+        "Sitting Bull",
+        "Sequoyah"
+      ],
+      "question": {
+        "text": "Who was the last of the Apache warrior chiefs"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa06",
+      "correctAnswer": "Jean Auguste Dominique Ingres",
+      "incorrectAnswers": [
+        "Caravaggio",
+        "Jackson Pollock",
+        "El Greco"
+      ],
+      "question": {
+        "text": "Which artist painted \"The Grand Odalisque\""
+      },
+      "tags": [
+        "art",
+        "painting",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f4e",
+      "correctAnswer": "Jules Verne",
+      "incorrectAnswers": [
+        "Victor Hugo",
+        "Alphonse Daudet",
+        "Edgar Rice Burroughs"
+      ],
+      "question": {
+        "text": "Which author wrote 'Michael Strogoff'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcce",
+      "correctAnswer": "Indo-European",
+      "incorrectAnswers": [
+        "Dravidian",
+        "Japonic",
+        "Uralic"
+      ],
+      "question": {
+        "text": "The language 'Odia' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6462628bab138b829b81ea2b",
+      "correctAnswer": "Tommy Hilfiger",
+      "incorrectAnswers": [
+        "Ralph Lauren",
+        "Calvin Klein",
+        "Michael Kors"
+      ],
+      "question": {
+        "text": "Which American fashion designer is famous for his red, white and blue sportswear?"
+      },
+      "tags": [
+        "clothing",
+        "fashion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6242e851a22452794eaef211",
+      "correctAnswer": "The Rams",
+      "incorrectAnswers": [
+        "The Blades",
+        "The Clarets",
+        "The Tigers"
+      ],
+      "question": {
+        "text": "What is the nickname of the English football team Derby County?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950532",
+      "correctAnswer": "The liver",
+      "incorrectAnswers": [
+        "Religion",
+        "The moon",
+        "The number 7"
+      ],
+      "question": {
+        "text": "What is Hepatology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f920",
+      "correctAnswer": "Midnight Cowboy",
+      "incorrectAnswers": [
+        "Ghost",
+        "Taxi Driver",
+        "The Manchurian Candidate"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Ratso Rizzo'?"
+      },
+      "tags": [
+        "film",
         "fictitious_characters",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ed2",
+      "correctAnswer": "Nikolai Gogol",
+      "incorrectAnswers": [
+        "Virginia Woolf",
+        "Alexander Pushkin",
+        "Ayn Rand"
+      ],
+      "question": {
+        "text": "Which author wrote 'Mirgorod'?"
+      },
+      "tags": [
+        "literature",
         "arts_and_literature"
       ],
       "type": "text_choice",
