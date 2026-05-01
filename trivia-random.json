@@ -1,64 +1,20 @@
 {
-  "gameDate": "2026-04-30",
+  "gameDate": "2026-05-01",
   "difficulty": "random",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "645cb1257d263fd5097043a7",
-      "correctAnswer": "Baz Luhrmann",
-      "incorrectAnswers": [
-        "Darren Aronofsky",
-        "Christopher Nolan",
-        "Steven Spielberg"
-      ],
-      "question": {
-        "text": "Which director of the film \"Moulin Rouge!\" brought his hit production of \"La boheme\" to Broadway in 2002?"
-      },
-      "tags": [
-        "directors",
-        "film",
-        "film_and_tv",
-        "theater"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f95080d",
-      "correctAnswer": "Africa",
-      "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Europe"
-      ],
-      "question": {
-        "text": "The country of Equatorial Guinea is on which continent?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "622a1c3e7cc59eab6f952297",
-      "correctAnswer": "0",
+      "id": "622a1c3a7cc59eab6f950fda",
+      "correctAnswer": "Coca Cola",
       "incorrectAnswers": [
-        "1",
-        "2",
-        "3"
+        "Dr Pepper",
+        "Lucozade",
+        "Irn Bru"
       ],
       "question": {
-        "text": "How Many Humps Has A Dromedary Camel Got?"
+        "text": "Which Significant Did Dr John Pemberton Of Atlanta Georgia Invent In 1886?"
       },
       "tags": [
-        "animals",
         "science"
       ],
       "type": "text_choice",
@@ -67,20 +23,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950bef",
-      "correctAnswer": "The Doors",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f2d",
+      "correctAnswer": "Hans Christian Andersen",
       "incorrectAnswers": [
-        "Styx",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
+        "Beatrix Potter",
+        "Søren Kierkegaard",
+        "Oscar Wilde"
       ],
       "question": {
-        "text": "Which American rock band released the song 'Break On Through'?"
+        "text": "Which author wrote 'The Princess and the Pea'?"
       },
       "tags": [
-        "rock_music",
-        "music"
+        "literature",
+        "childrens_literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -88,19 +45,22 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950cc9",
-      "correctAnswer": "Queen",
+      "category": "history",
+      "id": "639895855c9a75021f31045e",
+      "correctAnswer": "The Montgolfier Brothers",
       "incorrectAnswers": [
-        "Level 42",
-        "Deep Purple",
-        "Feeder"
+        "The Wright Brothers",
+        "The Vespucci Brothers",
+        "The Orville Brothers"
       ],
       "question": {
-        "text": "Which British rock band released the album 'The Miracle'?"
+        "text": "Who invented the hot air balloon in the 18th century?"
       },
       "tags": [
-        "music"
+        "history",
+        "1700's",
+        "inventions",
+        "aviation"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -108,22 +68,43 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "639c9dab929b90846f2fc989",
-      "correctAnswer": "Hajj",
+      "category": "history",
+      "id": "622a1c357cc59eab6f94fde8",
+      "correctAnswer": "Bartolomeu Dias ",
       "incorrectAnswers": [
-        "Umrah",
-        "Haram",
-        "Ziyarat"
+        "Amerigo Vespucci",
+        "Ferdinand Magellan",
+        "Francis Drake"
       ],
       "question": {
-        "text": "What is the name for the Islamic pilgrimage to Mecca?"
+        "text": "Who Accidently Sailed Around The Cape Of Good Hope In 1488?"
       },
       "tags": [
-        "islam",
-        "religion",
-        "society_and_culture",
-        "traditions"
+        "1400's",
+        "exploration",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503ff",
+      "correctAnswer": "24th December",
+      "incorrectAnswers": [
+        "25th December",
+        "26th December",
+        "31st December"
+      ],
+      "question": {
+        "text": "The Nordic countries (Denmark, Sweden, Norway notably) tend to celebrate Christmas chiefly on which date?"
+      },
+      "tags": [
+        "christmas",
+        "scandinavia",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -132,21 +113,151 @@
     },
     {
       "category": "film_and_tv",
-      "id": "624dba4bde6018633d31f6be",
-      "correctAnswer": "Tina Turner",
+      "id": "622a1c347cc59eab6f94fb0b",
+      "correctAnswer": "Charlize Theron",
       "incorrectAnswers": [
-        "Duran Duran",
-        "Nancy Sinatra",
-        "Sam Smith"
+        "Keisha Castle-Hughes",
+        "Diane Keaton",
+        "Samantha Morton"
       ],
       "question": {
-        "text": "Who performed the theme song to the James Bond film GoldenEye?"
+        "text": "Who won the 2003 Academy Award for Best Leading Actress for playing the role of Aileen Wuornos in Monster?"
       },
       "tags": [
-        "james_bond",
+        "acting",
+        "academy_awards",
         "film",
-        "soundtracks",
         "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611faf014f58b5fc1a3fd0",
+      "correctAnswer": "1978",
+      "incorrectAnswers": [
+        "1972",
+        "1984",
+        "1990"
+      ],
+      "question": {
+        "text": "In which year was the first “test tube baby” conceived using IVF?"
+      },
+      "tags": [
+        "events",
+        "firsts",
+        "medicine",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c0d",
+      "correctAnswer": "Dream Theater",
+      "incorrectAnswers": [
+        "Jars of Clay",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which American progressive metal band released the studio album 'Images and Words'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c377cc59eab6f950455",
+      "correctAnswer": "160",
+      "incorrectAnswers": [
+        "0",
+        "50",
+        "300"
+      ],
+      "question": {
+        "text": "Approximately how many children did pharaoh Ramses II father?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94faea",
+      "correctAnswer": "Jeremy Irons",
+      "incorrectAnswers": [
+        "Kevin Costner",
+        "Robert De Niro",
+        "Gerard Depardieu"
+      ],
+      "question": {
+        "text": "Who won the 1990 Academy Award for Best Leading Actor for playing the role of Claus Von Bulow in Reversal of Fortune?"
+      },
+      "tags": [
+        "academy_awards",
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "648889155dba6c873ef650c8",
+      "correctAnswer": "Cuba",
+      "incorrectAnswers": [
+        "Russia",
+        "China",
+        "North Korea"
+      ],
+      "question": {
+        "text": "Which country was declared a socialist nation by its prime minister on May Day, 1961?"
+      },
+      "tags": [
+        "communism",
+        "history",
+        "politics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff31",
+      "correctAnswer": "Michael Jackson",
+      "incorrectAnswers": [
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
+      ],
+      "question": {
+        "text": "'You Are Not Alone' is a song by which musician?"
+      },
+      "tags": [
+        "songs",
+        "musicians",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -155,15 +266,84 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "6384b43a83dddfb71ee5e367",
-      "correctAnswer": "Horse Racing",
+      "id": "62417d580f96c4efe8d773bd",
+      "correctAnswer": "New Orleans Pelicans",
       "incorrectAnswers": [
-        "Swimming",
-        "Rugby",
-        "Golf"
+        "New Orleans Rockets",
+        "New Orleans Suns",
+        "New Orleans Blackhawks"
       ],
       "question": {
-        "text": "What sport would you associate with The Kentucky Derby?"
+        "text": "Which of these is a basketball team based in New Orleans?"
+      },
+      "tags": [
+        "new_orleans",
+        "basketball",
+        "nba",
+        "usa",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6461407d4d46e537ca8cd9d2",
+      "correctAnswer": "Camera obscura",
+      "incorrectAnswers": [
+        "Box camera",
+        "Bridge camera",
+        "Periscope"
+      ],
+      "question": {
+        "text": "What simple type of \"camera\" uses a hole in a screen to create a simply-viewed image of the sun?"
+      },
+      "tags": [
+        "photography",
+        "science",
+        "inventions"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64824e267778562fd76a95fe",
+      "correctAnswer": "Kelly Clarkson",
+      "incorrectAnswers": [
+        "Carrie Underwood",
+        "Jennifer Hudson",
+        "Adam Lambert"
+      ],
+      "question": {
+        "text": "Who won the first season of American Idol?"
+      },
+      "tags": [
+        "reality_tv",
+        "music",
+        "tv",
+        "pop_music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6477bb1e550bc819ad646b7a",
+      "correctAnswer": "Lacrosse",
+      "incorrectAnswers": [
+        "Hockey",
+        "Football",
+        "Baseball"
+      ],
+      "question": {
+        "text": "What sport, played with sticks with pouches at the end, was called 'Baggataway' by Native Americans?"
       },
       "tags": [
         "sport"
@@ -174,166 +354,18 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eb2",
-      "correctAnswer": "Charles Darwin",
-      "incorrectAnswers": [
-        "Percy Bysshe Shelley",
-        "H. Rider Haggard",
-        "Robert Louis Stevenson"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Origin of Species'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f95036f",
-      "correctAnswer": "Simple Minds",
-      "incorrectAnswers": [
-        "INXS",
-        "Tears for Fears",
-        "Wham!"
-      ],
-      "question": {
-        "text": "Who sang the theme song to the 'Breakfast Club'?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740499da29df7b05f73d2",
-      "correctAnswer": "An old man travels in his house equipped with balloons, inadvertently taking a young stowaway.",
-      "incorrectAnswers": [
-        "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat.",
-        "In the future, a small waste-collecting robot inadvertently embarks on a space journey.",
-        "A man deeply immersed in the Edinburgh drug scene tries to clean up and get out."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Up?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951361",
-      "correctAnswer": "Impressionism",
-      "incorrectAnswers": [
-        "Cubism",
-        "Surrealism",
-        "Romanticism"
-      ],
-      "question": {
-        "text": "Which school of painting focused on transitory visual impressions with an emphasis on the changing effects of light and color?"
-      },
-      "tags": [
-        "words",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63e4c34a106de6ffa7d4a7c7",
-      "correctAnswer": "Ruby",
-      "incorrectAnswers": [
-        "Diamond",
-        "Sapphire",
-        "Emerald"
-      ],
-      "question": {
-        "text": "In Western cultures, what is the traditional gift for a 40th wedding anniversary?"
-      },
-      "tags": [
-        "society_and_culture",
-        "traditions"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056f147a97013de78b53c8",
-      "correctAnswer": "Winston Churchill",
-      "incorrectAnswers": [
-        "Arthur Balfour",
-        "Stanley Baldwin",
-        "Harold Wilson"
-      ],
-      "question": {
-        "text": "Which UK Prime Minister received the Nobel Prize in Literature?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "625e9e03796f721e95543f39",
-      "correctAnswer": "Green",
+      "id": "622a1c367cc59eab6f9503ae",
+      "correctAnswer": "Australia",
       "incorrectAnswers": [
-        "Maroon",
-        "Red",
-        "Black"
+        "New Zealand",
+        "The United Kingdom",
+        "The USA"
       ],
       "question": {
-        "text": "Which of these colors is included on the flag of Brazil?"
+        "text": "Which Country Owns Christmas Island?"
       },
       "tags": [
-        "flags",
-        "south_america",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe2a",
-      "correctAnswer": "Dinar",
-      "incorrectAnswers": [
-        "Lira",
-        "Rial",
-        "Shekel"
-      ],
-      "question": {
-        "text": "What is the basic unit of currency for Jordan?"
-      },
-      "tags": [
-        "the_middle_east",
         "geography"
       ],
       "type": "text_choice",
@@ -342,243 +374,86 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6293ecba7f41d6338b96ef06",
-      "correctAnswer": "Biologist who created the oral contraceptive pill.",
-      "incorrectAnswers": [
-        "Chemist and biologist who had a leading impact on the chemical revolution.",
-        "A religious prophet.",
-        "An influential figure in Sunni Islam."
-      ],
-      "question": {
-        "text": "Which of the following describes Gregory Pincus?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510cf",
-      "correctAnswer": "Protactinium",
-      "incorrectAnswers": [
-        "Potassium",
-        "Lead",
-        "Palladium"
-      ],
-      "question": {
-        "text": "What is the Chemical Element Pa?"
-      },
-      "tags": [
-        "chemistry",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "645a6490158db1bd1779f19a",
-      "correctAnswer": "Chuck Berry",
-      "incorrectAnswers": [
-        "Elvis Presley",
-        "Buddy Holly",
-        "Little Richard"
-      ],
-      "question": {
-        "text": "Who was the very first performer to be inducted into the Rock & Roll Hall of Fame in 1986?"
-      },
-      "tags": [
-        "rock",
-        "history",
-        "performers",
-        "music",
-        "people",
-        "rock_and_roll"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "649601ffe831b1ab5aa1112c",
-      "correctAnswer": "Nonet",
-      "incorrectAnswers": [
-        "Norchestra",
-        "Ninstrumental",
-        "Novario"
-      ],
-      "question": {
-        "text": "What is the name for a musical piece composed for nine instruments?"
-      },
-      "tags": [
-        "classical_music",
-        "music_theory",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c9e",
-      "correctAnswer": "The Rolling Stones",
-      "incorrectAnswers": [
-        "McFly",
-        "Delirious?",
-        "Depeche Mode"
-      ],
-      "question": {
-        "text": "Which English rock band released the album 'Exile on Main St.'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "645cb16b7d263fd5097043c9",
-      "correctAnswer": "A goose",
-      "incorrectAnswers": [
-        "A flamingo",
-        "A pelican",
-        "An ostrich"
-      ],
-      "question": {
-        "text": "What type of bird is Hawaii's state bird, the Nene?"
-      },
-      "tags": [
-        "birds",
-        "symbols",
-        "animals",
-        "us_states"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6266bb16ff7b6ee0496ec77f",
-      "correctAnswer": "Woodwind",
-      "incorrectAnswers": [
-        "Stringed",
-        "Brass",
-        "Percussion"
-      ],
-      "question": {
-        "text": "What type of instrument is a clarinet?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6488dead50a27f7378a91dd2",
-      "correctAnswer": "Pakistan",
-      "incorrectAnswers": [
-        "Iran",
-        "Sri Lanka",
-        "Nepal"
-      ],
-      "question": {
-        "text": "Which country is located between Afghanistan and India?"
-      },
-      "tags": [
-        "borders",
-        "countries",
-        "asia",
-        "india"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8e1",
-      "correctAnswer": "Clint Eastwood",
+      "id": "622a1c347cc59eab6f94fac5",
+      "correctAnswer": "Matthew McConaughey",
       "incorrectAnswers": [
-        "James Cagney",
-        "Marlon Brando",
-        "Harrison Ford"
+        "Christian Bale",
+        "Bruce Dern",
+        "Leonardo DiCaprio"
       ],
       "question": {
-        "text": "Which actor played the role of Blondie in The Good, the Bad, and the Ugly?"
+        "text": "Who won the 2013 Academy Award for Best Leading Actor for playing the role of Ron Woodroof in Dallas Buyers Club?"
       },
       "tags": [
-        "people",
         "acting",
-        "general_knowledge",
         "film",
+        "academy_awards",
         "film_and_tv"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6463394601d576cfac3aa32e",
+      "correctAnswer": "Cranberry juice",
+      "incorrectAnswers": [
+        "Pomegranate juice",
+        "Cherry juice",
+        "Raspberry juice"
+      ],
+      "question": {
+        "text": "What juice makes a Cape Cod cocktail red?"
+      },
+      "tags": [
+        "cocktails",
+        "alcohol",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94ff7c",
-      "correctAnswer": "Brussels",
+      "id": "6260308f4b176d54800e3d2d",
+      "correctAnswer": "Ukraine",
       "incorrectAnswers": [
-        "Antwerp",
-        "Liège",
-        "Amsterdam"
+        "Kyrgyzstan",
+        "Tajikistan",
+        "Belarus"
       ],
       "question": {
-        "text": "Where city has the statue, 'Manneken Pis, depicting a naked boy urinating into a fountain?"
+        "text": "In which country is the city of Kharkiv?"
       },
       "tags": [
         "cities",
-        "tourist_attractions",
-        "statues",
         "geography"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcc6",
-      "correctAnswer": "Afroasiatic",
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515a5",
+      "correctAnswer": "9",
       "incorrectAnswers": [
-        "Sino-Tibetan",
-        "Niger–Congo",
-        "Austroasiatic"
+        "4",
+        "1",
+        "36"
       ],
       "question": {
-        "text": "The language 'Moroccan Arabic' belongs to which language family?"
+        "text": "How Many Gallons In A Firkin?"
       },
       "tags": [
-        "language",
-        "society_and_culture"
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -587,19 +462,162 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625740d89da29df7b05f73fc",
-      "correctAnswer": "Cool Hand Luke",
+      "id": "649f220febb41911d4cbd6ba",
+      "correctAnswer": "Cannes",
       "incorrectAnswers": [
-        "The Silence of the Lambs",
-        "Untouchable",
-        "Jurassic Park"
+        "Venice",
+        "Nice",
+        "Geneva"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'A laid back man is sentenced to two years in a rural prison, but refuses to conform.'"
+        "text": "At which city's film festival is the Palme d'Or awarded?"
       },
       "tags": [
         "film",
-        "film_and_tv"
+        "film_and_tv",
+        "awards",
+        "cities"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "639c9d95929b90846f2fc95c",
+      "correctAnswer": "Mecca",
+      "incorrectAnswers": [
+        "Jerusalem",
+        "Baghdad",
+        "Istanbul"
+      ],
+      "question": {
+        "text": "Which is the holiest city in Islam?"
+      },
+      "tags": [
+        "islam",
+        "religion",
+        "society_and_culture",
+        "cities"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "69a432076bd7d78422530807",
+      "correctAnswer": "Japan",
+      "incorrectAnswers": [
+        "China",
+        "Korea",
+        "Thailand"
+      ],
+      "question": {
+        "text": "Kabuki theatre originated in which country?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3c7cc59eab6f951935",
+      "correctAnswer": "Radio Carbon Dating",
+      "incorrectAnswers": [
+        "Olfactory Dating",
+        "Magnetic Resonance Dating",
+        "Natural Decayance Dating"
+      ],
+      "question": {
+        "text": "What Process Is Used For Dating Ancient Organic Objects?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f95018f",
+      "correctAnswer": "Percy Bysshe Shelley",
+      "incorrectAnswers": [
+        "Anthony Byron Shelley",
+        "Henry Mark Shelley",
+        "Harvey Butler Shelley"
+      ],
+      "question": {
+        "text": "This Romantic poet and husband of Mary Shelley drowned in a boating accident?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623388a20161109f922aac9c",
+      "correctAnswer": "Réunion",
+      "incorrectAnswers": [
+        "The Seychelles",
+        "The Bahamas",
+        "The Maldives"
+      ],
+      "question": {
+        "text": "Which island country lies immediately to the West of Mauritius?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c367cc59eab6f9502be",
+      "correctAnswer": "Clarified Butter ",
+      "incorrectAnswers": [
+        "A type of buffalo, native to India",
+        "A style of dance",
+        "A cloud formation"
+      ],
+      "question": {
+        "text": "What Is Ghee?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242cb99d543524f1b19c93e",
+      "correctAnswer": "A murmuration",
+      "incorrectAnswers": [
+        "A barren",
+        "A pack",
+        "A shrewdness"
+      ],
+      "question": {
+        "text": "What is the word for a group of starlings?"
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -608,38 +626,19 @@
     },
     {
       "category": "music",
-      "id": "622a1c367cc59eab6f95039b",
-      "correctAnswer": "Traffic",
+      "id": "622a1c367cc59eab6f950373",
+      "correctAnswer": "The Stranglers",
       "incorrectAnswers": [
-        "The Who",
-        "The Rolling Stones",
-        "The Moody Blues"
+        "Sex Pistols",
+        "Violent Femmes",
+        "T. Rex"
       ],
       "question": {
-        "text": "Who Released The 70's Album Entitled John Barleycorn Must Die? "
+        "text": "Who sang 'No More Heroes'?"
       },
       "tags": [
+        "songs",
         "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "65056eff7a97013de78b53ab",
-      "correctAnswer": "Eel fishing",
-      "incorrectAnswers": [
-        "Bear hunting",
-        "Hawking",
-        "Crabbing"
-      ],
-      "question": {
-        "text": "What are you doing when you are sniggling?"
-      },
-      "tags": [
-        "sport_and_leisure"
       ],
       "type": "text_choice",
       "difficulty": "hard",

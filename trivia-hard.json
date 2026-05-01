@@ -1,39 +1,18 @@
 {
-  "gameDate": "2026-04-30",
+  "gameDate": "2026-05-01",
   "difficulty": "hard",
   "results": [
     {
-      "category": "history",
-      "id": "639c9dbc929b90846f2fc9aa",
-      "correctAnswer": "1967",
-      "incorrectAnswers": [
-        "1922",
-        "1869",
-        "1894"
-      ],
-      "question": {
-        "text": "In which year did the Six-Day War take place?"
-      },
-      "tags": [
-        "history",
-        "wars"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f2c",
-      "correctAnswer": "Hans Christian Andersen",
+      "id": "622a1c397cc59eab6f950e91",
+      "correctAnswer": "Franz Kafka",
       "incorrectAnswers": [
-        "Beatrix Potter",
-        "Søren Kierkegaard",
-        "Oscar Wilde"
+        "Émile Zola",
+        "Nathaniel Hawthorne",
+        "Leo Tolstoy"
       ],
       "question": {
-        "text": "Which author wrote 'The Steadfast Tin Soldier'?"
+        "text": "Which author wrote 'Amerika'?"
       },
       "tags": [
         "literature",
@@ -45,44 +24,20 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "64626214ab138b829b81e9be",
-      "correctAnswer": "Reborn",
+      "category": "geography",
+      "id": "62373fc6cb85f7ce9e949cba",
+      "correctAnswer": "Bandar Seri Begawan",
       "incorrectAnswers": [
-        "Returned",
-        "Revolutionary",
-        "Respected"
+        "Beirut",
+        "Apia",
+        "Lilongwe"
       ],
       "question": {
-        "text": "The word \"renaissance\" comes from the Old French \"renaistre\", which means what?"
+        "text": "What is the capital city of Brunei?"
       },
       "tags": [
-        "history",
-        "society_and_culture",
-        "renaissance",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62433566cfaae40c129614a4",
-      "correctAnswer": "A Pen",
-      "incorrectAnswers": [
-        "A Jill",
-        "A Ewe",
-        "A Vixen"
-      ],
-      "question": {
-        "text": "A female swan is known as what?"
-      },
-      "tags": [
-        "animals",
-        "biology",
-        "science"
+        "capital_cities",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -91,17 +46,149 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c3b7cc59eab6f9513ac",
-      "correctAnswer": "Pride and Prejudice",
+      "id": "622a1c3b7cc59eab6f9513cf",
+      "correctAnswer": "A Portrait of the Artist as a Young Man",
       "incorrectAnswers": [
-        "The Fault in Our Stars",
-        "Ship of Fools",
-        "War and Peace"
+        "Little Women",
+        "David Copperfield",
+        "Jane Eyre"
       ],
       "question": {
-        "text": "In which book does 'Mr William Collins' appear?"
+        "text": "In which book does 'Charles Stewart Parnell' appear?"
       },
       "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95021d",
+      "correctAnswer": "Kahlua ",
+      "incorrectAnswers": [
+        "Advocaat",
+        "Baileys",
+        "Limoncello"
+      ],
+      "question": {
+        "text": "White Russian Cocktails Are Made From Milk, Vodka And _______"
+      },
+      "tags": [
+        "drink",
+        "cocktails",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6357fd1668bd5000211e717b",
+      "correctAnswer": "India",
+      "incorrectAnswers": [
+        "Pakistan",
+        "Uganda",
+        "Morocco"
+      ],
+      "question": {
+        "text": "Marathi is a language spoken in which of these countries?"
+      },
+      "tags": [
+        "language",
+        "linguistics",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94feb6",
+      "correctAnswer": "Beyoncé",
+      "incorrectAnswers": [
+        "Madonna",
+        "Drake",
+        "Nicki Minaj"
+      ],
+      "question": {
+        "text": "Which American singer, actress and record producer released the studio album 'B'Day'?"
+      },
+      "tags": [
+        "music_albums",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c78",
+      "correctAnswer": "U2",
+      "incorrectAnswers": [
+        "Public Image Ltd.",
+        "The Script",
+        "The Cure"
+      ],
+      "question": {
+        "text": "Which Irish rock band released the studio album 'How to Dismantle an Atomic Bomb'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "645fcc73541c4d4fc8cf3063",
+      "correctAnswer": "Marjoram",
+      "incorrectAnswers": [
+        "Thyme",
+        "Basil",
+        "Mint"
+      ],
+      "question": {
+        "text": "What herb is oregano most closely related to?"
+      },
+      "tags": [
+        "cooking",
+        "herbs",
+        "food_and_drink",
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "645c9fc842ea81e2554c5f92",
+      "correctAnswer": "Grease",
+      "incorrectAnswers": [
+        "West Side Story",
+        "The Sound of Music",
+        "Jesus Christ Superstar"
+      ],
+      "question": {
+        "text": "In which musical did Joely Fisher make her Broadway debut as Rizzo?"
+      },
+      "tags": [
+        "theater",
+        "musicals",
+        "acting",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -111,170 +198,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506ec",
-      "correctAnswer": "Amy Adams",
+      "id": "625fd67cdc0dd3b72da64cf4",
+      "correctAnswer": "1991",
       "incorrectAnswers": [
-        "Penélope Cruz",
-        "Emma Thompson",
-        "Kirsten Dunst"
+        "1983",
+        "1987",
+        "1995"
       ],
       "question": {
-        "text": "Which actress has starred in both Batman v Superman: Dawn of Justice and American Hustle?"
+        "text": "In which year was The Silence of the Lambs released?"
       },
       "tags": [
-        "film_and_tv",
-        "acting",
-        "film"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f82",
-      "correctAnswer": "Agatha Christie",
-      "incorrectAnswers": [
-        "Robert Louis Stevenson",
-        "Charles Dickens",
-        "Lewis Carroll"
-      ],
-      "question": {
-        "text": "Which author wrote 'Witness for the Prosecution'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa08",
-      "correctAnswer": "Henri Rousseau",
-      "incorrectAnswers": [
-        "Raphael",
-        "‎Pablo Picasso",
-        "Vasily Kandinsky"
-      ],
-      "question": {
-        "text": "Which artist painted \"The Sleeping Gypsy\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e6f",
-      "correctAnswer": "C. S. Lewis",
-      "incorrectAnswers": [
-        "Neil Gaiman",
-        "Jack Vance",
-        "Douglas Adams"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Magician's Nephew'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f7c",
-      "correctAnswer": "Stephen King",
-      "incorrectAnswers": [
-        "H. P. Lovecraft",
-        "Edgar Allan Poe",
-        "Jack Vance"
-      ],
-      "question": {
-        "text": "Which author wrote 'Just After Sunset'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d140f96c4efe8d773a2",
-      "correctAnswer": "Detroit Lions",
-      "incorrectAnswers": [
-        "Detroit Celtics",
-        "Detroit Giants",
-        "Detroit Steelers"
-      ],
-      "question": {
-        "text": "Which of these is an American Football team based in Detroit?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa07",
-      "correctAnswer": "Pablo Picasso",
-      "incorrectAnswers": [
-        "Sandro Botticelli",
-        "Peter Paul Rubens",
-        "Jacques-Louis David"
-      ],
-      "question": {
-        "text": "Which artist painted \"Les Demoiselles d’Avignon\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951b1e",
-      "correctAnswer": "Dallas",
-      "incorrectAnswers": [
-        "Atlanta",
-        "Austin",
-        "Houston"
-      ],
-      "question": {
-        "text": "In which city was President Kennedy killed?"
-      },
-      "tags": [
-        "presidents",
-        "cities",
-        "usa",
-        "events",
-        "history"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -283,15 +219,15 @@
     },
     {
       "category": "geography",
-      "id": "623387950161109f922aac32",
-      "correctAnswer": "Finland",
+      "id": "6237413fcb85f7ce9e949d52",
+      "correctAnswer": "Lilongwe",
       "incorrectAnswers": [
-        "Brazil",
-        "China",
-        "Cambodia"
+        "Brasilia",
+        "Male",
+        "Ouagadougou"
       ],
       "question": {
-        "text": "Which country is also known as Suomi?"
+        "text": "What is the capital city of Malawi?"
       },
       "tags": [
         "geography"
@@ -302,19 +238,206 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ff9b",
-      "correctAnswer": "Mali",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cc8",
+      "correctAnswer": "Queen",
       "incorrectAnswers": [
-        "Burkina Faso",
-        "Mauritania",
-        "Ivory Coast"
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
       ],
       "question": {
-        "text": "The City Of Timbuktu Is In Which African Country?"
+        "text": "Which British rock band released the song 'Bicycle Race'?"
       },
       "tags": [
-        "cities",
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd78",
+      "correctAnswer": "Ringo Starr",
+      "incorrectAnswers": [
+        "John Lennon",
+        "George Harrison",
+        "Paul McCartney"
+      ],
+      "question": {
+        "text": "Who wore the pink uniform on the cover of Sgt. Pepper's?"
+      },
+      "tags": [
+        "the_beatles",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "626030994b176d54800e3d30",
+      "correctAnswer": "Argentina",
+      "incorrectAnswers": [
+        "Chile",
+        "Uruguay",
+        "Bahamas"
+      ],
+      "question": {
+        "text": "Where would you find the city of San Juan?"
+      },
+      "tags": [
+        "cities"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95026a",
+      "correctAnswer": "Chicken Marengo ",
+      "incorrectAnswers": [
+        "Chicken Kiev",
+        "Hunter's Chicken",
+        "Chicken Supreme"
+      ],
+      "question": {
+        "text": "Which chicken dish is named after a battle in the Napoleonic wars?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f950141",
+      "correctAnswer": "Sisyphus",
+      "incorrectAnswers": [
+        "Oedipus",
+        "Hercules",
+        "Jason"
+      ],
+      "question": {
+        "text": "Who was condemned in Hades to forever push a boulder uphill, only for it to come rolling down before it reached the top?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950a71",
+      "correctAnswer": "Russia",
+      "incorrectAnswers": [
+        "Estonia",
+        "Latvia",
+        "Lithuania"
+      ],
+      "question": {
+        "text": "Which of these countries borders Finland?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950521",
+      "correctAnswer": "Sacred texts",
+      "incorrectAnswers": [
+        "Ancient Egypt",
+        "Family Trees",
+        "Waves"
+      ],
+      "question": {
+        "text": "What is Hierographology the study of?"
+      },
+      "tags": [
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd676dc0dd3b72da64cf2",
+      "correctAnswer": "1995",
+      "incorrectAnswers": [
+        "1987",
+        "1991",
+        "1999"
+      ],
+      "question": {
+        "text": "In which year was Seven first released in the cinema?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "63a039c3c7d86251f9b65caf",
+      "correctAnswer": "Charles I",
+      "incorrectAnswers": [
+        "Henry VIII",
+        "Edward VII",
+        "Charles II"
+      ],
+      "question": {
+        "text": "Which English king was executed in 1649?"
+      },
+      "tags": [
+        "history",
+        "britain",
+        "uk",
+        "monarchs",
+        "kings"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950977",
+      "correctAnswer": "Chad",
+      "incorrectAnswers": [
+        "São Tomé and Príncipe",
+        "Benin",
+        "Niger"
+      ],
+      "question": {
+        "text": "Which of these countries borders Cameroon?"
+      },
+      "tags": [
         "africa",
         "geography"
       ],
@@ -324,21 +447,88 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "625006480d86c8f685d80edf",
-      "correctAnswer": "Soup pasta",
+      "category": "music",
+      "id": "636a5290990390307063f3a7",
+      "correctAnswer": "Me and Bobby McGee",
       "incorrectAnswers": [
-        "Shaped pasta",
-        "Stuffed pasta",
-        "Ribbon pasta"
+        "Angel From Montgomery",
+        "La Vie En Rose",
+        "Over the Rainbow"
       ],
       "question": {
-        "text": "What type of pasta is anelli?"
+        "text": "Which song, originally recorded by Kris Kristofferson, was later covered by Janis Joplin?"
       },
       "tags": [
-        "food",
-        "italy",
-        "food_and_drink"
+        "music",
+        "cover_song",
+        "songs",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6477bad7550bc819ad646b3c",
+      "correctAnswer": "Berlin",
+      "incorrectAnswers": [
+        "Boston",
+        "Chicago",
+        "Foreigner"
+      ],
+      "question": {
+        "text": "Which band sang the love song 'Take My Breath Away' for the movie 'Top Gun'?"
+      },
+      "tags": [
+        "1980s",
+        "music",
+        "songs",
+        "soundtracks",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fba6",
+      "correctAnswer": "\"Renegade\" by Styx",
+      "incorrectAnswers": [
+        "\"Circle of Life\" by Elton John",
+        "\"I'll Make a Man Out of You\" by Donny Osmond",
+        "\"Welcome to the Black Parade\" by My Chemical Romance"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"Oh, Mama, I’m in fear for my life from the long arm of the law...\"?"
+      },
+      "tags": [
+        "lyrics",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f9522fd",
+      "correctAnswer": "Lungs",
+      "incorrectAnswers": [
+        "Heart",
+        "Skin",
+        "Eyes"
+      ],
+      "question": {
+        "text": "Emphysema Affects Which Part Of The Body?"
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -347,15 +537,15 @@
     },
     {
       "category": "geography",
-      "id": "623742dbcb85f7ce9e949df8",
-      "correctAnswer": "Montevideo",
+      "id": "6233877f0161109f922aac2a",
+      "correctAnswer": "China",
       "incorrectAnswers": [
-        "Bogotá",
-        "Zagreb",
-        "Bandar Seri Begawan"
+        "Russia",
+        "Brazil",
+        "Canada"
       ],
       "question": {
-        "text": "What is the capital city of Uruguay?"
+        "text": "Which country has the longest land border?"
       },
       "tags": [
         "geography"
@@ -366,151 +556,22 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "63a03954c7d86251f9b65c42",
-      "correctAnswer": "Internet Protocol",
-      "incorrectAnswers": [
-        "Information Protocol",
-        "Internet Program",
-        "Internet Portal"
-      ],
-      "question": {
-        "text": "In computer networking, what is meaning of the initials IP?"
-      },
-      "tags": [
-        "the_internet",
-        "technology",
-        "science",
-        "computing"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd714dc0dd3b72da64d21",
-      "correctAnswer": "2007",
-      "incorrectAnswers": [
-        "2005",
-        "2009",
-        "2011"
-      ],
-      "question": {
-        "text": "No Country for Old Men was released in which year?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f93",
-      "correctAnswer": "William Shakespeare",
-      "incorrectAnswers": [
-        "Arthur C. Clarke",
-        "Isaac Newton",
-        "Enid Blyton"
-      ],
-      "question": {
-        "text": "Which author wrote 'Coriolanus'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501bc",
-      "correctAnswer": "The Prince and the Pauper",
-      "incorrectAnswers": [
-        "The Boy in the Striped Pyjamas",
-        "The Name of the Rose",
-        "The Hobbit"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'I will set down a tale as it was told to me by one who had it of his father, which latter had it of HIS father, this last having in like manner had it of HIS father—and so on, back and still back, three hundred years and more, the fathers transmitting it to the sons and so preserving it.'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "general_knowledge",
-      "id": "648888d65dba6c873ef650ac",
-      "correctAnswer": "Snowy",
+      "id": "647f9db33a4302a719271615",
+      "correctAnswer": "Bracchium",
       "incorrectAnswers": [
-        "Foxy",
-        "Pal",
-        "Rover"
+        "Caput",
+        "Pedis",
+        "Oculus"
       ],
       "question": {
-        "text": "What is the name of the white fox terrier owned by boy explorer Tintin?"
+        "text": "What is the Latin term for \"the arm\"?"
       },
       "tags": [
-        "cartoons",
-        "dogs",
-        "comics"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff63",
-      "correctAnswer": "The Cardigans",
-      "incorrectAnswers": [
-        "Coldplay",
-        "Ace of Base",
-        "Westlife"
-      ],
-      "question": {
-        "text": "Whose 1996 Debut Album Was Entitled \"First Band On The Moon\""
-      },
-      "tags": [
-        "music_albums",
-        "1990's",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd3b",
-      "correctAnswer": "Socrates",
-      "incorrectAnswers": [
-        "Spinoza",
-        "Ludwig Wittgenstein",
-        "Karl Marx"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'The unexamined life is not worth living'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "general_knowledge",
-        "society_and_culture"
+        "anatomy",
+        "latin",
+        "language",
+        "words"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -519,15 +580,15 @@
     },
     {
       "category": "history",
-      "id": "622a1c367cc59eab6f950366",
-      "correctAnswer": "Charles Guiteau",
+      "id": "622a1c377cc59eab6f95042f",
+      "correctAnswer": "Concorde",
       "incorrectAnswers": [
-        "Charlotte Corday",
-        "John Wilkes Booth",
-        "Gavrilo Princip"
+        "The Channel Tunnel",
+        "Eurostar",
+        "An animal cloning plant"
       ],
       "question": {
-        "text": "Who shot President James Garfield?"
+        "text": "In 1962, for what did Britain and France sign an agreement to build together?"
       },
       "tags": [
         "history"
@@ -538,19 +599,22 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951046",
-      "correctAnswer": "81",
+      "category": "history",
+      "id": "64861cecf773f09dc0193b47",
+      "correctAnswer": "The Tower of London",
       "incorrectAnswers": [
-        "14",
-        "12",
-        "26"
+        "Windsor Castle",
+        "Buckingham Palace",
+        "St. James's Palace"
       ],
       "question": {
-        "text": "What is the atomic number for thalium?"
+        "text": "What is the name of the royal fortress on the Thames River that includes Traitors' Gate?"
       },
       "tags": [
-        "science"
+        "tourist_attractions",
+        "castles",
+        "history",
+        "london"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -559,86 +623,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625fd707dc0dd3b72da64d1d",
-      "correctAnswer": "1999",
+      "id": "625fd6c7dc0dd3b72da64d0a",
+      "correctAnswer": "2009",
       "incorrectAnswers": [
-        "1996",
-        "2002",
-        "2005"
+        "2003",
+        "2005",
+        "2007"
       ],
       "question": {
-        "text": "The Sixth Sense was released in which year?"
+        "text": "In which year was Inglourious Basterds first released in the cinema?"
       },
       "tags": [
         "film",
         "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ff9d",
-      "correctAnswer": "Ottawa",
-      "incorrectAnswers": [
-        "Toronto",
-        "Montreal",
-        "Vancouver"
-      ],
-      "question": {
-        "text": "The city name ________________ is derived from an Algonquin word meaning \"traders.\""
-      },
-      "tags": [
-        "cities",
-        "names",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "64976c110752843c0d8aadb5",
-      "correctAnswer": "Pelvis",
-      "incorrectAnswers": [
-        "Spine",
-        "Skull",
-        "Rib cage"
-      ],
-      "question": {
-        "text": "What part of your body is the ischium a part of?"
-      },
-      "tags": [
-        "biology",
-        "anatomy",
-        "medicine",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374015cb85f7ce9e949cda",
-      "correctAnswer": "San Jose",
-      "incorrectAnswers": [
-        "Andorra la Vella",
-        "Port of Spain",
-        "Majuro"
-      ],
-      "question": {
-        "text": "What is the capital city of Costa Rica?"
-      },
-      "tags": [
-        "capital_cities",
-        "central_america",
-        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
