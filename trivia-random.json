@@ -1,87 +1,277 @@
 {
-  "gameDate": "2026-05-01",
+  "gameDate": "2026-05-02",
   "difficulty": "random",
   "results": [
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950fda",
-      "correctAnswer": "Coca Cola",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fac1",
+      "correctAnswer": "Rami Malek",
       "incorrectAnswers": [
-        "Dr Pepper",
-        "Lucozade",
-        "Irn Bru"
+        "Christian Bale",
+        "Bradley Cooper",
+        "Willem Dafoe"
       ],
       "question": {
-        "text": "Which Significant Did Dr John Pemberton Of Atlanta Georgia Invent In 1886?"
+        "text": "Who won the 2018 Academy Award for Best Leading Actor for playing the role of Freddie Mercury in Bohemian Rhapsody?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "academy_awards",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6498aef29acaa77d9ad7c50f",
+      "correctAnswer": "gelt",
+      "incorrectAnswers": [
+        "schmuck",
+        "kvetch",
+        "mensch"
+      ],
+      "question": {
+        "text": "What is the Yiddish word for money?"
+      },
+      "tags": [
+        "society_and_culture",
+        "words",
+        "language"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3f7cc59eab6f952354",
+      "correctAnswer": "Vitamin C",
+      "incorrectAnswers": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
+      ],
+      "question": {
+        "text": "Ascorbic acid is commonly referred to as which vitamin?"
       },
       "tags": [
         "science"
       ],
       "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6462628bab138b829b81ea22",
+      "correctAnswer": "Rome",
+      "incorrectAnswers": [
+        "Milan",
+        "Florence",
+        "Naples"
+      ],
+      "question": {
+        "text": "Which city in Italy is served by the Leonardo da Vinci International Airport?"
+      },
+      "tags": [
+        "airports",
+        "tourism",
+        "cities",
+        "italy"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "646140784d46e537ca8cd9c1",
+      "correctAnswer": "Buoyancy",
+      "incorrectAnswers": [
+        "Liquefaction",
+        "Oscillation",
+        "Gravity"
+      ],
+      "question": {
+        "text": "What is the term for the tendency of an object to float, or the upward pressure of fluid in an object?"
+      },
+      "tags": [
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95036a",
+      "correctAnswer": "Edward J. Smith",
+      "incorrectAnswers": [
+        "Martin P. Roberts",
+        "Alan T. Davis",
+        "Roger B. Lewis"
+      ],
+      "question": {
+        "text": "Who was Captain of the Titanic on her maiden voyage?"
+      },
+      "tags": [
+        "people",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623741d4cb85f7ce9e949d8e",
+      "correctAnswer": "Ngerulmud",
+      "incorrectAnswers": [
+        "Praia",
+        "Lusaka",
+        "Gitega"
+      ],
+      "question": {
+        "text": "What is the capital city of Palau?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "650570047a97013de78b5514",
+      "correctAnswer": "Central Africa",
+      "incorrectAnswers": [
+        "South America",
+        "Southeast Asia",
+        "Madagascar"
+      ],
+      "question": {
+        "text": "Where is the mandrill native to?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
       "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9e4e796f721e95543f4e",
+      "correctAnswer": "Blue",
+      "incorrectAnswers": [
+        "Black",
+        "Orange",
+        "Maroon"
+      ],
+      "question": {
+        "text": "Which of these colors is included on the flag of Cuba?"
+      },
+      "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "64720cd93bbb58c31f411cd3",
+      "correctAnswer": "Atlantic City",
+      "incorrectAnswers": [
+        "Chicago",
+        "Las Vegas",
+        "Miami"
+      ],
+      "question": {
+        "text": "Which city setting was the focus of the TV show \"Boardwalk Empire\"?"
+      },
+      "tags": [
+        "film_and_tv",
+        "tv",
+        "cities"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe95",
+      "correctAnswer": "Rihanna",
+      "incorrectAnswers": [
+        "Drake",
+        "Nicki Minaj",
+        "Ricky Martin"
+      ],
+      "question": {
+        "text": "Which singer released the song 'Te Amo'?"
+      },
+      "tags": [
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c357cc59eab6f94fdc0",
+      "correctAnswer": "Dances With Wolves",
+      "incorrectAnswers": [
+        "Total Recall",
+        "Edward Scissorhands",
+        "Pretty Woman"
+      ],
+      "question": {
+        "text": "Name The 1990 Movie Which Won John Barry An Oscar For Best Film Score"
+      },
+      "tags": [
+        "film",
+        "academy_awards",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f2d",
-      "correctAnswer": "Hans Christian Andersen",
+      "id": "6462624dab138b829b81e9e3",
+      "correctAnswer": "Gilbert Stuart",
       "incorrectAnswers": [
-        "Beatrix Potter",
-        "Søren Kierkegaard",
-        "Oscar Wilde"
+        "Edward Mitchell Bannister",
+        "Hannah Robinson",
+        "Ralph Earl"
       ],
       "question": {
-        "text": "Which author wrote 'The Princess and the Pea'?"
+        "text": "Which Rhode Islander painted portraits of the first 6 presidents of the USA?"
       },
       "tags": [
-        "literature",
-        "childrens_literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639895855c9a75021f31045e",
-      "correctAnswer": "The Montgolfier Brothers",
-      "incorrectAnswers": [
-        "The Wright Brothers",
-        "The Vespucci Brothers",
-        "The Orville Brothers"
-      ],
-      "question": {
-        "text": "Who invented the hot air balloon in the 18th century?"
-      },
-      "tags": [
-        "history",
-        "1700's",
-        "inventions",
-        "aviation"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c357cc59eab6f94fde8",
-      "correctAnswer": "Bartolomeu Dias ",
-      "incorrectAnswers": [
-        "Amerigo Vespucci",
-        "Ferdinand Magellan",
-        "Francis Drake"
-      ],
-      "question": {
-        "text": "Who Accidently Sailed Around The Cape Of Good Hope In 1488?"
-      },
-      "tags": [
-        "1400's",
-        "exploration",
+        "painting",
+        "art",
+        "presidents",
+        "usa",
         "history"
       ],
       "type": "text_choice",
@@ -90,21 +280,45 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503ff",
-      "correctAnswer": "24th December",
+      "category": "society_and_culture",
+      "id": "63e13a05106de6ffa7d4a77b",
+      "correctAnswer": "Charles Lindbergh",
       "incorrectAnswers": [
-        "25th December",
-        "26th December",
-        "31st December"
+        "Orson Welles",
+        "Albert Einstein",
+        "Mark Twain"
       ],
       "question": {
-        "text": "The Nordic countries (Denmark, Sweden, Norway notably) tend to celebrate Christmas chiefly on which date?"
+        "text": "Which famous person's infant child was kidnapped in 1932?"
       },
       "tags": [
-        "christmas",
-        "scandinavia",
-        "history"
+        "society_and_culture",
+        "crime",
+        "people",
+        "1930's"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6463398801d576cfac3aa36b",
+      "correctAnswer": "The confessional",
+      "incorrectAnswers": [
+        "The chapel",
+        "The pulpit",
+        "The altar"
+      ],
+      "question": {
+        "text": "What is the name of the booth in which people divulge their sins to a Catholic priest?"
+      },
+      "tags": [
+        "society_and_culture",
+        "christianity",
+        "religion",
+        "words"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -112,107 +326,42 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb0b",
-      "correctAnswer": "Charlize Theron",
-      "incorrectAnswers": [
-        "Keisha Castle-Hughes",
-        "Diane Keaton",
-        "Samantha Morton"
-      ],
-      "question": {
-        "text": "Who won the 2003 Academy Award for Best Leading Actress for playing the role of Aileen Wuornos in Monster?"
-      },
-      "tags": [
-        "acting",
-        "academy_awards",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611faf014f58b5fc1a3fd0",
-      "correctAnswer": "1978",
-      "incorrectAnswers": [
-        "1972",
-        "1984",
-        "1990"
-      ],
-      "question": {
-        "text": "In which year was the first “test tube baby” conceived using IVF?"
-      },
-      "tags": [
-        "events",
-        "firsts",
-        "medicine",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c0d",
-      "correctAnswer": "Dream Theater",
+      "id": "622a1c397cc59eab6f950c00",
+      "correctAnswer": "AC/DC",
       "incorrectAnswers": [
-        "Jars of Clay",
-        "Three 6 Mafia",
-        "The Velvet Underground"
+        "Pendulum",
+        "INXS",
+        "Savage Garden"
       ],
       "question": {
-        "text": "Which American progressive metal band released the studio album 'Images and Words'?"
+        "text": "Which Australian hard rock band released the studio album 'Back in Black'?"
       },
       "tags": [
+        "rock_music",
         "music"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c377cc59eab6f950455",
-      "correctAnswer": "160",
-      "incorrectAnswers": [
-        "0",
-        "50",
-        "300"
-      ],
-      "question": {
-        "text": "Approximately how many children did pharaoh Ramses II father?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94faea",
-      "correctAnswer": "Jeremy Irons",
+      "id": "624dba15cd90beeca3531566",
+      "correctAnswer": "The Living Daylights",
       "incorrectAnswers": [
-        "Kevin Costner",
-        "Robert De Niro",
-        "Gerard Depardieu"
+        "From Russia With Love",
+        "Goldfinger",
+        "Quantum of Solace"
       ],
       "question": {
-        "text": "Who won the 1990 Academy Award for Best Leading Actor for playing the role of Claus Von Bulow in Reversal of Fortune?"
+        "text": "Which James Bond theme song was performed by A-ha?"
       },
       "tags": [
-        "academy_awards",
-        "acting",
+        "james_bond",
         "film",
+        "soundtracks",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -221,38 +370,16 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "648889155dba6c873ef650c8",
-      "correctAnswer": "Cuba",
-      "incorrectAnswers": [
-        "Russia",
-        "China",
-        "North Korea"
-      ],
-      "question": {
-        "text": "Which country was declared a socialist nation by its prime minister on May Day, 1961?"
-      },
-      "tags": [
-        "communism",
-        "history",
-        "politics"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c357cc59eab6f94ff31",
-      "correctAnswer": "Michael Jackson",
+      "id": "622a1c357cc59eab6f94feb9",
+      "correctAnswer": "Beyoncé",
       "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
+        "Madonna",
+        "Drake",
+        "Nicki Minaj"
       ],
       "question": {
-        "text": "'You Are Not Alone' is a song by which musician?"
+        "text": "Which American singer, actress and record producer released the song 'Me, Myself and I'?"
       },
       "tags": [
         "songs",
@@ -265,319 +392,43 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62417d580f96c4efe8d773bd",
-      "correctAnswer": "New Orleans Pelicans",
-      "incorrectAnswers": [
-        "New Orleans Rockets",
-        "New Orleans Suns",
-        "New Orleans Blackhawks"
-      ],
-      "question": {
-        "text": "Which of these is a basketball team based in New Orleans?"
-      },
-      "tags": [
-        "new_orleans",
-        "basketball",
-        "nba",
-        "usa",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6461407d4d46e537ca8cd9d2",
-      "correctAnswer": "Camera obscura",
-      "incorrectAnswers": [
-        "Box camera",
-        "Bridge camera",
-        "Periscope"
-      ],
-      "question": {
-        "text": "What simple type of \"camera\" uses a hole in a screen to create a simply-viewed image of the sun?"
-      },
-      "tags": [
-        "photography",
-        "science",
-        "inventions"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "64824e267778562fd76a95fe",
-      "correctAnswer": "Kelly Clarkson",
+      "id": "62506493e12f6dec240bdfbd",
+      "correctAnswer": "C.W. McCall",
       "incorrectAnswers": [
-        "Carrie Underwood",
-        "Jennifer Hudson",
-        "Adam Lambert"
+        "Vicki Sue Robinson",
+        "Sugarhill Gang",
+        "Falco"
       ],
       "question": {
-        "text": "Who won the first season of American Idol?"
+        "text": "'Convoy' was a one hit wonder in 1975 by which artist?"
       },
       "tags": [
-        "reality_tv",
-        "music",
-        "tv",
-        "pop_music"
+        "songs",
+        "one_hit_wonders",
+        "music"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "sport_and_leisure",
-      "id": "6477bb1e550bc819ad646b7a",
-      "correctAnswer": "Lacrosse",
+      "id": "64a094bccf8fd58080ceffde",
+      "correctAnswer": "Oscar De La Hoya",
       "incorrectAnswers": [
-        "Hockey",
-        "Football",
-        "Baseball"
+        "Floyd Mayweather Jr.",
+        "Muhammad Ali",
+        "Mike Tyson"
       ],
       "question": {
-        "text": "What sport, played with sticks with pouches at the end, was called 'Baggataway' by Native Americans?"
+        "text": "Who was known as boxing's 'Golden Boy' and now promotes a stable of fighters under his Golden Boy Promotions?"
       },
       "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c367cc59eab6f9503ae",
-      "correctAnswer": "Australia",
-      "incorrectAnswers": [
-        "New Zealand",
-        "The United Kingdom",
-        "The USA"
-      ],
-      "question": {
-        "text": "Which Country Owns Christmas Island?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fac5",
-      "correctAnswer": "Matthew McConaughey",
-      "incorrectAnswers": [
-        "Christian Bale",
-        "Bruce Dern",
-        "Leonardo DiCaprio"
-      ],
-      "question": {
-        "text": "Who won the 2013 Academy Award for Best Leading Actor for playing the role of Ron Woodroof in Dallas Buyers Club?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "academy_awards",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6463394601d576cfac3aa32e",
-      "correctAnswer": "Cranberry juice",
-      "incorrectAnswers": [
-        "Pomegranate juice",
-        "Cherry juice",
-        "Raspberry juice"
-      ],
-      "question": {
-        "text": "What juice makes a Cape Cod cocktail red?"
-      },
-      "tags": [
-        "cocktails",
-        "alcohol",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6260308f4b176d54800e3d2d",
-      "correctAnswer": "Ukraine",
-      "incorrectAnswers": [
-        "Kyrgyzstan",
-        "Tajikistan",
-        "Belarus"
-      ],
-      "question": {
-        "text": "In which country is the city of Kharkiv?"
-      },
-      "tags": [
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515a5",
-      "correctAnswer": "9",
-      "incorrectAnswers": [
-        "4",
-        "1",
-        "36"
-      ],
-      "question": {
-        "text": "How Many Gallons In A Firkin?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "649f220febb41911d4cbd6ba",
-      "correctAnswer": "Cannes",
-      "incorrectAnswers": [
-        "Venice",
-        "Nice",
-        "Geneva"
-      ],
-      "question": {
-        "text": "At which city's film festival is the Palme d'Or awarded?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv",
-        "awards",
-        "cities"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "639c9d95929b90846f2fc95c",
-      "correctAnswer": "Mecca",
-      "incorrectAnswers": [
-        "Jerusalem",
-        "Baghdad",
-        "Istanbul"
-      ],
-      "question": {
-        "text": "Which is the holiest city in Islam?"
-      },
-      "tags": [
-        "islam",
-        "religion",
-        "society_and_culture",
-        "cities"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "69a432076bd7d78422530807",
-      "correctAnswer": "Japan",
-      "incorrectAnswers": [
-        "China",
-        "Korea",
-        "Thailand"
-      ],
-      "question": {
-        "text": "Kabuki theatre originated in which country?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3c7cc59eab6f951935",
-      "correctAnswer": "Radio Carbon Dating",
-      "incorrectAnswers": [
-        "Olfactory Dating",
-        "Magnetic Resonance Dating",
-        "Natural Decayance Dating"
-      ],
-      "question": {
-        "text": "What Process Is Used For Dating Ancient Organic Objects?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f95018f",
-      "correctAnswer": "Percy Bysshe Shelley",
-      "incorrectAnswers": [
-        "Anthony Byron Shelley",
-        "Henry Mark Shelley",
-        "Harvey Butler Shelley"
-      ],
-      "question": {
-        "text": "This Romantic poet and husband of Mary Shelley drowned in a boating accident?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623388a20161109f922aac9c",
-      "correctAnswer": "Réunion",
-      "incorrectAnswers": [
-        "The Seychelles",
-        "The Bahamas",
-        "The Maldives"
-      ],
-      "question": {
-        "text": "Which island country lies immediately to the West of Mauritius?"
-      },
-      "tags": [
-        "geography"
+        "boxing",
+        "sport",
+        "nicknames"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -586,18 +437,20 @@
     },
     {
       "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f9502be",
-      "correctAnswer": "Clarified Butter ",
+      "id": "647207673bbb58c31f411c42",
+      "correctAnswer": "Lozenge",
       "incorrectAnswers": [
-        "A type of buffalo, native to India",
-        "A style of dance",
-        "A cloud formation"
+        "Gumdrop",
+        "Mint",
+        "Candy"
       ],
       "question": {
-        "text": "What Is Ghee?"
+        "text": "What is the name of the small candy often used to soothe coughs?"
       },
       "tags": [
-        "general_knowledge"
+        "medicine",
+        "general_knowledge",
+        "consumer_products"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -605,19 +458,65 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6242cb99d543524f1b19c93e",
-      "correctAnswer": "A murmuration",
+      "category": "arts_and_literature",
+      "id": "646140774d46e537ca8cd9b8",
+      "correctAnswer": "Saul Bellow",
       "incorrectAnswers": [
-        "A barren",
-        "A pack",
-        "A shrewdness"
+        "Philip Roth",
+        "John Cheever",
+        "Flannery O'Connor"
       ],
       "question": {
-        "text": "What is the word for a group of starlings?"
+        "text": "Who is the author of the books 'Mr. Sammler's Planet' and 'Herzog'?"
+      },
+      "tags": [
+        "books",
+        "authors",
+        "novels",
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510c0",
+      "correctAnswer": "Fifteen",
+      "incorrectAnswers": [
+        "Thirty",
+        "Twenty Four",
+        "Forty"
+      ],
+      "question": {
+        "text": "How many degrees does the earth rotate each hour"
       },
       "tags": [
         "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "64720cd93bbb58c31f411cd7",
+      "correctAnswer": "The Adirondacks",
+      "incorrectAnswers": [
+        "The Rockies",
+        "The Appalachians",
+        "The Sierras"
+      ],
+      "question": {
+        "text": "Which set of mountains can be found in northeastern New York?"
+      },
+      "tags": [
+        "geography",
+        "usa",
+        "mountains"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -626,22 +525,132 @@
     },
     {
       "category": "music",
-      "id": "622a1c367cc59eab6f950373",
-      "correctAnswer": "The Stranglers",
+      "id": "6250641be12f6dec240bdf9a",
+      "correctAnswer": "Me And Mrs. Jones",
       "incorrectAnswers": [
-        "Sex Pistols",
-        "Violent Femmes",
-        "T. Rex"
+        "Two of Hearts",
+        "Round And Round",
+        "Tainted Love"
       ],
       "question": {
-        "text": "Who sang 'No More Heroes'?"
+        "text": "What song did Billy Paul have a hit with in 1972?"
       },
       "tags": [
         "songs",
+        "one_hit_wonders",
         "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233865962eaad73716a8cca",
+      "correctAnswer": "Ireland ",
+      "incorrectAnswers": [
+        "Canada",
+        "New Zealand",
+        "Australia"
+      ],
+      "question": {
+        "text": "Where Is The Glenveagh National Park?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "647d5c21e9542d21c32c8179",
+      "correctAnswer": "O",
+      "incorrectAnswers": [
+        "Ox",
+        "Oy",
+        "Og"
+      ],
+      "question": {
+        "text": "What is the symbol for the element oxygen?"
+      },
+      "tags": [
+        "science",
+        "chemistry",
+        "chemical_elements"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ffd0",
+      "correctAnswer": "Wet Wet Wet",
+      "incorrectAnswers": [
+        "Feeder",
+        "Wham!",
+        "Culture Club"
+      ],
+      "question": {
+        "text": "Who had 90's hits with 'Julia Says' & 'If I Never See You Again'? "
+      },
+      "tags": [
+        "1990's",
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9505b2",
+      "correctAnswer": "Olivia Wilde",
+      "incorrectAnswers": [
+        "Sophia Loren",
+        "Madonna",
+        "Jacqueline Bisset"
+      ],
+      "question": {
+        "text": "Which actress has starred in both 'The O.C'. and the 2013 film 'Her'?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "64909c4c58265893a0c86d96",
+      "correctAnswer": "Shaggy",
+      "incorrectAnswers": [
+        "Messy",
+        "Patchy",
+        "Tangled"
+      ],
+      "question": {
+        "text": "Which is the name of Scooby Doo's best friend?"
+      },
+      "tags": [
+        "film_and_tv",
+        "tv",
+        "cartoons",
+        "childrens_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     }
