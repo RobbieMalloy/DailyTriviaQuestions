@@ -1,18 +1,82 @@
 {
-  "gameDate": "2026-05-07",
+  "gameDate": "2026-05-08",
   "difficulty": "easy",
   "results": [
     {
-      "category": "science",
-      "id": "6505701a7a97013de78b5532",
-      "correctAnswer": "Leprosy",
+      "category": "food_and_drink",
+      "id": "624c60c095b12387e142c79b",
+      "correctAnswer": "Ramen",
       "incorrectAnswers": [
-        "Pneumonia",
-        "Cholera",
-        "Influenza"
+        "Ceviche",
+        "Plov",
+        "Chilli Crab"
       ],
       "question": {
-        "text": "Which of these diseases is characterized by skin lesions?"
+        "text": "Which of these dishes would you most expect to find in Japan?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570317a97013de78b5552",
+      "correctAnswer": "Larynx (voice box)",
+      "incorrectAnswers": [
+        "Ear",
+        "Stomach",
+        "Liver"
+      ],
+      "question": {
+        "text": "In which part of the human throat is the epiglottis located?"
+      },
+      "tags": [
+        "science",
+        "anatomy"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b5839fd6c701a921183a6",
+      "correctAnswer": "Brazil",
+      "incorrectAnswers": [
+        "Spain",
+        "Egypt",
+        "Argentina"
+      ],
+      "question": {
+        "text": "In which country would you find the city of Rio de Janeiro?"
+      },
+      "tags": [
+        "cities",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6505702b7a97013de78b5549",
+      "correctAnswer": "Neutrino",
+      "incorrectAnswers": [
+        "Electron",
+        "Muon",
+        "Tau"
+      ],
+      "question": {
+        "text": "Which of the following particles does NOT carry electric charge?"
       },
       "tags": [
         "science"
@@ -23,41 +87,19 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951340",
-      "correctAnswer": "Caricature",
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503fe",
+      "correctAnswer": "Aqueduct",
       "incorrectAnswers": [
-        "Satire",
-        "Still Life",
-        "Snappy Shot"
+        "Canal",
+        "Forum",
+        "Arena"
       ],
       "question": {
-        "text": "What is the word for an artwork humoously excaggerating the qualities of a person?"
+        "text": "What did the Romans build to convey water? "
       },
       "tags": [
-        "words",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950169",
-      "correctAnswer": "Romeo",
-      "incorrectAnswers": [
-        "Juliet",
-        "Hamlet",
-        "Paris"
-      ],
-      "question": {
-        "text": "Who said 'But, soft! what light through yonder window breaks'?"
-      },
-      "tags": [
-        "theater"
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -66,152 +108,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "639c9da6929b90846f2fc980",
-      "correctAnswer": "Mosque",
+      "id": "6262885a4b176d54800e3d97",
+      "correctAnswer": "Because you're worth it",
       "incorrectAnswers": [
-        "Church",
-        "Synagogue",
-        "Temple"
+        "Quality never goes out of style",
+        "Maybe she's born with it",
+        "It's Style"
       ],
       "question": {
-        "text": "What is the name of the Islamic place of worship?"
+        "text": "Which marketing slogan would you associate with L'Oreal?"
       },
       "tags": [
-        "islam",
-        "religion",
-        "society_and_culture",
-        "buildings"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501c5",
-      "correctAnswer": "Romeo and Juliet",
-      "incorrectAnswers": [
-        "The Great Gatsby",
-        "Eine Geschichte des Universums in 100 Sternen",
-        "Madame Bovary"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'Two households, both alike in dignity, in fair Verona, where we lay our scene, from ancient grudge break to new mutiny, where civil blood makes civil hands unclean.'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff35",
-      "correctAnswer": "Michael Jackson",
-      "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
-      ],
-      "question": {
-        "text": "Which musician released the song 'Beat It'?"
-      },
-      "tags": [
-        "songs",
-        "musicians",
-        "1980's",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056e237a97013de78b5277",
-      "correctAnswer": "Green",
-      "incorrectAnswers": [
-        "Brown",
-        "Purple",
-        "Orange"
-      ],
-      "question": {
-        "text": "If you mix yellow and blue paint together, what color do you get?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "colour",
-        "painting"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95136a",
-      "correctAnswer": "Collage",
-      "incorrectAnswers": [
-        "Watercolor",
-        "Sculpture",
-        "Pointilism"
-      ],
-      "question": {
-        "text": "What is the word for a composition made of cut and pasted pieces of materials?"
-      },
-      "tags": [
-        "art",
-        "words",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f896",
-      "correctAnswer": "Motor racing",
-      "incorrectAnswers": [
-        "Hockey",
-        "Track and field",
-        "Table tennis"
-      ],
-      "question": {
-        "text": "With which sport is Michael Schumacher associated?"
-      },
-      "tags": [
-        "general_knowledge",
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f951a8a",
-      "correctAnswer": "October 31st",
-      "incorrectAnswers": [
-        "November 10th",
-        "October 24th",
-        "November 21st"
-      ],
-      "question": {
-        "text": "On Which Date Is Halloween?"
-      },
-      "tags": [
-        "halloween",
-        "general_knowledge",
+        "business",
+        "marketing",
+        "fashion",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -220,16 +130,39 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "6256985c9da29df7b05f7282",
-      "correctAnswer": "Black Widow",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502bc",
+      "correctAnswer": "Pasta ",
       "incorrectAnswers": [
-        "Gamora",
-        "Valkyrie",
-        "Captain Marvel"
+        "Chicken",
+        "Cheese",
+        "Bread"
       ],
       "question": {
-        "text": "In the Marvel Cinematic Universe, which character is played by Scarlett Johansson?"
+        "text": "What Is Ravioli? "
+      },
+      "tags": [
+        "food",
+        "general_knowledge",
+        "words",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6256986c9da29df7b05f7286",
+      "correctAnswer": "Chris Hemsworth",
+      "incorrectAnswers": [
+        "Jon Favreau",
+        "John Slattery",
+        "Tom Holland"
+      ],
+      "question": {
+        "text": "The role of Thor in the Marvel Cinematic Universe is played by which actor?"
       },
       "tags": [
         "mcu",
@@ -246,57 +179,15 @@
     },
     {
       "category": "geography",
-      "id": "623741f7cb85f7ce9e949d9c",
-      "correctAnswer": "Lisbon",
+      "id": "623b583dfd6c701a921183a8",
+      "correctAnswer": "England",
       "incorrectAnswers": [
-        "Santo Domingo",
-        "Suva",
-        "Oslo"
+        "Italy",
+        "France",
+        "Belgium"
       ],
       "question": {
-        "text": "What is the capital city of Portugal?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "645c9ff442ea81e2554c5f99",
-      "correctAnswer": "Vikings",
-      "incorrectAnswers": [
-        "Celts",
-        "Mongols",
-        "Saxons"
-      ],
-      "question": {
-        "text": "Which of these groups were known as fierce, medieval Scandinavian explorers?"
-      },
-      "tags": [
-        "history",
-        "culture",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623735f1cfe13103f55eb585",
-      "correctAnswer": "Thailand",
-      "incorrectAnswers": [
-        "Lesotho",
-        "Netherlands",
-        "Haiti"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.th' at the end of its web addresses?"
+        "text": "In which country would you find the UNESCO World Heritage site of Stonehenge?"
       },
       "tags": [
         "geography"
@@ -308,62 +199,18 @@
     },
     {
       "category": "society_and_culture",
-      "id": "65056e8d7a97013de78b530b",
-      "correctAnswer": "Bank",
+      "id": "622a1c357cc59eab6f94fce8",
+      "correctAnswer": "Indo-European",
       "incorrectAnswers": [
-        "Book store",
-        "Joint venture",
-        "Pulp mill"
+        "Niger–Congo",
+        "Afroasiatic",
+        "Dravidian"
       ],
       "question": {
-        "text": "What do you call a business that lends and borrows money?"
+        "text": "The language 'German' belongs to which language family?"
       },
       "tags": [
-        "finance",
-        "banking",
-        "business"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c60d550d1a5e051325a76",
-      "correctAnswer": "North Africa",
-      "incorrectAnswers": [
-        "Ghana",
-        "Belgium",
-        "South America"
-      ],
-      "question": {
-        "text": "Tagine is a dish that is most associated with which part of the world?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f95196a",
-      "correctAnswer": "Silent Night",
-      "incorrectAnswers": [
-        "The Holly and the Ivy",
-        "Oh, Holy Night",
-        "We Three Kings"
-      ],
-      "question": {
-        "text": "What is the English title of the Christmas carol written by the Austrian Josef Mohr, originally called 'Stille Nacht'?"
-      },
-      "tags": [
-        "christmas",
-        "songs",
+        "germany",
         "language",
         "society_and_culture"
       ],
@@ -373,44 +220,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "64824e707778562fd76a9653",
-      "correctAnswer": "Treble",
+      "category": "science",
+      "id": "65056fdf7a97013de78b54e0",
+      "correctAnswer": "Physicist",
       "incorrectAnswers": [
-        "Soprano",
-        "Tenor",
-        "Alto"
+        "Physician",
+        "Physiatrist",
+        "Physicalist"
       ],
       "question": {
-        "text": "According to a popular song by Meghan Trainor, you should be 'all about that bass...no' what?"
+        "text": "What term is used for someone who studies physics?"
       },
       "tags": [
-        "songs",
-        "lyrics",
-        "pop_music",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9518c4",
-      "correctAnswer": "Enigma",
-      "incorrectAnswers": [
-        "Mystery",
-        "Paradox",
-        "Riddle"
-      ],
-      "question": {
-        "text": "What Was The Name Given To The Coding Machine Used By The Germans In World War II?"
-      },
-      "tags": [
-        "technology",
-        "world_war_2",
-        "history"
+        "science",
+        "occupations"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -419,107 +242,21 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f9518aa",
-      "correctAnswer": "Rubik's Cube",
+      "id": "63e4c35f106de6ffa7d4a7e0",
+      "correctAnswer": "Red, White, and Blue",
       "incorrectAnswers": [
-        "Furby",
-        "Playmobil",
-        "Hula Hoop"
+        "Green, White, and Red",
+        "Yellow, White, and Blue",
+        "Red, White, and Yellow"
       ],
       "question": {
-        "text": "Which toy is a multi-colored block you have to reorganize?"
+        "text": "What colors are traditionally associated with the US Independence Day (4th of July)?"
       },
       "tags": [
-        "toys",
-        "general_knowledge",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b92",
-      "correctAnswer": "The Jackson 5",
-      "incorrectAnswers": [
-        "The Jackson Brothers",
-        "The Smashing Jacksons",
-        "Jackson"
-      ],
-      "question": {
-        "text": "Before going solo, what band was Michael Jackson a member of?"
-      },
-      "tags": [
-        "music",
-        "people",
-        "musicians",
-        "bands"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374083cb85f7ce9e949d06",
-      "correctAnswer": "Berlin",
-      "incorrectAnswers": [
-        "Munich",
-        "Hamburg",
-        "Frankfurt"
-      ],
-      "question": {
-        "text": "What is the capital city of Germany?"
-      },
-      "tags": [
-        "europe",
-        "germany",
-        "capital_cities"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6257413a9da29df7b05f740f",
-      "correctAnswer": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp.",
-      "incorrectAnswers": [
-        "Simba and his father are targeted by his uncle, who wants to ascend the throne himself.",
-        "Two soldiers race to deliver a message that will stop 1,600 men from walking into a deadly trap.",
-        "Two grifters team up to pull off the ultimate con."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Aladdin?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "648891c34cd3f064f443dc62",
-      "correctAnswer": "How to Train Your Dragon",
-      "incorrectAnswers": [
-        "How to Train Your Basilisk",
-        "How to Train Your Kraken",
-        "How to Train Your Unicorn"
-      ],
-      "question": {
-        "text": "In which 2010 animated film does Hiccup befriend and then teach an injured mythical creature?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
+        "society_and_culture",
+        "usa",
+        "celebrations",
+        "colours"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -528,18 +265,18 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "65056f817a97013de78b5460",
-      "correctAnswer": "Golf",
+      "id": "622a1c367cc59eab6f950083",
+      "correctAnswer": "Basketball",
       "incorrectAnswers": [
         "Volleyball",
-        "Cricket",
-        "Triathlon"
+        "Football",
+        "Baseball"
       ],
       "question": {
-        "text": "In which sport do we use the words \"Birdie\", \"Eagle\" and \"Bogey\"?"
+        "text": "What Sport Do The Harlem Globetrotters Play?"
       },
       "tags": [
-        "sport_and_leisure"
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -547,19 +284,41 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c3d7cc59eab6f951c7f",
-      "correctAnswer": "Bohemian Rhapsody",
+      "category": "sport_and_leisure",
+      "id": "622a1c357cc59eab6f950021",
+      "correctAnswer": "Soccer",
       "incorrectAnswers": [
-        "Good Vibrations",
-        "Help!",
-        "Wish You Were Here"
+        "Basketball",
+        "Volleyball",
+        "Rugby"
       ],
       "question": {
-        "text": "'Is this the real life, is this just fantasy', is the opening line of which hit song?"
+        "text": "With which sport is Pelé associated?"
       },
       "tags": [
-        "music"
+        "sport",
+        "people",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3f7cc59eab6f952397",
+      "correctAnswer": "Symbiosis",
+      "incorrectAnswers": [
+        "Parasitism",
+        "Syncronicity",
+        "Parallelism"
+      ],
+      "question": {
+        "text": "What is the word for a relationship between two different types of organism which live together for their mutual benefit?"
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -568,17 +327,21 @@
     },
     {
       "category": "geography",
-      "id": "62374206cb85f7ce9e949da2",
-      "correctAnswer": "Moscow",
+      "id": "6233843e62eaad73716a8bf7",
+      "correctAnswer": "The Ganges",
       "incorrectAnswers": [
-        "St Petersburg",
-        "Kazan",
-        "Vladivostok"
+        "The Indus",
+        "The Brahmaputra",
+        "The Krishna"
       ],
       "question": {
-        "text": "What is the capital city of Russia?"
+        "text": "What is the most sacred river in India?"
       },
       "tags": [
+        "rivers",
+        "bodies_of_water",
+        "religion",
+        "hinduism",
         "geography"
       ],
       "type": "text_choice",
@@ -587,19 +350,20 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "65056f7e7a97013de78b545c",
-      "correctAnswer": "Mayor",
+      "category": "general_knowledge",
+      "id": "64824e697778562fd76a962d",
+      "correctAnswer": "Opaque",
       "incorrectAnswers": [
-        "Prime Minister",
-        "Cardinal",
-        "President"
+        "Transparent",
+        "Translucent",
+        "Obtuse"
       ],
       "question": {
-        "text": "Who is in charge of the administration of a city?"
+        "text": "What word means that an object is impossible to see through?"
       },
       "tags": [
-        "society_and_culture"
+        "words",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -608,17 +372,19 @@
     },
     {
       "category": "geography",
-      "id": "623b5794fd6c701a92118368",
-      "correctAnswer": "Athens",
+      "id": "623740ddcb85f7ce9e949d2a",
+      "correctAnswer": "Rome",
       "incorrectAnswers": [
-        "Jerusalem",
-        "Moscow",
-        "Venice"
+        "Venice",
+        "Florence",
+        "Milan"
       ],
       "question": {
-        "text": "In which city would you find the Acropolis?"
+        "text": "What is the capital city of Italy?"
       },
       "tags": [
+        "italy",
+        "capital_cities",
         "geography"
       ],
       "type": "text_choice",
@@ -628,21 +394,263 @@
     },
     {
       "category": "history",
-      "id": "622a1c347cc59eab6f94f9eb",
-      "correctAnswer": "George Washington ",
+      "id": "622a1c347cc59eab6f94f9c1",
+      "correctAnswer": "Barack Obama",
       "incorrectAnswers": [
-        "Chester Arthur",
-        "Ulysses S. Grant",
-        "Millard Fillmore"
+        "Calvin Coolidge",
+        "Ronald Reagan",
+        "Zachary Taylor"
       ],
       "question": {
-        "text": "Who was the 1st president of the USA, in term during the period 1789–1797?"
+        "text": "Who was the 44th president of the USA, in term during the period 2009–2017?"
       },
       "tags": [
+        "general_knowledge",
+        "usa",
+        "presidents",
+        "people",
+        "leaders",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645cb1257d263fd50970439c",
+      "correctAnswer": "An Advent calendar",
+      "incorrectAnswers": [
+        "A Holy calendar",
+        "A Kwanzaa calendar",
+        "A Countdown calendar"
+      ],
+      "question": {
+        "text": "What kind of calendar used to count the days until Christmas and often has a treat behind each window?"
+      },
+      "tags": [
+        "traditions",
+        "candy",
+        "christmas"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056fe07a97013de78b54e1",
+      "correctAnswer": "Isaac",
+      "incorrectAnswers": [
+        "Albert",
+        "Herbert",
+        "Luigi"
+      ],
+      "question": {
+        "text": "What was the first name of the physicist Newton?"
+      },
+      "tags": [
+        "science",
+        "people"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602d1b4b176d54800e3c7f",
+      "correctAnswer": "Spain",
+      "incorrectAnswers": [
+        "Germany",
+        "Belgium",
+        "Norway"
+      ],
+      "question": {
+        "text": "Where would you find the city of Barcelona?"
+      },
+      "tags": [
+        "cities",
+        "europe",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "63989c205c9a75021f310483",
+      "correctAnswer": "Horse and Carriage",
+      "incorrectAnswers": [
+        "Steam Engine Train",
+        "Airplane",
+        "Bicycle"
+      ],
+      "question": {
+        "text": "What was the main form of transportation used during the 17th century?"
+      },
+      "tags": [
+        "history",
+        "1600s"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f9a",
+      "correctAnswer": "William Shakespeare",
+      "incorrectAnswers": [
+        "Arthur C. Clarke",
+        "Isaac Newton",
+        "Enid Blyton"
+      ],
+      "question": {
+        "text": "Which author wrote 'Macbeth'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6384b45483dddfb71ee5e372",
+      "correctAnswer": "Motorsports",
+      "incorrectAnswers": [
+        "American Football",
+        "Ice Hockey",
+        "Horse Racing"
+      ],
+      "question": {
+        "text": "What sport would you associate with Le Mans 24 Hours?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63e4c347106de6ffa7d4a7c3",
+      "correctAnswer": "Red",
+      "incorrectAnswers": [
+        "Orange",
+        "Blue",
+        "Purple"
+      ],
+      "question": {
+        "text": "Which of these colors is traditionally associated with Christmas?"
+      },
+      "tags": [
+        "society_and_culture",
+        "christmas",
+        "colours",
+        "traditions"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573fa49da29df7b05f73a8",
+      "correctAnswer": "An archaeologist is hired by the government to find the Ark of the Covenant.",
+      "incorrectAnswers": [
+        "On a journey to find the cure for a curse, a boy finds himself in the middle of a war.",
+        "A Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+        "A 12-year-old is taken in by a professional assassin after her family is murdered."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Raiders of the Lost Ark?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c347cc59eab6f94f9c0",
+      "correctAnswer": "Donald J. Trump",
+      "incorrectAnswers": [
+        "Benjamin Harrison",
+        "George W. Bush",
+        "James Monroe "
+      ],
+      "question": {
+        "text": "Who was the 45th president of the USA, in term during the period 2017–2021?"
+      },
+      "tags": [
+        "leaders",
         "presidents",
         "usa",
-        "firsts",
         "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056f747a97013de78b544f",
+      "correctAnswer": "Indigenous cultures",
+      "incorrectAnswers": [
+        "Modern corporations",
+        "Ancient Greek city-states",
+        "Medieval European guilds"
+      ],
+      "question": {
+        "text": "Totems are most commonly associated with which of the following?"
+      },
+      "tags": [
+        "culture",
+        "anthropology",
+        "totem"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8d5",
+      "correctAnswer": "Arnold Schwarzenegger",
+      "incorrectAnswers": [
+        "Michael Douglas",
+        "Dustin Hoffman",
+        "Andy Serkis"
+      ],
+      "question": {
+        "text": "Which actor played the role of The Terminator in The Terminator?"
+      },
+      "tags": [
+        "film",
+        "cult_films",
+        "acting",
+        "general_knowledge",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
