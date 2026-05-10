@@ -1,21 +1,42 @@
 {
-  "gameDate": "2026-05-09",
+  "gameDate": "2026-05-10",
   "difficulty": "hard",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d7f",
-      "correctAnswer": "AC/DC",
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fdef",
+      "correctAnswer": "Tropic of Capricorn",
       "incorrectAnswers": [
-        "Pendulum",
-        "INXS",
-        "Savage Garden"
+        "Tropic of Cancer",
+        "Tropic of Virgo",
+        "Tropic of Gemini"
       ],
       "question": {
-        "text": "Which band includes 'Angus Young'?"
+        "text": "Which tropic passes through Australia?"
       },
       "tags": [
-        "music"
+        "australia",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95025f",
+      "correctAnswer": "Austria ",
+      "incorrectAnswers": [
+        "Germany",
+        "Belgium",
+        "Switzerland"
+      ],
+      "question": {
+        "text": "'Sachertorte' is a chocolate cake from which country? "
+      },
+      "tags": [
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -24,20 +45,19 @@
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f951b43",
-      "correctAnswer": "1789",
+      "id": "622a1c367cc59eab6f9503b1",
+      "correctAnswer": "France",
       "incorrectAnswers": [
-        "1689",
-        "1889",
-        "1989"
+        "Italy",
+        "China",
+        "Russia"
       ],
       "question": {
-        "text": "In What Year Did The French Revolution Begin?"
+        "text": "Which country blew up a Greenpeace ship in New Zealand?"
       },
       "tags": [
-        "france",
-        "wars",
-        "revolutions",
+        "events",
+        "new_zealand",
         "history"
       ],
       "type": "text_choice",
@@ -46,19 +66,20 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62399ef6af96521963a0870d",
-      "correctAnswer": "Argentina",
+      "category": "food_and_drink",
+      "id": "627164511ba117625baac957",
+      "correctAnswer": "Iceland",
       "incorrectAnswers": [
-        "France",
-        "Brazil",
-        "England"
+        "The Czech Republic",
+        "Austria",
+        "Nepal"
       ],
       "question": {
-        "text": "Which country won the 1986 FIFA World Cup, hosted in Mexico?"
+        "text": "Which country is associated with the drink brennivín?"
       },
       "tags": [
-        "sport"
+        "drink",
+        "alcohol"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -66,20 +87,82 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8b0",
-      "correctAnswer": "Cycling",
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f950194",
+      "correctAnswer": "Madame Butterfly",
       "incorrectAnswers": [
-        "Skiing",
-        "Snooker",
-        "Tennis"
+        "Swan Lake",
+        "HMS Pinafore",
+        "Candide"
       ],
       "question": {
-        "text": "With which sport is Eddy Merckx associated?"
+        "text": "In what opera would you find Lt. Pinkerton?"
       },
       "tags": [
-        "people",
-        "sport"
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c604a50d1a5e051325a50",
+      "correctAnswer": "Kabuli Pulao",
+      "incorrectAnswers": [
+        "Frikadeller",
+        "Ema Datshi",
+        "Masala Dosa"
+      ],
+      "question": {
+        "text": "Which of these dishes would you most expect to find in Afghanistan?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ec9",
+      "correctAnswer": "Haruki Murakami",
+      "incorrectAnswers": [
+        "Oscar Wilde",
+        "Umberto Eco",
+        "Søren Kierkegaard"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Wind-Up Bird Chronicle'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fba3",
+      "correctAnswer": "\"Swing Life Away\" by Rise Against",
+      "incorrectAnswers": [
+        "\"SpongeBob SquarePants Theme\" by Painty the Pirate",
+        "\"Old Man\" by Neil Young",
+        "\"Chimpan-A to Chimpan-Z\" by Troy McClure"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"Am I loud and clear, or am I breaking up? / Am I still your charm, or am I just bad luck? / Are we getting closer, or are we just getting more lost?\"?"
+      },
+      "tags": [
+        "songs",
+        "lyrics",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -88,15 +171,15 @@
     },
     {
       "category": "geography",
-      "id": "623388cd0161109f922aacad",
-      "correctAnswer": "Ural",
+      "id": "623b5810fd6c701a92118396",
+      "correctAnswer": "Bosnia & Herzegovina",
       "incorrectAnswers": [
-        "Alps",
-        "Pyrenees",
-        "Atlas"
+        "Turkey",
+        "Argentina",
+        "Estonia"
       ],
       "question": {
-        "text": "Which mountain range is regarded as the Eastern border of Europe?"
+        "text": "In which country would you find the UNESCO World Heritage site of Mostar?"
       },
       "tags": [
         "geography"
@@ -107,22 +190,60 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950fc5",
-      "correctAnswer": "John Logie Baird",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cce",
+      "correctAnswer": "Queen",
       "incorrectAnswers": [
-        "Karl Benz",
-        "Johannes Gutenberg",
-        "Eli Whitney"
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
       ],
       "question": {
-        "text": "Who First Demonstrated Television In 1926?"
+        "text": "Which British rock band (1970-) released the studio album 'News of the World'?"
       },
       "tags": [
-        "inventions",
-        "people",
-        "1920's",
-        "science"
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6477bb70550bc819ad646b8f",
+      "correctAnswer": "The wind-up",
+      "incorrectAnswers": [
+        "The pitch",
+        "The strike",
+        "The charge"
+      ],
+      "question": {
+        "text": "Which of these is a legal pitching position in baseball?"
+      },
+      "tags": [
+        "baseball",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950367",
+      "correctAnswer": "Jack Ruby",
+      "incorrectAnswers": [
+        "Mark Bench",
+        "Tom Gunn",
+        "Alvin Grey"
+      ],
+      "question": {
+        "text": "Who Shot Lee Harvey Oswald, The Assassin Of John F Kennedy?"
+      },
+      "tags": [
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -131,19 +252,17 @@
     },
     {
       "category": "science",
-      "id": "6242cb61d543524f1b19c928",
-      "correctAnswer": "A labour",
+      "id": "622a1c377cc59eab6f950489",
+      "correctAnswer": "study of human characteristics",
       "incorrectAnswers": [
-        "A covey",
-        "A watch",
-        "A nest"
+        "the eyes",
+        "wood",
+        "the study and psychology of organisms with regard to their functions and structures"
       ],
       "question": {
-        "text": "What is the word for a group of moles?"
+        "text": "What is Somatology the study of?"
       },
       "tags": [
-        "animals",
-        "words",
         "science"
       ],
       "type": "text_choice",
@@ -152,20 +271,79 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f6d",
-      "correctAnswer": "Arthur Conan Doyle",
+      "category": "history",
+      "id": "622a1c377cc59eab6f950439",
+      "correctAnswer": "Nine",
       "incorrectAnswers": [
-        "Agatha Christie",
-        "Oscar Wilde",
-        "George Orwell"
+        "One",
+        "Two",
+        "Six"
       ],
       "question": {
-        "text": "Which author wrote 'The Sign of the Four'?"
+        "text": "How Many Crusades Were There?"
       },
       "tags": [
-        "literature",
-        "arts_and_literature"
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bd3",
+      "correctAnswer": "Bon Jovi",
+      "incorrectAnswers": [
+        "Incubus",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
+      ],
+      "question": {
+        "text": "Which rock band from the United States released the song 'It's My Life'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950289",
+      "correctAnswer": "Filo ",
+      "incorrectAnswers": [
+        "Choux",
+        "Flaky",
+        "Short crust"
+      ],
+      "question": {
+        "text": "What type of pastry is usually bought frozen in wafer thin slices?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951072",
+      "correctAnswer": "The Dial Telephone",
+      "incorrectAnswers": [
+        "The Hearing Aid",
+        "The Telegram",
+        "The Microphone"
+      ],
+      "question": {
+        "text": "What Communication Aid Was Invented In 1905 By American Undertaker Almon Strowger"
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -174,20 +352,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd12",
-      "correctAnswer": "Baruch Spinoza",
+      "id": "63b069264799123c67712f57",
+      "correctAnswer": "Shuka",
       "incorrectAnswers": [
-        "Spinoza",
-        "Jean-Jacques Rousseau",
-        "Socrates"
+        "Kaftan",
+        "Thobe",
+        "Dashiki"
       ],
       "question": {
-        "text": "Which philosopher famously said 'If men were born free, they would, so long as they remained free, form no conception of good and evil'?"
+        "text": "Which of these is a style of cloth used to make clothing by the Maasai people of East Africa?"
       },
       "tags": [
-        "philosophy",
-        "quotes",
-        "society_and_culture"
+        "society_and_culture",
+        "fashion",
+        "africa"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -195,20 +373,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa33",
-      "correctAnswer": "Realism",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f85d",
+      "correctAnswer": "Track and field",
       "incorrectAnswers": [
-        "Suprematism",
-        "Fauvism",
-        "Modernism"
+        "Tennis",
+        "Figure skating",
+        "Swimming"
       ],
       "question": {
-        "text": "The painting \"Olympia\" by Édouard Manet is a part of which art movement?"
+        "text": "With which sport is Wilma Rudolph associated?"
       },
       "tags": [
-        "painting",
-        "art"
+        "people",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -217,15 +395,119 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc07",
-      "correctAnswer": "\"Is it safe?\"",
+      "id": "622a1c347cc59eab6f94f92c",
+      "correctAnswer": "The Good, the Bad, and the Ugly",
       "incorrectAnswers": [
-        "\"Wait a minute, wait a minute. You ain't heard nothin' yet!\"",
-        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\"",
-        "\"That’s a bingo!\""
+        "Chinatown",
+        "Fast Times at Ridgemont High",
+        "The Silence of the Lambs"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Marathon Man'?"
+        "text": "Which film contains the character 'Blondie'?"
+      },
+      "tags": [
+        "film",
+        "fictitious_characters",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951be5",
+      "correctAnswer": "Black Thursday",
+      "incorrectAnswers": [
+        "Dark Wednesday",
+        "Sorrowful Sunday",
+        "Miserable Monday"
+      ],
+      "question": {
+        "text": "How is the stockmarket collapse of the 24th October 1929 better known?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9506ae",
+      "correctAnswer": "Naomi Watts",
+      "incorrectAnswers": [
+        "Melissa Leo",
+        "Frances Conroy",
+        "Laura Linney"
+      ],
+      "question": {
+        "text": "Which actress has featured in both Birdman and Twin Peaks?"
+      },
+      "tags": [
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501a1",
+      "correctAnswer": "Dream of the Red Chamber",
+      "incorrectAnswers": [
+        "Germinal",
+        "Madame Bovary",
+        "The Decameron"
+      ],
+      "question": {
+        "text": "In which book does 'Wang Xifeng' appear?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bad",
+      "correctAnswer": "BTS",
+      "incorrectAnswers": [
+        "Kara",
+        "2NE1",
+        "Red Velvet"
+      ],
+      "question": {
+        "text": "Which South Korean boy group released the single 'Dynamite'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc1d",
+      "correctAnswer": "\"One morning I shot an elephant in my pajamas. How he got in my pajamas, I don't know.\"",
+      "incorrectAnswers": [
+        "\"Soylent Green is people!\"",
+        "\"I’m going to have to science the s*** out of this.\"",
+        "\"Toto, I've a feeling we're not in Kansas anymore.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Animal Crackers'?"
       },
       "tags": [
         "quotes",
@@ -238,81 +520,16 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc7a",
-      "correctAnswer": "Gabelle",
-      "incorrectAnswers": [
-        "Ragamuffin",
-        "Frankenfood",
-        "Gubbins"
-      ],
-      "question": {
-        "text": "Which word is defined as 'a tax on salt'?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "63e4c351106de6ffa7d4a7d0",
-      "correctAnswer": "Ankylosaurus",
-      "incorrectAnswers": [
-        "Triceratops",
-        "Stegosaurus",
-        "Parasaurolophus"
-      ],
-      "question": {
-        "text": "What is the name of the dinosaur with a club-like tail?"
-      },
-      "tags": [
-        "science",
-        "dinosaurs",
-        "nature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f976",
-      "correctAnswer": "The Catcher in the Rye",
-      "incorrectAnswers": [
-        "The Remains of the Day",
-        "Howards End",
-        "The Moviegoer"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Phoebe Caulfield'?"
-      },
-      "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "sport_and_leisure",
-      "id": "62417dbe0f96c4efe8d773e5",
-      "correctAnswer": "Tampa Bay Buccaneers",
+      "id": "62417ddc0f96c4efe8d773f1",
+      "correctAnswer": "Winnipeg Jets",
       "incorrectAnswers": [
-        "Tamba Bay Bears",
-        "Tampa Bay Nuggets",
-        "Tampa Bay Broncos"
+        "Winnipeg Padres",
+        "Winnipeg Broncos",
+        "Winnipeg Penguins"
       ],
       "question": {
-        "text": "Which of these is an American Football team based in Tampa?"
+        "text": "Which of these is a hockey team based in Winnipeg?"
       },
       "tags": [
         "sport"
@@ -323,19 +540,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501d8",
-      "correctAnswer": "Barry Sonnenfeld",
+      "category": "food_and_drink",
+      "id": "624c60b850d1a5e051325a6f",
+      "correctAnswer": "Aloco",
       "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
+        "Borscht",
+        "Shawarma",
+        "Dholl Puri"
       ],
       "question": {
-        "text": "Which director directed Men in Black?"
+        "text": "Which of these dishes is most associated with Côte d'Ivoire?"
       },
       "tags": [
-        "film_and_tv"
+        "food",
+        "africa",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -344,15 +563,15 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950bdf",
-      "correctAnswer": "Haloo Helsinki!",
+      "id": "622a1c387cc59eab6f950b7b",
+      "correctAnswer": "Modern Talking",
       "incorrectAnswers": [
-        "Nightwish",
-        "Stratovarius",
-        "Sonata Arctica"
+        "Sodom",
+        "Rage",
+        "Edguy"
       ],
       "question": {
-        "text": "Which Finnish rock music group released the album 'III (edition 1)'?"
+        "text": "Which German synth pop duo released the song 'You're My Heart, You're My Soul'?"
       },
       "tags": [
         "music"
@@ -363,19 +582,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c2f",
-      "correctAnswer": "ABBA",
+      "category": "geography",
+      "id": "623387b30161109f922aac3e",
+      "correctAnswer": "Ethiopia ",
       "incorrectAnswers": [
-        "In Flames",
-        "HammerFall",
-        "Katatonia"
+        "Syria",
+        "Egypt",
+        "Azerbaijan"
       ],
       "question": {
-        "text": "Which Swedish pop group released the song 'Happy New Year'?"
+        "text": "Which country was previously called Abyssinia?"
       },
       "tags": [
-        "music"
+        "names",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -383,261 +603,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "62611fe94b176d54800e3d79",
-      "correctAnswer": "1926",
+      "category": "geography",
+      "id": "622a1c387cc59eab6f95092a",
+      "correctAnswer": "Democratic Republic of the Congo",
       "incorrectAnswers": [
-        "1899",
-        "1949",
-        "1866"
+        "Gabon",
+        "Equatorial Guinea",
+        "Rwanda"
       ],
       "question": {
-        "text": "When did Roald Amundsen first reach the North Pole?"
+        "text": "Which of these countries borders Central African Republic?"
       },
       "tags": [
-        "events",
-        "firsts",
-        "exploration",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d000f96c4efe8d7739a",
-      "correctAnswer": "Columbus Crew",
-      "incorrectAnswers": [
-        "Columbus Kings",
-        "Columbus Bruins",
-        "Columbus Dolphins"
-      ],
-      "question": {
-        "text": "Which of these is a soccer team based in Columbus?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "63951e7de55fa75b149597b3",
-      "correctAnswer": "Severance",
-      "incorrectAnswers": [
-        "Squid Game",
-        "Split",
-        "Mr Robot"
-      ],
-      "question": {
-        "text": "Released in 2022, which TV show depicts a world where people undergo a procedure to split their mind into two so that they can enjoy life without work?"
-      },
-      "tags": [
-        "tv",
-        "2022",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6243332dcfaae40c129613c6",
-      "correctAnswer": "A Kitten",
-      "incorrectAnswers": [
-        "A Chick",
-        "A Kid",
-        "A Farrow"
-      ],
-      "question": {
-        "text": "A young beaver is known as what?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950342",
-      "correctAnswer": "Jane Seymour",
-      "incorrectAnswers": [
-        "Anne Boleyn",
-        "Catherine Parr",
-        "Catherine Howard"
-      ],
-      "question": {
-        "text": "Who Was The 3rd Wife Of Henry VIII?"
-      },
-      "tags": [
-        "medieval",
-        "kings",
-        "uk",
-        "middle_ages",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b9f",
-      "correctAnswer": "Rammstein",
-      "incorrectAnswers": [
-        "Cascada",
-        "Blue System",
-        "Scorpions"
-      ],
-      "question": {
-        "text": "Which German industrial metal band released the song 'Du hast'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "637162591bf863c45ca6c36e",
-      "correctAnswer": "Igne natura renovatur integra",
-      "incorrectAnswers": [
-        "Nil volentibus arduum",
-        "Suum cuique",
-        "Praesis ut prosis ne ut imperes"
-      ],
-      "question": {
-        "text": "Which of these Latin phrases means 'Through fire, nature is reborn whole'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501e7",
-      "correctAnswer": "Chris Columbus",
-      "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
-      ],
-      "question": {
-        "text": "Which director directed Harry Potter and the Philosopher's Stone?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611fc34b176d54800e3d6f",
-      "correctAnswer": "1971",
-      "incorrectAnswers": [
-        "1957",
-        "1964",
-        "1978"
-      ],
-      "question": {
-        "text": "When was the first email sent?"
-      },
-      "tags": [
-        "events",
-        "firsts",
-        "technology",
-        "the_internet",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3d7cc59eab6f951c80",
-      "correctAnswer": "Kojak",
-      "incorrectAnswers": [
-        "Shaft",
-        "Coffy",
-        "Black Belt Jones"
-      ],
-      "question": {
-        "text": "'Who loves ya, baby?' was the catchphrase of which 70s TV sleuth?"
-      },
-      "tags": [
-        "quotes",
-        "tv",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6502100c2b411b896c984b1c",
-      "correctAnswer": "Gemini",
-      "incorrectAnswers": [
-        "Cancer",
-        "Sagittarius",
-        "Virgo"
-      ],
-      "question": {
-        "text": "Which zodiac sign is characterized by a 2-sided personality and frequent mood changes?"
-      },
-      "tags": [
-        "zodiac",
-        "society_and_culture",
-        "astrology"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62433475cfaae40c12961445",
-      "correctAnswer": "A Farrow",
-      "incorrectAnswers": [
-        "A Larva",
-        "A Caterpillar",
-        "A Codling"
-      ],
-      "question": {
-        "text": "A young hog is known as what?"
-      },
-      "tags": [
-        "animals",
-        "biology",
-        "science"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
