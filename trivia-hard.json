@@ -1,24 +1,61 @@
 {
-  "gameDate": "2026-05-11",
+  "gameDate": "2026-05-12",
   "difficulty": "hard",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8ec",
-      "correctAnswer": "Jeff Bridges",
+      "category": "history",
+      "id": "622a1c367cc59eab6f950366",
+      "correctAnswer": "Charles Guiteau",
       "incorrectAnswers": [
-        "Michael Douglas",
-        "Errol Flynn",
-        "John Wayne"
+        "Charlotte Corday",
+        "John Wilkes Booth",
+        "Gavrilo Princip"
       ],
       "question": {
-        "text": "Which actor played the role of The Dude in The Big Lebowski?"
+        "text": "Who shot President James Garfield?"
       },
       "tags": [
-        "acting",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951046",
+      "correctAnswer": "81",
+      "incorrectAnswers": [
+        "14",
+        "12",
+        "26"
+      ],
+      "question": {
+        "text": "What is the atomic number for thalium?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd707dc0dd3b72da64d1d",
+      "correctAnswer": "1999",
+      "incorrectAnswers": [
+        "1996",
+        "2002",
+        "2005"
+      ],
+      "question": {
+        "text": "The Sixth Sense was released in which year?"
+      },
+      "tags": [
         "film",
-        "cult_films",
-        "general_knowledge",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -27,23 +64,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6293ec427f41d6338b96eee3",
-      "correctAnswer": "Werner Heisenberg",
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ff9d",
+      "correctAnswer": "Ottawa",
       "incorrectAnswers": [
-        "Stephen Hawking",
-        "Gregor Mendel",
-        "Leonhard Euler"
+        "Toronto",
+        "Montreal",
+        "Vancouver"
       ],
       "question": {
-        "text": "Which influential theoretical physicist was one of the pioneers of Quantum mechanics?"
+        "text": "The city name ________________ is derived from an Algonquin word meaning \"traders.\""
       },
       "tags": [
-        "people",
-        "history",
-        "society_and_culture",
-        "science",
-        "physics"
+        "cities",
+        "names",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -51,22 +86,22 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "647638a3f05ea6d6f587a130",
-      "correctAnswer": "Dom Perignon",
+      "category": "science",
+      "id": "64976c110752843c0d8aadb5",
+      "correctAnswer": "Pelvis",
       "incorrectAnswers": [
-        "Veuve Clicquot",
-        "Moet and Chandon",
-        "Taittinger"
+        "Spine",
+        "Skull",
+        "Rib cage"
       ],
       "question": {
-        "text": "What is the name of the champagne named after a Benedictine monk?"
+        "text": "What part of your body is the ischium a part of?"
       },
       "tags": [
-        "alcohol",
-        "food_and_drink",
-        "drink",
-        "wine"
+        "biology",
+        "anatomy",
+        "medicine",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -74,21 +109,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9500f3",
-      "correctAnswer": "Leto",
+      "category": "geography",
+      "id": "62374015cb85f7ce9e949cda",
+      "correctAnswer": "San Jose",
       "incorrectAnswers": [
-        "Diana",
-        "Helen",
-        "Aphrodite"
+        "Andorra la Vella",
+        "Port of Spain",
+        "Majuro"
       ],
       "question": {
-        "text": "Who is the mother of Apollo and Artemis?"
+        "text": "What is the capital city of Costa Rica?"
       },
       "tags": [
-        "mythology",
-        "ancient_greece",
-        "society_and_culture"
+        "capital_cities",
+        "central_america",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -97,18 +132,19 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500dc",
-      "correctAnswer": "Super Mario Bros.",
+      "id": "622a1c367cc59eab6f950041",
+      "correctAnswer": "Oliver McCall",
       "incorrectAnswers": [
-        "Zelda",
-        "Call of Duty",
-        "Halo"
+        "Mike Tyson",
+        "Frank Bruno",
+        "Alex Brush"
       ],
       "question": {
-        "text": "If you're killing a goomba, what game are you playing?"
+        "text": "Who was the first boxer to defeat Lennox Lewis in a professional bout?"
       },
       "tags": [
-        "video_games",
+        "boxing",
+        "firsts",
         "sport"
       ],
       "type": "text_choice",
@@ -117,65 +153,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "64824f247778562fd76a96cf",
-      "correctAnswer": "Ixnay",
+      "category": "geography",
+      "id": "64746ac15a4c31088dd9cfdb",
+      "correctAnswer": "Antarctica",
       "incorrectAnswers": [
-        "Epay",
-        "Ocklay",
-        "Oopstay"
+        "Europe",
+        "Asia",
+        "South America"
       ],
       "question": {
-        "text": "Which Pig Latin word is used to reject or cancel a statement?"
+        "text": "What continent is the Bellingshausen Sea next to? "
       },
       "tags": [
-        "words",
-        "language"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639895835c9a75021f31045d",
-      "correctAnswer": "The United Kingdom",
-      "incorrectAnswers": [
-        "France",
-        "The United States",
-        "Germany"
-      ],
-      "question": {
-        "text": "What was the first country to legalize trade unions, in the 19th century?"
-      },
-      "tags": [
-        "history",
-        "1800's",
-        "politics",
-        "law"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "647207003bbb58c31f411c15",
-      "correctAnswer": "Pan",
-      "incorrectAnswers": [
-        "Zeus",
-        "Artemis",
-        "Athena"
-      ],
-      "question": {
-        "text": "Which Greek god invented the shepherd's flute and had a musical contest with Apollo?"
-      },
-      "tags": [
-        "mythology",
-        "society_and_culture",
-        "ancient_greece"
+        "geography",
+        "seas",
+        "bodies_of_water"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -184,15 +176,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f01",
-      "correctAnswer": "Émile Zola",
+      "id": "622a1c397cc59eab6f950f6c",
+      "correctAnswer": "Arthur Conan Doyle",
       "incorrectAnswers": [
-        "Alphonse Daudet",
-        "Anatole France",
-        "Charles Dickens"
+        "Agatha Christie",
+        "Oscar Wilde",
+        "George Orwell"
       ],
       "question": {
-        "text": "Which author wrote 'Germinal'?"
+        "text": "Which author wrote 'A Study in Scarlet'?"
       },
       "tags": [
         "literature",
@@ -204,16 +196,82 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8c5",
-      "correctAnswer": "Gregory Peck",
+      "category": "society_and_culture",
+      "id": "62ab32c45202de619af28125",
+      "correctAnswer": "Jaguar",
       "incorrectAnswers": [
-        "Anthony Perkins",
-        "James Cagney",
-        "Jean Pierre Leaud"
+        "Chevrolet",
+        "Aston Martin",
+        "Ferrari"
       ],
       "question": {
-        "text": "Which actor played the role of Atticus Finch in To Kill a Mockingbird?"
+        "text": "The XK120 was a model of car made by which manufacturer?"
+      },
+      "tags": [
+        "motoring",
+        "business",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "625006790d86c8f685d80eea",
+      "correctAnswer": "homemade",
+      "incorrectAnswers": [
+        "Butterflies",
+        "Small thimbles",
+        "Twins"
+      ],
+      "question": {
+        "text": "The pasta casarecce has what meaning in Italian?"
+      },
+      "tags": [
+        "food",
+        "words",
+        "language",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503d2",
+      "correctAnswer": "Dane Geld",
+      "incorrectAnswers": [
+        "War Bond",
+        "Sax Bandeg",
+        "Guerre Levy"
+      ],
+      "question": {
+        "text": "What Was The 9th Century Tax Levied To Fight The Vikings?"
+      },
+      "tags": [
+        "uk",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9506c5",
+      "correctAnswer": "Reese Witherspoon",
+      "incorrectAnswers": [
+        "Kristin Scott Thomas",
+        "Naomi Watts",
+        "Penélope Cruz"
+      ],
+      "question": {
+        "text": "Which actress has appeared in both Little Nicky and Walk the Line?"
       },
       "tags": [
         "acting",
@@ -226,170 +284,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950dbe",
-      "correctAnswer": "Led Zeppelin",
-      "incorrectAnswers": [
-        "Nirvana",
-        "Sum 41",
-        "The Kinks"
-      ],
-      "question": {
-        "text": "Which band did Jimmy Page belong to?"
-      },
-      "tags": [
-        "music",
-        "bands"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951086",
-      "correctAnswer": "Callisto",
-      "incorrectAnswers": [
-        "Io",
-        "Luna",
-        "Titan"
-      ],
-      "question": {
-        "text": "Which moon is our solar system's most cratered satellite?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "625064b4e12f6dec240bdfc7",
-      "correctAnswer": "Safety Dance",
-      "incorrectAnswers": [
-        "What's Up",
-        "Bitch",
-        "I Know What Boys Like"
-      ],
-      "question": {
-        "text": "What song did Men Without Hats have a hit with in 1983?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "1980's",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951005",
-      "correctAnswer": "Titan",
-      "incorrectAnswers": [
-        "Io",
-        "Europa",
-        "Luna"
-      ],
-      "question": {
-        "text": "Which moon is the second largest satellite in our solar system?"
-      },
-      "tags": [
-        "astronomy",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a03",
-      "correctAnswer": "St Helena",
-      "incorrectAnswers": [
-        "Corsica",
-        "Sicily",
-        "Malta"
-      ],
-      "question": {
-        "text": "To which island was Napoleon exiled, after his loss at Waterloo?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d070f96c4efe8d7739d",
-      "correctAnswer": "Dallas Stars",
-      "incorrectAnswers": [
-        "Dallas Tigers",
-        "Dallas Football",
-        "Dallas Predators"
-      ],
-      "question": {
-        "text": "Which of these is a hockey team based in Dallas?"
-      },
-      "tags": [
-        "nhl",
-        "hockey",
-        "dallas",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "64fb150b717513cb7919038b",
-      "correctAnswer": "600",
-      "incorrectAnswers": [
-        "Men",
-        "Doomed",
-        "Storm"
-      ],
-      "question": {
-        "text": "Complete the following line from 'The Charge of the Light Brigade' poem: 'All in the valley of Death rode the ___'"
-      },
-      "tags": [
-        "poetry",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "622a1c3b7cc59eab6f95172f",
-      "correctAnswer": "Sequoyah",
+      "id": "6462628cab138b829b81ea36",
+      "correctAnswer": "A loss leader",
       "incorrectAnswers": [
-        "Geronimo",
-        "Sacagawea",
-        "Sitting Bull"
+        "A bait",
+        "A customer trap",
+        "A clearance item"
       ],
       "question": {
-        "text": "Who made reading and writing in the Cherokee language possible by creating a syllabary for it?"
+        "text": "What term is used to describe an item that's sold at retail for less than it cost wholesale as a way to lure customers?"
       },
       "tags": [
-        "society_and_culture",
-        "people",
-        "language"
+        "marketing",
+        "business",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -398,15 +307,15 @@
     },
     {
       "category": "geography",
-      "id": "623742f9cb85f7ce9e949e04",
-      "correctAnswer": "Sana'a",
+      "id": "622a1c387cc59eab6f950916",
+      "correctAnswer": "Botswana",
       "incorrectAnswers": [
-        "Chisinau",
-        "Tarawa",
-        "Suva"
+        "Malawi",
+        "Eswatini",
+        "Lesotho"
       ],
       "question": {
-        "text": "What is the capital city of Yemen?"
+        "text": "Which of these countries borders Zimbabwe?"
       },
       "tags": [
         "geography"
@@ -417,21 +326,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6266e694ff2394bd44dee055",
-      "correctAnswer": "Sete",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa3e",
+      "correctAnswer": "post-impressionism",
       "incorrectAnswers": [
-        "Sieben",
-        "Sept",
-        "Dois"
+        "Mannerism",
+        "Italian Renaissance",
+        "Dutch Golden Age"
       ],
       "question": {
-        "text": "What is the Portuguese word for 'seven'?"
+        "text": "The painting \"Portrait de L’artiste Sans Barbe\" by Vincent van Gogh is a part of which art movement?"
       },
       "tags": [
-        "language",
-        "translations",
-        "society_and_culture"
+        "art",
+        "painting",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -440,62 +349,18 @@
     },
     {
       "category": "film_and_tv",
-      "id": "63a0398dc7d86251f9b65c7c",
-      "correctAnswer": "Corona",
+      "id": "622a1c347cc59eab6f94fac6",
+      "correctAnswer": "Daniel Day-Lewis",
       "incorrectAnswers": [
-        "Arendelle",
-        "Belgravia",
-        "Aldova"
+        "Bradley Cooper",
+        "Hugh Jackman",
+        "Joaquin Phoenix"
       ],
       "question": {
-        "text": "What is the name of the kingdom Rapunzel is from in Disney's 2010 film Tangled?"
+        "text": "Who won the 2012 Academy Award for Best Leading Actor for playing the role of Abraham Lincoln in Lincoln?"
       },
       "tags": [
-        "film_and_tv",
-        "disney",
-        "film"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "6460896ade964ebc39016c51",
-      "correctAnswer": "Austria",
-      "incorrectAnswers": [
-        "Argentina",
-        "Belgium",
-        "The United States"
-      ],
-      "question": {
-        "text": "Which country was Kurt Waldheim, the former Secretary-General of the United Nations, from?"
-      },
-      "tags": [
-        "politics",
-        "organizations",
-        "organisations",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb33",
-      "correctAnswer": "Crash",
-      "incorrectAnswers": [
-        "Brokeback Mountain",
-        "Capote",
-        "Good Night, and Good Luck."
-      ],
-      "question": {
-        "text": "Which film won the Academy Award for Best Picture in 2005?"
-      },
-      "tags": [
+        "acting",
         "film",
         "academy_awards",
         "film_and_tv"
@@ -507,127 +372,20 @@
     },
     {
       "category": "music",
-      "id": "62506429e12f6dec240bdf9e",
-      "correctAnswer": "Hot Child in the City",
+      "id": "64a728e5a94f308c21c3c54d",
+      "correctAnswer": "Led Zeppelin",
       "incorrectAnswers": [
-        "96 Tears",
-        "99 Luftballoons",
-        "I'm Gonna Be (500 Miles)"
+        "The Beatles",
+        "The Rolling Stones",
+        "Pink Floyd"
       ],
       "question": {
-        "text": "Nick Gilder had a one hit wonder in 1978 with which song?"
+        "text": "Which rock band's fourth album had no title or name on the cover, but sold millions of copies?"
       },
       "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f18",
-      "correctAnswer": "Leo Tolstoy",
-      "incorrectAnswers": [
-        "Ivan Turgenev",
-        "Henryk Sienkiewicz",
-        "Alphonse Daudet"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Death of Ivan Ilyich'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "645fcc80541c4d4fc8cf3080",
-      "correctAnswer": "Othello",
-      "incorrectAnswers": [
-        "Hamlet",
-        "Macbeth",
-        "Julius Caesar"
-      ],
-      "question": {
-        "text": "Which Shakespeare title character is summoned by the Duke of Venice to help him deal with the threat of a Turkish attack?"
-      },
-      "tags": [
-        "theater",
-        "shakespeare",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c3d7cc59eab6f951c3d",
-      "correctAnswer": "The Pretenders",
-      "incorrectAnswers": [
-        "The Pogues",
-        "Def Leppard",
-        "Journey"
-      ],
-      "question": {
-        "text": "Chrissie Hynde was in which early eighties group?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056f2f7a97013de78b53ee",
-      "correctAnswer": "Maafe",
-      "incorrectAnswers": [
-        "Pozole",
-        "Enchilada",
-        "Tamales"
-      ],
-      "question": {
-        "text": "Which is these is not a Mexican dish?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food",
-        "mexico",
-        "mexican_cuisine"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ffd3",
-      "correctAnswer": "Devo",
-      "incorrectAnswers": [
-        "MercyMe",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "The Lee Dorsey Song \"Working In A Coal Mine\" Was Later Covered By Which Quirky Band\"?"
-      },
-      "tags": [
-        "bands",
-        "cover_song",
-        "music"
+        "music_albums",
+        "music",
+        "bands"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -636,23 +394,249 @@
     },
     {
       "category": "society_and_culture",
-      "id": "62c2f9e5b3eadb0437fda6ad",
-      "correctAnswer": "Bird",
+      "id": "622a1c357cc59eab6f94fd08",
+      "correctAnswer": "Søren Kierkegaard",
       "incorrectAnswers": [
-        "Fish",
-        "Dog",
-        "Tiger"
+        "Ludwig Wittgenstein",
+        "Epictetus",
+        "Bertrand Russell"
       ],
       "question": {
-        "text": "Which of these animals would you find on the Nestlé logo?"
+        "text": "Which philosopher famously said 'The function of prayer is not to influence God, but rather to change the nature of the one who prays'?"
       },
       "tags": [
-        "society_and_culture",
-        "business",
-        "marketing",
-        "animals",
-        "logos",
-        "symbols"
+        "philosophy",
+        "quotes",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950df2",
+      "correctAnswer": "Gaston Leroux",
+      "incorrectAnswers": [
+        "Victor Hugo",
+        "Alphonse Daudet",
+        "François-René de Chateaubriand"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Phantom of the Opera'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cb8",
+      "correctAnswer": "Pink Floyd",
+      "incorrectAnswers": [
+        "Wings",
+        "Rudimental",
+        "The Alan Parsons Project"
+      ],
+      "question": {
+        "text": "Which English rock band released the album 'The Piper at the Gates of Dawn'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950787",
+      "correctAnswer": "Alec Baldwin",
+      "incorrectAnswers": [
+        "Donald Sutherland",
+        "Gary Oldman",
+        "Sean Connery"
+      ],
+      "question": {
+        "text": "Which actor has featured in roles including 30 Rock and The Departed?"
+      },
+      "tags": [
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c2e",
+      "correctAnswer": "ABBA",
+      "incorrectAnswers": [
+        "In Flames",
+        "HammerFall",
+        "Katatonia"
+      ],
+      "question": {
+        "text": "Which Swedish pop group released the album 'Ring Ring'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623384a862eaad73716a8c21",
+      "correctAnswer": "Spain",
+      "incorrectAnswers": [
+        "Italy",
+        "Greece",
+        "Slovenia"
+      ],
+      "question": {
+        "text": "In which country is the Southernmost point of continental Europe?"
+      },
+      "tags": [
+        "records",
+        "europe",
+        "places",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950330",
+      "correctAnswer": "Rober Peary",
+      "incorrectAnswers": [
+        "Mungo Park",
+        "Henry Hudson",
+        "Kit Carson"
+      ],
+      "question": {
+        "text": "Who was the first person to reach the North Pole?"
+      },
+      "tags": [
+        "people",
+        "firsts",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd6a8dc0dd3b72da64d01",
+      "correctAnswer": "1981",
+      "incorrectAnswers": [
+        "1976",
+        "1986",
+        "1991"
+      ],
+      "question": {
+        "text": "In which year was Raiders of the Lost Ark released?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f03",
+      "correctAnswer": "Émile Zola",
+      "incorrectAnswers": [
+        "Alphonse Daudet",
+        "Anatole France",
+        "Charles Dickens"
+      ],
+      "question": {
+        "text": "Which author wrote 'J’accuse…!'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c3c7cc59eab6f9517d5",
+      "correctAnswer": "Thomas Dolby",
+      "incorrectAnswers": [
+        "Solomon Sony",
+        "Edward Bose",
+        "Paul Imax"
+      ],
+      "question": {
+        "text": "Which eighties musician was sued by a music related company for using their name as part of his pseudonym?"
+      },
+      "tags": [
+        "musicians",
+        "1980's",
+        "people"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e0d",
+      "correctAnswer": "Yanka Kupala",
+      "incorrectAnswers": [
+        "Nikolai Gogol",
+        "Vladimir Nabokov",
+        "Henryk Sienkiewicz"
+      ],
+      "question": {
+        "text": "Which author wrote 'Heritage'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d37",
+      "correctAnswer": "The Beatles",
+      "incorrectAnswers": [
+        "Deep Purple",
+        "Feeder",
+        "Uriah Heep"
+      ],
+      "question": {
+        "text": "Which English rock band released the song 'We Can Work It Out'?"
+      },
+      "tags": [
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
