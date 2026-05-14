@@ -1,22 +1,44 @@
 {
-  "gameDate": "2026-05-13",
+  "gameDate": "2026-05-14",
   "difficulty": "hard",
   "results": [
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd1c",
-      "correctAnswer": "Søren Kierkegaard",
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f95038c",
+      "correctAnswer": "Frank Capra",
       "incorrectAnswers": [
-        "Ludwig Wittgenstein",
-        "Friedrich Nietzsche",
-        "Bertrand Russell"
+        "Orson Welles",
+        "John Ford",
+        "Howard Hawks"
       ],
       "question": {
-        "text": "Which philosopher famously said 'Life must be understood backward. But it must be lived forward '?"
+        "text": "Who directed the 1946 classic 'It's A Wonderful Life'?"
       },
       "tags": [
-        "quotes",
-        "philosophy",
+        "film",
+        "christmas",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ec727f41d6338b96eef1",
+      "correctAnswer": "Engineer who developed compressed charge internal combustion engine to run on petrol.",
+      "incorrectAnswers": [
+        "Scientist who discovered The Theory of Relativity.",
+        "Composer of the classical and romantic period.",
+        "Political philosopher who promoted a theory of liberal democracy and a social contract."
+      ],
+      "question": {
+        "text": "Which of the following describes Nikolaus August Otto?"
+      },
+      "tags": [
+        "people",
+        "history",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -25,41 +47,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623387a40161109f922aac38",
-      "correctAnswer": "Somalia",
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc80",
+      "correctAnswer": "Fudgel",
       "incorrectAnswers": [
-        "Niger",
-        "Chad",
-        "Tunisia"
+        "Bumfuzzle",
+        "Groke",
+        "Whippersnapper"
       ],
       "question": {
-        "text": "Which of these countries occupies the 'horn' of Africa?"
+        "text": "Which word is defined as 'Pretending to work when you’re not actually doing anything at all'?"
       },
       "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "625063d3e12f6dec240bdf85",
-      "correctAnswer": "Twisted Sister",
-      "incorrectAnswers": [
-        "Men Without Hats",
-        "Brownsville Station",
-        "Spandau Ballet"
-      ],
-      "question": {
-        "text": "'We're Not Gonna Take It' was a one hit wonder in 1984 by which artist?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
+        "words",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -68,20 +69,67 @@
     },
     {
       "category": "film_and_tv",
-      "id": "64860e82113d76c6b6317a00",
-      "correctAnswer": "Battlestar Galactica",
+      "id": "622a1c347cc59eab6f94face",
+      "correctAnswer": "Daniel Day-Lewis",
       "incorrectAnswers": [
-        "Westworld",
-        "The Terminator",
-        "RoboCop"
+        "George Clooney",
+        "Johnny Depp",
+        "Tommy Lee Jones"
       ],
       "question": {
-        "text": "What 2005-2009 TV show featured Cylons and cyborgs?"
+        "text": "Who won the 2007 Academy Award for Best Leading Actor for playing the role of Daniel Plainview in There Will Be Blood?"
       },
       "tags": [
-        "film_and_tv",
-        "tv",
-        "science_fiction"
+        "academy_awards",
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa1c",
+      "correctAnswer": "Diego Velázquez",
+      "incorrectAnswers": [
+        "Henri Matisse",
+        "Claude Monet",
+        "Édouard Manet"
+      ],
+      "question": {
+        "text": "Which artist painted \"Las Meninas\""
+      },
+      "tags": [
+        "painting",
+        "art"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "649553a42cb69a84d25273f0",
+      "correctAnswer": "The 1960s",
+      "incorrectAnswers": [
+        "The 1950s",
+        "The 1970s",
+        "The 1980s"
+      ],
+      "question": {
+        "text": "Which decade saw the Stonewall Riots in New York City, which helped to initiate the gay rights movement?"
+      },
+      "tags": [
+        "civil_rights",
+        "lgbtq",
+        "history",
+        "new_york_city",
+        "new_york",
+        "decades"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -90,15 +138,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f929",
-      "correctAnswer": "Breakfast at Tiffany's",
+      "id": "622a1c347cc59eab6f94f934",
+      "correctAnswer": "Sunset Boulevard",
       "incorrectAnswers": [
+        "Broadcast News",
         "Citizen Kane",
-        "The Maltese Falcon",
-        "Say Anything..."
+        "Ghost"
       ],
       "question": {
-        "text": "Which film contains the character 'Holly Golightly'?"
+        "text": "Which film contains the character 'Norma Desmond'?"
       },
       "tags": [
         "acting",
@@ -111,20 +159,41 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa43",
-      "correctAnswer": "Post Impressionism",
+      "category": "science",
+      "id": "645c9f6b42ea81e2554c5f27",
+      "correctAnswer": "Saccharide",
       "incorrectAnswers": [
-        "Northern Renaissance",
-        "Washington Color School",
-        "High Renaissance"
+        "Glucose",
+        "Fructose",
+        "Lipid"
       ],
       "question": {
-        "text": "The painting \"The Flower Carrier\" by Diego Rivera is a part of which art movement?"
+        "text": "What is another word for carbohydrate?"
       },
       "tags": [
-        "art",
-        "painting",
+        "chemistry",
+        "biology",
+        "science",
+        "nutrition"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f04",
+      "correctAnswer": "Émile Zola",
+      "incorrectAnswers": [
+        "Alphonse Daudet",
+        "Anatole France",
+        "Charles Dickens"
+      ],
+      "question": {
+        "text": "Which author wrote 'Les Rougon-Macquart'?"
+      },
+      "tags": [
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -133,19 +202,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951ac8",
-      "correctAnswer": "Van Morrison",
+      "category": "geography",
+      "id": "623b57bdfd6c701a92118378",
+      "correctAnswer": "Vietnam",
       "incorrectAnswers": [
-        "Cat Stevens",
-        "David Bowie",
-        "Bob Dylan"
+        "France",
+        "UK",
+        "Guatemala"
       ],
       "question": {
-        "text": "'Moondance' was a hit for which male singer?"
+        "text": "In which country would you find Ha Long Bay?"
       },
       "tags": [
-        "history"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -153,19 +222,61 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62417cd80f96c4efe8d7738b",
-      "correctAnswer": "Calgary Flames",
+      "category": "general_knowledge",
+      "id": "622a1c3a7cc59eab6f9510ba",
+      "correctAnswer": "Water",
       "incorrectAnswers": [
-        "Calgary Thunder",
-        "Calgary Bears",
-        "Calgary Royals"
+        "Jungle",
+        "Desert",
+        "Arctic"
       ],
       "question": {
-        "text": "Which of these is a hockey team based in Calgary?"
+        "text": "In What Environment Did Ichthysaurs Live"
       },
       "tags": [
-        "sport"
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233851d0161109f922aabd8",
+      "correctAnswer": "Devil's Island",
+      "incorrectAnswers": [
+        "Alcatraz",
+        "Spike Island",
+        "Australia"
+      ],
+      "question": {
+        "text": "What infamous prison island was off the coast of French Guiana?"
+      },
+      "tags": [
+        "bodies_of_water",
+        "places",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fd2",
+      "correctAnswer": "Phosphoric acid",
+      "incorrectAnswers": [
+        "Potassium Nitrate",
+        "Ammonia",
+        "Asbestos"
+      ],
+      "question": {
+        "text": "Which substance has the chemical formula  H3PO4?"
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -174,15 +285,123 @@
     },
     {
       "category": "music",
-      "id": "625063f6e12f6dec240bdf8f",
-      "correctAnswer": "Pop Muzik",
+      "id": "622a1c357cc59eab6f94fd61",
+      "correctAnswer": "Roy Orbison",
       "incorrectAnswers": [
-        "No Rain",
-        "I'm Too Sexy",
-        "How Do You Talk to an Angel?"
+        "Elvis Presley",
+        "Bill Haley",
+        "Jerry Lee Lewis"
       ],
       "question": {
-        "text": "What song did M have a hit with in 1979?"
+        "text": "Whose First Record Was A Rocker Called \"Ooby Dooby\"?"
+      },
+      "tags": [
+        "firsts",
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "6488deed50a27f7378a91de7",
+      "correctAnswer": "The Song Of Hiawatha",
+      "incorrectAnswers": [
+        "Beowulf",
+        "The Divine Comedy",
+        "Paradise Lost"
+      ],
+      "question": {
+        "text": "What is the name of the 1855 poem that includes sections such as \"The Peace Pipe\", \"The White-Man's Foot\" & \"Blessing The Corn Fields\"?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "poetry",
+        "literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f91d",
+      "correctAnswer": "The Searchers",
+      "incorrectAnswers": [
+        "Gangs of New York",
+        "Scarface",
+        "Raiders of the Lost Ark"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Ethan Edwards'?"
+      },
+      "tags": [
+        "film",
+        "fictitious_characters",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "645bc75b4638d58091b1b9e5",
+      "correctAnswer": "Scottish",
+      "incorrectAnswers": [
+        "English",
+        "Irish",
+        "Welsh"
+      ],
+      "question": {
+        "text": "Which nationality was the author of the 1817 novel \"Rob Roy\", just like the hero of the story?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374074cb85f7ce9e949d00",
+      "correctAnswer": "Libreville",
+      "incorrectAnswers": [
+        "Maseru",
+        "Dodoma",
+        "Maputo"
+      ],
+      "question": {
+        "text": "What is the capital city of Gabon?"
+      },
+      "tags": [
+        "capital_cities",
+        "africa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625064c2e12f6dec240bdfcb",
+      "correctAnswer": "Don't Leave Me This Way",
+      "incorrectAnswers": [
+        "Ice Ice Baby",
+        "In-A-Gadda-Da-Vida",
+        "Rebirth of Slick (Cool Like Dat)"
+      ],
+      "question": {
+        "text": "What song did Thelma Houston have a hit with in 1976?"
       },
       "tags": [
         "songs",
@@ -195,40 +414,22 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd62",
-      "correctAnswer": "Janis Joplin",
+      "category": "film_and_tv",
+      "id": "624db9d7de6018633d31f6a5",
+      "correctAnswer": "The Man with the Golden Gun",
       "incorrectAnswers": [
-        "Jimi Hendrix",
-        "Bob Marley",
-        "The Velvet Underground"
+        "Dr. No",
+        "Live and Let Die",
+        "Spectre"
       ],
       "question": {
-        "text": "Whose Debut Solo Album Was \"I Got Dem Kosmic Blues Again Mama\" In 1969?"
+        "text": "Which James Bond theme song was performed by Lulu?"
       },
       "tags": [
-        "people",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623741dccb85f7ce9e949d91",
-      "correctAnswer": "Papua New Guinea",
-      "incorrectAnswers": [
-        "Solomon Islands",
-        "Namibia",
-        "Sao Tome and Principe"
-      ],
-      "question": {
-        "text": "Port Moresby is the capital city of which country?"
-      },
-      "tags": [
-        "geography"
+        "james_bond",
+        "film",
+        "soundtracks",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -237,20 +438,21 @@
     },
     {
       "category": "film_and_tv",
-      "id": "645ababf158db1bd1779f1d6",
-      "correctAnswer": "Buffy the Vampire Slayer",
+      "id": "622a1c347cc59eab6f94fa62",
+      "correctAnswer": "Jared Leto",
       "incorrectAnswers": [
-        "Sabrina, the Teenage Witch",
-        "Charmed",
-        "Supernatural"
+        "Barkhad Abdi",
+        "Bradley Cooper",
+        "Michael Fassbender"
       ],
       "question": {
-        "text": "On which TV series did Alyson Hannigan play a geek-turned-witch?"
+        "text": "Who won the 2013 Academy Award for Best Supporting Actor for playing the role of Rayon in Dallas Buyers Club?"
       },
       "tags": [
-        "witches",
-        "film_and_tv",
-        "tv"
+        "acting",
+        "film",
+        "academy_awards",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -258,19 +460,40 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515ac",
-      "correctAnswer": "Liver",
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504ac",
+      "correctAnswer": "drug dosage",
       "incorrectAnswers": [
-        "Goose",
-        "Fat",
-        "Force"
+        "origin of life",
+        "diseases of stomach and intestines",
+        "poisons"
       ],
       "question": {
-        "text": "What does the 'foie' mean in 'foie gras'? "
+        "text": "What is Posology the study of?"
       },
       "tags": [
-        "food_and_drink"
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f950216",
+      "correctAnswer": "Martin Scorsese",
+      "incorrectAnswers": [
+        "Steven Spielberg",
+        "Woody Allen",
+        "Alfred Hitchcock"
+      ],
+      "question": {
+        "text": "Which director directed The Departed?"
+      },
+      "tags": [
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -279,15 +502,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f95016a",
-      "correctAnswer": "Geoffrey Chaucer",
+      "id": "622a1c367cc59eab6f9501c7",
+      "correctAnswer": "Strange Case of Dr Jekyll and Mr Hyde",
       "incorrectAnswers": [
-        "William Shakespeare",
-        "William Wordsworth",
-        "John Milton"
+        "The City & the City",
+        "Frankenstein",
+        "The Hunchback of Notre Dame"
       ],
       "question": {
-        "text": "Who was the first person to be buried at Poets' Corner?"
+        "text": "Which piece of written work starts with the line 'Mr Utterson the lawyer was a man of a rugged countenance, that was never lighted by a smile; cold, scanty and embarrassed in discourse; backward in sentiment; lean, long, dusty, dreary and yet somehow lovable.'?"
       },
       "tags": [
         "arts_and_literature"
@@ -299,15 +522,15 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f9504d9",
-      "correctAnswer": "eggs",
+      "id": "6243357fcfaae40c129614ae",
+      "correctAnswer": "A Jack",
       "incorrectAnswers": [
-        "organic particles, such as bacteria, fungal spores, very small insects and pollen",
-        "genetic differences in relation to the environment",
-        "the structure of cells"
+        "A Billy",
+        "A Macho",
+        "A Rooster"
       ],
       "question": {
-        "text": "What is Oology the study of?"
+        "text": "What is a male wallaby known as?"
       },
       "tags": [
         "science"
@@ -319,15 +542,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950de6",
-      "correctAnswer": "Aleksandr Solzhenitsyn",
+      "id": "622a1c397cc59eab6f950e8d",
+      "correctAnswer": "Brandon Sanderson",
       "incorrectAnswers": [
-        "Henryk Sienkiewicz",
-        "Oscar Wilde",
-        "Ivan Turgenev"
+        "H. P. Lovecraft",
+        "Stephenie Meyer",
+        "Stephen King"
       ],
       "question": {
-        "text": "Which author wrote 'One Day in the Life of Ivan Denisovich'?"
+        "text": "Which author wrote 'Mistborn series'?"
       },
       "tags": [
         "arts_and_literature"
@@ -338,21 +561,21 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f95171c",
-      "correctAnswer": "Shang",
+      "category": "food_and_drink",
+      "id": "625006670d86c8f685d80ee7",
+      "correctAnswer": "Shaped pasta",
       "incorrectAnswers": [
-        "Liu",
-        "Ming",
-        "Yi"
+        "Strand pasta",
+        "Tubular pasta",
+        "Ribbon pasta"
       ],
       "question": {
-        "text": "What was the first Chinese dynasty?"
+        "text": "What type of pasta is campanelle?"
       },
       "tags": [
-        "history",
-        "china",
-        "the_ancient_world"
+        "food",
+        "italy",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -360,20 +583,43 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950841",
-      "correctAnswer": "Saudi Arabia",
+      "category": "music",
+      "id": "625063efe12f6dec240bdf8d",
+      "correctAnswer": "Kajagoogoo",
       "incorrectAnswers": [
-        "Qatar",
-        "United Arab Emirates",
-        "Kuwait"
+        "Norman Greenbaum",
+        "Suzi Quatro",
+        "The Vapors"
       ],
       "question": {
-        "text": "Which of these countries borders Bahrain?"
+        "text": "'Too Shy' was a one hit wonder in 1983 by which artist?"
       },
       "tags": [
-        "the_middle_east",
-        "geography"
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fe2f",
+      "correctAnswer": "Dinar",
+      "incorrectAnswers": [
+        "Lira",
+        "Rabat",
+        "Reqla"
+      ],
+      "question": {
+        "text": "What is the basic unit of currency for Tunisia?"
+      },
+      "tags": [
+        "currency",
+        "africa",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -382,253 +628,18 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e4d",
-      "correctAnswer": "Thomas Mann",
+      "id": "622a1c397cc59eab6f950f43",
+      "correctAnswer": "Edgar Allan Poe",
       "incorrectAnswers": [
-        "F. Scott Fitzgerald",
-        "Philip K. Dick",
-        "Isabel Allende"
+        "Stephen King",
+        "Nathaniel Hawthorne",
+        "Mario Puzo"
       ],
       "question": {
-        "text": "Which author wrote 'Joseph and His Brothers'?"
+        "text": "Which author wrote 'Annabel Lee'?"
       },
       "tags": [
-        "literature",
         "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62ab32b35202de619af28120",
-      "correctAnswer": "Citroën",
-      "incorrectAnswers": [
-        "Toyota",
-        "Honda",
-        "Opel"
-      ],
-      "question": {
-        "text": "Which car manufacturer made the DS19?"
-      },
-      "tags": [
-        "motoring",
-        "business",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c397cc59eab6f950fab",
-      "correctAnswer": "Aristotle",
-      "incorrectAnswers": [
-        "Thomas Aquinas",
-        "Diogenes",
-        "Friedrich Nietzsche"
-      ],
-      "question": {
-        "text": "Who said all things were made up of air, earth, fire, and water?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623735e1cfe13103f55eb57b",
-      "correctAnswer": "Sudan",
-      "incorrectAnswers": [
-        "Sweden",
-        "Switzerland",
-        "South Korea"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.sd' at the end of its web addresses?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe7e",
-      "correctAnswer": "Lady Gaga",
-      "incorrectAnswers": [
-        "Hikaru Utada",
-        "Drake",
-        "Madonna"
-      ],
-      "question": {
-        "text": "Which American singer, songwriter, and actress released the studio album 'Born This Way'?"
-      },
-      "tags": [
-        "songs",
-        "musicians",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c3c7cc59eab6f951b71",
-      "correctAnswer": "The Big Bopper",
-      "incorrectAnswers": [
-        "Vanilla Ice",
-        "Eminem",
-        "Elvis Presley"
-      ],
-      "question": {
-        "text": "How is 'Jiles P Richardson' more commonly known?"
-      },
-      "tags": [
-        "names",
-        "nicknames",
-        "people",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd2b",
-      "correctAnswer": "Bishop George Berkeley",
-      "incorrectAnswers": [
-        "Thomas Hobbes",
-        "Epictetus",
-        "Socrates"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'To be is to be perceived' ('Esse est percipi')?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9503ed",
-      "correctAnswer": "March 17th",
-      "incorrectAnswers": [
-        "March 14th",
-        "February 15th",
-        "February 16th"
-      ],
-      "question": {
-        "text": "What date is St. Patrick's Day? "
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6462620fab138b829b81e9b2",
-      "correctAnswer": "A Breve",
-      "incorrectAnswers": [
-        "A Minim",
-        "A Semibreve",
-        "A Crotchet"
-      ],
-      "question": {
-        "text": "What is the name of the musical note that is equal in length to two whole notes?"
-      },
-      "tags": [
-        "music",
-        "music_theory"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "645cb1627d263fd5097043c4",
-      "correctAnswer": "It's Now or Never",
-      "incorrectAnswers": [
-        "Can't Help Falling in Love",
-        "Blue Suede Shoes",
-        "Jailhouse Rock"
-      ],
-      "question": {
-        "text": "Which Elvis Presley hit song was based on the Italian melody 'O Sole Mio'?"
-      },
-      "tags": [
-        "music",
-        "elvis_presley",
-        "songs"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c7d",
-      "correctAnswer": "U2",
-      "incorrectAnswers": [
-        "Public Image Ltd.",
-        "The Script",
-        "The Cure"
-      ],
-      "question": {
-        "text": "Which Irish rock band released the song 'Walk On'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fdca",
-      "correctAnswer": "3",
-      "incorrectAnswers": [
-        "2",
-        "4",
-        "5"
-      ],
-      "question": {
-        "text": "How Many Movements Traditionally Make Up A Concerto?"
-      },
-      "tags": [
-        "classical_music",
-        "numbers",
-        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",

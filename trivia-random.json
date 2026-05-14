@@ -1,45 +1,21 @@
 {
-  "gameDate": "2026-05-13",
+  "gameDate": "2026-05-14",
   "difficulty": "random",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d5a",
-      "correctAnswer": "Simon & Garfunkel",
+      "category": "sport_and_leisure",
+      "id": "65056e687a97013de78b52d8",
+      "correctAnswer": "Tug of war",
       "incorrectAnswers": [
-        "MercyMe",
-        "Three 6 Mafia",
-        "The Velvet Underground"
+        "Biathlon",
+        "Skeleton",
+        "Figure skating"
       ],
       "question": {
-        "text": "Which band includes 'Paul Simon'?"
+        "text": "Which is NOT a discipline at the Winter Olympic Games?"
       },
       "tags": [
-        "people",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "645cb12a602ff42ca52fb42f",
-      "correctAnswer": "A glacier",
-      "incorrectAnswers": [
-        "A river",
-        "An earthquake",
-        "A tornado"
-      ],
-      "question": {
-        "text": "What phenomenon is responsible for Minnesota's 10,000 lakes?"
-      },
-      "tags": [
-        "geology",
-        "us_states",
-        "lakes",
-        "bodies_of_water"
+        "sport_and_leisure"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -47,44 +23,18 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "639898525c9a75021f310479",
-      "correctAnswer": "Veneto",
-      "incorrectAnswers": [
-        "Tuscany",
-        "Piedmont",
-        "Sicily"
-      ],
-      "question": {
-        "text": "What region of Italy is home to Amarone and Valpolicella wines?"
-      },
-      "tags": [
-        "food_and_drink",
-        "wine",
-        "drink",
-        "italy"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "62611f334b176d54800e3d48",
-      "correctAnswer": "1954",
+      "id": "622a1c3c7cc59eab6f951a03",
+      "correctAnswer": "St Helena",
       "incorrectAnswers": [
-        "1970",
-        "1933",
-        "1981"
+        "Corsica",
+        "Sicily",
+        "Malta"
       ],
       "question": {
-        "text": "In which year was the first successful organ transplant?"
+        "text": "To which island was Napoleon exiled, after his loss at Waterloo?"
       },
       "tags": [
-        "events",
-        "firsts",
-        "medicine",
         "history"
       ],
       "type": "text_choice",
@@ -93,20 +43,62 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f975",
-      "correctAnswer": "The Stranger",
+      "category": "sport_and_leisure",
+      "id": "62417d070f96c4efe8d7739d",
+      "correctAnswer": "Dallas Stars",
       "incorrectAnswers": [
-        "One Hundred Years of Solitude",
-        "The Trial",
-        "The Quiet American"
+        "Dallas Tigers",
+        "Dallas Football",
+        "Dallas Predators"
       ],
       "question": {
-        "text": "Which book contains the character 'Meursault'?"
+        "text": "Which of these is a hockey team based in Dallas?"
       },
       "tags": [
-        "film",
-        "fictitious_characters",
+        "nhl",
+        "hockey",
+        "dallas",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a70",
+      "correctAnswer": "Mother Teresa",
+      "incorrectAnswers": [
+        "Florence Nightingale",
+        "Marie Curie",
+        "Margaret Thatcher"
+      ],
+      "question": {
+        "text": "Who won the 1979 Nobel Peace Prize for her work among the poor?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "64fb150b717513cb7919038b",
+      "correctAnswer": "600",
+      "incorrectAnswers": [
+        "Men",
+        "Doomed",
+        "Storm"
+      ],
+      "question": {
+        "text": "Complete the following line from 'The Charge of the Light Brigade' poem: 'All in the valley of Death rode the ___'"
+      },
+      "tags": [
+        "poetry",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -115,239 +107,40 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe4c",
-      "correctAnswer": "Russia ",
+      "category": "society_and_culture",
+      "id": "622a1c3b7cc59eab6f95172f",
+      "correctAnswer": "Sequoyah",
       "incorrectAnswers": [
-        "Poland",
-        "India",
-        "Canada"
+        "Geronimo",
+        "Sacagawea",
+        "Sitting Bull"
       ],
       "question": {
-        "text": "Lake Ladoga Is The Largest Lake In Which Country?"
+        "text": "Who made reading and writing in the Cherokee language possible by creating a syllabary for it?"
       },
       "tags": [
-        "bodies_of_water",
-        "lakes",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c357cc59eab6f94fc52",
-      "correctAnswer": "\"Bond. James Bond.\"",
-      "incorrectAnswers": [
-        "\"What we've got here is failure to communicate.\"",
-        "\"Sawyer, you're going out a youngster, but you've t to come back a star!\"",
-        "\"Well, I don’t want to survive. I want to live.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Dr. No'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f9508f2",
-      "correctAnswer": "Dominican Republic",
-      "incorrectAnswers": [
-        "Jamaica",
-        "The Bahamas",
-        "Cuba"
-      ],
-      "question": {
-        "text": "Which of these countries borders Haiti?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056ea67a97013de78b532e",
-      "correctAnswer": "Soviet Union",
-      "incorrectAnswers": [
-        "France",
-        "Mexico",
-        "Brazil"
-      ],
-      "question": {
-        "text": "With what country did the US almost start a war during the Cuban Missile Crisis?"
-      },
-      "tags": [
-        "history",
-        "usa"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6463391301d576cfac3aa304",
-      "correctAnswer": "Pennsylvania",
-      "incorrectAnswers": [
-        "Ohio",
-        "Indiana",
-        "Maryland"
-      ],
-      "question": {
-        "text": "Which U.S. state has communities called Lititz, Ephrata, and Strasburg in its Amish Country?"
-      },
-      "tags": [
-        "us_states",
-        "geography",
-        "usa",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbd7",
-      "correctAnswer": "\"Oh what a day. What a lovely day!\"",
-      "incorrectAnswers": [
-        "\"After all, tomorrow is another day!\"",
-        "\"Is it safe?\"",
-        "\"Mrs. Robinson, you're trying to seduce me. Aren't you?\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Mad Max: Fury Road'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503f8",
-      "correctAnswer": "Hoover",
-      "incorrectAnswers": [
-        "Franklin",
-        "Roosevelt",
-        "Johnson"
-      ],
-      "question": {
-        "text": "U.S. President, Herbert C. _________."
-      },
-      "tags": [
-        "usa",
-        "presidents",
+        "society_and_culture",
         "people",
-        "history"
+        "language"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63e13a1b106de6ffa7d4a796",
-      "correctAnswer": "The 1963 assassination of President John F. Kennedy",
-      "incorrectAnswers": [
-        "The 1969 Manson Family murders",
-        "The 1974 abduction of heiress Patricia Hearst",
-        "The 1979 Jonestown mass suicide"
-      ],
-      "question": {
-        "text": "Which of the following famous criminal cases was solved by the use of ballistic evidence?"
-      },
-      "tags": [
-        "society_and_culture",
-        "crime"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056f887a97013de78b546a",
-      "correctAnswer": "Macbeth",
-      "incorrectAnswers": [
-        "Tristram Shandy",
-        "Twilight",
-        "Ivanhoe"
-      ],
-      "question": {
-        "text": "Which of these is a play by Shakespeare?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "theater",
-        "shakespeare"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950046",
-      "correctAnswer": "Jesse Owens",
-      "incorrectAnswers": [
-        "Carl Lewis",
-        "Bruce Jenner",
-        "Bob Beamon"
-      ],
-      "question": {
-        "text": "Who Was The First Athlete To Exceed a Distance Of Eight Metres In The Long Jump In 1935?"
-      },
-      "tags": [
-        "athletics",
-        "records",
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "geography",
-      "id": "623735d2cfe13103f55eb571",
-      "correctAnswer": "Singapore",
+      "id": "623742f9cb85f7ce9e949e04",
+      "correctAnswer": "Sana'a",
       "incorrectAnswers": [
-        "Senegal",
-        "Saint Vincent and the Grenadines",
-        "Guinea"
+        "Chisinau",
+        "Tarawa",
+        "Suva"
       ],
       "question": {
-        "text": "Which region of the world uses '.sg' at the end of its web addresses?"
+        "text": "What is the capital city of Yemen?"
       },
       "tags": [
-        "the_internet",
         "geography"
       ],
       "type": "text_choice",
@@ -356,246 +149,16 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c377cc59eab6f95045f",
-      "correctAnswer": "1975",
-      "incorrectAnswers": [
-        "1969",
-        "1980",
-        "1984"
-      ],
-      "question": {
-        "text": "The war in Vietnam ended with the fall of Saigon in what year?"
-      },
-      "tags": [
-        "cold_war",
-        "wars",
-        "southeast_asia",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "647c9855f89e0968cfbc1a23",
-      "correctAnswer": "The Common Cold",
-      "incorrectAnswers": [
-        "Cancer",
-        "Insomnia",
-        "Chronic fatigue"
-      ],
-      "question": {
-        "text": "According to the Centre for Disease Control, what condition is the main reason that children miss school and adults miss work?"
-      },
-      "tags": [
-        "disease",
-        "society_and_culture",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "645cb0e67d263fd509704394",
-      "correctAnswer": "Bazooka",
-      "incorrectAnswers": [
-        "Grenade",
-        "Mortar",
-        "HIMARS"
-      ],
-      "question": {
-        "text": "What is the name of the shoulder-held weapon used for firing armor-piercing rockets?"
-      },
-      "tags": [
-        "weapons",
-        "military"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950505",
-      "correctAnswer": "waves or wave motions",
-      "incorrectAnswers": [
-        "weather",
-        "Tibet",
-        "mental processes in living creatures"
-      ],
-      "question": {
-        "text": "What is Kymatology the study of?"
-      },
-      "tags": [
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950ad8",
-      "correctAnswer": "Finland",
-      "incorrectAnswers": [
-        "Poland",
-        "Lithuania",
-        "Latvia"
-      ],
-      "question": {
-        "text": "Which of these countries borders Sweden?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd729dc0dd3b72da64d27",
-      "correctAnswer": "1982",
-      "incorrectAnswers": [
-        "1977",
-        "1987",
-        "1992"
-      ],
-      "question": {
-        "text": "Blade Runner was released in which year?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951069",
-      "correctAnswer": "Feet",
-      "incorrectAnswers": [
-        "Backs",
-        "Teeth",
-        "Knees"
-      ],
-      "question": {
-        "text": "What Does A Chiropodist Treat"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c16",
-      "correctAnswer": "Nirvana",
-      "incorrectAnswers": [
-        "Counting Crows",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American rock band released the album 'In Utero'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c367cc59eab6f950218",
-      "correctAnswer": "Cream ",
-      "incorrectAnswers": [
-        "Deep Purple",
-        "Led Zeppelin",
-        "Prince"
-      ],
-      "question": {
-        "text": "Who released the album 'Strange brew '"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623741bbcb85f7ce9e949d84",
-      "correctAnswer": "Pyongyang",
-      "incorrectAnswers": [
-        "Bangui",
-        "Ouagadougou",
-        "Thimphu"
-      ],
-      "question": {
-        "text": "What is the capital city of North Korea?"
-      },
-      "tags": [
-        "capital_cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "64824e697778562fd76a9620",
-      "correctAnswer": "Rosh Hashanah",
+      "id": "6266e694ff2394bd44dee055",
+      "correctAnswer": "Sete",
       "incorrectAnswers": [
-        "Yom Kippur",
-        "Hanukkah",
-        "Passover"
+        "Sieben",
+        "Sept",
+        "Dois"
       ],
       "question": {
-        "text": "Which of these holidays is celebrates the Jewish New Year?"
-      },
-      "tags": [
-        "religion",
-        "judaism",
-        "society_and_culture",
-        "celebrations"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6266e59dff2394bd44dee00c",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "White",
-        "Eight",
-        "Black"
-      ],
-      "question": {
-        "text": "In Portuguese, what is the meaning of the word 'vermelho'?"
+        "text": "What is the Portuguese word for 'seven'?"
       },
       "tags": [
         "language",
@@ -608,16 +171,304 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950cb5",
-      "correctAnswer": "Pink Floyd",
+      "category": "film_and_tv",
+      "id": "63a0398dc7d86251f9b65c7c",
+      "correctAnswer": "Corona",
       "incorrectAnswers": [
-        "Wings",
-        "Rudimental",
-        "The Alan Parsons Project"
+        "Arendelle",
+        "Belgravia",
+        "Aldova"
       ],
       "question": {
-        "text": "Which English rock band released the album 'Ummagumma'?"
+        "text": "What is the name of the kingdom Rapunzel is from in Disney's 2010 film Tangled?"
+      },
+      "tags": [
+        "film_and_tv",
+        "disney",
+        "film"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242cafdd543524f1b19c901",
+      "correctAnswer": "A flock",
+      "incorrectAnswers": [
+        "A fall",
+        "A gang",
+        "A yoke"
+      ],
+      "question": {
+        "text": "What is the word for a group of birds?"
+      },
+      "tags": [
+        "birds",
+        "words",
+        "general_knowledge",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233844b62eaad73716a8bfc",
+      "correctAnswer": "Arthur's Seat ",
+      "incorrectAnswers": [
+        "William Wallace",
+        "John o' Groats",
+        "Mount Murphy"
+      ],
+      "question": {
+        "text": "What is the name of the extinct volcano that rises above Edinburgh?"
+      },
+      "tags": [
+        "volcanoes",
+        "uk",
+        "places",
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9f89796f721e95543fa4",
+      "correctAnswer": "White",
+      "incorrectAnswers": [
+        "Gold",
+        "Green",
+        "Black"
+      ],
+      "question": {
+        "text": "Which of these colors is included on the flag of Poland?"
+      },
+      "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "6460896ade964ebc39016c51",
+      "correctAnswer": "Austria",
+      "incorrectAnswers": [
+        "Argentina",
+        "Belgium",
+        "The United States"
+      ],
+      "question": {
+        "text": "Which country was Kurt Waldheim, the former Secretary-General of the United Nations, from?"
+      },
+      "tags": [
+        "politics",
+        "organizations",
+        "organisations",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fb33",
+      "correctAnswer": "Crash",
+      "incorrectAnswers": [
+        "Brokeback Mountain",
+        "Capote",
+        "Good Night, and Good Luck."
+      ],
+      "question": {
+        "text": "Which film won the Academy Award for Best Picture in 2005?"
+      },
+      "tags": [
+        "film",
+        "academy_awards",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "62506429e12f6dec240bdf9e",
+      "correctAnswer": "Hot Child in the City",
+      "incorrectAnswers": [
+        "96 Tears",
+        "99 Luftballoons",
+        "I'm Gonna Be (500 Miles)"
+      ],
+      "question": {
+        "text": "Nick Gilder had a one hit wonder in 1978 with which song?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f18",
+      "correctAnswer": "Leo Tolstoy",
+      "incorrectAnswers": [
+        "Ivan Turgenev",
+        "Henryk Sienkiewicz",
+        "Alphonse Daudet"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Death of Ivan Ilyich'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602e474b176d54800e3ccf",
+      "correctAnswer": "Poland",
+      "incorrectAnswers": [
+        "Iceland",
+        "Macedonia",
+        "Slovenia"
+      ],
+      "question": {
+        "text": "Where would you find the city of Kraków?"
+      },
+      "tags": [
+        "cities",
+        "europe",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "645fcc80541c4d4fc8cf3080",
+      "correctAnswer": "Othello",
+      "incorrectAnswers": [
+        "Hamlet",
+        "Macbeth",
+        "Julius Caesar"
+      ],
+      "question": {
+        "text": "Which Shakespeare title character is summoned by the Duke of Venice to help him deal with the threat of a Turkish attack?"
+      },
+      "tags": [
+        "theater",
+        "shakespeare",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6463391d01d576cfac3aa31f",
+      "correctAnswer": "Hansel and Gretel",
+      "incorrectAnswers": [
+        "The Magic Flute",
+        "Little Red Riding Hood",
+        "The Barber of Seville"
+      ],
+      "question": {
+        "text": "In which famous fairy tale do two children fall into the hands of a witch after being abandoned in a forest?"
+      },
+      "tags": [
+        "fairy_tales",
+        "society_and_culture",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9fec796f721e95543fc1",
+      "correctAnswer": "Red with a white crescent moon and star.",
+      "incorrectAnswers": [
+        "Three equal horizontal bands of red white and green.",
+        "Red with five yellow stars in the top left.",
+        "Red with a yellow sun having eight broadening rays extending to the edges."
+      ],
+      "question": {
+        "text": "What does the flag of Turkey look like?"
+      },
+      "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9517fa",
+      "correctAnswer": "Pompeii",
+      "incorrectAnswers": [
+        "Genoa",
+        "Capua",
+        "Ostia"
+      ],
+      "question": {
+        "text": "Which Roman city was buried under volcanic ash from Mount Vesuvius In 79A.D.?"
+      },
+      "tags": [
+        "romans",
+        "volcanoes",
+        "italy",
+        "classics",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c3d7cc59eab6f951c3d",
+      "correctAnswer": "The Pretenders",
+      "incorrectAnswers": [
+        "The Pogues",
+        "Def Leppard",
+        "Journey"
+      ],
+      "question": {
+        "text": "Chrissie Hynde was in which early eighties group?"
       },
       "tags": [
         "music"
@@ -629,18 +480,172 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f95199a",
-      "correctAnswer": "OUTATIME",
+      "id": "625740869da29df7b05f73e4",
+      "correctAnswer": "Kill Bill: Vol. 1",
       "incorrectAnswers": [
-        "GOINBACK",
-        "SEEYAL8R",
-        "NOROADS"
+        "Million Dollar Baby",
+        "Unforgiven",
+        "Dead Poets Society"
       ],
       "question": {
-        "text": "What was the license plate on the Delorean in Back To The Future?"
+        "text": "Name the movie that matches the following plot summary: 'After awakening from a coma, a former assassin wreaks vengeance on those who betrayed her.'"
       },
       "tags": [
+        "film",
         "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "64824ee57778562fd76a96a7",
+      "correctAnswer": "92",
+      "incorrectAnswers": [
+        "90",
+        "89",
+        "91"
+      ],
+      "question": {
+        "text": "What is the total number of days in March, April, and May combined?"
+      },
+      "tags": [
+        "numbers",
+        "arithmetic"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504da",
+      "correctAnswer": "existence",
+      "incorrectAnswers": [
+        "a branch of soil science that studies the influence of soil on life",
+        "grasses",
+        "the scientific study of muscles"
+      ],
+      "question": {
+        "text": "What is Ontology the study of?"
+      },
+      "tags": [
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d76",
+      "correctAnswer": "Black Sabbath",
+      "incorrectAnswers": [
+        "Metallica",
+        "Def Leppard",
+        "Poison"
+      ],
+      "question": {
+        "text": "Which metal band has Ozzy Osbourne as its lead singer?"
+      },
+      "tags": [
+        "music",
+        "bands",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "65056f2f7a97013de78b53ee",
+      "correctAnswer": "Maafe",
+      "incorrectAnswers": [
+        "Pozole",
+        "Enchilada",
+        "Tamales"
+      ],
+      "question": {
+        "text": "Which is these is not a Mexican dish?"
+      },
+      "tags": [
+        "food_and_drink",
+        "food",
+        "mexico",
+        "mexican_cuisine"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd697dc0dd3b72da64cfc",
+      "correctAnswer": "2000",
+      "incorrectAnswers": [
+        "1997",
+        "2003",
+        "2006"
+      ],
+      "question": {
+        "text": "Gladiator was released in which year?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "6461407e4d46e537ca8cd9e9",
+      "correctAnswer": "Anthrax",
+      "incorrectAnswers": [
+        "Salmonella",
+        "Botulism",
+        "Staphylococcus"
+      ],
+      "question": {
+        "text": "What bacterial toxin was used in a number of attacks in late 2001?"
+      },
+      "tags": [
+        "2000's",
+        "events",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe52",
+      "correctAnswer": "Atlantic ",
+      "incorrectAnswers": [
+        "Pacific",
+        "Indian",
+        "Arctic"
+      ],
+      "question": {
+        "text": "In Which Ocean Is The Gulf Stream"
+      },
+      "tags": [
+        "oceans",
+        "meteorology",
+        "bodies_of_water",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",

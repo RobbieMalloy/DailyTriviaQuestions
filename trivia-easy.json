@@ -1,24 +1,21 @@
 {
-  "gameDate": "2026-05-13",
+  "gameDate": "2026-05-14",
   "difficulty": "easy",
   "results": [
     {
-      "category": "history",
-      "id": "622a1c3d7cc59eab6f951c85",
-      "correctAnswer": "Watergate",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eeb",
+      "correctAnswer": "Charles Dickens",
       "incorrectAnswers": [
-        "Hotelgate",
-        "Croneygate",
-        "Corruptiongate"
+        "Oscar Wilde",
+        "Joseph Conrad",
+        "Henryk Sienkiewicz"
       ],
       "question": {
-        "text": "What was the name of the scandal that forced President Nixon to resign?"
+        "text": "Which author wrote 'Great Expectations'?"
       },
       "tags": [
-        "events",
-        "presidents",
-        "usa",
-        "history"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -27,19 +24,108 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc28",
-      "correctAnswer": "\"My mama always said life was like a box of chocolates. You never know what you're gonna get.\"",
+      "id": "63a03974c7d86251f9b65c5e",
+      "correctAnswer": "Ariel",
       "incorrectAnswers": [
-        "\"Very nice!\"",
-        "\"Say hello to my little friend!\"",
-        "\"Nobody makes me bleed my own blood. Nobody!\""
+        "Belle",
+        "Jasmine",
+        "Elsa"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Forrest Gump'?"
+        "text": "What is the name of the mermaid in the Disney film The Little Mermaid?"
       },
       "tags": [
-        "quotes",
+        "film_and_tv",
+        "disney",
         "film",
+        "fictitious_characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "65056e5f7a97013de78b52cb",
+      "correctAnswer": "Rhythm and Blues",
+      "incorrectAnswers": [
+        "Bossa nova",
+        "Polka",
+        "Classical music"
+      ],
+      "question": {
+        "text": "Which musical genre is widely considered a direct predecessor of rock and roll?"
+      },
+      "tags": [
+        "music",
+        "rock",
+        "genres"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c6148badf21197f98f771",
+      "correctAnswer": "United States",
+      "incorrectAnswers": [
+        "Brunei",
+        "Bahrain",
+        "Vietnam"
+      ],
+      "question": {
+        "text": "Where in the world would you most expect to be served Mac 'N' Cheese?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c3d7cc59eab6f951cad",
+      "correctAnswer": "Winter Wonderland",
+      "incorrectAnswers": [
+        "Jingle Bells",
+        "Driving Home For Christmas",
+        "Silent Night"
+      ],
+      "question": {
+        "text": "In which famous Christmas Song is a snowman pretended to be \"Parsons Brown\"?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625698549da29df7b05f7280",
+      "correctAnswer": "Tony Stark",
+      "incorrectAnswers": [
+        "The Grandmaster",
+        "Alexander Pierce",
+        "Vision"
+      ],
+      "question": {
+        "text": "In the Marvel Cinematic Universe, which character is played by Robert Downey Jr.?"
+      },
+      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
         "general_knowledge",
         "film_and_tv"
       ],
@@ -49,19 +135,41 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6243354dcfaae40c1296149a",
-      "correctAnswer": "A Lamb",
+      "category": "food_and_drink",
+      "id": "624c60c095b12387e142c79b",
+      "correctAnswer": "Ramen",
       "incorrectAnswers": [
-        "A Maggot",
-        "A Caterpillar",
-        "A Fry"
+        "Ceviche",
+        "Plov",
+        "Chilli Crab"
       ],
       "question": {
-        "text": "What is a baby sheep known as?"
+        "text": "Which of these dishes would you most expect to find in Japan?"
       },
       "tags": [
-        "science"
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570317a97013de78b5552",
+      "correctAnswer": "Larynx (voice box)",
+      "incorrectAnswers": [
+        "Ear",
+        "Stomach",
+        "Liver"
+      ],
+      "question": {
+        "text": "In which part of the human throat is the epiglottis located?"
+      },
+      "tags": [
+        "science",
+        "anatomy"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -70,18 +178,17 @@
     },
     {
       "category": "geography",
-      "id": "6237408acb85f7ce9e949d09",
-      "correctAnswer": "Greece",
+      "id": "623b5839fd6c701a921183a6",
+      "correctAnswer": "Brazil",
       "incorrectAnswers": [
-        "Luxembourg",
-        "Georgia",
-        "Serbia"
+        "Spain",
+        "Egypt",
+        "Argentina"
       ],
       "question": {
-        "text": "Athens is the capital city of which country?"
+        "text": "In which country would you find the city of Rio de Janeiro?"
       },
       "tags": [
-        "capital_cities",
         "cities",
         "general_knowledge",
         "geography"
@@ -92,106 +199,18 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95029f",
-      "correctAnswer": "Parmesan ",
-      "incorrectAnswers": [
-        "Wensleydale",
-        "Stilton",
-        "Gorgonzola"
-      ],
-      "question": {
-        "text": "What sort of cheese would you sprinkle on spaghetti?"
-      },
-      "tags": [
-        "food",
-        "italy",
-        "general_knowledge",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950cd7",
-      "correctAnswer": "Queen",
-      "incorrectAnswers": [
-        "Level 42",
-        "Deep Purple",
-        "Feeder"
-      ],
-      "question": {
-        "text": "Which British rock band released the song 'We Are the Champions'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f951635",
-      "correctAnswer": "Bread",
-      "incorrectAnswers": [
-        "Cheese",
-        "Fruit",
-        "Nut"
-      ],
-      "question": {
-        "text": " What type of food is pitta?"
-      },
-      "tags": [
-        "food",
-        "general_knowledge",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe66",
-      "correctAnswer": "Britney Spears",
-      "incorrectAnswers": [
-        "Madonna",
-        "Alanis Morissette",
-        "Nicki Minaj"
-      ],
-      "question": {
-        "text": "Which American singer, songwriter, dancer and actress released the studio album 'Oops!… I Did It Again'?"
-      },
-      "tags": [
-        "general_knowledge",
-        "pop_music",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "64824eb57778562fd76a9690",
-      "correctAnswer": "GPS",
+      "id": "6505702b7a97013de78b5549",
+      "correctAnswer": "Neutrino",
       "incorrectAnswers": [
-        "BPS",
-        "LPS",
-        "TPS"
+        "Electron",
+        "Muon",
+        "Tau"
       ],
       "question": {
-        "text": "Which technology was first developed for the U.S. military and is now used for navigation?"
+        "text": "Which of the following particles does NOT carry electric charge?"
       },
       "tags": [
-        "technology",
         "science"
       ],
       "type": "text_choice",
@@ -200,16 +219,107 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950a5c",
-      "correctAnswer": "Russia",
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503fe",
+      "correctAnswer": "Aqueduct",
       "incorrectAnswers": [
-        "Bulgaria",
-        "Lithuania",
-        "Latvia"
+        "Canal",
+        "Forum",
+        "Arena"
       ],
       "question": {
-        "text": "Which of these countries borders Ukraine?"
+        "text": "What did the Romans build to convey water? "
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6262885a4b176d54800e3d97",
+      "correctAnswer": "Because you're worth it",
+      "incorrectAnswers": [
+        "Quality never goes out of style",
+        "Maybe she's born with it",
+        "It's Style"
+      ],
+      "question": {
+        "text": "Which marketing slogan would you associate with L'Oreal?"
+      },
+      "tags": [
+        "business",
+        "marketing",
+        "fashion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502bc",
+      "correctAnswer": "Pasta ",
+      "incorrectAnswers": [
+        "Chicken",
+        "Cheese",
+        "Bread"
+      ],
+      "question": {
+        "text": "What Is Ravioli? "
+      },
+      "tags": [
+        "food",
+        "general_knowledge",
+        "words",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6256986c9da29df7b05f7286",
+      "correctAnswer": "Chris Hemsworth",
+      "incorrectAnswers": [
+        "Jon Favreau",
+        "John Slattery",
+        "Tom Holland"
+      ],
+      "question": {
+        "text": "The role of Thor in the Marvel Cinematic Universe is played by which actor?"
+      },
+      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b583dfd6c701a921183a8",
+      "correctAnswer": "England",
+      "incorrectAnswers": [
+        "Italy",
+        "France",
+        "Belgium"
+      ],
+      "question": {
+        "text": "In which country would you find the UNESCO World Heritage site of Stonehenge?"
       },
       "tags": [
         "geography"
@@ -220,130 +330,20 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "65056f8f7a97013de78b5474",
-      "correctAnswer": "Tee",
-      "incorrectAnswers": [
-        "Anvil",
-        "Stall",
-        "Marquee"
-      ],
-      "question": {
-        "text": "Where is the golf ball rested at the start of the game?"
-      },
-      "tags": [
-        "sport_and_leisure"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056eaf7a97013de78b533b",
-      "correctAnswer": "Bible",
-      "incorrectAnswers": [
-        "The Odyssey",
-        "Hamlet",
-        "The Decameron"
-      ],
-      "question": {
-        "text": "The 'New King James Version' (NKJV) is a modern translation of which religious text?"
-      },
-      "tags": [
-        "religion",
-        "translation",
-        "bible"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "6293ec197f41d6338b96eed7",
-      "correctAnswer": "Napoleon Bonaparte",
+      "id": "622a1c357cc59eab6f94fce8",
+      "correctAnswer": "Indo-European",
       "incorrectAnswers": [
-        "Vasco da Gama",
-        "Louis XVI",
-        "Charles de Gaulle"
+        "Niger–Congo",
+        "Afroasiatic",
+        "Dravidian"
       ],
       "question": {
-        "text": "Which influential historical person was a French military and political leader in the late 18th and early 19th centuries?"
+        "text": "The language 'German' belongs to which language family?"
       },
       "tags": [
-        "people",
-        "history",
-        "society_and_culture",
-        "general_knowledge",
-        "france"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c17",
-      "correctAnswer": "Nirvana",
-      "incorrectAnswers": [
-        "The Velvet Underground",
-        "Pearl Jam",
-        "Metallica"
-      ],
-      "question": {
-        "text": "Which American rock band released the song 'Smells Like Teen Spirit'?"
-      },
-      "tags": [
-        "general_knowledge",
-        "rock_music",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "648891854cd3f064f443dc27",
-      "correctAnswer": "The Yellow Brick Road",
-      "incorrectAnswers": [
-        "The Red Brick Road",
-        "The Emerald Road",
-        "The Sapphire Road"
-      ],
-      "question": {
-        "text": "What did Dorothy and her friends walk down in The Wizard of Oz?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "literature",
-        "childrens_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62ab32d25202de619af28129",
-      "correctAnswer": "Porsche",
-      "incorrectAnswers": [
-        "Volkswagen",
-        "Rolls-Royce",
-        "Citroën"
-      ],
-      "question": {
-        "text": "The 911 is a model of car made by which manufacturer?"
-      },
-      "tags": [
-        "motoring",
-        "business",
+        "germany",
+        "language",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -352,44 +352,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fb93",
-      "correctAnswer": "\"September\" by Earth, Wind & Fire",
-      "incorrectAnswers": [
-        "\"Yo Home to Bel-Air\"",
-        "\"What I Got\" by Sublime",
-        "\"American Pie\" by Don McLean"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"Do you remember, the 21st night of September?\"?"
-      },
-      "tags": [
-        "songs",
-        "lyrics",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "63e13a2a106de6ffa7d4a7a9",
-      "correctAnswer": "Spinal cord",
+      "id": "65056fdf7a97013de78b54e0",
+      "correctAnswer": "Physicist",
       "incorrectAnswers": [
-        "Vagus nerve",
-        "Ribcage",
-        "Trachea"
+        "Physician",
+        "Physiatrist",
+        "Physicalist"
       ],
       "question": {
-        "text": "In the human body, what is the name of the structure that runs down the middle of the back?"
+        "text": "What term is used for someone who studies physics?"
       },
       "tags": [
         "science",
-        "biology",
-        "anatomy"
+        "occupations"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -397,21 +373,22 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd70",
-      "correctAnswer": "Cher",
+      "category": "society_and_culture",
+      "id": "63e4c35f106de6ffa7d4a7e0",
+      "correctAnswer": "Red, White, and Blue",
       "incorrectAnswers": [
-        "Lady Gaga",
-        "Sia",
-        "Madonna"
+        "Green, White, and Red",
+        "Yellow, White, and Blue",
+        "Red, White, and Yellow"
       ],
       "question": {
-        "text": "Whose Real Name Is 'Cherilyn Sarkisian La Pier'?"
+        "text": "What colors are traditionally associated with the US Independence Day (4th of July)?"
       },
       "tags": [
-        "pseudonyms",
-        "people",
-        "music"
+        "society_and_culture",
+        "usa",
+        "celebrations",
+        "colours"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -420,19 +397,17 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8a9",
-      "correctAnswer": "Football",
+      "id": "622a1c367cc59eab6f950083",
+      "correctAnswer": "Basketball",
       "incorrectAnswers": [
-        "Cycling",
-        "Hockey",
-        "Skiing"
+        "Volleyball",
+        "Football",
+        "Baseball"
       ],
       "question": {
-        "text": "With which sport is Diego Maradona associated?"
+        "text": "What Sport Do The Harlem Globetrotters Play?"
       },
       "tags": [
-        "people",
-        "general_knowledge",
         "sport"
       ],
       "type": "text_choice",
@@ -441,16 +416,38 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951081",
-      "correctAnswer": "Blue",
+      "category": "sport_and_leisure",
+      "id": "622a1c357cc59eab6f950021",
+      "correctAnswer": "Soccer",
       "incorrectAnswers": [
-        "Yellow",
-        "Purple",
-        "Red"
+        "Basketball",
+        "Volleyball",
+        "Rugby"
       ],
       "question": {
-        "text": "What Colour Is Sonic the Hedgehog?"
+        "text": "With which sport is Pelé associated?"
+      },
+      "tags": [
+        "sport",
+        "people",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3f7cc59eab6f952397",
+      "correctAnswer": "Symbiosis",
+      "incorrectAnswers": [
+        "Parasitism",
+        "Syncronicity",
+        "Parallelism"
+      ],
+      "question": {
+        "text": "What is the word for a relationship between two different types of organism which live together for their mutual benefit?"
       },
       "tags": [
         "science"
@@ -461,20 +458,23 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe7f",
-      "correctAnswer": "Lady Gaga",
+      "category": "geography",
+      "id": "6233843e62eaad73716a8bf7",
+      "correctAnswer": "The Ganges",
       "incorrectAnswers": [
-        "Hikaru Utada",
-        "Drake",
-        "Madonna"
+        "The Indus",
+        "The Brahmaputra",
+        "The Krishna"
       ],
       "question": {
-        "text": "Which American singer, songwriter, and actress released the song 'Bad Romance'?"
+        "text": "What is the most sacred river in India?"
       },
       "tags": [
-        "general_knowledge",
-        "music"
+        "rivers",
+        "bodies_of_water",
+        "religion",
+        "hinduism",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -482,22 +482,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "649b4f4f828109028d236251",
-      "correctAnswer": "A Spider",
+      "category": "general_knowledge",
+      "id": "64824e697778562fd76a962d",
+      "correctAnswer": "Opaque",
       "incorrectAnswers": [
-        "A Pig",
-        "A Sheep",
-        "A Horse"
+        "Transparent",
+        "Translucent",
+        "Obtuse"
       ],
       "question": {
-        "text": "In E.B. White's classic children's book \"Charlotte's Web\", what kind of animal is Charlotte?"
+        "text": "What word means that an object is impossible to see through?"
       },
       "tags": [
-        "animals",
-        "childrens_literature",
-        "arts_and_literature",
-        "literature"
+        "words",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -505,21 +503,46 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fbb3",
-      "correctAnswer": "\"Pokémon Theme\" by Jason Paige",
+      "category": "geography",
+      "id": "623740ddcb85f7ce9e949d2a",
+      "correctAnswer": "Rome",
       "incorrectAnswers": [
-        "\"Let it Be\" by the Beatles",
-        "\"I'm Real (Murder Remix) by Jennifer Lopez and Ja Rule",
-        "\"In da Club\" by 50 Cent"
+        "Venice",
+        "Florence",
+        "Milan"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"I wanna be the very best...\"?"
+        "text": "What is the capital city of Italy?"
       },
       "tags": [
-        "lyrics",
+        "italy",
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c347cc59eab6f94f9c1",
+      "correctAnswer": "Barack Obama",
+      "incorrectAnswers": [
+        "Calvin Coolidge",
+        "Ronald Reagan",
+        "Zachary Taylor"
+      ],
+      "question": {
+        "text": "Who was the 44th president of the USA, in term during the period 2009–2017?"
+      },
+      "tags": [
         "general_knowledge",
-        "music"
+        "usa",
+        "presidents",
+        "people",
+        "leaders",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -528,64 +551,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "626288864b176d54800e3da3",
-      "correctAnswer": "Snap! Crackle! Pop!",
+      "id": "645cb1257d263fd50970439c",
+      "correctAnswer": "An Advent calendar",
       "incorrectAnswers": [
-        "Eat Mor Chikin",
-        "A glass and a half in every half pound",
-        "Melts in your mouth, not in your hands."
+        "A Holy calendar",
+        "A Kwanzaa calendar",
+        "A Countdown calendar"
       ],
       "question": {
-        "text": "What is the marketing slogan of Rice Krispies?"
+        "text": "What kind of calendar used to count the days until Christmas and often has a treat behind each window?"
       },
       "tags": [
-        "business",
-        "marketing",
-        "food",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950bd7",
-      "correctAnswer": "Guns N' Roses",
-      "incorrectAnswers": [
-        "MercyMe",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
-      ],
-      "question": {
-        "text": "Which American hard rock band released the song 'Welcome to the Jungle'?"
-      },
-      "tags": [
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "62506447e12f6dec240bdfa7",
-      "correctAnswer": "I'm Gonna Be (500 Miles)",
-      "incorrectAnswers": [
-        "Puttin' on the Ritz",
-        "Unbelievable",
-        "I'm Too Sexy"
-      ],
-      "question": {
-        "text": "The Proclaimers had a one hit wonder in 1989 with which song?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
+        "traditions",
+        "candy",
+        "christmas"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -594,23 +573,19 @@
     },
     {
       "category": "science",
-      "id": "645b4f1f067ef798d145508b",
-      "correctAnswer": "Daisy",
+      "id": "65056fe07a97013de78b54e1",
+      "correctAnswer": "Isaac",
       "incorrectAnswers": [
-        "Rose",
-        "Tulip",
-        "Orchid"
+        "Albert",
+        "Herbert",
+        "Luigi"
       ],
       "question": {
-        "text": "What plant species, whose scientific name is Chrysanthemum maximum, includes the shasta variety?"
+        "text": "What was the first name of the physicist Newton?"
       },
       "tags": [
-        "flowers",
-        "gardening",
-        "botany",
-        "plants",
         "science",
-        "biology"
+        "people"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -618,21 +593,22 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515cc",
-      "correctAnswer": "Spain ",
+      "category": "geography",
+      "id": "62602d1b4b176d54800e3c7f",
+      "correctAnswer": "Spain",
       "incorrectAnswers": [
-        "Italy",
-        "France",
-        "Russia"
+        "Germany",
+        "Belgium",
+        "Norway"
       ],
       "question": {
-        "text": "From which country does the dish paella originate?"
+        "text": "Where would you find the city of Barcelona?"
       },
       "tags": [
-        "food",
+        "cities",
+        "europe",
         "general_knowledge",
-        "food_and_drink"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -640,21 +616,40 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "624c60bc50d1a5e051325a70",
-      "correctAnswer": "Japan",
+      "category": "history",
+      "id": "63989c205c9a75021f310483",
+      "correctAnswer": "Horse and Carriage",
       "incorrectAnswers": [
-        "Turkey",
-        "Spain",
-        "Estonia"
+        "Steam Engine Train",
+        "Airplane",
+        "Bicycle"
       ],
       "question": {
-        "text": "Where in the world would you most expect to be served Sushi?"
+        "text": "What was the main form of transportation used during the 17th century?"
       },
       "tags": [
-        "food",
-        "general_knowledge",
-        "food_and_drink"
+        "history",
+        "1600s"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f9a",
+      "correctAnswer": "William Shakespeare",
+      "incorrectAnswers": [
+        "Arthur C. Clarke",
+        "Isaac Newton",
+        "Enid Blyton"
+      ],
+      "question": {
+        "text": "Which author wrote 'Macbeth'?"
+      },
+      "tags": [
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
