@@ -1,21 +1,330 @@
 {
-  "gameDate": "2026-05-15",
+  "gameDate": "2026-05-16",
   "difficulty": "medium",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbcc",
-      "correctAnswer": "\"I have nipples Greg. Could you milk me?\"",
+      "category": "geography",
+      "id": "622a1c377cc59eab6f9507ed",
+      "correctAnswer": "North America",
       "incorrectAnswers": [
-        "\"Take your stinking paws off me, you damned dirty ape.\"",
-        "\"With great power comes great responsiblity.\"",
-        "\"We'll always have Paris.\""
+        "South America",
+        "Oceania",
+        "Europe"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Meet the Parents'?"
+        "text": "The country of Grenada is on which continent?"
       },
       "tags": [
-        "quotes",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ffa6",
+      "correctAnswer": "India",
+      "incorrectAnswers": [
+        "Nepal",
+        "Bangladesh",
+        "Bhutan"
+      ],
+      "question": {
+        "text": "In which country is Chennai?"
+      },
+      "tags": [
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "646262f6ab138b829b81ea71",
+      "correctAnswer": "Moses",
+      "incorrectAnswers": [
+        "Abraham",
+        "Isaac",
+        "Jacob"
+      ],
+      "question": {
+        "text": "In the Abrahamic scriptures, who asked Pharaoh to let his people go?"
+      },
+      "tags": [
+        "society_and_culture",
+        "religion",
+        "christianity",
+        "islam",
+        "judaism",
+        "bible"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "646339ce01d576cfac3aa3b5",
+      "correctAnswer": "Ritalin",
+      "incorrectAnswers": [
+        "Amoxicillin",
+        "Prozac",
+        "Zoloft"
+      ],
+      "question": {
+        "text": "Which of these medicines is often used to treat attention deficit hyperactivity disorder?"
+      },
+      "tags": [
+        "pharmaceuticals",
+        "drugs",
+        "medicine",
+        "psychology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63dd25c2742e43ed64f1f00c",
+      "correctAnswer": "US Dollar",
+      "incorrectAnswers": [
+        "Euro",
+        "Japanese Yen",
+        "British Pound"
+      ],
+      "question": {
+        "text": "What is the most traded currency in the world?"
+      },
+      "tags": [
+        "society_and_culture",
+        "economics",
+        "currency"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fdee",
+      "correctAnswer": "Illinois ",
+      "incorrectAnswers": [
+        "Michigan",
+        "Indiana",
+        "Ohio"
+      ],
+      "question": {
+        "text": "In which US state is Chicago"
+      },
+      "tags": [
+        "usa",
+        "chicago",
+        "us_states",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645cb17f7d263fd5097043de",
+      "correctAnswer": "the Jehovah's Witnesses",
+      "incorrectAnswers": [
+        "the Mormons",
+        "the Catholics",
+        "the Methodists"
+      ],
+      "question": {
+        "text": "What is the name of the religious group with the print magazine \"The Watchtower\"?"
+      },
+      "tags": [
+        "religion",
+        "society_and_culture",
+        "print_media"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f9522b0",
+      "correctAnswer": "2",
+      "incorrectAnswers": [
+        "10",
+        "1",
+        "0"
+      ],
+      "question": {
+        "text": "How is the binary number '10' expressed as a decimal?"
+      },
+      "tags": [
+        "science",
+        "numbers",
+        "mathematics",
+        "computing"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "649fcb35ebb41911d4cbd6d2",
+      "correctAnswer": "Oleo-",
+      "incorrectAnswers": [
+        "Olic-",
+        "Ola-",
+        "Olmo-"
+      ],
+      "question": {
+        "text": "Which of these is a prefix used to refer to oil or oil-based materials?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3c7cc59eab6f95181d",
+      "correctAnswer": "Nylon",
+      "incorrectAnswers": [
+        "Latex",
+        "Kevlar",
+        "Lycra"
+      ],
+      "question": {
+        "text": "Which artificial material was first used commercially in 1938?"
+      },
+      "tags": [
+        "inventions",
+        "fashion",
+        "history",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "639c9db0929b90846f2fc993",
+      "correctAnswer": "1993",
+      "incorrectAnswers": [
+        "1973",
+        "1953",
+        "1933"
+      ],
+      "question": {
+        "text": "In which year did the European Union (EU) form?"
+      },
+      "tags": [
+        "history",
+        "1900's",
+        "europe",
+        "organisations"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff5e",
+      "correctAnswer": "Bob Dylan",
+      "incorrectAnswers": [
+        "Neil Young",
+        "Eric Clapton",
+        "Alanis Morissette"
+      ],
+      "question": {
+        "text": "Which American musician released the song 'Times They Are a-Changin''?"
+      },
+      "tags": [
+        "songs",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "639c9db2929b90846f2fc997",
+      "correctAnswer": "Zakat",
+      "incorrectAnswers": [
+        "Halal",
+        "Niqab",
+        "Haram"
+      ],
+      "question": {
+        "text": "What is the name of the Islamic practice of charity?"
+      },
+      "tags": [
+        "islam",
+        "religion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e25",
+      "correctAnswer": "Philip Pullman",
+      "incorrectAnswers": [
+        "J. R. R. Tolkien",
+        "Christopher Tolkien",
+        "Neil Gaiman"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Amber Spyglass'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573eef9da29df7b05f737e",
+      "correctAnswer": "Schindler's List",
+      "incorrectAnswers": [
+        "The Bridge on the River Kwai",
+        "One Flew Over the Cuckoo's Nest",
+        "Eternal Sunshine of the Spotless Mind"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'A man becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.'"
+      },
+      "tags": [
         "film",
         "film_and_tv"
       ],
@@ -25,19 +334,63 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502ce",
-      "correctAnswer": "Ultra Heat Treated ",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fd6",
+      "correctAnswer": "Jellyfish",
       "incorrectAnswers": [
-        "Unbonded Holisticly Treated",
-        "Unified Head Treatment",
-        "Unilateral Heavy Tarry"
+        "Squid",
+        "Shark",
+        "Whale"
       ],
       "question": {
-        "text": "What Do The Initials U.H.T Refer To In Relation To Milk"
+        "text": "Which type of animal are the Sea Wasp and Cubozoa?"
       },
       "tags": [
-        "food_and_drink"
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951c14",
+      "correctAnswer": "Charlemagne",
+      "incorrectAnswers": [
+        "Charles the Bald",
+        "Charlione",
+        "Charity Charles"
+      ],
+      "question": {
+        "text": "As what is the Frankish ruler Charles the Great better known?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f95190f",
+      "correctAnswer": "Marco Polo",
+      "incorrectAnswers": [
+        "Christopher Columbus",
+        "Ferdinand Magellan",
+        "Francis Drake"
+      ],
+      "question": {
+        "text": "What explorer landed in China and reached Kublai Khan's court in 1275?"
+      },
+      "tags": [
+        "exploration",
+        "people",
+        "middle_ages",
+        "medieval",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -46,19 +399,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6262880f4b176d54800e3d85",
-      "correctAnswer": "Adidas",
+      "id": "64ba2d29fa11352f5124c36b",
+      "correctAnswer": "Taurus",
       "incorrectAnswers": [
-        "Nike",
-        "Puma",
-        "Reebok"
+        "Leo",
+        "Virgo",
+        "Gemini"
       ],
       "question": {
-        "text": "Which sports brand is associated with the marketing slogan 'Impossible is Nothing'?"
+        "text": "Which sign of the zodiac is commonly represented by a bull?"
       },
       "tags": [
-        "business",
-        "marketing",
+        "astrology",
+        "zodiac",
+        "symbols",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -67,23 +421,88 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "645c9ff442ea81e2554c5f9f",
-      "correctAnswer": "Wolves",
+      "category": "history",
+      "id": "622a1c367cc59eab6f950409",
+      "correctAnswer": "Hiroshima",
       "incorrectAnswers": [
-        "Lions",
-        "Bears",
-        "Tigers"
+        "Tokyo",
+        "Osaka",
+        "Nagasaki"
       ],
       "question": {
-        "text": "In Norse mythology, which type of fierce animal are Skoll and Fenrir?"
+        "text": "On What Japanese City Was The First Atomic Bomb Dropped?"
       },
       "tags": [
-        "animals",
-        "mythology",
-        "mythological_creatures",
-        "society_and_culture",
-        "vikings"
+        "wars",
+        "japan",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570197a97013de78b5530",
+      "correctAnswer": "Chihuahua",
+      "incorrectAnswers": [
+        "Dachshund",
+        "Papillon",
+        "Pomeranian"
+      ],
+      "question": {
+        "text": "Which of these dog breeds is the smallest?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611fb94b176d54800e3d6c",
+      "correctAnswer": "2008",
+      "incorrectAnswers": [
+        "2000",
+        "2004",
+        "2012"
+      ],
+      "question": {
+        "text": "When was the first black US President elected?"
+      },
+      "tags": [
+        "events",
+        "firsts",
+        "people",
+        "presidents",
+        "politics",
+        "usa",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8cc",
+      "correctAnswer": "Frances McDormand",
+      "incorrectAnswers": [
+        "Anne Bancroft",
+        "Judy Garland",
+        "Bette Davis"
+      ],
+      "question": {
+        "text": "Which actress played the role of Marge Gunderson in Fargo?"
+      },
+      "tags": [
+        "acting",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -92,21 +511,20 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f9ff",
-      "correctAnswer": "Michelangelo",
+      "id": "622a1c3a7cc59eab6f95130f",
+      "correctAnswer": "Lord of the Flies",
       "incorrectAnswers": [
-        "Vincent van Gogh",
-        "Caravaggio",
-        "Georges Seurat"
+        "Harry Potter",
+        "Treasure Island",
+        "St. Trinian's"
       ],
       "question": {
-        "text": "Which artist painted the Sistine Chapel ceiling?"
+        "text": "In which story does the schoolboy \"Piggy\" star?"
       },
       "tags": [
-        "art",
-        "painting",
-        "general_knowledge",
-        "arts_and_literature"
+        "fictitious_characters",
+        "arts_and_literature",
+        "literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -115,15 +533,15 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950d34",
-      "correctAnswer": "The Beatles",
+      "id": "6266bc5cff2394bd44dee003",
+      "correctAnswer": "Stringed",
       "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Uriah Heep"
+        "Percussion",
+        "Woodwind",
+        "Brass"
       ],
       "question": {
-        "text": "Which English rock band released the song 'Back in the U.S.S.R.'?"
+        "text": "What type of instrument is a lute?"
       },
       "tags": [
         "music"
@@ -134,41 +552,22 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950fdf",
-      "correctAnswer": "Shrew",
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f951543",
+      "correctAnswer": "Bakewell Tart",
       "incorrectAnswers": [
-        "Rat",
-        "Squirrel",
-        "Beaver"
+        "Eton Mess",
+        "Sticky Toffee Pudding",
+        "Tiramisu"
       ],
       "question": {
-        "text": "Which Rodent Has Given It's Name To A Mean Spirited Or Bad Tempered Woman?"
+        "text": "Which dessert is named after a town in Derbyshire, England?"
       },
       "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f961",
-      "correctAnswer": "Ghost",
-      "incorrectAnswers": [
-        "Apocalypse Now",
-        "Blue Velvet",
-        "Terms of Endearment"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Oda Mae Brown'?"
-      },
-      "tags": [
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
+        "food_and_drink",
+        "food",
+        "uk",
+        "desserts"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -177,46 +576,19 @@
     },
     {
       "category": "society_and_culture",
-      "id": "62c2f9ecb3eadb0437fda6b0",
-      "correctAnswer": "Lion",
+      "id": "639c9db0929b90846f2fc992",
+      "correctAnswer": "Karma",
       "incorrectAnswers": [
-        "Bat",
-        "Peacock",
-        "Bird"
+        "Hajj",
+        "Salat",
+        "Zakat"
       ],
       "question": {
-        "text": "Which animal would you associate with the MGM logo?"
+        "text": "Which of the following is not a pillar of Islam?"
       },
       "tags": [
-        "society_and_culture",
-        "business",
-        "marketing",
-        "animals",
-        "logos",
-        "symbols",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ecea7f41d6338b96ef14",
-      "correctAnswer": "United most of Western Europe to form the Carolingian Empire.",
-      "incorrectAnswers": [
-        "King of Macedonia and military leader.",
-        "Italian explorer who landed in America.",
-        "Social philosopher and pioneer of classical economics."
-      ],
-      "question": {
-        "text": "Which of the following describes Charlemagne?"
-      },
-      "tags": [
-        "people",
-        "history",
+        "islam",
+        "religion",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -225,21 +597,22 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f951771",
-      "correctAnswer": "Mary I",
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f951308",
+      "correctAnswer": "Dune",
       "incorrectAnswers": [
-        "Mary II",
-        "Maria I",
-        "Marie Antoinette"
+        "Foundation",
+        "The Earthsea Cycle",
+        "Neuromancer"
       ],
       "question": {
-        "text": "Which Queen of England was known as Bloody Mary?"
+        "text": "Which science fiction novel features Duke Leto Atreides & the Harkonnens?"
       },
       "tags": [
-        "uk",
-        "nicknames",
-        "history"
+        "science_fiction",
+        "literature",
+        "fictitious_characters",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -248,41 +621,19 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f9510f2",
-      "correctAnswer": "Cloud",
+      "id": "650570497a97013de78b5574",
+      "correctAnswer": "Warm air moving up fast",
       "incorrectAnswers": [
-        "Planet",
-        "Island",
-        "Volcano"
+        "Earthquakes",
+        "Ozone touching cloud",
+        "Clouds at high altitudes"
       ],
       "question": {
-        "text": "Cirrus and Cumulus are types of what?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "645cb12a602ff42ca52fb42c",
-      "correctAnswer": "Nicolaus Copernicus",
-      "incorrectAnswers": [
-        "Galileo Galilei",
-        "Johannes Kepler",
-        "Isaac Newton"
-      ],
-      "question": {
-        "text": "Which Polish astronomer, born in 1473, had his books on heliocentric theory censored by church edict in 1616?"
+        "text": "Which of these can cause a thunderstorm?"
       },
       "tags": [
         "science",
-        "astronomy",
-        "religion",
-        "history"
+        "meteorology"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -290,367 +641,21 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950058",
-      "correctAnswer": "Bantamweight",
+      "category": "society_and_culture",
+      "id": "6477bad7550bc819ad646b31",
+      "correctAnswer": "The sewing machine",
       "incorrectAnswers": [
-        "Heavyweight",
-        "Lightweight",
-        "Subweight"
+        "The washing machine",
+        "The dishwasher",
+        "The refrigerator"
       ],
       "question": {
-        "text": "Which weight division in boxing lies between flyweight and featherweight?"
+        "text": "Which invention was patented by both Isaac Singer and Elias Howe?"
       },
       "tags": [
-        "boxing",
-        "words",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f952224",
-      "correctAnswer": "Polio",
-      "incorrectAnswers": [
-        "Syphilis",
-        "Mumps",
-        "Smallpox"
-      ],
-      "question": {
-        "text": "As what is infantile paralysis more commonly known?"
-      },
-      "tags": [
-        "science",
-        "medicine",
-        "biology"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63a039bcc7d86251f9b65caa",
-      "correctAnswer": "Winston Churchill",
-      "incorrectAnswers": [
-        "Neville Chamberlain",
-        "Anthony Eden",
-        "Tony Blair"
-      ],
-      "question": {
-        "text": "Which British Prime Minister was in office for the majority of World War II?"
-      },
-      "tags": [
+        "inventions",
         "history",
-        "britain",
-        "uk",
-        "british_prime_ministers",
-        "world_war_2"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950507",
-      "correctAnswer": "the Soviet Union",
-      "incorrectAnswers": [
-        "interactions between organisms and geomorphological processes",
-        "the study and design of machines at the molecular level",
-        "the structure of diseased tissues"
-      ],
-      "question": {
-        "text": "What is Kremlinology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056e5c7a97013de78b52c6",
-      "correctAnswer": "Oracle",
-      "incorrectAnswers": [
-        "Weasel",
-        "Titan",
-        "Archon"
-      ],
-      "question": {
-        "text": "In ancient Greece, what was considered a source of wise counsel?"
-      },
-      "tags": [
-        "ancient history",
-        "greece",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233862d62eaad73716a8cba",
-      "correctAnswer": "Moscow",
-      "incorrectAnswers": [
-        "Belgrade",
-        "Budapest",
-        "Odessa"
-      ],
-      "question": {
-        "text": "Where is Gorky Park?"
-      },
-      "tags": [
-        "tourist_attractions",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515fd",
-      "correctAnswer": "Stinger",
-      "incorrectAnswers": [
-        "Black Russian",
-        "Godfather",
-        "Brave Bull"
-      ],
-      "question": {
-        "text": "Which Cocktail is made with brandy and creme de menthe?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639895795c9a75021f310459",
-      "correctAnswer": "The United States of America",
-      "incorrectAnswers": [
-        "Canada",
-        "Australia",
-        "India"
-      ],
-      "question": {
-        "text": "Which of the following countries was founded during the 18th century?"
-      },
-      "tags": [
-        "history",
-        "1700's",
-        "countries"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501e9",
-      "correctAnswer": "George Lucas",
-      "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
-      ],
-      "question": {
-        "text": "Which director directed Star Wars: Episode III – Revenge of the Sith?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "64f4e5cbd361046b195e57fd",
-      "correctAnswer": "Baker",
-      "incorrectAnswers": [
-        "Chef",
-        "Waiter",
-        "Butcher"
-      ],
-      "question": {
-        "text": "What is the English translation of the Spanish word 'panadero'?"
-      },
-      "tags": [
-        "language",
-        "words",
-        "translations",
-        "spanish"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95054a",
-      "correctAnswer": "The practice of breaking free from restraints",
-      "incorrectAnswers": [
-        "Schematic layouts",
-        "Survival during natural disasters",
-        "Volcanoes"
-      ],
-      "question": {
-        "text": "What is escapology the study of?"
-      },
-      "tags": [
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740219da29df7b05f73c6",
-      "correctAnswer": "For a Few Dollars More",
-      "incorrectAnswers": [
-        "Coco",
-        "Once Upon a Time in the West",
-        "The Elephant Man"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f951613",
-      "correctAnswer": "Pumpernickel ",
-      "incorrectAnswers": [
-        "Lumperpickel",
-        "Mumperdickel",
-        "Grumperfickel"
-      ],
-      "question": {
-        "text": "What is the name given to a black German rye bread?"
-      },
-      "tags": [
-        "food",
-        "germany",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc58",
-      "correctAnswer": "Whippersnapper",
-      "incorrectAnswers": [
-        "Salopettes",
-        "Cabotage",
-        "Bumfuzzle"
-      ],
-      "question": {
-        "text": "Which word is defined as 'a young person considered to be presumptuous or overconfident'?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503f7",
-      "correctAnswer": "Constantinople",
-      "incorrectAnswers": [
-        "Jerusalem",
-        "Istanbul",
-        "New Byzantium"
-      ],
-      "question": {
-        "text": "To What Was Byzantium Renamed In 330 AD?"
-      },
-      "tags": [
-        "cities",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233868b62eaad73716a8cdd",
-      "correctAnswer": "London",
-      "incorrectAnswers": [
-        "Paris",
-        "Dublin",
-        "Brussels"
-      ],
-      "question": {
-        "text": "Where is Westminster Abbey located?"
-      },
-      "tags": [
-        "tourist_attractions",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "6470d79b423445f16131b4d4",
-      "correctAnswer": "The Suez Canal",
-      "incorrectAnswers": [
-        "The Panama Canal",
-        "The Kiel Canal",
-        "The Grand Canal"
-      ],
-      "question": {
-        "text": "What man-made waterway did the 1979 Israel-Egypt Peace Treaty allow Israel access to?"
-      },
-      "tags": [
-        "history",
-        "politics",
-        "transportation",
-        "bodies_of_water",
-        "canals",
-        "geography"
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",

@@ -1,22 +1,23 @@
 {
-  "gameDate": "2026-05-15",
+  "gameDate": "2026-05-16",
   "difficulty": "hard",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe8d",
-      "correctAnswer": "Rihanna",
+      "category": "food_and_drink",
+      "id": "624c615abadf21197f98f776",
+      "correctAnswer": "Kuli Kuli",
       "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Ricky Martin"
+        "Kushari",
+        "Ambuyat",
+        "Ndolé"
       ],
       "question": {
-        "text": "Which singer released the song 'If It's Lovin' that You Want'?"
+        "text": "Which of these dishes would you most expect to find in Benin?"
       },
       "tags": [
-        "songs",
-        "musicians"
+        "food",
+        "africa",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -25,19 +26,18 @@
     },
     {
       "category": "food_and_drink",
-      "id": "6271647ed5d487fbab6b795c",
-      "correctAnswer": "Cambodia",
+      "id": "622a1c367cc59eab6f9502c8",
+      "correctAnswer": "Heineken Lager ",
       "incorrectAnswers": [
-        "Taiwan",
-        "Spain",
-        "Belgium"
+        "Coca Cola",
+        "Sunny Delight",
+        "Dr Pepper"
       ],
       "question": {
-        "text": "In which country is sombai a popular drink?"
+        "text": "What drink did Paul Daniels and Debbie McGee advertise singing off-key around a piano?"
       },
       "tags": [
-        "drink",
-        "alcohol"
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -45,44 +45,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "639ae346929b90846f2fc8c0",
-      "correctAnswer": "Tenochtitlan",
+      "category": "geography",
+      "id": "62373605cfe13103f55eb593",
+      "correctAnswer": "Uruguay",
       "incorrectAnswers": [
-        "Tlatelolco",
-        "Teotihuacan",
-        "Tzintzuntzan"
+        "Guyana",
+        "Uzbekistan",
+        "Paraguay"
       ],
       "question": {
-        "text": "What is the name of the Aztec capital city?"
+        "text": "Which region of the world uses '.uy' at the end of its web addresses?"
       },
       "tags": [
-        "history",
-        "aztecs",
-        "cities",
-        "capital_cities"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f915",
-      "correctAnswer": "The Treasure of the Sierra Madre",
-      "incorrectAnswers": [
-        "Terms of Endearment",
-        "The Maltese Falcon",
-        "The Birds"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Fred C. Dobbs'?"
-      },
-      "tags": [
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -91,40 +66,21 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbdf",
-      "correctAnswer": "\"King Kong ain’t got s*** on me!\"",
+      "id": "647f9ded3a4302a719271682",
+      "correctAnswer": "The Borg",
       "incorrectAnswers": [
-        "\"My precious.\"",
-        "\"Well, nobody's perfect.\"",
-        "\"I'll have what she's having.\""
+        "The Klingons",
+        "The Romulans",
+        "The Dominion"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Training Day'?"
+        "text": "Which deadly enemy race in \"Star Trek\" were known for their catchphrase: \"Resistance is futile\"?"
       },
       "tags": [
-        "quotes",
-        "film",
+        "tv",
+        "science_fiction",
+        "star_trek",
         "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c377cc59eab6f95046f",
-      "correctAnswer": "We Three Kings",
-      "incorrectAnswers": [
-        "I Saw Three Ships",
-        "Once In Royal David's City",
-        "Good King Wenceslas"
-      ],
-      "question": {
-        "text": "The words \"Myrrh is mine, its bitter perfume breathes of life, of gathering gloom___\" come from which Christmas carol?"
-      },
-      "tags": [
-        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -133,15 +89,37 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f960",
-      "correctAnswer": "Blindness",
+      "id": "622a1c397cc59eab6f950ee6",
+      "correctAnswer": "Charles Dickens",
       "incorrectAnswers": [
-        "Brideshead Revisited",
-        "The House of Mirth",
-        "Wise Blood"
+        "Oscar Wilde",
+        "Joseph Conrad",
+        "Henryk Sienkiewicz"
       ],
       "question": {
-        "text": "Which book contains the character 'The Dog of Tears'?"
+        "text": "Which author wrote 'Nicholas Nickleby'?"
+      },
+      "tags": [
+        "literature",
+        "classic_novels",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f94e",
+      "correctAnswer": "Heart of Darkness",
+      "incorrectAnswers": [
+        "Blindness",
+        "The Catcher in the Rye",
+        "Howards End"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Charlie Marlow'?"
       },
       "tags": [
         "fictitious_characters",
@@ -155,17 +133,18 @@
     },
     {
       "category": "geography",
-      "id": "62374042cb85f7ce9e949cec",
-      "correctAnswer": "Santo Domingo",
+      "id": "625e9e5f796f721e95543f53",
+      "correctAnswer": "Three equal horizontal bands of blue black and white.",
       "incorrectAnswers": [
-        "Monaco",
-        "Lisbon",
-        "Moroni"
+        "Three equal vertical bands of green white and red.",
+        "Red field with a yellow sun in the center.",
+        "Three equal vertical bands of blue white and red."
       ],
       "question": {
-        "text": "What is the capital city of Dominican Republic?"
+        "text": "What does the flag of Estonia look like?"
       },
       "tags": [
+        "flags",
         "geography"
       ],
       "type": "text_choice",
@@ -174,61 +153,21 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "624333cfcfaae40c12961406",
-      "correctAnswer": "A Cow",
+      "category": "society_and_culture",
+      "id": "6488deed50a27f7378a91df0",
+      "correctAnswer": "Taxi Drivers",
       "incorrectAnswers": [
-        "A Sow",
-        "A Doe",
-        "A Pen"
+        "Beefeaters",
+        "Lawyers",
+        "The Mayor"
       ],
       "question": {
-        "text": "What would you call a female elephant?"
+        "text": "Who needs to pass an exam called \"The Knowledge\" to do their job in London?"
       },
       "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "625064bfe12f6dec240bdfca",
-      "correctAnswer": "Young MC",
-      "incorrectAnswers": [
-        "Blind Melon",
-        "The Weather Girls",
-        "Faith No More"
-      ],
-      "question": {
-        "text": "Who had a hit in 1989 with Bust a Move?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624ab0bc348a461bfc670694",
-      "correctAnswer": "The Middle East",
-      "incorrectAnswers": [
-        "Central Asia",
-        "Africa",
-        "South America"
-      ],
-      "question": {
-        "text": "Where in the world are peas originally from?"
-      },
-      "tags": [
-        "food_and_drink"
+        "london",
+        "society_and_culture",
+        "occupations"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -237,19 +176,18 @@
     },
     {
       "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94ff75",
-      "correctAnswer": "Norway",
+      "id": "649c9f94e3aef0a3c23f6402",
+      "correctAnswer": "A Lie",
       "incorrectAnswers": [
-        "Chile",
-        "Canada",
-        "Japan"
+        "A Disaster",
+        "An Accident",
+        "A Mistake"
       ],
       "question": {
-        "text": "Which Country Is The Worlds Leading Exporter Of Salmon?"
+        "text": "What is another word for a prevarication?"
       },
       "tags": [
-        "fish",
-        "general_knowledge"
+        "words"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -257,45 +195,20 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "625698f79da29df7b05f72a9",
-      "correctAnswer": "Letitia Wright",
+      "category": "geography",
+      "id": "623b5782fd6c701a92118361",
+      "correctAnswer": "Jordan",
       "incorrectAnswers": [
-        "Karen Gillan",
-        "Zendaya",
-        "Marisa Tomei"
+        "Malta",
+        "Peru",
+        "Saudi Arabia"
       ],
       "question": {
-        "text": "The role of Shuri in the Marvel Cinematic Universe is played by which actor?"
+        "text": "In which country would you find the UNESCO World Heritage site of Petra?"
       },
       "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fb95",
-      "correctAnswer": "\"Jumpin', Jumpin'\" by Destiny's Child",
-      "incorrectAnswers": [
-        "\"A Thousand Miles\" by Vanessa Carlton",
-        "\"Baby Got Back\" by Sir Mix-a-Lot",
-        "\"Hurt\" by Nine Inch Nails"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"Ladies leave your man at home, the club is full of ballers and their pockets full grown.\"?"
-      },
-      "tags": [
-        "lyrics",
-        "music"
+        "tourist_attractions",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -304,15 +217,15 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950db2",
-      "correctAnswer": "The Rolling Stones",
+      "id": "622a1c387cc59eab6f950b6e",
+      "correctAnswer": "Blur",
       "incorrectAnswers": [
-        "McFly",
-        "Delirious?",
-        "Depeche Mode"
+        "Level 42",
+        "Our Lady Peace",
+        "Feeder"
       ],
       "question": {
-        "text": "Which band was Charlie Watts a member of?"
+        "text": "Which English alternative rock band released the studio album 'Think Tank'?"
       },
       "tags": [
         "music"
@@ -323,19 +236,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950dc9",
-      "correctAnswer": "Khaled Hosseini",
+      "category": "geography",
+      "id": "6237412ccb85f7ce9e949d4a",
+      "correctAnswer": "Vaduz",
       "incorrectAnswers": [
-        "Nathaniel Hawthorne",
-        "Robert E. Howard",
-        "Isabel Allende"
+        "Naypyidaw",
+        "Vilnius",
+        "Muscat"
       ],
       "question": {
-        "text": "Which author wrote 'The Kite Runner'?"
+        "text": "What is the capital city of Liechtenstein?"
       },
       "tags": [
-        "arts_and_literature"
+        "capital_cities",
+        "europe"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -344,15 +258,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eec",
-      "correctAnswer": "Jack London",
+      "id": "622a1c347cc59eab6f94f977",
+      "correctAnswer": "The Swimmer",
       "incorrectAnswers": [
-        "Edgar Rice Burroughs",
-        "James Fenimore Cooper",
-        "Frederik Pohl"
+        "The English Patient",
+        "Portrait of the Artist as a Young Man",
+        "Nine Stories"
       ],
       "question": {
-        "text": "Which author wrote 'White Fang'?"
+        "text": "Which book contains the character 'Neddy Merrill'?"
       },
       "tags": [
         "literature",
@@ -364,16 +278,195 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8aa",
-      "correctAnswer": "Gymnastics",
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f950128",
+      "correctAnswer": "Donkey",
       "incorrectAnswers": [
-        "Basketball",
-        "Rugby Union",
-        "Football"
+        "Elephant",
+        "Sheep",
+        "Giraffe"
       ],
       "question": {
-        "text": "With which sport is Larisa Latynina associated?"
+        "text": "Though the touch of gold was removed, Midas was forever cursed by Athena to have the ears of which animal?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f952285",
+      "correctAnswer": "33",
+      "incorrectAnswers": [
+        "24",
+        "12",
+        "8"
+      ],
+      "question": {
+        "text": "How many vertebrae is the average human born with?"
+      },
+      "tags": [
+        "biology",
+        "science",
+        "anatomy",
+        "numbers"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "646140f34d46e537ca8cda27",
+      "correctAnswer": "Tenzing Norgay",
+      "incorrectAnswers": [
+        "Sir Edmund Hillary",
+        "George Mallory",
+        "Reinhold Messner"
+      ],
+      "question": {
+        "text": "Who, with a Swiss team, came within 1,000 feet of the summit of Mount Everest in 1952 before reaching the summit in 1953?"
+      },
+      "tags": [
+        "climbing",
+        "mountains",
+        "people",
+        "history",
+        "1950's"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "646089e1de964ebc39016c95",
+      "correctAnswer": "Sukiyaki",
+      "incorrectAnswers": [
+        "Tempura",
+        "Yakitori",
+        "Sashimi"
+      ],
+      "question": {
+        "text": "Which of these Japanese dishes consists of stir-fried meat and vegetables?"
+      },
+      "tags": [
+        "food_and_drink",
+        "japan",
+        "cuisine",
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95048e",
+      "correctAnswer": "dietetics",
+      "incorrectAnswers": [
+        "intonation in speech",
+        "in ethics, duty",
+        "fossils of ancient life"
+      ],
+      "question": {
+        "text": "What is Sitiology the study of?"
+      },
+      "tags": [
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f9522e6",
+      "correctAnswer": "The Castor Bean Plant",
+      "incorrectAnswers": [
+        "Lily of the Valley",
+        "Water Hemlock",
+        "Giant Hogweed"
+      ],
+      "question": {
+        "text": "From which plant is the poison ricin obtained?"
+      },
+      "tags": [
+        "biology",
+        "plants",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233861462eaad73716a8cb0",
+      "correctAnswer": "Boston",
+      "incorrectAnswers": [
+        "Austin",
+        "Atlanta",
+        "Philadelphia"
+      ],
+      "question": {
+        "text": "In which US city is Beacon Street?"
+      },
+      "tags": [
+        "usa",
+        "cities",
+        "places",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fa64",
+      "correctAnswer": "J.K. Simmons",
+      "incorrectAnswers": [
+        "Robert Duvall",
+        "Ethan Hawke",
+        "Edward Norton"
+      ],
+      "question": {
+        "text": "Who won the 2014 Academy Award for Best Supporting Actor for playing the role of Fletcher in Whiplash?"
+      },
+      "tags": [
+        "acting",
+        "cult_films",
+        "academy_awards",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f858",
+      "correctAnswer": "Football",
+      "incorrectAnswers": [
+        "Table tennis",
+        "Ice Hockey",
+        "Surfing"
+      ],
+      "question": {
+        "text": "With which sport is Alex Ferguson associated?"
       },
       "tags": [
         "people",
@@ -386,18 +479,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625fd736dc0dd3b72da64d2b",
-      "correctAnswer": "2001",
+      "id": "624dba11de6018633d31f6b3",
+      "correctAnswer": "Pierce Brosnan",
       "incorrectAnswers": [
-        "1992",
-        "1995",
-        "1998"
+        "George Lazenby",
+        "Timothy Dalton",
+        "Sean Connery"
       ],
       "question": {
-        "text": "In which year was Monsters, Inc. first released in the cinema?"
+        "text": "Who played the role of James Bond in Tomorrow Never Dies?"
       },
       "tags": [
+        "james_bond",
         "film",
+        "acting",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -406,126 +501,20 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950403",
-      "correctAnswer": "The Crimean War",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f72",
+      "correctAnswer": "Stephen King",
       "incorrectAnswers": [
-        "World War I",
-        "World War II",
-        "Russian Civil War"
+        "H. P. Lovecraft",
+        "Edgar Allan Poe",
+        "Jack Vance"
       ],
       "question": {
-        "text": "The charge of the light brigade occured during which war?"
+        "text": "Which author wrote 'Full Dark, No Stars'?"
       },
       "tags": [
-        "history",
-        "wars"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd755dc0dd3b72da64d34",
-      "correctAnswer": "1991",
-      "incorrectAnswers": [
-        "1983",
-        "1987",
-        "1995"
-      ],
-      "question": {
-        "text": "In which year was Beauty and the Beast released?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417cfd0f96c4efe8d77399",
-      "correctAnswer": "Columbus Blue Jackets",
-      "incorrectAnswers": [
-        "Columbus Mavericks",
-        "Columbus Predators",
-        "Columbus Whitesox"
-      ],
-      "question": {
-        "text": "Which of these is a hockey team based in Columbus?"
-      },
-      "tags": [
-        "hockey",
-        "usa",
-        "nhl",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506fc",
-      "correctAnswer": "Elizabeth Banks",
-      "incorrectAnswers": [
-        "Sandra Bæ Hovedr",
-        "Penélope Cruz",
-        "Emma Thompson"
-      ],
-      "question": {
-        "text": "Which actress has played roles in films including Spider-Man and The Hunger Games?"
-      },
-      "tags": [
-        "film_and_tv",
-        "acting"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f9508ce",
-      "correctAnswer": "Laos",
-      "incorrectAnswers": [
-        "Malaysia",
-        "Singapore",
-        "Brunei"
-      ],
-      "question": {
-        "text": "Which of these countries borders Cambodia?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233857b62eaad73716a8c73",
-      "correctAnswer": "Hartford",
-      "incorrectAnswers": [
-        "Belford",
-        "Scranton",
-        "Bellaclaire"
-      ],
-      "question": {
-        "text": "What U.S city is known as Insurance City?"
-      },
-      "tags": [
-        "cities",
-        "names",
-        "usa",
-        "geography"
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -534,15 +523,15 @@
     },
     {
       "category": "science",
-      "id": "622a1c3e7cc59eab6f9522eb",
-      "correctAnswer": "Butterflies & Moths",
+      "id": "622a1c377cc59eab6f9504ff",
+      "correctAnswer": "games and play",
       "incorrectAnswers": [
-        "Leopards",
-        "Turtles & Tortoises",
-        "Sharks"
+        "blood serum",
+        "the scientific study of baths, bathing and of their application to disease",
+        "word origins"
       ],
       "question": {
-        "text": "For What Is Lepidoptera The Scientific Name?"
+        "text": "What is Ludology the study of?"
       },
       "tags": [
         "science"
@@ -553,19 +542,87 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "625e9ecd796f721e95543f6d",
-      "correctAnswer": "Iran",
+      "category": "society_and_culture",
+      "id": "6470d79b423445f16131b4cb",
+      "correctAnswer": "Hercules",
       "incorrectAnswers": [
-        "Costa Rica",
-        "Brazil",
-        "Azerbaijan"
+        "Zeus",
+        "Apollo",
+        "Athena"
       ],
       "question": {
-        "text": "Which country's flag fits the description of 'Three equal horizontal bands of green white and red.'?"
+        "text": "Which Roman muscleman is identified with the Celtic God Ogmios and carried a bow and a club?"
       },
       "tags": [
-        "flags",
+        "mythology",
+        "romans",
+        "the_ancient_world",
+        "celtic",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "648888d65dba6c873ef650a9",
+      "correctAnswer": "Catch-22",
+      "incorrectAnswers": [
+        "To Kill a Mockingbird",
+        "Lord of the Flies",
+        "1984"
+      ],
+      "question": {
+        "text": "Which Joseph Heller novel takes place on the island of Pianosa?"
+      },
+      "tags": [
+        "novels",
+        "books",
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "6461403b4d46e537ca8cd99e",
+      "correctAnswer": "The Netherlands",
+      "incorrectAnswers": [
+        "Poland",
+        "Portugal",
+        "Greece"
+      ],
+      "question": {
+        "text": "From 1795-1806, which country was briefly known as the Batavian Republic?"
+      },
+      "tags": [
+        "europe",
+        "history",
+        "countries"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62373fcbcb85f7ce9e949cbc",
+      "correctAnswer": "Sofia",
+      "incorrectAnswers": [
+        "Abuja",
+        "Tbilisi",
+        "Podgorica"
+      ],
+      "question": {
+        "text": "What is the capital city of Bulgaria?"
+      },
+      "tags": [
         "geography"
       ],
       "type": "text_choice",
@@ -574,63 +631,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "64b9a297fa11352f5124c35b",
-      "correctAnswer": "Tallahassee",
+      "category": "music",
+      "id": "622a1c3d7cc59eab6f951c19",
+      "correctAnswer": "Sun Records",
       "incorrectAnswers": [
-        "Miami",
-        "Orlando",
-        "Jacksonville"
+        "Moon Records",
+        "Sky Records",
+        "Cloud Records"
       ],
       "question": {
-        "text": "Which city of Florida got its name from Creek words meaning 'old town'?"
+        "text": "For which label did Elvis first record?"
       },
       "tags": [
-        "usa",
-        "geography",
-        "cities",
-        "languages"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950867",
-      "correctAnswer": "Liberia",
-      "incorrectAnswers": [
-        "Guinea-Bissau",
-        "Ivory Coast",
-        "The Gambia"
-      ],
-      "question": {
-        "text": "Which of these countries borders Sierra Leone?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6271649d1ba117625baac969",
-      "correctAnswer": "Jenever",
-      "incorrectAnswers": [
-        "Brennivín",
-        "Akevitt",
-        "Gin"
-      ],
-      "question": {
-        "text": "Which of these drinks would you associate with Belgium?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
