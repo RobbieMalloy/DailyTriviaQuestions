@@ -1,23 +1,24 @@
 {
-  "gameDate": "2026-05-16",
+  "gameDate": "2026-05-17",
   "difficulty": "random",
   "results": [
     {
-      "category": "music",
-      "id": "65056ec17a97013de78b5354",
-      "correctAnswer": "Pyotr Ilyich Tchaikovsky",
+      "category": "film_and_tv",
+      "id": "622a1c357cc59eab6f94fc44",
+      "correctAnswer": "\"A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.\"",
       "incorrectAnswers": [
-        "Igor Stravinsky",
-        "Alexander Borodin",
-        "Nikolai Rimsky-Korsakov"
+        "\"Attica! Attica!\"",
+        "\"Chewie, we’re home.\"",
+        "\"What is this? A center for ants? How can we be expected to teach children to learn how to read…if they can’t even fit inside the building?\""
       ],
       "question": {
-        "text": "Who composed the ballet \"Swan Lake\"?"
+        "text": "Which of these quotes is from the film 'The Silence of the Lambs'?"
       },
       "tags": [
-        "music",
-        "classical",
-        "ballet"
+        "film",
+        "quotes",
+        "general_knowledge",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -25,21 +26,66 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501a7",
-      "correctAnswer": "The Silmarillion",
+      "category": "film_and_tv",
+      "id": "647207af3bbb58c31f411c5e",
+      "correctAnswer": "Seinfeld",
       "incorrectAnswers": [
-        "The Decameron",
-        "Dead Souls",
-        "Welcome to the N.H.K."
+        "Friends",
+        "The Big Bang Theory",
+        "The Simpsons"
       ],
       "question": {
-        "text": "In which book does 'Tuor' appear?"
+        "text": "What is the name of the sitcom that introduced the holiday tradition of \"Festivus\"?"
       },
       "tags": [
-        "fantasy",
-        "literature",
-        "arts_and_literature"
+        "christmas",
+        "sitcoms",
+        "film_and_tv",
+        "tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6498a5e40752843c0d8aae06",
+      "correctAnswer": "Friendly",
+      "incorrectAnswers": [
+        "Derby",
+        "Washer",
+        "Double header"
+      ],
+      "question": {
+        "text": "Which word is used to refer to a soccer match that is not part of an official competition?"
+      },
+      "tags": [
+        "soccer",
+        "sport",
+        "football"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "625006590d86c8f685d80ee4",
+      "correctAnswer": "Tubular pasta",
+      "incorrectAnswers": [
+        "Ribbon pasta",
+        "Stuffed pasta",
+        "Shaped pasta"
+      ],
+      "question": {
+        "text": "What type of pasta is bucatini?"
+      },
+      "tags": [
+        "food",
+        "italy",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -47,21 +93,39 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa8e",
-      "correctAnswer": "Laura Dern",
+      "category": "science",
+      "id": "622a1c377cc59eab6f95049a",
+      "correctAnswer": "feces",
       "incorrectAnswers": [
-        "Kathy Bates",
-        "Scarlett Johansson",
-        "Florence Pugh"
+        "underground water",
+        "the field of medicine that deals with the skin",
+        "drug dosage"
       ],
       "question": {
-        "text": "Who won the 2019 Academy Award for Best Supporting Actress for playing the role of Nora Fanshaw in Marriage Story?"
+        "text": "What is Scatology the study of?"
       },
       "tags": [
-        "acting",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd690dc0dd3b72da64cfa",
+      "correctAnswer": "1960",
+      "incorrectAnswers": [
+        "1948",
+        "1954",
+        "1966"
+      ],
+      "question": {
+        "text": "In which year was Psycho released?"
+      },
+      "tags": [
         "film",
-        "academy_awards",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -70,20 +134,41 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe8c",
-      "correctAnswer": "Rihanna",
+      "category": "geography",
+      "id": "6237358bcfe13103f55eb541",
+      "correctAnswer": "Morocco",
       "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Ricky Martin"
+        "Martinique",
+        "Mali",
+        "Moldova"
       ],
       "question": {
-        "text": "Which singer released the song 'Run This Town'?"
+        "text": "Which region of the world uses '.ma' at the end of its web addresses?"
       },
       "tags": [
-        "songs",
-        "music"
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f9522ba",
+      "correctAnswer": "Porcine",
+      "incorrectAnswers": [
+        "Bovine",
+        "Mammalian",
+        "Recombinant"
+      ],
+      "question": {
+        "text": "Horse Is To Equine As Pig Is To What?"
+      },
+      "tags": [
+        "words",
+        "animals",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -92,15 +177,15 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c54",
-      "correctAnswer": "Iron Maiden",
+      "id": "622a1c397cc59eab6f950bf4",
+      "correctAnswer": "The Doors",
       "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Squeeze"
+        "Styx",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
       ],
       "question": {
-        "text": "Which English heavy metal band released the song 'Sanctuary'?"
+        "text": "Which American rock band released the album 'Waiting for the Sun'?"
       },
       "tags": [
         "music"
@@ -111,16 +196,122 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe53",
-      "correctAnswer": "Venice ",
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcb1",
+      "correctAnswer": "Indo-European",
       "incorrectAnswers": [
-        "Rome",
-        "Beijing",
-        "Ulaanbaatar"
+        "Turkic",
+        "Niger–Congo",
+        "Austronesian"
       ],
       "question": {
-        "text": "In Which City Is Marco Polo Airport?"
+        "text": "The language 'Assamese' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e82",
+      "correctAnswer": "Robert Louis Stevenson",
+      "incorrectAnswers": [
+        "Oscar Wilde",
+        "Agatha Christie",
+        "Joseph Conrad"
+      ],
+      "question": {
+        "text": "Which author wrote 'Strange Case of Dr Jekyll and Mr Hyde'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "646339bc01d576cfac3aa3aa",
+      "correctAnswer": "Malaysia",
+      "incorrectAnswers": [
+        "Thailand",
+        "Vietnam",
+        "Indonesia"
+      ],
+      "question": {
+        "text": "Which country is located on the eastern border of Brunei?"
+      },
+      "tags": [
+        "borders",
+        "countries",
+        "southeast_asia",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62443784746187c5e7be935a",
+      "correctAnswer": "Calcium carbonate",
+      "incorrectAnswers": [
+        "Deuterium Oxide",
+        "Calcium magnesium carbonate",
+        "Sodium bicarbonate"
+      ],
+      "question": {
+        "text": "What chemical compound makes limestone?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "64ba2d29fa11352f5124c370",
+      "correctAnswer": "Attila",
+      "incorrectAnswers": [
+        "Genghis Khan",
+        "Alexander the Great",
+        "Napoleon Bonaparte"
+      ],
+      "question": {
+        "text": "Which famous military leader was defeated in the Battle of the Catalaunian Plains in 451 A.D.?"
+      },
+      "tags": [
+        "battles",
+        "leaders",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "626030384b176d54800e3d15",
+      "correctAnswer": "Lahore",
+      "incorrectAnswers": [
+        "Lviv",
+        "Bishkek",
+        "Baku"
+      ],
+      "question": {
+        "text": "Which of these cities is in Pakistan?"
       },
       "tags": [
         "cities",
@@ -132,66 +323,44 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ff96",
-      "correctAnswer": "Egypt",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f887",
+      "correctAnswer": "Baseball",
       "incorrectAnswers": [
-        "Sudan",
-        "Syria",
-        "Tunisia"
+        "Volleyball",
+        "Boxing",
+        "Table tennis"
       ],
       "question": {
-        "text": "What country borders Libya on the East?"
+        "text": "With which sport is Joe DiMaggio associated?"
       },
       "tags": [
-        "countries",
-        "africa",
-        "geography"
+        "people",
+        "general_knowledge",
+        "sport"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "645bc180f09106226db235a8",
-      "correctAnswer": "Dutch East India Company",
-      "incorrectAnswers": [
-        "British East India Company",
-        "Portuguese East India Company",
-        "French East India Company"
-      ],
-      "question": {
-        "text": "In 1610, what firm shipped tea to Europe for the first time?"
-      },
-      "tags": [
-        "trade",
-        "colonialism",
-        "1600's"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "music",
-      "id": "636a527c990390307063f39e",
-      "correctAnswer": "Dolly Parton",
+      "id": "64626286ab138b829b81ea0b",
+      "correctAnswer": "Led Zeppelin",
       "incorrectAnswers": [
-        "Judy Garland",
-        "UB40",
-        "Manfred Mann"
+        "The Doors",
+        "The Rolling Stones",
+        "The Beatles"
       ],
       "question": {
-        "text": "Which artist first recorded 'I Will Always Love You', which was later covered by Whitney Houston?"
+        "text": "What is the name of the band that wrote and performed the song \"Kashmir\"?"
       },
       "tags": [
-        "music",
-        "cover_song",
+        "bands",
+        "rock_music",
         "songs",
-        "musicians"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -199,385 +368,177 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "625e9dc0796f721e95543f2a",
-      "correctAnswer": "Three equal horizontal bands of red white and red.",
-      "incorrectAnswers": [
-        "Three equal vertical bands of green, yellow, and red.",
-        "Red field with a yellow sun in the center.",
-        "Green with a yellow diamond in the center with a blue celestial globe."
-      ],
-      "question": {
-        "text": "What does the flag of Austria look like?"
-      },
-      "tags": [
-        "flags",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "6463394f01d576cfac3aa33e",
-      "correctAnswer": "Teddy Roosevelt",
+      "id": "62611f444b176d54800e3d4d",
+      "correctAnswer": "1962",
       "incorrectAnswers": [
-        "Abraham Lincoln",
-        "George Washington",
-        "Donald Trump"
+        "1950",
+        "1970",
+        "1973"
       ],
       "question": {
-        "text": "Which US president was once the police commissioner of New York City?"
+        "text": "When did the Cuban Missile Crisis bring the world to the brink of nuclear war?"
       },
       "tags": [
+        "events",
         "politics",
-        "new_york_city",
-        "new_york",
-        "people",
-        "presidents",
-        "usa"
+        "cold_war",
+        "usa",
+        "russia",
+        "cuba",
+        "history"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6472060f222d3df382f0c861",
-      "correctAnswer": "Hors d'oeuvres",
-      "incorrectAnswers": [
-        "À la carte",
-        "Croquettes",
-        "Tapas"
-      ],
-      "question": {
-        "text": "What is the French term for appetizers that are served before the meal?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "science",
-      "id": "6505702d7a97013de78b554d",
-      "correctAnswer": "24 karat",
+      "id": "622a1c397cc59eab6f950fa8",
+      "correctAnswer": "J Robert Oppenheimer",
       "incorrectAnswers": [
-        "22 karat",
-        "30 karat",
-        "12 karat"
+        "Albert Einstein",
+        "Richard Feynman",
+        "Niels Bohr"
       ],
       "question": {
-        "text": "How many karats are in pure gold?"
+        "text": "Who Was The First Director Of The Atomic Lab At Los Alamos New Mexico?"
       },
       "tags": [
         "science"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c367cc59eab6f95037a",
+      "correctAnswer": "Led Zeppelin",
+      "incorrectAnswers": [
+        "Pink Floyd",
+        "Rolling Stones",
+        "Queen"
+      ],
+      "question": {
+        "text": "Who Released The 70's Album Entitled Physical Graffiti?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f947",
-      "correctAnswer": "Pirates of the Caribbean",
+      "id": "625698909da29df7b05f728f",
+      "correctAnswer": "Agent Maria Hill",
       "incorrectAnswers": [
-        "The Godfather",
-        "The Silence of the Lambs",
-        "The Birds"
+        "Natasha Romanoff",
+        "Gamora",
+        "Valkyrie"
       ],
       "question": {
-        "text": "Which film contains the character 'Captain Jack Sparrow'?"
+        "text": "Cobie Smulders plays the role of which character in the Marvel Cinematic Universe?"
       },
       "tags": [
-        "fictitious_characters",
+        "mcu",
         "film",
-        "general_knowledge",
+        "acting",
+        "marvel",
+        "comics",
         "film_and_tv"
       ],
       "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd69bdc0dd3b72da64cfd",
+      "correctAnswer": "1995",
+      "incorrectAnswers": [
+        "1991",
+        "1999",
+        "2003"
+      ],
+      "question": {
+        "text": "In which year was The Usual Suspects released?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6462628cab138b829b81ea3a",
+      "correctAnswer": "Orion",
+      "incorrectAnswers": [
+        "Draco",
+        "Cassiopeia",
+        "Ursa Major"
+      ],
+      "question": {
+        "text": "Which constellation features Betelgeuse, the first star whose size was measured, in 1920?"
+      },
+      "tags": [
+        "astronomy",
+        "stars",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63b069284799123c67712f59",
+      "correctAnswer": "Hula",
+      "incorrectAnswers": [
+        "Tango",
+        "Flamenco",
+        "Salsa"
+      ],
+      "question": {
+        "text": "What is the dance traditionally performed by Hawaiian women?"
+      },
+      "tags": [
+        "society_and_culture",
+        "dance",
+        "polynesia",
+        "hawaii"
+      ],
+      "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa39",
-      "correctAnswer": "High Renaissance",
-      "incorrectAnswers": [
-        "Mannerism",
-        "Italian Renaissance",
-        "Cubism"
-      ],
-      "question": {
-        "text": "The painting \"Mona Lisa\" by Leonardo da Vinci is a part of which art movement?"
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950214",
-      "correctAnswer": "Roald Dahl ",
-      "incorrectAnswers": [
-        "Charles Dickens",
-        "Jacqueline Wilson",
-        "Morgan Scott"
-      ],
-      "question": {
-        "text": "Who wrote the book Charlie and the Chocolate Factory?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951365",
-      "correctAnswer": "Romanticism",
-      "incorrectAnswers": [
-        "Realism",
-        "Nostalgia",
-        "Kunboism"
-      ],
-      "question": {
-        "text": "Which artistic movement of the late eighteenth to mid-nineteenth century focused on emotion over reason, and on spontaneous expression."
-      },
-      "tags": [
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "63d952fc168979b94b2e4f6d",
-      "correctAnswer": "Kurt Cobain",
+      "id": "622a1c357cc59eab6f94fd5c",
+      "correctAnswer": "Elvis Presley",
       "incorrectAnswers": [
-        "Dave Grohl",
-        "Eddie Vedder",
-        "Chris Cornell"
+        "Johnny Cash",
+        "Bob Dylan",
+        "Leonard Cohen"
       ],
       "question": {
-        "text": "Who was the lead singer of the '90s rock band, Nirvana?"
+        "text": "Whose Version Of \"My Way\" Had A Poignant Release Late In 1977?"
       },
       "tags": [
-        "1990's",
-        "music",
-        "bands",
-        "musicians"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374253cb85f7ce9e949dc1",
-      "correctAnswer": "Solomon Islands",
-      "incorrectAnswers": [
-        "Burkina Faso",
-        "Panama",
-        "Brunei"
-      ],
-      "question": {
-        "text": "Honiara is the capital city of which country?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "64a32df9fc63594e30247826",
-      "correctAnswer": "Portugal",
-      "incorrectAnswers": [
-        "Brazil",
-        "The Philippines",
-        "Greece"
-      ],
-      "question": {
-        "text": "What country are the Azores islands a part of?"
-      },
-      "tags": [
-        "geography",
-        "islands"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62373525cfe13103f55eb500",
-      "correctAnswer": "Germany",
-      "incorrectAnswers": [
-        "Denmark",
-        "Japan",
-        "India"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.de' at the end of its web addresses?"
-      },
-      "tags": [
-        "the_internet",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa0e",
-      "correctAnswer": "Gustav Klimt",
-      "incorrectAnswers": [
-        "‎‎Edvard Munch",
-        "Raphael",
-        "Leonardo da Vinci"
-      ],
-      "question": {
-        "text": "Which artist painted \"The Kiss\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502b4",
-      "correctAnswer": "Molasses",
-      "incorrectAnswers": [
-        "Pursy",
-        "Nectar",
-        "Crystallis"
-      ],
-      "question": {
-        "text": "What is the name of the syrup drained from raw sugar?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff2d",
-      "correctAnswer": "Michael Jackson",
-      "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
-      ],
-      "question": {
-        "text": "Who sung the song 'Smooth Criminal'?"
-      },
-      "tags": [
+        "people",
         "songs",
-        "musicians",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64824df37778562fd76a95ec",
-      "correctAnswer": "Pastrami",
-      "incorrectAnswers": [
-        "Pepperoni",
-        "Salami",
-        "Prosciutto"
-      ],
-      "question": {
-        "text": "What is the name of the sliced meat that is made from smoked beef?"
-      },
-      "tags": [
-        "meat",
-        "food_and_drink",
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6257410a9da29df7b05f7409",
-      "correctAnswer": "The merciless rivalry between Formula One rivals James Hunt and Niki Lauda.",
-      "incorrectAnswers": [
-        "The lives of mob hitmen, a boxer, a gangster and his wife, and a pair of bandits intertwine in four tales.",
-        "A stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.",
-        "An Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Rush?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c89",
-      "correctAnswer": "Metallica",
-      "incorrectAnswers": [
-        "Alice Cooper",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
-      ],
-      "question": {
-        "text": "Which American heavy metal band released the studio album 'Ride the Lightning'?"
-      },
-      "tags": [
         "music"
       ],
       "type": "text_choice",
@@ -586,21 +547,87 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c3e7cc59eab6f952248",
-      "correctAnswer": "Courage",
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f951608",
+      "correctAnswer": "Black Russian",
       "incorrectAnswers": [
-        "Honesty",
-        "Compassion",
-        "Patience"
+        "Stinger",
+        "Harvey Wallbanger",
+        "Manhattan"
       ],
       "question": {
-        "text": "What was the lion looking for in The Wizard of Oz?"
+        "text": "What cocktail is made from vodka and Kahlua?"
+      },
+      "tags": [
+        "drink",
+        "cocktails",
+        "alcohol",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6384b46583dddfb71ee5e379",
+      "correctAnswer": "Swimming",
+      "incorrectAnswers": [
+        "American Football",
+        "Sailing",
+        "Tennis"
+      ],
+      "question": {
+        "text": "Which sport is associated with The FINA World Championships?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950630",
+      "correctAnswer": "Jennifer Connelly",
+      "incorrectAnswers": [
+        "Rachel Weisz",
+        "Frances Fisher",
+        "Salma Hayek"
+      ],
+      "question": {
+        "text": "Which actress has appeared in films including 'Requiem for a Dream' in 2000 and 'Hulk' in 2003?"
       },
       "tags": [
         "film_and_tv",
-        "film",
-        "cult_films",
+        "acting",
+        "film"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "639c9d95929b90846f2fc95b",
+      "correctAnswer": "Burj Khalifa",
+      "incorrectAnswers": [
+        "Shanghai Tower",
+        "Taipei 101",
+        "Empire State Building"
+      ],
+      "question": {
+        "text": "What is the tallest building in the world?"
+      },
+      "tags": [
+        "architecture",
+        "geography",
+        "tourist_attractions",
+        "buildings",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -609,45 +636,24 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd54",
-      "correctAnswer": "The Fugees",
-      "incorrectAnswers": [
-        "N.E.R.D",
-        "No Doubt",
-        "All Saints"
-      ],
-      "question": {
-        "text": "With Which Band Did Wyclef Jean & Lauryn Hill First Make Their Name?"
-      },
-      "tags": [
-        "people",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "622a1c3b7cc59eab6f951756",
-      "correctAnswer": "The French Revolution",
+      "id": "622a1c3c7cc59eab6f9519a1",
+      "correctAnswer": "A wife",
       "incorrectAnswers": [
-        "The Russian Revolution",
-        "The Cuban Revolution",
-        "The Chinese Revolution"
+        "A vice president",
+        "A left foot",
+        "A signature"
       ],
       "question": {
-        "text": "Which revolution began in 1789?"
+        "text": "What did President James Buchanan not have?"
       },
       "tags": [
-        "history",
-        "revolutions",
-        "1700's"
+        "presidents",
+        "usa",
+        "history"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     }
