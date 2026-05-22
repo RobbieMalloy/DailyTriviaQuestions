@@ -1,18 +1,61 @@
 {
-  "gameDate": "2026-05-21",
+  "gameDate": "2026-05-22",
   "difficulty": "hard",
   "results": [
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e69",
-      "correctAnswer": "Ivan Turgenev",
+      "category": "general_knowledge",
+      "id": "645cb16b7d263fd5097043cc",
+      "correctAnswer": "Carded",
       "incorrectAnswers": [
-        "Leo Tolstoy",
-        "Henryk Sienkiewicz",
-        "Alphonse Daudet"
+        "Combed",
+        "Washed",
+        "Sheared"
       ],
       "question": {
-        "text": "Which author wrote 'Mumu'?"
+        "text": "What term is used to describe the process of preparing wool fibers before they are spun?"
+      },
+      "tags": [
+        "textiles",
+        "fashion"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625064d6e12f6dec240bdfd1",
+      "correctAnswer": "Don't Give Up on Us",
+      "incorrectAnswers": [
+        "The Hustle",
+        "Macarena",
+        "Heart And Soul"
+      ],
+      "question": {
+        "text": "What song did David Soul have a hit with in 1993?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ddf",
+      "correctAnswer": "Jostein Gaarder",
+      "incorrectAnswers": [
+        "G. K. Chesterton",
+        "Jules Verne",
+        "J. R. R. Tolkien"
+      ],
+      "question": {
+        "text": "Which author wrote 'Sophie's World'?"
       },
       "tags": [
         "arts_and_literature"
@@ -24,38 +67,19 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f53",
-      "correctAnswer": "Jules Verne",
+      "id": "622a1c347cc59eab6f94f96e",
+      "correctAnswer": "Nine Stories",
       "incorrectAnswers": [
-        "Victor Hugo",
-        "Alphonse Daudet",
-        "Edgar Rice Burroughs"
+        "The Metamorphosis",
+        "Blood Meridian",
+        "Portnoy's Complaint"
       ],
       "question": {
-        "text": "Which author wrote 'The Adventures of Captain Hatteras'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e6d",
-      "correctAnswer": "C. S. Lewis",
-      "incorrectAnswers": [
-        "Neil Gaiman",
-        "Jack Vance",
-        "Douglas Adams"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Silver Chair'?"
+        "text": "Which book contains the character 'Seymour Glass'?"
       },
       "tags": [
         "literature",
+        "fictitious_characters",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -65,19 +89,19 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd36",
-      "correctAnswer": "Jeremy Bentham",
+      "id": "622a1c357cc59eab6f94fd17",
+      "correctAnswer": "Immanuel Kant",
       "incorrectAnswers": [
-        "Jean-Paul Sartre",
-        "Epictetus",
-        "René Descartes"
+        "Baruch Spinoza",
+        "Martin Heidegger",
+        "Bertrand Russell"
       ],
       "question": {
-        "text": "Which philosopher famously said 'The greatest happiness of the greatest number is the foundation of morals and legislation'?"
+        "text": "Which philosopher famously said 'Metaphysics is a dark ocean without shores or lighthouse, strewn with many a philosophic wreck'?"
       },
       "tags": [
-        "quotes",
         "philosophy",
+        "quotes",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -86,235 +110,16 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "6477bad1550bc819ad646b23",
-      "correctAnswer": "Challah",
-      "incorrectAnswers": [
-        "Matzo",
-        "Bagel",
-        "Pita"
-      ],
-      "question": {
-        "text": "What is the name of the loaf of bread traditionally baked for the Jewish Sabbath?"
-      },
-      "tags": [
-        "bread",
-        "religion",
-        "judaism",
-        "society_and_culture",
-        "food_and_drink",
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd69",
-      "correctAnswer": "Wagner",
-      "incorrectAnswers": [
-        "Hoffman",
-        "Schneider",
-        "Strauss"
-      ],
-      "question": {
-        "text": "Whose Operas Include Tanhauser & Tristan Und Isolde?"
-      },
-      "tags": [
-        "classical_music",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "64ce98407f0714b9a0ca5e64",
-      "correctAnswer": "The Boardwalk",
-      "incorrectAnswers": [
-        "The Beach",
-        "The Pier",
-        "The Promenade"
-      ],
-      "question": {
-        "text": "In the hit song sung by The Drifters, where are they \"on a blanket with my baby\"?"
-      },
-      "tags": [
-        "songs",
-        "lyrics",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624dba3acd90beeca353156a",
-      "correctAnswer": "Sean Connery",
-      "incorrectAnswers": [
-        "Roger Moore",
-        "George Lazenby",
-        "Pierce Brosnan"
-      ],
-      "question": {
-        "text": "Who played the role of James Bond in Diamonds Are Forever?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ebc",
-      "correctAnswer": "Mark Twain",
-      "incorrectAnswers": [
-        "Cassandra Clare",
-        "Isabel Allende",
-        "George R. R. Martin"
-      ],
-      "question": {
-        "text": "Which author wrote 'A Connecticut Yankee in King Arthur's Court'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f9f6",
-      "correctAnswer": "Michelangelo",
-      "incorrectAnswers": [
-        "Gustav Klimt",
-        "‎Pablo Picasso",
-        "El Greco"
-      ],
-      "question": {
-        "text": "Which artist painted \"Creation of Adam\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500ac",
-      "correctAnswer": "A Driver Has Been Disqualified",
-      "incorrectAnswers": [
-        "The Race Has Been Won",
-        "A Driver Has Died",
-        "The Fastest Lap Has Been Set"
-      ],
-      "question": {
-        "text": "In Formula One what does it mean when they are waving a black flag?"
-      },
-      "tags": [
-        "racing",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623741c0cb85f7ce9e949d86",
-      "correctAnswer": "Skopje",
-      "incorrectAnswers": [
-        "Yaounde",
-        "Sarajevo",
-        "Belgrade"
-      ],
-      "question": {
-        "text": "What is the capital city of North Macedonia?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbd1",
-      "correctAnswer": "\"I drink your milkshake. I drink it up.\"",
-      "incorrectAnswers": [
-        "\"I'll be back.\"",
-        "\"I'll get you, my pretty, and your little dog, too!\"",
-        "\"Release the Kraken!\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'There Will Be Blood'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc33",
-      "correctAnswer": "\"I want to be alone.\"",
-      "incorrectAnswers": [
-        "\"Listen to me, mister. You're my knight in shining armor. Don't you forget it. You're going to get back on that horse, and I'm going to be right behind you, holding on tight, and away we're gonna , go, go!\"",
-        "\"Made it, Ma! Top of the world!\"",
-        "\"Mrs. Robinson, you're trying to seduce me. Aren't you?\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Grand Hotel'?"
-      },
-      "tags": [
-        "film",
-        "quotes",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "622a1c377cc59eab6f950448",
-      "correctAnswer": "Romania",
+      "id": "622a1c3c7cc59eab6f951af6",
+      "correctAnswer": "The American War Of Independence",
       "incorrectAnswers": [
-        "Poland",
-        "Bulgaria",
-        "Turkey"
+        "World War II",
+        "The Korean War",
+        "The Chinese Civil War"
       ],
       "question": {
-        "text": "Germany's allies in WW II were Japan, Italy, Hungary, Bulgaria, Finland, Libya, and _________."
+        "text": "In which war was Bunker Hill a major battle?"
       },
       "tags": [
         "history"
@@ -325,70 +130,18 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "64b5a8837282fc9eadbafd9c",
-      "correctAnswer": "Aretha Franklin",
-      "incorrectAnswers": [
-        "Whitney Houston",
-        "Tina Turner",
-        "Diana Ross"
-      ],
-      "question": {
-        "text": "Who duetted with George Michael in the song 'I Knew You Were Waiting (For Me)'?"
-      },
-      "tags": [
-        "songs",
-        "music",
-        "musicians"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "645a66c9158db1bd1779f1a2",
-      "correctAnswer": "Peter The Great",
-      "incorrectAnswers": [
-        "Ivan The Terrible",
-        "Catherine The Great",
-        "Ivan The Great"
-      ],
-      "question": {
-        "text": "Who was the great czar who led Russia to victory against Charles XII of Sweden in The Great Northern War of 1700-1721?"
-      },
-      "tags": [
-        "people",
-        "war",
-        "leaders",
-        "russia",
-        "1700's",
-        "sweden"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "625698df9da29df7b05f72a3",
-      "correctAnswer": "John Slattery",
+      "id": "622a1c3c7cc59eab6f951a40",
+      "correctAnswer": "The Godfather",
       "incorrectAnswers": [
-        "Benedict Cumberbatch",
-        "Dave Bautista",
-        "Paul Bettany"
+        "Seabiscuit",
+        "Live and Let Die",
+        "Alien"
       ],
       "question": {
-        "text": "Which actor plays the role of Howard Stark in the Marvel Cinematic Universe?"
+        "text": "The horse Khartoum plays a role in which film?"
       },
       "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -397,16 +150,272 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "624ab0bf348a461bfc670695",
-      "correctAnswer": "The Middle East",
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc89",
+      "correctAnswer": "Dragoman",
       "incorrectAnswers": [
-        "South America",
-        "Central Asia",
-        "Southeast Asia"
+        "Smicker",
+        "Grommet",
+        "Ragamuffin"
       ],
       "question": {
-        "text": "Where in the world are radishes originally from?"
+        "text": "Which word is defined as 'an interpreter or professional guide for travelers'?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64909c4d58265893a0c86da5",
+      "correctAnswer": "Pierre",
+      "incorrectAnswers": [
+        "Jacques",
+        "Jean",
+        "Francois"
+      ],
+      "question": {
+        "text": "What is the first name shared by fashion designer Cardin and furniture designer Boulle?"
+      },
+      "tags": [
+        "designers",
+        "fashion",
+        "people",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fb02",
+      "correctAnswer": "Reese Witherspoon",
+      "incorrectAnswers": [
+        "Judi Dench",
+        "Felicity Huffman",
+        "Keira Knightley"
+      ],
+      "question": {
+        "text": "Who won the 2005 Academy Award for Best Leading Actress for playing the role of June Carter in Walk the Line?"
+      },
+      "tags": [
+        "academy_awards",
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f1f",
+      "correctAnswer": "Alice Munro",
+      "incorrectAnswers": [
+        "Ivan Turgenev",
+        "E. T. A. Hoffmann",
+        "Alphonse Daudet"
+      ],
+      "question": {
+        "text": "Which author wrote 'Too Much Happiness'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "64720cd93bbb58c31f411cd9",
+      "correctAnswer": "The Avon",
+      "incorrectAnswers": [
+        "The Thames",
+        "The Severn",
+        "The Mersey"
+      ],
+      "question": {
+        "text": "Which river in England has both a Welford-on- and a Bidford-on- location?"
+      },
+      "tags": [
+        "rivers",
+        "uk",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950deb",
+      "correctAnswer": "Truman Capote",
+      "incorrectAnswers": [
+        "Robert Jordan",
+        "Philip K. Dick",
+        "Isabel Allende"
+      ],
+      "question": {
+        "text": "Which author wrote 'Breakfast at Tiffany's'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdf0",
+      "correctAnswer": "Kesha",
+      "incorrectAnswers": [
+        "Madonna",
+        "Nicki Minaj",
+        "Aretha Franklin"
+      ],
+      "question": {
+        "text": "Which American singer released the studio album 'Animal'?"
+      },
+      "tags": [
+        "music_albums",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950ca1",
+      "correctAnswer": "Pink Floyd",
+      "incorrectAnswers": [
+        "Wings",
+        "Rudimental",
+        "The Alan Parsons Project"
+      ],
+      "question": {
+        "text": "Which English rock band released the song 'See Emily Play'?"
+      },
+      "tags": [
+        "rock_music",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "636a5265990390307063f394",
+      "correctAnswer": "Girl, You'll Be a Woman Soon",
+      "incorrectAnswers": [
+        "Twist and Shout",
+        "Landslide",
+        "American Woman"
+      ],
+      "question": {
+        "text": "Which song was originally recorded by Neil Diamond and was later covered by Urge Overkill?"
+      },
+      "tags": [
+        "music",
+        "cover_song",
+        "songs",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64a09da6cf8fd58080cf000a",
+      "correctAnswer": "The Floss",
+      "incorrectAnswers": [
+        "The Dab",
+        "The Dougie",
+        "The Whip"
+      ],
+      "question": {
+        "text": "Which viral dance was performed by 'Backpack Kid', to Katy Perry's song 'Swish Swish'?"
+      },
+      "tags": [
+        "dance",
+        "society_and_culture",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e35",
+      "correctAnswer": "Henry James",
+      "incorrectAnswers": [
+        "Edgar Allan Poe",
+        "Robert Louis Stevenson",
+        "Nathaniel Hawthorne"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Turn of the Screw'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237421fcb85f7ce9e949dac",
+      "correctAnswer": "Apia",
+      "incorrectAnswers": [
+        "Lomé",
+        "Maputo",
+        "Podgorica"
+      ],
+      "question": {
+        "text": "What is the capital city of Samoa?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60f950d1a5e051325a80",
+      "correctAnswer": "Singapore",
+      "incorrectAnswers": [
+        "Mauritius",
+        "United States",
+        "North Africa"
+      ],
+      "question": {
+        "text": "Where in the world would you most expect to be served Chilli Crab?"
       },
       "tags": [
         "food",
@@ -418,102 +427,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501b1",
-      "correctAnswer": "Sense and Sensibility",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f89f",
+      "correctAnswer": "Football",
       "incorrectAnswers": [
-        "Jane Eyre",
-        "The Lady of the Camellias",
-        "David Copperfield"
+        "Rowing",
+        "Track and field",
+        "Gymnastics"
       ],
       "question": {
-        "text": "Which piece of written work starts with the line 'The family of Dashwood had been long settled in Sussex.'?"
+        "text": "With which sport is Mia Hamm associated?"
       },
       "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e83",
-      "correctAnswer": "Robert Louis Stevenson",
-      "incorrectAnswers": [
-        "Oscar Wilde",
-        "Agatha Christie",
-        "Joseph Conrad"
-      ],
-      "question": {
-        "text": "Which author wrote 'Kidnapped'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501f5",
-      "correctAnswer": "William Wyler",
-      "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
-      ],
-      "question": {
-        "text": "Which director directed Ben-Hur?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9505e4",
-      "correctAnswer": "Kenneth Branagh",
-      "incorrectAnswers": [
-        "Michael Ironside",
-        "Luke Evans",
-        "Tom Waits"
-      ],
-      "question": {
-        "text": "Which actor has featured in films including Harry Potter and the Chamber of Secrets and Dunkirk?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502ed",
-      "correctAnswer": "Pomegranate ",
-      "incorrectAnswers": [
-        "Mango",
-        "Cranberry",
-        "Raspberry"
-      ],
-      "question": {
-        "text": "From Which Fruit Is Grenadine Made?"
-      },
-      "tags": [
-        "food_and_drink"
+        "people",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -522,15 +449,15 @@
     },
     {
       "category": "geography",
-      "id": "623735aacfe13103f55eb556",
-      "correctAnswer": "Panama",
+      "id": "623735ddcfe13103f55eb578",
+      "correctAnswer": "South Sudan",
       "incorrectAnswers": [
-        "Pakistan",
-        "Paraguay",
-        "Palau"
+        "Russia",
+        "Seychelles",
+        "Switzerland"
       ],
       "question": {
-        "text": "Which region of the world uses '.pa' at the end of its web addresses?"
+        "text": "Which region of the world uses '.ss' at the end of its web addresses?"
       },
       "tags": [
         "geography"
@@ -541,21 +468,19 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd2f",
-      "correctAnswer": "Immanuel Kant",
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9501ea",
+      "correctAnswer": "David Lean",
       "incorrectAnswers": [
-        "Baruch Spinoza",
-        "Ludwig Wittgenstein",
-        "Protagoras"
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
       ],
       "question": {
-        "text": "Which philosopher famously said 'Happiness is not an ideal of reason but of imagination'?"
+        "text": "Which director directed Lawrence of Arabia?"
       },
       "tags": [
-        "philosophy",
-        "people",
-        "society_and_culture"
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -563,21 +488,19 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa0a",
-      "correctAnswer": "James Abbott McNeill Whistler",
+      "category": "general_knowledge",
+      "id": "622a1c3d7cc59eab6f951c5d",
+      "correctAnswer": "50 Pence",
       "incorrectAnswers": [
-        "‎‎Edvard Munch",
-        "‎Pablo Picasso",
-        "Diego Velázquez"
+        "£2",
+        "20 Pence",
+        "15 Pence"
       ],
       "question": {
-        "text": "Which artist painted \"Whistler’s Mother\""
+        "text": "In 1968 Which British Coin Was Introduced To Replace The Ten Shilling Note?"
       },
       "tags": [
-        "art",
-        "painting",
-        "arts_and_literature"
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -586,19 +509,17 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94faf9",
-      "correctAnswer": "Brie Larson",
+      "id": "625fd758dc0dd3b72da64d35",
+      "correctAnswer": "1990",
       "incorrectAnswers": [
-        "Cate Blanchett",
-        "Jennifer Lawrence",
-        "Charlotte Rampling"
+        "1982",
+        "1986",
+        "1994"
       ],
       "question": {
-        "text": "Who won the 2015 Academy Award for Best Leading Actress for playing the role of Ma in Room?"
+        "text": "In which year was Dances with Wolves released?"
       },
       "tags": [
-        "acting",
-        "academy_awards",
         "film",
         "film_and_tv"
       ],
@@ -608,21 +529,83 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "646262b8ab138b829b81ea4f",
-      "correctAnswer": "Seal",
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951c53",
+      "correctAnswer": "Formosa",
       "incorrectAnswers": [
-        "Madonna",
-        "Michael Jackson",
-        "Celine Dion"
+        "Feilu",
+        "Jagary",
+        "Peking"
       ],
       "question": {
-        "text": "Which artist won the Grammy's Record of the Year award in 1995 for the song 'Kiss From A Rose'?"
+        "text": "What was Taiwan formerly known as?"
       },
       "tags": [
-        "music",
-        "songs",
-        "musicians"
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fca5",
+      "correctAnswer": "Afroasiatic",
+      "incorrectAnswers": [
+        "Indo-European",
+        "Turkic",
+        "Dravidian"
+      ],
+      "question": {
+        "text": "The language 'Sanaani Spoken Arabic' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950484",
+      "correctAnswer": "study of the mouth and its diseases",
+      "incorrectAnswers": [
+        "music in society, usually non-western music",
+        "illness",
+        "embryos"
+      ],
+      "question": {
+        "text": "What is Stomatology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fa5b",
+      "correctAnswer": "Sam Rockwell",
+      "incorrectAnswers": [
+        "Willem Dafoe",
+        "Woody Harrelson",
+        "Richard Jenkins"
+      ],
+      "question": {
+        "text": "Who won the 2017 Academy Award for Best Supporting Actor for playing the role of Dixon in Three Billboards outside Ebbing, Missouri?"
+      },
+      "tags": [
+        "academy_awards",
+        "film",
+        "acting",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -631,17 +614,23 @@
     },
     {
       "category": "geography",
-      "id": "622a1c377cc59eab6f9507f1",
-      "correctAnswer": "Africa",
+      "id": "622a1c357cc59eab6f94fde7",
+      "correctAnswer": "Elizabeth I",
       "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Europe"
+        "Mary I",
+        "Victoria",
+        "Elizabeth II"
       ],
       "question": {
-        "text": "The country of Comoros is on which continent?"
+        "text": "Which English Queen is the US State of Virginia named after?"
       },
-      "tags": [],
+      "tags": [
+        "people",
+        "usa",
+        "us_states",
+        "names",
+        "geography"
+      ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
