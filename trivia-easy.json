@@ -1,23 +1,64 @@
 {
-  "gameDate": "2026-05-22",
+  "gameDate": "2026-05-23",
   "difficulty": "easy",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff6a",
-      "correctAnswer": "Oasis",
+      "category": "geography",
+      "id": "622a1c357cc59eab6f950008",
+      "correctAnswer": "Rome",
       "incorrectAnswers": [
-        "Goldfrapp",
-        "Kaiser Chiefs",
-        "Jethro Tull"
+        "Milan",
+        "Naples",
+        "Florence"
       ],
       "question": {
-        "text": "Who Had A Hit In 1996 With \"Don't Look Back In Anger\""
+        "text": "In which city is the colosseum located?"
       },
       "tags": [
-        "songs",
+        "tourist_attractions",
         "general_knowledge",
-        "music"
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623742c8cb85f7ce9e949df0",
+      "correctAnswer": "Kyiv",
+      "incorrectAnswers": [
+        "Sofia",
+        "Belgrade",
+        "Kharkiv"
+      ],
+      "question": {
+        "text": "What is the capital city of Ukraine?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6472060f222d3df382f0c861",
+      "correctAnswer": "Hors d'oeuvres",
+      "incorrectAnswers": [
+        "À la carte",
+        "Croquettes",
+        "Tapas"
+      ],
+      "question": {
+        "text": "What is the French term for appetizers that are served before the meal?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -26,15 +67,15 @@
     },
     {
       "category": "science",
-      "id": "62433510cfaae40c12961482",
-      "correctAnswer": "A Bunny",
+      "id": "6505702d7a97013de78b554d",
+      "correctAnswer": "24 karat",
       "incorrectAnswers": [
-        "An Elver",
-        "A Farrow",
-        "A Tadpole"
+        "22 karat",
+        "30 karat",
+        "12 karat"
       ],
       "question": {
-        "text": "What is the word for a young rabbit?"
+        "text": "How many karats are in pure gold?"
       },
       "tags": [
         "science"
@@ -45,292 +86,22 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951011",
-      "correctAnswer": "Vacuum",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f947",
+      "correctAnswer": "Pirates of the Caribbean",
       "incorrectAnswers": [
-        "Dark Matter",
-        "Black Hole",
-        "White Hole"
+        "The Godfather",
+        "The Silence of the Lambs",
+        "The Birds"
       ],
       "question": {
-        "text": "What term appies to space devoid of matter? "
+        "text": "Which film contains the character 'Captain Jack Sparrow'?"
       },
       "tags": [
-        "words",
-        "astronomy",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64746b005a4c31088dd9cff9",
-      "correctAnswer": "Landslide",
-      "incorrectAnswers": [
-        "Tsunami",
-        "Firestorm",
-        "Stampede"
-      ],
-      "question": {
-        "text": "What word is used when a candidate receives an overwhelming majority of votes in an election?"
-      },
-      "tags": [
-        "politics",
-        "words",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6463395701d576cfac3aa35f",
-      "correctAnswer": "A dreidel",
-      "incorrectAnswers": [
-        "A menorah",
-        "A Torah scroll",
-        "A shofar"
-      ],
-      "question": {
-        "text": "Which of these is a four-sided spinning top, played during the Jewish holiday of Hanukkah?"
-      },
-      "tags": [
-        "judaism",
-        "society_and_culture",
-        "toys",
-        "celebrations",
-        "traditions",
-        "religion"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6396ecaa6017b1e8e09020cf",
-      "correctAnswer": "Khao Soi",
-      "incorrectAnswers": [
-        "Toad in the Hole",
-        "Kentucky Fried Chicken",
-        "Chicken Tikka Masala"
-      ],
-      "question": {
-        "text": "Which of these dishes is most commonly found in Northern regions of Thailand?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food",
-        "geography ",
-        "thailand",
-        "southeast_asia"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6477ba9d550bc819ad646ae8",
-      "correctAnswer": "Manscaping",
-      "incorrectAnswers": [
-        "Bodyculture",
-        "Topihairy",
-        "Guydening"
-      ],
-      "question": {
-        "text": "What is the slang term for removing body hair from men?"
-      },
-      "tags": [
-        "words",
-        "society_and_culture",
-        "slang"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fb8c",
-      "correctAnswer": "\"In da Club\" by 50 Cent",
-      "incorrectAnswers": [
-        "\"All Star\" by Smash Mouth",
-        "\"Gimme More\" by Britney Spears",
-        "\"I Write Sins Not Tragedies\" by Panic! at the Disco"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"Go shawty, it's your birthday, we gon' party like it's yo birthday.\"?"
-      },
-      "tags": [
-        "songs",
-        "lyrics",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64746b395a4c31088dd9d027",
-      "correctAnswer": "A mummy",
-      "incorrectAnswers": [
-        "A zombie",
-        "A skeleton",
-        "A vampire"
-      ],
-      "question": {
-        "text": "What is the name of the bandaged walking dead often seen during Halloween, whose name comes from the Persian word for 'wax'?"
-      },
-      "tags": [
-        "halloween",
-        "words",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515e9",
-      "correctAnswer": "Kosher ",
-      "incorrectAnswers": [
-        "Deli",
-        "Vegan",
-        "Halal"
-      ],
-      "question": {
-        "text": "Food that is permitted to be eaten under Jewish dietary laws is known as what?"
-      },
-      "tags": [
-        "food",
-        "judaism",
-        "religion",
-        "words",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262afaf4b176d54800e3dd7",
-      "correctAnswer": "Direct Message",
-      "incorrectAnswers": [
-        "Double Meaning",
-        "Do Me",
-        "Dire Mood"
-      ],
-      "question": {
-        "text": "If someone typed the letters 'DM' in a message, what would they mean?"
-      },
-      "tags": [
-        "the_internet",
-        "initials",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "626288a14b176d54800e3daa",
-      "correctAnswer": "They're GR-R-R-reat!",
-      "incorrectAnswers": [
-        "A glass and a half in every half pound",
-        "Finger lickin' good",
-        "Breakfast of Champions"
-      ],
-      "question": {
-        "text": "What is the marketing slogan of Kelloggs Frosties?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "food",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502a0",
-      "correctAnswer": "Dr Pepper ",
-      "incorrectAnswers": [
-        "Lucozade",
-        "Tango",
-        "Sunny Delight"
-      ],
-      "question": {
-        "text": "What soft drink is advertised with the slogan, \"What's the worst that could happen\"?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c60b150d1a5e051325a6d",
-      "correctAnswer": "Pizza",
-      "incorrectAnswers": [
-        "Dim Sum",
-        "Cou Cou and Flying Fish",
-        "Kabuli Pulao"
-      ],
-      "question": {
-        "text": "Which of these dishes would you most expect to find in Italy?"
-      },
-      "tags": [
-        "food",
+        "fictitious_characters",
+        "film",
         "general_knowledge",
-        "italy",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056e8c7a97013de78b530a",
-      "correctAnswer": "Climax",
-      "incorrectAnswers": [
-        "Denouement",
-        "Rising action",
-        "Exposition"
-      ],
-      "question": {
-        "text": "What is the term for the turning point of the action in the plot of a play or story?"
-      },
-      "tags": [
-        "literature",
-        "drama",
-        "plot"
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -339,19 +110,17 @@
     },
     {
       "category": "food_and_drink",
-      "id": "646140784d46e537ca8cd9c8",
-      "correctAnswer": "Peanuts",
+      "id": "622a1c367cc59eab6f950214",
+      "correctAnswer": "Roald Dahl ",
       "incorrectAnswers": [
-        "Lentils",
-        "Black beans",
-        "Chickpeas"
+        "Charles Dickens",
+        "Jacqueline Wilson",
+        "Morgan Scott"
       ],
       "question": {
-        "text": "Which of these is a major food allergen?"
+        "text": "Who wrote the book Charlie and the Chocolate Factory?"
       },
       "tags": [
-        "nutrition",
-        "food",
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -360,62 +129,16 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c3d7cc59eab6f951cba",
-      "correctAnswer": "A Partridge In A Pear Tree",
-      "incorrectAnswers": [
-        "5 Gold Rings",
-        "A Turtle Dove",
-        "True Love"
-      ],
-      "question": {
-        "text": "What did 'my true love give to me' on the first day of Christmas?"
-      },
-      "tags": [
-        "christmas",
-        "lyrics",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64746b6f5a4c31088dd9d054",
-      "correctAnswer": "Think Different",
-      "incorrectAnswers": [
-        "Just Do It",
-        "I'm Lovin' It",
-        "Got Milk?"
-      ],
-      "question": {
-        "text": "After rejoining Apple in 1997, Steve Jobs engineered what ad campaign?"
-      },
-      "tags": [
-        "advertising",
-        "technology",
-        "business",
-        "marketing",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fe7a",
-      "correctAnswer": "Lady Gaga",
+      "id": "622a1c357cc59eab6f94ff2d",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
-        "Hikaru Utada",
-        "Drake",
-        "Madonna"
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "Which American singer, songwriter, and actress released the song 'Just Dance'?"
+        "text": "Who sung the song 'Smooth Criminal'?"
       },
       "tags": [
         "songs",
@@ -429,20 +152,62 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c3c7cc59eab6f951954",
-      "correctAnswer": "Pigs in blankets",
+      "category": "history",
+      "id": "622a1c3b7cc59eab6f95177f",
+      "correctAnswer": "The Mongols",
       "incorrectAnswers": [
-        "Little weiners",
-        "Swine rolls",
-        "Porkos"
+        "The Huns",
+        "The Parthians",
+        "The Greeks"
       ],
       "question": {
-        "text": "What is the popular name for little baked sausages wrapped in rashers of streaky bacon?"
+        "text": "Which people were led by Genghis Khan?"
+      },
+      "tags": [
+        "people",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f952312",
+      "correctAnswer": "Stethoscope",
+      "incorrectAnswers": [
+        "MRI Scanner",
+        "Forceps",
+        "Insulin Pen"
+      ],
+      "question": {
+        "text": "What instrument do doctors often have around their necks?"
+      },
+      "tags": [
+        "medicine",
+        "general_knowledge",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f95164a",
+      "correctAnswer": "Lettuce",
+      "incorrectAnswers": [
+        "Egg",
+        "Tomato",
+        "Bread"
+      ],
+      "question": {
+        "text": " Iceberg, Boston, and Bibb are types of what?"
       },
       "tags": [
         "food",
-        "names",
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -452,22 +217,18 @@
     },
     {
       "category": "science",
-      "id": "645b4f1f067ef798d1455087",
-      "correctAnswer": "DNA",
+      "id": "62433548cfaae40c12961498",
+      "correctAnswer": "A Ram",
       "incorrectAnswers": [
-        "GCI",
-        "ATP",
-        "COD"
+        "A Jack",
+        "A Drake",
+        "A Rooster"
       ],
       "question": {
-        "text": "What is the abbreviation for the polymer that carries genetic instructions for living cells?"
+        "text": "What would you call a male sheep?"
       },
       "tags": [
-        "biology",
-        "chemistry",
-        "genetics",
-        "science",
-        "initials"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -475,21 +236,199 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "64626286ab138b829b81ea07",
-      "correctAnswer": "Javelin",
+      "category": "general_knowledge",
+      "id": "646089ddde964ebc39016c83",
+      "correctAnswer": "Mole",
       "incorrectAnswers": [
-        "Shot put",
-        "Discus",
-        "Hammer throw"
+        "Ferret",
+        "Rat",
+        "Squirrel"
       ],
       "question": {
-        "text": "Which Olympic sport involves throwing a spear?"
+        "text": "Which term describes a spy who operates within the intelligence service of another country?"
       },
       "tags": [
-        "athletics",
-        "olympics",
-        "sport"
+        "espionage",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056e837a97013de78b52fd",
+      "correctAnswer": "Anglo-Saxons",
+      "incorrectAnswers": [
+        "Egyptians",
+        "Mongols",
+        "Berbers"
+      ],
+      "question": {
+        "text": "Which of these peoples lived in England during the early Middle Ages?"
+      },
+      "tags": [
+        "history",
+        "medieval",
+        "british history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "64746317bda4b199c327d0ca",
+      "correctAnswer": "Parcel",
+      "incorrectAnswers": [
+        "Postal",
+        "Pound",
+        "Pouch"
+      ],
+      "question": {
+        "text": "What is the \"P\" in UPS, the world's largest package delivery company?"
+      },
+      "tags": [
+        "companies",
+        "initials",
+        "business",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63b0586e4799123c67712f28",
+      "correctAnswer": "Spanish",
+      "incorrectAnswers": [
+        "English",
+        "French",
+        "Portuguese"
+      ],
+      "question": {
+        "text": "What language is most widely spoken in Mexico?"
+      },
+      "tags": [
+        "mexico",
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6476390cf05ea6d6f587a17f",
+      "correctAnswer": "Eve",
+      "incorrectAnswers": [
+        "Rachel",
+        "Miriam",
+        "Sarah"
+      ],
+      "question": {
+        "text": "In the Bible, who was Adam's wife?"
+      },
+      "tags": [
+        "bible",
+        "christianity",
+        "society_and_culture",
+        "religion"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "64fb150b717513cb79190392",
+      "correctAnswer": "Gravy",
+      "incorrectAnswers": [
+        "Salt",
+        "Bread",
+        "Cheese"
+      ],
+      "question": {
+        "text": "On a dinner table, what item might served in a 'boat'?"
+      },
+      "tags": [
+        "food_and_drink",
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "626288b34b176d54800e3daf",
+      "correctAnswer": "Guinness",
+      "incorrectAnswers": [
+        "Stella Artois",
+        "Budweiser",
+        "Fosters"
+      ],
+      "question": {
+        "text": "Which beer brand is associated with the marketing slogan 'Good things come to those who wait'?"
+      },
+      "tags": [
+        "business",
+        "marketing",
+        "drink",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6462628bab138b829b81ea25",
+      "correctAnswer": "Transylvania",
+      "incorrectAnswers": [
+        "Moldova",
+        "Dobruja",
+        "Banat"
+      ],
+      "question": {
+        "text": "What is the name of the Romanian region that is known for vampire legends?"
+      },
+      "tags": [
+        "romania",
+        "vampires",
+        "geography",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9fcd796f721e95543fb8",
+      "correctAnswer": "Blue with a yellow cross extending to the edges.",
+      "incorrectAnswers": [
+        "Red with a white crescent moon and star.",
+        "Three equal horizontal bands of red blue and orange.",
+        "Red with a black two headed eagle in the center."
+      ],
+      "question": {
+        "text": "What does the flag of Sweden look like?"
+      },
+      "tags": [
+        "flags",
+        "europe",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -498,15 +437,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "63a03970c7d86251f9b65c59",
-      "correctAnswer": "Hey Diddle Diddle",
+      "id": "63a0399ac7d86251f9b65c8d",
+      "correctAnswer": "Little Red Riding Hood",
       "incorrectAnswers": [
-        "Humpty Dumpty",
+        "Hey Diddle Diddle",
         "Mary Had a Little Lamb",
         "Baa Baa Black Sheep"
       ],
       "question": {
-        "text": "What nursery rhyme includes a cow jumping over the moon?"
+        "text": "What nursery rhyme is about a girl who went to the woods?"
       },
       "tags": [
         "arts_and_literature",
@@ -518,89 +457,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d02",
-      "correctAnswer": "The Beatles",
-      "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Uriah Heep"
-      ],
-      "question": {
-        "text": "Which English rock band released the song 'Yellow Submarine'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "631e50a1a11f90a3bf2a3bf9",
-      "correctAnswer": "Green",
-      "incorrectAnswers": [
-        "Red",
-        "Blue",
-        "Purple"
-      ],
-      "question": {
-        "text": "What colour is wasabi?"
-      },
-      "tags": [
-        "food",
-        "colours",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "6462628cab138b829b81ea35",
-      "correctAnswer": "The Moon",
+      "id": "622a1c3e7cc59eab6f9522ad",
+      "correctAnswer": "1 Year",
       "incorrectAnswers": [
-        "The Sun",
-        "Halley's Comet",
-        "Mars"
+        "1 Day",
+        "28 Days",
+        "1 Month"
       ],
       "question": {
-        "text": "What celestial object was the first for humankind to set foot on?"
+        "text": "How long does it take for the Earth to orbit the Sun?"
       },
       "tags": [
+        "science",
         "astronomy",
-        "space",
-        "the_space_race",
-        "space_exploration",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fea3",
-      "correctAnswer": "Elton John",
-      "incorrectAnswers": [
-        "Eric Clapton",
-        "Paul McCartney",
-        "Sting"
-      ],
-      "question": {
-        "text": "Which English singer-songwriter released the song 'Rocket Man'?"
-      },
-      "tags": [
-        "songs",
-        "musicians",
-        "people",
-        "general_knowledge",
-        "music"
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -609,19 +480,20 @@
     },
     {
       "category": "history",
-      "id": "639ae2d7929b90846f2fc8bb",
-      "correctAnswer": "Raiding",
+      "id": "639895755c9a75021f310457",
+      "correctAnswer": "The Steam Engine",
       "incorrectAnswers": [
-        "Exploration",
-        "Migration",
-        "Trade"
+        "Electricity",
+        "The Wheel",
+        "The Printing Press"
       ],
       "question": {
-        "text": "What is the name of the Viking practice of sailing off to unknown lands in search of riches and glory?"
+        "text": "What 18th century invention was considered to be one of the foundations of the Industrial Revolution?"
       },
       "tags": [
         "history",
-        "vikings"
+        "1700's",
+        "inventions"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -629,19 +501,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95010b",
-      "correctAnswer": "Atlantis",
+      "category": "geography",
+      "id": "62602db94b176d54800e3ca9",
+      "correctAnswer": "United Kingdom",
       "incorrectAnswers": [
-        "Gondwana",
-        "Pangea",
-        "Europa"
+        "United States",
+        "New Zealand",
+        "Ireland"
       ],
       "question": {
-        "text": "Which ancient continent is said to be submerged?"
+        "text": "In which country is the city of Edinburgh?"
       },
       "tags": [
-        "society_and_culture"
+        "cities",
+        "europe",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -650,21 +524,126 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fadd",
-      "correctAnswer": "Tom Hanks",
+      "id": "622a1c347cc59eab6f94f90c",
+      "correctAnswer": "The Lord of the Rings",
       "incorrectAnswers": [
-        "Morgan Freeman",
-        "Nigel Hawthorne",
-        "Paul Newman"
+        "The Searchers",
+        "Ghost",
+        "My Favorite Year"
       ],
       "question": {
-        "text": "Who won the 1994 Academy Award for Best Leading Actor for playing the role of Forrest Gump in Forrest Gump?"
+        "text": "Which film contains the character 'Gollum'?"
       },
       "tags": [
-        "academy_awards",
-        "acting",
+        "fictitious_characters",
         "film",
         "general_knowledge",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623740e7cb85f7ce9e949d2e",
+      "correctAnswer": "Tokyo",
+      "incorrectAnswers": [
+        "Osaka",
+        "Okinawa",
+        "Shanghai"
+      ],
+      "question": {
+        "text": "What is the capital city of Japan?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f8c3d2f5c16bfb88334",
+      "correctAnswer": "The crew of a spacecraft encounter a deadly lifeform after investigating a transmission.",
+      "incorrectAnswers": [
+        "The life of the lawyer who became the famed leader of the Indian revolts against the British rule.",
+        "An insurance representative lets a housewife seduce him into a scheme of insurance fraud and murder.",
+        "After the death of a tycoon, reporters scramble to uncover the meaning of his final utterance."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Alien?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "63a0397ec7d86251f9b65c6b",
+      "correctAnswer": "Scrabble",
+      "incorrectAnswers": [
+        "Risk",
+        "Chess",
+        "Monopoly"
+      ],
+      "question": {
+        "text": "What is the name of the classic board game where players must spell words with tiles?"
+      },
+      "tags": [
+        "board_games"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "639c9d9a929b90846f2fc965",
+      "correctAnswer": "Shari'a",
+      "incorrectAnswers": [
+        "Halakha",
+        "Karma",
+        "Dharma"
+      ],
+      "question": {
+        "text": "What is the name of the Islamic law?"
+      },
+      "tags": [
+        "islam",
+        "religion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63d95303168979b94b2e4f79",
+      "correctAnswer": "The Simpsons",
+      "incorrectAnswers": [
+        "South Park",
+        "Family Guy",
+        "SpongeBob SquarePants"
+      ],
+      "question": {
+        "text": "Which iconic  animated sitcom includes a teenage boy named Bart?"
+      },
+      "tags": [
+        "cartoons",
+        "sitcoms",
+        "tv",
         "film_and_tv"
       ],
       "type": "text_choice",
