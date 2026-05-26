@@ -1,67 +1,22 @@
 {
-  "gameDate": "2026-05-25",
+  "gameDate": "2026-05-26",
   "difficulty": "easy",
   "results": [
     {
-      "category": "science",
-      "id": "6505702d7a97013de78b554c",
-      "correctAnswer": "4",
-      "incorrectAnswers": [
-        "5",
-        "6",
-        "7"
-      ],
-      "question": {
-        "text": "How many prime numbers are there between 1 and 10 inclusive?"
-      },
-      "tags": [
-        "math",
-        "numbers"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602d2f4b176d54800e3c85",
-      "correctAnswer": "Italy",
-      "incorrectAnswers": [
-        "Lithuania",
-        "Sweden",
-        "Serbia"
-      ],
-      "question": {
-        "text": "Milan is a city in which country?"
-      },
-      "tags": [
-        "cities",
-        "europe",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "general_knowledge",
-      "id": "6462624dab138b829b81e9f0",
-      "correctAnswer": "Lingerie",
+      "id": "65056f947a97013de78b547a",
+      "correctAnswer": "Dam",
       "incorrectAnswers": [
-        "Corsetry",
-        "Foundation garments",
-        "Intimates"
+        "Clam",
+        "Scam",
+        "Lamb"
       ],
       "question": {
-        "text": "What is the fancy name for women's underwear, which is derived from a French word?"
+        "text": "What is a barrier that blocks flowing water?"
       },
       "tags": [
-        "clothing",
-        "fashion",
-        "words"
+        "words",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -69,20 +24,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d5a",
-      "correctAnswer": "Simon & Garfunkel",
+      "category": "food_and_drink",
+      "id": "63f39502989356ef48370be1",
+      "correctAnswer": "Apple",
       "incorrectAnswers": [
-        "MercyMe",
-        "Three 6 Mafia",
-        "The Velvet Underground"
+        "Mango",
+        "Papaya",
+        "Pineapple"
       ],
       "question": {
-        "text": "Which band includes 'Paul Simon'?"
+        "text": "Which of these fruits is not a tropical fruit?"
       },
       "tags": [
-        "people",
-        "music"
+        "food_and_drink",
+        "food",
+        "fruit"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -90,22 +46,88 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c357cc59eab6f94fc52",
-      "correctAnswer": "\"Bond. James Bond.\"",
+      "category": "science",
+      "id": "63d95321168979b94b2e4fa3",
+      "correctAnswer": "Charles Darwin",
       "incorrectAnswers": [
-        "\"What we've got here is failure to communicate.\"",
-        "\"Sawyer, you're going out a youngster, but you've t to come back a star!\"",
-        "\"Well, I don’t want to survive. I want to live.\""
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Dr. No'?"
+        "text": "Who developed the theory of evolution by natural selection?"
       },
       "tags": [
-        "quotes",
-        "film",
-        "general_knowledge",
-        "film_and_tv"
+        "science",
+        "scientific_discoveries"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3c7cc59eab6f951889",
+      "correctAnswer": "Apples",
+      "incorrectAnswers": [
+        "Bananas",
+        "Cherries",
+        "Carrots"
+      ],
+      "question": {
+        "text": "What Would You Traditionally 'Bob' For At Halloween?"
+      },
+      "tags": [
+        "halloween",
+        "traditions",
+        "food",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "645b9ebcf09106226db23571",
+      "correctAnswer": "Spinach",
+      "incorrectAnswers": [
+        "Kale",
+        "Broccoli",
+        "Cabbage"
+      ],
+      "question": {
+        "text": "Which vegetable did Popeye love to eat from a can?"
+      },
+      "tags": [
+        "nutrition",
+        "vegetables",
+        "food_and_drink",
+        "food",
+        "cartoons"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510c8",
+      "correctAnswer": "Reptiles",
+      "incorrectAnswers": [
+        "Mammals",
+        "Amphibians",
+        "Lizards"
+      ],
+      "question": {
+        "text": "Marine iguanas, saltwater crocodiles, sea snakes, and sea turtles are the only surviving seawater __________"
+      },
+      "tags": [
+        "animals",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -114,63 +136,82 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "65056f887a97013de78b546a",
-      "correctAnswer": "Macbeth",
-      "incorrectAnswers": [
-        "Tristram Shandy",
-        "Twilight",
-        "Ivanhoe"
-      ],
-      "question": {
-        "text": "Which of these is a play by Shakespeare?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "theater",
-        "shakespeare"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573fa09da29df7b05f73a7",
-      "correctAnswer": "The Lion King",
-      "incorrectAnswers": [
-        "The Wizard of Oz",
-        "Joker",
-        "Rear Window"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'Simba and his father are targeted by his uncle, who wants to ascend the throne himself.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056eae7a97013de78b533a",
+      "id": "65056e967a97013de78b5318",
       "correctAnswer": "Vincent van Gogh",
       "incorrectAnswers": [
-        "Pierre-Auguste Renoir",
-        "Georges Seurat",
-        "Edvard Munch"
+        "Claude Monet",
+        "Johannes Vermeer",
+        "Egon Schiele"
       ],
       "question": {
-        "text": "Who painted \"Self-Portrait with Bandaged Ear\"?"
+        "text": "Who painted \"The Starry Night\" in 1889?"
       },
       "tags": [
         "arts_and_literature",
         "painting",
-        "artists"
+        "post-impressionism"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625741159da29df7b05f740b",
+      "correctAnswer": "A prince cursed to spend his days as a monster sets out to regain his humanity.",
+      "incorrectAnswers": [
+        "A paleontologist is tasked with protecting two children when cloned dinosaurs are set free.",
+        "The son of a former boxer is trained by his father for a mixed martial arts tournament.",
+        "A young F.B.I. cadet must receive the help of a cannibal to help catch another serial killer."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Beauty and the Beast?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6477bad7550bc819ad646b2c",
+      "correctAnswer": "A penalty kick",
+      "incorrectAnswers": [
+        "A free kick",
+        "An own goal",
+        "A red card"
+      ],
+      "question": {
+        "text": "What event occurs in soccer when a defender commits a foul in their own penalty area?"
+      },
+      "tags": [
+        "soccer",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6384b44183dddfb71ee5e36a",
+      "correctAnswer": "American Football",
+      "incorrectAnswers": [
+        "Horse Racing",
+        "Tennis",
+        "Cycling"
+      ],
+      "question": {
+        "text": "Which sport is played at The Super Bowl?"
+      },
+      "tags": [
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -179,19 +220,18 @@
     },
     {
       "category": "science",
-      "id": "650570267a97013de78b5543",
-      "correctAnswer": "Venus flytrap",
+      "id": "624334dfcfaae40c1296146f",
+      "correctAnswer": "An Owlet",
       "incorrectAnswers": [
-        "Alder",
-        "Nightshade",
-        "Cabbage"
+        "A Caterpillar",
+        "A Codling",
+        "A Colt"
       ],
       "question": {
-        "text": "Which of these plants is carnivorous?"
+        "text": "What would you call a baby owl?"
       },
       "tags": [
-        "science",
-        "botany"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -199,19 +239,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "65056e897a97013de78b5305",
-      "correctAnswer": "Ships",
+      "category": "science",
+      "id": "6243334fcfaae40c129613d3",
+      "correctAnswer": "A Caterpillar",
       "incorrectAnswers": [
-        "Planes",
-        "Balloons",
-        "Trucks"
+        "A Codling",
+        "A Chick",
+        "A Spiderling"
       ],
       "question": {
-        "text": "What did the Spanish Armada consist of?"
+        "text": "A young butterfly is known as what?"
       },
       "tags": [
-        "history"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -220,15 +260,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "69a561aa9bec059be77ab9a2",
-      "correctAnswer": "Snow White",
+      "id": "69a561ae6e10e90bb9969bf8",
+      "correctAnswer": "Jack",
       "incorrectAnswers": [
-        "Cinderella",
-        "Goldilocks",
-        "Little Red Riding Hood"
+        "Hansel",
+        "Tom Thumb",
+        "Peter"
       ],
       "question": {
-        "text": "Which tale features a girl who lives with seven dwarfs?"
+        "text": "What small character outwits a giant in many stories and is known for cleverness?"
       },
       "tags": [],
       "type": "text_choice",
@@ -238,178 +278,21 @@
     },
     {
       "category": "science",
-      "id": "63f39503989356ef48370be5",
-      "correctAnswer": "The Moon",
+      "id": "6463395501d576cfac3aa34f",
+      "correctAnswer": "Palm tree",
       "incorrectAnswers": [
-        "Mars",
-        "Jupiter",
-        "Mercury"
+        "Maple tree",
+        "Birch tree",
+        "Fir tree"
       ],
       "question": {
-        "text": "Which of the following is not a planet?"
+        "text": "What type of tree do both dates and coconuts come from?"
       },
       "tags": [
-        "science",
-        "space",
-        "the_solar_system",
-        "astrophysics"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd6a",
-      "correctAnswer": "Michael Jackson",
-      "incorrectAnswers": [
-        "Elton John",
-        "Usher",
-        "Kylie Minogue"
-      ],
-      "question": {
-        "text": "Whose Autobiography Was Entitled 'Moonwalk'?"
-      },
-      "tags": [
-        "people",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9e18796f721e95543f3e",
-      "correctAnswer": "White",
-      "incorrectAnswers": [
-        "Maroon",
-        "Orange",
-        "Gold"
-      ],
-      "question": {
-        "text": "Which of these colors is included on the flag of Canada?"
-      },
-      "tags": [
-        "flags",
-        "canada",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056e397a97013de78b5296",
-      "correctAnswer": "Grapes",
-      "incorrectAnswers": [
-        "Apples",
-        "Cherries",
-        "Dates"
-      ],
-      "question": {
-        "text": "Which fruit is typically used to make wine?"
-      },
-      "tags": [
-        "food_and_drink",
-        "wine",
-        "drink",
-        "alcohol",
-        "fruit"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056eb07a97013de78b533c",
-      "correctAnswer": "Hamlet",
-      "incorrectAnswers": [
-        "Escalus",
-        "Exeter",
-        "Julius Caesar"
-      ],
-      "question": {
-        "text": "Which Shakespeare character says, \"To be or not to be, that is the question\"?"
-      },
-      "tags": [
-        "Shakespeare",
-        "plays",
-        "literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624dba1fde6018633d31f6b5",
-      "correctAnswer": "Daniel Craig",
-      "incorrectAnswers": [
-        "George Lazenby",
-        "Roger Moore",
-        "Sean Connery"
-      ],
-      "question": {
-        "text": "Who played the role of James Bond in Casino Royale?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "639c9da7929b90846f2fc981",
-      "correctAnswer": "Paris",
-      "incorrectAnswers": [
-        "London",
-        "New York City",
-        "Rome"
-      ],
-      "question": {
-        "text": "The Louvre is an iconic museum in what city?"
-      },
-      "tags": [
-        "architecture",
-        "geography",
-        "buildings",
-        "tourist_attractions",
-        "museums",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570397a97013de78b555d",
-      "correctAnswer": "Green leaf",
-      "incorrectAnswers": [
-        "Brown bark",
-        "Red flower",
-        "Juicy fruit"
-      ],
-      "question": {
-        "text": "What does the word \"chlorophyll\" mean in its Greek origin?"
-      },
-      "tags": [
+        "plants",
+        "trees",
+        "agriculture",
+        "fruit",
         "science"
       ],
       "type": "text_choice",
@@ -418,86 +301,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "64dfa27da6681754ea052ba6",
-      "correctAnswer": "The Himalayas",
+      "category": "general_knowledge",
+      "id": "645c9f5342ea81e2554c5f0d",
+      "correctAnswer": "a foot",
       "incorrectAnswers": [
-        "The Alps",
-        "The Rockies",
-        "The Andes"
+        "a hand",
+        "an ear",
+        "a nose"
       ],
       "question": {
-        "text": "Which mountain system was formed by the collision of the Eurasian and Indian tectonic plates?"
+        "text": "What body part are you said to have 'in the door' if you're lucky, and 'in the grave' if you're not?"
       },
       "tags": [
-        "mountains",
-        "geology",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "645b69d8f09106226db23564",
-      "correctAnswer": "Winnie-the-Pooh",
-      "incorrectAnswers": [
-        "The Wind in the Willows",
-        "Alice in Wonderland",
-        "Peter Pan"
-      ],
-      "question": {
-        "text": "In what book does Tigger make his first appearance in a location called 'Hundred Acre Wood'?"
-      },
-      "tags": [
-        "childrens_literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "64e6fd9b0b79e5bedd55c8c5",
-      "correctAnswer": "Nelson Mandela",
-      "incorrectAnswers": [
-        "Barack Obama",
-        "Mahatma Gandhi",
-        "Winston Churchill"
-      ],
-      "question": {
-        "text": "In 2009, which world leader was portrayed on-screen by Morgan Freeman?"
-      },
-      "tags": [
-        "movies",
-        "actors",
-        "world leaders"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950467",
-      "correctAnswer": "Viruses",
-      "incorrectAnswers": [
-        "Wine",
-        "Parasites",
-        "The therapeutic use of plants"
-      ],
-      "question": {
-        "text": "What is Virology the study of?"
-      },
-      "tags": [
-        "words",
-        "science"
+        "idioms",
+        "sayings"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -506,21 +323,19 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "64824e287778562fd76a9602",
-      "correctAnswer": "Shadowboxing",
+      "id": "622a1c347cc59eab6f94f89d",
+      "correctAnswer": "Cricket",
       "incorrectAnswers": [
-        "Make-believe boxing",
-        "Doxing",
-        "Ghostboxing"
+        "Volleyball",
+        "Badminton",
+        "Ice Hockey"
       ],
       "question": {
-        "text": "What is the term used when a boxer practices fighting against an imaginary opponent?"
+        "text": "With which sport is Shane Warne associated?"
       },
       "tags": [
-        "boxing",
-        "martial_arts",
-        "sport",
-        "words"
+        "people",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -528,44 +343,22 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "625e9e14796f721e95543f3d",
-      "correctAnswer": "Two vertical bands of red with white square between them containing a red leaf.",
+      "category": "science",
+      "id": "6242cb59d543524f1b19c925",
+      "correctAnswer": "A pride",
       "incorrectAnswers": [
-        "Maroon with a broad white serrated band on the left side.",
-        "Green, with large white script and a sword.",
-        "Red with a white cross that extends to the edges."
+        "A muster",
+        "A clowder",
+        "A shrewdness"
       ],
       "question": {
-        "text": "What does the flag of Canada look like?"
+        "text": "What is the word for a group of lions?"
       },
       "tags": [
-        "flags",
-        "canada",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbde",
-      "correctAnswer": "\"Very nice!\"",
-      "incorrectAnswers": [
-        "\"I'm walking here! I'm walking here!\"",
-        "\"The stuff that dreams are made of.\"",
-        "\"A martini. Shaken, not stirred.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Borat'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
+        "words",
+        "animals",
         "general_knowledge",
-        "film_and_tv"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -573,23 +366,22 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9507c7",
-      "correctAnswer": "Harrison Ford",
+      "category": "science",
+      "id": "6463394601d576cfac3aa330",
+      "correctAnswer": "Clotting",
       "incorrectAnswers": [
-        "Mark Hamill",
-        "Brad Pitt",
-        "Pedro Pascal"
+        "Pasteurization",
+        "Filtration",
+        "Distillation"
       ],
       "question": {
-        "text": "Which actor originally played the role of Han Solo in Star Wars?"
+        "text": "What is the process by which both milk and blood can become semisolid?"
       },
       "tags": [
-        "star_wars",
-        "film",
-        "acting",
-        "general_knowledge",
-        "film_and_tv"
+        "biology",
+        "health",
+        "medicine",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -598,42 +390,17 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "63a03992c7d86251f9b65c84",
-      "correctAnswer": "Jack and Jill",
+      "id": "69a561aa2858226c00dd2f7f",
+      "correctAnswer": "Cinderella",
       "incorrectAnswers": [
-        "Hey Diddle Diddle",
-        "Mary Had a Little Lamb",
-        "Girls and Boys Come Out To Play"
+        "Snow White",
+        "Sleeping Beauty",
+        "Rapunzel"
       ],
       "question": {
-        "text": "What nursery rhyme is about a couple who climbed a hill?"
+        "text": "Who loses a glass slipper at a royal ball?"
       },
-      "tags": [
-        "arts_and_literature",
-        "nursery_rhymes"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc31",
-      "correctAnswer": "\"It's alive! It's alive!\"",
-      "incorrectAnswers": [
-        "\"Stella! Hey, Stella!\"",
-        "\"My precious...\"",
-        "\"I'm walkin' here!\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Frankenstein'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
+      "tags": [],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
@@ -641,23 +408,231 @@
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f9518d6",
-      "correctAnswer": "The Prohibition",
+      "id": "65056eb37a97013de78b5340",
+      "correctAnswer": "Karl Marx",
       "incorrectAnswers": [
-        "The Dry Spell",
-        "The Dark Days",
-        "The Moonshine"
+        "Friedrich Engels",
+        "Vladimir Lenin",
+        "Adam Smith"
       ],
       "question": {
-        "text": "What Name Was Given To The Period From 1919 To 1933 When Alcohol Was Banned In The USA?"
+        "text": "Who is the author of the book \"Das Kapital\"?"
+      },
+      "tags": [
+        "history",
+        "politics",
+        "economics"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "65056e2c7a97013de78b5284",
+      "correctAnswer": "Paris",
+      "incorrectAnswers": [
+        "Vienna",
+        "Rome",
+        "Madrid"
+      ],
+      "question": {
+        "text": "In which city is the Notre-Dame Cathedral located?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "architecture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f96",
+      "correctAnswer": "William Shakespeare",
+      "incorrectAnswers": [
+        "Arthur C. Clarke",
+        "Isaac Newton",
+        "Enid Blyton"
+      ],
+      "question": {
+        "text": "Which author wrote 'A Midsummer Night's Dream'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63bc3f9c0e893d6e5a6a0fc5",
+      "correctAnswer": "Hippie",
+      "incorrectAnswers": [
+        "Grunge",
+        "Gothic",
+        "Preppy"
+      ],
+      "question": {
+        "text": "What is the name of the fashion trend popularized in the 1960s that involves wearing bright colors and psychedelic patterns?"
+      },
+      "tags": [
+        "society_and_culture",
+        "fashion",
+        "1960's"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6239f843a72e7a347ac879da",
+      "correctAnswer": "Yankee",
+      "incorrectAnswers": [
+        "Yearly",
+        "Yum",
+        "Yurt"
+      ],
+      "question": {
+        "text": "What word is used in the NATO Phonetic Alphabet for the letter Y?"
       },
       "tags": [
         "words",
-        "1920's",
-        "usa",
-        "drink",
-        "history"
+        "language",
+        "general_knowledge"
       ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f95018c",
+      "correctAnswer": "Romeo and Juliet",
+      "incorrectAnswers": [
+        "Othello",
+        "Hamlet",
+        "King Lear"
+      ],
+      "question": {
+        "text": "What shakespearean play features the line: \"A plague on both your houses\"?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8a8",
+      "correctAnswer": "Golf",
+      "incorrectAnswers": [
+        "Table tennis",
+        "Swimming",
+        "Rowing"
+      ],
+      "question": {
+        "text": "With which sport is Tiger Woods associated?"
+      },
+      "tags": [
+        "people",
+        "general_knowledge",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ebc77f41d6338b96eebf",
+      "correctAnswer": "Christopher Columbus",
+      "incorrectAnswers": [
+        "Napoleon Bonaparte",
+        "Martin Luther",
+        "Marco Polo"
+      ],
+      "question": {
+        "text": "Which of these people was an Italian explorer who landed in America?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture",
+        "exploration"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f950161",
+      "correctAnswer": "J.R.R. Tolkien",
+      "incorrectAnswers": [
+        "Roald Dahl",
+        "George R.R. Martin",
+        "Brandon Sanderson"
+      ],
+      "question": {
+        "text": "Who wrote \"The Hobbit\"?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f95012c",
+      "correctAnswer": "December",
+      "incorrectAnswers": [
+        "September",
+        "April",
+        "November"
+      ],
+      "question": {
+        "text": "In what month is Christmas observed?"
+      },
+      "tags": [
+        "christmas",
+        "general_knowledge",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "69a43d87e6e1ab72dd3a5556",
+      "correctAnswer": "Vincent van Gogh",
+      "incorrectAnswers": [
+        "Salvador Dalí",
+        "Henri Matisse",
+        "Georgia O'Keeffe"
+      ],
+      "question": {
+        "text": "Which painter is famous for sunflowers and starry night scenes?"
+      },
+      "tags": [],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],

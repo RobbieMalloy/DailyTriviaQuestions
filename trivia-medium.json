@@ -1,22 +1,88 @@
 {
-  "gameDate": "2026-05-25",
+  "gameDate": "2026-05-26",
   "difficulty": "medium",
   "results": [
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950052",
-      "correctAnswer": "George Foreman",
+      "category": "history",
+      "id": "65056ea67a97013de78b532e",
+      "correctAnswer": "Soviet Union",
       "incorrectAnswers": [
-        "Joe Frazier",
-        "Wilfredo Gomez",
-        "Roberto Duran"
+        "France",
+        "Mexico",
+        "Brazil"
       ],
       "question": {
-        "text": "Who Did Muhammed Ali Fight In 'The Rumble In The Jungle''?"
+        "text": "With what country did the US almost start a war during the Cuban Missile Crisis?"
       },
       "tags": [
-        "boxing",
-        "events",
+        "history",
+        "usa"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503f8",
+      "correctAnswer": "Hoover",
+      "incorrectAnswers": [
+        "Franklin",
+        "Roosevelt",
+        "Johnson"
+      ],
+      "question": {
+        "text": "U.S. President, Herbert C. _________."
+      },
+      "tags": [
+        "usa",
+        "presidents",
+        "people",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63e13a1b106de6ffa7d4a796",
+      "correctAnswer": "The 1963 assassination of President John F. Kennedy",
+      "incorrectAnswers": [
+        "The 1969 Manson Family murders",
+        "The 1974 abduction of heiress Patricia Hearst",
+        "The 1979 Jonestown mass suicide"
+      ],
+      "question": {
+        "text": "Which of the following famous criminal cases was solved by the use of ballistic evidence?"
+      },
+      "tags": [
+        "society_and_culture",
+        "crime"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950046",
+      "correctAnswer": "Jesse Owens",
+      "incorrectAnswers": [
+        "Carl Lewis",
+        "Bruce Jenner",
+        "Bob Beamon"
+      ],
+      "question": {
+        "text": "Who Was The First Athlete To Exceed a Distance Of Eight Metres In The Long Jump In 1935?"
+      },
+      "tags": [
+        "athletics",
+        "records",
+        "people",
         "sport"
       ],
       "type": "text_choice",
@@ -25,20 +91,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "6257407c9da29df7b05f73e1",
-      "correctAnswer": "The Truman Show",
+      "category": "science",
+      "id": "647c9855f89e0968cfbc1a23",
+      "correctAnswer": "The Common Cold",
       "incorrectAnswers": [
-        "Indiana Jones and the Last Crusade",
-        "The Matrix",
-        "The Batman"
+        "Cancer",
+        "Insomnia",
+        "Chronic fatigue"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'An insurance salesman discovers his whole life is actually a reality TV show.'"
+        "text": "According to the Centre for Disease Control, what condition is the main reason that children miss school and adults miss work?"
       },
       "tags": [
-        "film",
-        "film_and_tv"
+        "disease",
+        "society_and_culture",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -46,23 +113,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3c7cc59eab6f951807",
-      "correctAnswer": "The Boo Radleys",
+      "category": "general_knowledge",
+      "id": "645cb0e67d263fd509704394",
+      "correctAnswer": "Bazooka",
       "incorrectAnswers": [
-        "The Smiths",
-        "Deep Purple",
-        "Pink Floyd"
+        "Grenade",
+        "Mortar",
+        "HIMARS"
       ],
       "question": {
-        "text": "Which British alternative band takes its name from a character from To Kill a Mockingbird ?"
+        "text": "What is the name of the shoulder-held weapon used for firing armor-piercing rockets?"
       },
       "tags": [
-        "music",
-        "bands",
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
+        "weapons",
+        "military"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -70,42 +134,18 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "65056f5c7a97013de78b542c",
-      "correctAnswer": "France",
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950ad8",
+      "correctAnswer": "Finland",
       "incorrectAnswers": [
-        "Italy",
-        "The Netherlands",
-        "Austria"
+        "Poland",
+        "Lithuania",
+        "Latvia"
       ],
       "question": {
-        "text": "In which country can we find the Palace of Versailles?"
+        "text": "Which of these countries borders Sweden?"
       },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94feee",
-      "correctAnswer": "David Bowie",
-      "incorrectAnswers": [
-        "Eric Clapton",
-        "Madonna",
-        "Mika"
-      ],
-      "question": {
-        "text": "Which musician released the album '\"Heroes\"'?"
-      },
-      "tags": [
-        "music_albums",
-        "musicians",
-        "music"
-      ],
+      "tags": [],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
@@ -113,15 +153,15 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f95109c",
-      "correctAnswer": "Salt",
+      "id": "622a1c3a7cc59eab6f951069",
+      "correctAnswer": "Feet",
       "incorrectAnswers": [
-        "Sugar",
-        "Vinegar",
-        "Lemon Juice"
+        "Backs",
+        "Teeth",
+        "Knees"
       ],
       "question": {
-        "text": "What is the common name of the chemical compound sodium chloride?"
+        "text": "What Does A Chiropodist Treat"
       },
       "tags": [
         "science"
@@ -132,134 +172,18 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9518a7",
-      "correctAnswer": "Spanish Flu",
-      "incorrectAnswers": [
-        "Swine Flu",
-        "SARS",
-        "Coronavirus"
-      ],
-      "question": {
-        "text": "What was the name of the pandemic which killed over 1% of the world's population in 1918?"
-      },
-      "tags": [
-        "medicine",
-        "1910's",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "647129af64c916f9c84814b3",
-      "correctAnswer": "Monica and Ross",
-      "incorrectAnswers": [
-        "Rachel and Joey",
-        "Phoebe and Chandler",
-        "Monica and Chandler"
-      ],
-      "question": {
-        "text": "On the TV show Friends, which characters do Courtney Cox and David Schwimmer play?"
-      },
-      "tags": [
-        "acting",
-        "tv",
-        "film_and_tv",
-        "sitcoms",
-        "friends"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506e3",
-      "correctAnswer": "Gerard Butler",
-      "incorrectAnswers": [
-        "Hugh Jackman",
-        "Robert Redford",
-        "Jim Carrey"
-      ],
-      "question": {
-        "text": "Which actor has featured in films including 300 and James Bond: Tomorrow Never Dies?"
-      },
-      "tags": [
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62c2f9f5b3eadb0437fda6b4",
-      "correctAnswer": "Kangaroo",
-      "incorrectAnswers": [
-        "Panda",
-        "Eagle",
-        "Moose"
-      ],
-      "question": {
-        "text": "Which animal would you associate with the Qantas logo?"
-      },
-      "tags": [
-        "society_and_culture",
-        "business",
-        "marketing",
-        "animals",
-        "logos",
-        "symbols",
-        "aviation"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9de7796f721e95543f32",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Orange",
-        "Blue",
-        "White"
-      ],
-      "question": {
-        "text": "Which of these colors is included on the flag of Belgium?"
-      },
-      "tags": [
-        "flags",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c48",
-      "correctAnswer": "The Beach Boys",
+      "id": "622a1c397cc59eab6f950c16",
+      "correctAnswer": "Nirvana",
       "incorrectAnswers": [
-        "Swans",
+        "Counting Crows",
         "Three 6 Mafia",
         "The Velvet Underground"
       ],
       "question": {
-        "text": "Which American rock band released the song 'God Only Knows'?"
+        "text": "Which American rock band released the album 'In Utero'?"
       },
       "tags": [
-        "general_knowledge",
         "music"
       ],
       "type": "text_choice",
@@ -268,110 +192,19 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "64b5a8837282fc9eadbafd9a",
-      "correctAnswer": "Common-law",
-      "incorrectAnswers": [
-        "Civil",
-        "Religious",
-        "Arranged"
-      ],
-      "question": {
-        "text": "What is another name for an informal marriage that often comes with some level of legal recognition?"
-      },
-      "tags": [
-        "marriage",
-        "law",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950094",
-      "correctAnswer": "Let",
-      "incorrectAnswers": [
-        "Dus",
-        "Par",
-        "See"
-      ],
-      "question": {
-        "text": "What 3 Letter Word It The Name Given To A Replayed Point In Tennis?"
-      },
-      "tags": [
-        "tennis",
-        "sport",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "647f9ded3a4302a71927167c",
-      "correctAnswer": "Aung San Suu Kyi",
-      "incorrectAnswers": [
-        "Kim Jong-un",
-        "Ho Chi Minh",
-        "Xi Jinping"
-      ],
-      "question": {
-        "text": "Which political leader played a major role in Myanmar's transition from a military junta in the 2010s?"
-      },
-      "tags": [
-        "politics",
-        "history",
-        "people",
-        "2010's",
-        "asia",
-        "myanmar"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056f487a97013de78b5411",
-      "correctAnswer": "Indira Gandhi",
-      "incorrectAnswers": [
-        "Sarojini Naidu",
-        "Ratan Tata",
-        "Gauri Khan"
-      ],
-      "question": {
-        "text": "Who was the first female prime minister of India?"
-      },
-      "tags": [
-        "history",
-        "india",
-        "firsts",
-        "women"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "622a1c387cc59eab6f950811",
-      "correctAnswer": "Germany",
+      "id": "623741bbcb85f7ce9e949d84",
+      "correctAnswer": "Pyongyang",
       "incorrectAnswers": [
-        "Ireland",
-        "Kingdom of the Netherlands",
-        "Belgium"
+        "Bangui",
+        "Ouagadougou",
+        "Thimphu"
       ],
       "question": {
-        "text": "Which of these countries borders Denmark?"
+        "text": "What is the capital city of North Korea?"
       },
       "tags": [
+        "capital_cities",
         "geography"
       ],
       "type": "text_choice",
@@ -381,15 +214,120 @@
     },
     {
       "category": "film_and_tv",
-      "id": "62573f859da29df7b05f73a0",
-      "correctAnswer": "A leader tries to expand his empire while a poor barber tries to avoid persecution.",
+      "id": "622a1c3c7cc59eab6f95199a",
+      "correctAnswer": "OUTATIME",
       "incorrectAnswers": [
-        "Two men join in an uneasy alliance against a third to find gold buried in a remote cemetery.",
-        "A weatherman finds himself trapped in a small town as he lives the same day over and over again.",
-        "A surgeon rescues a disfigured man who is mistreated while scraping a living as a side-show freak."
+        "GOINBACK",
+        "SEEYAL8R",
+        "NOROADS"
       ],
       "question": {
-        "text": "What is the plot of the movie The Great Dictator?"
+        "text": "What was the license plate on the Delorean in Back To The Future?"
+      },
+      "tags": [
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510bf",
+      "correctAnswer": "Nine",
+      "incorrectAnswers": [
+        "Seven",
+        "Six",
+        "Eight"
+      ],
+      "question": {
+        "text": "How many planets are there in our solar system?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6477bad7550bc819ad646b29",
+      "correctAnswer": "Porridge",
+      "incorrectAnswers": [
+        "Muesli",
+        "Granola",
+        "Oatmeal"
+      ],
+      "question": {
+        "text": "What is the name of the breakfast dish that is made by boiling cereal?"
+      },
+      "tags": [
+        "breakfast",
+        "food",
+        "food_and_drink",
+        "cooking"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94febe",
+      "correctAnswer": "Beyoncé",
+      "incorrectAnswers": [
+        "Madonna",
+        "Drake",
+        "Nicki Minaj"
+      ],
+      "question": {
+        "text": "Which American singer released the song 'Drunk in Love'?"
+      },
+      "tags": [
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c609150d1a5e051325a64",
+      "correctAnswer": "Moussaka",
+      "incorrectAnswers": [
+        "Verivorst",
+        "Wiener Schnitzel",
+        "Chicken Adobo"
+      ],
+      "question": {
+        "text": "Which of these dishes is most associated with Greece?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573ffc9da29df7b05f73bb",
+      "correctAnswer": "Metropolis",
+      "incorrectAnswers": [
+        "The Lord of the Rings: The Fellowship of the Ring",
+        "The Lives of Others",
+        "The Departed"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'The son of a city's mastermind falls in love with a working-class prophet.'"
       },
       "tags": [
         "film",
@@ -401,19 +339,20 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "63a03977c7d86251f9b65c62",
-      "correctAnswer": "Clue",
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f950209",
+      "correctAnswer": "Ridley Scott",
       "incorrectAnswers": [
-        "Checkers",
-        "Backgammon",
-        "Scrabble"
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
       ],
       "question": {
-        "text": "What is the name of the classic board game where players must discover the circumstances of a murder?"
+        "text": "Which director directed Alien?"
       },
       "tags": [
-        "board_games"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -422,20 +361,108 @@
     },
     {
       "category": "history",
-      "id": "63adbd7304c68cc1e14b8e41",
-      "correctAnswer": "The new European political order",
+      "id": "64ce98407f0714b9a0ca5e69",
+      "correctAnswer": "Roman",
       "incorrectAnswers": [
-        "Fossil fuel consumption",
-        "African colonisation",
-        "The fall of the Soviet Union"
+        "Greek",
+        "Persian",
+        "Egyptian"
       ],
       "question": {
-        "text": "What did the Congress of Vienna meet to discuss in 1815?"
+        "text": "Which empire put down a revolt led by Vercingetorix in 52 B.C.?"
       },
       "tags": [
         "history",
-        "napoleonic_wars",
-        "1800's"
+        "the_ancient_world"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "639c9dbf929b90846f2fc9b3",
+      "correctAnswer": "Kuala Lumpur",
+      "incorrectAnswers": [
+        "Singapore",
+        "Seoul",
+        "Tokyo"
+      ],
+      "question": {
+        "text": "The Petronas Towers are a pair of iconic skyscrapers located in what city?"
+      },
+      "tags": [
+        "architecture",
+        "geography",
+        "tourist_attractions",
+        "buildings"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6505701d7a97013de78b5536",
+      "correctAnswer": "Stephen Hawking",
+      "incorrectAnswers": [
+        "John Emsley",
+        "Richard Dawkins",
+        "Matt Ridley"
+      ],
+      "question": {
+        "text": "Who wrote \"A Brief History of Time\"?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "6477bada550bc819ad646b47",
+      "correctAnswer": "Louis",
+      "incorrectAnswers": [
+        "Walter",
+        "Alexander",
+        "Donald"
+      ],
+      "question": {
+        "text": "What is the middle name of the Scottish author Robert Stevenson, the author of Treasure Island?"
+      },
+      "tags": [
+        "authors",
+        "names",
+        "arts_and_literature",
+        "literature",
+        "people"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056f8a7a97013de78b546d",
+      "correctAnswer": "George S. Patton",
+      "incorrectAnswers": [
+        "David Dixon Porter",
+        "George Elliot",
+        "Philip Sheridan"
+      ],
+      "question": {
+        "text": "Which of these people was a United States Army general during World War II?"
+      },
+      "tags": [
+        "history",
+        "military",
+        "world_war_2"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -444,15 +471,58 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6266e590ff2394bd44dee008",
-      "correctAnswer": "Red",
+      "id": "647f9deb3a4302a719271663",
+      "correctAnswer": "Julius Caesar",
       "incorrectAnswers": [
-        "White",
-        "Blue",
-        "Nine"
+        "Augustus",
+        "Nero",
+        "Caligula"
       ],
       "question": {
-        "text": "What does the word 'rot' mean in German?"
+        "text": "Which Roman figure's name is used to refer to the calendar system we use?"
+      },
+      "tags": [
+        "history",
+        "society_and_culture",
+        "romans"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573fae3d2f5c16bfb88337",
+      "correctAnswer": "Rear Window",
+      "incorrectAnswers": [
+        "Fight Club",
+        "All About Eve",
+        "The Dark Knight"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'A wheelchair-bound photographer spies on his neighbors from his apartment.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e6c4ff2394bd44dee063",
+      "correctAnswer": "Ten",
+      "incorrectAnswers": [
+        "Green",
+        "Three",
+        "White"
+      ],
+      "question": {
+        "text": "What does the word 'zehn' mean in German?"
       },
       "tags": [
         "language",
@@ -465,20 +535,20 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "65056f2a7a97013de78b53e7",
-      "correctAnswer": "Marie Antoinette",
+      "category": "food_and_drink",
+      "id": "622a1c357cc59eab6f94fe34",
+      "correctAnswer": "Legume",
       "incorrectAnswers": [
-        "Marie de' Medici",
-        "Eleanor of Aquitaine",
-        "Diane de Poitiers"
+        "Maize",
+        "Seed",
+        "Fruit"
       ],
       "question": {
-        "text": "Which Archduchess of Austria became Queen of France in 1774?"
+        "text": "What is a peanut if it is not a pea or a nut?"
       },
       "tags": [
-        "history",
-        "royalty"
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -487,173 +557,82 @@
     },
     {
       "category": "society_and_culture",
-      "id": "645c9f8f42ea81e2554c5f4c",
-      "correctAnswer": "The Phoenix",
+      "id": "622a1c357cc59eab6f94fce7",
+      "correctAnswer": "Indo-European",
       "incorrectAnswers": [
-        "The Roc",
-        "The Harpy",
-        "The Siren"
+        "Japonic",
+        "Sino-Tibetan",
+        "Kra–Dai"
       ],
       "question": {
-        "text": "What is the name of the mythical bird that dies in a fire and is reborn from its own ashes?"
+        "text": "The language 'French' belongs to which language family?"
       },
       "tags": [
-        "mythology",
-        "mythological_creatures"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63d952fe168979b94b2e4f6f",
-      "correctAnswer": "Jawaharlal Nehru",
-      "incorrectAnswers": [
-        "Mahatma Gandhi",
-        "Indira Gandhi",
-        "Subhas Chandra Bose"
-      ],
-      "question": {
-        "text": "Who was the first Prime Minister of India?"
-      },
-      "tags": [
-        "history",
-        "leaders",
-        "people"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63dd25c2742e43ed64f1f00e",
-      "correctAnswer": "Jeff Bezos",
-      "incorrectAnswers": [
-        "Elon Musk",
-        "Bill Gates",
-        "Mark Zuckerberg"
-      ],
-      "question": {
-        "text": "Who is the founder of Amazon?"
-      },
-      "tags": [
-        "society_and_culture",
-        "business",
-        "people"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "626030694b176d54800e3d22",
-      "correctAnswer": "Bangladesh",
-      "incorrectAnswers": [
-        "Malaysia",
-        "Thailand",
-        "Singapore"
-      ],
-      "question": {
-        "text": "Chittagong is a city in which country?"
-      },
-      "tags": [
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "646089a9de964ebc39016c6a",
-      "correctAnswer": "Ziggurat",
-      "incorrectAnswers": [
-        "Pyramid",
-        "Obelisk",
-        "Sphinx"
-      ],
-      "question": {
-        "text": "What is the name of the stepped structure used as a temple by Mesopotamian cultures?"
-      },
-      "tags": [
-        "architecture",
-        "history",
-        "buildings",
-        "religion"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740899da29df7b05f73e5",
-      "correctAnswer": "A man investigates the disappearance of a murderer who escaped from a hospital for the insane.",
-      "incorrectAnswers": [
-        "When two girls move to the country, they have adventures with the forest spirits who live nearby.",
-        "Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.",
-        "The son of a city's mastermind falls in love with a working-class prophet."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Shutter Island?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63a039d2c7d86251f9b65cbc",
-      "correctAnswer": "Oliver Cromwell",
-      "incorrectAnswers": [
-        "Henry VIII",
-        "Charles I",
-        "Lord Byron"
-      ],
-      "question": {
-        "text": "Who was the leader of the Parliamentary forces during the English Civil War?"
-      },
-      "tags": [
-        "history",
-        "britain",
-        "uk",
-        "wars"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262af864b176d54800e3dcd",
-      "correctAnswer": "Today I Learned",
-      "incorrectAnswers": [
-        "Total Internet Legend",
-        "Totally In Love",
-        "To Invoke Laughter"
-      ],
-      "question": {
-        "text": "On internet chats, what do the letters 'TIL' mean?"
-      },
-      "tags": [
-        "the_internet",
-        "initials",
+        "language",
+        "general_knowledge",
         "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "647eda9d520523194910c20f",
+      "correctAnswer": "Cobb salad",
+      "incorrectAnswers": [
+        "Waldorf salad",
+        "Caesar salad",
+        "Nicoise salad"
+      ],
+      "question": {
+        "text": "What is the name of the salad that includes lettuce, bacon, chicken, eggs, and blue cheese?"
+      },
+      "tags": [
+        "salad",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "645f9565541c4d4fc8cf2ed9",
+      "correctAnswer": "Deadbolt",
+      "incorrectAnswers": [
+        "Padlock",
+        "Combination lock",
+        "Digital lock"
+      ],
+      "question": {
+        "text": "What is the type of lock that has no spring and typically uses a bar that either moves horizontally or vertically?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951099",
+      "correctAnswer": "Larva",
+      "incorrectAnswers": [
+        "Bulba",
+        "Curla",
+        "Meta"
+      ],
+      "question": {
+        "text": "The four stages in the lifecycle of an insect are: egg, adult, pupa, and ________."
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",

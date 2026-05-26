@@ -1,21 +1,69 @@
 {
-  "gameDate": "2026-05-25",
+  "gameDate": "2026-05-26",
   "difficulty": "hard",
   "results": [
     {
-      "category": "science",
-      "id": "6242cb8cd543524f1b19c939",
-      "correctAnswer": "A field",
+      "category": "film_and_tv",
+      "id": "624dba59de6018633d31f6c1",
+      "correctAnswer": "Goldfinger",
       "incorrectAnswers": [
-        "A parliament",
-        "A yoke",
-        "A troop"
+        "Casino Royale",
+        "Spectre",
+        "Dr. No"
       ],
       "question": {
-        "text": "What is the word for a group of racehorses?"
+        "text": "Which James Bond theme song was performed by Shirley Bassey?"
       },
       "tags": [
-        "science"
+        "james_bond",
+        "film",
+        "soundtracks",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "647f9ded3a4302a71927167b",
+      "correctAnswer": "Frankfort",
+      "incorrectAnswers": [
+        "Louisville",
+        "Lexington",
+        "Bowling Green"
+      ],
+      "question": {
+        "text": "What is the capital of Kentucky?"
+      },
+      "tags": [
+        "usa",
+        "state_capitals",
+        "cities",
+        "kentucky",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9518fb",
+      "correctAnswer": "Botany Bay",
+      "incorrectAnswers": [
+        "Florida",
+        "Hong Kong",
+        "The Bay of Biscay"
+      ],
+      "question": {
+        "text": "What Was Formerly Called Stingray Harbour?"
+      },
+      "tags": [
+        "previous_names",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -24,15 +72,15 @@
     },
     {
       "category": "music",
-      "id": "622a1c387cc59eab6f950b59",
-      "correctAnswer": "Emerson, Lake & Palmer",
+      "id": "622a1c397cc59eab6f950c72",
+      "correctAnswer": "Linkin Park",
       "incorrectAnswers": [
-        "Supertramp",
-        "UB40",
-        "Editors"
+        "Alice in Chains",
+        "Hollywood Undead",
+        "System of a Down"
       ],
       "question": {
-        "text": "Which English progressive rock band released the song 'Lucky Man'?"
+        "text": "Which American rock band released the studio album 'A Thousand Suns'?"
       },
       "tags": [
         "music"
@@ -43,44 +91,19 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62417ce80f96c4efe8d77391",
-      "correctAnswer": "Chicago Blackhawks",
+      "category": "general_knowledge",
+      "id": "622a1c367cc59eab6f950407",
+      "correctAnswer": "1914",
       "incorrectAnswers": [
-        "Chicago Thunder",
-        "Chicago Steelers",
-        "Chicago Suns"
+        "1922",
+        "1937",
+        "1946"
       ],
       "question": {
-        "text": "Which of these is a hockey team based in Chicago?"
+        "text": "On which Christmas day did English and German troops play football?"
       },
       "tags": [
-        "chicago",
-        "animals",
-        "hockey",
-        "nhl",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6477ba5c550bc819ad646a89",
-      "correctAnswer": "Starsky and Hutch",
-      "incorrectAnswers": [
-        "Cagney and Lacey",
-        "Simon and Simon",
-        "Tango and Cash"
-      ],
-      "question": {
-        "text": "Which TV show followed a pair of streetwise cops played by Paul Michael Glaser and David Soul?"
-      },
-      "tags": [
-        "tv",
-        "film_and_tv"
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -89,17 +112,18 @@
     },
     {
       "category": "geography",
-      "id": "622a1c3c7cc59eab6f951afd",
-      "correctAnswer": "Romania",
+      "id": "623b580bfd6c701a92118394",
+      "correctAnswer": "USA",
       "incorrectAnswers": [
-        "Poland",
-        "Ireland",
-        "France"
+        "Croatia",
+        "Spain",
+        "Australia"
       ],
       "question": {
-        "text": "In Which Modern Day Country Would You Find The Region Known As Transylvania?"
+        "text": "In which country would you find the Carlsbad Caverns National Park?"
       },
       "tags": [
+        "tourist_attractions",
         "geography"
       ],
       "type": "text_choice",
@@ -108,23 +132,41 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6293ec9b7f41d6338b96eefd",
-      "correctAnswer": "Lao Tzu",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa0d",
+      "correctAnswer": "Eugène Delacroix",
       "incorrectAnswers": [
-        "Zoroaster",
-        "Mao Zedong",
-        "Sun Tzu"
+        "Caravaggio",
+        "René Magritte",
+        "Pierre-Auguste Renoir"
       ],
       "question": {
-        "text": "Which influential historical person was the author of Tao Te Ching and founder of Taoism?"
+        "text": "Which artist painted \"The Swing\""
       },
       "tags": [
-        "people",
-        "history",
-        "society_and_culture",
-        "religion",
-        "china"
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95024e",
+      "correctAnswer": "Apple ",
+      "incorrectAnswers": [
+        "Grape",
+        "Banana",
+        "Cherry"
+      ],
+      "question": {
+        "text": "Blanche Ames, Lord Lambourne and Willis Williams are all varieties of _________"
+      },
+      "tags": [
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -133,20 +175,107 @@
     },
     {
       "category": "society_and_culture",
-      "id": "646339d101d576cfac3aa3c3",
-      "correctAnswer": "The Golden Fleece",
+      "id": "645cb1627d263fd5097043bb",
+      "correctAnswer": "Songs",
       "incorrectAnswers": [
-        "The Trident of Poseidon",
-        "The Helm of Darkness",
-        "The Scepter of the Gods"
+        "Dances",
+        "Theatrical performances",
+        "Magic shows"
       ],
       "question": {
-        "text": "In Greek mythology, what did Jason steal from his Uncle Pelias?"
+        "text": "What does a \"casa de fado\" in Portugal usually feature in addition to food?"
       },
       "tags": [
         "society_and_culture",
-        "ancient_greece",
-        "mythology"
+        "portugal"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "64626214ab138b829b81e9ba",
+      "correctAnswer": "Zurich",
+      "incorrectAnswers": [
+        "Bern",
+        "Geneva",
+        "Basel"
+      ],
+      "question": {
+        "text": "What is Switzerland's most populous city?"
+      },
+      "tags": [
+        "cities",
+        "switzerland",
+        "europe",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe8d",
+      "correctAnswer": "Rihanna",
+      "incorrectAnswers": [
+        "Drake",
+        "Nicki Minaj",
+        "Ricky Martin"
+      ],
+      "question": {
+        "text": "Which singer released the song 'If It's Lovin' that You Want'?"
+      },
+      "tags": [
+        "songs",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6271647ed5d487fbab6b795c",
+      "correctAnswer": "Cambodia",
+      "incorrectAnswers": [
+        "Taiwan",
+        "Spain",
+        "Belgium"
+      ],
+      "question": {
+        "text": "In which country is sombai a popular drink?"
+      },
+      "tags": [
+        "drink",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "639ae346929b90846f2fc8c0",
+      "correctAnswer": "Tenochtitlan",
+      "incorrectAnswers": [
+        "Tlatelolco",
+        "Teotihuacan",
+        "Tzintzuntzan"
+      ],
+      "question": {
+        "text": "What is the name of the Aztec capital city?"
+      },
+      "tags": [
+        "history",
+        "aztecs",
+        "cities",
+        "capital_cities"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -155,15 +284,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f942",
-      "correctAnswer": "The Shining",
+      "id": "622a1c347cc59eab6f94f915",
+      "correctAnswer": "The Treasure of the Sierra Madre",
       "incorrectAnswers": [
-        "The Silence of the Lambs",
-        "Casablanca",
-        "Caddyshack"
+        "Terms of Endearment",
+        "The Maltese Falcon",
+        "The Birds"
       ],
       "question": {
-        "text": "Which film contains the character 'Jack Torrance'?"
+        "text": "Which film contains the character 'Fred C. Dobbs'?"
       },
       "tags": [
         "film",
@@ -176,20 +305,63 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62602e774b176d54800e3cdd",
-      "correctAnswer": "Taiwan",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbdf",
+      "correctAnswer": "\"King Kong ain’t got s*** on me!\"",
       "incorrectAnswers": [
-        "Japan",
-        "Sri Lanka",
-        "Myanmar"
+        "\"My precious.\"",
+        "\"Well, nobody's perfect.\"",
+        "\"I'll have what she's having.\""
       ],
       "question": {
-        "text": "Where would you find the city of Kaohsiung?"
+        "text": "Which of these quotes is from the film 'Training Day'?"
       },
       "tags": [
-        "cities",
-        "geography"
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c377cc59eab6f95046f",
+      "correctAnswer": "We Three Kings",
+      "incorrectAnswers": [
+        "I Saw Three Ships",
+        "Once In Royal David's City",
+        "Good King Wenceslas"
+      ],
+      "question": {
+        "text": "The words \"Myrrh is mine, its bitter perfume breathes of life, of gathering gloom___\" come from which Christmas carol?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f960",
+      "correctAnswer": "Blindness",
+      "incorrectAnswers": [
+        "Brideshead Revisited",
+        "The House of Mirth",
+        "Wise Blood"
+      ],
+      "question": {
+        "text": "Which book contains the character 'The Dog of Tears'?"
+      },
+      "tags": [
+        "fictitious_characters",
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -198,40 +370,18 @@
     },
     {
       "category": "geography",
-      "id": "623742cdcb85f7ce9e949df2",
-      "correctAnswer": "Abu Dhabi",
+      "id": "62374042cb85f7ce9e949cec",
+      "correctAnswer": "Santo Domingo",
       "incorrectAnswers": [
-        "Rabat",
-        "Meccah",
-        "Islamabad"
+        "Monaco",
+        "Lisbon",
+        "Moroni"
       ],
       "question": {
-        "text": "What is the capital city of United Arab Emirates?"
+        "text": "What is the capital city of Dominican Republic?"
       },
       "tags": [
-        "the_middle_east",
-        "capital_cities",
         "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503c1",
-      "correctAnswer": "Sandwich Islands",
-      "incorrectAnswers": [
-        "James Islands",
-        "Victoria Islands",
-        "Brittania Islands"
-      ],
-      "question": {
-        "text": "When Cook Discovered The Hawaiian Islands What Did He Name Them?"
-      },
-      "tags": [
-        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -240,15 +390,15 @@
     },
     {
       "category": "science",
-      "id": "650570177a97013de78b552e",
-      "correctAnswer": "Graphite",
+      "id": "624333cfcfaae40c12961406",
+      "correctAnswer": "A Cow",
       "incorrectAnswers": [
-        "Cobalt",
-        "Lead",
-        "Silicon"
+        "A Sow",
+        "A Doe",
+        "A Pen"
       ],
       "question": {
-        "text": "Which of these is an allotrope of carbon?"
+        "text": "What would you call a female elephant?"
       },
       "tags": [
         "science"
@@ -259,18 +409,168 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950dfe",
-      "correctAnswer": "Adam Mickiewicz",
+      "category": "music",
+      "id": "625064bfe12f6dec240bdfca",
+      "correctAnswer": "Young MC",
       "incorrectAnswers": [
-        "Oscar Wilde",
-        "G. K. Chesterton",
-        "Marcel Proust"
+        "Blind Melon",
+        "The Weather Girls",
+        "Faith No More"
       ],
       "question": {
-        "text": "Which author wrote 'Pan Tadeusz'?"
+        "text": "Who had a hit in 1989 with Bust a Move?"
       },
       "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624ab0bc348a461bfc670694",
+      "correctAnswer": "The Middle East",
+      "incorrectAnswers": [
+        "Central Asia",
+        "Africa",
+        "South America"
+      ],
+      "question": {
+        "text": "Where in the world are peas originally from?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94ff75",
+      "correctAnswer": "Norway",
+      "incorrectAnswers": [
+        "Chile",
+        "Canada",
+        "Japan"
+      ],
+      "question": {
+        "text": "Which Country Is The Worlds Leading Exporter Of Salmon?"
+      },
+      "tags": [
+        "fish",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625698f79da29df7b05f72a9",
+      "correctAnswer": "Letitia Wright",
+      "incorrectAnswers": [
+        "Karen Gillan",
+        "Zendaya",
+        "Marisa Tomei"
+      ],
+      "question": {
+        "text": "The role of Shuri in the Marvel Cinematic Universe is played by which actor?"
+      },
+      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fb95",
+      "correctAnswer": "\"Jumpin', Jumpin'\" by Destiny's Child",
+      "incorrectAnswers": [
+        "\"A Thousand Miles\" by Vanessa Carlton",
+        "\"Baby Got Back\" by Sir Mix-a-Lot",
+        "\"Hurt\" by Nine Inch Nails"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"Ladies leave your man at home, the club is full of ballers and their pockets full grown.\"?"
+      },
+      "tags": [
+        "lyrics",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950db2",
+      "correctAnswer": "The Rolling Stones",
+      "incorrectAnswers": [
+        "McFly",
+        "Delirious?",
+        "Depeche Mode"
+      ],
+      "question": {
+        "text": "Which band was Charlie Watts a member of?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950dc9",
+      "correctAnswer": "Khaled Hosseini",
+      "incorrectAnswers": [
+        "Nathaniel Hawthorne",
+        "Robert E. Howard",
+        "Isabel Allende"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Kite Runner'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eec",
+      "correctAnswer": "Jack London",
+      "incorrectAnswers": [
+        "Edgar Rice Burroughs",
+        "James Fenimore Cooper",
+        "Frederik Pohl"
+      ],
+      "question": {
+        "text": "Which author wrote 'White Fang'?"
+      },
+      "tags": [
+        "literature",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -280,17 +580,18 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500a8",
-      "correctAnswer": "An Ice Skating Rink",
+      "id": "622a1c347cc59eab6f94f8aa",
+      "correctAnswer": "Gymnastics",
       "incorrectAnswers": [
-        "A Football Pitch",
-        "A Tennis Court",
-        "A Rugby Pitch"
+        "Basketball",
+        "Rugby Union",
+        "Football"
       ],
       "question": {
-        "text": "In the world of sport what has the maximum dimensions of 60 metres by 30 metres?"
+        "text": "With which sport is Larisa Latynina associated?"
       },
       "tags": [
+        "people",
         "sport"
       ],
       "type": "text_choice",
@@ -299,293 +600,16 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "645f952f541c4d4fc8cf2ed1",
-      "correctAnswer": "94",
-      "incorrectAnswers": [
-        "97",
-        "89",
-        "91"
-      ],
-      "question": {
-        "text": "What is the result of the mathematical operation obtained by subtracting the number of Snow White's dwarfs from the original title number of 'Disney Dalmatians'?"
-      },
-      "tags": [
-        "numbers",
-        "mathematics",
-        "disney"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "624db9ccde6018633d31f6a2",
-      "correctAnswer": "Roger Moore",
+      "id": "625fd736dc0dd3b72da64d2b",
+      "correctAnswer": "2001",
       "incorrectAnswers": [
-        "Pierce Brosnan",
-        "Sean Connery",
-        "Daniel Craig"
+        "1992",
+        "1995",
+        "1998"
       ],
       "question": {
-        "text": "Who played the role of James Bond in Octopussy?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056f267a97013de78b53e1",
-      "correctAnswer": "Christiaan Barnard",
-      "incorrectAnswers": [
-        "Johannes Kepler",
-        "Edwin Hubble",
-        "Edmond Halley"
-      ],
-      "question": {
-        "text": "Which of these people was not an astronomer?"
-      },
-      "tags": [
-        "history",
-        "people",
-        "astronomy",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951093",
-      "correctAnswer": "hours",
-      "incorrectAnswers": [
-        "days",
-        "minutes",
-        "nights"
-      ],
-      "question": {
-        "text": "The snail mates only once in its entire life. When it does mate, however, it may take as long as 12 _______ to consummate the act."
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501cb",
-      "correctAnswer": "The A.B.C. Murders",
-      "incorrectAnswers": [
-        "The Murder of Roger Ackroyd",
-        "Lolita",
-        "The Name of the Rose"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'It was in June of 1935 that I came home from my ranch in South America for a stay of about six months.'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6497ef4d0752843c0d8aadd3",
-      "correctAnswer": "The cerebellum",
-      "incorrectAnswers": [
-        "The amygdala",
-        "The hippocampus",
-        "The thalamus"
-      ],
-      "question": {
-        "text": "Which part of the brain is involved in the coordination of voluntary motor movements?"
-      },
-      "tags": [
-        "medicine",
-        "anatomy",
-        "neuroscience",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ee5",
-      "correctAnswer": "Charles Dickens",
-      "incorrectAnswers": [
-        "Oscar Wilde",
-        "Joseph Conrad",
-        "Henryk Sienkiewicz"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Old Curiosity Shop'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951022",
-      "correctAnswer": "Cu",
-      "incorrectAnswers": [
-        "Cp",
-        "Cm",
-        "Co"
-      ],
-      "question": {
-        "text": "What is the symbol for copper?"
-      },
-      "tags": [
-        "chemistry",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237416bcb85f7ce9e949d64",
-      "correctAnswer": "Palikir",
-      "incorrectAnswers": [
-        "Windhoek",
-        "Conakry",
-        "Bamako"
-      ],
-      "question": {
-        "text": "What is the capital city of Micronesia?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9505a8",
-      "correctAnswer": "Organic particles",
-      "incorrectAnswers": [
-        "Existence",
-        "Ticks and mites",
-        "Sleep"
-      ],
-      "question": {
-        "text": "What is Aerobiology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8dd",
-      "correctAnswer": "Robert Englund",
-      "incorrectAnswers": [
-        "Peter Lorre",
-        "Andy Serkis",
-        "Jack Nicholson"
-      ],
-      "question": {
-        "text": "Which actor played the role of Freddy Krueger in A Nightmare on Elm Street?"
-      },
-      "tags": [
-        "people",
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd02",
-      "correctAnswer": "Spinoza",
-      "incorrectAnswers": [
-        "Thomas Hobbes",
-        "Denis Diderot",
-        "Albert Camus"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'I can control my passions and emotions if I can understand their nature'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950a84",
-      "correctAnswer": "Azerbaijan",
-      "incorrectAnswers": [
-        "Georgia",
-        "Syria",
-        "Uzbekistan"
-      ],
-      "question": {
-        "text": "Which of these countries borders Iran?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd6afdc0dd3b72da64d03",
-      "correctAnswer": "2008",
-      "incorrectAnswers": [
-        "2004",
-        "2006",
-        "2010"
-      ],
-      "question": {
-        "text": "In which year was WALL·E first released in the cinema?"
+        "text": "In which year was Monsters, Inc. first released in the cinema?"
       },
       "tags": [
         "film",
@@ -598,39 +622,19 @@
     },
     {
       "category": "history",
-      "id": "63bc3fb50e893d6e5a6a0fe4",
-      "correctAnswer": "The Divan",
+      "id": "622a1c367cc59eab6f950403",
+      "correctAnswer": "The Crimean War",
       "incorrectAnswers": [
-        "The Ottoman",
-        "The Futon",
-        "The Chaise Lounge"
+        "World War I",
+        "World War II",
+        "Russian Civil War"
       ],
       "question": {
-        "text": "What was the name of the Ottoman Empire's governing body?"
+        "text": "The charge of the light brigade occured during which war?"
       },
       "tags": [
         "history",
-        "ottoman_empire"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624ab0e1348a461bfc6706a2",
-      "correctAnswer": "Southeast Asia",
-      "incorrectAnswers": [
-        "China",
-        "South America",
-        "Central Asia"
-      ],
-      "question": {
-        "text": "From which part of the world do oranges originate?"
-      },
-      "tags": [
-        "food_and_drink"
+        "wars"
       ],
       "type": "text_choice",
       "difficulty": "hard",
