@@ -1,22 +1,150 @@
 {
-  "gameDate": "2026-05-27",
+  "gameDate": "2026-05-28",
   "difficulty": "random",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "646262f6ab138b829b81ea6a",
-      "correctAnswer": "ER",
+      "category": "society_and_culture",
+      "id": "6266e698ff2394bd44dee056",
+      "correctAnswer": "Huit",
       "incorrectAnswers": [
-        "Grey's Anatomy",
-        "House M.D.",
-        "Chicago Med"
+        "Otto",
+        "Acht",
+        "Six"
       ],
       "question": {
-        "text": "What is the name of the NBC drama series set in County General Hospital?"
+        "text": "What is the French word for 'eight'?"
       },
       "tags": [
-        "tv",
+        "language",
+        "translations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c367cc59eab6f950226",
+      "correctAnswer": "The Searchers ",
+      "incorrectAnswers": [
+        "The Lookers",
+        "The Finders",
+        "The Seekers"
+      ],
+      "question": {
+        "text": "Who had a number 1 record in 1963 with Sweets For My Sweet?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6257401a9da29df7b05f73c4",
+      "correctAnswer": "A determined Cuban immigrant takes over a drug cartel.",
+      "incorrectAnswers": [
+        "A man refuses assistance as he ages and begins to his own mind.",
+        "A Polish Jew struggles to survive the destruction of the Warsaw ghetto of World War II.",
+        "A cafe owner decides whether or not to help his ex and her husband escape the Nazis in French Morocco."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Scarface?"
+      },
+      "tags": [
+        "film",
         "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "645b9ebcf09106226db2357c",
+      "correctAnswer": "Quiche",
+      "incorrectAnswers": [
+        "Omelette",
+        "Frittata",
+        "Pizza"
+      ],
+      "question": {
+        "text": "What type of food has a version called \"Lorraine\"?"
+      },
+      "tags": [
+        "cooking",
+        "food",
+        "recipes",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd2e",
+      "correctAnswer": "John Locke",
+      "incorrectAnswers": [
+        "Thomas Hobbes",
+        "Baruch Spinoza",
+        "Jean-Jacques Rousseau"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'No man's knowledge here can go beyond his experience'?"
+      },
+      "tags": [
+        "philosophy",
+        "quotes",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625741293d2f5c16bfb88343",
+      "correctAnswer": "Le Mans '66",
+      "incorrectAnswers": [
+        "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "Ratatouille",
+        "Downfall"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'A car designer and driver battle to build a revolutionary race car.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237410ecb85f7ce9e949d3e",
+      "correctAnswer": "Vientiane",
+      "incorrectAnswers": [
+        "Andorra la Vella",
+        "Ankara",
+        "Apia"
+      ],
+      "question": {
+        "text": "What is the capital city of Laos?"
+      },
+      "tags": [
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -25,43 +153,22 @@
     },
     {
       "category": "history",
-      "id": "62611f854b176d54800e3d5f",
-      "correctAnswer": "2015",
+      "id": "622a1c367cc59eab6f95035c",
+      "correctAnswer": "President John F. Kennedy",
       "incorrectAnswers": [
-        "2000",
-        "1993",
-        "2004"
+        "Lee Harvey Oswald",
+        "John Lennon",
+        "Mahatma Gandhi"
       ],
       "question": {
-        "text": "In which year was the creation of the first artificial heart?"
+        "text": "Who was assassinated on November 22, 1963 in Dallas, Texas?"
       },
       "tags": [
+        "usa",
         "events",
-        "inventions",
-        "medicine",
+        "general_knowledge",
+        "people",
         "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "645b69d8f09106226db2356d",
-      "correctAnswer": "Norse",
-      "incorrectAnswers": [
-        "Latin",
-        "Arabic",
-        "Greek"
-      ],
-      "question": {
-        "text": "From which language does the word 'ransack' come from?"
-      },
-      "tags": [
-        "etymology",
-        "words",
-        "language"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -69,22 +176,41 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "647638d1f05ea6d6f587a153",
-      "correctAnswer": "BMW",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951009",
+      "correctAnswer": "Underground",
       "incorrectAnswers": [
-        "Mercedes-Benz",
-        "Audi",
-        "Volkswagen"
+        "In a tree",
+        "Underwater",
+        "In a damn"
       ],
       "question": {
-        "text": "Which German automaker produces the X6 M sport utility vehicle?"
+        "text": "Where Does A Gopher Make Its Home?"
       },
       "tags": [
-        "cars",
-        "motoring",
-        "brands",
-        "society_and_culture"
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "62506444e12f6dec240bdfa6",
+      "correctAnswer": "Divinyls",
+      "incorrectAnswers": [
+        "Vicki Sue Robinson",
+        "Frankie Goes to Hollywood",
+        "Stacey Q"
+      ],
+      "question": {
+        "text": "'I Touch Myself' was a one hit wonder in 1990 by which artist?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -93,19 +219,17 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fdb9",
-      "correctAnswer": "MC Hammer",
+      "id": "622a1c397cc59eab6f950be4",
+      "correctAnswer": "Black Sabbath",
       "incorrectAnswers": [
-        "Vanilla Ice",
-        "Snoop Dogg",
-        "Sir Mix-a-Lot"
+        "Skunk Anansie",
+        "Kasabian",
+        "Emerson, Lake & Palmer"
       ],
       "question": {
-        "text": "Stanley Burrell Is The Real Name Of Which Popular 90's Musician?"
+        "text": "Which British heavy metal band released the song 'Iron Man'?"
       },
       "tags": [
-        "people",
-        "pseudonyms",
         "music"
       ],
       "type": "text_choice",
@@ -114,22 +238,60 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6498aef29acaa77d9ad7c504",
-      "correctAnswer": "Prehensile",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f0f",
+      "correctAnswer": "Alexander Pushkin",
       "incorrectAnswers": [
-        "Persistent",
-        "Prophetic",
-        "Precipitous"
+        "Nikolai Gogol",
+        "Leo Tolstoy",
+        "Henryk Sienkiewicz"
       ],
       "question": {
-        "text": "What is the word used for a type of tail that can grasp objects?"
+        "text": "Which author wrote 'The Queen of Spades'?"
       },
       "tags": [
-        "biology",
-        "animals",
-        "science",
-        "nature"
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "627164741ba117625baac961",
+      "correctAnswer": "Arak",
+      "incorrectAnswers": [
+        "Sombai",
+        "Soju",
+        "Riga Black Balsam"
+      ],
+      "question": {
+        "text": "Which of these is a popular drink in Jordan?"
+      },
+      "tags": [
+        "drink",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ee4",
+      "correctAnswer": "Charles Dickens",
+      "incorrectAnswers": [
+        "Oscar Wilde",
+        "Joseph Conrad",
+        "Henryk Sienkiewicz"
+      ],
+      "question": {
+        "text": "Which author wrote 'Bleak House'?"
+      },
+      "tags": [
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -138,19 +300,17 @@
     },
     {
       "category": "science",
-      "id": "624334cdcfaae40c12961468",
-      "correctAnswer": "A Jenny",
+      "id": "622a1c377cc59eab6f950464",
+      "correctAnswer": "animals",
       "incorrectAnswers": [
-        "A Cow",
-        "A Sow",
-        "A Hembra"
+        "the lymph system and glands",
+        "the nature of values and value judgements",
+        "the mnemonic practice of writing sentences such that the numbers of letters in the words correspond to the consecutive digits of pi"
       ],
       "question": {
-        "text": "A female mule is known as what?"
+        "text": "What is Zoology the study of?"
       },
       "tags": [
-        "names",
-        "animals",
         "science"
       ],
       "type": "text_choice",
@@ -160,17 +320,20 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f950528",
-      "correctAnswer": "handwriting for the purpose of analysing the character of the writer",
+      "id": "64a9daf98e13b3b23eb9fde5",
+      "correctAnswer": "Neptunium",
       "incorrectAnswers": [
-        "venereal diseases",
-        "race",
-        "intonation in speech"
+        "Francium",
+        "Plutonium",
+        "Americium"
       ],
       "question": {
-        "text": "What is Graphology the study of?"
+        "text": "What is the atomic number of the first transuranium element?"
       },
       "tags": [
+        "chemistry",
+        "chemical_elements",
+        "elements",
         "science"
       ],
       "type": "text_choice",
@@ -180,20 +343,22 @@
     },
     {
       "category": "science",
-      "id": "64e927cd0b0fc0be2ff5aa36",
-      "correctAnswer": "A microwave",
+      "id": "6398956d5c9a75021f310454",
+      "correctAnswer": "Smallpox",
       "incorrectAnswers": [
-        "A toaster oven",
-        "A convection oven",
-        "A slow cooker"
+        "Polio",
+        "Influenza",
+        "Measles"
       ],
       "question": {
-        "text": "What type of oven did Percy Spencer invent after a magnetron melted his candy bar?"
+        "text": "For what disease was the first successful vaccine developed?"
       },
       "tags": [
+        "history",
+        "1700's",
         "inventions",
-        "food_and_drink",
-        "technology",
+        "epidemiology",
+        "medicine",
         "science"
       ],
       "type": "text_choice",
@@ -202,86 +367,108 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "63951d0be55fa75b149597b0",
-      "correctAnswer": "Wai",
+      "category": "history",
+      "id": "63bc3f9d0e893d6e5a6a0fc6",
+      "correctAnswer": "Istanbul",
       "incorrectAnswers": [
-        "Fist bump",
-        "Handshake",
-        "Khǎawng dtàm"
+        "Ankara",
+        "Bursa",
+        "Edirne"
       ],
       "question": {
-        "text": "Which of these gestures  is a commonly used when greeting in Thailand?"
+        "text": "What was the capital of the Ottoman Empire during most of its existence?"
       },
       "tags": [
-        "society_and_culture",
-        "thailand",
-        "southeast_asia"
+        "history",
+        "ottoman_empire",
+        "capital_cities",
+        "cities"
       ],
       "type": "text_choice",
       "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "6396121ae55fa75b149597bc",
-      "correctAnswer": "Where The Crawdads Sing",
-      "incorrectAnswers": [
-        "Snakehead Swamp",
-        "Landlines",
-        "Ulysses"
-      ],
-      "question": {
-        "text": "Which novel by Delia Owens begins with the opening: ‘Marsh is not swamp. Marsh is a space of light’"
-      },
-      "tags": [
-        "arts_and_literature",
-        "literature",
-        "opening_lines"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056e237a97013de78b5277",
-      "correctAnswer": "Green",
-      "incorrectAnswers": [
-        "Brown",
-        "Purple",
-        "Orange"
-      ],
-      "question": {
-        "text": "If you mix yellow and blue paint together, what color do you get?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "colour",
-        "painting"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950771",
-      "correctAnswer": "Keanu Reeves",
+      "id": "624dba37cd90beeca3531569",
+      "correctAnswer": "Shirley Bassey",
       "incorrectAnswers": [
-        "Christian Bale",
-        "Gérard Depardieu",
-        "Shah Rukh Khan"
+        "Wings",
+        "Gladys Knight",
+        "Billie Eilish"
       ],
       "question": {
-        "text": "Which actor has starred in films including The Matrix and Bram Stoker's Dracula?"
+        "text": "Who performed the theme song to the James Bond film Diamonds Are Forever?"
       },
       "tags": [
+        "james_bond",
         "film",
+        "soundtracks",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c367cc59eab6f9503b6",
+      "correctAnswer": "Rock Around The Clock",
+      "incorrectAnswers": [
+        "Johnny B Goode",
+        "Candy Girl",
+        "Old Time Rock and Roll"
+      ],
+      "question": {
+        "text": "Which Bill Haley song became the U.K.'s first Rock and Roll number one?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fbad",
+      "correctAnswer": "\"Bullet with Butterfly Wings\" by The Smashing Pumpkins",
+      "incorrectAnswers": [
+        "\"Jumpin', Jumpin'\" by Destiny's Child",
+        "\"All Along the Watchtower\" by Bob Dylan",
+        "\"Swing Life Away\" by Rise Against"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"The world is a vampire...\"?"
+      },
+      "tags": [
+        "lyrics",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fa99",
+      "correctAnswer": "Jennifer Hudson",
+      "incorrectAnswers": [
+        "Adriana Barraza",
+        "Cate Blanchett",
+        "Abigail Breslin"
+      ],
+      "question": {
+        "text": "Who won the 2006 Academy Award for Best Supporting Actress for playing the role of Effie White in Dreamgirls?"
+      },
+      "tags": [
         "acting",
+        "film",
+        "academy_awards",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -290,20 +477,40 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "63dd25cb742e43ed64f1f01c",
-      "correctAnswer": "Tariff",
+      "category": "history",
+      "id": "622a1c367cc59eab6f950332",
+      "correctAnswer": "Ronald Reagan",
       "incorrectAnswers": [
-        "Sales Tax",
-        "Trade Tax",
-        "Bordereux"
+        "John F Kennedy",
+        "Gerald Ford",
+        "Richard Nixon"
       ],
       "question": {
-        "text": "What is the term for a tax on a good or service imported from another country?"
+        "text": "Who was the first incumbent US president to survive being shot?"
       },
       "tags": [
-        "society_and_culture",
-        "economics"
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe70",
+      "correctAnswer": "Lady Gaga",
+      "incorrectAnswers": [
+        "Hikaru Utada",
+        "Drake",
+        "Madonna"
+      ],
+      "question": {
+        "text": "Which American singer, songwriter, and actress released the studio album 'Artpop'?"
+      },
+      "tags": [
+        "music_albums",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -312,18 +519,17 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f95057b",
-      "correctAnswer": "Devil worshipers",
+      "id": "6242cb35d543524f1b19c917",
+      "correctAnswer": "A charm",
       "incorrectAnswers": [
-        "Microscopic objects",
-        "South America",
-        "The nature of value judgements"
+        "A paddling",
+        "A bevy",
+        "A flight"
       ],
       "question": {
-        "text": "What is chavezology the study of?"
+        "text": "What is the word for a group of goldfinches?"
       },
       "tags": [
-        "words",
         "science"
       ],
       "type": "text_choice",
@@ -332,127 +538,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62373fedcb85f7ce9e949cca",
-      "correctAnswer": "Bangui",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a31",
+      "correctAnswer": "Gladiators",
       "incorrectAnswers": [
-        "Gaborone",
-        "Nuku'alofa",
-        "Abuja"
+        "Knights",
+        "Ninjas",
+        "Beserkers"
       ],
       "question": {
-        "text": "What is the capital city of Central African Republic?"
+        "text": "Which fighters began a bout by saying, 'Hail Emperor, those about to die salute you'?"
       },
       "tags": [
-        "africa",
-        "capital_cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95136a",
-      "correctAnswer": "Collage",
-      "incorrectAnswers": [
-        "Watercolor",
-        "Sculpture",
-        "Pointilism"
-      ],
-      "question": {
-        "text": "What is the word for a composition made of cut and pasted pieces of materials?"
-      },
-      "tags": [
-        "art",
-        "words",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e91",
-      "correctAnswer": "Franz Kafka",
-      "incorrectAnswers": [
-        "Émile Zola",
-        "Nathaniel Hawthorne",
-        "Leo Tolstoy"
-      ],
-      "question": {
-        "text": "Which author wrote 'Amerika'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62373fc6cb85f7ce9e949cba",
-      "correctAnswer": "Bandar Seri Begawan",
-      "incorrectAnswers": [
-        "Beirut",
-        "Apia",
-        "Lilongwe"
-      ],
-      "question": {
-        "text": "What is the capital city of Brunei?"
-      },
-      "tags": [
-        "capital_cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c377cc59eab6f95043f",
-      "correctAnswer": "Ringo Starr",
-      "incorrectAnswers": [
-        "Ricky Martin",
-        "Kanye West",
-        "Bob Marley"
-      ],
-      "question": {
-        "text": "How in the world of music is Richard Starkey more commonly known?"
-      },
-      "tags": [
-        "pseudonyms",
-        "people",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950280",
-      "correctAnswer": "McDonald's ",
-      "incorrectAnswers": [
-        "KFC",
-        "Burger King",
-        "Wendy's"
-      ],
-      "question": {
-        "text": "What fast food chain was taken over by Ray Kroc in 1954?"
-      },
-      "tags": [
-        "food_and_drink"
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -461,197 +559,89 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f896",
-      "correctAnswer": "Motor racing",
+      "id": "622a1c367cc59eab6f9500d6",
+      "correctAnswer": "Andy Cole",
       "incorrectAnswers": [
-        "Hockey",
-        "Track and field",
-        "Table tennis"
+        "Wayne Rooney",
+        "Sergio Aguero",
+        "Harry Kane"
       ],
       "question": {
-        "text": "With which sport is Michael Schumacher associated?"
+        "text": "Alan Shearer was the first player to score 200 Premiership goals. Who was the second?"
       },
       "tags": [
-        "general_knowledge",
-        "people",
+        "soccer",
+        "firsts",
+        "football",
         "sport"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3b7cc59eab6f9513cf",
-      "correctAnswer": "A Portrait of the Artist as a Young Man",
-      "incorrectAnswers": [
-        "Little Women",
-        "David Copperfield",
-        "Jane Eyre"
-      ],
-      "question": {
-        "text": "In which book does 'Charles Stewart Parnell' appear?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94feca",
-      "correctAnswer": "Kate Bush",
-      "incorrectAnswers": [
-        "David Bowie",
-        "John Lennon",
-        "George Michael"
-      ],
-      "question": {
-        "text": "Which British recording artist released the song 'Wuthering Heights'?"
-      },
-      "tags": [
-        "songs",
-        "musicians",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623388190161109f922aac66",
-      "correctAnswer": "Brandenburg ",
-      "incorrectAnswers": [
-        "Bavaria",
-        "Saxony",
-        "Bremen"
-      ],
-      "question": {
-        "text": "Which German federal state surrounds the city of Berlin?"
-      },
-      "tags": [
-        "germany",
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f951a8a",
-      "correctAnswer": "October 31st",
-      "incorrectAnswers": [
-        "November 10th",
-        "October 24th",
-        "November 21st"
-      ],
-      "question": {
-        "text": "On Which Date Is Halloween?"
-      },
-      "tags": [
-        "halloween",
-        "general_knowledge",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951356",
-      "correctAnswer": "Dadaism",
-      "incorrectAnswers": [
-        "Post Impressionism",
-        "Fauvism",
-        "Nihilism"
-      ],
-      "question": {
-        "text": "Which art movement aimed to create antiart and non art, employing a sense of the absurd?"
-      },
-      "tags": [
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95021d",
-      "correctAnswer": "Kahlua ",
-      "incorrectAnswers": [
-        "Advocaat",
-        "Baileys",
-        "Limoncello"
-      ],
-      "question": {
-        "text": "White Russian Cocktails Are Made From Milk, Vodka And _______"
-      },
-      "tags": [
-        "drink",
-        "cocktails",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6357fd1668bd5000211e717b",
-      "correctAnswer": "India",
-      "incorrectAnswers": [
-        "Pakistan",
-        "Uganda",
-        "Morocco"
-      ],
-      "question": {
-        "text": "Marathi is a language spoken in which of these countries?"
-      },
-      "tags": [
-        "language",
-        "linguistics",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "geography",
-      "id": "6260309c4b176d54800e3d31",
-      "correctAnswer": "La Paz",
+      "id": "647a126555463d5ce2994fe8",
+      "correctAnswer": "Hong Kong",
       "incorrectAnswers": [
-        "Belo Horizonte",
-        "Buenos Aires",
-        "Caracas"
+        "Taiwan",
+        "Shanghai",
+        "Beijing"
       ],
       "question": {
-        "text": "Which of these cities is in Bolivia?"
+        "text": "Which Chinese special administrative region is located on the other side of the Pearl River estuary from Macau?"
       },
       "tags": [
-        "cities",
-        "geography"
+        "china",
+        "asia"
       ],
       "type": "text_choice",
       "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "624dba67de6018633d31f6c4",
+      "correctAnswer": "Live and Let Die",
+      "incorrectAnswers": [
+        "Tomorrow Never Dies",
+        "Skyfall",
+        "The Living Daylights"
+      ],
+      "question": {
+        "text": "Which James Bond theme song was performed by Wings?"
+      },
+      "tags": [
+        "james_bond",
+        "film",
+        "soundtracks",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "64a48a10db01fd81937c97cd",
+      "correctAnswer": "Pluperfect",
+      "incorrectAnswers": [
+        "Past perfect",
+        "Present perfect",
+        "Future perfect"
+      ],
+      "question": {
+        "text": "What word refers to the tense used in phrases like 'she had departed'."
+      },
+      "tags": [
+        "grammar",
+        "language"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     }
