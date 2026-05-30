@@ -1,66 +1,129 @@
 {
-  "gameDate": "2026-05-29",
+  "gameDate": "2026-05-30",
   "difficulty": "random",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fecd",
-      "correctAnswer": "Kate Bush",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950264",
+      "correctAnswer": "Portugal ",
       "incorrectAnswers": [
-        "David Bowie",
-        "John Lennon",
-        "George Michael"
+        "Italy",
+        "Spain",
+        "France"
       ],
       "question": {
-        "text": "Which British recording artist released the album 'Hounds of Love'?"
+        "text": "Which country produces the wine Vinho Verdi?"
       },
       "tags": [
-        "music_albums",
-        "musicians",
-        "music"
+        "drink",
+        "wine",
+        "food_and_drink"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f950291",
-      "correctAnswer": "Big Kahuna burger ",
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcec",
+      "correctAnswer": "Japonic",
       "incorrectAnswers": [
-        "Royale With Cheese ",
-        "Dunkin' Donuts",
-        "KFC Family Bucket"
+        "Sino-Tibetan",
+        "Austroasiatic",
+        "Austronesian"
       ],
       "question": {
-        "text": "What was Brett's last supper in the film Pulp Fiction?"
+        "text": "The language 'Japanese' belongs to which language family?"
       },
       "tags": [
-        "film_and_tv"
+        "language",
+        "society_and_culture"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcab",
+      "correctAnswer": "Niger–Congo",
+      "incorrectAnswers": [
+        "Uralic",
+        "Austronesian",
+        "Dravidian"
+      ],
+      "question": {
+        "text": "The language 'Kinyarwanda' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623742fecb85f7ce9e949e06",
+      "correctAnswer": "Lusaka",
+      "incorrectAnswers": [
+        "Niamey",
+        "Managua",
+        "Ndola"
+      ],
+      "question": {
+        "text": "What is the capital city of Zambia?"
+      },
+      "tags": [
+        "capital_cities",
+        "africa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "arts_and_literature",
-      "id": "63afff872d1dcedfbb65455a",
-      "correctAnswer": "As You Like It",
+      "id": "6502100c2b411b896c984b24",
+      "correctAnswer": "Revelation",
       "incorrectAnswers": [
-        "A Midsummer Night's Dream",
-        "The Tempest",
-        "Hamlet"
+        "Acts",
+        "Hebrews",
+        "Psalms"
       ],
       "question": {
-        "text": "In which of Shakespeare's plays do we find the famous line 'All the world's a stage'?"
+        "text": "What is the title of the final book of the New Testament?"
       },
       "tags": [
-        "arts_and_literature",
-        "shakespeare",
-        "theater",
-        "quotes"
+        "religion",
+        "bible",
+        "new testament"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510c7",
+      "correctAnswer": "206",
+      "incorrectAnswers": [
+        "310",
+        "233",
+        "280"
+      ],
+      "question": {
+        "text": "How Many Bones Are There In The Adult Human Body?"
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -69,15 +132,15 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f867",
-      "correctAnswer": "Football",
+      "id": "622a1c347cc59eab6f94f86d",
+      "correctAnswer": "Cricket",
       "incorrectAnswers": [
-        "Swimming",
-        "Hockey",
-        "Motor racing"
+        "Motor Racing",
+        "Gymnastics",
+        "Basketball"
       ],
       "question": {
-        "text": "With which sport is Eusebio associated?"
+        "text": "With which sport is Sir Gary Sobers associated?"
       },
       "tags": [
         "people",
@@ -89,334 +152,16 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950253",
-      "correctAnswer": "Absinthe ",
-      "incorrectAnswers": [
-        "Gin",
-        "Port",
-        "Whisky"
-      ],
-      "question": {
-        "text": "Which drink, which has been illegal but is being imported once again, is made from the leaves of the wormwood plant?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f9a9da29df7b05f73a5",
-      "correctAnswer": "Parasite",
-      "incorrectAnswers": [
-        "Vertigo",
-        "The Big Lebowski",
-        "Casino"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A destitute family builds a symbiotic relationship with a wealthy family.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fe31",
-      "correctAnswer": "Franc",
-      "incorrectAnswers": [
-        "Peso",
-        "Dollar",
-        "Gira"
-      ],
-      "question": {
-        "text": "What is the basic unit of currency for Equatorial Guinea?"
-      },
-      "tags": [
-        "currency",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa12",
-      "correctAnswer": "Pieter Bruegel the Elder",
+      "id": "622a1c347cc59eab6f94fa4b",
+      "correctAnswer": "Surrealism",
       "incorrectAnswers": [
-        "Caravaggio",
-        "Jackson Pollock",
-        "Gustave Courbet"
+        "Impressionism",
+        "Dutch and Flemish Renaissance",
+        "Crystal Cubism"
       ],
       "question": {
-        "text": "Which artist painted \"The Tower of Babel\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "64f4e5cbd361046b195e5806",
-      "correctAnswer": "Dead",
-      "incorrectAnswers": [
-        "Living",
-        "Undead",
-        "Corpse"
-      ],
-      "question": {
-        "text": "Which word is the last word in the titles of six of George Romero's zombie movies?"
-      },
-      "tags": [
-        "horror",
-        "film",
-        "film_and_tv",
-        "zombies"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3a7cc59eab6f951053",
-      "correctAnswer": "A Nanny",
-      "incorrectAnswers": [
-        "A Billy",
-        "A Gertie",
-        "A Hattie"
-      ],
-      "question": {
-        "text": "What Is A Female Goat Called?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951075",
-      "correctAnswer": "Lactic acid",
-      "incorrectAnswers": [
-        "Amenic Acid",
-        "Stomach Acid",
-        "Pectic Acid"
-      ],
-      "question": {
-        "text": "What chemical compound causes pain in muscles after exercise?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63bc3f9b0e893d6e5a6a0fc3",
-      "correctAnswer": "Ottoman Turkish",
-      "incorrectAnswers": [
-        "Ottoman Arabic",
-        "Ottoman Persian",
-        "Ottoman Greek"
-      ],
-      "question": {
-        "text": "What was the official language of the Ottoman Empire?"
-      },
-      "tags": [
-        "history",
-        "ottoman_empire",
-        "language"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602d884b176d54800e3c9f",
-      "correctAnswer": "Brazil",
-      "incorrectAnswers": [
-        "Panama",
-        "Mexico",
-        "Ecuador"
-      ],
-      "question": {
-        "text": "Where would you find the city of São Paulo?"
-      },
-      "tags": [
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "646140774d46e537ca8cd9b7",
-      "correctAnswer": "Casting",
-      "incorrectAnswers": [
-        "Fishing",
-        "Baiting",
-        "Trolling"
-      ],
-      "question": {
-        "text": "What term, which refers to the selection of performers for a film, is also used to describe the process of fishermen catching fish?"
-      },
-      "tags": [
-        "film_and_tv",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f933",
-      "correctAnswer": "My Favorite Year",
-      "incorrectAnswers": [
-        "A Nightmare on Elm Street",
-        "The Searchers",
-        "Die Hard"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Alan Swann'?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6242cb07d543524f1b19c905",
-      "correctAnswer": "A clowder",
-      "incorrectAnswers": [
-        "A pack",
-        "A herd",
-        "A troop"
-      ],
-      "question": {
-        "text": "What is the word for a group of cats?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "625064dae12f6dec240bdfd2",
-      "correctAnswer": "What's Up",
-      "incorrectAnswers": [
-        "Rapper's Delight",
-        "Seasons in the Sun",
-        "I Melt With You"
-      ],
-      "question": {
-        "text": "What song did 4 Non Blondes have a hit with in 1992?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "1990's",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc98",
-      "correctAnswer": "Argle-bargle",
-      "incorrectAnswers": [
-        "Quomodocunquizing",
-        "Valetudinarian",
-        "Agastopia"
-      ],
-      "question": {
-        "text": "Which word is defined as 'copious but meaningless talk or writing'?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6496a83ce831b1ab5aa1113b",
-      "correctAnswer": "Your uncle",
-      "incorrectAnswers": [
-        "Your cousin",
-        "Your brother-in-law",
-        "Your stepfather"
-      ],
-      "question": {
-        "text": "What term refers to the husband of your mom's sister?"
-      },
-      "tags": [
-        "society_and_culture",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa5c",
-      "correctAnswer": "Baroque",
-      "incorrectAnswers": [
-        "Neoclassicism",
-        "Surrealism",
-        "Suprematism"
-      ],
-      "question": {
-        "text": "The painting \"Night Watch\" by ‎Rembrandt van Rijn is a part of which art movement?"
+        "text": "The painting \"The Son of Man\" by René Magritte is a part of which art movement?"
       },
       "tags": [
         "painting",
@@ -430,17 +175,19 @@
     },
     {
       "category": "geography",
-      "id": "62373f75cb85f7ce9e949c9a",
-      "correctAnswer": "Yerevan",
+      "id": "6237426ecb85f7ce9e949dcc",
+      "correctAnswer": "Khartoum",
       "incorrectAnswers": [
-        "Khartoum",
-        "Vilnius",
-        "Vaduz"
+        "Nur-Sultan",
+        "Bratislava",
+        "Rabat"
       ],
       "question": {
-        "text": "What is the capital city of Armenia?"
+        "text": "What is the capital city of Sudan?"
       },
       "tags": [
+        "africa",
+        "capital_cities",
         "geography"
       ],
       "type": "text_choice",
@@ -450,15 +197,15 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f9504e4",
-      "correctAnswer": "the functions of the nervous system",
+      "id": "622a1c3a7cc59eab6f9510cc",
+      "correctAnswer": "Stomach",
       "incorrectAnswers": [
-        "Church architecture and decoration, or separately the Christian Church",
-        "the study and interpretation of symbols, or a set of symbols",
-        "drugs"
+        "Heart",
+        "Liver",
+        "Lungs"
       ],
       "question": {
-        "text": "What is Neurophysiology the study of?"
+        "text": "Gastritis affects the __________."
       },
       "tags": [
         "science"
@@ -470,18 +217,18 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950063",
-      "correctAnswer": "Steffi Graff",
+      "id": "622a1c347cc59eab6f94f872",
+      "correctAnswer": "Surfing",
       "incorrectAnswers": [
-        "Billie Jean King",
-        "Venus Williams",
-        "Maria Sharapova"
+        "Cricket",
+        "Figure skating",
+        "Table tennis"
       ],
       "question": {
-        "text": "Which player won her last tennis Grand Slam Tournament in Paris in 1999?"
+        "text": "With which sport is Kelly Slater associated?"
       },
       "tags": [
-        "tennis",
+        "people",
         "sport"
       ],
       "type": "text_choice",
@@ -490,63 +237,65 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "624db9fdde6018633d31f6ae",
-      "correctAnswer": "Pierce Brosnan",
+      "category": "society_and_culture",
+      "id": "6266e632ff2394bd44dee038",
+      "correctAnswer": "Trois",
       "incorrectAnswers": [
-        "Timothy Dalton",
-        "Roger Moore",
-        "George Lazenby"
+        "Tre",
+        "Drie",
+        "Noir"
       ],
       "question": {
-        "text": "Who played the role of James Bond in The World is Not Enough?"
+        "text": "In French, what is the word for for 'three'?"
       },
       "tags": [
-        "james_bond",
-        "film",
-        "acting",
-        "film_and_tv"
+        "language",
+        "translations",
+        "society_and_culture"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d4b",
-      "correctAnswer": "One Direction",
-      "incorrectAnswers": [
-        "The Beatles",
-        "NWA",
-        "Oasis"
-      ],
-      "question": {
-        "text": "Which band was Niall Horan a member of?"
-      },
-      "tags": [
-        "music",
-        "pop_music",
-        "bands"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e2c",
-      "correctAnswer": "Gustave Flaubert",
+      "id": "646089a9de964ebc39016c71",
+      "correctAnswer": "Botticelli",
       "incorrectAnswers": [
-        "Anatole France",
-        "Guy de Maupassant",
-        "Charles Perrault"
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Raphael"
       ],
       "question": {
-        "text": "Which author wrote 'Madame Bovary'?"
+        "text": "Which Italian artist shocked 1485 Florence with his large nude painting of the birth of a goddess?"
       },
       "tags": [
+        "painting",
+        "renaissance",
+        "art",
+        "arts_and_literature",
+        "1400's"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f96a",
+      "correctAnswer": "We Have Always Lived in the Castle",
+      "incorrectAnswers": [
+        "The Stranger",
+        "To the Lighthouse",
+        "Native Son"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Mary Katherine Blackwood'?"
+      },
+      "tags": [
+        "fictitious_characters",
         "literature",
         "arts_and_literature"
       ],
@@ -556,22 +305,68 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa90",
-      "correctAnswer": "Viola Davis",
+      "category": "sport_and_leisure",
+      "id": "646262f6ab138b829b81ea6d",
+      "correctAnswer": "18",
       "incorrectAnswers": [
-        "Naomie Harris",
-        "Nicole Kidman",
-        "Octavia Spencer"
+        "20",
+        "14",
+        "16"
       ],
       "question": {
-        "text": "Who won the 2016 Academy Award for Best Supporting Actress for playing the role of Rose Maxson in Fences?"
+        "text": "How many slots with odd numbers does a standard roulette wheel have?"
       },
       "tags": [
-        "acting",
-        "film",
-        "academy_awards",
-        "film_and_tv"
+        "gambling",
+        "casinos",
+        "games"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9519b0",
+      "correctAnswer": "Arc de Triomphe",
+      "incorrectAnswers": [
+        "Le Louvre",
+        "The Eiffel Tower",
+        "Notre Dame Cathedral"
+      ],
+      "question": {
+        "text": "What did Napoleon have built to commemorate his victories?"
+      },
+      "tags": [
+        "france",
+        "leaders",
+        "people",
+        "buildings",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "625006450d86c8f685d80ede",
+      "correctAnswer": "Anelli",
+      "incorrectAnswers": [
+        "Gomiti",
+        "Penne",
+        "Ravioli"
+      ],
+      "question": {
+        "text": "Which pasta's name means 'Rings'?"
+      },
+      "tags": [
+        "food",
+        "words",
+        "language",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -579,19 +374,44 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f54",
-      "correctAnswer": "Jules Verne",
+      "category": "science",
+      "id": "63f39500989356ef48370bde",
+      "correctAnswer": "Shortness of breath",
       "incorrectAnswers": [
-        "Victor Hugo",
-        "Alphonse Daudet",
-        "Edgar Rice Burroughs"
+        "Fever",
+        "Weight loss",
+        "Headache"
       ],
       "question": {
-        "text": "Which author wrote 'Twenty Thousand Leagues Under the Sea'?"
+        "text": "Which of the following is a symptom of asthma?"
       },
       "tags": [
-        "arts_and_literature"
+        "science",
+        "medicine",
+        "biology"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611f254b176d54800e3d44",
+      "correctAnswer": "1948",
+      "incorrectAnswers": [
+        "1940",
+        "1956",
+        "1961"
+      ],
+      "question": {
+        "text": "When was Israel created?"
+      },
+      "tags": [
+        "events",
+        "politics",
+        "the_middle_east",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -600,19 +420,63 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f950567",
-      "correctAnswer": "Picture postcards",
+      "id": "64626250ab138b829b81e9f3",
+      "correctAnswer": "Albert Einstein",
       "incorrectAnswers": [
-        "The structure of diseased tissues",
-        "Changes in social norms",
-        "Ethics"
+        "Isaac Newton",
+        "Stephen Hawking",
+        "Galileo Galilei"
       ],
       "question": {
-        "text": "What is deltiology the study of?"
+        "text": "Which famous scientist was taught math by Hermann Minkowski in the 1890s?"
       },
       "tags": [
         "science",
-        "words"
+        "people",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515a2",
+      "correctAnswer": "Three ",
+      "incorrectAnswers": [
+        "Two",
+        "Four",
+        "Five"
+      ],
+      "question": {
+        "text": "How many pieces of bun are in a Mcdonald's Big Mac?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f991",
+      "correctAnswer": "Tinker",
+      "incorrectAnswers": [
+        "Winnie the Pooh",
+        "One Hundred Years of Solitude",
+        "Parade's End"
+      ],
+      "question": {
+        "text": "Which book contains the character 'George Smiley'?"
+      },
+      "tags": [
+        "literature",
+        "fictitious_characters",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -620,24 +484,180 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "648888d35dba6c873ef65088",
-      "correctAnswer": "Filly",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ffb2",
+      "correctAnswer": "Aerosmith",
       "incorrectAnswers": [
-        "Pony",
-        "Stallion",
-        "Mare"
+        "AC/DC",
+        "David Bowie",
+        "Freddie Mercury"
       ],
       "question": {
-        "text": "What term is used for a female horse that is aged four years or under?"
+        "text": "Who Suggested \"Lets Get Rocked\""
       },
       "tags": [
-        "horses",
-        "animals",
-        "science"
+        "lyrics",
+        "music"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe3f",
+      "correctAnswer": "Tiber",
+      "incorrectAnswers": [
+        "Rubicon",
+        "Romanus",
+        "Remus"
+      ],
+      "question": {
+        "text": "Which river runs through Rome?"
+      },
+      "tags": [
+        "rivers",
+        "italy",
+        "romans",
+        "cities",
+        "europe",
+        "bodies_of_water",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "639ae85d929b90846f2fc8d6",
+      "correctAnswer": "Darth Vader",
+      "incorrectAnswers": [
+        "Obi-Wan Kenobi",
+        "Han Solo",
+        "Yoda"
+      ],
+      "question": {
+        "text": "In Star Wars, who is Luke Skywalker's father?"
+      },
+      "tags": [
+        "star_wars",
+        "film",
+        "film_and_tv",
+        "science_fiction",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f990",
+      "correctAnswer": "To the Lighthouse",
+      "incorrectAnswers": [
+        "The Sound and the Fury",
+        "Ulysses",
+        "All the King's Men"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Mrs. Ramsay'?"
+      },
+      "tags": [
+        "literature",
+        "fictitious_characters",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740b59da29df7b05f73f2",
+      "correctAnswer": "A naive youth leader is appointed to fill a vacancy in the U.S. Senate.",
+      "incorrectAnswers": [
+        "Two magicians in 1890s London engage in a battle to create the ultimate illusion.",
+        "A girl wanders into a world ruled by gods, witches, and spirits, where humans are changed into beasts.",
+        "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Mr. Smith Goes to Washington?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e29",
+      "correctAnswer": "Erich Maria Remarque",
+      "incorrectAnswers": [
+        "Robert Silverberg",
+        "Frederik Pohl",
+        "Mario Puzo"
+      ],
+      "question": {
+        "text": "Which author wrote 'All Quiet on the Western Front'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f95068f",
+      "correctAnswer": "Laura Linney",
+      "incorrectAnswers": [
+        "Keira Knightley",
+        "Frances Fisher",
+        "Rachel Weisz"
+      ],
+      "question": {
+        "text": "Which actress has played roles in films including The Truman Show and Mystic River?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "645f9528541c4d4fc8cf2eb9",
+      "correctAnswer": "Britannia",
+      "incorrectAnswers": [
+        "Albion",
+        "Roma",
+        "Britanica"
+      ],
+      "question": {
+        "text": "What was the name the Romans gave to Great Britain?"
+      },
+      "tags": [
+        "romans",
+        "history",
+        "names"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     }
