@@ -1,18 +1,629 @@
 {
-  "gameDate": "2026-06-02",
+  "gameDate": "2026-06-03",
   "difficulty": "hard",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f937",
-      "correctAnswer": "Apocalypse Now",
+      "category": "general_knowledge",
+      "id": "622a1c3a7cc59eab6f95102e",
+      "correctAnswer": "Swan",
       "incorrectAnswers": [
-        "Citizen Kane",
-        "Austin Powers: International Man of Mystery",
+        "Ring",
+        "River",
+        "Mountain"
+      ],
+      "question": {
+        "text": "What is the meaning of the name of the constellation Cygnus?"
+      },
+      "tags": [
+        "names",
+        "astronomy",
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950ce6",
+      "correctAnswer": "Queen",
+      "incorrectAnswers": [
+        "Deep Purple",
+        "Feeder",
+        "Led Zeppelin"
+      ],
+      "question": {
+        "text": "Which British rock band released the album 'Innuendo'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "646089a2de964ebc39016c57",
+      "correctAnswer": "The Mughal Empire",
+      "incorrectAnswers": [
+        "The French Empire",
+        "The Aztec Empire",
+        "The Hittite Empire"
+      ],
+      "question": {
+        "text": "Which empire of the past had the \"Peacock Throne\"?"
+      },
+      "tags": [
+        "empires",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "645bb13cf09106226db23593",
+      "correctAnswer": "Flower",
+      "incorrectAnswers": [
+        "Root",
+        "Leaf",
+        "Seed"
+      ],
+      "question": {
+        "text": "What part of the kudzu plant can be turned into a jelly?"
+      },
+      "tags": [
+        "cuisine",
+        "plants",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "625006560d86c8f685d80ee3",
+      "correctAnswer": "Little holes",
+      "incorrectAnswers": [
+        "Small thimbles",
+        "homemade",
+        "Corkscrews"
+      ],
+      "question": {
+        "text": "The pasta bucatini has what meaning in Italian?"
+      },
+      "tags": [
+        "food",
+        "words",
+        "language",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625698809da29df7b05f728b",
+      "correctAnswer": "Agent Phil Coulson",
+      "incorrectAnswers": [
+        "Wong",
+        "Dr. Bruce Banner",
+        "Nick Fury"
+      ],
+      "question": {
+        "text": "In the Marvel Cinematic Universe, which character is played by Clark Gregg?"
+      },
+      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6463395701d576cfac3aa362",
+      "correctAnswer": "Australia",
+      "incorrectAnswers": [
+        "Canada",
+        "The Republic of Ireland",
+        "United States"
+      ],
+      "question": {
+        "text": "In which country is the Samuel Griffith Society headquartered, dedicated to upholding the constitution of said nation?"
+      },
+      "tags": [
+        "law",
+        "society_and_culture",
+        "government"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "647edb8d520523194910c344",
+      "correctAnswer": "Autobahn",
+      "incorrectAnswers": [
+        "Bundestrasse",
+        "Reichstag",
+        "Schwartzkopf"
+      ],
+      "question": {
+        "text": "What word is used for Germany's main highways?"
+      },
+      "tags": [
+        "roads",
+        "germany",
+        "words",
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6355b7dbe8b368eed3a68230",
+      "correctAnswer": "The th in 'think'",
+      "incorrectAnswers": [
+        "The ch in 'cheese'",
+        "The j in 'juice'",
+        "The t in 'train'"
+      ],
+      "question": {
+        "text": "In phonetics, which of these is an example of a fricative sound?"
+      },
+      "tags": [
+        "language",
+        "linguistics",
+        "general_knowledge",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f9fb",
+      "correctAnswer": "Édouard Manet",
+      "incorrectAnswers": [
+        "‎‎Edvard Munch",
+        "‎Pablo Picasso",
+        "Henri Rousseau"
+      ],
+      "question": {
+        "text": "Which artist painted \"Olympia\""
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fd9",
+      "correctAnswer": "Copper and Zinc",
+      "incorrectAnswers": [
+        "Iron and Bronze",
+        "Silver and Steel",
+        "Tin and Gold"
+      ],
+      "question": {
+        "text": "Which two metals make up brass?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951ac4",
+      "correctAnswer": "Calypso",
+      "incorrectAnswers": [
+        "Discovery",
+        "Terra Nova",
+        "Beagle"
+      ],
+      "question": {
+        "text": "What was the name of Jacques Cousteau's research ship?"
+      },
+      "tags": [
+        "names",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6477bb12550bc819ad646b6d",
+      "correctAnswer": "The Indy 500",
+      "incorrectAnswers": [
+        "The Daytona 500",
+        "The Monaco Grand Prix",
+        "The 24 Hours of Le Mans"
+      ],
+      "question": {
+        "text": "In which race did Janet Guthrie become the first woman to compete in 1977?"
+      },
+      "tags": [
+        "racing",
+        "motoring",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cf0",
+      "correctAnswer": "Queen",
+      "incorrectAnswers": [
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
+      ],
+      "question": {
+        "text": "Which British rock band (1970-) released the song 'Crazy Little Thing Called Love'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63b069534799123c67712f7d",
+      "correctAnswer": "Kebaya",
+      "incorrectAnswers": [
+        "Kaftan",
+        "Dashiki",
+        "Thobe"
+      ],
+      "question": {
+        "text": "Which of these is a form of clothing worn by women in Malaysia and Indonesia?"
+      },
+      "tags": [
+        "society_and_culture",
+        "fashion",
+        "southeast_asia",
+        "malaysia",
+        "indonesia"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f95017d",
+      "correctAnswer": "Rudyard Kipling",
+      "incorrectAnswers": [
+        "A A Milne",
+        "Roald Dahl",
+        "C S Lewis"
+      ],
+      "question": {
+        "text": "Which author wrote the \"Just So Stories\"?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611f744b176d54800e3d5a",
+      "correctAnswer": "1942",
+      "incorrectAnswers": [
+        "1918",
+        "1926",
+        "1934"
+      ],
+      "question": {
+        "text": "When the penicillin first successfully used to treat a patient for septicaemia?"
+      },
+      "tags": [
+        "events",
+        "firsts",
+        "medicine",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e65eff2394bd44dee045",
+      "correctAnswer": "Five",
+      "incorrectAnswers": [
+        "Blue",
+        "Yellow",
+        "Black"
+      ],
+      "question": {
+        "text": "What does the word 'fünf' mean in German?"
+      },
+      "tags": [
+        "language",
+        "translations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95135f",
+      "correctAnswer": "Monotype",
+      "incorrectAnswers": [
+        "Watercolor",
+        "Mache",
+        "Stenography"
+      ],
+      "question": {
+        "text": "What is the word given to a unique image printed from a polished plate which has been painted with a design in ink?"
+      },
+      "tags": [
+        "words",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f05",
+      "correctAnswer": "Fyodor Dostoyevsky",
+      "incorrectAnswers": [
+        "Vladimir Nabokov",
+        "Leo Tolstoy",
+        "Mikhail Bulgakov"
+      ],
+      "question": {
+        "text": "Which author wrote 'Humiliated and Insulted'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62373fbccb85f7ce9e949cb6",
+      "correctAnswer": "Gaborone",
+      "incorrectAnswers": [
+        "Amman",
+        "Rabat",
+        "Valletta"
+      ],
+      "question": {
+        "text": "What is the capital city of Botswana?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f06",
+      "correctAnswer": "Astrid Lindgren",
+      "incorrectAnswers": [
+        "Charles Perrault",
+        "Enid Blyton",
+        "Beatrix Potter"
+      ],
+      "question": {
+        "text": "Which author wrote 'Mio, My Son'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c3c7cc59eab6f9518f4",
+      "correctAnswer": "The Misfits",
+      "incorrectAnswers": [
+        "The Freaks",
+        "The Outcasts",
+        "The Pariahs"
+      ],
+      "question": {
+        "text": "What was Marilyn Monroe's last film?"
+      },
+      "tags": [
+        "film",
+        "people",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f12",
+      "correctAnswer": "Alexander Pushkin",
+      "incorrectAnswers": [
+        "Nikolai Gogol",
+        "Leo Tolstoy",
+        "Henryk Sienkiewicz"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Captain's Daughter'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94feb3",
+      "correctAnswer": "Rihanna",
+      "incorrectAnswers": [
+        "Drake",
+        "Nicki Minaj",
+        "Ricky Martin"
+      ],
+      "question": {
+        "text": "Which singer released the studio album 'Unapologetic'?"
+      },
+      "tags": [
+        "music_albums",
+        "musicians",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417d370f96c4efe8d773b0",
+      "correctAnswer": "Las Vegas Raiders",
+      "incorrectAnswers": [
+        "Las Vegas Blackhawks",
+        "Las Vegas 76ers",
+        "Las Vegas Eagles"
+      ],
+      "question": {
+        "text": "Which of these is an American Football team based in Las Vegas?"
+      },
+      "tags": [
+        "usa",
+        "las_vegas",
+        "football",
+        "american_football",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f88f",
+      "correctAnswer": "Cycling",
+      "incorrectAnswers": [
+        "Motor racing",
+        "Gymnastics",
+        "Hockey"
+      ],
+      "question": {
+        "text": "With which sport is Jacques Anquetil associated?"
+      },
+      "tags": [
+        "people",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fb90",
+      "correctAnswer": "\"Let's Go Crazy\" by Prince",
+      "incorrectAnswers": [
+        "\"Jumpin', Jumpin'\" by Destiny's Child",
+        "\"I Write Sins Not Tragedies\" by Panic! at the Disco",
+        "\"Gimme More\" by Britney Spears"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"Dearly beloved, we have gathered here today to get through this thing called life.\"?"
+      },
+      "tags": [
+        "songs",
+        "lyrics",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f951",
+      "correctAnswer": "The 400 Blows",
+      "incorrectAnswers": [
+        "A Streetcar Named Desire",
+        "All About Eve",
         "Pirates of the Caribbean"
       ],
       "question": {
-        "text": "Which film contains the character 'Lt. Col. Bill Kilgore'?"
+        "text": "Which film contains the character 'Antoine Doinel'?"
       },
       "tags": [
         "film",
@@ -25,623 +636,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c357cc59eab6f94fc40",
-      "correctAnswer": "\"The stuff that dreams are made of.\"",
-      "incorrectAnswers": [
-        "\"Stella! Hey, Stella!\"",
-        "\"Nobody makes me bleed my own blood. Nobody!\"",
-        "\"I'll be back.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'The Maltese Falcon'?"
-      },
-      "tags": [
-        "film",
-        "quotes",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc54",
-      "correctAnswer": "Woebegone",
-      "incorrectAnswers": [
-        "Ratoon",
-        "Dragoman",
-        "Bobsy-die"
-      ],
-      "question": {
-        "text": "Which word is defined as 'sad or miserable in appearance'?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3d7cc59eab6f951c24",
-      "correctAnswer": "Periods",
-      "incorrectAnswers": [
-        "Cycles",
-        "Eons",
-        "Stratas"
-      ],
-      "question": {
-        "text": "Geological eras are divided into units called ________."
-      },
-      "tags": [
-        "geology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6502100c2b411b896c984b23",
-      "correctAnswer": "Baseball",
-      "incorrectAnswers": [
-        "Basketball",
-        "Soccer",
-        "Tennis"
-      ],
-      "question": {
-        "text": "\"The Perfect Game\" is a 2009 family movie about which sport?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506b9",
-      "correctAnswer": "Kristin Scott Thomas",
-      "incorrectAnswers": [
-        "Glenn Close",
-        "Reese Witherspoon",
-        "Melissa Leo"
-      ],
-      "question": {
-        "text": "Which actress has appeared in films including The English Patient and Gosford Park?"
-      },
-      "tags": [
-        "film_and_tv",
-        "film",
-        "acting"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3d7cc59eab6f951b7c",
-      "correctAnswer": "Eyes",
-      "incorrectAnswers": [
-        "Skies",
-        "Lies",
-        "Flies"
-      ],
-      "question": {
-        "text": "In cockney rhyming slang what are 'Mince Pies'?"
-      },
-      "tags": [
-        "language",
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc30",
-      "correctAnswer": "\"Round up the usual suspects.\"",
-      "incorrectAnswers": [
-        "\"This is the day you will always remember as the day you almost caught Captain Jack Sparrow!\"",
-        "\"Mother of mercy, is this the end of Rico?\"",
-        "\"Keep your friends close, but your enemies closer.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Casablanca'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6266bc18ff2394bd44dedff8",
-      "correctAnswer": "Woodwind",
-      "incorrectAnswers": [
-        "Stringed",
-        "Brass",
-        "Percussion"
-      ],
-      "question": {
-        "text": "What type of instrument is a ocarina?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624ab092348a461bfc670684",
-      "correctAnswer": "Europe",
-      "incorrectAnswers": [
-        "Central America",
-        "China",
-        "Central Asia"
-      ],
-      "question": {
-        "text": "Where in the world are parsnips originally from?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ec137f41d6338b96eed5",
-      "correctAnswer": "Chemist and physicist who ade contributions to atomic theory.",
-      "incorrectAnswers": [
-        "Industrialist who revolutionised mass-production techniques.",
-        "Confirmed the theory that Earth revolves around The Sun.",
-        "38th President of the US."
-      ],
-      "question": {
-        "text": "Which of the following describes John Dalton?"
-      },
-      "tags": [
-        "people",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "625e9ebc796f721e95543f69",
-      "correctAnswer": "Yellow",
+      "id": "622a1c357cc59eab6f94ffff",
+      "correctAnswer": "Canada",
       "incorrectAnswers": [
-        "White",
-        "Black",
-        "Orange"
+        "United States of America",
+        "Mexico",
+        "Russia"
       ],
       "question": {
-        "text": "Which of these colors is included on the flag of Guinea?"
+        "text": "The world's biggest meteor crater is located in which country?"
       },
       "tags": [
-        "flags",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "64e6fdd50b79e5bedd55c8e3",
-      "correctAnswer": "Sing with all the voices of the mountain",
-      "incorrectAnswers": [
-        "Swim with all the water in the river",
-        "Speak with all the spirits of the trees",
-        "Dance with all the animals in the forest"
-      ],
-      "question": {
-        "text": "In the Disney movie 'Pocahontas', what does Pocahontas ask if you can do?"
-      },
-      "tags": [
-        "songs",
-        "disney",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "646262f6ab138b829b81ea70",
-      "correctAnswer": "Peanuts",
-      "incorrectAnswers": [
-        "Garfield",
-        "Calvin and Hobbes",
-        "Dilbert"
-      ],
-      "question": {
-        "text": "In which comic strip is the insecure boy, Linus van Pelt, found?"
-      },
-      "tags": [
-        "cartoons",
-        "comics",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "636a52a5990390307063f3b0",
-      "correctAnswer": "Sweet Jane",
-      "incorrectAnswers": [
-        "Blue Suede Shoes",
-        "I Love Rock 'n' Roll",
-        "Tainted Love"
-      ],
-      "question": {
-        "text": "Which song was originally recorded by The Velvet Underground and was later covered by Cowboy Junkies?"
-      },
-      "tags": [
-        "music",
-        "cover_song",
-        "songs",
-        "musicians"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639ae35e929b90846f2fc8ca",
-      "correctAnswer": "Mictlantecuhtli",
-      "incorrectAnswers": [
-        "Tlaloc",
-        "Quetzalcoatl",
-        "Huitzilopochtli"
-      ],
-      "question": {
-        "text": "What is the name of the Aztec god of death?"
-      },
-      "tags": [
-        "history",
-        "aztecs"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b7a",
-      "correctAnswer": "The Offspring",
-      "incorrectAnswers": [
-        "Styx",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which punk band from the United States released the studio album 'Rise and Fall, Rage and Grace'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624dba60de6018633d31f6c2",
-      "correctAnswer": "Licence to Kill",
-      "incorrectAnswers": [
-        "The Living Daylights",
-        "Diamonds Are Forever",
-        "Goldfinger"
-      ],
-      "question": {
-        "text": "Which James Bond theme song was performed by Gladys Knight?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "soundtracks",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "646140f34d46e537ca8cda20",
-      "correctAnswer": "Uranium",
-      "incorrectAnswers": [
-        "Plutonium",
-        "Neptunium",
-        "Thorium"
-      ],
-      "question": {
-        "text": "Which element did Otto Hahn, Lise Meitner, and Fritz Strassman bombard to discover nuclear fission?"
-      },
-      "tags": [
-        "chemistry",
-        "physics",
-        "science",
-        "scientific_discoveries"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950044",
-      "correctAnswer": "Fred Perry",
-      "incorrectAnswers": [
-        "Roy Emerson",
-        "Rod Laver",
-        "Andre Agassi"
-      ],
-      "question": {
-        "text": "Who was the first to win the career grand slam of tennis (all four major championships)?"
-      },
-      "tags": [
-        "tennis",
-        "firsts",
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3d7cc59eab6f951c23",
-      "correctAnswer": "Epilepsy",
-      "incorrectAnswers": [
-        "Hemophilia",
-        "Asthma",
-        "Narcolepsy"
-      ],
-      "question": {
-        "text": "From what did Alexander the Great suffer?"
-      },
-      "tags": [
-        "people",
-        "medicine",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f950012",
-      "correctAnswer": "Bhutan",
-      "incorrectAnswers": [
-        "Bangladesh",
-        "Nepal",
-        "Myanmar"
-      ],
-      "question": {
-        "text": "____________ is derived from the Indian word Bhotanta, meaning \"the edge of Tibet.\" It is located in Asia near the southern fringes of the eastern Himalayas."
-      },
-      "tags": [
-        "countries",
-        "names",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "647f9dbc3a4302a719271636",
-      "correctAnswer": "Jack",
-      "incorrectAnswers": [
-        "Ensign",
-        "Pennant",
-        "Burgee"
-      ],
-      "question": {
-        "text": "What is the name of the flag flown on a short pole at the bow of a ship?"
-      },
-      "tags": [
-        "flags",
-        "society_and_culture",
-        "seafaring"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510bd",
-      "correctAnswer": "Catalyst",
-      "incorrectAnswers": [
-        "Precursor",
-        "Solvent",
-        "Base"
-      ],
-      "question": {
-        "text": "In dyeing what is the name given to the substance used for fixing the colour?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501b5",
-      "correctAnswer": "Wuthering Heights",
-      "incorrectAnswers": [
-        "The Shining",
-        "The Phantom of the Opera",
-        "Coraline"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line '1801—I have just returned from a visit to my landlord—the solitary neighbour that I shall be troubled with.'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f8a",
-      "correctAnswer": "William Shakespeare",
-      "incorrectAnswers": [
-        "Arthur C. Clarke",
-        "Isaac Newton",
-        "Enid Blyton"
-      ],
-      "question": {
-        "text": "Which author wrote 'Richard III'?"
-      },
-      "tags": [
-        "theater",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950de8",
-      "correctAnswer": "Louisa May Alcott",
-      "incorrectAnswers": [
-        "Edgar Allan Poe",
-        "Nathaniel Hawthorne",
-        "Stephen King"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Annotated Little Women'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f41",
-      "correctAnswer": "Edgar Allan Poe",
-      "incorrectAnswers": [
-        "Stephen King",
-        "Nathaniel Hawthorne",
-        "Mario Puzo"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Masque of the Red Death'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "64824e267778562fd76a95fb",
-      "correctAnswer": "Cuspid",
-      "incorrectAnswers": [
-        "Molar",
-        "Incisor",
-        "Premolar"
-      ],
-      "question": {
-        "text": "What is another name for a canine tooth?"
-      },
-      "tags": [
-        "dentistry",
-        "anatomy",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237423dcb85f7ce9e949db8",
-      "correctAnswer": "Victoria",
-      "incorrectAnswers": [
-        "Saint George's",
-        "Quito",
-        "Managua"
-      ],
-      "question": {
-        "text": "What is the capital city of Seychelles?"
-      },
-      "tags": [
-        "capital_cities",
+        "records",
+        "places",
+        "astronomy",
         "geography"
       ],
       "type": "text_choice",
