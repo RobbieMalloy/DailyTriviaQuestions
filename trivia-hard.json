@@ -1,41 +1,18 @@
 {
-  "gameDate": "2026-06-03",
+  "gameDate": "2026-06-04",
   "difficulty": "hard",
   "results": [
     {
-      "category": "general_knowledge",
-      "id": "622a1c3a7cc59eab6f95102e",
-      "correctAnswer": "Swan",
-      "incorrectAnswers": [
-        "Ring",
-        "River",
-        "Mountain"
-      ],
-      "question": {
-        "text": "What is the meaning of the name of the constellation Cygnus?"
-      },
-      "tags": [
-        "names",
-        "astronomy",
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c397cc59eab6f950ce6",
-      "correctAnswer": "Queen",
+      "id": "622a1c397cc59eab6f950d95",
+      "correctAnswer": "The Who",
       "incorrectAnswers": [
         "Deep Purple",
-        "Feeder",
-        "Led Zeppelin"
+        "Travis",
+        "Spandau Ballet"
       ],
       "question": {
-        "text": "Which British rock band released the album 'Innuendo'?"
+        "text": "Which band includes 'Keith Moon'?"
       },
       "tags": [
         "music"
@@ -46,19 +23,60 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "646089a2de964ebc39016c57",
-      "correctAnswer": "The Mughal Empire",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950bf0",
+      "correctAnswer": "Nightwish",
       "incorrectAnswers": [
-        "The French Empire",
-        "The Aztec Empire",
-        "The Hittite Empire"
+        "Haloo Helsinki!",
+        "Hanoi Rocks",
+        "Children of Bodom"
       ],
       "question": {
-        "text": "Which empire of the past had the \"Peacock Throne\"?"
+        "text": "Which Finnish symphonic metal band released the album 'Dark Passion Play'?"
       },
       "tags": [
-        "empires",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515e5",
+      "correctAnswer": "Coffee ",
+      "incorrectAnswers": [
+        "Wine",
+        "Beer",
+        "Cola"
+      ],
+      "question": {
+        "text": "Chicory root is used in a substitute for which drink?"
+      },
+      "tags": [
+        "drink",
+        "plants",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9519b3",
+      "correctAnswer": "Belize",
+      "incorrectAnswers": [
+        "Barbados",
+        "Guatemala",
+        "Jamaica"
+      ],
+      "question": {
+        "text": "What did British Honduras change its name to in 1973?"
+      },
+      "tags": [
         "history"
       ],
       "type": "text_choice",
@@ -67,160 +85,18 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "645bb13cf09106226db23593",
-      "correctAnswer": "Flower",
-      "incorrectAnswers": [
-        "Root",
-        "Leaf",
-        "Seed"
-      ],
-      "question": {
-        "text": "What part of the kudzu plant can be turned into a jelly?"
-      },
-      "tags": [
-        "cuisine",
-        "plants",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "625006560d86c8f685d80ee3",
-      "correctAnswer": "Little holes",
-      "incorrectAnswers": [
-        "Small thimbles",
-        "homemade",
-        "Corkscrews"
-      ],
-      "question": {
-        "text": "The pasta bucatini has what meaning in Italian?"
-      },
-      "tags": [
-        "food",
-        "words",
-        "language",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625698809da29df7b05f728b",
-      "correctAnswer": "Agent Phil Coulson",
-      "incorrectAnswers": [
-        "Wong",
-        "Dr. Bruce Banner",
-        "Nick Fury"
-      ],
-      "question": {
-        "text": "In the Marvel Cinematic Universe, which character is played by Clark Gregg?"
-      },
-      "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6463395701d576cfac3aa362",
-      "correctAnswer": "Australia",
-      "incorrectAnswers": [
-        "Canada",
-        "The Republic of Ireland",
-        "United States"
-      ],
-      "question": {
-        "text": "In which country is the Samuel Griffith Society headquartered, dedicated to upholding the constitution of said nation?"
-      },
-      "tags": [
-        "law",
-        "society_and_culture",
-        "government"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "647edb8d520523194910c344",
-      "correctAnswer": "Autobahn",
-      "incorrectAnswers": [
-        "Bundestrasse",
-        "Reichstag",
-        "Schwartzkopf"
-      ],
-      "question": {
-        "text": "What word is used for Germany's main highways?"
-      },
-      "tags": [
-        "roads",
-        "germany",
-        "words",
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6355b7dbe8b368eed3a68230",
-      "correctAnswer": "The th in 'think'",
-      "incorrectAnswers": [
-        "The ch in 'cheese'",
-        "The j in 'juice'",
-        "The t in 'train'"
-      ],
-      "question": {
-        "text": "In phonetics, which of these is an example of a fricative sound?"
-      },
-      "tags": [
-        "language",
-        "linguistics",
-        "general_knowledge",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f9fb",
-      "correctAnswer": "Édouard Manet",
+      "id": "622a1c397cc59eab6f950e4c",
+      "correctAnswer": "Nathaniel Hawthorne",
       "incorrectAnswers": [
-        "‎‎Edvard Munch",
-        "‎Pablo Picasso",
-        "Henri Rousseau"
+        "Robert E. Howard",
+        "Henryk Sienkiewicz",
+        "Charles Dickens"
       ],
       "question": {
-        "text": "Which artist painted \"Olympia\""
+        "text": "Which author wrote 'The Scarlet Letter'?"
       },
       "tags": [
-        "painting",
-        "art",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -230,15 +106,15 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f950fd9",
-      "correctAnswer": "Copper and Zinc",
+      "id": "622a1c377cc59eab6f950502",
+      "correctAnswer": "Rocks",
       "incorrectAnswers": [
-        "Iron and Bronze",
-        "Silver and Steel",
-        "Tin and Gold"
+        "Diseases of the lungs",
+        "Human movement",
+        "Light waves"
       ],
       "question": {
-        "text": "Which two metals make up brass?"
+        "text": "What is Lithology the study of?"
       },
       "tags": [
         "science"
@@ -249,106 +125,21 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951ac4",
-      "correctAnswer": "Calypso",
+      "category": "geography",
+      "id": "62374130cb85f7ce9e949d4c",
+      "correctAnswer": "Vilnius",
       "incorrectAnswers": [
-        "Discovery",
-        "Terra Nova",
-        "Beagle"
+        "Stockholm",
+        "Majuro",
+        "Cairo"
       ],
       "question": {
-        "text": "What was the name of Jacques Cousteau's research ship?"
+        "text": "What is the capital city of Lithuania?"
       },
       "tags": [
-        "names",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "6477bb12550bc819ad646b6d",
-      "correctAnswer": "The Indy 500",
-      "incorrectAnswers": [
-        "The Daytona 500",
-        "The Monaco Grand Prix",
-        "The 24 Hours of Le Mans"
-      ],
-      "question": {
-        "text": "In which race did Janet Guthrie become the first woman to compete in 1977?"
-      },
-      "tags": [
-        "racing",
-        "motoring",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950cf0",
-      "correctAnswer": "Queen",
-      "incorrectAnswers": [
-        "Level 42",
-        "Deep Purple",
-        "Feeder"
-      ],
-      "question": {
-        "text": "Which British rock band (1970-) released the song 'Crazy Little Thing Called Love'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63b069534799123c67712f7d",
-      "correctAnswer": "Kebaya",
-      "incorrectAnswers": [
-        "Kaftan",
-        "Dashiki",
-        "Thobe"
-      ],
-      "question": {
-        "text": "Which of these is a form of clothing worn by women in Malaysia and Indonesia?"
-      },
-      "tags": [
-        "society_and_culture",
-        "fashion",
-        "southeast_asia",
-        "malaysia",
-        "indonesia"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f95017d",
-      "correctAnswer": "Rudyard Kipling",
-      "incorrectAnswers": [
-        "A A Milne",
-        "Roald Dahl",
-        "C S Lewis"
-      ],
-      "question": {
-        "text": "Which author wrote the \"Just So Stories\"?"
-      },
-      "tags": [
-        "arts_and_literature"
+        "capital_cities",
+        "europe",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -357,85 +148,18 @@
     },
     {
       "category": "history",
-      "id": "62611f744b176d54800e3d5a",
-      "correctAnswer": "1942",
+      "id": "622a1c3d7cc59eab6f951c52",
+      "correctAnswer": "Venta Bulgarum",
       "incorrectAnswers": [
-        "1918",
-        "1926",
-        "1934"
+        "Aquae Sulis",
+        "Londinium",
+        "Camulodunum"
       ],
       "question": {
-        "text": "When the penicillin first successfully used to treat a patient for septicaemia?"
+        "text": "As what was Winchester known by the Romans?"
       },
       "tags": [
-        "events",
-        "firsts",
-        "medicine",
         "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6266e65eff2394bd44dee045",
-      "correctAnswer": "Five",
-      "incorrectAnswers": [
-        "Blue",
-        "Yellow",
-        "Black"
-      ],
-      "question": {
-        "text": "What does the word 'fünf' mean in German?"
-      },
-      "tags": [
-        "language",
-        "translations",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95135f",
-      "correctAnswer": "Monotype",
-      "incorrectAnswers": [
-        "Watercolor",
-        "Mache",
-        "Stenography"
-      ],
-      "question": {
-        "text": "What is the word given to a unique image printed from a polished plate which has been painted with a design in ink?"
-      },
-      "tags": [
-        "words",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f05",
-      "correctAnswer": "Fyodor Dostoyevsky",
-      "incorrectAnswers": [
-        "Vladimir Nabokov",
-        "Leo Tolstoy",
-        "Mikhail Bulgakov"
-      ],
-      "question": {
-        "text": "Which author wrote 'Humiliated and Insulted'?"
-      },
-      "tags": [
-        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -444,15 +168,15 @@
     },
     {
       "category": "geography",
-      "id": "62373fbccb85f7ce9e949cb6",
-      "correctAnswer": "Gaborone",
+      "id": "6237424bcb85f7ce9e949dbe",
+      "correctAnswer": "Bratislava",
       "incorrectAnswers": [
-        "Amman",
-        "Rabat",
-        "Valletta"
+        "Conakry",
+        "Prague",
+        "Zagreb"
       ],
       "question": {
-        "text": "What is the capital city of Botswana?"
+        "text": "What is the capital city of Slovakia?"
       },
       "tags": [
         "geography"
@@ -463,19 +187,43 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f06",
-      "correctAnswer": "Astrid Lindgren",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ffc6",
+      "correctAnswer": "New Edition",
       "incorrectAnswers": [
-        "Charles Perrault",
-        "Enid Blyton",
-        "Beatrix Potter"
+        "Shinedown",
+        "Fleetwood Mac",
+        "The Rooftop Singers "
       ],
       "question": {
-        "text": "Which author wrote 'Mio, My Son'?"
+        "text": "With Which Teen Band Did Bobby Brown Sing With Before Going Solo?"
       },
       "tags": [
-        "arts_and_literature"
+        "bands",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "6494b7cbd7601042f7eaa939",
+      "correctAnswer": "Brave New World",
+      "incorrectAnswers": [
+        "1984",
+        "Fahrenheit 451",
+        "The Handmaid's Tale"
+      ],
+      "question": {
+        "text": "In which dystopian novel are the terms 'Mother' and 'Father' forbidden?"
+      },
+      "tags": [
+        "science_fiction",
+        "novels",
+        "arts_and_literature",
+        "literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -484,19 +232,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f9518f4",
-      "correctAnswer": "The Misfits",
+      "id": "622a1c347cc59eab6f94f8ee",
+      "correctAnswer": "Robert Mitchum",
       "incorrectAnswers": [
-        "The Freaks",
-        "The Outcasts",
-        "The Pariahs"
+        "James Stewart",
+        "Dennis Hopper",
+        "John Belushi"
       ],
       "question": {
-        "text": "What was Marilyn Monroe's last film?"
+        "text": "Which actor played the role of Rev. Harry Powell in The Night of the Hunter?"
       },
       "tags": [
+        "acting",
         "film",
-        "people",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -505,16 +253,38 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f12",
-      "correctAnswer": "Alexander Pushkin",
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950068",
+      "correctAnswer": "John McEnroe",
       "incorrectAnswers": [
-        "Nikolai Gogol",
-        "Leo Tolstoy",
-        "Henryk Sienkiewicz"
+        "Pete Sampras",
+        "Bjorn Borg",
+        "Ivan Lendl"
       ],
       "question": {
-        "text": "Which author wrote 'The Captain's Daughter'?"
+        "text": "Which tennis player was famous for the 'You cannot be serious'' outburst?"
+      },
+      "tags": [
+        "people",
+        "tennis",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f950319",
+      "correctAnswer": "J.D Salinger",
+      "incorrectAnswers": [
+        "Henry Rollins",
+        "Chuck Palahnuik",
+        "Jack Kerouac"
+      ],
+      "question": {
+        "text": "Who Wrote The 1951 Novel The Catcher in the Rye?"
       },
       "tags": [
         "arts_and_literature"
@@ -526,19 +296,17 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94feb3",
-      "correctAnswer": "Rihanna",
+      "id": "622a1c397cc59eab6f950c80",
+      "correctAnswer": "U2",
       "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Ricky Martin"
+        "Public Image Ltd.",
+        "The Script",
+        "The Cure"
       ],
       "question": {
-        "text": "Which singer released the studio album 'Unapologetic'?"
+        "text": "Which Irish rock band released the song 'Beautiful Day'?"
       },
       "tags": [
-        "music_albums",
-        "musicians",
         "music"
       ],
       "type": "text_choice",
@@ -547,88 +315,19 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62417d370f96c4efe8d773b0",
-      "correctAnswer": "Las Vegas Raiders",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e58",
+      "correctAnswer": "Nathaniel Hawthorne",
       "incorrectAnswers": [
-        "Las Vegas Blackhawks",
-        "Las Vegas 76ers",
-        "Las Vegas Eagles"
+        "Robert E. Howard",
+        "Henryk Sienkiewicz",
+        "Charles Dickens"
       ],
       "question": {
-        "text": "Which of these is an American Football team based in Las Vegas?"
+        "text": "Which author wrote 'Twice-Told Tales'?"
       },
       "tags": [
-        "usa",
-        "las_vegas",
-        "football",
-        "american_football",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f88f",
-      "correctAnswer": "Cycling",
-      "incorrectAnswers": [
-        "Motor racing",
-        "Gymnastics",
-        "Hockey"
-      ],
-      "question": {
-        "text": "With which sport is Jacques Anquetil associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fb90",
-      "correctAnswer": "\"Let's Go Crazy\" by Prince",
-      "incorrectAnswers": [
-        "\"Jumpin', Jumpin'\" by Destiny's Child",
-        "\"I Write Sins Not Tragedies\" by Panic! at the Disco",
-        "\"Gimme More\" by Britney Spears"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"Dearly beloved, we have gathered here today to get through this thing called life.\"?"
-      },
-      "tags": [
-        "songs",
-        "lyrics",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f951",
-      "correctAnswer": "The 400 Blows",
-      "incorrectAnswers": [
-        "A Streetcar Named Desire",
-        "All About Eve",
-        "Pirates of the Caribbean"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Antoine Doinel'?"
-      },
-      "tags": [
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -637,20 +336,289 @@
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94ffff",
-      "correctAnswer": "Canada",
+      "id": "6233869b62eaad73716a8ce3",
+      "correctAnswer": "Antarctica ",
       "incorrectAnswers": [
-        "United States of America",
-        "Mexico",
-        "Russia"
+        "Australia",
+        "New Zealand",
+        "Scotland"
       ],
       "question": {
-        "text": "The world's biggest meteor crater is located in which country?"
+        "text": "Where would you find the Queen Alexandra, Queen Elizabeth and Queen Maud mountain ranges?"
       },
       "tags": [
-        "records",
-        "places",
-        "astronomy",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510e5",
+      "correctAnswer": "Giraffes",
+      "incorrectAnswers": [
+        "Rhinos",
+        "Deer",
+        "Elk"
+      ],
+      "question": {
+        "text": "__________ are the only animals born with horns."
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c70",
+      "correctAnswer": "U2",
+      "incorrectAnswers": [
+        "Public Image Ltd.",
+        "The Script",
+        "The Cure"
+      ],
+      "question": {
+        "text": "Which Irish rock band released the song 'All I Want Is You'?"
+      },
+      "tags": [
+        "rock_music",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95035b",
+      "correctAnswer": "John Macdonald",
+      "incorrectAnswers": [
+        "John Abbott",
+        "John Adams",
+        "John Trudeau"
+      ],
+      "question": {
+        "text": "Who was Canada's first Prime Minister?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f950176",
+      "correctAnswer": "Arthur Miller",
+      "incorrectAnswers": [
+        "William Johnson",
+        "Arnold Clark",
+        "Fred George"
+      ],
+      "question": {
+        "text": "Which US dramatist was once married to Marylin Monroe and penned the plays \"Death Of A Salesman\" and \"The Crucible\"?"
+      },
+      "tags": [
+        "people",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951be4",
+      "correctAnswer": "In an air crash",
+      "incorrectAnswers": [
+        "Poisoned",
+        "Shot",
+        "Attacked by a bear"
+      ],
+      "question": {
+        "text": "How Did UN Secretary General Dag Hammarskjoeld Die In September 1961?"
+      },
+      "tags": [
+        "1960's",
+        "people",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c3a",
+      "correctAnswer": "Coldplay",
+      "incorrectAnswers": [
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
+      ],
+      "question": {
+        "text": "Which British band released the studio album 'A Head Full of Dreams'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417d520f96c4efe8d773bb",
+      "correctAnswer": "Nashville SC",
+      "incorrectAnswers": [
+        "Nashville Canucks",
+        "Nashville Padres",
+        "Nashville Thunder"
+      ],
+      "question": {
+        "text": "Which of these is a soccer team based in Nashville?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cee",
+      "correctAnswer": "Queen",
+      "incorrectAnswers": [
+        "The Rolling Stones",
+        "The Police",
+        "Led Zeppelin"
+      ],
+      "question": {
+        "text": "Which British rock band released the studio album 'A Night at the Opera'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "636a5234990390307063f37f",
+      "correctAnswer": "Rusty Cage",
+      "incorrectAnswers": [
+        "Where Is My Mind",
+        "Cocaine",
+        "Woodstock"
+      ],
+      "question": {
+        "text": "Which song was originally recorded by Soundgarden and was later covered by Johnny Cash?"
+      },
+      "tags": [
+        "music",
+        "cover_song",
+        "songs",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94faf6",
+      "correctAnswer": "Emma Stone",
+      "incorrectAnswers": [
+        "Isabelle Huppert",
+        "Ruth Negga",
+        "Natalie Portman"
+      ],
+      "question": {
+        "text": "Who won the 2016 Academy Award for Best Leading Actress for playing the role of Mia in La La Land?"
+      },
+      "tags": [
+        "acting",
+        "academy_awards",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6477ba9a550bc819ad646ad6",
+      "correctAnswer": "Woody Harrelson",
+      "incorrectAnswers": [
+        "Brad Pitt",
+        "George Clooney",
+        "Leonardo DiCaprio"
+      ],
+      "question": {
+        "text": "Which actor played Marty Hart on 'True Detective'?"
+      },
+      "tags": [
+        "film_and_tv",
+        "tv",
+        "acting"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9519c3",
+      "correctAnswer": "Thailand",
+      "incorrectAnswers": [
+        "China",
+        "Saudi Arabia",
+        "Turkey"
+      ],
+      "question": {
+        "text": "What country was formerly known as Siam?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b57e8fd6c701a92118387",
+      "correctAnswer": "Turkey",
+      "incorrectAnswers": [
+        "Bosnia & Herzegovina",
+        "France",
+        "Italy"
+      ],
+      "question": {
+        "text": "In which country would you find the ancient Greek city of Hierapolis?"
+      },
+      "tags": [
         "geography"
       ],
       "type": "text_choice",
