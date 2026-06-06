@@ -1,21 +1,23 @@
 {
-  "gameDate": "2026-06-05",
+  "gameDate": "2026-06-06",
   "difficulty": "medium",
   "results": [
     {
       "category": "geography",
-      "id": "622a1c3c7cc59eab6f951b25",
-      "correctAnswer": "Indian Ocean",
+      "id": "648888995dba6c873ef65059",
+      "correctAnswer": "Vinson",
       "incorrectAnswers": [
-        "Pacific Ocean",
-        "Atlantic Ocean",
-        "Mediterranean Sea"
+        "Aconcagua",
+        "Everest",
+        "Denali"
       ],
       "question": {
-        "text": "In which body of water is Christmas Island?"
+        "text": "What is the highest peak on Antarctica?"
       },
       "tags": [
-        "geography"
+        "mountains",
+        "geography",
+        "antarctica"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -23,21 +25,69 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "647c9855f89e0968cfbc1a30",
-      "correctAnswer": "Gemini",
+      "category": "history",
+      "id": "65056ea77a97013de78b532f",
+      "correctAnswer": "Germany",
       "incorrectAnswers": [
-        "Taurus",
-        "Leo",
-        "Scorpio"
+        "France",
+        "Hungary",
+        "Russia"
       ],
       "question": {
-        "text": "Which dual-natured astrological sign is associated with Castor & Pollux and means two-faced?"
+        "text": "Which country did Angela Merkel lead from 2005 to 2021?"
       },
       "tags": [
-        "astrology",
-        "stars",
-        "society_and_culture"
+        "history",
+        "countries",
+        "europe",
+        "politics",
+        "world_leaders",
+        "people",
+        "2000's",
+        "2010's"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6498aef29acaa77d9ad7c503",
+      "correctAnswer": "The peso",
+      "incorrectAnswers": [
+        "The dollar",
+        "The maya",
+        "The matza"
+      ],
+      "question": {
+        "text": "What is the name of the currency used by both Chile and Colombia?"
+      },
+      "tags": [
+        "currency",
+        "society_and_culture",
+        "south_america"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "64a0966bcf8fd58080ceffef",
+      "correctAnswer": "Overexposed",
+      "incorrectAnswers": [
+        "Oversaturated",
+        "Underexposed",
+        "Undersaturated"
+      ],
+      "question": {
+        "text": "What is it called when a photograph is excessively bright due to too much light?"
+      },
+      "tags": [
+        "photography",
+        "technology"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -46,20 +96,349 @@
     },
     {
       "category": "food_and_drink",
-      "id": "6505704b7a97013de78b5576",
-      "correctAnswer": "Sardine",
+      "id": "63a03958c7d86251f9b65c47",
+      "correctAnswer": "Mascarpone",
       "incorrectAnswers": [
-        "Broccoli",
-        "Beef",
-        "Peanuts"
+        "Feta",
+        "Gouda",
+        "Mozzarella"
       ],
       "question": {
-        "text": "Which of these foods is a good source of omega-3 fatty acids?"
+        "text": "What type of cheese is used to make a Tiramisu?"
       },
       "tags": [
+        "cheese",
         "food_and_drink",
-        "food",
-        "nutrition"
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f95227e",
+      "correctAnswer": "Water",
+      "incorrectAnswers": [
+        "Oxygen",
+        "Salt",
+        "Wood"
+      ],
+      "question": {
+        "text": "What is Hydrogen Hydroxide is more commonly known as?"
+      },
+      "tags": [
+        "science",
+        "chemistry",
+        "materials"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "63a0399ec7d86251f9b65c91",
+      "correctAnswer": "Shan Yu",
+      "incorrectAnswers": [
+        "The Evil Queen",
+        "Ursula",
+        "Jafar"
+      ],
+      "question": {
+        "text": "What is the name of the villain in Mulan?"
+      },
+      "tags": [
+        "film_and_tv",
+        "disney",
+        "film",
+        "fictitious_characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63dd25d3742e43ed64f1f02a",
+      "correctAnswer": "Jack Dorsey",
+      "incorrectAnswers": [
+        "Steve Wozniak",
+        "Elon Musk",
+        "Bill Gates"
+      ],
+      "question": {
+        "text": "Who is the founder of Twitter?"
+      },
+      "tags": [
+        "society_and_culture",
+        "business",
+        "technology"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6498a3c00752843c0d8aadf4",
+      "correctAnswer": "Confucius",
+      "incorrectAnswers": [
+        "Laozi",
+        "Buddha",
+        "Sun Tzu"
+      ],
+      "question": {
+        "text": "Dating from the 5th century B.C., what is the name of the Asian philosopher who wrote 'The Analects'?"
+      },
+      "tags": [
+        "philosophy",
+        "literature",
+        "history",
+        "the_ancient_world",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374296cb85f7ce9e949ddc",
+      "correctAnswer": "Bangkok",
+      "incorrectAnswers": [
+        "Windhoek",
+        "Phnom Penh",
+        "Suva"
+      ],
+      "question": {
+        "text": "What is the capital city of Thailand?"
+      },
+      "tags": [
+        "capital_cities",
+        "southeast_asia",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951064",
+      "correctAnswer": "Americium",
+      "incorrectAnswers": [
+        "Merylium",
+        "Amon",
+        "Amortis"
+      ],
+      "question": {
+        "text": "What does the symbol 'Am' represent?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951085",
+      "correctAnswer": "Ballistics",
+      "incorrectAnswers": [
+        "Kinetics",
+        "Kinesics",
+        "Trajectics"
+      ],
+      "question": {
+        "text": "Which science deals with the motion of projectiles? "
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "64746b055a4c31088dd9d011",
+      "correctAnswer": "Haiti",
+      "incorrectAnswers": [
+        "Egypt",
+        "Cuba",
+        "Chile"
+      ],
+      "question": {
+        "text": "What is the only state in history to have been established by a slave revolt?"
+      },
+      "tags": [
+        "colonialism",
+        "countries",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8f8",
+      "correctAnswer": "Kathy Bates",
+      "incorrectAnswers": [
+        "Judy Garland",
+        "Glenn Close",
+        "Olivia Newton-John"
+      ],
+      "question": {
+        "text": "Which actress played the role of Annie Wilkes in Misery?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbd2",
+      "correctAnswer": "\"I am Groot.\"",
+      "incorrectAnswers": [
+        "\"Today, I consider myself the luckiest man on the face of the earth.\"",
+        "\"The stuff that dreams are made of.\"",
+        "\"I'll have what she's having.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Guardians of the Galaxy'?"
+      },
+      "tags": [
+        "film",
+        "quotes",
+        "mcu",
+        "marvel",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623735bccfe13103f55eb562",
+      "correctAnswer": "Russia",
+      "incorrectAnswers": [
+        "Peru",
+        "Uruguay",
+        "Romania"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.ru' at the end of its web addresses?"
+      },
+      "tags": [
+        "the_internet",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f95101c",
+      "correctAnswer": "A Monkey",
+      "incorrectAnswers": [
+        "A Bird",
+        "A Rodent",
+        "A Marsupial"
+      ],
+      "question": {
+        "text": "What Kind Of Animal Is A Marmoset?"
+      },
+      "tags": [
+        "animals"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6371629e1bf863c45ca6c38d",
+      "correctAnswer": "To victory",
+      "incorrectAnswers": [
+        "In good faith",
+        "Seize the day",
+        "Be vindictive"
+      ],
+      "question": {
+        "text": "How does that Latin phrase 'Ad victoriam' translate into English?"
+      },
+      "tags": [
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f9522c8",
+      "correctAnswer": "Ear",
+      "incorrectAnswers": [
+        "Throat",
+        "Nose",
+        "Eye"
+      ],
+      "question": {
+        "text": "The hammer, anvil, and stirrup are found in which part of the body?"
+      },
+      "tags": [
+        "science",
+        "biology",
+        "anatomy"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6471bcf37206d7c314606f5d",
+      "correctAnswer": "New Zealand",
+      "incorrectAnswers": [
+        "Australia",
+        "Indonesia",
+        "Philippines"
+      ],
+      "question": {
+        "text": "In which country is Lake Taupo?"
+      },
+      "tags": [
+        "bodies_of_water",
+        "lakes",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -68,19 +447,19 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fdce",
-      "correctAnswer": "Best Shot",
+      "id": "625063ebe12f6dec240bdf8c",
+      "correctAnswer": "Whip It",
       "incorrectAnswers": [
-        "Rhythm Stick",
-        "Lovin'",
-        "Poison Arrow"
+        "Epic",
+        "I Touch Myself",
+        "Mambo No. 5 (A Little Bit Of...)"
       ],
       "question": {
-        "text": "Pat Benatar Asked You To \"Hit Me With Your ________\""
+        "text": "What song did Devo have a hit with in 1980?"
       },
       "tags": [
         "songs",
-        "lyrics",
+        "one_hit_wonders",
         "music"
       ],
       "type": "text_choice",
@@ -89,22 +468,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "625007160d86c8f685d80f13",
-      "correctAnswer": "Small little pies",
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950733",
+      "correctAnswer": "Ralph Fiennes",
       "incorrectAnswers": [
-        "Little wheels",
-        "Large reeds",
-        "Bibs"
+        "Brian Cox",
+        "Mark Wahlberg",
+        "Leonardo DiCaprio"
       ],
       "question": {
-        "text": "The pasta tortellini has what meaning in Italian?"
+        "text": "Which actor has starred in both Harry Potter and Skyfall?"
       },
       "tags": [
-        "food",
-        "words",
-        "language",
-        "food_and_drink"
+        "acting",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -113,19 +491,20 @@
     },
     {
       "category": "music",
-      "id": "63f39503989356ef48370be4",
-      "correctAnswer": "Percussion",
+      "id": "65056ec17a97013de78b5354",
+      "correctAnswer": "Pyotr Ilyich Tchaikovsky",
       "incorrectAnswers": [
-        "String",
-        "Wind",
-        "Keyboard"
+        "Igor Stravinsky",
+        "Alexander Borodin",
+        "Nikolai Rimsky-Korsakov"
       ],
       "question": {
-        "text": "What type of instrument is a xylophone?"
+        "text": "Who composed the ballet \"Swan Lake\"?"
       },
       "tags": [
         "music",
-        "musical_instruments"
+        "classical",
+        "ballet"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -133,282 +512,20 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "625740179da29df7b05f73c3",
-      "correctAnswer": "L.A. Confidential",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe8c",
+      "correctAnswer": "Rihanna",
       "incorrectAnswers": [
-        "Aliens",
-        "Schindler's List",
-        "Raging Bull"
+        "Drake",
+        "Nicki Minaj",
+        "Ricky Martin"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'Three policemen investigate a series of murders with their own brand of justice.'"
+        "text": "Which singer released the song 'Run This Town'?"
       },
       "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "645c9f8642ea81e2554c5f2e",
-      "correctAnswer": "Apiology",
-      "incorrectAnswers": [
-        "Entomology",
-        "Ornithology",
-        "Zoology"
-      ],
-      "question": {
-        "text": "What is the study of bees called?"
-      },
-      "tags": [
-        "animals",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951882",
-      "correctAnswer": "Harvard",
-      "incorrectAnswers": [
-        "Stanford",
-        "Cornell",
-        "UCLA"
-      ],
-      "question": {
-        "text": "Founded in 1636, what is the oldest university in the USA? "
-      },
-      "tags": [
-        "usa",
-        "records",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "626288b64b176d54800e3db0",
-      "correctAnswer": "Honda",
-      "incorrectAnswers": [
-        "Mazda",
-        "Jaguar",
-        "Aston Martin"
-      ],
-      "question": {
-        "text": "Which motoring brand is associated with the marketing slogan 'The Power of Dreams'?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "motoring",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "647edb6c520523194910c333",
-      "correctAnswer": "Wrapped in pastry",
-      "incorrectAnswers": [
-        "Stuffed with meat",
-        "Eaten raw",
-        "Served with melted cheese"
-      ],
-      "question": {
-        "text": "In cooking does the French term 'en croute' mean?"
-      },
-      "tags": [
-        "cooking",
-        "french",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6477ba9d550bc819ad646aec",
-      "correctAnswer": "Olive",
-      "incorrectAnswers": [
-        "Lemon",
-        "Lime",
-        "Anchovy"
-      ],
-      "question": {
-        "text": "What type of brine is added to a traditional dirty martini?"
-      },
-      "tags": [
-        "drink",
-        "cocktails",
-        "alcohol",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "645bc75b4638d58091b1b9de",
-      "correctAnswer": "A Star Is Born",
-      "incorrectAnswers": [
-        "Grease",
-        "The Sound of Music",
-        "Rocky Horror Picture Show"
-      ],
-      "question": {
-        "text": "Barbra Streisand and Kris Kristofferson both won Golden Globe awards for their roles in what 1976 musical remake?"
-      },
-      "tags": [
-        "musicals",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950375",
-      "correctAnswer": "Pilgrims",
-      "incorrectAnswers": [
-        "Conquistadors",
-        "Explorers",
-        "Traders"
-      ],
-      "question": {
-        "text": "Who sailed to the new world in The Mayflower?"
-      },
-      "tags": [
-        "usa",
-        "general_knowledge",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "646140774d46e537ca8cd9bc",
-      "correctAnswer": "The Rosetta Stone",
-      "incorrectAnswers": [
-        "The Philosopher's Stone",
-        "The Stone of Destiny",
-        "The Cornerstone"
-      ],
-      "question": {
-        "text": "What is the name of the ancient stone tablet that was carved in 196 B.C., and helped scholars decipher Egyptian hieroglyphs?"
-      },
-      "tags": [
-        "archaeology",
-        "ancient_egypt",
-        "history",
-        "language",
-        "the_ancient_world"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6239f81c9129041bf3925cc7",
-      "correctAnswer": "Kilo",
-      "incorrectAnswers": [
-        "Kilimanjaro",
-        "Kuwait",
-        "King"
-      ],
-      "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter K?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9503cf",
-      "correctAnswer": "Axel Foley",
-      "incorrectAnswers": [
-        "Johnny West",
-        "Marcus Steel",
-        "Jarvis Hansen"
-      ],
-      "question": {
-        "text": "What was the name of Eddie Murphy's character in Beverly Hills Cop?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ebed7f41d6338b96eeca",
-      "correctAnswer": "Chemist who had a leading impact on the chemical revolution.",
-      "incorrectAnswers": [
-        "Improved the Newcomen steam engine creating an efficient steam engine.",
-        "King of Macedonia and military leader.",
-        "Liberator of Latin American countries."
-      ],
-      "question": {
-        "text": "Which of the following describes Antoine Laurent Lavoisier?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95052e",
-      "correctAnswer": "the age of the Earth",
-      "incorrectAnswers": [
-        "the biosphere and its relations to the lithosphere and atmosphere",
-        "the functions of the nervous system",
-        "the preparation of books and manuscripts"
-      ],
-      "question": {
-        "text": "What is Geochronology the study of?"
-      },
-      "tags": [
-        "science"
+        "songs",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -417,18 +534,18 @@
     },
     {
       "category": "geography",
-      "id": "623b57cafd6c701a9211837d",
-      "correctAnswer": "Saudi Arabia",
+      "id": "622a1c357cc59eab6f94fe53",
+      "correctAnswer": "Venice ",
       "incorrectAnswers": [
-        "Thailand",
-        "Mexico",
-        "Israel"
+        "Rome",
+        "Beijing",
+        "Ulaanbaatar"
       ],
       "question": {
-        "text": "In which country would you find the UNESCO World Heritage site of Al-Hijr Archaeological Site?"
+        "text": "In Which City Is Marco Polo Airport?"
       },
       "tags": [
-        "tourist_attractions",
+        "cities",
         "geography"
       ],
       "type": "text_choice",
@@ -437,192 +554,44 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b6d",
-      "correctAnswer": "The Clash",
+      "category": "history",
+      "id": "645bc180f09106226db235a8",
+      "correctAnswer": "Dutch East India Company",
       "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "The Rolling Stones"
+        "British East India Company",
+        "Portuguese East India Company",
+        "French East India Company"
       ],
       "question": {
-        "text": "Which band did Joe Strummer co-found in 1976?"
+        "text": "In 1610, what firm shipped tea to Europe for the first time?"
+      },
+      "tags": [
+        "trade",
+        "colonialism",
+        "1600's"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "636a527c990390307063f39e",
+      "correctAnswer": "Dolly Parton",
+      "incorrectAnswers": [
+        "Judy Garland",
+        "UB40",
+        "Manfred Mann"
+      ],
+      "question": {
+        "text": "Which artist first recorded 'I Will Always Love You', which was later covered by Whitney Houston?"
       },
       "tags": [
         "music",
-        "bands",
-        "1970's"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64e6fd9b0b79e5bedd55c8bf",
-      "correctAnswer": "Crudites",
-      "incorrectAnswers": [
-        "Amouse Bouche",
-        "Béchamel",
-        "Poisson"
-      ],
-      "question": {
-        "text": "In French cooking, what is the word for an appetizer of raw vegetables?"
-      },
-      "tags": [
-        "cuisine",
-        "france",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951083",
-      "correctAnswer": "Blue",
-      "incorrectAnswers": [
-        "Yellow",
-        "Purple",
-        "Red"
-      ],
-      "question": {
-        "text": "What colour is a robin's egg?"
-      },
-      "tags": [
-        "birds",
-        "animals",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "646140774d46e537ca8cd9bd",
-      "correctAnswer": "Vietnam",
-      "incorrectAnswers": [
-        "Iraq",
-        "Korea",
-        "Afghanistan"
-      ],
-      "question": {
-        "text": "Battles known as Con Thien and Hamburger Hill were fought during which 20th century conflict?"
-      },
-      "tags": [
-        "battles",
-        "wars",
-        "history",
-        "military"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951b44",
-      "correctAnswer": "1969",
-      "incorrectAnswers": [
-        "1967",
-        "1965",
-        "1963"
-      ],
-      "question": {
-        "text": "In What Year Did Neil Armstrong First Step Foot On The Moon?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64909c3c58265893a0c86d85",
-      "correctAnswer": "I love you",
-      "incorrectAnswers": [
-        "Good morning",
-        "Thank you",
-        "Excuse me"
-      ],
-      "question": {
-        "text": "What does the Spanish 'Te amo' mean in English?"
-      },
-      "tags": [
-        "spanish",
-        "language",
-        "translations"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "645c9fc342ea81e2554c5f76",
-      "correctAnswer": "Rhetoric",
-      "incorrectAnswers": [
-        "Didactic",
-        "Syntax",
-        "Semantics"
-      ],
-      "question": {
-        "text": "What is the term for the art or study of using language to persuade, which comes from the Greek word for \"orator\"?"
-      },
-      "tags": [
-        "words",
-        "language"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd665dc0dd3b72da64ced",
-      "correctAnswer": "1999",
-      "incorrectAnswers": [
-        "1993",
-        "1996",
-        "2002"
-      ],
-      "question": {
-        "text": "In which year was Fight Club released?"
-      },
-      "tags": [
-        "film"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951b4e",
-      "correctAnswer": "1842",
-      "incorrectAnswers": [
-        "1997",
-        "1945",
-        "1891"
-      ],
-      "question": {
-        "text": "In What Year Did Great Britain Gain Control Of Hong Hong?"
-      },
-      "tags": [
-        "history"
+        "cover_song",
+        "songs",
+        "musicians"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -631,17 +600,64 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ee7",
-      "correctAnswer": "H. G. Wells",
+      "id": "622a1c3a7cc59eab6f951365",
+      "correctAnswer": "Romanticism",
       "incorrectAnswers": [
-        "Neil Gaiman",
-        "Arthur C. Clarke",
-        "C. S. Lewis"
+        "Realism",
+        "Nostalgia",
+        "Kunboism"
       ],
       "question": {
-        "text": "Which author wrote 'The War of the Worlds'?"
+        "text": "Which artistic movement of the late eighteenth to mid-nineteenth century focused on emotion over reason, and on spontaneous expression."
       },
-      "tags": [],
+      "tags": [
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "63d952fc168979b94b2e4f6d",
+      "correctAnswer": "Kurt Cobain",
+      "incorrectAnswers": [
+        "Dave Grohl",
+        "Eddie Vedder",
+        "Chris Cornell"
+      ],
+      "question": {
+        "text": "Who was the lead singer of the '90s rock band, Nirvana?"
+      },
+      "tags": [
+        "1990's",
+        "music",
+        "bands",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "64a32df9fc63594e30247826",
+      "correctAnswer": "Portugal",
+      "incorrectAnswers": [
+        "Brazil",
+        "The Philippines",
+        "Greece"
+      ],
+      "question": {
+        "text": "What country are the Azores islands a part of?"
+      },
+      "tags": [
+        "geography",
+        "islands"
+      ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
