@@ -1,24 +1,132 @@
 {
-  "gameDate": "2026-06-07",
+  "gameDate": "2026-06-08",
   "difficulty": "random",
   "results": [
     {
       "category": "food_and_drink",
-      "id": "63bc3fb10e893d6e5a6a0fdf",
-      "correctAnswer": "Sachertorte",
+      "id": "622a1c367cc59eab6f9502a2",
+      "correctAnswer": "Tubular ",
       "incorrectAnswers": [
-        "Strudel",
-        "Kringle",
-        "Cannoli"
+        "Anulus",
+        "Spiral",
+        "Shell"
       ],
       "question": {
-        "text": "What is the name of a dessert which is a chocolate gateaux filled with apricot jam and topped with chocolate icing?"
+        "text": "What shape is macaroni?"
       },
       "tags": [
         "food",
-        "food_and_drink",
-        "baking",
-        "desserts"
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6476390bf05ea6d6f587a17a",
+      "correctAnswer": "Kilobyte",
+      "incorrectAnswers": [
+        "Gigabyte",
+        "Megabyte",
+        "Terabyte"
+      ],
+      "question": {
+        "text": "What is a unit of computer memory equal to 1024 bytes?"
+      },
+      "tags": [
+        "computing",
+        "science",
+        "technology",
+        "numbers"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd736dc0dd3b72da64d2b",
+      "correctAnswer": "2001",
+      "incorrectAnswers": [
+        "1992",
+        "1995",
+        "1998"
+      ],
+      "question": {
+        "text": "In which year was Monsters, Inc. first released in the cinema?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950403",
+      "correctAnswer": "The Crimean War",
+      "incorrectAnswers": [
+        "World War I",
+        "World War II",
+        "Russian Civil War"
+      ],
+      "question": {
+        "text": "The charge of the light brigade occured during which war?"
+      },
+      "tags": [
+        "history",
+        "wars"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd755dc0dd3b72da64d34",
+      "correctAnswer": "1991",
+      "incorrectAnswers": [
+        "1983",
+        "1987",
+        "1995"
+      ],
+      "question": {
+        "text": "In which year was Beauty and the Beast released?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ebe97f41d6338b96eec9",
+      "correctAnswer": "Nicolaus Copernicus",
+      "incorrectAnswers": [
+        "Zoroaster",
+        "Aristotle",
+        "Ernest Rutherford"
+      ],
+      "question": {
+        "text": "Which of these people was a Renaissance mathematician and astronomer who believed Sun was the centre of the Universe - rather than Earth?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture",
+        "astronomy",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -27,19 +135,18 @@
     },
     {
       "category": "food_and_drink",
-      "id": "627164621ba117625baac95c",
-      "correctAnswer": "Spain",
+      "id": "622a1c3b7cc59eab6f9515de",
+      "correctAnswer": "The Netherlands",
       "incorrectAnswers": [
-        "The Czech Republic",
-        "Cuba",
-        "The Phillipines"
+        "France",
+        "Poland",
+        "Turkey"
       ],
       "question": {
-        "text": "In which country is sangria a popular drink?"
+        "text": "From what country does Advocaat originate?"
       },
       "tags": [
-        "drink",
-        "alcohol"
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -47,21 +154,22 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "645bc4634638d58091b1b9d1",
-      "correctAnswer": "The Great Fire of London",
+      "category": "sport_and_leisure",
+      "id": "62417cfd0f96c4efe8d77399",
+      "correctAnswer": "Columbus Blue Jackets",
       "incorrectAnswers": [
-        "The Black Death",
-        "The London Blitz",
-        "The Gunpowder Plot"
+        "Columbus Mavericks",
+        "Columbus Predators",
+        "Columbus Whitesox"
       ],
       "question": {
-        "text": "What tragedy began on Pudding Lane, London on September 2, 1666?"
+        "text": "Which of these is a hockey team based in Columbus?"
       },
       "tags": [
-        "disasters",
-        "london",
-        "uk"
+        "hockey",
+        "usa",
+        "nhl",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -69,67 +177,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "648889175dba6c873ef650e2",
-      "correctAnswer": "The suspension system",
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9506fc",
+      "correctAnswer": "Elizabeth Banks",
       "incorrectAnswers": [
-        "The transmission system",
-        "The steering system",
-        "The braking system"
+        "Sandra Bæ Hovedr",
+        "Penélope Cruz",
+        "Emma Thompson"
       ],
       "question": {
-        "text": "What is the term for the system in your car that includes the springs, dampers and other parts responsible for shock absorption?"
+        "text": "Which actress has played roles in films including Spider-Man and The Hunger Games?"
       },
       "tags": [
-        "cars",
-        "engineering",
-        "technology",
-        "motoring",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f952249",
-      "correctAnswer": "Ultraviolet light",
-      "incorrectAnswers": [
-        "Radio waves",
-        "Gamma rays",
-        "Infrared"
-      ],
-      "question": {
-        "text": "In the electomagnetic spectrum, what comes between X-rays and visible light?"
-      },
-      "tags": [
-        "science",
-        "physics"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fdb1",
-      "correctAnswer": "John Lydon",
-      "incorrectAnswers": [
-        "Thomas King",
-        "Thomas Blythe",
-        "John Rudden"
-      ],
-      "question": {
-        "text": "What Is Johnny Rotten's Real Name?"
-      },
-      "tags": [
-        "pseudonyms",
-        "names",
-        "people",
-        "music"
+        "film_and_tv",
+        "acting"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -137,183 +198,102 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "62ab32d55202de619af2812a",
-      "correctAnswer": "Espace",
+      "category": "geography",
+      "id": "622a1c387cc59eab6f9508ce",
+      "correctAnswer": "Laos",
       "incorrectAnswers": [
-        "Accord",
-        "Focus",
-        "Model S"
+        "Malaysia",
+        "Singapore",
+        "Brunei"
       ],
       "question": {
-        "text": "Which of these is a model of car made by Renault?"
-      },
-      "tags": [
-        "motoring",
-        "business",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63dd25e2742e43ed64f1f03f",
-      "correctAnswer": "Monopoly",
-      "incorrectAnswers": [
-        "Oligopoly",
-        "Price Discrimination",
-        "Price Fixing"
-      ],
-      "question": {
-        "text": "What is the term for a business that has the exclusive right to supply a good or service in a given area?"
-      },
-      "tags": [
-        "society_and_culture",
-        "economics"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95056f",
-      "correctAnswer": "Crime",
-      "incorrectAnswers": [
-        "Human growth",
-        "Spiders",
-        "The color red"
-      ],
-      "question": {
-        "text": "What is criminology the study of?"
-      },
-      "tags": [
-        "science",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "6477bb12550bc819ad646b6e",
-      "correctAnswer": "The Hapsburgs",
-      "incorrectAnswers": [
-        "The Tudors",
-        "Medicis",
-        "The Rothschilds"
-      ],
-      "question": {
-        "text": "Which family held the position of Holy Roman Emperor almost uninterrupted from 1438 to 1806?"
-      },
-      "tags": [
-        "holy_roman_empire",
-        "europe",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "645c9f5442ea81e2554c5f1e",
-      "correctAnswer": "\"Can't Buy Me Love\"",
-      "incorrectAnswers": [
-        "\"Twist and Shout\"",
-        "\"A Hard Day's Night\"",
-        "\"Help!\""
-      ],
-      "question": {
-        "text": "Which song became The Beatles' third No. 1 in a row in April 1964, with the lyrics \"I'll buy you a diamond ring, my friend\"?"
-      },
-      "tags": [
-        "songs",
-        "lyrics",
-        "the_beatles",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "65056efe7a97013de78b53aa",
-      "correctAnswer": "zapato",
-      "incorrectAnswers": [
-        "bota",
-        "sandalia",
-        "calcetín"
-      ],
-      "question": {
-        "text": "What is the Spanish word for 'shoe'?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951096",
-      "correctAnswer": "Lava",
-      "incorrectAnswers": [
-        "Ash",
-        "Ignea",
-        "Pertrite"
-      ],
-      "question": {
-        "text": "The molten material from a volcano is ________"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95053a",
-      "correctAnswer": "Cats",
-      "incorrectAnswers": [
-        "Oceans",
-        "The lymph system",
-        "Angels"
-      ],
-      "question": {
-        "text": "What is Felinology the study of?"
+        "text": "Which of these countries borders Cambodia?"
       },
       "tags": [],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "646140784d46e537ca8cd9ca",
+      "correctAnswer": "Inauguration",
+      "incorrectAnswers": [
+        "Coronation",
+        "Installation",
+        "Ordination"
+      ],
+      "question": {
+        "text": "Which word refers to the ceremony in which a new President of the United States is formally introduced?"
+      },
+      "tags": [
+        "politics",
+        "presidents",
+        "society_and_culture",
+        "usa"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "626030544b176d54800e3d1d",
+      "correctAnswer": "South Africa",
+      "incorrectAnswers": [
+        "Ethiopia",
+        "Algeria",
+        "Tunisia"
+      ],
+      "question": {
+        "text": "In which country is the city of Pretoria?"
+      },
+      "tags": [
+        "cities",
+        "africa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233857b62eaad73716a8c73",
+      "correctAnswer": "Hartford",
+      "incorrectAnswers": [
+        "Belford",
+        "Scranton",
+        "Bellaclaire"
+      ],
+      "question": {
+        "text": "What U.S city is known as Insurance City?"
+      },
+      "tags": [
+        "cities",
+        "names",
+        "usa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f95100e",
-      "correctAnswer": "Dragon Flies",
+      "id": "622a1c3e7cc59eab6f9522eb",
+      "correctAnswer": "Butterflies & Moths",
       "incorrectAnswers": [
-        "Ants",
-        "Woodlice",
-        "Beetles"
+        "Leopards",
+        "Turtles & Tortoises",
+        "Sharks"
       ],
       "question": {
-        "text": "What Type Of Insects Are Hawkers, Clubtails, Biddies, Emeralds, Darts & Skimmers"
+        "text": "For What Is Lepidoptera The Scientific Name?"
       },
       "tags": [
         "science"
@@ -325,18 +305,150 @@
     },
     {
       "category": "geography",
-      "id": "62602d364b176d54800e3c87",
-      "correctAnswer": "Dubai",
+      "id": "625e9ecd796f721e95543f6d",
+      "correctAnswer": "Iran",
       "incorrectAnswers": [
-        "Muscat",
-        "Adana",
-        "Tel Aviv"
+        "Costa Rica",
+        "Brazil",
+        "Azerbaijan"
       ],
       "question": {
-        "text": "Which of these cities is in United Arab Emirates?"
+        "text": "Which country's flag fits the description of 'Three equal horizontal bands of green white and red.'?"
       },
       "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "64b9a297fa11352f5124c35b",
+      "correctAnswer": "Tallahassee",
+      "incorrectAnswers": [
+        "Miami",
+        "Orlando",
+        "Jacksonville"
+      ],
+      "question": {
+        "text": "Which city of Florida got its name from Creek words meaning 'old town'?"
+      },
+      "tags": [
+        "usa",
+        "geography",
         "cities",
+        "languages"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625063b1e12f6dec240bdf7b",
+      "correctAnswer": "Ice Ice Baby",
+      "incorrectAnswers": [
+        "I Want Candy",
+        "Baby Got Back",
+        "We're Not Gonna Take It"
+      ],
+      "question": {
+        "text": "Vanilla Ice had a one hit wonder in 1990 with which song?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "1990's",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056f8c7a97013de78b5470",
+      "correctAnswer": "Concorde",
+      "incorrectAnswers": [
+        "Boeing 747",
+        "MiG",
+        "Ilyushin Il-86"
+      ],
+      "question": {
+        "text": "What passenger jet airliner flew faster than the speed of sound?"
+      },
+      "tags": [
+        "history",
+        "aviation",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233852962eaad73716a8c53",
+      "correctAnswer": "The Mississippi",
+      "incorrectAnswers": [
+        "The Amazon",
+        "The Thames",
+        "The Nile"
+      ],
+      "question": {
+        "text": "What river is called \"Old Man River\"?"
+      },
+      "tags": [
+        "rivers",
+        "nicknames",
+        "bodies_of_water",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950867",
+      "correctAnswer": "Liberia",
+      "incorrectAnswers": [
+        "Guinea-Bissau",
+        "Ivory Coast",
+        "The Gambia"
+      ],
+      "question": {
+        "text": "Which of these countries borders Sierra Leone?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623742b4cb85f7ce9e949de8",
+      "correctAnswer": "Ankara",
+      "incorrectAnswers": [
+        "Istanbul",
+        "Antalya",
+        "Bursa"
+      ],
+      "question": {
+        "text": "What is the capital city of Turkey?"
+      },
+      "tags": [
         "geography"
       ],
       "type": "text_choice",
@@ -346,41 +458,19 @@
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f95162c",
-      "correctAnswer": "Port ",
+      "id": "6271649d1ba117625baac969",
+      "correctAnswer": "Jenever",
       "incorrectAnswers": [
-        "Vodka",
-        "Brandy",
-        "Amaretto"
+        "Brennivín",
+        "Akevitt",
+        "Gin"
       ],
       "question": {
-        "text": "Which drink comes in Ruby and Tawny varieties?"
+        "text": "Which of these drinks would you associate with Belgium?"
       },
       "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a54",
-      "correctAnswer": "Nero",
-      "incorrectAnswers": [
-        "Claudius",
-        "Augustus",
-        "Marcus Aurelius"
-      ],
-      "question": {
-        "text": "The Colosseum received its name not for its size, but for a colossal statue of which Emperor that stood close by?"
-      },
-      "tags": [
-        "romans",
-        "tourist_attractions",
-        "italy",
-        "history"
+        "drink",
+        "alcohol"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -389,41 +479,22 @@
     },
     {
       "category": "film_and_tv",
-      "id": "63a03983c7d86251f9b65c70",
-      "correctAnswer": "Arendelle",
+      "id": "625699239da29df7b05f72b4",
+      "correctAnswer": "Quentin Beck",
       "incorrectAnswers": [
-        "Aldovia",
-        "Neuschwanstein",
-        "Llorien"
+        "Obadiah Stane",
+        "James \"Rhodey\" Rhodes",
+        "Dr. Hank Pym"
       ],
       "question": {
-        "text": "What is the name of the magical kingdom in Frozen?"
+        "text": "Jake Gyllenhaal plays the role of which character in the Marvel Cinematic Universe?"
       },
       "tags": [
-        "film_and_tv",
-        "disney",
-        "film"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c357cc59eab6f94fc4d",
-      "correctAnswer": "\"Fasten your seatbelts. It's going to be a bumpy night.\"",
-      "incorrectAnswers": [
-        "\"We'll always have Paris.\"",
-        "\"I'm as mad as hell, and I'm not going to take this anymore!\"",
-        "\"I'll be back.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'All About Eve'?"
-      },
-      "tags": [
+        "mcu",
         "film",
-        "quotes",
+        "acting",
+        "marvel",
+        "comics",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -432,19 +503,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950df5",
-      "correctAnswer": "Virginia Woolf",
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950028",
+      "correctAnswer": "Tennis",
       "incorrectAnswers": [
-        "Oscar Wilde",
-        "George Orwell",
-        "Joseph Conrad"
+        "Rugby",
+        "Baseball",
+        "Golf"
       ],
       "question": {
-        "text": "Which author wrote 'Mrs Dalloway'?"
+        "text": "With which sport do you associate `Flushing Meadows`?"
       },
       "tags": [
-        "arts_and_literature"
+        "places",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -452,85 +524,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "64720cd13bbb58c31f411cb4",
-      "correctAnswer": "Billy Joel",
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f950207",
+      "correctAnswer": "Ron Howard",
       "incorrectAnswers": [
-        "Michael Jackson",
-        "Elton John",
-        "David Bowie"
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
       ],
       "question": {
-        "text": "Which musician won Album of the Year at the Grammys in 1979 for '52nd Street'?"
+        "text": "Which director directed Apollo 13?"
       },
       "tags": [
-        "music",
-        "music_albums"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515d0",
-      "correctAnswer": "India",
-      "incorrectAnswers": [
-        "Indonesia",
-        "Mexico",
-        "Nigeria"
-      ],
-      "question": {
-        "text": "From which country does the drink 'lassi' originate?"
-      },
-      "tags": [
-        "drink",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950282",
-      "correctAnswer": "Greece ",
-      "incorrectAnswers": [
-        "India",
-        "Morocco",
-        "Russia"
-      ],
-      "question": {
-        "text": "Where Might You Be Offered Ouzo?"
-      },
-      "tags": [
-        "drink",
-        "general_knowledge",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95024d",
-      "correctAnswer": "Apple ",
-      "incorrectAnswers": [
-        "Orange",
-        "Peach",
-        "Apricot"
-      ],
-      "question": {
-        "text": "Which fruit has the scientific name of malus pumulia?"
-      },
-      "tags": [
-        "food",
-        "names",
-        "food_and_drink"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -539,61 +546,22 @@
     },
     {
       "category": "history",
-      "id": "65056f4d7a97013de78b5417",
-      "correctAnswer": "Yasser Arafat",
+      "id": "639c9d93929b90846f2fc958",
+      "correctAnswer": "1989",
       "incorrectAnswers": [
-        "Yitzhak Rabin",
-        "Shimon Peres",
-        "Abu Qatada"
+        "1980",
+        "1985",
+        "1994"
       ],
       "question": {
-        "text": "Which Palestinian leader received the Nobel Peace Prize in 1994?"
+        "text": "In which year did the Berlin Wall fall?"
       },
       "tags": [
         "history",
-        "1990's"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62c92076a218dd4dc1ca17da",
-      "correctAnswer": "Love",
-      "incorrectAnswers": [
-        "Egg",
-        "Zilch",
-        "Nil"
-      ],
-      "question": {
-        "text": "What word is used for a score of 0 in a game of tennis?"
-      },
-      "tags": [
-        "sport",
-        "tennis",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "6384b43c83dddfb71ee5e368",
-      "correctAnswer": "The Grand National",
-      "incorrectAnswers": [
-        "The Africa Cup of Nations",
-        "The World Cup Sevens",
-        "The Copa América"
-      ],
-      "question": {
-        "text": "Which of these is a competition in Horse Racing?"
-      },
-      "tags": [
-        "sport"
+        "1900's",
+        "cold_war",
+        "germany",
+        "events"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -602,19 +570,39 @@
     },
     {
       "category": "science",
-      "id": "6243342ecfaae40c12961429",
-      "correctAnswer": "A Nymph",
+      "id": "622a1c3f7cc59eab6f952389",
+      "correctAnswer": "A Turtle",
       "incorrectAnswers": [
-        "A Bunny",
-        "A Duckling",
-        "A Poult"
+        "A Volcanic Rock",
+        "A Vegetable",
+        "A Type of Cloud"
       ],
       "question": {
-        "text": "What is the word for a young grasshopper?"
+        "text": "What is a terrapin?"
       },
       "tags": [
-        "animals",
         "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94feed",
+      "correctAnswer": "David Bowie",
+      "incorrectAnswers": [
+        "Eric Clapton",
+        "Madonna",
+        "Mika"
+      ],
+      "question": {
+        "text": "Which musician released the album 'Low'?"
+      },
+      "tags": [
+        "music_albums",
+        "musicians"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -622,20 +610,39 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc60",
-      "correctAnswer": "Quomodocunquizing",
+      "category": "sport_and_leisure",
+      "id": "62417cdb0f96c4efe8d7738c",
+      "correctAnswer": "Charlotte Hornets",
       "incorrectAnswers": [
-        "Agastopia",
-        "Snickersnee",
-        "Jentacular"
+        "Charlotte Inter",
+        "Charlotte Magic",
+        "Charlotte Astros"
       ],
       "question": {
-        "text": "Which word is defined as 'making money in any way that you can'?"
+        "text": "Which of these is a basketball team based in Charlotte?"
       },
       "tags": [
-        "words",
-        "general_knowledge"
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951c68",
+      "correctAnswer": "Princess Margaret",
+      "incorrectAnswers": [
+        "Prince Charles",
+        "Elizabeth",
+        "James III"
+      ],
+      "question": {
+        "text": "After Henry VIII, Who Was The Next Member Of British Royalty To Get Divorced?"
+      },
+      "tags": [
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
