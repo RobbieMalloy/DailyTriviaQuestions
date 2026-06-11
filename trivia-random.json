@@ -1,23 +1,132 @@
 {
-  "gameDate": "2026-06-10",
+  "gameDate": "2026-06-11",
   "difficulty": "random",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "63a03944c7d86251f9b65c2f",
-      "correctAnswer": "Mozzarella",
+      "category": "science",
+      "id": "6242cb56d543524f1b19c924",
+      "correctAnswer": "A leap",
       "incorrectAnswers": [
-        "Gorgonzola",
-        "Feta",
-        "Camembert"
+        "A nye",
+        "A nest",
+        "A sloth"
       ],
       "question": {
-        "text": "Which of these cheeses would you be most likely to find in a lasagne?"
+        "text": "What is the word for a group of leopards?"
       },
       "tags": [
-        "cheese",
+        "words",
+        "animals",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f950130",
+      "correctAnswer": "Eschatology",
+      "incorrectAnswers": [
+        "Apocology",
+        "Epistemology",
+        "Tautology"
+      ],
+      "question": {
+        "text": "In theology, the study of final things such as death, judgement and the end of the world is called:"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "62cde07a6f1416d08c914194",
+      "correctAnswer": "North America",
+      "incorrectAnswers": [
+        "Africa",
+        "Europe",
+        "Asia"
+      ],
+      "question": {
+        "text": "Chia seeds originated in which continent?"
+      },
+      "tags": [
+        "food",
         "food_and_drink",
-        "food"
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "647f9ded3a4302a719271677",
+      "correctAnswer": "James and the Giant Peach",
+      "incorrectAnswers": [
+        "John and the Giant Apple",
+        "Jack and the Giant Pear",
+        "Jonah and the Giant Pineapple"
+      ],
+      "question": {
+        "text": "In which book did Roald Dahl tell the story of a boy's adventure in a giant piece of fruit?"
+      },
+      "tags": [
+        "childrens_literature",
+        "arts_and_literature",
+        "literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "646261c8ab138b829b81e993",
+      "correctAnswer": "Vatican City",
+      "incorrectAnswers": [
+        "Monaco",
+        "Liechtenstein",
+        "San Marino"
+      ],
+      "question": {
+        "text": "Which tiny country has been independent from Italy since 1929 and is the home of the Pope?"
+      },
+      "tags": [
+        "europe",
+        "italy",
+        "christianity",
+        "geography",
+        "countries"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "645bc75b4638d58091b1b9e9",
+      "correctAnswer": "Las Vegas",
+      "incorrectAnswers": [
+        "Los Angeles",
+        "Lansing",
+        "Louisiana"
+      ],
+      "question": {
+        "text": "Which city is represented by the airport code LAS?"
+      },
+      "tags": [
+        "airports",
+        "usa"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -26,129 +135,22 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6262afac4b176d54800e3dd6",
-      "correctAnswer": "Be Right Back",
+      "id": "6293ec467f41d6338b96eee4",
+      "correctAnswer": "Louis Daguerre",
       "incorrectAnswers": [
-        "Beer, Ribs, Bread",
-        "Big Raunchy Bro",
-        "Being Really Bad"
+        "Isaac Newton",
+        "Guglielmo Marconi",
+        "Claude Monet"
       ],
       "question": {
-        "text": "What do people mean when type the letters 'BRB' in a message on the internet?"
+        "text": "Which influential artist and photographer is credited with the invention of the camera?"
       },
       "tags": [
-        "the_internet",
-        "initials",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951b37",
-      "correctAnswer": "1789",
-      "incorrectAnswers": [
-        "1890",
-        "1921",
-        "1712"
-      ],
-      "question": {
-        "text": "In What Year Was The French Declaration Of The Rights Of Man?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd25",
-      "correctAnswer": "Voltaire",
-      "incorrectAnswers": [
-        "Baruch Spinoza",
-        "Epictetus",
-        "Socrates"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'If God did not exist, it would be necessary to invent Him'?"
-      },
-      "tags": [
-        "quotes",
-        "philosophy",
-        "general_knowledge",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "645c9f5442ea81e2554c5f1a",
-      "correctAnswer": "Skewer",
-      "incorrectAnswers": [
-        "Spatula",
-        "Tongs",
-        "Basting brush"
-      ],
-      "question": {
-        "text": "What is the name of a long metal or wooden pin used to secure food during barbecuing?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food",
-        "cooking",
-        "barbeque"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc57",
-      "correctAnswer": "Tittynope",
-      "incorrectAnswers": [
-        "Funambulist",
-        "Blatherskite",
-        "Winklepicker"
-      ],
-      "question": {
-        "text": "Which word is defined as 'a small quantity of something left over'?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6462621bab138b829b81e9d2",
-      "correctAnswer": "Giant Kelp",
-      "incorrectAnswers": [
-        "Giant Algae",
-        "Giant Kombu",
-        "Giant Sea Lettuce"
-      ],
-      "question": {
-        "text": "What is the largest seaweed?"
-      },
-      "tags": [
-        "botany",
-        "plants",
-        "science"
+        "people",
+        "history",
+        "society_and_culture",
+        "art",
+        "inventions"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -157,15 +159,472 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ea3",
-      "correctAnswer": "Alexandre Dumas",
+      "id": "622a1c347cc59eab6f94f972",
+      "correctAnswer": "The Horse's Mouth",
       "incorrectAnswers": [
-        "Anatole France",
-        "Gustave Flaubert",
-        "Charles Perrault"
+        "The Member of the Wedding",
+        "Breakfast at Tiffany's",
+        "On the Road"
       ],
       "question": {
-        "text": "Which author wrote 'The Corsican Brothers'?"
+        "text": "Which book contains the character 'Gulley Jimson'?"
+      },
+      "tags": [
+        "literature",
+        "fictitious_characters",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3a7cc59eab6f9511db",
+      "correctAnswer": "Ash",
+      "incorrectAnswers": [
+        "Wood",
+        "Birch",
+        "Charcoal"
+      ],
+      "question": {
+        "text": "In Egyptian mythology, who is known as the god of the desert and oases?"
+      },
+      "tags": [
+        "ancient_egypt",
+        "mythology",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eb4",
+      "correctAnswer": "Charles Darwin",
+      "incorrectAnswers": [
+        "Percy Bysshe Shelley",
+        "H. Rider Haggard",
+        "Robert Louis Stevenson"
+      ],
+      "question": {
+        "text": "Which author wrote 'On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd18",
+      "correctAnswer": "Plato",
+      "incorrectAnswers": [
+        "Jean-Paul Sartre",
+        "Ludwig Wittgenstein",
+        "Friedrich Nietzsche"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'You can discover more about a person in an hour of play than in a year of conversation'?"
+      },
+      "tags": [
+        "philosophy",
+        "quotes",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd00",
+      "correctAnswer": "Seneca the Younger",
+      "incorrectAnswers": [
+        "Thomas Hobbes",
+        "Denis Diderot",
+        "Ludwig Wittgenstein"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'Virtue is nothing else than right reason'?"
+      },
+      "tags": [
+        "philosophy",
+        "quotes",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95028f",
+      "correctAnswer": "Veal ",
+      "incorrectAnswers": [
+        "Beef",
+        "Pork",
+        "Lamb"
+      ],
+      "question": {
+        "text": "What type of meat is used in the preparation of Osso Bucco?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e668ff2394bd44dee048",
+      "correctAnswer": "Vijf",
+      "incorrectAnswers": [
+        "Cinque",
+        "Fünf",
+        "Groen"
+      ],
+      "question": {
+        "text": "What is the Dutch word for 'five'?"
+      },
+      "tags": [
+        "language",
+        "translations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62628cd452c39217ab0d70f2",
+      "correctAnswer": "The Danube",
+      "incorrectAnswers": [
+        "The Nile",
+        "The Amazon",
+        "The Congo"
+      ],
+      "question": {
+        "text": "Which river has the most capital cities on it?"
+      },
+      "tags": [
+        "rivers",
+        "bodies_of_water",
+        "capital_cities",
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62373f86cb85f7ce9e949ca1",
+      "correctAnswer": "Bahamas",
+      "incorrectAnswers": [
+        "Vanuatu",
+        "Peru",
+        "Kiribati"
+      ],
+      "question": {
+        "text": "Nassau is the capital city of which country?"
+      },
+      "tags": [
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63b0692d4799123c67712f5d",
+      "correctAnswer": "Kippah",
+      "incorrectAnswers": [
+        "Topi",
+        "Taqiyah",
+        "Capotain"
+      ],
+      "question": {
+        "text": "What is the traditional Jewish head covering for men?"
+      },
+      "tags": [
+        "society_and_culture",
+        "religion",
+        "judaism",
+        "fashion"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fca9",
+      "correctAnswer": "Uralic",
+      "incorrectAnswers": [
+        "Turkic",
+        "Koreanic",
+        "Indo-European"
+      ],
+      "question": {
+        "text": "The language 'Hungarian' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64dd35bb9cef2bd3a34a8d57",
+      "correctAnswer": "Alicia Keys",
+      "incorrectAnswers": [
+        "Beyoncé",
+        "Rihanna",
+        "Taylor Swift"
+      ],
+      "question": {
+        "text": "In 2007, which artist had a hit with her song 'No One'?"
+      },
+      "tags": [
+        "pop_music",
+        "music",
+        "songs"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "645c9f8642ea81e2554c5f30",
+      "correctAnswer": "Ritchie Valens",
+      "incorrectAnswers": [
+        "Buddy Holly",
+        "Eddie Cochran",
+        "Chuck Berry"
+      ],
+      "question": {
+        "text": "Who performed the song 'La Bamba'?"
+      },
+      "tags": [
+        "songs",
+        "music",
+        "rock_and_roll"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ffe1",
+      "correctAnswer": "Ace Of Base",
+      "incorrectAnswers": [
+        "Modern Talking",
+        "The Cardigans",
+        "Every Little Thing"
+      ],
+      "question": {
+        "text": "Jenny & Lyn Beggren Are Singers With Which 90's Group"
+      },
+      "tags": [
+        "bands",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fedd",
+      "correctAnswer": "Mariah Carey",
+      "incorrectAnswers": [
+        "Drake",
+        "Nicki Minaj",
+        "Madonna"
+      ],
+      "question": {
+        "text": "Which American singer released the album 'Music Box'?"
+      },
+      "tags": [
+        "music_albums",
+        "musicians",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "645f94f3541c4d4fc8cf2e9a",
+      "correctAnswer": "Charlotte's Web",
+      "incorrectAnswers": [
+        "Animal Farm",
+        "Black Beauty",
+        "Watership Down"
+      ],
+      "question": {
+        "text": "Which book published in 1952 features an unusual friendship between a spider and a pig?"
+      },
+      "tags": [
+        "animals",
+        "arts_and_literature",
+        "literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "64824f247778562fd76a96c7",
+      "correctAnswer": "Rihanna",
+      "incorrectAnswers": [
+        "Beyonce",
+        "Adele",
+        "Shakira"
+      ],
+      "question": {
+        "text": "Which one-named singer showed off her acting in 'Ocean's 8' as a hacker/stoner named Nine Ball in 2018?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv",
+        "acting",
+        "musicians",
+        "people"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237427dcb85f7ce9e949dd2",
+      "correctAnswer": "Bern",
+      "incorrectAnswers": [
+        "Geneva",
+        "Zurich",
+        "Basel"
+      ],
+      "question": {
+        "text": "What is the capital city of Switzerland?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "63b058654799123c67712f1b",
+      "correctAnswer": "Golf",
+      "incorrectAnswers": [
+        "Cricket",
+        "Rugby",
+        "Tennis"
+      ],
+      "question": {
+        "text": "What sport is Scotland widely considered to be the home of?"
+      },
+      "tags": [
+        "uk",
+        "sport",
+        "society_and_culture",
+        "scotland"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe8a",
+      "correctAnswer": "Eminem",
+      "incorrectAnswers": [
+        "Nicki Minaj",
+        "Drake",
+        "Ludacris"
+      ],
+      "question": {
+        "text": "Which American rapper, producer and actor released the studio album 'The Marshall Mathers LP'?"
+      },
+      "tags": [
+        "music_albums",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6239f838a72e7a347ac879d6",
+      "correctAnswer": "Uniform",
+      "incorrectAnswers": [
+        "Unable",
+        "Underneath",
+        "Umbrella"
+      ],
+      "question": {
+        "text": "What word is used in the NATO Phonetic Alphabet for the letter U?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e2d",
+      "correctAnswer": "L. Frank Baum",
+      "incorrectAnswers": [
+        "Suzanne Collins",
+        "James Fenimore Cooper",
+        "Donna Leon"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Wonderful Wizard of Oz'?"
       },
       "tags": [
         "literature",
@@ -177,483 +636,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6266e5c6ff2394bd44dee018",
-      "correctAnswer": "Yellow",
-      "incorrectAnswers": [
-        "Ten",
-        "Seven",
-        "Green"
-      ],
-      "question": {
-        "text": "In Portuguese, what is the meaning of the word 'amarelo'?"
-      },
-      "tags": [
-        "language",
-        "translations"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6239f81e9129041bf3925cc8",
-      "correctAnswer": "Lima",
-      "incorrectAnswers": [
-        "Lame",
-        "Loan",
-        "Love"
-      ],
-      "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter L?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6271643d1ba117625baac951",
-      "correctAnswer": "Ireland",
-      "incorrectAnswers": [
-        "Romania",
-        "Mongolia",
-        "Finland"
-      ],
-      "question": {
-        "text": "In which country is guinness a popular drink?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6371627d1bf863c45ca6c37e",
-      "correctAnswer": "Virtue strives for what is difficult",
-      "incorrectAnswers": [
-        "Such is life",
-        "Tender is the loving mother",
-        "Become good through ardor"
-      ],
-      "question": {
-        "text": "What is the meaning of the Latin phrase 'Tendit in ardua virtus'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625698c09da29df7b05f729b",
-      "correctAnswer": "Rocket Raccoon",
-      "incorrectAnswers": [
-        "Dr. Bruce Banner",
-        "Ned Leeds",
-        "Drax the Destroyer"
-      ],
-      "question": {
-        "text": "Bradley Cooper plays the role of which character in the Marvel Cinematic Universe?"
-      },
-      "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d020f96c4efe8d7739b",
-      "correctAnswer": "Dallas Cowboys",
-      "incorrectAnswers": [
-        "Dallas Crew",
-        "Dallas United",
-        "Dallas Bengals"
-      ],
-      "question": {
-        "text": "Which of these is an American Football team based in Dallas?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "625007240d86c8f685d80f17",
-      "correctAnswer": "Ziti",
-      "incorrectAnswers": [
-        "Macaroni",
-        "Penne",
-        "Tagliatelle"
-      ],
-      "question": {
-        "text": "Which pasta's name means 'Bride and bridegroom'?"
-      },
-      "tags": [
-        "food",
-        "words",
-        "language",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602d0a4b176d54800e3c7a",
-      "correctAnswer": "Toronto",
-      "incorrectAnswers": [
-        "New York",
-        "London",
-        "Minneapolis-St Paul"
-      ],
-      "question": {
-        "text": "Which of these cities is in Canada?"
-      },
-      "tags": [
-        "cities",
-        "canada",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c22",
-      "correctAnswer": "Red Hot Chili Peppers",
-      "incorrectAnswers": [
-        "The Monkees",
-        "Black Flag",
-        "Journey"
-      ],
-      "question": {
-        "text": "Which American rock band released the studio album 'One Hot Minute'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "639c9db2929b90846f2fc998",
-      "correctAnswer": "Vishnu",
-      "incorrectAnswers": [
-        "Brahma",
-        "Brihaspati",
-        "Krishna"
-      ],
-      "question": {
-        "text": "What is the name of the Hindu god of preservation?"
-      },
-      "tags": [
-        "hinduism",
-        "religion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6250642ce12f6dec240bdf9f",
-      "correctAnswer": "The Heights",
-      "incorrectAnswers": [
-        "Sir Mix-A-Lot",
-        "House of Pain",
-        "Men Without Hats"
-      ],
-      "question": {
-        "text": "Who had a hit in 1992 with How Do You Talk to an Angel??"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "625063bfe12f6dec240bdf7f",
-      "correctAnswer": "You Light Up My Life",
-      "incorrectAnswers": [
-        "Don't Wanna Fall in Love",
-        "The Hustle",
-        "Cars"
-      ],
-      "question": {
-        "text": "Debby Boone had a one hit wonder in 1977 with which song?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd31",
-      "correctAnswer": "John Stuart Mill",
-      "incorrectAnswers": [
-        "Thomas Hobbes",
-        "Jean-Paul Sartre",
-        "Spinoza"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'Liberty consists in doing what one desires'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9e82796f721e95543f5b",
-      "correctAnswer": "Three equal vertical bands of blue white and red.",
-      "incorrectAnswers": [
-        "Three equal horizontal bands of red white and red.",
-        "Blue with a red cross outlined in white extending to the edges.",
-        "White with a large red disk in the center."
-      ],
-      "question": {
-        "text": "What does the flag of France look like?"
-      },
-      "tags": [
-        "flags",
-        "france",
-        "europe",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63b058874799123c67712f51",
-      "correctAnswer": "Salyut 1",
-      "incorrectAnswers": [
-        "Skylab",
-        "Mir",
-        "ISS"
-      ],
-      "question": {
-        "text": "What is the name of the first space station launched into orbit in 1971?"
-      },
-      "tags": [
-        "space",
-        "history",
-        "1970's",
-        "the_space_race"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b584dfd6c701a921183ae",
-      "correctAnswer": "Russia",
-      "incorrectAnswers": [
-        "Argentina",
-        "Hungary",
-        "Spain"
-      ],
-      "question": {
-        "text": "In which country would you find The Kremlin and Red Square?"
-      },
-      "tags": [
-        "tourist_attractions",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6250643ae12f6dec240bdfa3",
-      "correctAnswer": "Gary Glitter",
-      "incorrectAnswers": [
-        "Kajagoogoo",
-        "Vicki Lawrence",
-        "Spandau Ballet"
-      ],
-      "question": {
-        "text": "'Rock And Roll (Part 2)' was a hit in 1972 by which artist?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ec2",
-      "correctAnswer": "Charles Darwin",
+      "id": "622a1c347cc59eab6f94fa11",
+      "correctAnswer": "Henri Matisse",
       "incorrectAnswers": [
-        "Percy Bysshe Shelley",
-        "H. Rider Haggard",
-        "Robert Louis Stevenson"
+        "Leonardo da Vinci",
+        "Gustav Klimt",
+        "Claude Monet"
       ],
       "question": {
-        "text": "Which author wrote 'The formation of vegetable mould, through the action of worms : with observations on their habits'?"
+        "text": "Which artist painted \"The Dance\""
       },
       "tags": [
+        "painting",
+        "art",
         "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd15",
-      "correctAnswer": "Friedrich Nietzsche",
-      "incorrectAnswers": [
-        "Jean-Paul Sartre",
-        "Spinoza",
-        "Jean-Jacques Rousseau"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'Is man merely a mistake of God's? Or God merely a mistake of man's?'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ffd5",
-      "correctAnswer": "Devo",
-      "incorrectAnswers": [
-        "Switchfoot",
-        "Genesis",
-        "The Hollies"
-      ],
-      "question": {
-        "text": "Name The Band That Had Hits With \"Freedom Of Choice\" \"Beatiful World\" & \"Working In A Coalmine\""
-      },
-      "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb3d",
-      "correctAnswer": "Shakespeare in Love",
-      "incorrectAnswers": [
-        "Elizabeth",
-        "Life Is Beautiful",
-        "Saving Private Ryan"
-      ],
-      "question": {
-        "text": "Which film won the Academy Award for Best Picture in 1998?"
-      },
-      "tags": [
-        "academy_awards",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63a039b2c7d86251f9b65ca1",
-      "correctAnswer": "Pennsylvania",
-      "incorrectAnswers": [
-        "Virginia",
-        "Maryland",
-        "New York"
-      ],
-      "question": {
-        "text": "In which US State was the site of the 1863 Battle of Gettysburg?"
-      },
-      "tags": [
-        "history",
-        "usa",
-        "american_civil_war",
-        "wars",
-        "1800's"
       ],
       "type": "text_choice",
       "difficulty": "hard",
