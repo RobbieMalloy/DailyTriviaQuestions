@@ -1,23 +1,24 @@
 {
-  "gameDate": "2026-06-11",
+  "gameDate": "2026-06-12",
   "difficulty": "easy",
   "results": [
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe55",
-      "correctAnswer": "South America",
+      "category": "science",
+      "id": "624333c8cfaae40c12961403",
+      "correctAnswer": "An Eaglet",
       "incorrectAnswers": [
-        "Africa",
-        "Europe",
-        "Asia"
+        "A Lamb",
+        "An Eyas",
+        "A Calf"
       ],
       "question": {
-        "text": "In which continent would you find the Amazon River?"
+        "text": "What would you call a baby eagle?"
       },
       "tags": [
-        "rivers",
-        "general_knowledge",
-        "geography"
+        "animals",
+        "birds",
+        "names",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -26,22 +27,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f914",
-      "correctAnswer": "The Silence of the Lambs",
+      "id": "622a1c347cc59eab6f94f922",
+      "correctAnswer": "Austin Powers: International Man of Mystery",
       "incorrectAnswers": [
-        "Casablanca",
-        "A Nightmare on Elm Street",
-        "Taxi Driver"
+        "Die Hard",
+        "The Adventures of Robin Hood",
+        "Pulp Fiction"
       ],
       "question": {
-        "text": "Which film contains the character 'Hannibal Lecter'?"
+        "text": "Which film contains the character 'Dr. Evil'?"
       },
       "tags": [
         "acting",
         "film",
-        "horror",
-        "general_knowledge",
-        "fictitious_characters",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -50,20 +48,63 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95055f",
-      "correctAnswer": "Dialects",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f86e",
+      "correctAnswer": "Football",
       "incorrectAnswers": [
-        "X-Rays",
-        "Drugs",
-        "Clouds"
+        "Snooker",
+        "Cricket",
+        "Motor racing"
       ],
       "question": {
-        "text": "What is dialectology the study of?"
+        "text": "With which sport is Cristiano Ronaldo associated?"
+      },
+      "tags": [
+        "people",
+        "general_knowledge",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63e13a18106de6ffa7d4a792",
+      "correctAnswer": "Triangle",
+      "incorrectAnswers": [
+        "Square",
+        "Parallelogram",
+        "Trapezoid"
+      ],
+      "question": {
+        "text": "What is the name of a shape with three sides?"
       },
       "tags": [
         "science",
-        "words"
+        "mathematics",
+        "shapes"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eeb",
+      "correctAnswer": "Charles Dickens",
+      "incorrectAnswers": [
+        "Oscar Wilde",
+        "Joseph Conrad",
+        "Henryk Sienkiewicz"
+      ],
+      "question": {
+        "text": "Which author wrote 'Great Expectations'?"
+      },
+      "tags": [
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -72,388 +113,21 @@
     },
     {
       "category": "film_and_tv",
-      "id": "64dfa27da6681754ea052baf",
-      "correctAnswer": "A warthog",
+      "id": "63a03974c7d86251f9b65c5e",
+      "correctAnswer": "Ariel",
       "incorrectAnswers": [
-        "A lion",
-        "An elephant",
-        "A rhinoceros"
+        "Belle",
+        "Jasmine",
+        "Elsa"
       ],
       "question": {
-        "text": "In the Lion King, what sort of animal is Pumbaa?"
+        "text": "What is the name of the mermaid in the Disney film The Little Mermaid?"
       },
       "tags": [
-        "animals",
+        "film_and_tv",
         "disney",
         "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056eb17a97013de78b533d",
-      "correctAnswer": "Through the Looking Glass",
-      "incorrectAnswers": [
-        "Alice's Adventures in Wonderland",
-        "The Hunting of the Snark",
-        "A Tangled Tale"
-      ],
-      "question": {
-        "text": "Which Lewis Carroll book is a sequel to \"Alice's Adventures in Wonderland\"?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501f0",
-      "correctAnswer": "Christopher Nolan",
-      "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
-      ],
-      "question": {
-        "text": "Which director directed Interstellar?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "626288354b176d54800e3d90",
-      "correctAnswer": "Have it your way",
-      "incorrectAnswers": [
-        "A glass and a half in every half pound",
-        "Finger lickin' good",
-        "Snap! Crackle! Pop!"
-      ],
-      "question": {
-        "text": "What is the marketing slogan of Burger King?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "food",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951073",
-      "correctAnswer": "Black",
-      "incorrectAnswers": [
-        "White",
-        "Red",
-        "Brown"
-      ],
-      "question": {
-        "text": "What color spots has the common ladybird?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3e7cc59eab6f95226c",
-      "correctAnswer": "Brakes",
-      "incorrectAnswers": [
-        "Steering Wheel",
-        "Engine",
-        "Exhaust Pipe"
-      ],
-      "question": {
-        "text": "In a car, what might be disc or drum?"
-      },
-      "tags": [
-        "motoring",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6462624aab138b829b81e9d8",
-      "correctAnswer": "Morse code",
-      "incorrectAnswers": [
-        "Binary code",
-        "ASCII code",
-        "Unicode"
-      ],
-      "question": {
-        "text": "What is the name of the communication method represented by a series of dots and dashes?"
-      },
-      "tags": [
-        "communication",
-        "technology",
-        "science",
-        "general_knowledge",
-        "language"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f952331",
-      "correctAnswer": "Erosion",
-      "incorrectAnswers": [
-        "Sediment",
-        "Vegetation",
-        "Sublimation"
-      ],
-      "question": {
-        "text": "By what process is rock worn down by the weather?"
-      },
-      "tags": [
-        "geology",
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3e7cc59eab6f95224a",
-      "correctAnswer": "Narcissism",
-      "incorrectAnswers": [
-        "Greed",
-        "Ego",
-        "Obsession"
-      ],
-      "question": {
-        "text": "In the field of psychiatry, which term means self-love?"
-      },
-      "tags": [
-        "words",
-        "psychology"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056e077a97013de78b5250",
-      "correctAnswer": "Jules Verne",
-      "incorrectAnswers": [
-        "Edgar Allan Poe",
-        "Harriet Beecher Stowe",
-        "Herman Melville"
-      ],
-      "question": {
-        "text": "Who wrote \"Around the World in 80 Days\"?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b5834fd6c701a921183a4",
-      "correctAnswer": "Russia",
-      "incorrectAnswers": [
-        "Bosnia & Herzegovina",
-        "Greece",
-        "Sweden"
-      ],
-      "question": {
-        "text": "In which country would you find the city of Saint Petersburg?"
-      },
-      "tags": [
-        "cities",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502c3",
-      "correctAnswer": "Clove ",
-      "incorrectAnswers": [
-        "Husk",
-        "Kernel",
-        "Nibbet"
-      ],
-      "question": {
-        "text": "What is a segment of garlic called?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950248",
-      "correctAnswer": "Apple ",
-      "incorrectAnswers": [
-        "Blackberry",
-        "Strawberry",
-        "Banana"
-      ],
-      "question": {
-        "text": "Which fruit is traditionally covered with toffee at a fairground?"
-      },
-      "tags": [
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570427a97013de78b556a",
-      "correctAnswer": "Africa",
-      "incorrectAnswers": [
-        "Australia",
-        "Europe",
-        "South America"
-      ],
-      "question": {
-        "text": "Which continent are zebras native to?"
-      },
-      "tags": [
-        "science",
-        "animals",
-        "nature",
-        "continents"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63e4c34c106de6ffa7d4a7ca",
-      "correctAnswer": "Rose",
-      "incorrectAnswers": [
-        "Lily",
-        "Daisy",
-        "Tulip"
-      ],
-      "question": {
-        "text": "What flower has cultural significance for being associated with love?"
-      },
-      "tags": [
-        "society_and_culture",
-        "plants",
-        "symbols",
-        "traditions"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237353fcfe13103f55eb512",
-      "correctAnswer": "India",
-      "incorrectAnswers": [
-        "United Kingdom",
-        "Indonesia",
-        "Ireland"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.in' at the end of its web addresses?"
-      },
-      "tags": [
-        "the_internet",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eb1",
-      "correctAnswer": "J. K. Rowling",
-      "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
-      ],
-      "question": {
-        "text": "Which author wrote 'Harry Potter and the Chamber of Secrets'?"
-      },
-      "tags": [
-        "harry_potter",
-        "literature",
-        "general_knowledge",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "64824ee57778562fd76a96b2",
-      "correctAnswer": "Stovepipe",
-      "incorrectAnswers": [
-        "Tricorne",
-        "Fedora",
-        "Sombrero"
-      ],
-      "question": {
-        "text": "What type of hat did Abraham Lincoln famously wear?"
-      },
-      "tags": [
-        "fashion",
-        "hats",
-        "history",
-        "presidents",
-        "people"
+        "fictitious_characters"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -462,22 +136,20 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94ff37",
-      "correctAnswer": "Michael Jackson",
+      "id": "65056e5f7a97013de78b52cb",
+      "correctAnswer": "Rhythm and Blues",
       "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
+        "Bossa nova",
+        "Polka",
+        "Classical music"
       ],
       "question": {
-        "text": "'Billie Jean' is a song by which musician?"
+        "text": "Which musical genre is widely considered a direct predecessor of rock and roll?"
       },
       "tags": [
-        "songs",
-        "musicians",
-        "1980's",
-        "general_knowledge",
-        "music"
+        "music",
+        "rock",
+        "genres"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -486,19 +158,18 @@
     },
     {
       "category": "food_and_drink",
-      "id": "624c60ad50d1a5e051325a6c",
-      "correctAnswer": "Italy",
+      "id": "624c6148badf21197f98f771",
+      "correctAnswer": "United States",
       "incorrectAnswers": [
-        "Equatorial Guinea",
-        "Spain",
-        "Austria"
+        "Brunei",
+        "Bahrain",
+        "Vietnam"
       ],
       "question": {
-        "text": "Where in the world would you most expect to be served Lasagna?"
+        "text": "Where in the world would you most expect to be served Mac 'N' Cheese?"
       },
       "tags": [
         "food",
-        "general_knowledge",
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -507,20 +178,108 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "646339bc01d576cfac3aa3ae",
-      "correctAnswer": "The Spice Islands",
+      "category": "music",
+      "id": "622a1c3d7cc59eab6f951cad",
+      "correctAnswer": "Winter Wonderland",
       "incorrectAnswers": [
-        "The Coral Islands",
-        "The Hidden Islands",
-        "The Sunken Islands"
+        "Jingle Bells",
+        "Driving Home For Christmas",
+        "Silent Night"
       ],
       "question": {
-        "text": "What was the former name of the Moluccas, islands known for cloves, mace, and nutmeg?"
+        "text": "In which famous Christmas Song is a snowman pretended to be \"Parsons Brown\"?"
       },
       "tags": [
-        "islands",
-        "indonesia",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625698549da29df7b05f7280",
+      "correctAnswer": "Tony Stark",
+      "incorrectAnswers": [
+        "The Grandmaster",
+        "Alexander Pierce",
+        "Vision"
+      ],
+      "question": {
+        "text": "In the Marvel Cinematic Universe, which character is played by Robert Downey Jr.?"
+      },
+      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "general_knowledge",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60c095b12387e142c79b",
+      "correctAnswer": "Ramen",
+      "incorrectAnswers": [
+        "Ceviche",
+        "Plov",
+        "Chilli Crab"
+      ],
+      "question": {
+        "text": "Which of these dishes would you most expect to find in Japan?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570317a97013de78b5552",
+      "correctAnswer": "Larynx (voice box)",
+      "incorrectAnswers": [
+        "Ear",
+        "Stomach",
+        "Liver"
+      ],
+      "question": {
+        "text": "In which part of the human throat is the epiglottis located?"
+      },
+      "tags": [
+        "science",
+        "anatomy"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b5839fd6c701a921183a6",
+      "correctAnswer": "Brazil",
+      "incorrectAnswers": [
+        "Spain",
+        "Egypt",
+        "Argentina"
+      ],
+      "question": {
+        "text": "In which country would you find the city of Rio de Janeiro?"
+      },
+      "tags": [
+        "cities",
+        "general_knowledge",
         "geography"
       ],
       "type": "text_choice",
@@ -529,34 +288,16 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "69a561b52858226c00dd2f81",
-      "correctAnswer": "Her grandmother",
-      "incorrectAnswers": [
-        "Her teacher",
-        "Her friend",
-        "Her neighbor"
-      ],
-      "question": {
-        "text": "In 'Little Red Riding Hood', who does Red Riding Hood visit?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f95106e",
-      "correctAnswer": "Dermatologist",
+      "id": "6505702b7a97013de78b5549",
+      "correctAnswer": "Neutrino",
       "incorrectAnswers": [
-        "Permologist",
-        "Skin Clinician",
-        "Visologist"
+        "Electron",
+        "Muon",
+        "Tau"
       ],
       "question": {
-        "text": "What is a skin specialist called?"
+        "text": "Which of the following particles does NOT carry electric charge?"
       },
       "tags": [
         "science"
@@ -567,19 +308,130 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6262af9a4b176d54800e3dd3",
-      "correctAnswer": "Do It Yourself",
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503fe",
+      "correctAnswer": "Aqueduct",
       "incorrectAnswers": [
-        "Done It Yet",
-        "Do I? Yes.",
-        "Down In Yellow"
+        "Canal",
+        "Forum",
+        "Arena"
       ],
       "question": {
-        "text": "What do the letters 'DIY' mean?"
+        "text": "What did the Romans build to convey water? "
       },
       "tags": [
-        "initials",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6262885a4b176d54800e3d97",
+      "correctAnswer": "Because you're worth it",
+      "incorrectAnswers": [
+        "Quality never goes out of style",
+        "Maybe she's born with it",
+        "It's Style"
+      ],
+      "question": {
+        "text": "Which marketing slogan would you associate with L'Oreal?"
+      },
+      "tags": [
+        "business",
+        "marketing",
+        "fashion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502bc",
+      "correctAnswer": "Pasta ",
+      "incorrectAnswers": [
+        "Chicken",
+        "Cheese",
+        "Bread"
+      ],
+      "question": {
+        "text": "What Is Ravioli? "
+      },
+      "tags": [
+        "food",
+        "general_knowledge",
+        "words",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6256986c9da29df7b05f7286",
+      "correctAnswer": "Chris Hemsworth",
+      "incorrectAnswers": [
+        "Jon Favreau",
+        "John Slattery",
+        "Tom Holland"
+      ],
+      "question": {
+        "text": "The role of Thor in the Marvel Cinematic Universe is played by which actor?"
+      },
+      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b583dfd6c701a921183a8",
+      "correctAnswer": "England",
+      "incorrectAnswers": [
+        "Italy",
+        "France",
+        "Belgium"
+      ],
+      "question": {
+        "text": "In which country would you find the UNESCO World Heritage site of Stonehenge?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fce8",
+      "correctAnswer": "Indo-European",
+      "incorrectAnswers": [
+        "Niger–Congo",
+        "Afroasiatic",
+        "Dravidian"
+      ],
+      "question": {
+        "text": "The language 'German' belongs to which language family?"
+      },
+      "tags": [
+        "germany",
         "language",
         "society_and_culture"
       ],
@@ -589,42 +441,20 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "646140374d46e537ca8cd981",
-      "correctAnswer": "Diapers",
+      "category": "science",
+      "id": "65056fdf7a97013de78b54e0",
+      "correctAnswer": "Physicist",
       "incorrectAnswers": [
-        "Formula Milk",
-        "Medicine",
-        "Food"
+        "Physician",
+        "Physiatrist",
+        "Physicalist"
       ],
       "question": {
-        "text": "What type of baby product is Huggies?"
+        "text": "What term is used for someone who studies physics?"
       },
       "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94feb1",
-      "correctAnswer": "Beyoncé",
-      "incorrectAnswers": [
-        "Madonna",
-        "Drake",
-        "Nicki Minaj"
-      ],
-      "question": {
-        "text": "Who released the song 'Run the World'?"
-      },
-      "tags": [
-        "songs",
-        "2010's",
-        "musicians",
-        "music"
+        "science",
+        "occupations"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -633,21 +463,197 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6495b50be831b1ab5aa11111",
-      "correctAnswer": "Air Force One",
+      "id": "63e4c35f106de6ffa7d4a7e0",
+      "correctAnswer": "Red, White, and Blue",
       "incorrectAnswers": [
-        "The Big One",
-        "US One",
-        "The Reagan Jet"
+        "Green, White, and Red",
+        "Yellow, White, and Blue",
+        "Red, White, and Yellow"
       ],
       "question": {
-        "text": "What is the name of the plane that carried the President of the United States?"
+        "text": "What colors are traditionally associated with the US Independence Day (4th of July)?"
       },
       "tags": [
-        "aviation",
+        "society_and_culture",
+        "usa",
+        "celebrations",
+        "colours"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950083",
+      "correctAnswer": "Basketball",
+      "incorrectAnswers": [
+        "Volleyball",
+        "Football",
+        "Baseball"
+      ],
+      "question": {
+        "text": "What Sport Do The Harlem Globetrotters Play?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c357cc59eab6f950021",
+      "correctAnswer": "Soccer",
+      "incorrectAnswers": [
+        "Basketball",
+        "Volleyball",
+        "Rugby"
+      ],
+      "question": {
+        "text": "With which sport is Pelé associated?"
+      },
+      "tags": [
+        "sport",
+        "people",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3f7cc59eab6f952397",
+      "correctAnswer": "Symbiosis",
+      "incorrectAnswers": [
+        "Parasitism",
+        "Syncronicity",
+        "Parallelism"
+      ],
+      "question": {
+        "text": "What is the word for a relationship between two different types of organism which live together for their mutual benefit?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233843e62eaad73716a8bf7",
+      "correctAnswer": "The Ganges",
+      "incorrectAnswers": [
+        "The Indus",
+        "The Brahmaputra",
+        "The Krishna"
+      ],
+      "question": {
+        "text": "What is the most sacred river in India?"
+      },
+      "tags": [
+        "rivers",
+        "bodies_of_water",
+        "religion",
+        "hinduism",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "64824e697778562fd76a962d",
+      "correctAnswer": "Opaque",
+      "incorrectAnswers": [
+        "Transparent",
+        "Translucent",
+        "Obtuse"
+      ],
+      "question": {
+        "text": "What word means that an object is impossible to see through?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623740ddcb85f7ce9e949d2a",
+      "correctAnswer": "Rome",
+      "incorrectAnswers": [
+        "Venice",
+        "Florence",
+        "Milan"
+      ],
+      "question": {
+        "text": "What is the capital city of Italy?"
+      },
+      "tags": [
+        "italy",
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c347cc59eab6f94f9c1",
+      "correctAnswer": "Barack Obama",
+      "incorrectAnswers": [
+        "Calvin Coolidge",
+        "Ronald Reagan",
+        "Zachary Taylor"
+      ],
+      "question": {
+        "text": "Who was the 44th president of the USA, in term during the period 2009–2017?"
+      },
+      "tags": [
+        "general_knowledge",
         "usa",
         "presidents",
-        "society_and_culture"
+        "people",
+        "leaders",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645cb1257d263fd50970439c",
+      "correctAnswer": "An Advent calendar",
+      "incorrectAnswers": [
+        "A Holy calendar",
+        "A Kwanzaa calendar",
+        "A Countdown calendar"
+      ],
+      "question": {
+        "text": "What kind of calendar used to count the days until Christmas and often has a treat behind each window?"
+      },
+      "tags": [
+        "traditions",
+        "candy",
+        "christmas"
       ],
       "type": "text_choice",
       "difficulty": "easy",
