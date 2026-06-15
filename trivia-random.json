@@ -1,23 +1,23 @@
 {
-  "gameDate": "2026-06-14",
+  "gameDate": "2026-06-15",
   "difficulty": "random",
   "results": [
     {
-      "category": "geography",
-      "id": "62374201cb85f7ce9e949da0",
-      "correctAnswer": "Bucharest",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95024d",
+      "correctAnswer": "Apple ",
       "incorrectAnswers": [
-        "Sarajevo",
-        "Bratislava",
-        "Vientiane"
+        "Orange",
+        "Peach",
+        "Apricot"
       ],
       "question": {
-        "text": "What is the capital city of Romania?"
+        "text": "Which fruit has the scientific name of malus pumulia?"
       },
       "tags": [
-        "europe",
-        "capital_cities",
-        "geography"
+        "food",
+        "names",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -25,19 +25,126 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6505702b7a97013de78b554a",
-      "correctAnswer": "Foot",
+      "category": "history",
+      "id": "65056f4d7a97013de78b5417",
+      "correctAnswer": "Yasser Arafat",
       "incorrectAnswers": [
-        "Throat",
-        "Lungs",
-        "Brain"
+        "Yitzhak Rabin",
+        "Shimon Peres",
+        "Abu Qatada"
       ],
       "question": {
-        "text": "In which part of the human body are the metatarsal bones located?"
+        "text": "Which Palestinian leader received the Nobel Peace Prize in 1994?"
       },
       "tags": [
-        "anatomy",
+        "history",
+        "1990's"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62c92076a218dd4dc1ca17da",
+      "correctAnswer": "Love",
+      "incorrectAnswers": [
+        "Egg",
+        "Zilch",
+        "Nil"
+      ],
+      "question": {
+        "text": "What word is used for a score of 0 in a game of tennis?"
+      },
+      "tags": [
+        "sport",
+        "tennis",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6384b43c83dddfb71ee5e368",
+      "correctAnswer": "The Grand National",
+      "incorrectAnswers": [
+        "The Africa Cup of Nations",
+        "The World Cup Sevens",
+        "The Copa América"
+      ],
+      "question": {
+        "text": "Which of these is a competition in Horse Racing?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6243342ecfaae40c12961429",
+      "correctAnswer": "A Nymph",
+      "incorrectAnswers": [
+        "A Bunny",
+        "A Duckling",
+        "A Poult"
+      ],
+      "question": {
+        "text": "What is the word for a young grasshopper?"
+      },
+      "tags": [
+        "animals",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc60",
+      "correctAnswer": "Quomodocunquizing",
+      "incorrectAnswers": [
+        "Agastopia",
+        "Snickersnee",
+        "Jentacular"
+      ],
+      "question": {
+        "text": "Which word is defined as 'making money in any way that you can'?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ec6b7f41d6338b96eeef",
+      "correctAnswer": "Max Planck",
+      "incorrectAnswers": [
+        "Louis Daguerre",
+        "Mahavira",
+        "Enrico Fermi"
+      ],
+      "question": {
+        "text": "Which theoretical physicist developed a theory of quantum physics and discovered energy quanta?"
+      },
+      "tags": [
+        "people",
+        "society_and_culture",
+        "physics",
         "science"
       ],
       "type": "text_choice",
@@ -46,24 +153,22 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "64cfa1637f0714b9a0ca5e8c",
-      "correctAnswer": "Chicago",
+      "category": "film_and_tv",
+      "id": "6499c2614e0e966accb0b97c",
+      "correctAnswer": "Bob the Builder",
       "incorrectAnswers": [
-        "New York",
-        "Los Angeles",
-        "Houston"
+        "Thomas the Tank Engine",
+        "Spongebob Squarepants",
+        "Scooby-Doo"
       ],
       "question": {
-        "text": "In which US city is the Sears Tower?"
+        "text": "Which children's TV character has friends called Muck, Lofty, and Scoop?"
       },
       "tags": [
-        "architecture",
-        "skyscrapers",
-        "buildings",
-        "geography",
-        "cities",
-        "usa"
+        "childrens_tv",
+        "film_and_tv",
+        "tv",
+        "fictitious_characters"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -71,19 +176,42 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501e0",
-      "correctAnswer": "Sidney Lumet",
+      "category": "history",
+      "id": "65056eea7a97013de78b538d",
+      "correctAnswer": "Feudalism",
       "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
+        "Polygamy",
+        "Communism",
+        "Oligarchy"
       ],
       "question": {
-        "text": "Which director directed 12 Angry Men?"
+        "text": "What medieval social system was based on the holding of land in exchange for labor?"
       },
       "tags": [
-        "film_and_tv"
+        "history",
+        "medieval"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64626286ab138b829b81ea0c",
+      "correctAnswer": "Tequila Sunrise",
+      "incorrectAnswers": [
+        "Margaritaville",
+        "Whiskey in the Jar",
+        "Gin and Juice"
+      ],
+      "question": {
+        "text": "Which Eagles song mentions a mixed drink staring slowly across the sky?"
+      },
+      "tags": [
+        "drinks",
+        "songs",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -92,56 +220,125 @@
     },
     {
       "category": "food_and_drink",
-      "id": "624ab0ad348a461bfc67068e",
-      "correctAnswer": "The Middle East",
+      "id": "622a1c367cc59eab6f9502d3",
+      "correctAnswer": "Vodka, Orange Juice, Galliano ",
       "incorrectAnswers": [
-        "India",
-        "Central America",
-        "Africa"
+        "Gin, Ginger Beer, Lemon Juice",
+        "Rum, Tequila, Tabasco Sauce, Soda",
+        "Champagne, Espresso, Mint"
       ],
       "question": {
-        "text": "Where in the world are figs originally from?"
+        "text": "What Are The Ingredients Of A Harvey Wallbanger Cocktail?"
       },
       "tags": [
-        "food",
         "food_and_drink"
       ],
       "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6473075ccf09068746f63767",
+      "correctAnswer": "The Rhine",
+      "incorrectAnswers": [
+        "The Amazon",
+        "The Seine",
+        "The Tiber"
+      ],
+      "question": {
+        "text": "Which river is Dusseldorf an important port on?"
+      },
+      "tags": [
+        "rivers",
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
       "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa40",
+      "correctAnswer": "Realism",
+      "incorrectAnswers": [
+        "Mannerism",
+        "Northern Renaissance",
+        "Dutch and Flemish Renaissance"
+      ],
+      "question": {
+        "text": "The painting \"Whistler’s Mother\" by James Abbott McNeill Whistler is a part of which art movement?"
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950267",
-      "correctAnswer": "Braise ",
+      "id": "63a03953c7d86251f9b65c41",
+      "correctAnswer": "Gruyere",
       "incorrectAnswers": [
-        "Sautée",
-        "Roast",
-        "Bain Marie"
+        "Feta",
+        "Cheddar",
+        "Mozzarella"
       ],
       "question": {
-        "text": "Which cooking term stems from the French word for coal?"
+        "text": "What type of cheese would you be most likely to add to the top of a classic French onion soup?"
       },
       "tags": [
-        "food_and_drink"
+        "cheese",
+        "food_and_drink",
+        "food",
+        "soups"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "637162791bf863c45ca6c37c",
+      "correctAnswer": "How well, not how much",
+      "incorrectAnswers": [
+        "Today it's me, tomorrow it will be you",
+        "Family over everything",
+        "I challenge you"
+      ],
+      "question": {
+        "text": "What is the meaning of the Latin phrase 'Quam bene non quantum'?"
+      },
+      "tags": [
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "62573f0b9da29df7b05f7384",
-      "correctAnswer": "Inception",
+      "id": "62573f3e9da29df7b05f738f",
+      "correctAnswer": "Saving Private Ryan",
       "incorrectAnswers": [
-        "A Beautiful Mind",
-        "The Sixth Sense",
-        "A Clockwork Orange"
+        "The Deer Hunter",
+        "The Big Lebowski",
+        "Platoon"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'A thief who steals secrets through dreams must plant an idea into the mind of a C.E.O.'"
+        "text": "Name the movie that matches the following plot summary: 'In World War II a group of soldiers go behind enemy lines to rescue a paratrooper.'"
       },
       "tags": [
         "film",
@@ -154,80 +351,63 @@
     },
     {
       "category": "music",
-      "id": "622a1c387cc59eab6f950b60",
-      "correctAnswer": "Blink-182",
+      "id": "622a1c357cc59eab6f94fd8d",
+      "correctAnswer": "Joni Mitchell",
       "incorrectAnswers": [
-        "Green Day",
-        "Nirvana",
-        "Foo Fighters"
+        "Kate Bush",
+        "Annie Lennox",
+        "Cher"
       ],
       "question": {
-        "text": "Which band is Travis Barker the drummer for?"
+        "text": "Who Immortalised The 1969 Woodstock Festival In Song?"
       },
       "tags": [
-        "music",
-        "bands"
+        "1960's",
+        "music"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6257401d9da29df7b05f73c5",
-      "correctAnswer": "Unforgiven",
-      "incorrectAnswers": [
-        "Inception",
-        "Das Boot",
-        "Hacksaw Ridge"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A retired gunslinger takes on one last job, with the help of his old partner and a young man.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f951014",
-      "correctAnswer": "The Frontal Lobe",
+      "id": "624333bbcfaae40c129613fe",
+      "correctAnswer": "A Drake",
       "incorrectAnswers": [
-        "Cortex",
-        "The Hypothalamus",
-        "The Parietal Lobe"
+        "A Boar",
+        "A Jack",
+        "A Stallion"
       ],
       "question": {
-        "text": "What Part Of The Brain Is Affected In A Lobotomy?"
+        "text": "What is a male duck known as?"
       },
       "tags": [
-        "biology",
-        "medicine"
+        "words",
+        "animals",
+        "science"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9500e5",
-      "correctAnswer": "Dionysus",
+      "id": "647c9856f89e0968cfbc1a38",
+      "correctAnswer": "Oldsmobile",
       "incorrectAnswers": [
-        "Aphrodite",
-        "Isis",
-        "Bacchus"
+        "Chevrolet",
+        "Ford",
+        "Nissan"
       ],
       "question": {
-        "text": "Who was the Greek god of wine?"
+        "text": "Which car model made the Cutlass Ciera?"
       },
       "tags": [
+        "brands",
+        "motoring",
+        "cars",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -237,38 +417,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fae3",
-      "correctAnswer": "Ben Kingsley",
+      "id": "6257404d9da29df7b05f73d3",
+      "correctAnswer": "A story focusing on a turn-of-the-century prospector in the early days of the business.",
       "incorrectAnswers": [
-        "Dustin Hoffman",
-        "Jack Lemmon",
-        "Paul Newman"
+        "A screenwriter develops a relationship with a faded film star determined to make a return.",
+        "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine.",
+        "The life of the lawyer who became the famed leader of the Indian revolts against the British rule."
       ],
       "question": {
-        "text": "Who won the 1982 Academy Award for Best Leading Actor for playing the role of Mahatma Gandhi in Gandhi?"
-      },
-      "tags": [
-        "academy_awards",
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f6d9da29df7b05f739c",
-      "correctAnswer": "Whiplash",
-      "incorrectAnswers": [
-        "Full Metal Jacket",
-        "Three Billboards Outside Ebbing, Missouri",
-        "Aladdin"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A drummer is mentored by an instructor who will stop at nothing to realize a student's potential.'"
+        "text": "What is the plot of the movie There Will Be Blood?"
       },
       "tags": [
         "film",
@@ -280,19 +437,21 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623742becb85f7ce9e949dec",
-      "correctAnswer": "Funafuti",
+      "category": "music",
+      "id": "625064aee12f6dec240bdfc5",
+      "correctAnswer": "Just a Friend",
       "incorrectAnswers": [
-        "Sana'a",
-        "Manama",
-        "Kigali"
+        "Achy Breaky Heart",
+        "Round And Round",
+        "Whoomp! (There It Is)"
       ],
       "question": {
-        "text": "What is the capital city of Tuvalu?"
+        "text": "What song did Biz Markie have a hit with in 1997?"
       },
       "tags": [
-        "geography"
+        "songs",
+        "one_hit_wonders",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -300,37 +459,79 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "62716490d5d487fbab6b795d",
-      "correctAnswer": "Koskenkorva Viina",
+      "category": "science",
+      "id": "6242cb11d543524f1b19c909",
+      "correctAnswer": "A murder",
       "incorrectAnswers": [
-        "Schnapps",
-        "Rakia",
-        "Sang Som Rum"
+        "A fall",
+        "A cast",
+        "A barren"
       ],
       "question": {
-        "text": "Which of these is a popular drink in Finland?"
+        "text": "What is the word for a group of crows?"
       },
       "tags": [
-        "drink",
-        "alcohol"
+        "science"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570327a97013de78b5554",
+      "correctAnswer": "Processing",
+      "incorrectAnswers": [
+        "Predictive",
+        "Polynomial",
+        "Partitioning"
+      ],
+      "question": {
+        "text": "In computing, what does the 'P' in 'CPU' stand for?"
+      },
+      "tags": [
+        "computing",
+        "computer_science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbe9",
+      "correctAnswer": "\"I’m already pregnant. So, what other shenanigans could I get myself into?\"",
+      "incorrectAnswers": [
+        "\"This is Sparta!\"",
+        "\"Sawyer, you're going out a youngster, but you've t to come back a star!\"",
+        "\"You shall not pass!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Juno'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f0e",
-      "correctAnswer": "Alexander Pushkin",
+      "id": "622a1c367cc59eab6f9501b9",
+      "correctAnswer": "A Game of Thrones",
       "incorrectAnswers": [
-        "Nikolai Gogol",
-        "Leo Tolstoy",
-        "Henryk Sienkiewicz"
+        "The Silver Chair",
+        "The Amber Spyglass",
+        "The Wizard of the Emerald City"
       ],
       "question": {
-        "text": "Which author wrote 'Eugene Onegin'?"
+        "text": "Which piece of written work starts with the line '“We should start back,” Gared urged as the woods began to grow dark around them.'?"
       },
       "tags": [
         "arts_and_literature"
@@ -341,168 +542,57 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc61",
-      "correctAnswer": "Ratoon",
+      "category": "geography",
+      "id": "6237425acb85f7ce9e949dc4",
+      "correctAnswer": "Mogadishu",
       "incorrectAnswers": [
-        "Curmudgeon",
-        "Tittynope",
-        "Fudgel"
+        "Tashkent",
+        "Dushanbe",
+        "Majuro"
       ],
       "question": {
-        "text": "Which word is defined as 'a small shoot growing from the root of a plant'?"
+        "text": "What is the capital city of Somalia?"
       },
       "tags": [
-        "words",
-        "general_knowledge"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639ae2c3929b90846f2fc8b3",
-      "correctAnswer": "Scandinavia",
-      "incorrectAnswers": [
-        "Britain",
-        "China",
-        "The Maghreb"
-      ],
-      "question": {
-        "text": "Where did the Vikings originate from?"
-      },
-      "tags": [
-        "history",
-        "vikings",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc39",
-      "correctAnswer": "\"I'm as mad as hell, and I'm not going to take this anymore!\"",
+      "id": "625740e29da29df7b05f73ff",
+      "correctAnswer": "An ex-prize fighter struggles to stand up to his corrupt union bosses.",
       "incorrectAnswers": [
-        "\"That is so fetch.\"",
-        "\"I love the smell of napalm in the morning.\"",
-        "\"E.T. phone home.\""
+        "The life of a boxer whose temper led him to the top in the ring, but destroyed his life outside of it.",
+        "The story an English officer who successfully united and led the Arab tribes during World War I.",
+        "An Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel."
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Network'?"
+        "text": "What is the plot of the movie On the Waterfront?"
       },
       "tags": [
-        "quotes",
         "film",
         "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6271644a1ba117625baac955",
-      "correctAnswer": "Mama Juana",
-      "incorrectAnswers": [
-        "Gin",
-        "Maotai",
-        "Chibuku"
-      ],
-      "question": {
-        "text": "Which of these is a popular drink in The Dominican Republic?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc59",
-      "correctAnswer": "Whiffler",
-      "incorrectAnswers": [
-        "Firman",
-        "Salopettes",
-        "Donkey Engine"
-      ],
-      "question": {
-        "text": "Which word is defined as 'somebody who walks in front of you through a crowd'?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6477ba9d550bc819ad646aeb",
-      "correctAnswer": "Sequoia",
-      "incorrectAnswers": [
-        "Redbud",
-        "Oak",
-        "Maple"
-      ],
-      "question": {
-        "text": "What is the name of the tree that can reach up to 350 feet tall and is named after a region in California?"
-      },
-      "tags": [
-        "nature",
-        "trees",
-        "california",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc2a",
-      "correctAnswer": "\"If you build it, he will come.\"",
-      "incorrectAnswers": [
-        "\"Frankly, my dear, I don't give a damn.\"",
-        "\"I'll get you, my pretty, and your little dog, too!\"",
-        "\"Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Field of Dreams'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "society_and_culture",
-      "id": "6266e6cbff2394bd44dee065",
-      "correctAnswer": "Ten",
+      "id": "6266e602ff2394bd44dee02a",
+      "correctAnswer": "Negro",
       "incorrectAnswers": [
-        "Three",
-        "Blue",
-        "Six"
+        "Nero",
+        "Zwart",
+        "Azul"
       ],
       "question": {
-        "text": "What does the word 'diez' mean in Spanish?"
+        "text": "In Portuguese, what is the word for for 'black'?"
       },
       "tags": [
         "language",
@@ -515,128 +605,43 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "6488deec50a27f7378a91ddf",
-      "correctAnswer": "Who Wants To Be A Millionaire?",
-      "incorrectAnswers": [
-        "Jeopardy!",
-        "Wheel of Fortune",
-        "The Price Is Right"
-      ],
-      "question": {
-        "text": "What TV game show had a 'Phone-a-Friend' lifeline?"
-      },
-      "tags": [
-        "film_and_tv",
-        "tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6266bc66ff2394bd44dee005",
-      "correctAnswer": "Stringed",
-      "incorrectAnswers": [
-        "Woodwind",
-        "Brass",
-        "Percussion"
-      ],
-      "question": {
-        "text": "What type of instrument is a sitar?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950245",
-      "correctAnswer": "Schnapps ",
-      "incorrectAnswers": [
-        "Brandy",
-        "Vodka",
-        "Rum"
-      ],
-      "question": {
-        "text": "Which German spirit is flavoured with caraway seeds and distilled from potatoes?"
-      },
-      "tags": [
-        "drink",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "64730759cf09068746f6375e",
-      "correctAnswer": "Ethiopia",
+      "id": "622a1c367cc59eab6f9503d7",
+      "correctAnswer": "Decimate",
       "incorrectAnswers": [
-        "Nigeria",
-        "South Africa",
-        "Egypt"
+        "Havoc",
+        "Mutilate",
+        "Annihilate"
       ],
       "question": {
-        "text": "Which African country did Menelik II help unite into its modern form, when he was emperor until 1913?"
+        "text": "What Name Was Given To The Practise Of Killing Every Tenth Man In A Mutinous Roman Cohort?"
       },
       "tags": [
-        "politics",
-        "africa",
-        "people",
-        "leaders",
+        "words",
+        "romans",
+        "general_knowledge",
         "history"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94feef",
-      "correctAnswer": "David Bowie",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eb3",
+      "correctAnswer": "Charles Darwin",
       "incorrectAnswers": [
-        "Eric Clapton",
-        "Madonna",
-        "Mika"
+        "Percy Bysshe Shelley",
+        "H. Rider Haggard",
+        "Robert Louis Stevenson"
       ],
       "question": {
-        "text": "Which British musician released the album 'Station to Station'?"
+        "text": "Which author wrote 'The Descent of Man And Selection in Relation to Sex'?"
       },
       "tags": [
-        "musicians",
-        "music_albums",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f89b",
-      "correctAnswer": "Hockey",
-      "incorrectAnswers": [
-        "Athletics",
-        "Figure skating",
-        "Gymnastics"
-      ],
-      "question": {
-        "text": "With which sport is Dhyan Chand associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
