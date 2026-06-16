@@ -1,21 +1,61 @@
 {
-  "gameDate": "2026-06-15",
+  "gameDate": "2026-06-16",
   "difficulty": "hard",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c07",
-      "correctAnswer": "Muse",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e80",
+      "correctAnswer": "Voltaire",
       "incorrectAnswers": [
-        "Tears for Fears",
-        "Bullet For My Valentine",
-        "Enter Shikari"
+        "Stendhal",
+        "Paulo Coelho",
+        "Isabel Allende"
       ],
       "question": {
-        "text": "Which English rock band released the studio album 'Absolution'?"
+        "text": "Which author wrote 'Encyclopédie'?"
       },
       "tags": [
-        "music"
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624437b4746187c5e7be936d",
+      "correctAnswer": "Saltpetre",
+      "incorrectAnswers": [
+        "Borax",
+        "Limestone",
+        "Quartz"
+      ],
+      "question": {
+        "text": "What is the common name for potassium nitrate?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950dd4",
+      "correctAnswer": "Meg Cabot",
+      "incorrectAnswers": [
+        "Stephenie Meyer",
+        "Philip K. Dick",
+        "Brandon Sanderson"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Princess Diaries'?"
+      },
+      "tags": [
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -24,19 +64,40 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd0c",
-      "correctAnswer": "Ludwig Wittgenstein",
+      "id": "639c9dae929b90846f2fc98f",
+      "correctAnswer": "Shiva",
       "incorrectAnswers": [
-        "Socrates",
-        "Albert Camus",
-        "Democritus"
+        "Vishnu",
+        "Brihaspati",
+        "Krishna"
       ],
       "question": {
-        "text": "Which philosopher famously said 'I don’t know why we are here, but I’m pretty sure it is not in order to enjoy ourselves'?"
+        "text": "What is the name of the Hindu god of destruction?"
+      },
+      "tags": [
+        "hinduism",
+        "religion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcf9",
+      "correctAnswer": "John Locke",
+      "incorrectAnswers": [
+        "Ludwig Wittgenstein",
+        "Socrates",
+        "Voltaire"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'Good and evil, reward and punishment, are the only motives to a rational creature'?"
       },
       "tags": [
         "philosophy",
-        "people",
         "quotes",
         "society_and_culture"
       ],
@@ -46,207 +107,83 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9519b8",
-      "correctAnswer": "Manhattan Island",
+      "category": "science",
+      "id": "63d95313168979b94b2e4f91",
+      "correctAnswer": "J. J. Thomson",
       "incorrectAnswers": [
-        "The Moon",
-        "The Last Dodo",
-        "Queen Elizabeth's Corpse"
+        "Albert Einstein",
+        "Marie Curie",
+        "Antoine Lavoisier"
       ],
       "question": {
-        "text": "What did Peter Minuit buy in 1626?"
+        "text": "Who discovered the electron?"
+      },
+      "tags": [
+        "science",
+        "scientific_discoveries"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950590",
+      "correctAnswer": "Human growth",
+      "incorrectAnswers": [
+        "The application of words",
+        "Stars",
+        "Acoustics"
+      ],
+      "question": {
+        "text": "What is auxology the study of?"
+      },
+      "tags": [
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570437a97013de78b556c",
+      "correctAnswer": "Butterflies",
+      "incorrectAnswers": [
+        "Bears",
+        "Seals",
+        "Penguins"
+      ],
+      "question": {
+        "text": "Admiral and Monarch belong to which group of animals?"
+      },
+      "tags": [
+        "science",
+        "animals",
+        "nature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd97",
+      "correctAnswer": "Mariah Carey",
+      "incorrectAnswers": [
+        "Rihanna",
+        "Beyonce",
+        "Christina Aguilera"
+      ],
+      "question": {
+        "text": "Which Singing Diva Flopped At The Box Office With Her Debut Movie “Glitter”?"
       },
       "tags": [
         "people",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8d6",
-      "correctAnswer": "Holly Hunter",
-      "incorrectAnswers": [
-        "Angela Lansbury",
-        "Sidney Poitier",
-        "Emma Thompson"
-      ],
-      "question": {
-        "text": "Which actress played the role of Jane Craig in Broadcast News?"
-      },
-      "tags": [
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c60ee50d1a5e051325a7d",
-      "correctAnswer": "Poland",
-      "incorrectAnswers": [
-        "Belgium",
-        "Brunei",
-        "Japan"
-      ],
-      "question": {
-        "text": "Where in the world would you most expect to be served Bigos?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95057e",
-      "correctAnswer": "Crop circles",
-      "incorrectAnswers": [
-        "Sex",
-        "Organic particles",
-        "Moons"
-      ],
-      "question": {
-        "text": "What is cereology the study of?"
-      },
-      "tags": [
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374210cb85f7ce9e949da6",
-      "correctAnswer": "Basseterre",
-      "incorrectAnswers": [
-        "Manama",
-        "Podgorica",
-        "Port-au-Prince"
-      ],
-      "question": {
-        "text": "What is the capital city of Saint Kitts and Nevis?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62443765746187c5e7be934e",
-      "correctAnswer": "It is used to manufacture dry wall.",
-      "incorrectAnswers": [
-        "It is used in thermometers, thermostats, barometers",
-        "It is used in laundry detergent.",
-        "It is used to relieve pain."
-      ],
-      "question": {
-        "text": "What is the chemical calcium sulphate dihydrate often used for?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611fb54b176d54800e3d6b",
-      "correctAnswer": "1977",
-      "incorrectAnswers": [
-        "1954",
-        "1990",
-        "2003"
-      ],
-      "question": {
-        "text": "When was the first MRI scan of a human being?"
-      },
-      "tags": [
-        "events",
-        "firsts",
-        "medicine",
-        "technology",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623388ca0161109f922aacac",
-      "correctAnswer": "The Cantabrian Mountains ",
-      "incorrectAnswers": [
-        "The Atlas Mountains",
-        "The Alps",
-        "The Valencian Mountains"
-      ],
-      "question": {
-        "text": "Which Mountain Range Lies In The North Of Spain?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503e8",
-      "correctAnswer": "Genghis Khan",
-      "incorrectAnswers": [
-        "Timur",
-        "Augustus",
-        "Xerxes"
-      ],
-      "question": {
-        "text": "What did Temujin change his name to?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c82",
-      "correctAnswer": "Metallica",
-      "incorrectAnswers": [
-        "Alice Cooper",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
-      ],
-      "question": {
-        "text": "Which American heavy metal band released the studio album 'Hardwired… to Self-Destruct'?"
-      },
-      "tags": [
         "music"
       ],
       "type": "text_choice",
@@ -255,78 +192,19 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa1f",
-      "correctAnswer": "Pieter Bruegel the Elder",
-      "incorrectAnswers": [
-        "Georges Seurat",
-        "Pablo Picasso",
-        "Hokusai"
-      ],
-      "question": {
-        "text": "Which artist painted \"Landscape with the Fall of Icarus\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950de2",
-      "correctAnswer": "Aldous Huxley",
-      "incorrectAnswers": [
-        "Arthur C. Clarke",
-        "Robert Louis Stevenson",
-        "Arthur Conan Doyle"
-      ],
-      "question": {
-        "text": "Which author wrote 'Brave New World'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374090cb85f7ce9e949d0b",
-      "correctAnswer": "Grenada",
-      "incorrectAnswers": [
-        "Barbados",
-        "Ireland",
-        "Mauritania"
-      ],
-      "question": {
-        "text": "Saint George's is the capital city of which country?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "62573f9d9da29df7b05f73a6",
-      "correctAnswer": "Paths of Glory",
+      "id": "622a1c357cc59eab6f94fc3f",
+      "correctAnswer": "\"Love means never having to say you're sorry.\"",
       "incorrectAnswers": [
-        "Double Indemnity",
-        "North by Northwest",
-        "Scarface"
+        "\"Greed, for lack of a better word, is good.\"",
+        "\"May the Force be with you.\"",
+        "\"This is the day you will always remember as the day you almost caught Captain Jack Sparrow!\""
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'A general accuses soldiers of cowardice and their commanding officer must defend them.'"
+        "text": "Which of these quotes is from the film 'Love Story'?"
       },
       "tags": [
+        "quotes",
         "film",
         "film_and_tv"
       ],
@@ -336,272 +214,16 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "637162531bf863c45ca6c36b",
-      "correctAnswer": "Hodie mihi, cras tibi",
-      "incorrectAnswers": [
-        "Cras es, noster",
-        "Tendit in, ardua virtus",
-        "Vincit, qui patitur"
-      ],
-      "question": {
-        "text": "Which of these Latin phrases translates to 'Today it's me, tomorrow it will be you'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f931",
-      "correctAnswer": "The Public Enemy",
+      "id": "622a1c347cc59eab6f94fab8",
+      "correctAnswer": "Meryl Streep",
       "incorrectAnswers": [
-        "Rain Man",
-        "The Silence of the Lambs",
-        "All About Eve"
+        "Jane Alexander",
+        "Barbara Barrie",
+        "Candice Bergen"
       ],
       "question": {
-        "text": "Which film contains the character 'Tom Powers'?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6242cb8ad543524f1b19c938",
-      "correctAnswer": "A nest",
-      "incorrectAnswers": [
-        "A plump",
-        "A herd",
-        "An unkindness"
-      ],
-      "question": {
-        "text": "What is the word for a group of rabbits?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b98",
-      "correctAnswer": "Slayer",
-      "incorrectAnswers": [
-        "MercyMe",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American thrash metal band released the studio album 'Divine Intervention'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe26",
-      "correctAnswer": "Cape Town ",
-      "incorrectAnswers": [
-        "Freetown",
-        "Johannesburg",
-        "Port Elizabeth"
-      ],
-      "question": {
-        "text": "What was The First Town Founded By Europeans In Southern Africa?"
-      },
-      "tags": [
-        "africa",
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95023b",
-      "correctAnswer": "Durian ",
-      "incorrectAnswers": [
-        "Mangosteen",
-        "Lychee",
-        "Dragonfruit"
-      ],
-      "question": {
-        "text": "Which Southeast Asian fruit is notorious for its putrid smell?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c377cc59eab6f950424",
-      "correctAnswer": "Auckland",
-      "incorrectAnswers": [
-        "Christchurch",
-        "Adelaide",
-        "Brisbane"
-      ],
-      "question": {
-        "text": "In the harbour of which city was the Greenpeace flagship Rainbow Warrior sunk in 1985?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374303cb85f7ce9e949e08",
-      "correctAnswer": "Harare",
-      "incorrectAnswers": [
-        "Monrovia",
-        "Baku",
-        "Bulawayo"
-      ],
-      "question": {
-        "text": "What is the capital city of Zimbabwe?"
-      },
-      "tags": [
-        "capital_cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f95007c",
-      "correctAnswer": "Hill",
-      "incorrectAnswers": [
-        "Schumacher",
-        "Hunt",
-        "Villeneuve"
-      ],
-      "question": {
-        "text": "What Surname Has Been Shared By Three Formula One Champions Of The 20th Century?"
-      },
-      "tags": [
-        "racing",
-        "names",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95056a",
-      "correctAnswer": "The structure of cells",
-      "incorrectAnswers": [
-        "Human emotions",
-        "Feces",
-        "Electricity"
-      ],
-      "question": {
-        "text": "What is Cytomorphology the study of?"
-      },
-      "tags": [
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602ecc4b176d54800e3cf6",
-      "correctAnswer": "Argentina",
-      "incorrectAnswers": [
-        "Brazil",
-        "Jamaica",
-        "Venezuela"
-      ],
-      "question": {
-        "text": "In which country is the city of Cordoba?"
-      },
-      "tags": [
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c397cc59eab6f950fa1",
-      "correctAnswer": "Ear",
-      "incorrectAnswers": [
-        "Nose",
-        "Mouth",
-        "Eyes"
-      ],
-      "question": {
-        "text": "With what body part is otology involved?"
-      },
-      "tags": [
-        "medicine",
-        "biology",
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa9b",
-      "correctAnswer": "Renée Zellweger",
-      "incorrectAnswers": [
-        "Shohreh Aghdashloo",
-        "Patricia Clarkson",
-        "Marcia Gay Harden"
-      ],
-      "question": {
-        "text": "Who won the 2003 Academy Award for Best Supporting Actress for playing the role of Ruby Thewes in Cold Mountain?"
+        "text": "Who won the 1979 Academy Award for Best Supporting Actress for playing the role of Joanna Kramer in Kramer vs. Kramer?"
       },
       "tags": [
         "acting",
@@ -615,20 +237,399 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa28",
-      "correctAnswer": "Dutch Golden Age",
+      "category": "film_and_tv",
+      "id": "624dba1cde6018633d31f6b4",
+      "correctAnswer": "Casino Royale",
       "incorrectAnswers": [
-        "Neoclassicism",
-        "Dutch and Flemish Renaissance",
-        "Fauvism"
+        "The Living Daylights",
+        "No Time To Die",
+        "Thunderball"
       ],
       "question": {
-        "text": "The painting \"Girl with a Pearl Earring\" by ‎‎Johannes Vermeer is a part of which art movement?"
+        "text": "Which James Bond theme song was performed by Chris Cornell?"
       },
       "tags": [
-        "painting",
-        "art",
+        "james_bond",
+        "film",
+        "soundtracks",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c3b",
+      "correctAnswer": "Coldplay",
+      "incorrectAnswers": [
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
+      ],
+      "question": {
+        "text": "Which British band released the studio album 'Ghost Stories'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc3b",
+      "correctAnswer": "\"Made it, Ma! Top of the world!\"",
+      "incorrectAnswers": [
+        "\"Toga! Toga!\"",
+        "\"A boy's best friend is his mother.\"",
+        "\"Hasta la vista, baby.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'White Heat'?"
+      },
+      "tags": [
+        "film",
+        "quotes",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "62506482e12f6dec240bdfb8",
+      "correctAnswer": "Edwyn Collins",
+      "incorrectAnswers": [
+        "The Waitresses",
+        "Rockwell",
+        "The Heights"
+      ],
+      "question": {
+        "text": "'A Girl Like You' was a one hit wonder in 1994 by which artist?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd6acdc0dd3b72da64d02",
+      "correctAnswer": "2012",
+      "incorrectAnswers": [
+        "2006",
+        "2008",
+        "2010"
+      ],
+      "question": {
+        "text": "In which year was Django Unchained released?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "636a5230990390307063f37d",
+      "correctAnswer": "Fleetwood Mac",
+      "incorrectAnswers": [
+        "The Highwomen",
+        "Joe Cocker",
+        "the Light by Manfred Mann's Earth Band"
+      ],
+      "question": {
+        "text": "The song 'Landslide' had a well-known cover by Miley Cyrus, but who recorded the original?"
+      },
+      "tags": [
+        "music",
+        "cover_song",
+        "songs",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624ab0b7348a461bfc670692",
+      "correctAnswer": "The Middle East",
+      "incorrectAnswers": [
+        "Europe",
+        "Central America",
+        "Africa"
+      ],
+      "question": {
+        "text": "From which part of the world do plums originate?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "647638cef05ea6d6f587a142",
+      "correctAnswer": "The Grinch",
+      "incorrectAnswers": [
+        "Scrooge",
+        "Darth Vader",
+        "The Wicked Witch of the West"
+      ],
+      "question": {
+        "text": "Which character's heart was described as being '2 sizes too small' and had reasons for his grumpiness?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "literature",
+        "fictitious_characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e03",
+      "correctAnswer": "Snorri Sturluson",
+      "incorrectAnswers": [
+        "Sebastian Brant",
+        "Agatha Christie",
+        "Rainer Maria Rilke"
+      ],
+      "question": {
+        "text": "Which author wrote 'Prose Edda'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c0b",
+      "correctAnswer": "Deep Purple",
+      "incorrectAnswers": [
+        "UB40",
+        "Keane",
+        "The Cure"
+      ],
+      "question": {
+        "text": "Which English rock band released the album 'Machine Head'?"
+      },
+      "tags": [
+        "rock_music",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623735eacfe13103f55eb581",
+      "correctAnswer": "Tahiti",
+      "incorrectAnswers": [
+        "The Philippines",
+        "South Africa",
+        "Palau"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.pf' at the end of its web addresses?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237415ccb85f7ce9e949d5e",
+      "correctAnswer": "Nouakchott",
+      "incorrectAnswers": [
+        "Bamako",
+        "Tallinn",
+        "Mogadishu"
+      ],
+      "question": {
+        "text": "What is the capital city of Mauritania?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64730759cf09068746f63762",
+      "correctAnswer": "Halley's Comet",
+      "incorrectAnswers": [
+        "Hale-Bopp",
+        "Shoemaker-Levy 9",
+        "Hyakutake"
+      ],
+      "question": {
+        "text": "Which comet causes the Orionids meteor shower each October?"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62433531cfaae40c1296148f",
+      "correctAnswer": "A Bull",
+      "incorrectAnswers": [
+        "A Drone",
+        "A Tiercel",
+        "A Rooster"
+      ],
+      "question": {
+        "text": "A male sea lion is known as what?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c4f",
+      "correctAnswer": "Bee Gees",
+      "incorrectAnswers": [
+        "Level 42",
+        "Culture Club",
+        "Dire Straits"
+      ],
+      "question": {
+        "text": "Which English-Australian pop group released the album 'Horizontal'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b4c",
+      "correctAnswer": "Within Temptation",
+      "incorrectAnswers": [
+        "Luv'",
+        "The Cats",
+        "2 Unlimited"
+      ],
+      "question": {
+        "text": "Which Dutch metal band released the studio album 'The Heart of Everything'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6244376f746187c5e7be9352",
+      "correctAnswer": "Heavy water",
+      "incorrectAnswers": [
+        "Dolomite",
+        "Cream of tartar",
+        "Hematite"
+      ],
+      "question": {
+        "text": "What is deuterium oxide commonly known as?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "639898485c9a75021f310471",
+      "correctAnswer": "Operation VICTOR V",
+      "incorrectAnswers": [
+        "Operation Flashpoint",
+        "Operation Ketsugo",
+        "Operation Ten-Go"
+      ],
+      "question": {
+        "text": "What was the name of the operation in 1945 to liberate the Philippines?"
+      },
+      "tags": [
+        "history",
+        "world_war_2",
+        "wars",
+        "1940's",
+        "southeast_asia"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f950147",
+      "correctAnswer": "Banquo",
+      "incorrectAnswers": [
+        "Lady Macbeth",
+        "Macduff",
+        "King Duncan"
+      ],
+      "question": {
+        "text": "Whose ghost appears at the dinner table in \"Macbeth\"?"
+      },
+      "tags": [
         "arts_and_literature"
       ],
       "type": "text_choice",
