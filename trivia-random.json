@@ -1,132 +1,42 @@
 {
-  "gameDate": "2026-06-18",
+  "gameDate": "2026-06-19",
   "difficulty": "random",
   "results": [
     {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f8f",
+      "correctAnswer": "William Shakespeare",
+      "incorrectAnswers": [
+        "Arthur C. Clarke",
+        "Isaac Newton",
+        "Enid Blyton"
+      ],
+      "question": {
+        "text": "Which author wrote 'As You Like It'?"
+      },
+      "tags": [
+        "theater",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
       "category": "society_and_culture",
-      "id": "6293ec6b7f41d6338b96eeef",
-      "correctAnswer": "Max Planck",
+      "id": "622a1c367cc59eab6f950116",
+      "correctAnswer": "Sikhism",
       "incorrectAnswers": [
-        "Louis Daguerre",
-        "Mahavira",
-        "Enrico Fermi"
+        "Buddhism",
+        "Judaism",
+        "Hinduism"
       ],
       "question": {
-        "text": "Which theoretical physicist developed a theory of quantum physics and discovered energy quanta?"
+        "text": "What religion was founded by Guru Nanak ?"
       },
       "tags": [
-        "people",
-        "society_and_culture",
-        "physics",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6499c2614e0e966accb0b97c",
-      "correctAnswer": "Bob the Builder",
-      "incorrectAnswers": [
-        "Thomas the Tank Engine",
-        "Spongebob Squarepants",
-        "Scooby-Doo"
-      ],
-      "question": {
-        "text": "Which children's TV character has friends called Muck, Lofty, and Scoop?"
-      },
-      "tags": [
-        "childrens_tv",
-        "film_and_tv",
-        "tv",
-        "fictitious_characters"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056eea7a97013de78b538d",
-      "correctAnswer": "Feudalism",
-      "incorrectAnswers": [
-        "Polygamy",
-        "Communism",
-        "Oligarchy"
-      ],
-      "question": {
-        "text": "What medieval social system was based on the holding of land in exchange for labor?"
-      },
-      "tags": [
-        "history",
-        "medieval"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "64626286ab138b829b81ea0c",
-      "correctAnswer": "Tequila Sunrise",
-      "incorrectAnswers": [
-        "Margaritaville",
-        "Whiskey in the Jar",
-        "Gin and Juice"
-      ],
-      "question": {
-        "text": "Which Eagles song mentions a mixed drink staring slowly across the sky?"
-      },
-      "tags": [
-        "drinks",
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502d3",
-      "correctAnswer": "Vodka, Orange Juice, Galliano ",
-      "incorrectAnswers": [
-        "Gin, Ginger Beer, Lemon Juice",
-        "Rum, Tequila, Tabasco Sauce, Soda",
-        "Champagne, Espresso, Mint"
-      ],
-      "question": {
-        "text": "What Are The Ingredients Of A Harvey Wallbanger Cocktail?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6473075ccf09068746f63767",
-      "correctAnswer": "The Rhine",
-      "incorrectAnswers": [
-        "The Amazon",
-        "The Seine",
-        "The Tiber"
-      ],
-      "question": {
-        "text": "Which river is Dusseldorf an important port on?"
-      },
-      "tags": [
-        "rivers",
-        "cities",
-        "geography"
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -135,15 +45,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa40",
-      "correctAnswer": "Realism",
+      "id": "622a1c347cc59eab6f94fa21",
+      "correctAnswer": "Pierre-Auguste Renoir",
       "incorrectAnswers": [
-        "Mannerism",
-        "Northern Renaissance",
-        "Dutch and Flemish Renaissance"
+        "Paul Cézanne",
+        "‎Pablo Picasso",
+        "Jan van Eyck"
       ],
       "question": {
-        "text": "The painting \"Whistler’s Mother\" by James Abbott McNeill Whistler is a part of which art movement?"
+        "text": "Which artist painted \"Luncheon on the Boating Party\""
       },
       "tags": [
         "painting",
@@ -156,22 +66,148 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "63a03953c7d86251f9b65c41",
-      "correctAnswer": "Gruyere",
+      "category": "science",
+      "id": "6243354dcfaae40c1296149a",
+      "correctAnswer": "A Lamb",
       "incorrectAnswers": [
-        "Feta",
-        "Cheddar",
-        "Mozzarella"
+        "A Maggot",
+        "A Caterpillar",
+        "A Fry"
       ],
       "question": {
-        "text": "What type of cheese would you be most likely to add to the top of a classic French onion soup?"
+        "text": "What is a baby sheep known as?"
       },
       "tags": [
-        "cheese",
-        "food_and_drink",
-        "food",
-        "soups"
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64824f247778562fd76a96c4",
+      "correctAnswer": "Harlem",
+      "incorrectAnswers": [
+        "Greenwich",
+        "Chelsea",
+        "Midtown"
+      ],
+      "question": {
+        "text": "What area of Manhattan precedes 'Shake' and 'Shuffle' in the names of dances?"
+      },
+      "tags": [
+        "dance",
+        "music",
+        "new_york_city",
+        "songs"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b5845fd6c701a921183ab",
+      "correctAnswer": "Norway",
+      "incorrectAnswers": [
+        "Austria",
+        "Germany",
+        "Northern Ireland"
+      ],
+      "question": {
+        "text": "In which country would you find the UNESCO World Heritage site of Bryggen?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "646261c8ab138b829b81e992",
+      "correctAnswer": "The Golden Horde",
+      "incorrectAnswers": [
+        "The Silver Horde",
+        "The Bronze Horde",
+        "The Copper Horde"
+      ],
+      "question": {
+        "text": "Which group emerged after the disintegration of the Mongol Empire and pillaged much of Europe throughout the 14th century?"
+      },
+      "tags": [
+        "medieval",
+        "wars",
+        "history",
+        "europe",
+        "mongolian_empire",
+        "1300s"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950feb",
+      "correctAnswer": "Vanilla",
+      "incorrectAnswers": [
+        "Almond",
+        "Cinnamon",
+        "Cocoa"
+      ],
+      "question": {
+        "text": "Which Member Of The Orchid Family Is Used Commercially As A Flavouring?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502cf",
+      "correctAnswer": "The Czech Republic",
+      "incorrectAnswers": [
+        "Austria",
+        "Poland",
+        "Germany"
+      ],
+      "question": {
+        "text": "What country is the largest consumer of beer per head?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c397cc59eab6f950f9e",
+      "correctAnswer": "First Test Tube Baby",
+      "incorrectAnswers": [
+        "First Woman in Space",
+        "Oldest Human Being",
+        "Solved Fermat's Last Theorem"
+      ],
+      "question": {
+        "text": "Why Is Louise Brown Famous?"
+      },
+      "tags": [
+        "people",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -180,15 +216,217 @@
     },
     {
       "category": "society_and_culture",
-      "id": "637162791bf863c45ca6c37c",
-      "correctAnswer": "How well, not how much",
+      "id": "6477bb12550bc819ad646b5c",
+      "correctAnswer": "Exodus",
       "incorrectAnswers": [
-        "Today it's me, tomorrow it will be you",
-        "Family over everything",
-        "I challenge you"
+        "Genesis",
+        "Deuteronomy",
+        "Leviticus"
       ],
       "question": {
-        "text": "What is the meaning of the Latin phrase 'Quam bene non quantum'?"
+        "text": "Which book of the Bible features the Israelites fleeing from slavery in Egypt?"
+      },
+      "tags": [
+        "christianity",
+        "judaism",
+        "bible",
+        "society_and_culture",
+        "religion"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63dd25ee742e43ed64f1f04e",
+      "correctAnswer": "Exchange Rate",
+      "incorrectAnswers": [
+        "GDP",
+        "Inflation Rate",
+        "Currency Ratio"
+      ],
+      "question": {
+        "text": "What is the term for the value of one currency in relation to another currency?"
+      },
+      "tags": [
+        "society_and_culture",
+        "economics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe48",
+      "correctAnswer": "Colorado",
+      "incorrectAnswers": [
+        "Arizona",
+        "Utah",
+        "Florida"
+      ],
+      "question": {
+        "text": "The highest point in Pennsylvania is lower than the lowest point in ______________"
+      },
+      "tags": [
+        "us_states",
+        "usa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6262afb24b176d54800e3dd8",
+      "correctAnswer": "Away From Keyboard",
+      "incorrectAnswers": [
+        "Award For Knowledge",
+        "Ahoy, Fellow Kid",
+        "Another Fancy King"
+      ],
+      "question": {
+        "text": "What do the letters 'AFK' mean on internet chats?"
+      },
+      "tags": [
+        "the_internet",
+        "initials",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc88",
+      "correctAnswer": "Donkey Engine",
+      "incorrectAnswers": [
+        "Gabelle",
+        "Grommet",
+        "Yarborough"
+      ],
+      "question": {
+        "text": "Which word is defined as 'a small auxiliary engine on a ship'?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237408acb85f7ce9e949d09",
+      "correctAnswer": "Greece",
+      "incorrectAnswers": [
+        "Luxembourg",
+        "Georgia",
+        "Serbia"
+      ],
+      "question": {
+        "text": "Athens is the capital city of which country?"
+      },
+      "tags": [
+        "capital_cities",
+        "cities",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c377cc59eab6f950451",
+      "correctAnswer": "The Submarine",
+      "incorrectAnswers": [
+        "The Torpedo",
+        "TNT",
+        "The Tank"
+      ],
+      "question": {
+        "text": "Designed By Robert Fulton, Which Weapon Was Tested In The Seine In 1801?"
+      },
+      "tags": [
+        "inventions",
+        "technology",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c3c7cc59eab6f951901",
+      "correctAnswer": "The most beautiful girl in the world",
+      "incorrectAnswers": [
+        "A pack of smokes",
+        "His heart",
+        "A cup of kindness"
+      ],
+      "question": {
+        "text": "What Was Charlie Rich Looking For In 1973?"
+      },
+      "tags": [
+        "songs",
+        "lyrics",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe3e",
+      "correctAnswer": "The Hudson ",
+      "incorrectAnswers": [
+        "The Jackson",
+        "The Mississippi",
+        "The Rio Grande"
+      ],
+      "question": {
+        "text": "On which River does the City of New York stand?"
+      },
+      "tags": [
+        "rivers",
+        "new_york",
+        "bodies_of_water",
+        "usa",
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "637162601bf863c45ca6c371",
+      "correctAnswer": "Libertas perfundet omnia luce",
+      "incorrectAnswers": [
+        "Et tu, Brute",
+        "Igne natura renovatur integral fredomi",
+        "Oderint dum metuant"
+      ],
+      "question": {
+        "text": "Which of these Latin phrases means 'Freedom will flood all things with light'?"
       },
       "tags": [
         "society_and_culture",
@@ -202,128 +440,124 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "62573f3e9da29df7b05f738f",
-      "correctAnswer": "Saving Private Ryan",
-      "incorrectAnswers": [
-        "The Deer Hunter",
-        "The Big Lebowski",
-        "Platoon"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'In World War II a group of soldiers go behind enemy lines to rescue a paratrooper.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fd8d",
-      "correctAnswer": "Joni Mitchell",
+      "id": "64adcb300d501be39aa6c798",
+      "correctAnswer": "The Lime",
       "incorrectAnswers": [
-        "Kate Bush",
-        "Annie Lennox",
-        "Cher"
+        "The Mango",
+        "The Orange",
+        "The Pineapple"
       ],
       "question": {
-        "text": "Who Immortalised The 1969 Woodstock Festival In Song?"
-      },
-      "tags": [
-        "1960's",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624333bbcfaae40c129613fe",
-      "correctAnswer": "A Drake",
-      "incorrectAnswers": [
-        "A Boar",
-        "A Jack",
-        "A Stallion"
-      ],
-      "question": {
-        "text": "What is a male duck known as?"
-      },
-      "tags": [
-        "words",
-        "animals",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "647c9856f89e0968cfbc1a38",
-      "correctAnswer": "Oldsmobile",
-      "incorrectAnswers": [
-        "Chevrolet",
-        "Ford",
-        "Nissan"
-      ],
-      "question": {
-        "text": "Which car model made the Cutlass Ciera?"
-      },
-      "tags": [
-        "brands",
-        "motoring",
-        "cars",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6257404d9da29df7b05f73d3",
-      "correctAnswer": "A story focusing on a turn-of-the-century prospector in the early days of the business.",
-      "incorrectAnswers": [
-        "A screenwriter develops a relationship with a faded film star determined to make a return.",
-        "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine.",
-        "The life of the lawyer who became the famed leader of the Indian revolts against the British rule."
-      ],
-      "question": {
-        "text": "What is the plot of the movie There Will Be Blood?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "625064aee12f6dec240bdfc5",
-      "correctAnswer": "Just a Friend",
-      "incorrectAnswers": [
-        "Achy Breaky Heart",
-        "Round And Round",
-        "Whoomp! (There It Is)"
-      ],
-      "question": {
-        "text": "What song did Biz Markie have a hit with in 1997?"
+        "text": "According to a song by Harry Nilsson, which fruit is put in the coconut?"
       },
       "tags": [
         "songs",
-        "one_hit_wonders",
+        "music",
+        "lyrics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ed8",
+      "correctAnswer": "H. G. Wells",
+      "incorrectAnswers": [
+        "Neil Gaiman",
+        "Arthur C. Clarke",
+        "C. S. Lewis"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Island of Doctor Moreau'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c367cc59eab6f950324",
+      "correctAnswer": "Robert Smith",
+      "incorrectAnswers": [
+        "Thomas Lawrence",
+        "John Martin",
+        "Jack Austin"
+      ],
+      "question": {
+        "text": "Who was the lead singer of the Cure?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d7b",
+      "correctAnswer": "Radiohead",
+      "incorrectAnswers": [
+        "Goldfrapp",
+        "U2",
+        "Coldplay"
+      ],
+      "question": {
+        "text": "Thom Yorke is the lead singer of which alternative rock band?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f884",
+      "correctAnswer": "Swimming",
+      "incorrectAnswers": [
+        "Cycling",
+        "Rowing",
+        "Track and field"
+      ],
+      "question": {
+        "text": "With which sport is Mark Spitz associated?"
+      },
+      "tags": [
+        "olympics",
+        "people",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd99",
+      "correctAnswer": "Marvin Gaye",
+      "incorrectAnswers": [
+        "Bill Withers",
+        "James Brown",
+        "Luther Vandross"
+      ],
+      "question": {
+        "text": "Which Singer Began His Career In The Moonglows With Motown Boss Berry Gordy's Brother In Law Harvey Fuqua?"
+      },
+      "tags": [
+        "motown",
+        "people",
         "music"
       ],
       "type": "text_choice",
@@ -332,189 +566,64 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6242cb11d543524f1b19c909",
-      "correctAnswer": "A murder",
-      "incorrectAnswers": [
-        "A fall",
-        "A cast",
-        "A barren"
-      ],
-      "question": {
-        "text": "What is the word for a group of crows?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570327a97013de78b5554",
-      "correctAnswer": "Processing",
-      "incorrectAnswers": [
-        "Predictive",
-        "Polynomial",
-        "Partitioning"
-      ],
-      "question": {
-        "text": "In computing, what does the 'P' in 'CPU' stand for?"
-      },
-      "tags": [
-        "computing",
-        "computer_science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbe9",
-      "correctAnswer": "\"I’m already pregnant. So, what other shenanigans could I get myself into?\"",
-      "incorrectAnswers": [
-        "\"This is Sparta!\"",
-        "\"Sawyer, you're going out a youngster, but you've t to come back a star!\"",
-        "\"You shall not pass!\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Juno'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501b9",
-      "correctAnswer": "A Game of Thrones",
-      "incorrectAnswers": [
-        "The Silver Chair",
-        "The Amber Spyglass",
-        "The Wizard of the Emerald City"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line '“We should start back,” Gared urged as the woods began to grow dark around them.'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237425acb85f7ce9e949dc4",
-      "correctAnswer": "Mogadishu",
-      "incorrectAnswers": [
-        "Tashkent",
-        "Dushanbe",
-        "Majuro"
-      ],
-      "question": {
-        "text": "What is the capital city of Somalia?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740e29da29df7b05f73ff",
-      "correctAnswer": "An ex-prize fighter struggles to stand up to his corrupt union bosses.",
-      "incorrectAnswers": [
-        "The life of a boxer whose temper led him to the top in the ring, but destroyed his life outside of it.",
-        "The story an English officer who successfully united and led the Arab tribes during World War I.",
-        "An Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel."
-      ],
-      "question": {
-        "text": "What is the plot of the movie On the Waterfront?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "6266e602ff2394bd44dee02a",
-      "correctAnswer": "Negro",
+      "id": "647638d1f05ea6d6f587a14e",
+      "correctAnswer": "Cabana",
       "incorrectAnswers": [
-        "Nero",
-        "Zwart",
-        "Azul"
+        "Casa",
+        "Ventana",
+        "Puerta"
       ],
       "question": {
-        "text": "In Portuguese, what is the word for for 'black'?"
+        "text": "What is the Spanish word for \"hut\"?"
       },
       "tags": [
-        "language",
-        "translations",
+        "languages",
+        "spanish",
         "society_and_culture"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503d7",
-      "correctAnswer": "Decimate",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fae7",
+      "correctAnswer": "Robert De Niro",
       "incorrectAnswers": [
-        "Havoc",
-        "Mutilate",
-        "Annihilate"
+        "Robert Duvall",
+        "John Hurt",
+        "Jack Lemmon"
       ],
       "question": {
-        "text": "What Name Was Given To The Practise Of Killing Every Tenth Man In A Mutinous Roman Cohort?"
+        "text": "Who won the 1980 Academy Award for Best Leading Actor for playing the role of Jake LaMotta in Raging Bull?"
       },
       "tags": [
-        "words",
-        "romans",
-        "general_knowledge",
-        "history"
+        "acting",
+        "film",
+        "academy_awards",
+        "film_and_tv"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eb3",
-      "correctAnswer": "Charles Darwin",
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b79",
+      "correctAnswer": "The Offspring",
       "incorrectAnswers": [
-        "Percy Bysshe Shelley",
-        "H. Rider Haggard",
-        "Robert Louis Stevenson"
+        "Styx",
+        "Three 6 Mafia",
+        "The Velvet Underground"
       ],
       "question": {
-        "text": "Which author wrote 'The Descent of Man And Selection in Relation to Sex'?"
+        "text": "Which punk band from the United States released the studio album 'Smash'?"
       },
       "tags": [
-        "literature",
-        "arts_and_literature"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -523,121 +632,18 @@
     },
     {
       "category": "geography",
-      "id": "6233867262eaad73716a8cd3",
-      "correctAnswer": "Brussels",
+      "id": "622a1c387cc59eab6f95080c",
+      "correctAnswer": "Europe",
       "incorrectAnswers": [
-        "Paris",
-        "Quebec City",
-        "Geneva"
+        "South America",
+        "Oceania",
+        "Asia"
       ],
       "question": {
-        "text": "Where is the statue 'Le Petit Pissoir'?"
+        "text": "The country of Andorra is on which continent?"
       },
       "tags": [
         "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624ab05fc64ce21c11f06e95",
-      "correctAnswer": "North America",
-      "incorrectAnswers": [
-        "Southeast Asia",
-        "Central Asia",
-        "Europe"
-      ],
-      "question": {
-        "text": "From which part of the world do blueberries originate?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374024cb85f7ce9e949ce0",
-      "correctAnswer": "Havana",
-      "incorrectAnswers": [
-        "Conakry",
-        "Nicosia",
-        "Roseau"
-      ],
-      "question": {
-        "text": "What is the capital city of Cuba?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f00",
-      "correctAnswer": "Ursula K. Le Guin",
-      "incorrectAnswers": [
-        "Stephen King",
-        "Jack Vance",
-        "George R. R. Martin"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Left Hand of Darkness'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6250070f0d86c8f685d80f11",
-      "correctAnswer": "to cut",
-      "incorrectAnswers": [
-        "Little bells",
-        "Pens",
-        "Little worms"
-      ],
-      "question": {
-        "text": "The pasta tagliatelle has what meaning in Italian?"
-      },
-      "tags": [
-        "food",
-        "words",
-        "language",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a24",
-      "correctAnswer": "Et tu, Brute?",
-      "incorrectAnswers": [
-        "Veni, Vidi, Vici.",
-        "Carpe Diem!",
-        "Memento Mori?"
-      ],
-      "question": {
-        "text": "What are commonly believed to be the last words of Julius Caesar?"
-      },
-      "tags": [
-        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
