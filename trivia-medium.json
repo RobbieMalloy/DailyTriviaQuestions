@@ -1,18 +1,60 @@
 {
-  "gameDate": "2026-06-23",
+  "gameDate": "2026-06-24",
   "difficulty": "medium",
   "results": [
     {
-      "category": "history",
-      "id": "65056ef57a97013de78b539c",
-      "correctAnswer": "Amistad",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ec4",
+      "correctAnswer": "James Joyce",
       "incorrectAnswers": [
-        "Wawona",
-        "Adventuress",
-        "MV Semlow"
+        "Samuel Beckett",
+        "Oscar Wilde",
+        "Jonathan Swift"
       ],
       "question": {
-        "text": "In 1839, which ship's mutiny and subsequent court case came to symbolize the fight against the transatlantic slave trade?"
+        "text": "Which author wrote 'Finnegans Wake'?"
+      },
+      "tags": [
+        "literature",
+        "classic_novels",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d09",
+      "correctAnswer": "The Beatles",
+      "incorrectAnswers": [
+        "Deep Purple",
+        "Feeder",
+        "Uriah Heep"
+      ],
+      "question": {
+        "text": "Which English rock band released the song 'Get Back'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503c3",
+      "correctAnswer": "Raoul",
+      "incorrectAnswers": [
+        "Pedro",
+        "Mikel",
+        "Sergio"
+      ],
+      "question": {
+        "text": "What's fidel castro's brother's name? "
       },
       "tags": [
         "history"
@@ -23,61 +65,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6371628d1bf863c45ca6c385",
-      "correctAnswer": "Suum cuique",
-      "incorrectAnswers": [
-        "Fons vitae caritas",
-        "In absentia lucis, tenebrae vincunt",
-        "Melita, domi adsum"
-      ],
-      "question": {
-        "text": "Which of these Latin phrases translates to 'To each his own'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624ab063c64ce21c11f06e96",
-      "correctAnswer": "North America",
-      "incorrectAnswers": [
-        "India",
-        "Africa",
-        "China"
-      ],
-      "question": {
-        "text": "Where in the world are cranberries originally from?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "6244377e746187c5e7be9358",
-      "correctAnswer": "Nitrous Oxide",
+      "id": "6470d79b423445f16131b4d1",
+      "correctAnswer": "Glass",
       "incorrectAnswers": [
-        "Potassium nitrate",
-        "Solid carbon dioxide",
-        "Calcium carbonate"
+        "Cling Film",
+        "Diamond",
+        "Perspex"
       ],
       "question": {
-        "text": "What chemical has the formula N2O?"
+        "text": "What see-through substance is made by fusing silica at high temperatures?"
       },
       "tags": [
+        "materials",
+        "chemistry",
+        "manufacturing",
         "science"
       ],
       "type": "text_choice",
@@ -86,19 +88,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95025e",
-      "correctAnswer": "Crème Brûlée ",
+      "category": "history",
+      "id": "646339d101d576cfac3aa3ca",
+      "correctAnswer": "A Dingo",
       "incorrectAnswers": [
-        "Tiramisu",
-        "Eton Mess",
-        "Pavlova"
+        "A Kangaroo",
+        "A Koala",
+        "A Tasmanian Devil"
       ],
       "question": {
-        "text": "Which Dessert Has A Custard Base And A Burnt Caramelised Top?"
+        "text": "In a sensational 1980s police case in Australia, which animal did Lindy Chamberlain claim took her baby?"
       },
       "tags": [
-        "food_and_drink"
+        "crime",
+        "australia",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -107,15 +111,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501c3",
-      "correctAnswer": "Harry Potter and the Deathly Hallows",
+      "id": "622a1c3a7cc59eab6f9513aa",
+      "correctAnswer": "Pride and Prejudice",
       "incorrectAnswers": [
-        "The Sea of Monsters",
-        "The Battle of the Labyrinth",
-        "The Mysterious Island"
+        "The Fault in Our Stars",
+        "Ship of Fools",
+        "War and Peace"
       ],
       "question": {
-        "text": "Which piece of written work starts with the line 'The two men appeared out of nowhere, a few yards apart in the narrow, moonlit lane.'?"
+        "text": "In which book does 'Lydia Bennet' appear?"
       },
       "tags": [
         "arts_and_literature"
@@ -126,150 +130,130 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3c7cc59eab6f951a3d",
-      "correctAnswer": "Galileo",
+      "category": "general_knowledge",
+      "id": "6239f83da72e7a347ac879d8",
+      "correctAnswer": "Whiskey",
       "incorrectAnswers": [
-        "Einstein",
-        "Michaelangelo",
-        "Plato"
+        "Wizard",
+        "Warlock",
+        "Womble"
       ],
       "question": {
-        "text": "Who was forced by the inquisition to recant his belief in the Copernican Theory?"
-      },
-      "tags": [
-        "people",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6357fd4f68bd5000211e7192",
-      "correctAnswer": "India",
-      "incorrectAnswers": [
-        "Niger",
-        "Rwanda",
-        "Taiwan"
-      ],
-      "question": {
-        "text": "Gujarati is a language spoken in which of these countries?"
-      },
-      "tags": [
-        "language",
-        "linguistics",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe39",
-      "correctAnswer": "Niagara falls",
-      "incorrectAnswers": [
-        "Lake Huron",
-        "Yosemite",
-        "Appalachian Mountains"
-      ],
-      "question": {
-        "text": "Which site in North America was named after the Mohawk Indian word meaning \"thunder of waters\"?"
+        "text": "What word is used in the NATO Phonetic Alphabet for the letter W?"
       },
       "tags": [
         "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951910",
+      "correctAnswer": "The war of American independence",
+      "incorrectAnswers": [
+        "The Napoleonic wars",
+        "World War 2",
+        "The English Civil War"
+      ],
+      "question": {
+        "text": "What war followed the original 'shot heard round the world'?"
+      },
+      "tags": [
+        "wars",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b25",
+      "correctAnswer": "Blondie",
+      "incorrectAnswers": [
+        "The Pussycat Dolls",
+        "Fleetwood Mac",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which band was fronted by Debbie Harry?"
+      },
+      "tags": [
+        "music",
+        "people",
+        "bands",
+        "women"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b51",
+      "correctAnswer": "The Prodigy",
+      "incorrectAnswers": [
+        "Squeeze",
+        "Gorillaz",
+        "Kaiser Chiefs"
+      ],
+      "question": {
+        "text": "Which English electronic dance music group released the song 'Firestarter'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "647638d1f05ea6d6f587a15b",
+      "correctAnswer": "Iwo Jima",
+      "incorrectAnswers": [
+        "Okinawa",
+        "Guam",
+        "Saipan"
+      ],
+      "question": {
+        "text": "Which island was the scene of the famous flag-raising during World War II and is depicted in the US Marine Corps War Memorial statue?"
+      },
+      "tags": [
+        "military",
+        "world_war_2",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3c7cc59eab6f95181e",
+      "correctAnswer": "James Hoban",
+      "incorrectAnswers": [
+        "Frank Lloyd Wright",
+        "Christopher Wren",
+        "Otto Wagner"
+      ],
+      "question": {
+        "text": "Which architect designed The Whitehouse?"
+      },
+      "tags": [
+        "architecture",
+        "buildings",
         "usa",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502b3",
-      "correctAnswer": "Gazpacho ",
-      "incorrectAnswers": [
-        "Carpaccio",
-        "Alpacho",
-        "Fropaccio"
-      ],
-      "question": {
-        "text": "What is the name of cold Spanish soup made from peppers and tomatoes?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "646140784d46e537ca8cd9c5",
-      "correctAnswer": "Inspector Clouseau",
-      "incorrectAnswers": [
-        "Austin Powers",
-        "Dr. Evil",
-        "Borat"
-      ],
-      "question": {
-        "text": "Which character, played by Peter Sellers, famously mispronounces words like 'room', 'phone', and 'monkey'?"
-      },
-      "tags": [
-        "film",
-        "comedy",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740b99da29df7b05f73f3",
-      "correctAnswer": "Room",
-      "incorrectAnswers": [
-        "L.A. Confidential",
-        "Barry Lyndon",
-        "Beauty and the Beast"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'Held captive for 7 years, a woman and her young son finally gain their freedom.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951031",
-      "correctAnswer": "Hexagon",
-      "incorrectAnswers": [
-        "Pentagon",
-        "Octagon",
-        "Dodecahedron"
-      ],
-      "question": {
-        "text": "What is the mathematical term used to describe the shape of a cell in a honeycomb? "
-      },
-      "tags": [
-        "mathematics",
-        "general_knowledge",
-        "science"
+        "history",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -278,107 +262,15 @@
     },
     {
       "category": "history",
-      "id": "628d54b2a5a57ff6c2ad2bf3",
-      "correctAnswer": "Romanov",
+      "id": "622a1c367cc59eab6f950300",
+      "correctAnswer": "Turkey",
       "incorrectAnswers": [
-        "Nikolevsky",
-        "Napoleon",
-        "Lenin"
+        "Chicken",
+        "Horse",
+        "Pig"
       ],
       "question": {
-        "text": "What was the name of the reigning imperial house of Russia from the 17th century until the 1917 revolution?"
-      },
-      "tags": [
-        "russia",
-        "leaders",
-        "revolutions",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "63adbd6904c68cc1e14b8e32",
-      "correctAnswer": "Oak Tree",
-      "incorrectAnswers": [
-        "Fir Tree",
-        "Maple Tree",
-        "Elm Tree"
-      ],
-      "question": {
-        "text": "What type of tree is known for its large, dark green leaves?"
-      },
-      "tags": [
-        "science",
-        "trees",
-        "plants",
-        "nature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "645cb19b7d263fd5097043eb",
-      "correctAnswer": "Chests",
-      "incorrectAnswers": [
-        "Wardrobes",
-        "Chairs",
-        "Tables"
-      ],
-      "question": {
-        "text": "Used by brides in the past to collect their belongings before marriage, bridal, dower, and hope are all types of what piece of furniture?"
-      },
-      "tags": [
-        "society_and_culture",
-        "furniture",
-        "traditions",
-        "marriage"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f95002a",
-      "correctAnswer": "He bit off an opponent's ear",
-      "incorrectAnswers": [
-        "He was found to be doping",
-        "He had cocaine detected during a drugs test",
-        "Match fixing"
-      ],
-      "question": {
-        "text": "Why was Mike Tyson fined $3 million by the boxing association in 1997?"
-      },
-      "tags": [
-        "sport",
-        "boxing",
-        "events",
-        "1990's"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3d7cc59eab6f951bbc",
-      "correctAnswer": "43",
-      "incorrectAnswers": [
-        "48",
-        "51",
-        "57"
-      ],
-      "question": {
-        "text": "How old was John F. Kennedy when he became president?"
+        "text": "Yorkshireman William Strickland is believed to have brought the first _______ to Britain from North America in 1526?"
       },
       "tags": [
         "history"
@@ -390,20 +282,19 @@
     },
     {
       "category": "geography",
-      "id": "6233846262eaad73716a8c05",
-      "correctAnswer": "Arabic",
+      "id": "6233855562eaad73716a8c64",
+      "correctAnswer": "Tennessee",
       "incorrectAnswers": [
-        "Hebrew",
-        "Egyptian",
-        "Italian"
+        "Georgia",
+        "Maine",
+        "Washington"
       ],
       "question": {
-        "text": "What is the official language of Egypt?"
+        "text": "What US state borders Alabama to the north?"
       },
       "tags": [
-        "africa",
-        "language",
-        "the_middle_east",
+        "usa",
+        "us_states",
         "geography"
       ],
       "type": "text_choice",
@@ -412,20 +303,23 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62602e924b176d54800e3ce5",
-      "correctAnswer": "Sri Lanka",
+      "category": "science",
+      "id": "645c9f8642ea81e2554c5f38",
+      "correctAnswer": "Mons",
       "incorrectAnswers": [
-        "Indonesia",
-        "Vietnam",
-        "Cambodia"
+        "Volcanus",
+        "Patera",
+        "Alpus"
       ],
       "question": {
-        "text": "Colombo is a city in which country?"
+        "text": "What is the Latin word for 'mountain' that follows Olympus and Pavonis in the names of Martian volcanoes?"
       },
       "tags": [
-        "cities",
-        "geography"
+        "latin",
+        "planets",
+        "the_solar_system",
+        "mountains",
+        "astronomy"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -434,18 +328,18 @@
     },
     {
       "category": "food_and_drink",
-      "id": "64cfa1637f0714b9a0ca5e8d",
-      "correctAnswer": "Battered",
+      "id": "64bee2e595a7194220973958",
+      "correctAnswer": "The pith",
       "incorrectAnswers": [
-        "Poached",
-        "Crumbled",
-        "Spatchcock"
+        "The pulp",
+        "The skin",
+        "The zest"
       ],
       "question": {
-        "text": "What word is used when food is coated in a mixture of flour and eggs for frying?"
+        "text": "What is the term that refers to the white substance between the peel and flesh of an orange?"
       },
       "tags": [
-        "cooking",
+        "fruit",
         "food",
         "food_and_drink"
       ],
@@ -455,40 +349,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "62573f529da29df7b05f7395",
-      "correctAnswer": "The Pianist",
-      "incorrectAnswers": [
-        "Unforgiven",
-        "Gandhi",
-        "The Terminator"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A Polish Jew struggles to survive the destruction of the Warsaw ghetto of World War II.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950129",
-      "correctAnswer": "Mecca",
+      "id": "65056f8d7a97013de78b5471",
+      "correctAnswer": "Congress",
       "incorrectAnswers": [
-        "Tehran",
-        "Dubai",
-        "Riyadh"
+        "Supreme Court",
+        "Cabinet",
+        "House of Lords"
       ],
       "question": {
-        "text": "To where do Muslims make pilgrimage?"
+        "text": "What part of the US government makes the laws?"
       },
       "tags": [
-        "society_and_culture"
+        "society_and_culture",
+        "government",
+        "usa"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -496,66 +371,19 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "645cb1257d263fd5097043ad",
-      "correctAnswer": "Cartilage",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502da",
+      "correctAnswer": "Lamb ",
       "incorrectAnswers": [
-        "Tendon",
-        "Ligament",
-        "Muscle"
+        "Beef",
+        "Pork",
+        "Chicken"
       ],
       "question": {
-        "text": "What part of the body, often referred to as 'gristle', is important for the formation of bones?"
+        "text": "Traditionally what type of meat is used to make a mousakka?"
       },
       "tags": [
-        "anatomy",
-        "biology",
-        "science",
-        "medicine"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd3f",
-      "correctAnswer": "Coptic",
-      "incorrectAnswers": [
-        "Pernial",
-        "Maurovingian",
-        "Arabic"
-      ],
-      "question": {
-        "text": "Which of these words relates to a family of dialects descended from the Ancient Egyptian language?"
-      },
-      "tags": [
-        "words",
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6461403b4d46e537ca8cd999",
-      "correctAnswer": "Drag",
-      "incorrectAnswers": [
-        "Thrust",
-        "Gravity",
-        "Lift"
-      ],
-      "question": {
-        "text": "What is the name of the force that resists the forward motion of a moving airplane?"
-      },
-      "tags": [
-        "physics",
-        "aviation",
-        "science"
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -564,15 +392,123 @@
     },
     {
       "category": "geography",
-      "id": "6233865e62eaad73716a8ccc",
-      "correctAnswer": "Mecca",
+      "id": "6233847b62eaad73716a8c0f",
+      "correctAnswer": "The Dead Sea",
       "incorrectAnswers": [
-        "Jerusalem",
-        "Rome",
-        "Lhaasa"
+        "The Mediterranean Sea",
+        "The Philippine Sea",
+        "The South China Sea"
       ],
       "question": {
-        "text": "Where is the Holy Kaaba?"
+        "text": "What is the saltiest sea in the world?"
+      },
+      "tags": [
+        "bodies_of_water",
+        "records",
+        "oceans",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "64f3a941601ffca0b7615dd7",
+      "correctAnswer": "A beanball",
+      "incorrectAnswers": [
+        "A curveball",
+        "A fastball",
+        "A slider"
+      ],
+      "question": {
+        "text": "What is the baseball term for when a pitcher intentionally hits a batter with the pitch?"
+      },
+      "tags": [
+        "baseball",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "645cb162602ff42ca52fb438",
+      "correctAnswer": "Juneau",
+      "incorrectAnswers": [
+        "Anchorage",
+        "Fairbanks",
+        "Ketchikan"
+      ],
+      "question": {
+        "text": "What is the capital city of Alaska?"
+      },
+      "tags": [
+        "cities",
+        "us_states",
+        "usa",
+        "alaska"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3d7cc59eab6f951ca7",
+      "correctAnswer": "4 Calling Birds",
+      "incorrectAnswers": [
+        "4 Turtle Doves",
+        "4 French Hens",
+        "4 Drummers Drumming"
+      ],
+      "question": {
+        "text": "What did 'my true love give to me' on the fourth day of Christmas?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "645c9fc842ea81e2554c5f8d",
+      "correctAnswer": "St. Ignatius Loyola",
+      "incorrectAnswers": [
+        "Pope Francis",
+        "St. Peter",
+        "St. Paul"
+      ],
+      "question": {
+        "text": "Which founder of the Jesuits was imprisoned on two occasions during the Spanish Inquisition?"
+      },
+      "tags": [
+        "religion",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623387970161109f922aac33",
+      "correctAnswer": "Tibet",
+      "incorrectAnswers": [
+        "Peru",
+        "Switzerland",
+        "Iceland"
+      ],
+      "question": {
+        "text": "Which country is known as the roof of the world?"
       },
       "tags": [
         "geography"
@@ -583,44 +519,18 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510e7",
-      "correctAnswer": "Elephants",
-      "incorrectAnswers": [
-        "Bald Eagles",
-        "Chimpanzees",
-        "Earthworms"
-      ],
-      "question": {
-        "text": "Which animal communicates in sound waves below the frequency that humans can hear?"
-      },
-      "tags": [
-        "science",
-        "animals",
-        "sounds",
-        "biology",
-        "nature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "6262afa1014f58b5fc1a3fd8",
-      "correctAnswer": "On My Way",
+      "id": "622a1c367cc59eab6f9500f7",
+      "correctAnswer": "Linus Torvalds",
       "incorrectAnswers": [
-        "Oh My Word",
-        "Old Man Ways",
-        "Oh Man, Why"
+        "Lin Wux",
+        "Lionel Uxworth",
+        "Linda Uxbridge"
       ],
       "question": {
-        "text": "If someone typed the letters 'OMW' in a message, what would they mean?"
+        "text": "Who is the Linux operating system named after?"
       },
       "tags": [
-        "the_internet",
-        "initials",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -629,22 +539,109 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc29",
-      "correctAnswer": "\"I'll be back.\"",
+      "category": "geography",
+      "id": "625e9ed0796f721e95543f6e",
+      "correctAnswer": "Red",
       "incorrectAnswers": [
-        "\"You had me at hello.\"",
-        "\"You motorboatin’ son of a b****!\"",
-        "\"You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?\""
+        "Orange",
+        "Black",
+        "Maroon"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'The Terminator'?"
+        "text": "Which of these colors would you find on the flag of Iran?"
       },
       "tags": [
-        "film",
-        "quotes",
-        "general_knowledge",
-        "film_and_tv"
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f95189b",
+      "correctAnswer": "Italian",
+      "incorrectAnswers": [
+        "Spanish",
+        "French",
+        "English"
+      ],
+      "question": {
+        "text": "What was the nationality of Marco Polo?"
+      },
+      "tags": [
+        "exploration",
+        "people",
+        "middle_ages",
+        "medieval",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6463398b01d576cfac3aa37d",
+      "correctAnswer": "Tricolor",
+      "incorrectAnswers": [
+        "Red, White, and Blue",
+        "The Golden Fleece",
+        "The Union Jack"
+      ],
+      "question": {
+        "text": "What is the name of the French flag?"
+      },
+      "tags": [
+        "flags",
+        "france",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237402ecb85f7ce9e949ce4",
+      "correctAnswer": "Prague",
+      "incorrectAnswers": [
+        "Manama",
+        "Berlin",
+        "Valletta"
+      ],
+      "question": {
+        "text": "What is the capital city of Czechia?"
+      },
+      "tags": [
+        "capital_cities",
+        "europe",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95027d",
+      "correctAnswer": "Mexico ",
+      "incorrectAnswers": [
+        "France",
+        "China",
+        "India"
+      ],
+      "question": {
+        "text": "Which country is the ancient home of chocolate?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",

@@ -1,21 +1,23 @@
 {
-  "gameDate": "2026-06-23",
+  "gameDate": "2026-06-24",
   "difficulty": "random",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501de",
-      "correctAnswer": "Luc Besson",
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcf6",
+      "correctAnswer": "Jean-Paul Sartre",
       "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
+        "Baruch Spinoza",
+        "Socrates",
+        "Epicurus"
       ],
       "question": {
-        "text": "Which director directed Lucy?"
+        "text": "Which philosopher famously said 'Everything that exists is born for no reason, carries on living through weakness, and dies by accident'?"
       },
       "tags": [
-        "film_and_tv"
+        "philosophy",
+        "quotes",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -23,431 +25,63 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8ad",
-      "correctAnswer": "Football",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950ff1",
+      "correctAnswer": "The Nose",
       "incorrectAnswers": [
-        "Track and field",
-        "Badminton",
-        "Boxing"
+        "The Kidneys",
+        "The Skin",
+        "The Brain"
       ],
       "question": {
-        "text": "With which sport is Lionel Messi associated?"
+        "text": "Which Part Of The Body Is Affected By Rhinitis?"
       },
       "tags": [
-        "people",
-        "general_knowledge",
-        "sport"
+        "science"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "society_and_culture",
-      "id": "646262c1ab138b829b81ea67",
-      "correctAnswer": "The Irish",
+      "id": "647207673bbb58c31f411c43",
+      "correctAnswer": "Procter & Gamble",
       "incorrectAnswers": [
-        "The Scots",
-        "The Welsh",
-        "The English"
+        "Ben & Jerry's",
+        "Marks & Spencer",
+        "Coca-Cola"
       ],
       "question": {
-        "text": "Which cultural group has the stereotype of being lucky?"
+        "text": "Which company, named after its two founders,  sells everything from Charmin to Duracell?"
       },
       "tags": [
+        "brands",
+        "consumer_products",
+        "business",
         "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740649da29df7b05f73da",
-      "correctAnswer": "The Thing",
-      "incorrectAnswers": [
-        "Jurassic Park",
-        "V for Vendetta",
-        "Monsters, Inc."
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A research team in Antarctica is hunted by a shape-shifting alien.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6239f8099129041bf3925cc0",
-      "correctAnswer": "Delta",
-      "incorrectAnswers": [
-        "Dog",
-        "Danube",
-        "Dig"
-      ],
-      "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter D?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6250069b0d86c8f685d80eef",
-      "correctAnswer": "Farfalle",
-      "incorrectAnswers": [
-        "Strozzapreti",
-        "Fusilli",
-        "Orzo"
-      ],
-      "question": {
-        "text": "Which pasta's name means 'Butterflies'?"
-      },
-      "tags": [
-        "food",
-        "words",
-        "language",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950ca3",
-      "correctAnswer": "Pink Floyd",
-      "incorrectAnswers": [
-        "Wings",
-        "Rudimental",
-        "The Alan Parsons Project"
-      ],
-      "question": {
-        "text": "Which English rock band released the song 'Have a Cigar'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6266e5b5ff2394bd44dee013",
-      "correctAnswer": "Jaune",
-      "incorrectAnswers": [
-        "Giallo",
-        "Amarelo",
-        "Six"
-      ],
-      "question": {
-        "text": "What is the French word for 'yellow'?"
-      },
-      "tags": [
-        "language",
-        "translations",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95013e",
-      "correctAnswer": "Owl",
-      "incorrectAnswers": [
-        "Squirrel",
-        "Frog",
-        "Horse"
-      ],
-      "question": {
-        "text": "In Greek mythology, what animal is associated with Athena?"
-      },
-      "tags": [
-        "mythology",
-        "symbols",
-        "ancient_greece",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa01",
-      "correctAnswer": "Sandro Botticelli",
-      "incorrectAnswers": [
-        "Michelangelo",
-        "Pablo Picasso",
-        "René Magritte"
-      ],
-      "question": {
-        "text": "Which artist painted \"Primavera\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f9503c7",
-      "correctAnswer": "Challenger",
-      "incorrectAnswers": [
-        "Champion",
-        "Titan",
-        "Apollo"
-      ],
-      "question": {
-        "text": "What was the name of the space shuttle that exploded?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6257403f9da29df7b05f73cf",
-      "correctAnswer": "A withdrawn boy who communicates with spirits seeks the help of a child psychologist.",
-      "incorrectAnswers": [
-        "A secretly ruthless woman insinuates herself into the lives of an aging actor and her circle of theater friends.",
-        "A stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.",
-        "A former Roman General seeks revenge against the emperor who murdered his family."
-      ],
-      "question": {
-        "text": "What is the plot of the movie The Sixth Sense?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950647",
-      "correctAnswer": "Kevin Bacon",
-      "incorrectAnswers": [
-        "Richard Harris",
-        "Anthony Quinn",
-        "Hugo Weaving"
-      ],
-      "question": {
-        "text": "Which actor has starred in both Apollo 13 and X-Men: First Class?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "645c9f8742ea81e2554c5f42",
-      "correctAnswer": "Eel",
-      "incorrectAnswers": [
-        "Salmon",
-        "Tuna",
-        "Octopus"
-      ],
-      "question": {
-        "text": "What is the name of a snake-like fish that is often used in sushi?"
-      },
-      "tags": [
-        "sushi",
-        "seafood",
-        "food",
-        "food_and_drink",
-        "japan"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611fa84b176d54800e3d68",
-      "correctAnswer": "1983",
-      "incorrectAnswers": [
-        "1974",
-        "1993",
-        "2001"
-      ],
-      "question": {
-        "text": "When was laser eye surgery first used for vision correction?"
-      },
-      "tags": [
-        "events",
-        "firsts",
-        "medicine",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd8e",
-      "correctAnswer": "REM",
-      "incorrectAnswers": [
-        "Green Day",
-        "U2",
-        "Radiohead"
-      ],
-      "question": {
-        "text": "Who Had Hits With \"It's The End Of The World As We Know It\" & \"Orange Crush\"?"
-      },
-      "tags": [
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506e6",
-      "correctAnswer": "Penélope Cruz",
-      "incorrectAnswers": [
-        "Amy Adams",
-        "Uma Thurman",
-        "Cameron Diaz"
-      ],
-      "question": {
-        "text": "Which actress has featured in films including Volver and All About My Mother?"
-      },
-      "tags": [
-        "film_and_tv",
-        "film",
-        "acting"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "645fcc1f541c4d4fc8cf3002",
-      "correctAnswer": "Ernst Stavro Blofeld",
-      "incorrectAnswers": [
-        "Auric Goldfinger",
-        "Francisco Scaramanga",
-        "Max Zorin"
-      ],
-      "question": {
-        "text": "Which diabolical James Bond nemesis has been portrayed by both Donald Pleasance and Charles Gray?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv",
-        "acting",
-        "james_bond"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262af644b176d54800e3dc3",
-      "correctAnswer": "I Am Not A Lawyer",
-      "incorrectAnswers": [
-        "I'm Anal",
-        "I Also Now Am Lonely",
-        "I'm Attractive, Not A Loser"
-      ],
-      "question": {
-        "text": "On internet chats, what do the letters 'IANAL' mean?"
-      },
-      "tags": [
-        "the_internet",
-        "initials",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6463398e01d576cfac3aa392",
-      "correctAnswer": "16",
-      "incorrectAnswers": [
-        "18",
-        "21",
-        "25"
-      ],
-      "question": {
-        "text": "What is the legal drinking age in Belgium?"
-      },
-      "tags": [
-        "drinking",
-        "belgium",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "geography",
-      "id": "623b581dfd6c701a9211839b",
-      "correctAnswer": "Italy",
+      "id": "622a1c357cc59eab6f950009",
+      "correctAnswer": "Canada",
       "incorrectAnswers": [
-        "Iraq",
-        "Germany",
-        "Russia"
+        "United States of America",
+        "Cuba",
+        "Ireland"
       ],
       "question": {
-        "text": "In which country would you find Mount Etna?"
+        "text": "In what country is Thunder Bay?"
       },
       "tags": [
-        "mountains",
+        "places",
+        "bodies_of_water",
         "geography"
       ],
       "type": "text_choice",
@@ -456,43 +90,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c357cc59eab6f94fde3",
-      "correctAnswer": "Spain ",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c20",
+      "correctAnswer": "Red Hot Chili Peppers",
       "incorrectAnswers": [
-        "Italy",
-        "England",
-        "France"
+        "The Monkees",
+        "Black Flag",
+        "Journey"
       ],
       "question": {
-        "text": "Which Country's Royalty Paid For Christopher Columbus 's First Voyage Across The Atlantic?"
+        "text": "Which American rock band released the studio album 'Stadium Arcadium'?"
       },
       "tags": [
-        "exploration",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6371625e1bf863c45ca6c370",
-      "correctAnswer": "Ordo ab chao",
-      "incorrectAnswers": [
-        "Qui totum vult orduris perdit",
-        "Melita, domi adsum",
-        "Nil volentibus arduum"
-      ],
-      "question": {
-        "text": "Which of these Latin phrases means 'Out of chaos, comes order'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -500,110 +110,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95040c",
-      "correctAnswer": "Tracy Ullman",
-      "incorrectAnswers": [
-        "Vanessa Phillips",
-        "Paula Skeeberg",
-        "Mary Myers"
-      ],
-      "question": {
-        "text": "Name the female comedy star who once had a show on Fox, that had a pop hit in the early eighties"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c605150d1a5e051325a52",
-      "correctAnswer": "Australia",
-      "incorrectAnswers": [
-        "Singapore",
-        "Uzbekistan",
-        "Russia"
-      ],
-      "question": {
-        "text": "Meat Pie is a dish that is most associated with which part of the world?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f9518f9",
-      "correctAnswer": "Igraine",
+      "id": "622a1c367cc59eab6f950120",
+      "correctAnswer": "Allah",
       "incorrectAnswers": [
-        "Gwendolyn",
-        "Uther",
-        "Morgase"
+        "Mohammed",
+        "Yaweh",
+        "Jehovah"
       ],
       "question": {
-        "text": "What was King Arthur's mother's name?"
+        "text": "What is God called in the Muslim faith?"
       },
       "tags": [
-        "mythology",
-        "uk",
+        "religion",
+        "islam",
         "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951998",
-      "correctAnswer": "Cambria",
-      "incorrectAnswers": [
-        "Dunedin",
-        "Gaull",
-        "Merovingia"
-      ],
-      "question": {
-        "text": "What did the Romans call Wales?"
-      },
-      "tags": [
-        "classics",
-        "romans",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64626250ab138b829b81e9fa",
-      "correctAnswer": "New Year's Eve",
-      "incorrectAnswers": [
-        "Christmas Day",
-        "Thanksgiving Day",
-        "Independence Day"
-      ],
-      "question": {
-        "text": "On what annual holiday do an estimated 1 million people gather in New York's Times Square?"
-      },
-      "tags": [
-        "holidays",
-        "traditions",
-        "places",
-        "new_york_city",
-        "new_york",
-        "society_and_culture",
-        "celebrations"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -612,18 +133,411 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625740039da29df7b05f73bd",
-      "correctAnswer": "North by Northwest",
+      "id": "64824ee77778562fd76a96ba",
+      "correctAnswer": "The Incredibles",
       "incorrectAnswers": [
-        "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-        "Beauty and the Beast",
-        "Three Billboards Outside Ebbing, Missouri"
+        "Toy Story",
+        "Finding Nemo",
+        "Cars"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'An executive goes on the run after being mistaken for a government agent.'"
+        "text": "Which animated movie gave us the quote \"Dynaguy, snagged on takeoff! Splashdown, sucked into a vortex... no capes!\"?"
       },
       "tags": [
         "film",
+        "film_and_tv",
+        "film_quotes",
+        "disney"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b23",
+      "correctAnswer": "Blondie",
+      "incorrectAnswers": [
+        "The Pussycat Dolls",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which American rock band released the song 'Call Me'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fb9d",
+      "correctAnswer": "SpongeBob SquarePants",
+      "incorrectAnswers": [
+        "Pokémon",
+        "The Simpsons",
+        "Rugrats"
+      ],
+      "question": {
+        "text": "Which cartoon theme song begins with the lyrics: \"ARE YE READY, KIDS?\"?"
+      },
+      "tags": [
+        "songs",
+        "lyrics",
+        "cartoons"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c357cc59eab6f94fd43",
+      "correctAnswer": "Wessex",
+      "incorrectAnswers": [
+        "Cumbria",
+        "Yorkshire",
+        "Hertford"
+      ],
+      "question": {
+        "text": "Which of these was a kingdom in Anglo-Saxon England?"
+      },
+      "tags": [
+        "uk",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd23",
+      "correctAnswer": "Thomas Hobbes",
+      "incorrectAnswers": [
+        "Epictetus",
+        "Albert Camus",
+        "Democritus"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'Leisure is the mother of philosophy'?"
+      },
+      "tags": [
+        "quotes",
+        "philosophy",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fb84",
+      "correctAnswer": "\"Work It\" by Missy Elliott",
+      "incorrectAnswers": [
+        "\"Let's Go Crazy\" by Prince and The Revolution",
+        "\"Welcome to the Black Parade\" by My Chemical Romance",
+        "\"A Thousand Miles\" by Vanessa Carlton"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"DJ please, pick up your phone I'm on the request line!\"?"
+      },
+      "tags": [
+        "lyrics",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ff92",
+      "correctAnswer": "Nashville",
+      "incorrectAnswers": [
+        "Memphis",
+        "Knoxville",
+        "Jackson"
+      ],
+      "question": {
+        "text": "What is the capital of Tennessee?"
+      },
+      "tags": [
+        "us_states",
+        "usa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c3d7cc59eab6f951c96",
+      "correctAnswer": "Michael Caine",
+      "incorrectAnswers": [
+        "Patrick Stewart",
+        "Christopher Lee",
+        "Daniel Day Lewis"
+      ],
+      "question": {
+        "text": "Which Oscar Winning Actor Played Scrooge In \"The Muppet Christmas Carol\"?"
+      },
+      "tags": [
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63adbd6004c68cc1e14b8e22",
+      "correctAnswer": "Coast Redwood",
+      "incorrectAnswers": [
+        "Mountain Ash",
+        "Oak Tree",
+        "Douglas Fir"
+      ],
+      "question": {
+        "text": "What is the tallest tree species in the world?"
+      },
+      "tags": [
+        "science",
+        "trees",
+        "plants",
+        "nature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6505703c7a97013de78b5562",
+      "correctAnswer": "Lungfish",
+      "incorrectAnswers": [
+        "Shark",
+        "Airfish",
+        "Bubblefish"
+      ],
+      "question": {
+        "text": "Which fish is able to breathe air?"
+      },
+      "tags": [
+        "science",
+        "fish",
+        "animals",
+        "biology"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64720cd93bbb58c31f411ccf",
+      "correctAnswer": "Aretha Franklin",
+      "incorrectAnswers": [
+        "Gladys Knight",
+        "Diana Ross",
+        "Patti LaBelle"
+      ],
+      "question": {
+        "text": "Which singer had a 1967 hit with \"You Make Me Feel Like A Natural Woman\"?"
+      },
+      "tags": [
+        "songs",
+        "soul_music",
+        "music",
+        "1960's"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f95009c",
+      "correctAnswer": "3,000 Metres",
+      "incorrectAnswers": [
+        "10,000 Metres",
+        "5,000 Metres",
+        "8,000 Metres"
+      ],
+      "question": {
+        "text": "Over What Distance Is A Steeple Chase Run?"
+      },
+      "tags": [
+        "olympics",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "69a561af2858226c00dd2f80",
+      "correctAnswer": "A wolf's breath",
+      "incorrectAnswers": [
+        "A dragon's fire",
+        "An earthquake",
+        "A flood"
+      ],
+      "question": {
+        "text": "In 'The Three Little Pigs', what did the straw house fail to withstand?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f951649",
+      "correctAnswer": "Orchid",
+      "incorrectAnswers": [
+        "Lily",
+        "Cactus",
+        "Nightshade"
+      ],
+      "question": {
+        "text": "Which type of plant does vanilla come from? "
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fa88",
+      "correctAnswer": "Robert De Niro",
+      "incorrectAnswers": [
+        "Fred Astaire",
+        "Jeff Bridges",
+        "Michael V. Gazzo"
+      ],
+      "question": {
+        "text": "Who won the 1974 Academy Award for Best Supporting Actor for playing the role of Vito Corleone in The Godfather Part II?"
+      },
+      "tags": [
+        "academy_awards",
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b57fcfd6c701a9211838f",
+      "correctAnswer": "China",
+      "incorrectAnswers": [
+        "Cambodia",
+        "Italy",
+        "Peru"
+      ],
+      "question": {
+        "text": "In which country would you find the UNESCO World Heritage site of Wulingyuan?"
+      },
+      "tags": [
+        "tourist_attractions",
+        "places",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645f9565541c4d4fc8cf2ed7",
+      "correctAnswer": "Shamrock",
+      "incorrectAnswers": [
+        "Leprechaun",
+        "Pot of gold",
+        "Rainbow"
+      ],
+      "question": {
+        "text": "According to legend, which symbol of St. Patrick's Day did St. Patrick use to illustrate the concept of the Holy Trinity?"
+      },
+      "tags": [
+        "ireland",
+        "christianity",
+        "religion",
+        "symbols"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6256991c9da29df7b05f72b2",
+      "correctAnswer": "Karl Mordo",
+      "incorrectAnswers": [
+        "Odin",
+        "Tony Stark",
+        "Thor"
+      ],
+      "question": {
+        "text": "Chiwetel Ejiofor plays the role of which character in the Marvel Cinematic Universe?"
+      },
+      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f92f",
+      "correctAnswer": "Blue Velvet",
+      "incorrectAnswers": [
+        "Network",
+        "Alien",
+        "Apocalypse Now"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Frank Booth'?"
+      },
+      "tags": [
+        "film",
+        "fictitious_characters",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -633,24 +547,109 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6262887f4b176d54800e3da1",
-      "correctAnswer": "Samsung",
+      "id": "62c2fa0cb3eadb0437fda6be",
+      "correctAnswer": "Lion",
       "incorrectAnswers": [
-        "Vodafone",
-        "PlayStation",
-        "Google"
+        "Bat",
+        "Owl",
+        "Bull"
       ],
       "question": {
-        "text": "'Everyone's invited' is a slogan associated with which technology brand?"
+        "text": "Which animal would you associate with the ING Group logo?"
       },
       "tags": [
+        "society_and_culture",
         "business",
         "marketing",
-        "technology",
-        "society_and_culture"
+        "animals",
+        "logos",
+        "symbols"
       ],
       "type": "text_choice",
       "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233863062eaad73716a8cbb",
+      "correctAnswer": "Venezuela",
+      "incorrectAnswers": [
+        "Nigeria",
+        "Mexico",
+        "Indonesia"
+      ],
+      "question": {
+        "text": "Where is Lake Maracaibo?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950dfd",
+      "correctAnswer": "Michael Ende",
+      "incorrectAnswers": [
+        "Friedrich Engels",
+        "Erich Maria Remarque",
+        "Karl May"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Neverending Story'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "648ef5e14fe93387161138ba",
+      "correctAnswer": "A quatrain",
+      "incorrectAnswers": [
+        "A sonnet",
+        "A haiku",
+        "A couplet"
+      ],
+      "question": {
+        "text": "In poetry, what is the name for a 4-line stanza?"
+      },
+      "tags": [
+        "poetry",
+        "language",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6357fd2b68bd5000211e7184",
+      "correctAnswer": "Democratic Republic of the Congo",
+      "incorrectAnswers": [
+        "Angola",
+        "Pakistan",
+        "Sri Lanka"
+      ],
+      "question": {
+        "text": "Swahili is a language spoken in which of these countries?"
+      },
+      "tags": [
+        "language",
+        "linguistics",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     }
