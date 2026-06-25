@@ -1,43 +1,23 @@
 {
-  "gameDate": "2026-06-24",
+  "gameDate": "2026-06-25",
   "difficulty": "medium",
   "results": [
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ec4",
-      "correctAnswer": "James Joyce",
-      "incorrectAnswers": [
-        "Samuel Beckett",
-        "Oscar Wilde",
-        "Jonathan Swift"
-      ],
-      "question": {
-        "text": "Which author wrote 'Finnegans Wake'?"
-      },
-      "tags": [
-        "literature",
-        "classic_novels",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c397cc59eab6f950d09",
-      "correctAnswer": "The Beatles",
+      "id": "622a1c387cc59eab6f950b19",
+      "correctAnswer": "Spice Girls",
       "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Uriah Heep"
+        "Pussycat Dolls",
+        "Girls Aloud",
+        "ABBA"
       ],
       "question": {
-        "text": "Which English rock band released the song 'Get Back'?"
+        "text": "Which band was Emma Bunton a member of?"
       },
       "tags": [
-        "music"
+        "people",
+        "music",
+        "bands"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -46,15 +26,15 @@
     },
     {
       "category": "history",
-      "id": "622a1c367cc59eab6f9503c3",
-      "correctAnswer": "Raoul",
+      "id": "622a1c367cc59eab6f9503ce",
+      "correctAnswer": "Falkland Islands",
       "incorrectAnswers": [
-        "Pedro",
-        "Mikel",
-        "Sergio"
+        "Gold",
+        "Nuclear Weapons",
+        "Industrial Sabotage"
       ],
       "question": {
-        "text": "What's fidel castro's brother's name? "
+        "text": "What was the war between Argentina and Great Britan over?"
       },
       "tags": [
         "history"
@@ -65,21 +45,44 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6470d79b423445f16131b4d1",
-      "correctAnswer": "Glass",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fa71",
+      "correctAnswer": "Robin Williams",
       "incorrectAnswers": [
-        "Cling Film",
-        "Diamond",
-        "Perspex"
+        "Robert Forster",
+        "Anthony Hopkins",
+        "Greg Kinnear"
       ],
       "question": {
-        "text": "What see-through substance is made by fusing silica at high temperatures?"
+        "text": "Who won the 1997 Academy Award for Best Supporting Actor for playing the role of Sean McGuire in Good Will Hunting?"
       },
       "tags": [
-        "materials",
-        "chemistry",
-        "manufacturing",
+        "acting",
+        "film",
+        "academy_awards",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f9522a4",
+      "correctAnswer": "54",
+      "incorrectAnswers": [
+        "64",
+        "9",
+        "16"
+      ],
+      "question": {
+        "text": "How many colored squares does a Rubiks Cube have?"
+      },
+      "tags": [
+        "toys",
+        "mathematics",
+        "numbers",
         "science"
       ],
       "type": "text_choice",
@@ -88,213 +91,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "646339d101d576cfac3aa3ca",
-      "correctAnswer": "A Dingo",
-      "incorrectAnswers": [
-        "A Kangaroo",
-        "A Koala",
-        "A Tasmanian Devil"
-      ],
-      "question": {
-        "text": "In a sensational 1980s police case in Australia, which animal did Lindy Chamberlain claim took her baby?"
-      },
-      "tags": [
-        "crime",
-        "australia",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f9513aa",
-      "correctAnswer": "Pride and Prejudice",
-      "incorrectAnswers": [
-        "The Fault in Our Stars",
-        "Ship of Fools",
-        "War and Peace"
-      ],
-      "question": {
-        "text": "In which book does 'Lydia Bennet' appear?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6239f83da72e7a347ac879d8",
-      "correctAnswer": "Whiskey",
-      "incorrectAnswers": [
-        "Wizard",
-        "Warlock",
-        "Womble"
-      ],
-      "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter W?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951910",
-      "correctAnswer": "The war of American independence",
-      "incorrectAnswers": [
-        "The Napoleonic wars",
-        "World War 2",
-        "The English Civil War"
-      ],
-      "question": {
-        "text": "What war followed the original 'shot heard round the world'?"
-      },
-      "tags": [
-        "wars",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b25",
-      "correctAnswer": "Blondie",
-      "incorrectAnswers": [
-        "The Pussycat Dolls",
-        "Fleetwood Mac",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which band was fronted by Debbie Harry?"
-      },
-      "tags": [
-        "music",
-        "people",
-        "bands",
-        "women"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b51",
-      "correctAnswer": "The Prodigy",
-      "incorrectAnswers": [
-        "Squeeze",
-        "Gorillaz",
-        "Kaiser Chiefs"
-      ],
-      "question": {
-        "text": "Which English electronic dance music group released the song 'Firestarter'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "647638d1f05ea6d6f587a15b",
-      "correctAnswer": "Iwo Jima",
-      "incorrectAnswers": [
-        "Okinawa",
-        "Guam",
-        "Saipan"
-      ],
-      "question": {
-        "text": "Which island was the scene of the famous flag-raising during World War II and is depicted in the US Marine Corps War Memorial statue?"
-      },
-      "tags": [
-        "military",
-        "world_war_2",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3c7cc59eab6f95181e",
-      "correctAnswer": "James Hoban",
-      "incorrectAnswers": [
-        "Frank Lloyd Wright",
-        "Christopher Wren",
-        "Otto Wagner"
-      ],
-      "question": {
-        "text": "Which architect designed The Whitehouse?"
-      },
-      "tags": [
-        "architecture",
-        "buildings",
-        "usa",
-        "history",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950300",
-      "correctAnswer": "Turkey",
-      "incorrectAnswers": [
-        "Chicken",
-        "Horse",
-        "Pig"
-      ],
-      "question": {
-        "text": "Yorkshireman William Strickland is believed to have brought the first _______ to Britain from North America in 1526?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "6233855562eaad73716a8c64",
-      "correctAnswer": "Tennessee",
+      "id": "6233860a62eaad73716a8cac",
+      "correctAnswer": "Gibraltar ",
       "incorrectAnswers": [
-        "Georgia",
-        "Maine",
-        "Washington"
+        "Jamaica",
+        "New Zealand",
+        "Scotland"
       ],
       "question": {
-        "text": "What US state borders Alabama to the north?"
+        "text": "Where in the world is 'Rock English' spoken?"
       },
       "tags": [
-        "usa",
-        "us_states",
+        "language",
         "geography"
       ],
       "type": "text_choice",
@@ -303,23 +112,21 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "645c9f8642ea81e2554c5f38",
-      "correctAnswer": "Mons",
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9506e8",
+      "correctAnswer": "Cameron Diaz",
       "incorrectAnswers": [
-        "Volcanus",
-        "Patera",
-        "Alpus"
+        "Penélope Cruz",
+        "Kristin Scott Thomas",
+        "Kirsten Dunst"
       ],
       "question": {
-        "text": "What is the Latin word for 'mountain' that follows Olympus and Pavonis in the names of Martian volcanoes?"
+        "text": "Which actress has played major roles in films including Gangs of New York and The Mask?"
       },
       "tags": [
-        "latin",
-        "planets",
-        "the_solar_system",
-        "mountains",
-        "astronomy"
+        "acting",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -327,63 +134,23 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "64bee2e595a7194220973958",
-      "correctAnswer": "The pith",
+      "category": "history",
+      "id": "645c9fc342ea81e2554c5f75",
+      "correctAnswer": "1964",
       "incorrectAnswers": [
-        "The pulp",
-        "The skin",
-        "The zest"
+        "1944",
+        "1980",
+        "1992"
       ],
       "question": {
-        "text": "What is the term that refers to the white substance between the peel and flesh of an orange?"
+        "text": "In which US election year were the supporters of the Democratic candidate paraphrasing the popular song \"Hello Dolly\" to \"Hello Lyndon\"?"
       },
       "tags": [
-        "fruit",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "65056f8d7a97013de78b5471",
-      "correctAnswer": "Congress",
-      "incorrectAnswers": [
-        "Supreme Court",
-        "Cabinet",
-        "House of Lords"
-      ],
-      "question": {
-        "text": "What part of the US government makes the laws?"
-      },
-      "tags": [
-        "society_and_culture",
-        "government",
-        "usa"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502da",
-      "correctAnswer": "Lamb ",
-      "incorrectAnswers": [
-        "Beef",
-        "Pork",
-        "Chicken"
-      ],
-      "question": {
-        "text": "Traditionally what type of meat is used to make a mousakka?"
-      },
-      "tags": [
-        "food_and_drink"
+        "elections",
+        "politics",
+        "presidents",
+        "usa",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -392,20 +159,273 @@
     },
     {
       "category": "geography",
-      "id": "6233847b62eaad73716a8c0f",
-      "correctAnswer": "The Dead Sea",
+      "id": "622a1c377cc59eab6f9507ea",
+      "correctAnswer": "Oceania",
       "incorrectAnswers": [
-        "The Mediterranean Sea",
-        "The Philippine Sea",
-        "The South China Sea"
+        "South America",
+        "Europe",
+        "Asia"
       ],
       "question": {
-        "text": "What is the saltiest sea in the world?"
+        "text": "The country of Tuvalu is on which continent?"
       },
       "tags": [
-        "bodies_of_water",
-        "records",
-        "oceans",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f950158",
+      "correctAnswer": "Terry Pratchett",
+      "incorrectAnswers": [
+        "George R R Martin",
+        "Ursula Le Guin",
+        "Stephen King"
+      ],
+      "question": {
+        "text": "Who wrote the \"Discworld\" series?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fb87",
+      "correctAnswer": "\"Man! I Feel Like a Woman!\" by Shania Twain",
+      "incorrectAnswers": [
+        "\"Immigrant Song\" by Led Zeppelin",
+        "\"Fergalicious\" by Fergie and will.i.am.",
+        "\"Gangsta's Paradise\" by Coolio feat. L.V."
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"Let's go girls!\"?"
+      },
+      "tags": [
+        "songs",
+        "lyrics",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "64adcb300d501be39aa6c78c",
+      "correctAnswer": "Thailand",
+      "incorrectAnswers": [
+        "Vietnam",
+        "Laos",
+        "Cambodia"
+      ],
+      "question": {
+        "text": "Which Southeast Asian monarchy was never colonized by Europeans?"
+      },
+      "tags": [
+        "countries",
+        "geography",
+        "southeast_asia",
+        "colonialism"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950093",
+      "correctAnswer": "Baseball",
+      "incorrectAnswers": [
+        "Football",
+        "Basketball",
+        "Ice Hockey"
+      ],
+      "question": {
+        "text": "This sport is called the \"American pastime\"?"
+      },
+      "tags": [
+        "usa",
+        "general_knowledge",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740ca9da29df7b05f73f8",
+      "correctAnswer": "A free black man from upstate New York is abducted and sold.",
+      "incorrectAnswers": [
+        "The son of a city's mastermind falls in love with a working-class prophet.",
+        "A young F.B.I. cadet must receive the help of a cannibal to help catch another serial killer.",
+        "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp."
+      ],
+      "question": {
+        "text": "What is the plot of the movie 12 Years a Slave?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f95010a",
+      "correctAnswer": "Oxford University",
+      "incorrectAnswers": [
+        "Jerusalem",
+        "Cape Town",
+        "Bethlehem"
+      ],
+      "question": {
+        "text": "Where was Methodism founded?"
+      },
+      "tags": [
+        "religion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950530",
+      "correctAnswer": "gemstones and ornamental materials",
+      "incorrectAnswers": [
+        "wood",
+        "one of two main branches of soil science",
+        "the nose and its diseases"
+      ],
+      "question": {
+        "text": "What is Gemmology or Gemology the study of?"
+      },
+      "tags": [
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950dfb",
+      "correctAnswer": "Ayn Rand",
+      "incorrectAnswers": [
+        "Vladimir Nabokov",
+        "Mikhail Bulgakov",
+        "Henryk Sienkiewicz"
+      ],
+      "question": {
+        "text": "Which author wrote 'Atlas Shrugged'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c347cc59eab6f94f99c",
+      "correctAnswer": "Victoria",
+      "incorrectAnswers": [
+        "Mary II",
+        "Richard I",
+        "William IV"
+      ],
+      "question": {
+        "text": "Who was the monarch of The United Kingdom during the time period 1837-1901?"
+      },
+      "tags": [
+        "leaders",
+        "uk",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f1f9da29df7b05f7389",
+      "correctAnswer": "Explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "incorrectAnswers": [
+        "An insurance representative lets a housewife seduce him into a scheme of insurance fraud and murder.",
+        "An insane American general orders a bombing attack on the Soviet Union.",
+        "An agent of the secret police, spying on a writer and his lover, finds himself becoming absorbed by their lives."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Interstellar?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624334f6cfaae40c12961478",
+      "correctAnswer": "A Sow",
+      "incorrectAnswers": [
+        "A Gander",
+        "A Jenny",
+        "A Hen"
+      ],
+      "question": {
+        "text": "What is a female pig known as?"
+      },
+      "tags": [
+        "animals",
+        "biology",
+        "names",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b57c4fd6c701a9211837b",
+      "correctAnswer": "France",
+      "incorrectAnswers": [
+        "Belgium",
+        "Argentina",
+        "Israel"
+      ],
+      "question": {
+        "text": "In which country would you find the UNESCO World Heritage site of Mont Saint Michel?"
+      },
+      "tags": [
         "geography"
       ],
       "type": "text_choice",
@@ -415,18 +435,18 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "64f3a941601ffca0b7615dd7",
-      "correctAnswer": "A beanball",
+      "id": "622a1c367cc59eab6f95008e",
+      "correctAnswer": "Southpaw",
       "incorrectAnswers": [
-        "A curveball",
-        "A fastball",
-        "A slider"
+        "Goofy",
+        "Regular",
+        "Orthodox"
       ],
       "question": {
-        "text": "What is the baseball term for when a pitcher intentionally hits a batter with the pitch?"
+        "text": "What Do You Call A Boxer Who Leads With Their Right? "
       },
       "tags": [
-        "baseball",
+        "boxing",
         "sport"
       ],
       "type": "text_choice",
@@ -435,42 +455,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "645cb162602ff42ca52fb438",
-      "correctAnswer": "Juneau",
+      "category": "general_knowledge",
+      "id": "64746b005a4c31088dd9d005",
+      "correctAnswer": "Hermana",
       "incorrectAnswers": [
-        "Anchorage",
-        "Fairbanks",
-        "Ketchikan"
+        "Familia",
+        "Amor",
+        "Nina"
       ],
       "question": {
-        "text": "What is the capital city of Alaska?"
+        "text": "What term of endearment is appropriate for your sister in Spanish?"
       },
       "tags": [
-        "cities",
-        "us_states",
-        "usa",
-        "alaska"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3d7cc59eab6f951ca7",
-      "correctAnswer": "4 Calling Birds",
-      "incorrectAnswers": [
-        "4 Turtle Doves",
-        "4 French Hens",
-        "4 Drummers Drumming"
-      ],
-      "question": {
-        "text": "What did 'my true love give to me' on the fourth day of Christmas?"
-      },
-      "tags": [
-        "society_and_culture"
+        "spanish",
+        "language"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -479,18 +477,18 @@
     },
     {
       "category": "history",
-      "id": "645c9fc842ea81e2554c5f8d",
-      "correctAnswer": "St. Ignatius Loyola",
+      "id": "622a1c367cc59eab6f9503a3",
+      "correctAnswer": "The Inquisition",
       "incorrectAnswers": [
-        "Pope Francis",
-        "St. Peter",
-        "St. Paul"
+        "The Papacy",
+        "The Monad",
+        "The Cardinality"
       ],
       "question": {
-        "text": "Which founder of the Jesuits was imprisoned on two occasions during the Spanish Inquisition?"
+        "text": "Which Institution Was Founded By The Roman Catholic Church In The 13th Century To Root Out Heresy?"
       },
       "tags": [
-        "religion",
+        "christianity",
         "history"
       ],
       "type": "text_choice",
@@ -499,19 +497,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623387970161109f922aac33",
-      "correctAnswer": "Tibet",
+      "category": "film_and_tv",
+      "id": "6257410e3d2f5c16bfb8833e",
+      "correctAnswer": "Spotlight",
       "incorrectAnswers": [
-        "Peru",
-        "Switzerland",
-        "Iceland"
+        "Django Unchained",
+        "Trainspotting",
+        "Catch Me If You Can"
       ],
       "question": {
-        "text": "Which country is known as the roof of the world?"
+        "text": "Name the movie that matches the following plot summary: 'The story of how the scandal of child molestation within the Boston Catholic church was uncovered.'"
       },
       "tags": [
-        "geography"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -520,17 +519,19 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9500f7",
-      "correctAnswer": "Linus Torvalds",
+      "id": "62ab33025202de619af28137",
+      "correctAnswer": "Opel",
       "incorrectAnswers": [
-        "Lin Wux",
-        "Lionel Uxworth",
-        "Linda Uxbridge"
+        "Honda",
+        "Ford",
+        "Rolls-Royce"
       ],
       "question": {
-        "text": "Who is the Linux operating system named after?"
+        "text": "The Corsa is a model of car made by which manufacturer?"
       },
       "tags": [
+        "motoring",
+        "business",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -539,20 +540,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "625e9ed0796f721e95543f6e",
-      "correctAnswer": "Red",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdcb",
+      "correctAnswer": "2",
       "incorrectAnswers": [
-        "Orange",
-        "Black",
-        "Maroon"
+        "1/2",
+        "4",
+        "8"
       ],
       "question": {
-        "text": "Which of these colors would you find on the flag of Iran?"
+        "text": "How Many Crotchets Do You Get In A Minim?"
       },
       "tags": [
-        "flags",
-        "geography"
+        "words",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -560,23 +561,22 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f95189b",
-      "correctAnswer": "Italian",
+      "category": "society_and_culture",
+      "id": "626288ac4b176d54800e3dad",
+      "correctAnswer": "Google",
       "incorrectAnswers": [
-        "Spanish",
-        "French",
-        "English"
+        "Nokia",
+        "PlayStation",
+        "Panasonic"
       ],
       "question": {
-        "text": "What was the nationality of Marco Polo?"
+        "text": "Which technology brand is associated with the marketing slogan 'Don't Be Evil'?"
       },
       "tags": [
-        "exploration",
-        "people",
-        "middle_ages",
-        "medieval",
-        "history"
+        "business",
+        "marketing",
+        "technology",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -584,21 +584,22 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "6463398b01d576cfac3aa37d",
-      "correctAnswer": "Tricolor",
+      "category": "society_and_culture",
+      "id": "6477bada550bc819ad646b4e",
+      "correctAnswer": "Juan Valdez",
       "incorrectAnswers": [
-        "Red, White, and Blue",
-        "The Golden Fleece",
-        "The Union Jack"
+        "Emilio Estefan",
+        "Pablo Escobar",
+        "Fidel Castro"
       ],
       "question": {
-        "text": "What is the name of the French flag?"
+        "text": "Which of these men is a fictional character used to market Colombian coffee growers, and is always seen with his mule named Conchita?"
       },
       "tags": [
-        "flags",
-        "france",
-        "geography"
+        "advertising",
+        "marketing",
+        "society_and_culture",
+        "coffee"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -606,21 +607,23 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "6237402ecb85f7ce9e949ce4",
-      "correctAnswer": "Prague",
+      "category": "society_and_culture",
+      "id": "62c2fa15b3eadb0437fda6c2",
+      "correctAnswer": "Swarovski",
       "incorrectAnswers": [
-        "Manama",
-        "Berlin",
-        "Valletta"
+        "Mustang",
+        "Ferrari",
+        "Bacardi"
       ],
       "question": {
-        "text": "What is the capital city of Czechia?"
+        "text": "Which of these brands has a swan on its logo?"
       },
       "tags": [
-        "capital_cities",
-        "europe",
-        "geography"
+        "society_and_culture",
+        "business",
+        "marketing",
+        "animals",
+        "birds"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -628,20 +631,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95027d",
-      "correctAnswer": "Mexico ",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f94a",
+      "correctAnswer": "Rain Man",
       "incorrectAnswers": [
-        "France",
-        "China",
-        "India"
+        "The Godfather",
+        "The 400 Blows",
+        "Fast Times at Ridgemont High"
       ],
       "question": {
-        "text": "Which country is the ancient home of chocolate?"
+        "text": "Which film contains the character 'Raymond Babbitt'?"
       },
       "tags": [
-        "food",
-        "food_and_drink"
+        "fictitious_characters",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
