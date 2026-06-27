@@ -1,20 +1,46 @@
 {
-  "gameDate": "2026-06-26",
+  "gameDate": "2026-06-27",
   "difficulty": "random",
   "results": [
     {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f9507fd",
-      "correctAnswer": "Africa",
+      "category": "music",
+      "id": "6460896ade964ebc39016c4c",
+      "correctAnswer": "Beauty and the Beast",
       "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Europe"
+        "The Lion King",
+        "Aladdin",
+        "The Little Mermaid"
       ],
       "question": {
-        "text": "The country of Cape Verde is on which continent?"
+        "text": "Which animated movie theme did Celine Dion and Peabo Bryson sing in 1992?"
       },
       "tags": [
+        "disney",
+        "film_and_tv",
+        "film",
+        "soundtracks",
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623740accb85f7ce9e949d16",
+      "correctAnswer": "Port-au-Prince",
+      "incorrectAnswers": [
+        "Beirut",
+        "Bern",
+        "Georgetown"
+      ],
+      "question": {
+        "text": "What is the capital city of Haiti?"
+      },
+      "tags": [
+        "capital_cities",
         "geography"
       ],
       "type": "text_choice",
@@ -23,21 +49,443 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "6462624aab138b829b81e9da",
-      "correctAnswer": "\"There's Nothing Like A Dame\"",
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951be5",
+      "correctAnswer": "Black Thursday",
       "incorrectAnswers": [
-        "\"Some Enchanted Evening\"",
-        "\"Bali Ha'i\"",
-        "\"I'm Gonna Wash That Man Right Outa My Hair\""
+        "Dark Wednesday",
+        "Sorrowful Sunday",
+        "Miserable Monday"
       ],
       "question": {
-        "text": "Which song from the musical 'South Pacific' begins with the lyrics 'We got sunlight on the sand, we got moonlight on the sea'?"
+        "text": "How is the stockmarket collapse of the 24th October 1929 better known?"
       },
       "tags": [
-        "musicals",
-        "theater",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9506ae",
+      "correctAnswer": "Naomi Watts",
+      "incorrectAnswers": [
+        "Melissa Leo",
+        "Frances Conroy",
+        "Laura Linney"
+      ],
+      "question": {
+        "text": "Which actress has featured in both Birdman and Twin Peaks?"
+      },
+      "tags": [
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501a1",
+      "correctAnswer": "Dream of the Red Chamber",
+      "incorrectAnswers": [
+        "Germinal",
+        "Madame Bovary",
+        "The Decameron"
+      ],
+      "question": {
+        "text": "In which book does 'Wang Xifeng' appear?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bad",
+      "correctAnswer": "BTS",
+      "incorrectAnswers": [
+        "Kara",
+        "2NE1",
+        "Red Velvet"
+      ],
+      "question": {
+        "text": "Which South Korean boy group released the single 'Dynamite'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc1d",
+      "correctAnswer": "\"One morning I shot an elephant in my pajamas. How he got in my pajamas, I don't know.\"",
+      "incorrectAnswers": [
+        "\"Soylent Green is people!\"",
+        "\"I’m going to have to science the s*** out of this.\"",
+        "\"Toto, I've a feeling we're not in Kansas anymore.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Animal Crackers'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "646261c8ab138b829b81e98e",
+      "correctAnswer": "Charles Dickens",
+      "incorrectAnswers": [
+        "Mark Twain",
+        "William Shakespeare",
+        "Jane Austen"
+      ],
+      "question": {
+        "text": "Who wrote 'Oliver Twist'?"
+      },
+      "tags": [
+        "novels",
+        "classic_novels",
+        "arts_and_literature",
+        "literature",
+        "authors"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417ddc0f96c4efe8d773f1",
+      "correctAnswer": "Winnipeg Jets",
+      "incorrectAnswers": [
+        "Winnipeg Padres",
+        "Winnipeg Broncos",
+        "Winnipeg Penguins"
+      ],
+      "question": {
+        "text": "Which of these is a hockey team based in Winnipeg?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60b850d1a5e051325a6f",
+      "correctAnswer": "Aloco",
+      "incorrectAnswers": [
+        "Borscht",
+        "Shawarma",
+        "Dholl Puri"
+      ],
+      "question": {
+        "text": "Which of these dishes is most associated with Côte d'Ivoire?"
+      },
+      "tags": [
+        "food",
+        "africa",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fffc",
+      "correctAnswer": "Portugal",
+      "incorrectAnswers": [
+        "Morocco",
+        "Andorra",
+        "France"
+      ],
+      "question": {
+        "text": "The old Roman province of Lusitania is now called ____________. "
+      },
+      "tags": [
+        "previous_names",
+        "romans",
+        "europe",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b7b",
+      "correctAnswer": "Modern Talking",
+      "incorrectAnswers": [
+        "Sodom",
+        "Rage",
+        "Edguy"
+      ],
+      "question": {
+        "text": "Which German synth pop duo released the song 'You're My Heart, You're My Soul'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502ff",
+      "correctAnswer": "An order of monks ",
+      "incorrectAnswers": [
+        "An Italian Town",
+        "A type of monkey",
+        "A legendary musician"
+      ],
+      "question": {
+        "text": "A Cappuccino Coffee Is Named After What?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623387b30161109f922aac3e",
+      "correctAnswer": "Ethiopia ",
+      "incorrectAnswers": [
+        "Syria",
+        "Egypt",
+        "Azerbaijan"
+      ],
+      "question": {
+        "text": "Which country was previously called Abyssinia?"
+      },
+      "tags": [
+        "names",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504e7",
+      "correctAnswer": "nerves",
+      "incorrectAnswers": [
+        "embryos",
+        "the study and psychology of organisms with regard to their functions and structures",
+        "mollusks"
+      ],
+      "question": {
+        "text": "What is Neurology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510c9",
+      "correctAnswer": "8",
+      "incorrectAnswers": [
+        "2",
+        "4",
+        "10"
+      ],
+      "question": {
+        "text": "How Many Bits In A Byte"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f95092a",
+      "correctAnswer": "Democratic Republic of the Congo",
+      "incorrectAnswers": [
+        "Gabon",
+        "Equatorial Guinea",
+        "Rwanda"
+      ],
+      "question": {
+        "text": "Which of these countries borders Central African Republic?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c7b",
+      "correctAnswer": "U2",
+      "incorrectAnswers": [
+        "Public Image Ltd.",
+        "The Script",
+        "The Cure"
+      ],
+      "question": {
+        "text": "Which Irish rock band released the studio album 'No Line on the Horizon'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625063c9e12f6dec240bdf82",
+      "correctAnswer": "Groove Is in the Heart",
+      "incorrectAnswers": [
+        "Turn the Beat Around",
+        "Two of Hearts",
+        "In a Big Country"
+      ],
+      "question": {
+        "text": "What song did Deee-Lite have a hit with in 1990?"
+      },
+      "tags": [
         "songs",
+        "one_hit_wonders",
+        "1990's",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "65056e417a97013de78b52a1",
+      "correctAnswer": "Fermentation",
+      "incorrectAnswers": [
+        "Cartography",
+        "Substitution",
+        "Titration"
+      ],
+      "question": {
+        "text": "What process is used for making beer, wine and sourdough bread?"
+      },
+      "tags": [
+        "food_and_drink",
+        "bread",
+        "alcohol",
+        "food",
+        "drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f79",
+      "correctAnswer": "Stephen King",
+      "incorrectAnswers": [
+        "H. P. Lovecraft",
+        "Edgar Allan Poe",
+        "Jack Vance"
+      ],
+      "question": {
+        "text": "Which author wrote 'Carrie'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "63a03974c7d86251f9b65c5e",
+      "correctAnswer": "Ariel",
+      "incorrectAnswers": [
+        "Belle",
+        "Jasmine",
+        "Elsa"
+      ],
+      "question": {
+        "text": "What is the name of the mermaid in the Disney film The Little Mermaid?"
+      },
+      "tags": [
+        "film_and_tv",
+        "disney",
+        "film",
+        "fictitious_characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f2b",
+      "correctAnswer": "Hans Christian Andersen",
+      "incorrectAnswers": [
+        "Beatrix Potter",
+        "Søren Kierkegaard",
+        "Oscar Wilde"
+      ],
+      "question": {
+        "text": "Which author wrote 'Thumbelina'?"
+      },
+      "tags": [
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -47,407 +495,39 @@
     },
     {
       "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc7b",
-      "correctAnswer": "Futz",
+      "id": "622a1c3a7cc59eab6f951097",
+      "correctAnswer": "Stealth",
       "incorrectAnswers": [
-        "Discombobulate",
-        "Cabotage",
-        "Jentacular"
+        "Supersonic",
+        "Automated",
+        "Nuclear"
       ],
       "question": {
-        "text": "Which word is defined as 'to waste time or busy oneself aimlessly'?"
+        "text": "The Lockheed F-117 Nighthawk Was The First Of Which Type Of Aircraft?"
       },
       "tags": [
-        "words",
+        "technology",
         "general_knowledge"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "645fcc90541c4d4fc8cf3095",
-      "correctAnswer": "Apparent Magnitude",
-      "incorrectAnswers": [
-        "Apparent Luminosity",
-        "Apparent Intensity",
-        "Apparent Radiance"
-      ],
-      "question": {
-        "text": "In astronomy, what is the term for the measurement of the brightness of stars?"
-      },
-      "tags": [
-        "astronomy",
-        "measurements",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950100",
-      "correctAnswer": "Ares",
-      "incorrectAnswers": [
-        "Athena",
-        "Hephaestus",
-        "Zeus"
-      ],
-      "question": {
-        "text": "Who is the Greek equivalent of the Roman god Mars?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951070",
-      "correctAnswer": "Amphibian",
-      "incorrectAnswers": [
-        "Reptile",
-        "Fish",
-        "Mollusc"
-      ],
-      "question": {
-        "text": "What is a Salamander ?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "646089e4de964ebc39016ca0",
-      "correctAnswer": "Pressure",
-      "incorrectAnswers": [
-        "Volume",
-        "Luminescence",
-        "Temperature"
-      ],
-      "question": {
-        "text": "According to Boyle's Law, what increases when a gas is compressed to half its size?"
-      },
-      "tags": [
-        "chemistry",
-        "physics",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "646339a001d576cfac3aa394",
-      "correctAnswer": "Roy Scheider",
-      "incorrectAnswers": [
-        "Harrison Ford",
-        "Robert De Niro",
-        "Jack Nicholson"
-      ],
-      "question": {
-        "text": "Which actor made his debut in the lesser-known film \"The Curse of the Living Corpse\" before achieving fame with \"Jaws\" and \"All that Jazz\"?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv",
-        "acting"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "645bc75b4638d58091b1b9dd",
-      "correctAnswer": "Club Med",
-      "incorrectAnswers": [
-        "Holiday Inn Resorts",
-        "Ski.com",
-        "Radisson Blu Resorts"
-      ],
-      "question": {
-        "text": "Philippe Bourguignon left the chairmanship of Eurodisney to join which group of resorts?"
-      },
-      "tags": [
-        "tourism",
-        "business"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374001cb85f7ce9e949cd2",
-      "correctAnswer": "Bogotá",
-      "incorrectAnswers": [
-        "Yerevan",
-        "Managua",
-        "Manama"
-      ],
-      "question": {
-        "text": "What is the capital city of Colombia?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "music",
-      "id": "64cfa1637f0714b9a0ca5e84",
-      "correctAnswer": "Glen Campbell",
+      "id": "622a1c387cc59eab6f950b90",
+      "correctAnswer": "Weezer",
       "incorrectAnswers": [
-        "Johnny Cash",
-        "Willie Nelson",
-        "Kenny Rogers"
+        "LMFAO",
+        "Static-X",
+        "The Black Keys"
       ],
       "question": {
-        "text": "Which country star had hits including \"Rhinestone Cowboy\" and \"Wichita Lineman\"?"
+        "text": "Which alternative rock band from the United States released the studio album 'Hurley'?"
       },
       "tags": [
-        "music",
-        "country_music",
-        "songs",
-        "musicians"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "63e13a10106de6ffa7d4a788",
-      "correctAnswer": "Clavicle",
-      "incorrectAnswers": [
-        "Femur",
-        "Ulna",
-        "Humerus"
-      ],
-      "question": {
-        "text": "What is the medical name for the collarbone?"
-      },
-      "tags": [
-        "science",
-        "biology",
-        "anatomy",
-        "medicine"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c6136badf21197f98f76c",
-      "correctAnswer": "Switzerland",
-      "incorrectAnswers": [
-        "Vietnam",
-        "Barbados",
-        "Ghana"
-      ],
-      "question": {
-        "text": "Rösti is a dish that is most associated with which part of the world?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62443772746187c5e7be9353",
-      "correctAnswer": "D2O",
-      "incorrectAnswers": [
-        "N2O",
-        "KNO3",
-        "Fe2O3"
-      ],
-      "question": {
-        "text": "What is the chemical formula for deuterium oxide?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237406acb85f7ce9e949cfc",
-      "correctAnswer": "Helsinki",
-      "incorrectAnswers": [
-        "Suva",
-        "Tarawa",
-        "Copenhagen"
-      ],
-      "question": {
-        "text": "What is the capital city of Finland?"
-      },
-      "tags": [
-        "capital_cities",
-        "europe",
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "627164ae1ba117625baac96e",
-      "correctAnswer": "The Phillipines",
-      "incorrectAnswers": [
-        "Romania",
-        "Turkey",
-        "Estonia"
-      ],
-      "question": {
-        "text": "Which country is associated with the drink tuba?"
-      },
-      "tags": [
-        "drink",
-        "alcohol",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f9522d8",
-      "correctAnswer": "Foxglove",
-      "incorrectAnswers": [
-        "Nightshade",
-        "Bamboo",
-        "Coconut"
-      ],
-      "question": {
-        "text": "From what is the heart drug digitalis obtained?"
-      },
-      "tags": [
-        "science",
-        "biology",
-        "plants",
-        "medicine"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6242cb6ed543524f1b19c92d",
-      "correctAnswer": "A yoke",
-      "incorrectAnswers": [
-        "A drove",
-        "A troop",
-        "A run"
-      ],
-      "question": {
-        "text": "What is the word for a group of oxen?"
-      },
-      "tags": [
-        "animals",
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950af3",
-      "correctAnswer": "Belgium",
-      "incorrectAnswers": [
-        "Liechtenstein",
-        "Slovenia",
-        "San Marino"
-      ],
-      "question": {
-        "text": "Which of these countries borders Germany?"
-      },
-      "tags": [
-        "germany",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510b5",
-      "correctAnswer": "Ostrich",
-      "incorrectAnswers": [
-        "Peacock",
-        "Emu",
-        "Emperor Penguin"
-      ],
-      "question": {
-        "text": "Name the largest living bird."
-      },
-      "tags": [
-        "animals",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "62506441e12f6dec240bdfa5",
-      "correctAnswer": "Vicki Sue Robinson",
-      "incorrectAnswers": [
-        "Jermaine Stewart",
-        "Aqua",
-        "The Verve"
-      ],
-      "question": {
-        "text": "Who had a hit in 1976 with Turn the Beat Around?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
+        "rock_music",
         "music"
       ],
       "type": "text_choice",
@@ -456,105 +536,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6266e68aff2394bd44dee052",
-      "correctAnswer": "Seven",
-      "incorrectAnswers": [
-        "Two",
-        "Green",
-        "Ten"
-      ],
-      "question": {
-        "text": "In Italian, what is the meaning of the word 'sette'?"
-      },
-      "tags": [
-        "language",
-        "translations",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6256f9ca9da29df7b05f72e4",
-      "correctAnswer": "The Shining",
-      "incorrectAnswers": [
-        "Untouchable",
-        "Taxi Driver",
-        "Fargo"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A family heads to a hotel for the winter where a sinister presence influences the father into violence.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506fb",
-      "correctAnswer": "Matthew McConaughey",
-      "incorrectAnswers": [
-        "Ryan Reynolds",
-        "Jim Carrey",
-        "Hugh Jackman"
-      ],
-      "question": {
-        "text": "Which Hollywood actor has starred in films including Interstellar and The Wolf of Wall Street?"
-      },
-      "tags": [
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3c7cc59eab6f951938",
-      "correctAnswer": "War Of The Worlds",
-      "incorrectAnswers": [
-        "The Archers",
-        "Johnny Got His Gun",
-        "Moon Over Morocco"
-      ],
-      "question": {
-        "text": "What pre-tv radio show caused hysteria when it was first aired?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f95180b",
-      "correctAnswer": "Michael Crichton",
+      "id": "622a1c3d7cc59eab6f951bc0",
+      "correctAnswer": "32",
       "incorrectAnswers": [
-        "Steven Spielberg",
-        "Stephen Chbosky",
-        "David Lynch"
+        "22",
+        "42",
+        "52"
       ],
       "question": {
-        "text": "Which best selling American writer wrote and directed the sci-fi film Westworld?"
+        "text": "How old was Alexander the Great when he died ?"
       },
       "tags": [
-        "film",
-        "science_fiction",
+        "ancient_greece",
+        "people",
+        "leaders",
         "history"
       ],
       "type": "text_choice",
@@ -563,59 +559,16 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "65056ed47a97013de78b536e",
-      "correctAnswer": "Napoleonic War",
-      "incorrectAnswers": [
-        "World War II",
-        "Vietnam War",
-        "Korean War"
-      ],
-      "question": {
-        "text": "Which of these wars took place before World War I?"
-      },
-      "tags": [
-        "history",
-        "wars"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbc1",
-      "correctAnswer": "\"I wish I knew how to quit you.\"",
-      "incorrectAnswers": [
-        "\"I want to be alone.\"",
-        "\"Frankly, my dear, I don't give a damn.\"",
-        "\"Show me the money!\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Brokeback Mountain'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "623388650161109f922aac84",
-      "correctAnswer": "Caspian Sea ",
+      "id": "6233868662eaad73716a8cdb",
+      "correctAnswer": "Belgium",
       "incorrectAnswers": [
-        "Dead Sea",
-        "Lake Baikal",
-        "Lake Superior"
+        "New Zealand",
+        "South Africa",
+        "Turkey"
       ],
       "question": {
-        "text": "Which is the largest lake in the world by surface area?"
+        "text": "Where is Tongeren?"
       },
       "tags": [
         "geography"
@@ -626,19 +579,62 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6242cb0cd543524f1b19c907",
-      "correctAnswer": "A rag",
+      "category": "film_and_tv",
+      "id": "625fd744dc0dd3b72da64d2f",
+      "correctAnswer": "1993",
       "incorrectAnswers": [
-        "A nest",
-        "A watch",
-        "A stud"
+        "1989",
+        "1997",
+        "2001"
       ],
       "question": {
-        "text": "What is the word for a group of colts?"
+        "text": "In which year was Groundhog Day released?"
       },
       "tags": [
-        "science"
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f88",
+      "correctAnswer": "Agatha Christie",
+      "incorrectAnswers": [
+        "Robert Louis Stevenson",
+        "Charles Dickens",
+        "Lewis Carroll"
+      ],
+      "question": {
+        "text": "Which author wrote 'Partners in Crime'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62373fdacb85f7ce9e949cc2",
+      "correctAnswer": "Praia",
+      "incorrectAnswers": [
+        "Santo Domingo",
+        "Doha",
+        "Saint George's"
+      ],
+      "question": {
+        "text": "What is the capital city of Cabo Verde?"
+      },
+      "tags": [
+        "capital_cities",
+        "cities",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
