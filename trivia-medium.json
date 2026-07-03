@@ -1,45 +1,24 @@
 {
-  "gameDate": "2026-07-02",
+  "gameDate": "2026-07-03",
   "difficulty": "medium",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff5b",
-      "correctAnswer": "Bob Dylan",
-      "incorrectAnswers": [
-        "Neil Young",
-        "Eric Clapton",
-        "Alanis Morissette"
-      ],
-      "question": {
-        "text": "Which American musician released the album 'Blonde on Blonde'?"
-      },
-      "tags": [
-        "music_albums",
-        "1960's",
-        "musicians",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94ff7e",
-      "correctAnswer": "Hanoi",
+      "id": "6474630cbda4b199c327d0bd",
+      "correctAnswer": "Pacific Ocean",
       "incorrectAnswers": [
-        "Ho Chi Minh City",
-        "Huế",
-        "Saigon"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
       ],
       "question": {
-        "text": "What is the capital of Vietnam?"
+        "text": "Which ocean features the Sulu Sea?"
       },
       "tags": [
-        "capital_cities",
-        "geography"
+        "oceans",
+        "seas",
+        "geography",
+        "bodies_of_water"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -48,22 +27,21 @@
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f9517a4",
-      "correctAnswer": "Houston",
+      "id": "63a039bec7d86251f9b65cac",
+      "correctAnswer": "1917",
       "incorrectAnswers": [
-        "Austin",
-        "Dallas",
-        "Atlanta"
+        "1914",
+        "1941",
+        "1945"
       ],
       "question": {
-        "text": "Which geographical location was the first word spoken on the moon?"
+        "text": "In which year did the United States enter World War I?"
       },
       "tags": [
         "history",
-        "geography",
-        "places",
-        "space_exploration",
-        "events"
+        "usa",
+        "world_war_1",
+        "wars"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -71,22 +49,106 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ff83",
-      "correctAnswer": "Austin",
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503a8",
+      "correctAnswer": "Louis XVI",
       "incorrectAnswers": [
-        "Boston",
-        "Dallas",
-        "Houston"
+        "Louis XIV",
+        "Charles IX",
+        "Charles XII"
       ],
       "question": {
-        "text": "What is the capital of Texas?"
+        "text": "Which King Was Overthrown As A Result Of The French Revolution?"
       },
       "tags": [
-        "cities",
-        "us_states",
-        "usa",
-        "geography"
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "645cb0ee602ff42ca52fb41b",
+      "correctAnswer": "Sedimentary",
+      "incorrectAnswers": [
+        "Metamorphic",
+        "Igneous",
+        "Volcanic"
+      ],
+      "question": {
+        "text": "What is the name of the one of the three main types of rocks that gets its name from the Latin word meaning 'to settle'?"
+      },
+      "tags": [
+        "geology",
+        "science",
+        "latin",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f951333",
+      "correctAnswer": "Ebenezer Scrooge",
+      "incorrectAnswers": [
+        "Charles Dickens",
+        "Bob Cratchit",
+        "Uriah Heep"
+      ],
+      "question": {
+        "text": "What is the name of the miserly main character in A Christmas Carol?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature",
+        "christmas",
+        "classic_novels",
+        "fictitious_characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "645c9f5442ea81e2554c5f1f",
+      "correctAnswer": "A quip",
+      "incorrectAnswers": [
+        "A type of hat",
+        "A food dish",
+        "A dance move"
+      ],
+      "question": {
+        "text": "What is the meaning of the term 'bon mot'?"
+      },
+      "tags": [
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f950195",
+      "correctAnswer": "Aesop",
+      "incorrectAnswers": [
+        "Homer",
+        "Plato",
+        "Odysseus"
+      ],
+      "question": {
+        "text": "Which Ancient Greek writer was famous for his Fables?"
+      },
+      "tags": [
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -95,19 +157,41 @@
     },
     {
       "category": "society_and_culture",
-      "id": "65056f967a97013de78b547d",
-      "correctAnswer": "China",
+      "id": "62ab33095202de619af28139",
+      "correctAnswer": "Volkswagen",
       "incorrectAnswers": [
-        "India",
-        "France",
-        "Mexico"
+        "Renault",
+        "Audi",
+        "Toyota"
       ],
       "question": {
-        "text": "In which country did the philosophy of Taoism originate?"
+        "text": "The Polo is a model of car made by which manufacturer?"
       },
       "tags": [
-        "society_and_culture",
-        "philosophy"
+        "motoring",
+        "business",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc7c",
+      "correctAnswer": "Grommet",
+      "incorrectAnswers": [
+        "Winklepicker",
+        "Curmudgeon",
+        "Cattywampus"
+      ],
+      "question": {
+        "text": "Which word is defined as 'an eyelet of firm material to strengthen or protect an opening or to insulate or protect something passed through it'?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -116,19 +200,18 @@
     },
     {
       "category": "geography",
-      "id": "626030b14b176d54800e3d37",
-      "correctAnswer": "Algeria",
+      "id": "62602ebe4b176d54800e3cf2",
+      "correctAnswer": "Mexico",
       "incorrectAnswers": [
-        "Cameroon",
-        "Democratic Republic of the Congo",
-        "Senegal"
+        "Cuba",
+        "Chile",
+        "Paraguay"
       ],
       "question": {
-        "text": "Where would you find the city of Algiers?"
+        "text": "In which country is the city of Guadalajara?"
       },
       "tags": [
         "cities",
-        "africa",
         "geography"
       ],
       "type": "text_choice",
@@ -137,39 +220,16 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "64dfa27da6681754ea052bae",
-      "correctAnswer": "The Scoville scale",
-      "incorrectAnswers": [
-        "The Heat index",
-        "The Shearer Factor",
-        "The Spiciness Gauge"
-      ],
-      "question": {
-        "text": "What is the name of the scale used to measure the heat level of chili peppers?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink",
-        "units",
-        "measurements"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbd0",
-      "correctAnswer": "\"My precious.\"",
+      "id": "622a1c347cc59eab6f94fc04",
+      "correctAnswer": "\"Hasta la vista, baby.\"",
       "incorrectAnswers": [
-        "\"Keep your friends close, but your enemies closer.\"",
-        "\"You're gonna need a bigger boat.\"",
-        "\"You shall not pass!\""
+        "\"With great power comes great responsiblity.\"",
+        "\"Made it, Ma! Top of the world!\"",
+        "\"Attica! Attica!\""
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Lord of the Rings: The Two Towers'?"
+        "text": "Which of these quotes is from the film 'Terminator 2: Judgment Day'?"
       },
       "tags": [
         "quotes",
@@ -184,21 +244,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "63b069514799123c67712f7b",
-      "correctAnswer": "Indlamu",
+      "id": "62ab32fb5202de619af28135",
+      "correctAnswer": "Chevrolet",
       "incorrectAnswers": [
-        "Hula",
-        "Tango",
-        "Flamenco"
+        "Austin",
+        "Cadillac",
+        "Renault"
       ],
       "question": {
-        "text": "What is the traditional dance of the Zulu people of South Africa?"
+        "text": "Which car manufacturer makes the Impala?"
       },
       "tags": [
-        "society_and_culture",
-        "dance",
-        "africa",
-        "zulu"
+        "motoring",
+        "business",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -206,63 +265,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "63f39521989356ef48370c24",
-      "correctAnswer": "Cough",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502ef",
+      "correctAnswer": "Honey ",
       "incorrectAnswers": [
-        "Headache",
-        "Nausea",
-        "Weight gain"
+        "Butter",
+        "Almond",
+        "Lemon"
       ],
       "question": {
-        "text": "Which of the following is the main symptom of bronchitis?"
+        "text": "From what is mead made?"
       },
       "tags": [
-        "science",
-        "medicine",
-        "biology"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95036d",
-      "correctAnswer": "Marie Antoinette",
-      "incorrectAnswers": [
-        "Queen Victoria",
-        "Abraham Lincoln",
-        "Cleopatra"
-      ],
-      "question": {
-        "text": "Who is reputed to have said said: \"Let them eat cake\"?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623384b462eaad73716a8c26",
-      "correctAnswer": "Lake Baikal",
-      "incorrectAnswers": [
-        "Lake Superior",
-        "Lake Victoria",
-        "Loch Ness"
-      ],
-      "question": {
-        "text": "What is the world's deepest lake?"
-      },
-      "tags": [
-        "bodies_of_water",
-        "records",
-        "geography"
+        "drink",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -271,192 +287,41 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c3e7cc59eab6f952231",
-      "correctAnswer": "South Korea",
+      "id": "6293ebd27f41d6338b96eec2",
+      "correctAnswer": "Confirmed the theory that Earth revolves around The Sun.",
       "incorrectAnswers": [
-        "Taiwan",
-        "China",
-        "Japan"
+        "Roman ruler who overthrew Caesar Augustus",
+        "Physicist who made major discoveries in quantum theory.",
+        "38th President of the US."
       ],
       "question": {
-        "text": "In which country is the company Daewoo based?"
-      },
-      "tags": [
-        "society_and_culture",
-        "business"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "6498aef29acaa77d9ad7c50b",
-      "correctAnswer": "Stanza",
-      "incorrectAnswers": [
-        "Sonnet",
-        "Meter",
-        "Rhyme"
-      ],
-      "question": {
-        "text": "What is another name for a single verse of a poem?"
-      },
-      "tags": [
-        "poetry",
-        "arts_and_literature",
-        "literature",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500ae",
-      "correctAnswer": "A Spare",
-      "incorrectAnswers": [
-        "A Strike",
-        "A Near",
-        "A Close"
-      ],
-      "question": {
-        "text": "In Bowling What Is The Term For Knocking Down All Ten Pins With 2 Consecutive Balls?"
-      },
-      "tags": [
-        "games",
-        "words",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3b7cc59eab6f95176e",
-      "correctAnswer": "Cupid",
-      "incorrectAnswers": [
-        "Valentine",
-        "Vixen",
-        "Rudolph"
-      ],
-      "question": {
-        "text": "Which of these is both one of Santa's reindeers and a mythological god of love?"
-      },
-      "tags": [
-        "society_and_culture",
-        "mythology",
-        "christmas"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f419da29df7b05f7390",
-      "correctAnswer": "It's a Wonderful Life",
-      "incorrectAnswers": [
-        "WALL·E",
-        "Ratatouille",
-        "Psycho"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'An angel is sent to help a man by showing him what life would have been like if he had never existed.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f951a58",
-      "correctAnswer": "The Nightmare Before Christmas",
-      "incorrectAnswers": [
-        "Edward Scissorhands",
-        "Batman",
-        "Corpse Bride"
-      ],
-      "question": {
-        "text": "The Character Jack Skellington Appears In Which 1993 Tim Burton Film?"
-      },
-      "tags": [
-        "fictitious_characters",
-        "film",
-        "1990's",
-        "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950345",
-      "correctAnswer": "John F Kennedy",
-      "incorrectAnswers": [
-        "Winston Churchill",
-        "Henry VIII",
-        "Josef Stalin"
-      ],
-      "question": {
-        "text": "Who Was Quoted As Saying \"Ask Not What Your Country Can Do For You But What You Can Do For Your Country''?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3b7cc59eab6f9513c0",
-      "correctAnswer": "Little Women",
-      "incorrectAnswers": [
-        "Buddenbrooks",
-        "David Copperfield",
-        "Jane Eyre"
-      ],
-      "question": {
-        "text": "In which book does 'Jo March' appear?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f951905",
-      "correctAnswer": "Jackie Onnasis",
-      "incorrectAnswers": [
-        "Jackie Starling",
-        "Jackie Middleton",
-        "Jackie Van der Steene"
-      ],
-      "question": {
-        "text": "What Was Jackie Kennedy's Name Before She Married John F Kennedy?"
+        "text": "Which of the following describes Galileo Galilei?"
       },
       "tags": [
         "people",
-        "politics",
+        "history",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "64720cd13bbb58c31f411cb8",
+      "correctAnswer": "Liquid assets",
+      "incorrectAnswers": [
+        "Leverage",
+        "Private equity",
+        "Diverse holdings"
+      ],
+      "question": {
+        "text": "What is the term for the part of a financial portfolio that can be turned into cash quickly?"
+      },
+      "tags": [
+        "finance",
+        "economics",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -466,15 +331,15 @@
     },
     {
       "category": "music",
-      "id": "622a1c387cc59eab6f950b8b",
-      "correctAnswer": "The Jimi Hendrix Experience",
+      "id": "622a1c397cc59eab6f950ce3",
+      "correctAnswer": "Queen",
       "incorrectAnswers": [
-        "Poison",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
+        "Deep Purple",
+        "Feeder",
+        "The Who"
       ],
       "question": {
-        "text": "Which English-American psychedelic rock band released the album 'Electric Ladyland'?"
+        "text": "Which British rock band released the song 'Flash', the theme tune to the film 'Flash Gordon'?"
       },
       "tags": [
         "music"
@@ -485,63 +350,24 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "63e13a08106de6ffa7d4a77f",
-      "correctAnswer": "Digestion",
-      "incorrectAnswers": [
-        "Excretion",
-        "Absorption",
-        "Respiration"
-      ],
-      "question": {
-        "text": "What is the technical term for the process of breaking down food?"
-      },
-      "tags": [
-        "science",
-        "biology",
-        "anatomy"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95055e",
-      "correctAnswer": "Churches",
-      "incorrectAnswers": [
-        "The skin",
-        "Winged insects",
-        "Soil"
-      ],
-      "question": {
-        "text": "What is Ecclesiology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "625e9ffa796f721e95543fc5",
-      "correctAnswer": "Red with a yellow star in the center.",
+      "id": "6233892a0161109f922aaccf",
+      "correctAnswer": "The Bering Strait ",
       "incorrectAnswers": [
-        "Blue with a yellow cross extending to the edges.",
-        "White with a large red disk in the center.",
-        "Three equal vertical bands of blue gold and red."
+        "The Bosphorus Strait",
+        "The Channel Strait",
+        "The Magellan Strait"
       ],
       "question": {
-        "text": "What does the flag of Vietnam look like?"
+        "text": "Which strait separates Alaska from Russia?"
       },
       "tags": [
-        "flags",
-        "southeast_asia",
-        "geography"
+        "geography",
+        "straits",
+        "bodies_of_water",
+        "usa",
+        "russia",
+        "alaska"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -549,20 +375,201 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "63bc3f950e893d6e5a6a0fbc",
-      "correctAnswer": "Mod",
+      "category": "film_and_tv",
+      "id": "625699329da29df7b05f72b8",
+      "correctAnswer": "Kurt Russell",
       "incorrectAnswers": [
-        "Rocker",
-        "Hippie",
-        "Goth"
+        "Mark Ruffalo",
+        "Chiwetel Ejiofor",
+        "Mickey Rourke"
       ],
       "question": {
-        "text": "What is the name of the fashion subculture that originated in London in the late 1950s?"
+        "text": "Which actor plays the role of Ego in the Marvel Cinematic Universe?"
       },
       "tags": [
-        "society_and_culture",
-        "fashion"
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c357cc59eab6f950020",
+      "correctAnswer": "Tennis",
+      "incorrectAnswers": [
+        "Soccer",
+        "Badminton",
+        "Volleyball"
+      ],
+      "question": {
+        "text": "Within Which Sport Might You Encounter The Cyclops System?"
+      },
+      "tags": [
+        "technology",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f299da29df7b05f738b",
+      "correctAnswer": "During WWII a Jewish waiter uses humor to protect his son from the realities of war.",
+      "incorrectAnswers": [
+        "Eddy has a week to pay back £500,000 after losing a poker game to a powerful local mobster.",
+        "The life of the lawyer who became the famed leader of the Indian revolts against the British rule.",
+        "A secretly ruthless woman insinuates herself into the lives of an aging actor and her circle of theater friends."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Life Is Beautiful?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd657dc0dd3b72da64ce9",
+      "correctAnswer": "1994",
+      "incorrectAnswers": [
+        "1986",
+        "1990",
+        "1998"
+      ],
+      "question": {
+        "text": "Pulp Fiction was released in which year?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6266bc60ff2394bd44dee004",
+      "correctAnswer": "Stringed",
+      "incorrectAnswers": [
+        "Brass",
+        "Woodwind",
+        "Percussion"
+      ],
+      "question": {
+        "text": "What type of instrument is a lyre?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "63a03997c7d86251f9b65c88",
+      "correctAnswer": "Gaston",
+      "incorrectAnswers": [
+        "The Evil Queen",
+        "Ursula",
+        "Maleficent"
+      ],
+      "question": {
+        "text": "What is the name of the villain in Beauty and the Beast?"
+      },
+      "tags": [
+        "film_and_tv",
+        "disney",
+        "film",
+        "fictitious_characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "636a529e990390307063f3ad",
+      "correctAnswer": "Ring of Fire",
+      "incorrectAnswers": [
+        "MacArthur Park",
+        "Can't Get Used to Losing You",
+        "Landslide"
+      ],
+      "question": {
+        "text": "Which song, originally recorded by Johnny Cash, was later covered by Wall of Voodoo?"
+      },
+      "tags": [
+        "music",
+        "cover_song",
+        "songs",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625698d49da29df7b05f72a0",
+      "correctAnswer": "Ant Man",
+      "incorrectAnswers": [
+        "Karl Mordo",
+        "Quentin Beck",
+        "The Grandmaster"
+      ],
+      "question": {
+        "text": "Paul Rudd plays the role of which character in the Marvel Cinematic Universe?"
+      },
+      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "63adbd7504c68cc1e14b8e45",
+      "correctAnswer": "1799",
+      "incorrectAnswers": [
+        "1899",
+        "1699",
+        "1999"
+      ],
+      "question": {
+        "text": "In what year did Napoleon first become ruler of France?"
+      },
+      "tags": [
+        "history",
+        "napoleonic_wars",
+        "france",
+        "people"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -571,20 +578,17 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c3b7cc59eab6f9513d2",
-      "correctAnswer": "Twilight",
+      "id": "622a1c3a7cc59eab6f951387",
+      "correctAnswer": "Harry Potter",
       "incorrectAnswers": [
-        "Harry Potter",
-        "The Hunger Games",
-        "The Chronicles of Narnia"
+        "Voyages Extraordinaires",
+        "Percy Jackson & the Olympians",
+        "Twilight"
       ],
       "question": {
-        "text": "In which book series does 'Edward Cullen' appear?"
+        "text": "In which book series does 'Cedric Diggory' appear?"
       },
       "tags": [
-        "literature",
-        "fictitious_characters",
-        "young_adult",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -593,20 +597,23 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623735e6cfe13103f55eb57e",
-      "correctAnswer": "Sweden",
+      "category": "food_and_drink",
+      "id": "646339ce01d576cfac3aa3b6",
+      "correctAnswer": "Ocean Spray",
       "incorrectAnswers": [
-        "Serbia",
-        "Senegal",
-        "Singapore"
+        "Land o' Lakes",
+        "Minute Maid",
+        "Florida's Natural"
       ],
       "question": {
-        "text": "Which region of the world uses '.se' at the end of its web addresses?"
+        "text": "What is the brand name under which Boston lawyer Marcus Urann marketed cranberry sauce in 1912?"
       },
       "tags": [
-        "the_internet",
-        "geography"
+        "brands",
+        "food",
+        "food_and_drink",
+        "business",
+        "marketing"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -614,20 +621,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "6498a5e40752843c0d8aae08",
-      "correctAnswer": "The Netherlands",
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503b5",
+      "correctAnswer": "Paris",
       "incorrectAnswers": [
-        "Estonia",
-        "Bangladesh",
-        "Thailand"
+        "London",
+        "Nanjing",
+        "Amsterdam"
       ],
       "question": {
-        "text": "Which country reclaimed about 17% of its land from the sea by pumping out water and making new areas called polders?"
+        "text": "Which City Did The Allies Liberate On August 25th 1944?"
       },
       "tags": [
-        "countries",
-        "geography"
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -635,19 +641,22 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950802",
-      "correctAnswer": "North America",
+      "category": "society_and_culture",
+      "id": "6293ebb67f41d6338b96eeba",
+      "correctAnswer": "Siddhartha Gautama ",
       "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Europe"
+        "Simon Bolivar",
+        "Confucius",
+        "Bahadur Shah"
       ],
       "question": {
-        "text": "The country of Dominica is on which continent?"
+        "text": "Who was the founder of Buddhism?"
       },
       "tags": [
-        "geography"
+        "people",
+        "society_and_culture",
+        "religion",
+        "buddhism"
       ],
       "type": "text_choice",
       "difficulty": "medium",
