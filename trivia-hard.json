@@ -1,22 +1,85 @@
 {
-  "gameDate": "2026-07-04",
+  "gameDate": "2026-07-05",
   "difficulty": "hard",
   "results": [
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f93b",
-      "correctAnswer": "Misery",
+      "id": "622a1c347cc59eab6f94fbdd",
+      "correctAnswer": "\"It’s the sense of touch. In any real city, you walk, you know? You brush past people, people bump into you. In L.A., nobody touches you. We’re always behind this metal and glass. I think we miss that touch so much, that we crash into each other, just so we can feel something.\"",
       "incorrectAnswers": [
-        "Wall Street",
-        "Alien",
-        "Network"
+        "\"May the Force be with you.\"",
+        "\"Here's looking at you, kid.\"",
+        "\"What is this? A center for ants? How can we be expected to teach children to learn how to read…if they can’t even fit inside the building?\""
       ],
       "question": {
-        "text": "Which film contains the character 'Annie Wilkes'?"
+        "text": "Which of these quotes is from the film 'Crash'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fb3b",
+      "correctAnswer": "American Beauty",
+      "incorrectAnswers": [
+        "The Cider House Rules",
+        "The Green Mile",
+        "The Insider"
+      ],
+      "question": {
+        "text": "Which film won the Academy Award for Best Picture in 1999?"
+      },
+      "tags": [
+        "academy_awards",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f950217",
+      "correctAnswer": "Ridley Scott",
+      "incorrectAnswers": [
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
+      ],
+      "question": {
+        "text": "Which director directed Blade Runner?"
+      },
+      "tags": [
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740c69da29df7b05f73f7",
+      "correctAnswer": "A rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position.",
+      "incorrectAnswers": [
+        "A naive youth leader is appointed to fill a vacancy in the U.S. Senate.",
+        "After a girl is uprooted from her life, her emotions conflict on how best to navigate a new life.",
+        "A family heads to a hotel for the winter where a presence influences the father into violence."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Barry Lyndon?"
       },
       "tags": [
         "film",
-        "fictitious_characters",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -26,17 +89,20 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f951013",
-      "correctAnswer": "Borneo & Sumatra",
+      "id": "6244372e746187c5e7be9339",
+      "correctAnswer": "Baking Soda",
       "incorrectAnswers": [
-        "Bali & Lombok",
-        "Sulawesi & Java",
-        "New Guinea & Komodo"
+        "Bleach",
+        "Table Salt",
+        "Dolomite"
       ],
       "question": {
-        "text": "Which 2 Islands Are The Natural Habitat Of The Orang-Utan?"
+        "text": "What is the common name for sodium bicarbonate?"
       },
       "tags": [
+        "chemistry",
+        "general_knowledge",
+        "names",
         "science"
       ],
       "type": "text_choice",
@@ -45,22 +111,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "64af1025deeef534fb54ad10",
-      "correctAnswer": "Trout",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f85f",
+      "correctAnswer": "Motor Racing",
       "incorrectAnswers": [
-        "Salmon",
-        "Bass",
-        "Tuna"
+        "Cycling",
+        "Tennis",
+        "Cricket"
       ],
       "question": {
-        "text": "Named for its steely blue colour, which fish has a steelhead variety?"
+        "text": "With which sport is Sterling Moss associated?"
       },
       "tags": [
-        "fish",
-        "nature",
-        "science",
-        "animals"
+        "people",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -68,42 +132,20 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "627164c01ba117625baac973",
-      "correctAnswer": "Seco Herrerano",
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcc0",
+      "correctAnswer": "Kra–Dai",
       "incorrectAnswers": [
-        "Tequila",
-        "Nsafufuo",
-        "Unicum"
+        "Sino-Tibetan",
+        "Austroasiatic",
+        "Afroasiatic"
       ],
       "question": {
-        "text": "Which of these is a popular drink in Panama?"
+        "text": "The language 'Thai' belongs to which language family?"
       },
       "tags": [
-        "drink",
-        "alcohol",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc8f",
-      "correctAnswer": "Cattywampus",
-      "incorrectAnswers": [
-        "Funambulist",
-        "Donkey Engine",
-        "Widdershins"
-      ],
-      "question": {
-        "text": "Which word is defined as 'askew'?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
+        "language",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -112,18 +154,17 @@
     },
     {
       "category": "geography",
-      "id": "625e9f45796f721e95543f90",
-      "correctAnswer": "Green",
+      "id": "62374291cb85f7ce9e949dda",
+      "correctAnswer": "Dodoma",
       "incorrectAnswers": [
-        "Blue",
-        "Gold",
-        "Yellow"
+        "Dushanbe",
+        "N'Djamena",
+        "Juba"
       ],
       "question": {
-        "text": "Which of these colors is included on the flag of Morocco?"
+        "text": "What is the capital city of Tanzania?"
       },
       "tags": [
-        "flags",
         "geography"
       ],
       "type": "text_choice",
@@ -133,15 +174,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e8b",
-      "correctAnswer": "Neil Gaiman",
+      "id": "622a1c367cc59eab6f950145",
+      "correctAnswer": "Oscar Wilde",
       "incorrectAnswers": [
-        "Stephen King",
-        "H. P. Lovecraft",
-        "Douglas Adams"
+        "Edgar Allen Poe",
+        "Victor Hugo",
+        "William Shakespeare"
       ],
       "question": {
-        "text": "Which author wrote 'Fragile Things'?"
+        "text": "Whose works the \"Ballad Of Reading Gaol\" and \"De Profundis\" were written from his experiences in prison?"
       },
       "tags": [
         "literature",
@@ -153,16 +194,83 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "6233880c0161109f922aac61",
-      "correctAnswer": "Sydney Harbour Bridge ",
+      "category": "food_and_drink",
+      "id": "625006520d86c8f685d80ee2",
+      "correctAnswer": "Strand pasta",
       "incorrectAnswers": [
-        "The Golden Gate Bridge",
-        "Tower Bridge",
-        "Brooklyn Bridge"
+        "Soup pasta",
+        "Ribbon pasta",
+        "Tubular pasta"
       ],
       "question": {
-        "text": "Which Famous City Bridge Is Known Locally As The Coathanger?"
+        "text": "What type of pasta is bigoli?"
+      },
+      "tags": [
+        "food",
+        "italy",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f992",
+      "correctAnswer": "A Confederacy of Dunces",
+      "incorrectAnswers": [
+        "Tinker",
+        "All the King's Men",
+        "We Have Always Lived in the Castle"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Ignatius Reilly'?"
+      },
+      "tags": [
+        "fictitious_characters",
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "647f9deb3a4302a719271662",
+      "correctAnswer": "Hamlet",
+      "incorrectAnswers": [
+        "Othello",
+        "Macbeth",
+        "Romeo and Juliet"
+      ],
+      "question": {
+        "text": "Which Shakespearean play opens on the battlements of the castle at Elsinore as Barnardo asks, \"Who's there?\""
+      },
+      "tags": [
+        "literature",
+        "theater",
+        "shakespeare",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623740b1cb85f7ce9e949d18",
+      "correctAnswer": "Tegucigalpa",
+      "incorrectAnswers": [
+        "Bangkok",
+        "San Salvador",
+        "Kinshasa"
+      ],
+      "question": {
+        "text": "What is the capital city of Honduras?"
       },
       "tags": [
         "geography"
@@ -173,64 +281,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "624db9d0de6018633d31f6a3",
-      "correctAnswer": "Shirley Bassey",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f950",
+      "correctAnswer": "The Color Purple",
       "incorrectAnswers": [
-        "Lulu",
-        "Wings",
-        "Billie Eilish"
+        "My Life As a Man",
+        "To Kill A Mockingbird",
+        "The Metamorphosis"
       ],
       "question": {
-        "text": "Who performed the theme song to the James Bond film Moonraker?"
+        "text": "Which book contains the character 'Celie'?"
       },
       "tags": [
-        "james_bond",
         "film",
-        "soundtracks",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95069c",
-      "correctAnswer": "Jason Bateman",
-      "incorrectAnswers": [
-        "Javier Bardem",
-        "Colin Firth",
-        "Tim Roth"
-      ],
-      "question": {
-        "text": "Which actor has featured in films including DodgeBall: A True Underdog Story and Up in the Air?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "649f1fffebb41911d4cbd6b1",
-      "correctAnswer": "Pampas",
-      "incorrectAnswers": [
-        "Andes",
-        "Patagonia",
-        "Sierra"
-      ],
-      "question": {
-        "text": "Which of these is a huge flat region of plains in Argentina?"
-      },
-      "tags": [
-        "argentina",
-        "south_america",
-        "geography"
+        "fictitious_characters",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -239,18 +304,19 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c18",
-      "correctAnswer": "Nirvana",
+      "id": "6250647ee12f6dec240bdfb7",
+      "correctAnswer": "Epic",
       "incorrectAnswers": [
-        "Counting Crows",
-        "Three 6 Mafia",
-        "The Velvet Underground"
+        "Genius of Love",
+        "Electric Avenue",
+        "96 Tears"
       ],
       "question": {
-        "text": "Which American rock band released the album 'Bleach'?"
+        "text": "What song did Faith No More have a hit with in 1990?"
       },
       "tags": [
-        "rock_music",
+        "songs",
+        "one_hit_wonders",
         "music"
       ],
       "type": "text_choice",
@@ -259,21 +325,19 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6266e687ff2394bd44dee051",
-      "correctAnswer": "Seven",
+      "category": "science",
+      "id": "6242cb8cd543524f1b19c939",
+      "correctAnswer": "A field",
       "incorrectAnswers": [
-        "White",
-        "Five",
-        "Six"
+        "A parliament",
+        "A yoke",
+        "A troop"
       ],
       "question": {
-        "text": "What does the word 'sieben' mean in German?"
+        "text": "What is the word for a group of racehorses?"
       },
       "tags": [
-        "language",
-        "translations",
-        "society_and_culture"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -281,41 +345,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951b41",
-      "correctAnswer": "1936",
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b59",
+      "correctAnswer": "Emerson, Lake & Palmer",
       "incorrectAnswers": [
-        "1926",
-        "1916",
-        "1906"
+        "Supertramp",
+        "UB40",
+        "Editors"
       ],
       "question": {
-        "text": "In What Year Did The Spanish Civil War Begin?"
+        "text": "Which English progressive rock band released the song 'Lucky Man'?"
       },
       "tags": [
-        "wars",
-        "europe",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a61",
-      "correctAnswer": "French Revolution",
-      "incorrectAnswers": [
-        "Spanish Civil War",
-        "The Cold War",
-        "The Renaissance"
-      ],
-      "question": {
-        "text": "The 14th July 1789 marked the start of what?"
-      },
-      "tags": [
-        "history"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -324,17 +366,21 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "62417cbf8c3137686862d736",
-      "correctAnswer": "Atlanta Hawks",
+      "id": "62417ce80f96c4efe8d77391",
+      "correctAnswer": "Chicago Blackhawks",
       "incorrectAnswers": [
-        "Atlanta Suns",
-        "Atlanta Nationals",
-        "Atlanta Rockets"
+        "Chicago Thunder",
+        "Chicago Steelers",
+        "Chicago Suns"
       ],
       "question": {
-        "text": "Which of these is a basketball team based in Atlanta?"
+        "text": "Which of these is a hockey team based in Chicago?"
       },
       "tags": [
+        "chicago",
+        "animals",
+        "hockey",
+        "nhl",
         "sport"
       ],
       "type": "text_choice",
@@ -343,20 +389,86 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "627164891ba117625baac964",
-      "correctAnswer": "Fernet",
+      "category": "film_and_tv",
+      "id": "6477ba5c550bc819ad646a89",
+      "correctAnswer": "Starsky and Hutch",
       "incorrectAnswers": [
-        "Nsafufuo",
-        "Akevitt",
-        "Canelazo"
+        "Cagney and Lacey",
+        "Simon and Simon",
+        "Tango and Cash"
       ],
       "question": {
-        "text": "Which of these is a popular drink in Argentina?"
+        "text": "Which TV show followed a pair of streetwise cops played by Paul Michael Glaser and David Soul?"
       },
       "tags": [
-        "drink",
-        "alcohol"
+        "tv",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c3c7cc59eab6f951afd",
+      "correctAnswer": "Romania",
+      "incorrectAnswers": [
+        "Poland",
+        "Ireland",
+        "France"
+      ],
+      "question": {
+        "text": "In Which Modern Day Country Would You Find The Region Known As Transylvania?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ec9b7f41d6338b96eefd",
+      "correctAnswer": "Lao Tzu",
+      "incorrectAnswers": [
+        "Zoroaster",
+        "Mao Zedong",
+        "Sun Tzu"
+      ],
+      "question": {
+        "text": "Which influential historical person was the author of Tao Te Ching and founder of Taoism?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture",
+        "religion",
+        "china"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "646339d101d576cfac3aa3c3",
+      "correctAnswer": "The Golden Fleece",
+      "incorrectAnswers": [
+        "The Trident of Poseidon",
+        "The Helm of Darkness",
+        "The Scepter of the Gods"
+      ],
+      "question": {
+        "text": "In Greek mythology, what did Jason steal from his Uncle Pelias?"
+      },
+      "tags": [
+        "society_and_culture",
+        "ancient_greece",
+        "mythology"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -365,15 +477,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f94b",
-      "correctAnswer": "The Manchurian Candidate",
+      "id": "622a1c347cc59eab6f94f942",
+      "correctAnswer": "The Shining",
       "incorrectAnswers": [
-        "The Shining",
-        "M",
-        "The Silence of the Lambs"
+        "The Silence of the Lambs",
+        "Casablanca",
+        "Caddyshack"
       ],
       "question": {
-        "text": "Which film contains the character 'Mrs. Iselin'?"
+        "text": "Which film contains the character 'Jack Torrance'?"
       },
       "tags": [
         "film",
@@ -387,17 +499,18 @@
     },
     {
       "category": "geography",
-      "id": "623742a5cb85f7ce9e949de2",
-      "correctAnswer": "Nuku'alofa",
+      "id": "62602e774b176d54800e3cdd",
+      "correctAnswer": "Taiwan",
       "incorrectAnswers": [
-        "Dhaka",
-        "Vaduz",
-        "Saint George's"
+        "Japan",
+        "Sri Lanka",
+        "Myanmar"
       ],
       "question": {
-        "text": "What is the capital city of Tonga?"
+        "text": "Where would you find the city of Kaohsiung?"
       },
       "tags": [
+        "cities",
         "geography"
       ],
       "type": "text_choice",
@@ -406,16 +519,98 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "6384b45e83dddfb71ee5e376",
-      "correctAnswer": "The Six Nations",
+      "category": "geography",
+      "id": "623742cdcb85f7ce9e949df2",
+      "correctAnswer": "Abu Dhabi",
       "incorrectAnswers": [
-        "The Open Championship",
-        "The FINA World Championships",
-        "The Hopman Cup"
+        "Rabat",
+        "Meccah",
+        "Islamabad"
       ],
       "question": {
-        "text": "Which of these is a Rugby competition?"
+        "text": "What is the capital city of United Arab Emirates?"
+      },
+      "tags": [
+        "the_middle_east",
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503c1",
+      "correctAnswer": "Sandwich Islands",
+      "incorrectAnswers": [
+        "James Islands",
+        "Victoria Islands",
+        "Brittania Islands"
+      ],
+      "question": {
+        "text": "When Cook Discovered The Hawaiian Islands What Did He Name Them?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570177a97013de78b552e",
+      "correctAnswer": "Graphite",
+      "incorrectAnswers": [
+        "Cobalt",
+        "Lead",
+        "Silicon"
+      ],
+      "question": {
+        "text": "Which of these is an allotrope of carbon?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950dfe",
+      "correctAnswer": "Adam Mickiewicz",
+      "incorrectAnswers": [
+        "Oscar Wilde",
+        "G. K. Chesterton",
+        "Marcel Proust"
+      ],
+      "question": {
+        "text": "Which author wrote 'Pan Tadeusz'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f9500a8",
+      "correctAnswer": "An Ice Skating Rink",
+      "incorrectAnswers": [
+        "A Football Pitch",
+        "A Tennis Court",
+        "A Rugby Pitch"
+      ],
+      "question": {
+        "text": "In the world of sport what has the maximum dimensions of 60 metres by 30 metres?"
       },
       "tags": [
         "sport"
@@ -426,215 +621,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcf7",
-      "correctAnswer": "John Stuart Mill",
-      "incorrectAnswers": [
-        "Thomas Hobbes",
-        "Ludwig Wittgenstein",
-        "William of Ockham"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'To do as one would be done by, and to love one's neighbor as oneself, constitute the ideal perfection of utilitarian morality'?"
-      },
-      "tags": [
-        "quotes",
-        "philosophy",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3d7cc59eab6f951c77",
-      "correctAnswer": "Trafalgar",
-      "incorrectAnswers": [
-        "Waterloo",
-        "Hastings",
-        "Bosworth Field"
-      ],
-      "question": {
-        "text": "21 October 1805 Is The Date Of Which Famous Battle?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95035f",
-      "correctAnswer": "Lee Harvey Oswald",
-      "incorrectAnswers": [
-        "John F Kennedy",
-        "John Lennon",
-        "Ronald Reagan"
-      ],
-      "question": {
-        "text": "Who Was Shot Dead In Dallas On 24th November 1963?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950fe9",
-      "correctAnswer": "Orionids",
-      "incorrectAnswers": [
-        "Lyrids",
-        "Perseids",
-        "Andromedids"
-      ],
-      "question": {
-        "text": "Which meteor shower occurs on the 21st October?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "648888d65dba6c873ef650ad",
-      "correctAnswer": "-cyte",
-      "incorrectAnswers": [
-        "-toma",
-        "-plasty",
-        "-ectomy"
-      ],
-      "question": {
-        "text": "What suffix is added to a word to denote a cell?"
-      },
-      "tags": [
-        "biology",
-        "medicine",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "636a5285990390307063f3a2",
-      "correctAnswer": "Let's Spend the Night Together",
-      "incorrectAnswers": [
-        "Blinded",
-        "Whiskey in a Jar",
-        "Sea of Love"
-      ],
-      "question": {
-        "text": "Which song, originally recorded by the Rolling Stones, was later covered by David Bowie?"
-      },
-      "tags": [
-        "music",
-        "cover_song",
-        "songs",
-        "musicians"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fe38",
-      "correctAnswer": "Afghani",
+      "id": "645f952f541c4d4fc8cf2ed1",
+      "correctAnswer": "94",
       "incorrectAnswers": [
-        "Rial",
-        "Dinar",
-        "Derum"
+        "97",
+        "89",
+        "91"
       ],
       "question": {
-        "text": "What is the basic unit of currency for Afghanistan?"
+        "text": "What is the result of the mathematical operation obtained by subtracting the number of Snow White's dwarfs from the original title number of 'Disney Dalmatians'?"
       },
       "tags": [
-        "currency",
-        "the_middle_east",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe9e",
-      "correctAnswer": "Rihanna",
-      "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Ricky Martin"
-      ],
-      "question": {
-        "text": "Which singer released the studio album 'Loud'?"
-      },
-      "tags": [
-        "music_albums",
-        "musicians",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc16",
-      "correctAnswer": "\"As God is my witness, I'll never be hungry again.\"",
-      "incorrectAnswers": [
-        "\"With great power comes great responsiblity.\"",
-        "\"Forget it, Jake, it's Chinatown.\"",
-        "\"I am Groot.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Gone with the Wind'?"
-      },
-      "tags": [
-        "film",
-        "quotes",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fafa",
-      "correctAnswer": "Cate Blanchett",
-      "incorrectAnswers": [
-        "Amy Adams",
-        "Sandra Bullock",
-        "Judi Dench"
-      ],
-      "question": {
-        "text": "Who won the 2013 Academy Award for Best Leading Actress for playing the role of Jasmine in Blue Jasmine?"
-      },
-      "tags": [
-        "acting",
-        "academy_awards",
-        "film",
-        "film_and_tv"
+        "numbers",
+        "mathematics",
+        "disney"
       ],
       "type": "text_choice",
       "difficulty": "hard",

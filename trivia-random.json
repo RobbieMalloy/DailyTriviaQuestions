@@ -1,86 +1,22 @@
 {
-  "gameDate": "2026-07-04",
+  "gameDate": "2026-07-05",
   "difficulty": "random",
   "results": [
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95037b",
-      "correctAnswer": "Henry II",
-      "incorrectAnswers": [
-        "William I",
-        "Richard III",
-        "Henry VIII"
-      ],
-      "question": {
-        "text": "Who Said \"Will No-One Rid Me Of This Turbulent Priest\"?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c3c7cc59eab6f95198e",
-      "correctAnswer": "Ladies Love Cool James",
-      "incorrectAnswers": [
-        "Live Laugh Cool Jokes",
-        "Little Lean Cool Jams",
-        "Look Look Cool Jives"
-      ],
-      "question": {
-        "text": "What does LL Cool J.'s name stand for?"
-      },
-      "tags": [
-        "pseudonyms",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "639c9da4929b90846f2fc97c",
-      "correctAnswer": "Classical",
-      "incorrectAnswers": [
-        "Gothic",
-        "Baroque",
-        "Modernist"
-      ],
-      "question": {
-        "text": "The Pantheon in Rome is an example of what style of architecture?"
-      },
-      "tags": [
-        "architecture",
-        "geography",
-        "buildings",
-        "italy"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "6262af424b176d54800e3db9",
-      "correctAnswer": "I don't care",
+      "id": "647638cef05ea6d6f587a143",
+      "correctAnswer": "A crop duster",
       "incorrectAnswers": [
-        "Interdependent carers",
-        "In da crew",
-        "I'm doing crap"
+        "A farm sprayer",
+        "A bug disperser",
+        "A zapper"
       ],
       "question": {
-        "text": "If someone typed the letters 'IDC' in a message, what would they mean?"
+        "text": "What is the name of the type of aircraft that spreads pesticides on large areas of farmland?"
       },
       "tags": [
-        "the_internet",
-        "initials",
+        "agriculture",
+        "aviation",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -89,19 +25,146 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950edc",
-      "correctAnswer": "H. G. Wells",
+      "category": "science",
+      "id": "622a1c397cc59eab6f950fc0",
+      "correctAnswer": "Laslo Biro",
       "incorrectAnswers": [
-        "Neil Gaiman",
-        "Arthur C. Clarke",
-        "C. S. Lewis"
+        "Franz Bic",
+        "Henry Sheaffer",
+        "Pièrre Montblanc"
       ],
       "question": {
-        "text": "Which author wrote 'The Invisible Man'?"
+        "text": "Who invented the ballpoint pen?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233854362eaad73716a8c5d",
+      "correctAnswer": "Casablanca",
+      "incorrectAnswers": [
+        "Casa del Sol",
+        "Casamor",
+        "Casa del Albus"
+      ],
+      "question": {
+        "text": "What seaport's name is Spanish for 'white house'?"
       },
       "tags": [
-        "literature",
+        "places",
+        "language",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374193cb85f7ce9e949d74",
+      "correctAnswer": "Windhoek",
+      "incorrectAnswers": [
+        "Caracas",
+        "Ashgabat",
+        "Accra"
+      ],
+      "question": {
+        "text": "What is the capital city of Namibia?"
+      },
+      "tags": [
+        "capital_cities",
+        "africa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515b9",
+      "correctAnswer": "Frangelico",
+      "incorrectAnswers": [
+        "Absinthe",
+        "Disaronno",
+        "Moscatel"
+      ],
+      "question": {
+        "text": "Which hazelnut liqueur is named for the hermit monk who made it 600 years ago? "
+      },
+      "tags": [
+        "drink",
+        "alcohol",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950ced",
+      "correctAnswer": "Queen",
+      "incorrectAnswers": [
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
+      ],
+      "question": {
+        "text": "Which British rock band released the song 'Somebody to Love'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63d9531d168979b94b2e4f9d",
+      "correctAnswer": "Jonas Salk",
+      "incorrectAnswers": [
+        "Edward Jenner",
+        "Alexander Fleming",
+        "Louis Pasteur"
+      ],
+      "question": {
+        "text": "Who developed the polio vaccine?"
+      },
+      "tags": [
+        "science",
+        "medicine",
+        "scientific_discoveries",
+        "people"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "646339ce01d576cfac3aa3b8",
+      "correctAnswer": "Tennyson",
+      "incorrectAnswers": [
+        "Keats",
+        "Shelley",
+        "Wordsworth"
+      ],
+      "question": {
+        "text": "Which later poet was heavily influenced by Lord Byron and wrote 'The Lord of Burleigh' in 1842?"
+      },
+      "tags": [
+        "poetry",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -111,152 +174,18 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "6396eeb96017b1e8e09020d2",
-      "correctAnswer": "A scientist in want of a companion creates a living creature, who turns out to be misunderstood and is subject to torment by all he meets",
+      "id": "622a1c367cc59eab6f950164",
+      "correctAnswer": "George Orwell",
       "incorrectAnswers": [
-        "A tiger visits a house for tea and eats everything it has inside",
-        "A boy makes friends with a Jewish boy at a concentration camp ",
-        "A brief history of space, science and time "
+        "Aldous Huxley",
+        "TS Elliot",
+        "Charles Dickens"
       ],
       "question": {
-        "text": "Which of these is the plot to the novel Frankenstein by Mary Shelley?"
+        "text": "Who wrote \"Animal Farm\"?"
       },
       "tags": [
-        "literature",
-        "arts_and_literature",
-        "novel",
-        "classic_novels",
-        "gothic",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639ae34b929b90846f2fc8c2",
-      "correctAnswer": "Nahuatl",
-      "incorrectAnswers": [
-        "Mayan",
-        "Mixtec",
-        "Otomi"
-      ],
-      "question": {
-        "text": "What was the primary language of the Aztecs?"
-      },
-      "tags": [
-        "history",
-        "aztecs",
-        "language"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb04",
-      "correctAnswer": "Gwyneth Paltrow",
-      "incorrectAnswers": [
-        "Cate Blanchett",
-        "Fernanda Montenegro",
-        "Meryl Streep"
-      ],
-      "question": {
-        "text": "Who won the 1998 Academy Award for Best Leading Actress for playing the role of Viola De Lesseps in Shakespeare in Love?"
-      },
-      "tags": [
-        "acting",
-        "academy_awards",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f609da29df7b05f7398",
-      "correctAnswer": "An agent of the secret police, spying on a writer and his lover, finds himself becoming absorbed by their lives.",
-      "incorrectAnswers": [
-        "A young F.B.I. cadet must receive the help of a cannibal to help catch another serial killer.",
-        "A screenwriter develops a relationship with a faded film star determined to make a return.",
-        "A mentally unstable veteran has urges for violence after witnessing decadence and sleaze."
-      ],
-      "question": {
-        "text": "What is the plot of the movie The Lives of Others?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "647129af64c916f9c84814b2",
-      "correctAnswer": "California",
-      "incorrectAnswers": [
-        "Texas",
-        "New York",
-        "Florida"
-      ],
-      "question": {
-        "text": "Which U.S. state has the largest sub-national economy in the world?"
-      },
-      "tags": [
-        "economics",
-        "us_states",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd6f9dc0dd3b72da64d19",
-      "correctAnswer": "2013",
-      "incorrectAnswers": [
-        "2011",
-        "2015",
-        "2017"
-      ],
-      "question": {
-        "text": "In which year was The Wolf of Wall Street first released in the cinema?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417dc00f96c4efe8d773e6",
-      "correctAnswer": "Tampa Bay Lightening",
-      "incorrectAnswers": [
-        "Tampa Bay Steelers",
-        "Tampa Bay Seahawks",
-        "Tamba Bay Wizards"
-      ],
-      "question": {
-        "text": "Which of these is a hockey team based in Tampa?"
-      },
-      "tags": [
-        "sport"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -265,20 +194,43 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c3b7cc59eab6f9516fc",
-      "correctAnswer": "John Lennon",
+      "id": "6293ecdc7f41d6338b96ef10",
+      "correctAnswer": "Zoroaster",
       "incorrectAnswers": [
-        "Muhammad Ali",
-        "Josef Stalin",
-        "Geri Halliwell"
+        "Antoine Laurent Lavoisier",
+        "James Watt",
+        "St. Augustine"
       ],
       "question": {
-        "text": "Who caused outrage with the quote 'We are more popular than Jesus now'?"
+        "text": "Which influential historical person was a religious prophet?"
       },
       "tags": [
-        "society_and_culture",
         "people",
-        "quotes"
+        "history",
+        "society_and_culture",
+        "religion"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ecd87f41d6338b96ef0f",
+      "correctAnswer": "A Chinese philosopher. ",
+      "incorrectAnswers": [
+        "Confirmed the theory that Earth revolves around The Sun.",
+        "Philosopher and mathematician who famously said “I think, therefore I am.”",
+        "Prophet of Islam."
+      ],
+      "question": {
+        "text": "Which of the following describes Mencius?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -287,15 +239,15 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c34",
-      "correctAnswer": "Depeche Mode",
+      "id": "622a1c397cc59eab6f950c9c",
+      "correctAnswer": "The Rolling Stones",
       "incorrectAnswers": [
-        "Level 42",
-        "Dead or Alive",
-        "Radiohead"
+        "McFly",
+        "Delirious?",
+        "Depeche Mode"
       ],
       "question": {
-        "text": "Which English band released the album 'Sounds of the Universe'?"
+        "text": "Which English rock band released the album 'A Bigger Bang'?"
       },
       "tags": [
         "music"
@@ -306,86 +258,21 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "625e9fa8796f721e95543fad",
-      "correctAnswer": "Puerto Rico",
+      "category": "music",
+      "id": "62506400e12f6dec240bdf92",
+      "correctAnswer": "Seasons in the Sun",
       "incorrectAnswers": [
-        "Sweden",
-        "Sri Lanka",
-        "Iceland"
+        "Genius of Love",
+        "867-5309 - Jenny",
+        "Bust a Move"
       ],
       "question": {
-        "text": "Which country's flag fits the description of 'Five equal horizontal bands of red alternating with white. A blue triangle on the left containing a white star.'?"
+        "text": "Terry Jacks had a one hit wonder in 1974 with which song?"
       },
       "tags": [
-        "flags",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "63b058724799123c67712f2f",
-      "correctAnswer": "Kangchenjunga",
-      "incorrectAnswers": [
-        "Nanda Devi",
-        "Kamet",
-        "Mt. Everest"
-      ],
-      "question": {
-        "text": "Which is the highest mountain in India?"
-      },
-      "tags": [
-        "india",
-        "mountains",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6463398e01d576cfac3aa38e",
-      "correctAnswer": "Lone Wolf",
-      "incorrectAnswers": [
-        "Black Sheep",
-        "Han Solo",
-        "Alpha Male"
-      ],
-      "question": {
-        "text": "What is the term for a canis lupus that prefers to live independent of others or leaves its pack?"
-      },
-      "tags": [
-        "animals",
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa2e",
-      "correctAnswer": "Ukiyo-e",
-      "incorrectAnswers": [
-        "Impressionism",
-        "Mannerism",
-        "Surrealism"
-      ],
-      "question": {
-        "text": "The painting \"The Great Wave off Kanagawa\" by Hokusai is a part of which art movement?"
-      },
-      "tags": [
-        "art",
-        "painting",
-        "japan"
+        "songs",
+        "one_hit_wonders",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -394,173 +281,17 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95075e",
-      "correctAnswer": "Kevin Costner",
+      "id": "625fd64ddc0dd3b72da64ce6",
+      "correctAnswer": "1972",
       "incorrectAnswers": [
-        "Dwayne Johnson",
-        "George Clooney",
-        "Gérard Depardieu"
+        "1954",
+        "1960",
+        "1966"
       ],
       "question": {
-        "text": "Which actor played the role of Superman's adoptive father in Batman v Superman: Dawn of Justice and Man of Steel?"
+        "text": "In which year was The Godfather released?"
       },
       "tags": [
-        "film_and_tv",
-        "acting",
-        "film",
-        "superman",
-        "dc",
-        "comics"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950ad7",
-      "correctAnswer": "France",
-      "incorrectAnswers": [
-        "Monaco",
-        "Algeria",
-        "Belgium"
-      ],
-      "question": {
-        "text": "Which of these countries borders Spain?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c377cc59eab6f95044e",
-      "correctAnswer": "His System Of Wind Force Indicators",
-      "incorrectAnswers": [
-        "Being the first person to circumnavigate the globe alone",
-        "Discovering Hawaii",
-        "Surviving adrift at sea for 2 weeks"
-      ],
-      "question": {
-        "text": "For what is the eighteenth and nineteenth century sailor Sir Francis Beaufort best remembered?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "645fcc90541c4d4fc8cf30a2",
-      "correctAnswer": "Helium",
-      "incorrectAnswers": [
-        "Nitrogen",
-        "Oxygen",
-        "Carbon dioxide"
-      ],
-      "question": {
-        "text": "In modern non-rigid airships, what gas replaced the explosive hydrogen gas used in past airships?"
-      },
-      "tags": [
-        "technology",
-        "science",
-        "aviation"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3b7cc59eab6f95173f",
-      "correctAnswer": "Mini",
-      "incorrectAnswers": [
-        "Beetle",
-        "Porsche 911",
-        "E-Type"
-      ],
-      "question": {
-        "text": "Which iconic car did Austin And Morris launch in 1959?"
-      },
-      "tags": [
-        "motoring",
-        "business",
-        "1950's",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "64dfa27da6681754ea052bb4",
-      "correctAnswer": "John Grisham",
-      "incorrectAnswers": [
-        "Stephen King",
-        "J.K. Rowling",
-        "Dan Brown"
-      ],
-      "question": {
-        "text": "Which author had a No. 1 bestseller in 2015 with his latest legal thriller 'Rogue Lawyer'?"
-      },
-      "tags": [
-        "authors",
-        "arts_and_literature",
-        "literature",
-        "novels"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ffbd",
-      "correctAnswer": "Malabo",
-      "incorrectAnswers": [
-        "Yaonde",
-        "Luanda",
-        "Bissau"
-      ],
-      "question": {
-        "text": "What is the capital of Equatorial Guinea?"
-      },
-      "tags": [
-        "capital_cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa63",
-      "correctAnswer": "Mahershala Ali",
-      "incorrectAnswers": [
-        "Jeff Bridges",
-        "Lucas Hedges",
-        "Dev Patel"
-      ],
-      "question": {
-        "text": "Who won the 2016 Academy Award for Best Supporting Actor for playing the role of Juan in Moonlight?"
-      },
-      "tags": [
-        "academy_awards",
-        "acting",
         "film",
         "film_and_tv"
       ],
@@ -570,22 +301,64 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd1e",
-      "correctAnswer": "G. W. F. Hegel",
+      "category": "arts_and_literature",
+      "id": "6495b50be831b1ab5aa11113",
+      "correctAnswer": "Vincent van Gogh",
       "incorrectAnswers": [
-        "Thomas Hobbes",
-        "Jean-Paul Sartre",
-        "Ludwig Wittgenstein"
+        "Pablo Picasso",
+        "Salvador Dali",
+        "Claude Monet"
       ],
       "question": {
-        "text": "Which philosopher famously said 'Only one man ever understood me, and he didn’t understand me'?"
+        "text": "Which famous artist went unnoticed during his life, and commited suicide aged 37 in 1890?"
       },
       "tags": [
-        "quotes",
-        "people",
-        "philosophy",
-        "society_and_culture"
+        "arts_and_literature",
+        "painting",
+        "art",
+        "people"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3b7cc59eab6f9513dd",
+      "correctAnswer": "Sherlock Holmes",
+      "incorrectAnswers": [
+        "Robert Langdon series",
+        "Voyages Extraordinaires",
+        "Harry Potter"
+      ],
+      "question": {
+        "text": "In which book series does 'Dr. John Watson' appear?"
+      },
+      "tags": [
+        "literature",
+        "fictitious_characters",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624ab09d348a461bfc670688",
+      "correctAnswer": "Africa",
+      "incorrectAnswers": [
+        "North America",
+        "Central America",
+        "Europe"
+      ],
+      "question": {
+        "text": "Where in the world are artichokes originally from?"
+      },
+      "tags": [
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -594,21 +367,82 @@
     },
     {
       "category": "history",
-      "id": "645aba3d158db1bd1779f1c9",
-      "correctAnswer": "St. Stephen",
+      "id": "622a1c3c7cc59eab6f9519f4",
+      "correctAnswer": "The Crimean War",
       "incorrectAnswers": [
-        "St. Marko",
-        "St. Cyril",
-        "St. Alexander"
+        "The Georgian War",
+        "The Istanbul War",
+        "The Odessan War"
       ],
       "question": {
-        "text": "Who was the first king of Hungary?"
+        "text": "What 19th century war was named after a peninsula in the Black Sea?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "64dfa5baa6681754ea052bc2",
+      "correctAnswer": "First person",
+      "incorrectAnswers": [
+        "Second person",
+        "Third person",
+        "Plural"
+      ],
+      "question": {
+        "text": "In language, 'me' is which type of pronoun?"
+      },
+      "tags": [
+        "grammar",
+        "language"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3c7cc59eab6f95187b",
+      "correctAnswer": "At a full moon",
+      "incorrectAnswers": [
+        "At midnight",
+        "On Halloween",
+        "On Mondays"
+      ],
+      "question": {
+        "text": "When do Werewolves appear?"
+      },
+      "tags": [
+        "mythology",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ec9f7f41d6338b96eefe",
+      "correctAnswer": "Voltaire",
+      "incorrectAnswers": [
+        "Euclid",
+        "Wilhelm Conrad Roentgen",
+        "Mencius"
+      ],
+      "question": {
+        "text": "Which influential historical person was a key figure of the European Enlightenment whose satirical writings played a role in the French Revolution?"
       },
       "tags": [
         "people",
         "history",
-        "society_and_culture",
-        "hungary"
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -617,21 +451,39 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f95008f",
-      "correctAnswer": "Philadelphia Eagles",
+      "id": "622a1c347cc59eab6f94f88b",
+      "correctAnswer": "Tennis",
       "incorrectAnswers": [
-        "New England Patriots",
-        "Miami Dolphins",
-        "Dallas Cowboys"
+        "Badminton",
+        "Cycling",
+        "Basketball"
       ],
       "question": {
-        "text": "What football team was formerly known as the Frankford Yellow Jackets?"
+        "text": "With which sport is Steffi Graf associated?"
       },
       "tags": [
-        "previous_names",
-        "sport",
-        "american_football",
-        "football"
+        "people",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f950174",
+      "correctAnswer": "Hamlet",
+      "incorrectAnswers": [
+        "Macbeth",
+        "Juliette",
+        "King Lear"
+      ],
+      "question": {
+        "text": "Which Shakespearean Character has the most lines in a single play?"
+      },
+      "tags": [
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -639,24 +491,147 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcff",
-      "correctAnswer": "Anaxagoras",
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515b8",
+      "correctAnswer": "In A Clay Oven",
       "incorrectAnswers": [
-        "Denis Diderot",
-        "Ludwig Wittgenstein",
-        "Socrates"
+        "On a skewer",
+        "Boiled",
+        "Pureed"
       ],
       "question": {
-        "text": "Which philosopher famously said 'In everything, there is a share of everything'?"
+        "text": "How Are Tandoori Dishes Cooked?"
       },
       "tags": [
-        "philosophy",
-        "quotes",
-        "society_and_culture"
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510ad",
+      "correctAnswer": "Eyes",
+      "incorrectAnswers": [
+        "Stinger",
+        "Wings",
+        "Lungs"
+      ],
+      "question": {
+        "text": "Honey Bees have hair on their ________. "
+      },
+      "tags": [
+        "animals",
+        "biology",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fef",
+      "correctAnswer": "Sciatic nerve",
+      "incorrectAnswers": [
+        "Optic nerve",
+        "Lumbar plexus",
+        "Ulnar nerve"
+      ],
+      "question": {
+        "text": "Which is the largest nerve in the Human Body?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3b7cc59eab6f9513ad",
+      "correctAnswer": "Pride and Prejudice",
+      "incorrectAnswers": [
+        "The Fault in Our Stars",
+        "Ship of Fools",
+        "War and Peace"
+      ],
+      "question": {
+        "text": "In which book does 'George Wickham' appear?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950541",
+      "correctAnswer": "the process of human psychological evolution",
+      "incorrectAnswers": [
+        "eggs",
+        "the study of picture postcards",
+        "sacred texts"
+      ],
+      "question": {
+        "text": "What is Evolutionary psychology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "64ce98407f0714b9a0ca5e6e",
+      "correctAnswer": "Butterflying",
+      "incorrectAnswers": [
+        "Basting",
+        "Marinating",
+        "Julienning"
+      ],
+      "question": {
+        "text": "What is the name for the preparation of meat for grilling by splitting it down the middle?"
+      },
+      "tags": [
+        "cooking",
+        "meat",
+        "food_and_drink",
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c377cc59eab6f9507ec",
+      "correctAnswer": "North America",
+      "incorrectAnswers": [
+        "South America",
+        "Oceania",
+        "Europe"
+      ],
+      "question": {
+        "text": "The country of Saint Lucia is on which continent?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     }
