@@ -1,23 +1,21 @@
 {
-  "gameDate": "2026-07-05",
+  "gameDate": "2026-07-06",
   "difficulty": "hard",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbdd",
-      "correctAnswer": "\"It’s the sense of touch. In any real city, you walk, you know? You brush past people, people bump into you. In L.A., nobody touches you. We’re always behind this metal and glass. I think we miss that touch so much, that we crash into each other, just so we can feel something.\"",
+      "category": "sport_and_leisure",
+      "id": "62399f2caf96521963a08721",
+      "correctAnswer": "France",
       "incorrectAnswers": [
-        "\"May the Force be with you.\"",
-        "\"Here's looking at you, kid.\"",
-        "\"What is this? A center for ants? How can we be expected to teach children to learn how to read…if they can’t even fit inside the building?\""
+        "Brazil",
+        "Italy",
+        "Chile"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Crash'?"
+        "text": "Which country hosted the 1938 FIFA World Cup?"
       },
       "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -26,15 +24,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb3b",
-      "correctAnswer": "American Beauty",
+      "id": "622a1c347cc59eab6f94fb25",
+      "correctAnswer": "Nomadland",
       "incorrectAnswers": [
-        "The Cider House Rules",
-        "The Green Mile",
-        "The Insider"
+        "The Father",
+        "Judas and the Black Messiah",
+        "Mank"
       ],
       "question": {
-        "text": "Which film won the Academy Award for Best Picture in 1999?"
+        "text": "Which film won the Academy Award for Best Picture in 2020?"
       },
       "tags": [
         "academy_awards",
@@ -47,16 +45,78 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f950217",
-      "correctAnswer": "Ridley Scott",
+      "category": "history",
+      "id": "62611fab4b176d54800e3d69",
+      "correctAnswer": "1943",
       "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
+        "1911",
+        "1968",
+        "1924"
       ],
       "question": {
-        "text": "Which director directed Blade Runner?"
+        "text": "When was the first dialysis machine created?"
+      },
+      "tags": [
+        "events",
+        "firsts",
+        "medicine"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f42",
+      "correctAnswer": "Edgar Allan Poe",
+      "incorrectAnswers": [
+        "Stephen King",
+        "Nathaniel Hawthorne",
+        "Mario Puzo"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Bells'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ed1",
+      "correctAnswer": "Nikolai Gogol",
+      "incorrectAnswers": [
+        "Virginia Woolf",
+        "Alexander Pushkin",
+        "Ayn Rand"
+      ],
+      "question": {
+        "text": "Which author wrote 'Evenings on a Farm Near Dikanka'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9505ce",
+      "correctAnswer": "Hilary Duff",
+      "incorrectAnswers": [
+        "Olivia Wilde",
+        "Madonna",
+        "Sophia Loren"
+      ],
+      "question": {
+        "text": "Which actress has played roles in both Gossip Girl and Ghost Whisperer?"
       },
       "tags": [
         "film_and_tv"
@@ -67,16 +127,209 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "625740c69da29df7b05f73f7",
-      "correctAnswer": "A rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position.",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa19",
+      "correctAnswer": "Jan van Eyck",
       "incorrectAnswers": [
-        "A naive youth leader is appointed to fill a vacancy in the U.S. Senate.",
-        "After a girl is uprooted from her life, her emotions conflict on how best to navigate a new life.",
-        "A family heads to a hotel for the winter where a presence influences the father into violence."
+        "‎Salvador Dalí",
+        "Cassius Marcellus Coolidge",
+        "Sandro Botticelli"
       ],
       "question": {
-        "text": "What is the plot of the movie Barry Lyndon?"
+        "text": "Which artist painted \"The Arnolfini Marriage\""
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9501e1",
+      "correctAnswer": "Robert Zemeckis",
+      "incorrectAnswers": [
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
+      ],
+      "question": {
+        "text": "Which director directed Forrest Gump?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374149cb85f7ce9e949d56",
+      "correctAnswer": "Male",
+      "incorrectAnswers": [
+        "Asunción",
+        "Nicosia",
+        "Dodoma"
+      ],
+      "question": {
+        "text": "What is the capital city of Maldives?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950276",
+      "correctAnswer": "Rum ",
+      "incorrectAnswers": [
+        "Vodka",
+        "Whiskey",
+        "Brandy"
+      ],
+      "question": {
+        "text": "Which Alcoholic drink is the main ingredient of the cocktail 'Zombie'?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6355b7e4e8b368eed3a68234",
+      "correctAnswer": "plosive",
+      "incorrectAnswers": [
+        "nasal",
+        "approximant",
+        "fricative"
+      ],
+      "question": {
+        "text": "In phonetics, the b in 'boat' is an example of what kind of sound?"
+      },
+      "tags": [
+        "language",
+        "linguistics",
+        "general_knowledge",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f9500c8",
+      "correctAnswer": "Five",
+      "incorrectAnswers": [
+        "Twelve",
+        "Two",
+        "Nine"
+      ],
+      "question": {
+        "text": "How Many Consecutive Wimbledon Titles Did Bjorn Borg Win?"
+      },
+      "tags": [
+        "sport",
+        "tennis",
+        "people"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6271645f1ba117625baac95b",
+      "correctAnswer": "Turkey",
+      "incorrectAnswers": [
+        "Spain",
+        "France",
+        "Taiwan"
+      ],
+      "question": {
+        "text": "Which country is associated with the drink rakı?"
+      },
+      "tags": [
+        "drink",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa41",
+      "correctAnswer": "Neoclassicism",
+      "incorrectAnswers": [
+        "Baroque",
+        "Dutch Golden Age",
+        "High Renaissance"
+      ],
+      "question": {
+        "text": "The painting \"The Grand Odalisque\" by Jean Auguste Dominique Ingres is a part of which art movement?"
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f92b",
+      "correctAnswer": "Being There",
+      "incorrectAnswers": [
+        "The Godfather",
+        "Pirates of the Caribbean",
+        "Wall Street"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Chance the Gardener'?"
+      },
+      "tags": [
+        "film",
+        "fictitious_characters",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd725dc0dd3b72da64d26",
+      "correctAnswer": "1996",
+      "incorrectAnswers": [
+        "1992",
+        "2000",
+        "2004"
+      ],
+      "question": {
+        "text": "In which year was Fargo first released in the cinema?"
       },
       "tags": [
         "film",
@@ -89,20 +342,20 @@
     },
     {
       "category": "science",
-      "id": "6244372e746187c5e7be9339",
-      "correctAnswer": "Baking Soda",
+      "id": "622a1c3f7cc59eab6f9523a4",
+      "correctAnswer": "Stomata",
       "incorrectAnswers": [
-        "Bleach",
-        "Table Salt",
-        "Dolomite"
+        "Stigma",
+        "Sepal",
+        "Petal"
       ],
       "question": {
-        "text": "What is the common name for sodium bicarbonate?"
+        "text": "What word describes the porous openings on the surface of leaves?"
       },
       "tags": [
-        "chemistry",
-        "general_knowledge",
-        "names",
+        "words",
+        "biology",
+        "plants",
         "science"
       ],
       "type": "text_choice",
@@ -111,20 +364,62 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f85f",
-      "correctAnswer": "Motor Racing",
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950a1a",
+      "correctAnswer": "France",
       "incorrectAnswers": [
-        "Cycling",
-        "Tennis",
-        "Cricket"
+        "Luxembourg",
+        "Denmark",
+        "Switzerland"
       ],
       "question": {
-        "text": "With which sport is Sterling Moss associated?"
+        "text": "Which of these countries borders Kingdom of the Netherlands?"
       },
       "tags": [
-        "people",
-        "sport"
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c3a7cc59eab6f951017",
+      "correctAnswer": "Chevrolet",
+      "incorrectAnswers": [
+        "Ford",
+        "Gmc",
+        "Pontiac"
+      ],
+      "question": {
+        "text": "What Make Of Car Did Don Mclean Drive To The Levy In American Pie?"
+      },
+      "tags": [
+        "lyrics",
+        "songs",
+        "motoring",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9501d9",
+      "correctAnswer": "Chris Columbus",
+      "incorrectAnswers": [
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
+      ],
+      "question": {
+        "text": "Which director directed Home Alone?"
+      },
+      "tags": [
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -133,15 +428,15 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcc0",
-      "correctAnswer": "Kra–Dai",
+      "id": "622a1c357cc59eab6f94fcc2",
+      "correctAnswer": "Afroasiatic",
       "incorrectAnswers": [
+        "Turkic",
         "Sino-Tibetan",
-        "Austroasiatic",
-        "Afroasiatic"
+        "Kra–Dai"
       ],
       "question": {
-        "text": "The language 'Thai' belongs to which language family?"
+        "text": "The language 'Saʽidi Arabic' belongs to which language family?"
       },
       "tags": [
         "language",
@@ -153,19 +448,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62374291cb85f7ce9e949dda",
-      "correctAnswer": "Dodoma",
+      "category": "sport_and_leisure",
+      "id": "647edb8d520523194910c34d",
+      "correctAnswer": "Mahjong",
       "incorrectAnswers": [
-        "Dushanbe",
-        "N'Djamena",
-        "Juba"
+        "Sudoku",
+        "Shogi",
+        "Go"
       ],
       "question": {
-        "text": "What is the capital city of Tanzania?"
+        "text": "What game involves tiles with dots, cracks, and bams?"
       },
       "tags": [
-        "geography"
+        "games",
+        "board_games"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -174,150 +470,21 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950145",
-      "correctAnswer": "Oscar Wilde",
+      "id": "622a1c3a7cc59eab6f95131a",
+      "correctAnswer": "The Tabard",
       "incorrectAnswers": [
-        "Edgar Allen Poe",
-        "Victor Hugo",
-        "William Shakespeare"
+        "The King's Head",
+        "The Red Lion",
+        "The Altar"
       ],
       "question": {
-        "text": "Whose works the \"Ballad Of Reading Gaol\" and \"De Profundis\" were written from his experiences in prison?"
+        "text": "In \"The Canterbury Tales\", at which tavern do the story tellers assemble?"
       },
       "tags": [
+        "arts_and_literature",
         "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "625006520d86c8f685d80ee2",
-      "correctAnswer": "Strand pasta",
-      "incorrectAnswers": [
-        "Soup pasta",
-        "Ribbon pasta",
-        "Tubular pasta"
-      ],
-      "question": {
-        "text": "What type of pasta is bigoli?"
-      },
-      "tags": [
-        "food",
-        "italy",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f992",
-      "correctAnswer": "A Confederacy of Dunces",
-      "incorrectAnswers": [
-        "Tinker",
-        "All the King's Men",
-        "We Have Always Lived in the Castle"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Ignatius Reilly'?"
-      },
-      "tags": [
-        "fictitious_characters",
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "647f9deb3a4302a719271662",
-      "correctAnswer": "Hamlet",
-      "incorrectAnswers": [
-        "Othello",
-        "Macbeth",
-        "Romeo and Juliet"
-      ],
-      "question": {
-        "text": "Which Shakespearean play opens on the battlements of the castle at Elsinore as Barnardo asks, \"Who's there?\""
-      },
-      "tags": [
-        "literature",
-        "theater",
-        "shakespeare",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623740b1cb85f7ce9e949d18",
-      "correctAnswer": "Tegucigalpa",
-      "incorrectAnswers": [
-        "Bangkok",
-        "San Salvador",
-        "Kinshasa"
-      ],
-      "question": {
-        "text": "What is the capital city of Honduras?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f950",
-      "correctAnswer": "The Color Purple",
-      "incorrectAnswers": [
-        "My Life As a Man",
-        "To Kill A Mockingbird",
-        "The Metamorphosis"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Celie'?"
-      },
-      "tags": [
-        "film",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6250647ee12f6dec240bdfb7",
-      "correctAnswer": "Epic",
-      "incorrectAnswers": [
-        "Genius of Love",
-        "Electric Avenue",
-        "96 Tears"
-      ],
-      "question": {
-        "text": "What song did Faith No More have a hit with in 1990?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
+        "medieval",
+        "middle_ages"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -326,15 +493,38 @@
     },
     {
       "category": "science",
-      "id": "6242cb8cd543524f1b19c939",
-      "correctAnswer": "A field",
+      "id": "647edb90520523194910c35c",
+      "correctAnswer": "Dermatitis",
       "incorrectAnswers": [
-        "A parliament",
-        "A yoke",
-        "A troop"
+        "Eczema",
+        "Psoriasis",
+        "Acne"
       ],
       "question": {
-        "text": "What is the word for a group of racehorses?"
+        "text": "What term is used to describe a number of skin inflammations and is from the Greek word for 'skin'?"
+      },
+      "tags": [
+        "medicine",
+        "language",
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95046a",
+      "correctAnswer": "Flags",
+      "incorrectAnswers": [
+        "Spiders",
+        "Languages",
+        "God"
+      ],
+      "question": {
+        "text": "What is Vexillology the study of?"
       },
       "tags": [
         "science"
@@ -345,215 +535,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b59",
-      "correctAnswer": "Emerson, Lake & Palmer",
-      "incorrectAnswers": [
-        "Supertramp",
-        "UB40",
-        "Editors"
-      ],
-      "question": {
-        "text": "Which English progressive rock band released the song 'Lucky Man'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417ce80f96c4efe8d77391",
-      "correctAnswer": "Chicago Blackhawks",
-      "incorrectAnswers": [
-        "Chicago Thunder",
-        "Chicago Steelers",
-        "Chicago Suns"
-      ],
-      "question": {
-        "text": "Which of these is a hockey team based in Chicago?"
-      },
-      "tags": [
-        "chicago",
-        "animals",
-        "hockey",
-        "nhl",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "6477ba5c550bc819ad646a89",
-      "correctAnswer": "Starsky and Hutch",
+      "id": "622a1c347cc59eab6f94f8f0",
+      "correctAnswer": "Bill Murray",
       "incorrectAnswers": [
-        "Cagney and Lacey",
-        "Simon and Simon",
-        "Tango and Cash"
+        "Jeff Bridges",
+        "John Belushi",
+        "Joe Pesci"
       ],
       "question": {
-        "text": "Which TV show followed a pair of streetwise cops played by Paul Michael Glaser and David Soul?"
-      },
-      "tags": [
-        "tv",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c3c7cc59eab6f951afd",
-      "correctAnswer": "Romania",
-      "incorrectAnswers": [
-        "Poland",
-        "Ireland",
-        "France"
-      ],
-      "question": {
-        "text": "In Which Modern Day Country Would You Find The Region Known As Transylvania?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ec9b7f41d6338b96eefd",
-      "correctAnswer": "Lao Tzu",
-      "incorrectAnswers": [
-        "Zoroaster",
-        "Mao Zedong",
-        "Sun Tzu"
-      ],
-      "question": {
-        "text": "Which influential historical person was the author of Tao Te Ching and founder of Taoism?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "society_and_culture",
-        "religion",
-        "china"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "646339d101d576cfac3aa3c3",
-      "correctAnswer": "The Golden Fleece",
-      "incorrectAnswers": [
-        "The Trident of Poseidon",
-        "The Helm of Darkness",
-        "The Scepter of the Gods"
-      ],
-      "question": {
-        "text": "In Greek mythology, what did Jason steal from his Uncle Pelias?"
-      },
-      "tags": [
-        "society_and_culture",
-        "ancient_greece",
-        "mythology"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f942",
-      "correctAnswer": "The Shining",
-      "incorrectAnswers": [
-        "The Silence of the Lambs",
-        "Casablanca",
-        "Caddyshack"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Jack Torrance'?"
+        "text": "Which actor played the role of Carl Spackler in Caddyshack?"
       },
       "tags": [
         "film",
-        "fictitious_characters",
         "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602e774b176d54800e3cdd",
-      "correctAnswer": "Taiwan",
-      "incorrectAnswers": [
-        "Japan",
-        "Sri Lanka",
-        "Myanmar"
-      ],
-      "question": {
-        "text": "Where would you find the city of Kaohsiung?"
-      },
-      "tags": [
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623742cdcb85f7ce9e949df2",
-      "correctAnswer": "Abu Dhabi",
-      "incorrectAnswers": [
-        "Rabat",
-        "Meccah",
-        "Islamabad"
-      ],
-      "question": {
-        "text": "What is the capital city of United Arab Emirates?"
-      },
-      "tags": [
-        "the_middle_east",
-        "capital_cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503c1",
-      "correctAnswer": "Sandwich Islands",
-      "incorrectAnswers": [
-        "James Islands",
-        "Victoria Islands",
-        "Brittania Islands"
-      ],
-      "question": {
-        "text": "When Cook Discovered The Hawaiian Islands What Did He Name Them?"
-      },
-      "tags": [
-        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -562,80 +557,84 @@
     },
     {
       "category": "science",
-      "id": "650570177a97013de78b552e",
-      "correctAnswer": "Graphite",
+      "id": "622a1c377cc59eab6f950555",
+      "correctAnswer": "The influence of soil on life",
       "incorrectAnswers": [
-        "Cobalt",
-        "Lead",
-        "Silicon"
+        "Classical music",
+        "The characteristics of the skull",
+        "Bacteria and fungal spores"
       ],
       "question": {
-        "text": "Which of these is an allotrope of carbon?"
+        "text": "What is Edaphology the study of?"
       },
       "tags": [
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f95079c",
+      "correctAnswer": "Brad Pitt",
+      "incorrectAnswers": [
+        "Matt Damon",
+        "Robert De Niro",
+        "George Clooney"
+      ],
+      "question": {
+        "text": "Which actor has starred in films including Deadpool 2 and Inglourious Basterds?"
+      },
+      "tags": [
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645cb0e67d263fd509704389",
+      "correctAnswer": "a metrosexual",
+      "incorrectAnswers": [
+        "a dickie bow",
+        "a hipster",
+        "a natty dresser"
+      ],
+      "question": {
+        "text": "What slang word is often applied to an urban man who is fastidious about his grooming and fashion?"
+      },
+      "tags": [
+        "words",
+        "slang",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950486",
+      "correctAnswer": "especially as related to Christianity",
+      "incorrectAnswers": [
+        "human beings killing other human beings",
+        "the study and design of machines at the molecular level",
+        "the physiological bases of psychological processes"
+      ],
+      "question": {
+        "text": "What is Soteriology the study of?"
+      },
+      "tags": [
+        "words",
         "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950dfe",
-      "correctAnswer": "Adam Mickiewicz",
-      "incorrectAnswers": [
-        "Oscar Wilde",
-        "G. K. Chesterton",
-        "Marcel Proust"
-      ],
-      "question": {
-        "text": "Which author wrote 'Pan Tadeusz'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500a8",
-      "correctAnswer": "An Ice Skating Rink",
-      "incorrectAnswers": [
-        "A Football Pitch",
-        "A Tennis Court",
-        "A Rugby Pitch"
-      ],
-      "question": {
-        "text": "In the world of sport what has the maximum dimensions of 60 metres by 30 metres?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "645f952f541c4d4fc8cf2ed1",
-      "correctAnswer": "94",
-      "incorrectAnswers": [
-        "97",
-        "89",
-        "91"
-      ],
-      "question": {
-        "text": "What is the result of the mathematical operation obtained by subtracting the number of Snow White's dwarfs from the original title number of 'Disney Dalmatians'?"
-      },
-      "tags": [
-        "numbers",
-        "mathematics",
-        "disney"
       ],
       "type": "text_choice",
       "difficulty": "hard",
