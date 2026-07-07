@@ -1,21 +1,22 @@
 {
-  "gameDate": "2026-07-06",
+  "gameDate": "2026-07-07",
   "difficulty": "easy",
   "results": [
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95048b",
-      "correctAnswer": "society",
+      "category": "food_and_drink",
+      "id": "6271643d1ba117625baac951",
+      "correctAnswer": "Ireland",
       "incorrectAnswers": [
-        "bones",
-        "the preparation of books and manuscripts",
-        "nematodes"
+        "Romania",
+        "Mongolia",
+        "Finland"
       ],
       "question": {
-        "text": "What is Sociology the study of?"
+        "text": "In which country is guinness a popular drink?"
       },
       "tags": [
-        "science"
+        "drink",
+        "alcohol"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -24,17 +25,20 @@
     },
     {
       "category": "geography",
-      "id": "6233861762eaad73716a8cb1",
-      "correctAnswer": "India",
+      "id": "62602d0a4b176d54800e3c7a",
+      "correctAnswer": "Toronto",
       "incorrectAnswers": [
-        "China",
-        "Russia",
-        "Saudi Arabia"
+        "New York",
+        "London",
+        "Minneapolis-St Paul"
       ],
       "question": {
-        "text": "Where is Kolkata?"
+        "text": "Which of these cities is in Canada?"
       },
       "tags": [
+        "cities",
+        "canada",
+        "general_knowledge",
         "geography"
       ],
       "type": "text_choice",
@@ -43,23 +47,66 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "64730798cf09068746f6377c",
-      "correctAnswer": "Abbreviate",
+      "category": "geography",
+      "id": "625e9e82796f721e95543f5b",
+      "correctAnswer": "Three equal vertical bands of blue white and red.",
       "incorrectAnswers": [
-        "Abolish",
-        "Abduct",
-        "Abhor"
+        "Three equal horizontal bands of red white and red.",
+        "Blue with a red cross outlined in white extending to the edges.",
+        "White with a large red disk in the center."
       ],
       "question": {
-        "text": "What is the verb that means to shorten a word or phrase by omitting letters?"
+        "text": "What does the flag of France look like?"
       },
       "tags": [
-        "vocabulary",
-        "grammar",
-        "words",
-        "language",
-        "general_knowledge"
+        "flags",
+        "france",
+        "europe",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b584dfd6c701a921183ae",
+      "correctAnswer": "Russia",
+      "incorrectAnswers": [
+        "Argentina",
+        "Hungary",
+        "Spain"
+      ],
+      "question": {
+        "text": "In which country would you find The Kremlin and Red Square?"
+      },
+      "tags": [
+        "tourist_attractions",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "65056f807a97013de78b545f",
+      "correctAnswer": "Tennis",
+      "incorrectAnswers": [
+        "Rugby",
+        "Golf",
+        "Polo"
+      ],
+      "question": {
+        "text": "Which sport keeps track of the score with the words \"deuce\" and \"advantage\"?"
+      },
+      "tags": [
+        "sport_and_leisure",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -68,15 +115,15 @@
     },
     {
       "category": "music",
-      "id": "648ee4224fe93387161138ab",
-      "correctAnswer": "Happy",
+      "id": "622a1c357cc59eab6f94ff51",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
-        "Joyful",
-        "Excited",
-        "Satisfied"
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "What is the one-word title of a 2014 Pharrell Williams hit?"
+        "text": "Which American singer released the song 'Wanna Be Startin' Somethin''?"
       },
       "tags": [
         "songs",
@@ -88,18 +135,42 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "65056e0a7a97013de78b5254",
-      "correctAnswer": "Conductor",
+      "category": "science",
+      "id": "650570277a97013de78b5545",
+      "correctAnswer": "Cataract",
       "incorrectAnswers": [
-        "Composer",
-        "Soloist",
-        "Concertmaster"
+        "Arthritis",
+        "Mumps",
+        "Jaundice"
       ],
       "question": {
-        "text": "Who directs an orchestra?"
+        "text": "Which of the following conditions can lead to blindness if left untreated?"
       },
       "tags": [
+        "science",
+        "health",
+        "medicine"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe83",
+      "correctAnswer": "Lady Gaga",
+      "incorrectAnswers": [
+        "Hikaru Utada",
+        "Drake",
+        "Madonna"
+      ],
+      "question": {
+        "text": "Which American singer, songwriter, and actress released the song 'Poker Face'?"
+      },
+      "tags": [
+        "songs",
+        "general_knowledge",
         "music"
       ],
       "type": "text_choice",
@@ -108,20 +179,82 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950aa4",
-      "correctAnswer": "United States of America",
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b4e",
+      "correctAnswer": "Bob Marley and the Wailers",
       "incorrectAnswers": [
-        "El Salvador",
-        "Honduras",
-        "Nicaragua"
+        "Bob Marley and the Bombs",
+        "Bob Marley and his Blues Band",
+        "The Swinging Bobs"
       ],
       "question": {
-        "text": "Which of these countries borders Mexico?"
+        "text": "What was the name of Bob Marley's band?"
       },
       "tags": [
-        "central_america",
-        "general_knowledge",
+        "music",
+        "bands",
+        "reggae"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d4e",
+      "correctAnswer": "One Direction",
+      "incorrectAnswers": [
+        "The Beatles",
+        "Talking Heads",
+        "Backstreet Boys"
+      ],
+      "question": {
+        "text": "Which band did Zayn Malik belong to?"
+      },
+      "tags": [
+        "people",
+        "music",
+        "bands"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3a7cc59eab6f950fdb",
+      "correctAnswer": "Grand Theft Auto",
+      "incorrectAnswers": [
+        "Gear to Advance",
+        "Grind Them All!",
+        "Go to America"
+      ],
+      "question": {
+        "text": "Which video game series is sometimes referred to as GTA?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c377cc59eab6f9507e0",
+      "correctAnswer": "Europe",
+      "incorrectAnswers": [
+        "South America",
+        "Oceania",
+        "Asia"
+      ],
+      "question": {
+        "text": "The country of Denmark is on which continent?"
+      },
+      "tags": [
         "geography"
       ],
       "type": "text_choice",
@@ -130,18 +263,22 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "64824e397778562fd76a961e",
-      "correctAnswer": "Illegible",
+      "category": "science",
+      "id": "645b9ebcf09106226db23572",
+      "correctAnswer": "An aftershock",
       "incorrectAnswers": [
-        "Invisible",
-        "Illicit",
-        "Illegal"
+        "A precursor",
+        "A temblor",
+        "A seismic wave"
       ],
       "question": {
-        "text": "What word describes something that is difficult to read, like with bad handwriting?"
+        "text": "What is the name for a small earthquake or tremor that occurs following a major one?"
       },
       "tags": [
+        "earthquakes",
+        "geology",
+        "seismology",
+        "science",
         "words"
       ],
       "type": "text_choice",
@@ -150,176 +287,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe67",
-      "correctAnswer": "Britney Spears",
-      "incorrectAnswers": [
-        "Madonna",
-        "Alanis Morissette",
-        "Nicki Minaj"
-      ],
-      "question": {
-        "text": "Which American singer, songwriter, dancer and actress released the song '...Baby One More Time'?"
-      },
-      "tags": [
-        "1990's",
-        "musicians",
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623740d8cb85f7ce9e949d28",
-      "correctAnswer": "Jerusalem",
-      "incorrectAnswers": [
-        "Tel Aviv",
-        "Tripoli",
-        "Damascus"
-      ],
-      "question": {
-        "text": "What is the capital city of Israel?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951373",
-      "correctAnswer": "The Lord of the Rings",
-      "incorrectAnswers": [
-        "Harry Potter",
-        "Red Rising",
-        "The Hunger Games"
-      ],
-      "question": {
-        "text": "In which book series does 'Frodo Baggins' appear?"
-      },
-      "tags": [
-        "fictitious_characters",
-        "literature",
-        "general_knowledge",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "62628849014f58b5fc1a3fd4",
-      "correctAnswer": "The Best a Man Can Get",
+      "id": "63b069424799123c67712f6f",
+      "correctAnswer": "Haka",
       "incorrectAnswers": [
-        "Quality never goes out of style",
-        "Easy, breezy, beautiful….",
-        "Maybe she's born with it"
+        "Tango",
+        "Flamenco",
+        "Salsa"
       ],
       "question": {
-        "text": "Which marketing slogan would you associate with Gillette?"
+        "text": "What is the name of the ceremonial war dance of the Maori people of New Zealand?"
       },
       "tags": [
-        "business",
-        "marketing",
-        "fashion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950dc2",
-      "correctAnswer": "The Beatles",
-      "incorrectAnswers": [
-        "The Rolling Stones",
-        "Metallica",
-        "Nirvana"
-      ],
-      "question": {
-        "text": "Which band had Ringo Starr as its drummer?"
-      },
-      "tags": [
-        "music",
-        "bands",
-        "people"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "649fcb35ebb41911d4cbd6cf",
-      "correctAnswer": "Barack Obama",
-      "incorrectAnswers": [
-        "Bill Clinton",
-        "George Bush",
-        "Donald Trump"
-      ],
-      "question": {
-        "text": "Which former US president's wife is called Michelle? "
-      },
-      "tags": [
-        "presidents",
-        "usa",
-        "people",
         "society_and_culture",
-        "world_leaders"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "638c77ea01e1a2ef6d1f146e",
-      "correctAnswer": "Priscilla",
-      "incorrectAnswers": [
-        "Francesca",
-        "Lisa Marie",
-        "Glady"
-      ],
-      "question": {
-        "text": "What was Elvis Presley's wife's name?"
-      },
-      "tags": [
-        "elvis_presley"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "645f952f541c4d4fc8cf2ec7",
-      "correctAnswer": "Neigh",
-      "incorrectAnswers": [
-        "Moo",
-        "Baa",
-        "Oink"
-      ],
-      "question": {
-        "text": "What is the sound made by a horse when it 'whinnies'?"
-      },
-      "tags": [
-        "sounds",
-        "horses",
-        "animals"
+        "dance",
+        "new_zealand"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -328,58 +310,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "62573f079da29df7b05f7383",
-      "correctAnswer": "A chaotic clown causes a masked vigilante one of his greatest tests.",
+      "id": "622a1c347cc59eab6f94fbe0",
+      "correctAnswer": "\"Nobody makes me bleed my own blood. Nobody!\"",
       "incorrectAnswers": [
-        "A stranger joins forces with a desperado to protect a widow from an assassin.",
-        "A woman works with a hardened boxing trainer to become a professional.",
-        "A suburban father has a mid-life crisis after becoming infatuated with his daughter's friend."
+        "\"Are you not entertained?\"",
+        "\"I have had it with these mother—— snakes on this mother—— plane!\"",
+        "\"What is this? A center for ants? How can we be expected to teach children to learn how to read…if they can’t even fit inside the building?\""
       ],
       "question": {
-        "text": "What is the plot of the movie The Dark Knight?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "639c9d98929b90846f2fc95f",
-      "correctAnswer": "Hinduism",
-      "incorrectAnswers": [
-        "Sunni",
-        "Shia",
-        "Sufism"
-      ],
-      "question": {
-        "text": "Which of the following is not one of the branches of Islam?"
-      },
-      "tags": [
-        "islam",
-        "religion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc10",
-      "correctAnswer": "\"Elementary, my dear Watson.\"",
-      "incorrectAnswers": [
-        "\"Keep your friends close, but your enemies closer.\"",
-        "\"My mother thanks you. My father thanks you. My sister thanks you. And I thank you.\"",
-        "\"My precious.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'The Adventures of Sherlock Holmes'?"
+        "text": "Which of these quotes is from the film 'Dodgeball: A True Underdog Story'?"
       },
       "tags": [
         "quotes",
@@ -392,115 +331,18 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff53",
-      "correctAnswer": "Michael Jackson",
-      "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
-      ],
-      "question": {
-        "text": "Which American singer released the album 'Dangerous'?"
-      },
-      "tags": [
-        "music_albums",
-        "musicians",
-        "1980's",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "622a1c3e7cc59eab6f9522a9",
-      "correctAnswer": "360",
+      "id": "622a1c377cc59eab6f9505a5",
+      "correctAnswer": "angels",
       "incorrectAnswers": [
-        "1",
-        "100",
-        "3.14"
-      ],
-      "question": {
-        "text": "How many degrees are there in a circle?"
-      },
-      "tags": [
-        "shapes",
-        "science",
-        "mathematics",
         "numbers",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "647f9df73a4302a719271698",
-      "correctAnswer": "Twister",
-      "incorrectAnswers": [
-        "Spinster",
-        "Twirlster",
-        "Rollster"
+        "religion",
+        "Semitic cultures"
       ],
       "question": {
-        "text": "What is the slang term commonly used for a tornado?"
+        "text": "What is Angelology the study of?"
       },
       "tags": [
-        "slang",
-        "natural_disasters",
-        "meteorology",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "63d95307168979b94b2e4f7e",
-      "correctAnswer": "Big Bang Theory",
-      "incorrectAnswers": [
-        "General Relativity",
-        "String Theory",
-        "Quantum Theory"
-      ],
-      "question": {
-        "text": "What is the name of the scientific theory that states that the universe began with a singularity?"
-      },
-      "tags": [
-        "science",
-        "physics",
-        "astrophysics",
-        "space"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "648889175dba6c873ef650de",
-      "correctAnswer": "Endangered species",
-      "incorrectAnswers": [
-        "Exotic species",
-        "Invasive species",
-        "Declining species"
-      ],
-      "question": {
-        "text": "What is the term for animals that are at risk of becoming extinct?"
-      },
-      "tags": [
-        "biology",
-        "animals",
-        "nature",
         "science"
       ],
       "type": "text_choice",
@@ -510,19 +352,18 @@
     },
     {
       "category": "geography",
-      "id": "62602dc44b176d54800e3cac",
-      "correctAnswer": "Glasgow",
+      "id": "62602d4b4b176d54800e3c8d",
+      "correctAnswer": "Israel",
       "incorrectAnswers": [
-        "Baltimore",
-        "Houston",
-        "Minneapolis-St Paul"
+        "Lebanon",
+        "Egypt",
+        "Qatar"
       ],
       "question": {
-        "text": "Which of these cities is in United Kingdom?"
+        "text": "In which country is the city of Tel Aviv?"
       },
       "tags": [
         "cities",
-        "europe",
         "geography"
       ],
       "type": "text_choice",
@@ -531,21 +372,24 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "63e4c353106de6ffa7d4a7d2",
-      "correctAnswer": "Red",
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950797",
+      "correctAnswer": "Robert Downey Jr.",
       "incorrectAnswers": [
-        "White",
-        "Blue",
-        "Purple"
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Tom Holland"
       ],
       "question": {
-        "text": "What is the traditional color associated with Valentine's Day?"
+        "text": "Which actor played the role of Iron Man in the Marvel Cinematic Universe?"
       },
       "tags": [
-        "society_and_culture",
-        "traditions",
-        "colours"
+        "acting",
+        "film",
+        "marvel",
+        "comics",
+        "mcu",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -553,20 +397,38 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "646b3ec40361c7fb32d6b6cf",
-      "correctAnswer": "Vatican City",
+      "category": "arts_and_literature",
+      "id": "69a432076bd7d78422530807",
+      "correctAnswer": "Japan",
       "incorrectAnswers": [
-        "Monaco",
-        "Nauru",
-        "San Marino"
+        "China",
+        "Korea",
+        "Thailand"
       ],
       "question": {
-        "text": "What is the smallest country in the world?"
+        "text": "Kabuki theatre originated in which country?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63adbd5f04c68cc1e14b8e1f",
+      "correctAnswer": "Geology",
+      "incorrectAnswers": [
+        "Astronomy",
+        "Magnetism",
+        "Meteorology"
+      ],
+      "question": {
+        "text": "What is the name of the science that studies the origin, history, and structure of the Earth?"
       },
       "tags": [
-        "geography",
-        "countries"
+        "geology",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -574,22 +436,22 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "645bc4634638d58091b1b9d2",
-      "correctAnswer": "Mamma Mia!",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950234",
+      "correctAnswer": "Ronald Mcdonald",
       "incorrectAnswers": [
-        "Grease",
-        "West Side Story",
-        "Les Misérables"
+        "The King",
+        "Donald Burger",
+        "Meato"
       ],
       "question": {
-        "text": "Which popular musical features the music of ABBA?"
+        "text": "Who is McDonald's mascot?"
       },
       "tags": [
-        "musicals",
-        "music",
-        "abba",
-        "theater"
+        "business",
+        "advertising",
+        "fictitious_characters",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -597,21 +459,21 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62602d3d4b176d54800e3c89",
-      "correctAnswer": "Shanghai",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc11",
+      "correctAnswer": "\"Mrs. Robinson, you're trying to seduce me. Aren't you?\"",
       "incorrectAnswers": [
-        "Brisbane",
-        "Yokohama",
-        "Osaka"
+        "\"Soylent Green is people!\"",
+        "\"Round up the usual suspects.\"",
+        "\"Just keep swimming.\""
       ],
       "question": {
-        "text": "Which of these cities is in China?"
+        "text": "Which of these quotes is from the film 'The Graduate'?"
       },
       "tags": [
-        "cities",
-        "asia",
-        "china"
+        "quotes",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -620,21 +482,18 @@
     },
     {
       "category": "science",
-      "id": "65056fa67a97013de78b5492",
-      "correctAnswer": "Husky",
+      "id": "622a1c3f7cc59eab6f9523bb",
+      "correctAnswer": "Tsunami",
       "incorrectAnswers": [
-        "Boxer",
-        "Dachshund",
-        "Dalmatian"
+        "Kahuna",
+        "Overflow",
+        "Grand Masif"
       ],
       "question": {
-        "text": "Which dog breed is commonly used as a sled dog in Arctic and subarctic regions?"
+        "text": "What is the name for a great wave resulting from an earthquake?"
       },
       "tags": [
-        "animals",
-        "dogs",
-        "sled-dog",
-        "husky"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -642,20 +501,152 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff4c",
-      "correctAnswer": "Michael Jackson",
+      "category": "society_and_culture",
+      "id": "65056f8e7a97013de78b5472",
+      "correctAnswer": "Conquistador",
       "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
+        "Esclavo",
+        "Babuino",
+        "Atormentador"
       ],
       "question": {
-        "text": "Who released the studio album 'Invincible'?"
+        "text": "What is the Spanish word for conqueror?"
       },
       "tags": [
-        "general_knowledge",
-        "music"
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f951369",
+      "correctAnswer": "Art deco",
+      "incorrectAnswers": [
+        "Cubism",
+        "Surrealism",
+        "Dadaism"
+      ],
+      "question": {
+        "text": "Which design style prevalent during the 1920s and 1930s was characterized by a sleek use of straight lines and slender forms?"
+      },
+      "tags": [
+        "art",
+        "1920's",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f3a3d2f5c16bfb8832f",
+      "correctAnswer": "Historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+      "incorrectAnswers": [
+        "A thief who steals secrets through dreams must plant an idea into the mind of a C.E.O.",
+        "The son of a city's mastermind falls in love with a working-class prophet.",
+        "An insomniac and a soap maker form an underground organisation that evolves into much more."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Forrest Gump?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6462624dab138b829b81e9e9",
+      "correctAnswer": "KFC",
+      "incorrectAnswers": [
+        "McDonald's",
+        "Burger King",
+        "Wendy's"
+      ],
+      "question": {
+        "text": "Which fast food is known for a menu that mainly contains fried chicken?"
+      },
+      "tags": [
+        "food",
+        "meat",
+        "fast_food",
+        "food_and_drink",
+        "business"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ea7",
+      "correctAnswer": "J. K. Rowling",
+      "incorrectAnswers": [
+        "Christopher Tolkien",
+        "Philip Pullman",
+        "C. S. Lewis"
+      ],
+      "question": {
+        "text": "Which author wrote 'Quidditch Through the Ages'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625741333d2f5c16bfb88345",
+      "correctAnswer": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine.",
+      "incorrectAnswers": [
+        "A Marine observes the effects of war on his fellow recruits from their boot camp training to fighting in a war.",
+        "The lives of mob hitmen, a boxer, a gangster and his wife, and a pair of bandits intertwine in four tales.",
+        "Historical events unfold from the perspective of an Alabama man with an IQ of 75."
+      ],
+      "question": {
+        "text": "What is the plot of the movie The Terminator?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "639ae873929b90846f2fc8df",
+      "correctAnswer": "Red",
+      "incorrectAnswers": [
+        "Blue",
+        "Green",
+        "Purple"
+      ],
+      "question": {
+        "text": "In Star Wars, what color is Darth Vader's lightsaber?"
+      },
+      "tags": [
+        "star_wars",
+        "film_and_tv",
+        "cult_films",
+        "film",
+        "science_fiction"
       ],
       "type": "text_choice",
       "difficulty": "easy",
