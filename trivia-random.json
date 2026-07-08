@@ -1,47 +1,23 @@
 {
-  "gameDate": "2026-07-07",
+  "gameDate": "2026-07-08",
   "difficulty": "random",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "625740a49da29df7b05f73ed",
-      "correctAnswer": "Chinatown",
+      "category": "science",
+      "id": "650570487a97013de78b5573",
+      "correctAnswer": "Low pressure",
       "incorrectAnswers": [
-        "Gran Torino",
-        "Up",
-        "Gone Girl"
+        "Ice formation",
+        "High wind speed",
+        "Snowfall"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'A detective hired to expose an adulterer finds himself caught up in a web of deceit.'"
+        "text": "What is the condition in the center of a tropical cyclone?"
       },
       "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f951791",
-      "correctAnswer": "Louis XIV",
-      "incorrectAnswers": [
-        "Henri III",
-        "Charles the Bald",
-        "Napoleon Bonaparte"
-      ],
-      "question": {
-        "text": "Which King of France was known as The Sun King?"
-      },
-      "tags": [
-        "france",
-        "leaders",
-        "nicknames",
-        "middle_ages",
-        "medieval",
-        "history"
+        "science",
+        "meteorology",
+        "weather"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -50,524 +26,61 @@
     },
     {
       "category": "geography",
-      "id": "64974e400752843c0d8aadaf",
-      "correctAnswer": "Nepal",
+      "id": "6233874b0161109f922aac16",
+      "correctAnswer": "Yemen ",
       "incorrectAnswers": [
-        "Sri Lanka",
-        "Bangladesh",
-        "Pakistan"
+        "Kuwait",
+        "Qatar",
+        "Saudi Arabia"
       ],
       "question": {
-        "text": "Which country is surrounded by India on three sides and China to the north?"
+        "text": "Which country at the southern tip of the Arabian Peninsula was previously known as Aden?"
       },
       "tags": [
-        "borders",
-        "asia",
-        "india",
-        "china",
-        "countries",
         "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950024",
-      "correctAnswer": "Tennis",
-      "incorrectAnswers": [
-        "Soccer",
-        "Badminton",
-        "Volleyball"
-      ],
-      "question": {
-        "text": "With which sport is Chris Evert Lloyd identified?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3d7cc59eab6f951ca3",
-      "correctAnswer": "9 Ladies Dancing",
-      "incorrectAnswers": [
-        "9 Lords a Leaping",
-        "9 Calling Birds",
-        "9 Pipers Piping"
-      ],
-      "question": {
-        "text": "What did 'my true love give to me' on the ninth day of Christmas?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3d7cc59eab6f951b9e",
-      "correctAnswer": "Mount Pelée",
-      "incorrectAnswers": [
-        "Krakatoa",
-        "Mount St Helen's",
-        "Mount Pinatubo"
-      ],
-      "question": {
-        "text": "Which volcano erupted in 1902, killing 30,000?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ec657f41d6338b96eeed",
-      "correctAnswer": "Christian theologian who developed a strict brand of Protestant Christianity.",
-      "incorrectAnswers": [
-        "Explorer, first European to reach India and establish a route for imperialism.",
-        "Inventor of the printing press.",
-        "Physicist who discovered electromagnetic waves or X-rays."
-      ],
-      "question": {
-        "text": "Which of the following describes John Calvin?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ebdc7f41d6338b96eec5",
-      "correctAnswer": "Moses",
-      "incorrectAnswers": [
-        "Mohammed",
-        "Frodo",
-        "Buddha"
-      ],
-      "question": {
-        "text": "Who of these was a key figure of Jewish/Christian history?"
-      },
-      "tags": [
-        "people",
-        "society_and_culture",
-        "christianity",
-        "judaism",
-        "religion"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639ae2de929b90846f2fc8be",
-      "correctAnswer": "Blót",
-      "incorrectAnswers": [
-        "Flägen",
-        "Midsommar",
-        "Odinskón"
-      ],
-      "question": {
-        "text": "What is the name of the Viking practice of sacrificing prisoners to their gods?"
-      },
-      "tags": [
-        "history",
-        "vikings",
-        "traditions"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcf8",
-      "correctAnswer": "Turkic",
-      "incorrectAnswers": [
-        "Koreanic",
-        "Afroasiatic",
-        "Niger–Congo"
-      ],
-      "question": {
-        "text": "The language 'Turkish' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f80",
-      "correctAnswer": "Stephen King",
+      "id": "622a1c347cc59eab6f94f97a",
+      "correctAnswer": "Master and Commander",
       "incorrectAnswers": [
-        "H. P. Lovecraft",
-        "Edgar Allan Poe",
-        "Jack Vance"
+        "Gone With the Wind",
+        "Heart of Darkness",
+        "The Thin Man"
       ],
       "question": {
-        "text": "Which author wrote 'It'?"
+        "text": "Which book contains the character 'Stephen Maturin'?"
       },
       "tags": [
+        "film",
+        "fictitious_characters",
         "arts_and_literature"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "639c9dbc929b90846f2fc9ac",
-      "correctAnswer": "The Ramayana",
-      "incorrectAnswers": [
-        "The Upanishads",
-        "The Bhagavad Gita",
-        "The Puranas"
-      ],
-      "question": {
-        "text": "What is the name of the Hindu scripture that contains the story of Sita?"
-      },
-      "tags": [
-        "hinduism",
-        "religion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
       "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "639ae86e929b90846f2fc8dd",
-      "correctAnswer": "Millennium Falcon",
-      "incorrectAnswers": [
-        "Razor Crest",
-        "Ebon Hawk",
-        "X-Wing"
-      ],
-      "question": {
-        "text": "In Star Wars, what is the name of Han Solo's ship?"
-      },
-      "tags": [
-        "star_wars",
-        "film_and_tv",
-        "film",
-        "science_fiction"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "music",
-      "id": "64824e287778562fd76a960e",
-      "correctAnswer": "Adele",
+      "id": "622a1c347cc59eab6f94fbac",
+      "correctAnswer": "\"What I Got\" by Sublime",
       "incorrectAnswers": [
-        "Taylor Swift",
-        "Ed Sheeran",
-        "Beyoncé"
+        "\"Rapper's Delight\" by Sugarhill Gang",
+        "\"Fergalicious\" by Fergie and will.i.am.",
+        "\"In da Club\" by 50 Cent"
       ],
       "question": {
-        "text": "Released in 2008, which artist's debut album was titled \"19\"?"
+        "text": "Which song begins with the lyrics: \"Early in the morning, risin' to the street / Light me up that cigarette, and I'll strap shoes on my feet...\"?"
       },
       "tags": [
-        "music",
-        "music_albums"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8ae",
-      "correctAnswer": "Swimming",
-      "incorrectAnswers": [
-        "Figure skating",
-        "Track and field",
-        "Boxing"
-      ],
-      "question": {
-        "text": "With which sport is Michael Phelps associated?"
-      },
-      "tags": [
-        "olympics",
-        "people",
-        "general_knowledge",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "646089a9de964ebc39016c64",
-      "correctAnswer": "Mount Olympus",
-      "incorrectAnswers": [
-        "Mount Everest",
-        "Mont Blanc",
-        "Mount Etna"
-      ],
-      "question": {
-        "text": "Which mountain was believed by the ancient Greeks to be the center of the Earth?"
-      },
-      "tags": [
-        "history",
-        "mythology",
-        "geography",
-        "ancient_greece",
-        "mountains"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "646339a001d576cfac3aa396",
-      "correctAnswer": "Cheers & Frasier",
-      "incorrectAnswers": [
-        "Seinfeld & Friends",
-        "The Big Bang Theory & How I Met Your Mother",
-        "The Office & Brooklyn Nine-Nine"
-      ],
-      "question": {
-        "text": "On which two popular sitcoms has Bebe Neuwirth played Dr. Lilith Sternin?"
-      },
-      "tags": [
-        "sitcoms",
-        "tv",
-        "film_and_tv",
-        "acting"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624dba59de6018633d31f6c1",
-      "correctAnswer": "Goldfinger",
-      "incorrectAnswers": [
-        "Casino Royale",
-        "Spectre",
-        "Dr. No"
-      ],
-      "question": {
-        "text": "Which James Bond theme song was performed by Shirley Bassey?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "soundtracks",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "639c9d9f929b90846f2fc972",
-      "correctAnswer": "Skyscraper",
-      "incorrectAnswers": [
-        "Cathedral",
-        "Museum",
-        "Stadium"
-      ],
-      "question": {
-        "text": "The Gherkin is a well-known London building designed by Norman Foster. What type of building is it?"
-      },
-      "tags": [
-        "architecture",
-        "geography",
-        "buildings",
-        "london",
-        "uk"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "647f9ded3a4302a71927167b",
-      "correctAnswer": "Frankfort",
-      "incorrectAnswers": [
-        "Louisville",
-        "Lexington",
-        "Bowling Green"
-      ],
-      "question": {
-        "text": "What is the capital of Kentucky?"
-      },
-      "tags": [
-        "usa",
-        "state_capitals",
-        "cities",
-        "kentucky",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9518fb",
-      "correctAnswer": "Botany Bay",
-      "incorrectAnswers": [
-        "Florida",
-        "Hong Kong",
-        "The Bay of Biscay"
-      ],
-      "question": {
-        "text": "What Was Formerly Called Stingray Harbour?"
-      },
-      "tags": [
-        "previous_names",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233853462eaad73716a8c57",
-      "correctAnswer": "The Nile",
-      "incorrectAnswers": [
-        "The Yangtze",
-        "The Ganges",
-        "The Mississippi"
-      ],
-      "question": {
-        "text": "What river is the Temple of Karnak near?"
-      },
-      "tags": [
-        "rivers",
-        "places",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "648ef5e04fe93387161138b8",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Yellow",
-        "Blue",
-        "Green"
-      ],
-      "question": {
-        "text": "What color is carmine?"
-      },
-      "tags": [
-        "colours",
-        "art"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "65056f7f7a97013de78b545e",
-      "correctAnswer": "Cricket",
-      "incorrectAnswers": [
-        "Javelin throw",
-        "Archery",
-        "Karate"
-      ],
-      "question": {
-        "text": "Which of these sports uses a ball?"
-      },
-      "tags": [
-        "sport_and_leisure",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951071",
-      "correctAnswer": "Leeches",
-      "incorrectAnswers": [
-        "Vampire Bats",
-        "Cobras",
-        "Wasps"
-      ],
-      "question": {
-        "text": "What Creatures Were Frequently Used To Bleed Patients In The Nineteeth Century?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c72",
-      "correctAnswer": "Linkin Park",
-      "incorrectAnswers": [
-        "Alice in Chains",
-        "Hollywood Undead",
-        "System of a Down"
-      ],
-      "question": {
-        "text": "Which American rock band released the studio album 'A Thousand Suns'?"
-      },
-      "tags": [
+        "lyrics",
+        "songs",
         "music"
       ],
       "type": "text_choice",
@@ -576,40 +89,49 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f950407",
-      "correctAnswer": "1914",
+      "category": "society_and_culture",
+      "id": "6496ac48e831b1ab5aa1114e",
+      "correctAnswer": "Stockholm",
       "incorrectAnswers": [
-        "1922",
-        "1937",
-        "1946"
+        "Madrid",
+        "Moscow",
+        "Athens"
       ],
       "question": {
-        "text": "On which Christmas day did English and German troops play football?"
+        "text": "What is the name of the city that is home to both the Nobel Museum and ABBA The Museum?"
       },
       "tags": [
-        "general_knowledge"
+        "museums",
+        "tourism",
+        "tourist_attractions",
+        "cities",
+        "society_and_culture",
+        "abba"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe49",
-      "correctAnswer": "Water",
+      "category": "history",
+      "id": "62611fa14b176d54800e3d66",
+      "correctAnswer": "1957",
       "incorrectAnswers": [
-        "Salt",
-        "Foliage",
-        "Human Settlement"
+        "1941",
+        "1949",
+        "1965"
       ],
       "question": {
-        "text": "Over 75% of the Earth's surface is covered by some form of _____."
+        "text": "When was the first satellite sent into orbit?"
       },
       "tags": [
-        "general_knowledge",
-        "geography"
+        "events",
+        "firsts",
+        "space_exploration",
+        "technology",
+        "cold_war",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -618,18 +140,62 @@
     },
     {
       "category": "geography",
-      "id": "623b580bfd6c701a92118394",
-      "correctAnswer": "USA",
+      "id": "62602e064b176d54800e3cbc",
+      "correctAnswer": "Napoli",
       "incorrectAnswers": [
-        "Croatia",
-        "Spain",
-        "Australia"
+        "Dublin",
+        "Leipzig",
+        "Athens"
       ],
       "question": {
-        "text": "In which country would you find the Carlsbad Caverns National Park?"
+        "text": "Which of these cities is in Italy?"
       },
       "tags": [
-        "tourist_attractions",
+        "cities",
+        "europe",
+        "italy",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6477bb12550bc819ad646b67",
+      "correctAnswer": "99",
+      "incorrectAnswers": [
+        "23",
+        "49",
+        "59"
+      ],
+      "question": {
+        "text": "What is the result of the mathematical expression 'fourscore & 19'?"
+      },
+      "tags": [
+        "numbers",
+        "mathematics",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b57e328c24aa8913945da",
+      "correctAnswer": "Guatemala",
+      "incorrectAnswers": [
+        "Bosnia & Herzegovina",
+        "Northern Ireland",
+        "Germany"
+      ],
+      "question": {
+        "text": "In which country would you find Tikal National Park?"
+      },
+      "tags": [
         "geography"
       ],
       "type": "text_choice",
@@ -638,16 +204,430 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa0d",
-      "correctAnswer": "Eugène Delacroix",
+      "category": "society_and_culture",
+      "id": "622a1c3b7cc59eab6f951728",
+      "correctAnswer": "Harry Truman",
       "incorrectAnswers": [
-        "Caravaggio",
-        "René Magritte",
-        "Pierre-Auguste Renoir"
+        "Richard Nixon",
+        "Barack Obama",
+        "Lyndon B. Johnson"
       ],
       "question": {
-        "text": "Which artist painted \"The Swing\""
+        "text": "Which US president popularized the phrase 'the buck stops here' with a sign on his desk?"
+      },
+      "tags": [
+        "society_and_culture",
+        "people",
+        "usa",
+        "quotes",
+        "leaders",
+        "presidents"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "647f9df73a4302a719271695",
+      "correctAnswer": "Pawns",
+      "incorrectAnswers": [
+        "Bishops",
+        "Knights",
+        "Rooks"
+      ],
+      "question": {
+        "text": "Which chess piece is the most common?"
+      },
+      "tags": [
+        "chess",
+        "board_games",
+        "games"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6371621b1bf863c45ca6c352",
+      "correctAnswer": "Acta non verba",
+      "incorrectAnswers": [
+        "Tempora mutantur et nos mutamur in illis",
+        "Calamus gladio fortior",
+        "Quam bene non quantum"
+      ],
+      "question": {
+        "text": "Which of these Latin phrases means 'Deeds, not words'?"
+      },
+      "tags": [
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "626288274b176d54800e3d8c",
+      "correctAnswer": "Share moments. Share life.",
+      "incorrectAnswers": [
+        "Your vision. Our future.",
+        "At the heart of the image",
+        "See what we mean"
+      ],
+      "question": {
+        "text": "What is the marketing slogan of Kodak?"
+      },
+      "tags": [
+        "business",
+        "marketing",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f950101",
+      "correctAnswer": "Zeus",
+      "incorrectAnswers": [
+        "Hephaestus",
+        "Agamemnon",
+        "Achilles"
+      ],
+      "question": {
+        "text": "Who was Hercules' father?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "646339a001d576cfac3aa3a0",
+      "correctAnswer": "Dover Castle",
+      "incorrectAnswers": [
+        "Windsor Castle",
+        "Buckingham Palace",
+        "Edinburgh Castle"
+      ],
+      "question": {
+        "text": "What is the name of the castle in Kent, England, from which one can see France on a clear day?"
+      },
+      "tags": [
+        "castles",
+        "uk",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "647edb90520523194910c355",
+      "correctAnswer": "Salma Hayek",
+      "incorrectAnswers": [
+        "Penelope Cruz",
+        "Cameron Diaz",
+        "Jennifer Lopez"
+      ],
+      "question": {
+        "text": "Who was the executive producer of 'Ugly Betty' and also guest starred as Sofia Reyes?"
+      },
+      "tags": [
+        "film_and_tv",
+        "tv",
+        "acting"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242caf8d543524f1b19c8ff",
+      "correctAnswer": "A sloth",
+      "incorrectAnswers": [
+        "A rag",
+        "A paddling",
+        "A sedge"
+      ],
+      "question": {
+        "text": "What is the word for a group of bears?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "645cb1257d263fd50970439f",
+      "correctAnswer": "Pennsylvania Avenue",
+      "incorrectAnswers": [
+        "Broadway",
+        "Fifth Avenue",
+        "Star Walk"
+      ],
+      "question": {
+        "text": "What is the name of the street that runs from the White House to the Capitol and is used for ceremonial parades?"
+      },
+      "tags": [
+        "washington_dc",
+        "cities",
+        "roads",
+        "geography",
+        "usa"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6462620fab138b829b81e9a9",
+      "correctAnswer": "Chairman of the Board",
+      "incorrectAnswers": [
+        "The Voice",
+        "Ol' Blue Eyes",
+        "King of Swing"
+      ],
+      "question": {
+        "text": "Which nickname for Frank Sinatra highlights his role as a powerful figure in the music industry, much like a corporate CEO?"
+      },
+      "tags": [
+        "singers",
+        "history",
+        "culture",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502ec",
+      "correctAnswer": "Dry ",
+      "incorrectAnswers": [
+        "Sweet",
+        "Fruity",
+        "Light"
+      ],
+      "question": {
+        "text": "If A Sparkling Wine Is Labelled As 'Brut' How Will It Taste?"
+      },
+      "tags": [
+        "drink",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374144cb85f7ce9e949d54",
+      "correctAnswer": "Kuala Lumpur",
+      "incorrectAnswers": [
+        "Luanda",
+        "Doha",
+        "Kampala"
+      ],
+      "question": {
+        "text": "What is the capital city of Malaysia?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60c750d1a5e051325a72",
+      "correctAnswer": "The Middle East",
+      "incorrectAnswers": [
+        "Japan",
+        "Cambodia",
+        "Scandinavia"
+      ],
+      "question": {
+        "text": "Where in the world would you most expect to be served Kibbeh?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc71",
+      "correctAnswer": "Lackadaisical",
+      "incorrectAnswers": [
+        "Yarborough",
+        "Curmudgeon",
+        "Ratoon"
+      ],
+      "question": {
+        "text": "Which word is defined as 'lacking enthusiasm or determination'?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3c7cc59eab6f951924",
+      "correctAnswer": "A Reindeer",
+      "incorrectAnswers": [
+        "A Whale",
+        "A Mouse",
+        "A Spider"
+      ],
+      "question": {
+        "text": "What type of animal is a caribou?"
+      },
+      "tags": [
+        "animals",
+        "names",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374184cb85f7ce9e949d6e",
+      "correctAnswer": "Rabat",
+      "incorrectAnswers": [
+        "Islamabad",
+        "Kigali",
+        "Damascus"
+      ],
+      "question": {
+        "text": "What is the capital city of Morocco?"
+      },
+      "tags": [
+        "africa",
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d94",
+      "correctAnswer": "ABBA",
+      "incorrectAnswers": [
+        "In Flames",
+        "HammerFall",
+        "Katatonia"
+      ],
+      "question": {
+        "text": "Which band includes 'Anni-Frid Lyngstad'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "647f9def3a4302a71927168a",
+      "correctAnswer": "Dreadlocks",
+      "incorrectAnswers": [
+        "Buzz cut",
+        "Mullet",
+        "Comb over"
+      ],
+      "question": {
+        "text": "Which hairstyle, characterized by long, matted or coiled strands of hair, was sported by Lennox Lewis, Lenny Kravitz, and Bob Marley?"
+      },
+      "tags": [
+        "hair",
+        "people",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd1d",
+      "correctAnswer": "John Locke",
+      "incorrectAnswers": [
+        "Jean-Paul Sartre",
+        "Ludwig Wittgenstein",
+        "Friedrich Nietzsche"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'The mind is furnished with ideas by experience alone'?"
+      },
+      "tags": [
+        "philosophy",
+        "quotes",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa3f",
+      "correctAnswer": "Neoclassicism",
+      "incorrectAnswers": [
+        "Dutch Golden Age",
+        "Crystal Cubism",
+        "Primitivism"
+      ],
+      "question": {
+        "text": "The painting \"Napoleon crossing the Alps\" by Jacques-Louis David is a part of which art movement?"
       },
       "tags": [
         "painting",
@@ -656,6 +636,30 @@
       ],
       "type": "text_choice",
       "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "649c8996e3aef0a3c23f63ef",
+      "correctAnswer": "Cruella de Vil",
+      "incorrectAnswers": [
+        "Maleficent",
+        "Ursula",
+        "Scar"
+      ],
+      "question": {
+        "text": "Which Disney villainess has a song with the line \"If she doesn't scare you, no evil thing will\"?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv",
+        "songs",
+        "lyrics",
+        "disney"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     }
