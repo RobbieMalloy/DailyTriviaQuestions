@@ -1,41 +1,22 @@
 {
-  "gameDate": "2026-07-16",
+  "gameDate": "2026-07-17",
   "difficulty": "hard",
   "results": [
     {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f9522fd",
-      "correctAnswer": "Lungs",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdd0",
+      "correctAnswer": "Megadeath",
       "incorrectAnswers": [
-        "Heart",
-        "Skin",
-        "Eyes"
+        "Metallica",
+        "Slayer",
+        "Sodom"
       ],
       "question": {
-        "text": "Emphysema Affects Which Part Of The Body?"
+        "text": "Name The Thrash Metal Band Headed By Guitarist Dave Mustaine"
       },
       "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233877f0161109f922aac2a",
-      "correctAnswer": "China",
-      "incorrectAnswers": [
-        "Russia",
-        "Brazil",
-        "Canada"
-      ],
-      "question": {
-        "text": "Which country has the longest land border?"
-      },
-      "tags": [
-        "geography"
+        "bands",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -44,21 +25,79 @@
     },
     {
       "category": "general_knowledge",
-      "id": "647f9db33a4302a719271615",
-      "correctAnswer": "Bracchium",
+      "id": "64746af65a4c31088dd9cff2",
+      "correctAnswer": "Palm Beach",
       "incorrectAnswers": [
-        "Caput",
-        "Pedis",
-        "Oculus"
+        "Miami Beach",
+        "Daytona Beach",
+        "Clearwater Beach"
       ],
       "question": {
-        "text": "What is the Latin term for \"the arm\"?"
+        "text": "In which Florida beach town is Donald Trump's Mar-a-Lago estate?"
       },
       "tags": [
-        "anatomy",
-        "latin",
-        "language",
-        "words"
+        "usa",
+        "places"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6242e8128c2538f9601d2f91",
+      "correctAnswer": "The Bees",
+      "incorrectAnswers": [
+        "The Blues",
+        "The Hoops",
+        "The Red Devils"
+      ],
+      "question": {
+        "text": "What is the nickname of the English football team Brentford?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623741a7cb85f7ce9e949d7c",
+      "correctAnswer": "Wellington",
+      "incorrectAnswers": [
+        "Kingstown",
+        "Victoria",
+        "Auckland"
+      ],
+      "question": {
+        "text": "What is the capital city of New Zealand?"
+      },
+      "tags": [
+        "capital_cities",
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "65056f3c7a97013de78b5400",
+      "correctAnswer": "Betting",
+      "incorrectAnswers": [
+        "Flying",
+        "Gardening",
+        "Cleaning"
+      ],
+      "question": {
+        "text": "With what is a tic-tac man associated?"
+      },
+      "tags": [
+        "sport_and_leisure"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -67,104 +106,22 @@
     },
     {
       "category": "history",
-      "id": "622a1c377cc59eab6f95042f",
-      "correctAnswer": "Concorde",
+      "id": "646089a2de964ebc39016c54",
+      "correctAnswer": "The Warren Commission",
       "incorrectAnswers": [
-        "The Channel Tunnel",
-        "Eurostar",
-        "An animal cloning plant"
+        "The Truman Commission",
+        "The Roosevelt Commission",
+        "The Eisenhower Commission"
       ],
       "question": {
-        "text": "In 1962, for what did Britain and France sign an agreement to build together?"
+        "text": "What was the name of the commission that was appointed to investigate the assassination of US President John F. Kennedy?"
       },
       "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "64861cecf773f09dc0193b47",
-      "correctAnswer": "The Tower of London",
-      "incorrectAnswers": [
-        "Windsor Castle",
-        "Buckingham Palace",
-        "St. James's Palace"
-      ],
-      "question": {
-        "text": "What is the name of the royal fortress on the Thames River that includes Traitors' Gate?"
-      },
-      "tags": [
-        "tourist_attractions",
-        "castles",
+        "presidents",
+        "usa",
+        "assassinations",
         "history",
-        "london"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd6c7dc0dd3b72da64d0a",
-      "correctAnswer": "2009",
-      "incorrectAnswers": [
-        "2003",
-        "2005",
-        "2007"
-      ],
-      "question": {
-        "text": "In which year was Inglourious Basterds first released in the cinema?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501db",
-      "correctAnswer": "Francis Ford Coppola",
-      "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
-      ],
-      "question": {
-        "text": "Which director directed Apocalypse Now?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f978",
-      "correctAnswer": "Lonesome Dove",
-      "incorrectAnswers": [
-        "In Our Time",
-        "The Moviegoer",
-        "The Swimmer"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Augustus McCrae'?"
-      },
-      "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
+        "1960's"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -173,44 +130,20 @@
     },
     {
       "category": "history",
-      "id": "6488deed50a27f7378a91de8",
-      "correctAnswer": "A shield",
+      "id": "622a1c3c7cc59eab6f951a37",
+      "correctAnswer": "The Great Fire",
       "incorrectAnswers": [
-        "A sword",
-        "A helmet",
-        "A spear"
+        "The Bubonic Plague",
+        "The Execution of Charles II",
+        "The Unification of Great Britain"
       ],
       "question": {
-        "text": "Used by the Roman military, what was a Scutum?"
+        "text": "The Monument in the City Of London is a monument to which event?"
       },
       "tags": [
-        "military",
-        "arms",
-        "weapons",
-        "the_romans"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611fdb4b176d54800e3d75",
-      "correctAnswer": "1992",
-      "incorrectAnswers": [
-        "1987",
-        "1997",
-        "2002"
-      ],
-      "question": {
-        "text": "When was the first SMS message sent?"
-      },
-      "tags": [
-        "events",
-        "firsts",
-        "inventions",
-        "technology",
+        "london",
+        "uk",
+        "tourist_attractions",
         "history"
       ],
       "type": "text_choice",
@@ -219,205 +152,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950bda",
-      "correctAnswer": "Guns N' Roses",
-      "incorrectAnswers": [
-        "MercyMe",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
-      ],
-      "question": {
-        "text": "Which American hard rock band released the studio album 'Use Your Illusion I'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9505b9",
-      "correctAnswer": "Jacqueline Bisset",
-      "incorrectAnswers": [
-        "Sophia Loren",
-        "Mila Kunis",
-        "Hilary Duff"
-      ],
-      "question": {
-        "text": "Which actress has starred in films including Murder on the Orient Express and Casino Royale?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f95039e",
-      "correctAnswer": "Jingle All The Way",
-      "incorrectAnswers": [
-        "The Santa Clause",
-        "Miracle on 34th Street",
-        "Bad Santa"
-      ],
-      "question": {
-        "text": "Which Popular Christmas Movie Featured A Must Have Toy Called 'Turbo Man''"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9504fb",
-      "correctAnswer": "mollusks",
-      "incorrectAnswers": [
-        "the Earth",
-        "dialects",
-        "religion"
-      ],
-      "question": {
-        "text": "What is Malacology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c35",
-      "correctAnswer": "Depeche Mode",
-      "incorrectAnswers": [
-        "Level 42",
-        "Dead or Alive",
-        "Radiohead"
-      ],
-      "question": {
-        "text": "Which English band released the album 'Black Celebration'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f985",
-      "correctAnswer": "The Tin Drum",
-      "incorrectAnswers": [
-        "Gone With the Wind",
-        "In Our Time",
-        "Portnoy's Complaint"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Oskar Matzerath'?"
-      },
-      "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f95229f",
-      "correctAnswer": "3",
-      "incorrectAnswers": [
-        "1",
-        "0",
-        "2"
-      ],
-      "question": {
-        "text": "How many hearts does an octopus have?"
-      },
-      "tags": [
-        "animals",
-        "science",
-        "numbers",
-        "biology"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6473075ccf09068746f63770",
-      "correctAnswer": "Aqueducts",
-      "incorrectAnswers": [
-        "Canals",
-        "Pipelines",
-        "Trenches"
-      ],
-      "question": {
-        "text": "What type of structures are used to conduct a water stream across a valley?"
-      },
-      "tags": [
-        "architecture",
-        "civil_engineering",
-        "engineering"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510c6",
-      "correctAnswer": "Two",
-      "incorrectAnswers": [
-        "Five",
-        "Four",
-        "Three"
-      ],
-      "question": {
-        "text": "How many beams of light are used to record a holograph?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "6233863262eaad73716a8cbc",
-      "correctAnswer": "Paris ",
+      "id": "626030cc4b176d54800e3d3f",
+      "correctAnswer": "Cameroon",
       "incorrectAnswers": [
-        "Madrid",
-        "Rome",
-        "Brussels"
+        "Algeria",
+        "Mauritius",
+        "Tunisia"
       ],
       "question": {
-        "text": "Where is Le Figaro published?"
+        "text": "Where would you find the city of Douala?"
       },
       "tags": [
+        "cities",
+        "africa",
         "geography"
       ],
       "type": "text_choice",
@@ -426,16 +174,36 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950717",
-      "correctAnswer": "Helen Mirren",
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b21",
+      "correctAnswer": "The Carpenters",
       "incorrectAnswers": [
-        "Kathy Bates",
-        "Kirsten Dunst",
-        "Sandra Bæ Hovedr"
+        "The Black Keys",
+        "Three 6 Mafia",
+        "The Velvet Underground"
       ],
       "question": {
-        "text": "Which actress has played roles in films including The Queen and National Treasure: Book of Secrets?"
+        "text": "Which American vocal duo released the studio album 'A Song for You'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f950385",
+      "correctAnswer": "Boris Karloff",
+      "incorrectAnswers": [
+        "Jack Delaney",
+        "Marlo Fontaine",
+        "Buster Keats"
+      ],
+      "question": {
+        "text": "Who played the monster in the 1931 film Frankenstein?"
       },
       "tags": [
         "acting",
@@ -448,21 +216,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "625064cce12f6dec240bdfce",
-      "correctAnswer": "Jane Child",
+      "category": "history",
+      "id": "63bc3fa20e893d6e5a6a0fcc",
+      "correctAnswer": "1922",
       "incorrectAnswers": [
-        "Lou Bega",
-        "Big Country",
-        "Jeannie C. Riley"
+        "1860",
+        "1945",
+        "1818"
       ],
       "question": {
-        "text": "Who had a hit in 1990 with Don't Wanna Fall in Love?"
+        "text": "When was the Ottoman Empire officially dissolved?"
       },
       "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
+        "history",
+        "ottoman_empire",
+        "empires"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -470,21 +238,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fdc4",
-      "correctAnswer": "Pat Benatar",
+      "category": "geography",
+      "id": "6237414bcb85f7ce9e949d57",
+      "correctAnswer": "Mali",
       "incorrectAnswers": [
-        "Blondie",
-        "Patti Smith",
-        "Patti Cake$"
+        "Belize",
+        "Bosnia and Herzegovina",
+        "Antigua and Barbuda"
       ],
       "question": {
-        "text": "Patricia Andrzejewski Is The Real Name Of Which Singer"
+        "text": "Bamako is the capital city of which country?"
       },
       "tags": [
-        "pseudonyms",
-        "names",
-        "music"
+        "capital_cities",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -492,21 +259,254 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbdd",
-      "correctAnswer": "\"It’s the sense of touch. In any real city, you walk, you know? You brush past people, people bump into you. In L.A., nobody touches you. We’re always behind this metal and glass. I think we miss that touch so much, that we crash into each other, just so we can feel something.\"",
+      "category": "society_and_culture",
+      "id": "6357fd3968bd5000211e718a",
+      "correctAnswer": "Morocco",
       "incorrectAnswers": [
-        "\"May the Force be with you.\"",
-        "\"Here's looking at you, kid.\"",
-        "\"What is this? A center for ants? How can we be expected to teach children to learn how to read…if they can’t even fit inside the building?\""
+        "Kenya",
+        "Tanzania",
+        "Sri Lanka"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Crash'?"
+        "text": "Berber is a language spoken in which of these countries?"
       },
       "tags": [
+        "language",
+        "linguistics",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "64b9a297fa11352f5124c35f",
+      "correctAnswer": "Who",
+      "incorrectAnswers": [
+        "What",
+        "When",
+        "Where"
+      ],
+      "question": {
+        "text": "In French, what does the word 'qui' translate to?"
+      },
+      "tags": [
+        "french",
+        "language",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd3a",
+      "correctAnswer": "Ludwig Wittgenstein",
+      "incorrectAnswers": [
+        "William of Ockham",
+        "Bertrand Russell",
+        "Immanuel Kant"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'Whereof one cannot speak, thereof one must be silent'?"
+      },
+      "tags": [
+        "philosophy",
         "quotes",
-        "film",
-        "film_and_tv"
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95024f",
+      "correctAnswer": "Auguste Escoffier ",
+      "incorrectAnswers": [
+        "Jacque Pépin",
+        "Raymond Oliver",
+        "Marie-Antoine Carême"
+      ],
+      "question": {
+        "text": "Which famous French chef invented the Peach Melba in 1893?"
+      },
+      "tags": [
+        "food",
+        "france",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6384b44d83dddfb71ee5e36f",
+      "correctAnswer": "Soccer",
+      "incorrectAnswers": [
+        "Cycling",
+        "American Football",
+        "Sailing"
+      ],
+      "question": {
+        "text": "Which sport is played at The Copa América?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "645c9ff442ea81e2554c5f9c",
+      "correctAnswer": "Donkey, dog, cat and rooster",
+      "incorrectAnswers": [
+        "Horse, cow, pig and sheep",
+        "Mouse, rabbit, squirrel and fox",
+        "Duck, goose, swan and pigeon"
+      ],
+      "question": {
+        "text": "In the Grimm fairy tale \"Town Musicians of Bremen\", which group of aging animals sets out for Bremen to become musicians?"
+      },
+      "tags": [
+        "animals",
+        "fairy_tales",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "64824ee57778562fd76a96ac",
+      "correctAnswer": "Lobster",
+      "incorrectAnswers": [
+        "Crab",
+        "Shrimp",
+        "Clam"
+      ],
+      "question": {
+        "text": "Which type of seafood has varieties called Maine and spiny, and turns a vivid red only after it's been cooked?"
+      },
+      "tags": [
+        "seafood",
+        "food_and_drink",
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950085",
+      "correctAnswer": "Canadian",
+      "incorrectAnswers": [
+        "American",
+        "English",
+        "Irish"
+      ],
+      "question": {
+        "text": "What Nationality Is Former Snooker World Champion Cliff Thorburn?"
+      },
+      "tags": [
+        "sport",
+        "people"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950099",
+      "correctAnswer": "The Ryder Cup",
+      "incorrectAnswers": [
+        "The FIFA World Cup",
+        "The UEFA Champion's League",
+        "The America's Cup"
+      ],
+      "question": {
+        "text": "The Solheim Cup Is The Woman's Equivalent Of Which Famous Sporting Cup?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95136c",
+      "correctAnswer": "Art Nouveau",
+      "incorrectAnswers": [
+        "Pop Art",
+        "Fauvism",
+        "Impressionism"
+      ],
+      "question": {
+        "text": "Which decorative art movement emerged in the late nineteenth century and was characterized by dense assymmetrical ornamentation in sinuous forms?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "art"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3a7cc59eab6f9510e3",
+      "correctAnswer": "Oil",
+      "incorrectAnswers": [
+        "Blood",
+        "Sperm",
+        "Water"
+      ],
+      "question": {
+        "text": "A 42 foot sperm whale has about 7 tons of __________ in it."
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62443762746187c5e7be934d",
+      "correctAnswer": "Calcium sulphate dihydrate",
+      "incorrectAnswers": [
+        "Silicon dioxide",
+        "Iron Oxide",
+        "Isopropyl alcohol"
+      ],
+      "question": {
+        "text": "What chemical compound makes gypsum?"
+      },
+      "tags": [
+        "chemistry",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -515,60 +515,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb3b",
-      "correctAnswer": "American Beauty",
+      "id": "622a1c3c7cc59eab6f9518fe",
+      "correctAnswer": "Reece's Pieces",
       "incorrectAnswers": [
-        "The Cider House Rules",
-        "The Green Mile",
-        "The Insider"
+        "M&M's",
+        "Smores",
+        "Twinkies"
       ],
       "question": {
-        "text": "Which film won the Academy Award for Best Picture in 1999?"
-      },
-      "tags": [
-        "academy_awards",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f950217",
-      "correctAnswer": "Ridley Scott",
-      "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
-      ],
-      "question": {
-        "text": "Which director directed Blade Runner?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740c69da29df7b05f73f7",
-      "correctAnswer": "A rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position.",
-      "incorrectAnswers": [
-        "A naive youth leader is appointed to fill a vacancy in the U.S. Senate.",
-        "After a girl is uprooted from her life, her emotions conflict on how best to navigate a new life.",
-        "A family heads to a hotel for the winter where a presence influences the father into violence."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Barry Lyndon?"
+        "text": "What was E.T.'s favorite candy?"
       },
       "tags": [
         "film",
+        "food",
+        "fictitious_characters",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -578,20 +538,17 @@
     },
     {
       "category": "science",
-      "id": "6244372e746187c5e7be9339",
-      "correctAnswer": "Baking Soda",
+      "id": "622a1c3a7cc59eab6f95103d",
+      "correctAnswer": "Es",
       "incorrectAnswers": [
-        "Bleach",
-        "Table Salt",
-        "Dolomite"
+        "El",
+        "En",
+        "Ei"
       ],
       "question": {
-        "text": "What is the common name for sodium bicarbonate?"
+        "text": "What is the chemical symbol for einsteinium?"
       },
       "tags": [
-        "chemistry",
-        "general_knowledge",
-        "names",
         "science"
       ],
       "type": "text_choice",
@@ -600,20 +557,44 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f85f",
-      "correctAnswer": "Motor Racing",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950df9",
+      "correctAnswer": "D. H. Lawrence",
       "incorrectAnswers": [
-        "Cycling",
-        "Tennis",
-        "Cricket"
+        "Oscar Wilde",
+        "Charles Dickens",
+        "G. K. Chesterton"
       ],
       "question": {
-        "text": "With which sport is Sterling Moss associated?"
+        "text": "Which author wrote 'Lady Chatterley's Lover'?"
       },
       "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611fca4b176d54800e3d71",
+      "correctAnswer": "1990",
+      "incorrectAnswers": [
+        "1980",
+        "1985",
+        "1995"
+      ],
+      "question": {
+        "text": "In which year was Nelson Mandela released from prison?"
+      },
+      "tags": [
+        "events",
+        "civil_rights",
+        "leaders",
         "people",
-        "sport"
+        "politics",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -622,19 +603,44 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcc0",
-      "correctAnswer": "Kra–Dai",
+      "id": "637162911bf863c45ca6c387",
+      "correctAnswer": "Bono malum superate",
       "incorrectAnswers": [
-        "Sino-Tibetan",
-        "Austroasiatic",
-        "Afroasiatic"
+        "Bona fide",
+        "Humilitas occidit superbiam",
+        "Fortiter et fideliter"
       ],
       "question": {
-        "text": "The language 'Thai' belongs to which language family?"
+        "text": "Which of these Latin phrases means 'Overcome evil with good'?"
       },
       "tags": [
+        "society_and_culture",
         "language",
-        "society_and_culture"
+        "the_romans",
+        "classics"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515ce",
+      "correctAnswer": "Hungary ",
+      "incorrectAnswers": [
+        "India",
+        "Portugal",
+        "Turkey"
+      ],
+      "question": {
+        "text": "From which country Does Bull's Blood wine originate?"
+      },
+      "tags": [
+        "drink",
+        "wine",
+        "alcohol",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
