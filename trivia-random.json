@@ -1,44 +1,25 @@
 {
-  "gameDate": "2026-07-22",
+  "gameDate": "2026-07-23",
   "difficulty": "random",
   "results": [
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcf9",
-      "correctAnswer": "John Locke",
+      "category": "sport_and_leisure",
+      "id": "622a1c3d7cc59eab6f951c1f",
+      "correctAnswer": "Munich",
       "incorrectAnswers": [
-        "Ludwig Wittgenstein",
-        "Socrates",
-        "Voltaire"
+        "Belgrade",
+        "Budapest",
+        "Rome"
       ],
       "question": {
-        "text": "Which philosopher famously said 'Good and evil, reward and punishment, are the only motives to a rational creature'?"
+        "text": "In 1958 a plane carrying Manchester United home from a match in Belgrade crash during take-off at which city's Airport?"
       },
       "tags": [
-        "philosophy",
-        "quotes",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "63d95313168979b94b2e4f91",
-      "correctAnswer": "J. J. Thomson",
-      "incorrectAnswers": [
-        "Albert Einstein",
-        "Marie Curie",
-        "Antoine Lavoisier"
-      ],
-      "question": {
-        "text": "Who discovered the electron?"
-      },
-      "tags": [
-        "science",
-        "scientific_discoveries"
+        "manchester",
+        "football",
+        "soccer",
+        "events",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -47,21 +28,64 @@
     },
     {
       "category": "music",
-      "id": "622a1c347cc59eab6f94fb91",
-      "correctAnswer": "\"Bohemian Rhapsody\" by Queen",
+      "id": "622a1c357cc59eab6f94feab",
+      "correctAnswer": "Elton John",
       "incorrectAnswers": [
-        "\"Let it Be\" by the Beatles",
-        "\"SpongeBob SquarePants Theme\" by Painty the Pirate",
-        "\"In da Club\" by 50 Cent"
+        "Mika",
+        "Madonna",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"Is this the real life? Is this just fantasy?\"?"
+        "text": "Which singer released the album 'Goodbye Yellow Brick Road'?"
       },
       "tags": [
-        "lyrics",
-        "songs",
         "general_knowledge",
         "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f95102a",
+      "correctAnswer": "Saturn",
+      "incorrectAnswers": [
+        "Neptune",
+        "Jupiter",
+        "Venus"
+      ],
+      "question": {
+        "text": "What is the sixth planet from our sun?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625698a09da29df7b05f7293",
+      "correctAnswer": "Idris Elba",
+      "incorrectAnswers": [
+        "Peter Dinklage",
+        "Josh Brolin",
+        "Chadwick Boseman"
+      ],
+      "question": {
+        "text": "Which actor plays the role of Heimdall in the Marvel Cinematic Universe?"
+      },
+      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -69,41 +93,41 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950590",
-      "correctAnswer": "Human growth",
+      "category": "film_and_tv",
+      "id": "645cb1257d263fd5097043a7",
+      "correctAnswer": "Baz Luhrmann",
       "incorrectAnswers": [
-        "The application of words",
-        "Stars",
-        "Acoustics"
+        "Darren Aronofsky",
+        "Christopher Nolan",
+        "Steven Spielberg"
       ],
       "question": {
-        "text": "What is auxology the study of?"
+        "text": "Which director of the film \"Moulin Rouge!\" brought his hit production of \"La boheme\" to Broadway in 2002?"
       },
       "tags": [
-        "science",
-        "words"
+        "directors",
+        "film",
+        "film_and_tv",
+        "theater"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "geography",
-      "id": "6463398b01d576cfac3aa37d",
-      "correctAnswer": "Tricolor",
+      "id": "622a1c387cc59eab6f95080d",
+      "correctAnswer": "Africa",
       "incorrectAnswers": [
-        "Red, White, and Blue",
-        "The Golden Fleece",
-        "The Union Jack"
+        "South America",
+        "Oceania",
+        "Europe"
       ],
       "question": {
-        "text": "What is the name of the French flag?"
+        "text": "The country of Equatorial Guinea is on which continent?"
       },
       "tags": [
-        "flags",
-        "france",
         "geography"
       ],
       "type": "text_choice",
@@ -113,42 +137,19 @@
     },
     {
       "category": "science",
-      "id": "650570437a97013de78b556c",
-      "correctAnswer": "Butterflies",
+      "id": "622a1c3e7cc59eab6f952297",
+      "correctAnswer": "0",
       "incorrectAnswers": [
-        "Bears",
-        "Seals",
-        "Penguins"
+        "1",
+        "2",
+        "3"
       ],
       "question": {
-        "text": "Admiral and Monarch belong to which group of animals?"
+        "text": "How Many Humps Has A Dromedary Camel Got?"
       },
       "tags": [
-        "science",
         "animals",
-        "nature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237402ecb85f7ce9e949ce4",
-      "correctAnswer": "Prague",
-      "incorrectAnswers": [
-        "Manama",
-        "Berlin",
-        "Valletta"
-      ],
-      "question": {
-        "text": "What is the capital city of Czechia?"
-      },
-      "tags": [
-        "capital_cities",
-        "europe",
-        "geography"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -157,18 +158,18 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fd97",
-      "correctAnswer": "Mariah Carey",
+      "id": "622a1c397cc59eab6f950bef",
+      "correctAnswer": "The Doors",
       "incorrectAnswers": [
-        "Rihanna",
-        "Beyonce",
-        "Christina Aguilera"
+        "Styx",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
       ],
       "question": {
-        "text": "Which Singing Diva Flopped At The Box Office With Her Debut Movie “Glitter”?"
+        "text": "Which American rock band released the song 'Break On Through'?"
       },
       "tags": [
-        "people",
+        "rock_music",
         "music"
       ],
       "type": "text_choice",
@@ -177,20 +178,42 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95027d",
-      "correctAnswer": "Mexico ",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cc9",
+      "correctAnswer": "Queen",
       "incorrectAnswers": [
-        "France",
-        "China",
-        "India"
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
       ],
       "question": {
-        "text": "Which country is the ancient home of chocolate?"
+        "text": "Which British rock band released the album 'The Miracle'?"
       },
       "tags": [
-        "food",
-        "food_and_drink"
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "639c9dab929b90846f2fc989",
+      "correctAnswer": "Hajj",
+      "incorrectAnswers": [
+        "Umrah",
+        "Haram",
+        "Ziyarat"
+      ],
+      "question": {
+        "text": "What is the name for the Islamic pilgrimage to Mecca?"
+      },
+      "tags": [
+        "islam",
+        "religion",
+        "society_and_culture",
+        "traditions"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -199,81 +222,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c357cc59eab6f94fc3f",
-      "correctAnswer": "\"Love means never having to say you're sorry.\"",
+      "id": "624dba4bde6018633d31f6be",
+      "correctAnswer": "Tina Turner",
       "incorrectAnswers": [
-        "\"Greed, for lack of a better word, is good.\"",
-        "\"May the Force be with you.\"",
-        "\"This is the day you will always remember as the day you almost caught Captain Jack Sparrow!\""
+        "Duran Duran",
+        "Nancy Sinatra",
+        "Sam Smith"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Love Story'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6477bacc550bc819ad646b0e",
-      "correctAnswer": "Sweating",
-      "incorrectAnswers": [
-        "Boiling",
-        "Sautéing",
-        "Poaching"
-      ],
-      "question": {
-        "text": "What cooking method involves softening ingredients over low heat without browning them?"
-      },
-      "tags": [
-        "food_and_drink",
-        "cooking"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fab8",
-      "correctAnswer": "Meryl Streep",
-      "incorrectAnswers": [
-        "Jane Alexander",
-        "Barbara Barrie",
-        "Candice Bergen"
-      ],
-      "question": {
-        "text": "Who won the 1979 Academy Award for Best Supporting Actress for playing the role of Joanna Kramer in Kramer vs. Kramer?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "academy_awards",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624dba1cde6018633d31f6b4",
-      "correctAnswer": "Casino Royale",
-      "incorrectAnswers": [
-        "The Living Daylights",
-        "No Time To Die",
-        "Thunderball"
-      ],
-      "question": {
-        "text": "Which James Bond theme song was performed by Chris Cornell?"
+        "text": "Who performed the theme song to the James Bond film GoldenEye?"
       },
       "tags": [
         "james_bond",
@@ -282,351 +239,24 @@
         "film_and_tv"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "645bc180f09106226db235a3",
-      "correctAnswer": "Distance",
-      "incorrectAnswers": [
-        "Time",
-        "Brightness",
-        "Mass"
-      ],
-      "question": {
-        "text": "What concept is measured by a light year?"
-      },
-      "tags": [
-        "astronomy",
-        "physics",
-        "astrophysics"
-      ],
-      "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "64860e82113d76c6b63179fc",
-      "correctAnswer": "Hebrew",
+      "category": "sport_and_leisure",
+      "id": "6384b43a83dddfb71ee5e367",
+      "correctAnswer": "Horse Racing",
       "incorrectAnswers": [
-        "Arabic",
-        "English",
-        "Greek"
+        "Swimming",
+        "Rugby",
+        "Golf"
       ],
       "question": {
-        "text": "What is the official language of Israel?"
+        "text": "What sport would you associate with The Kentucky Derby?"
       },
       "tags": [
-        "countries",
-        "israel",
-        "languages",
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950bb9",
-      "correctAnswer": "The Kinks",
-      "incorrectAnswers": [
-        "Deep Purple",
-        "Snow Patrol",
-        "Lostprophets"
-      ],
-      "question": {
-        "text": "Which English rock band released the song 'You Really Got Me'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c3b",
-      "correctAnswer": "Coldplay",
-      "incorrectAnswers": [
-        "Level 42",
-        "Deep Purple",
-        "Feeder"
-      ],
-      "question": {
-        "text": "Which British band released the studio album 'Ghost Stories'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "639ae865929b90846f2fc8d9",
-      "correctAnswer": "Luke Skywalker",
-      "incorrectAnswers": [
-        "Han Solo",
-        "Lando Calrissian",
-        "Obi-Wan Kenobi"
-      ],
-      "question": {
-        "text": "In Star Wars, who is Princess Leia's twin brother?"
-      },
-      "tags": [
-        "star_wars",
-        "film",
-        "film_and_tv",
-        "fictitious_characters",
-        "cult_films"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950ffa",
-      "correctAnswer": "Philips",
-      "incorrectAnswers": [
-        "Panasonic",
-        "Viewsonic",
-        "Sony"
-      ],
-      "question": {
-        "text": "Which Dutch Company Began Marketing Compact Disc Players In 1982?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc3b",
-      "correctAnswer": "\"Made it, Ma! Top of the world!\"",
-      "incorrectAnswers": [
-        "\"Toga! Toga!\"",
-        "\"A boy's best friend is his mother.\"",
-        "\"Hasta la vista, baby.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'White Heat'?"
-      },
-      "tags": [
-        "film",
-        "quotes",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "65056f4b7a97013de78b5414",
-      "correctAnswer": "Oxymoron",
-      "incorrectAnswers": [
-        "Ellipsis",
-        "Metaphor",
-        "Synecdoche"
-      ],
-      "question": {
-        "text": "What figure of speech combines contradictory terms?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056f687a97013de78b543d",
-      "correctAnswer": "Socialist state",
-      "incorrectAnswers": [
-        "Constitutional monarchy",
-        "Representative democracy",
-        "Aristocracy"
-      ],
-      "question": {
-        "text": "What kind of country did Cuba become under Fidel Castro?"
-      },
-      "tags": [
-        "history",
-        "cuba",
-        "countries",
-        "politics"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "62506482e12f6dec240bdfb8",
-      "correctAnswer": "Edwyn Collins",
-      "incorrectAnswers": [
-        "The Waitresses",
-        "Rockwell",
-        "The Heights"
-      ],
-      "question": {
-        "text": "'A Girl Like You' was a one hit wonder in 1994 by which artist?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd6acdc0dd3b72da64d02",
-      "correctAnswer": "2012",
-      "incorrectAnswers": [
-        "2006",
-        "2008",
-        "2010"
-      ],
-      "question": {
-        "text": "In which year was Django Unchained released?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c397cc59eab6f950fc1",
-      "correctAnswer": "Anders Celsius",
-      "incorrectAnswers": [
-        "Celso de Gama",
-        "Max Gradel",
-        "Hoff Zimmerman"
-      ],
-      "question": {
-        "text": "Who invented the centigrade scale?"
-      },
-      "tags": [
-        "people",
-        "inventions",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "647129af64c916f9c84814bc",
-      "correctAnswer": "bounced",
-      "incorrectAnswers": [
-        "delayed",
-        "rejected",
-        "invalid"
-      ],
-      "question": {
-        "text": "What is the expression used to describe a check that failed to clear due to insufficient funds?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "636a5230990390307063f37d",
-      "correctAnswer": "Fleetwood Mac",
-      "incorrectAnswers": [
-        "The Highwomen",
-        "Joe Cocker",
-        "the Light by Manfred Mann's Earth Band"
-      ],
-      "question": {
-        "text": "The song 'Landslide' had a well-known cover by Miley Cyrus, but who recorded the original?"
-      },
-      "tags": [
-        "music",
-        "cover_song",
-        "songs",
-        "musicians"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624ab0b7348a461bfc670692",
-      "correctAnswer": "The Middle East",
-      "incorrectAnswers": [
-        "Europe",
-        "Central America",
-        "Africa"
-      ],
-      "question": {
-        "text": "From which part of the world do plums originate?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "627164cd1ba117625baac976",
-      "correctAnswer": "Colombia",
-      "incorrectAnswers": [
-        "Cuba",
-        "Turkey",
-        "France"
-      ],
-      "question": {
-        "text": "Which country is associated with the drink aguardiente?"
-      },
-      "tags": [
-        "drink",
-        "alcohol",
-        "food_and_drink"
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -635,20 +265,389 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "647638cef05ea6d6f587a142",
-      "correctAnswer": "The Grinch",
+      "id": "622a1c397cc59eab6f950eb2",
+      "correctAnswer": "Charles Darwin",
       "incorrectAnswers": [
-        "Scrooge",
-        "Darth Vader",
-        "The Wicked Witch of the West"
+        "Percy Bysshe Shelley",
+        "H. Rider Haggard",
+        "Robert Louis Stevenson"
       ],
       "question": {
-        "text": "Which character's heart was described as being '2 sizes too small' and had reasons for his grumpiness?"
+        "text": "Which author wrote 'The Origin of Species'?"
       },
       "tags": [
-        "arts_and_literature",
-        "literature",
-        "fictitious_characters"
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f95036f",
+      "correctAnswer": "Simple Minds",
+      "incorrectAnswers": [
+        "INXS",
+        "Tears for Fears",
+        "Wham!"
+      ],
+      "question": {
+        "text": "Who sang the theme song to the 'Breakfast Club'?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740499da29df7b05f73d2",
+      "correctAnswer": "An old man travels in his house equipped with balloons, inadvertently taking a young stowaway.",
+      "incorrectAnswers": [
+        "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat.",
+        "In the future, a small waste-collecting robot inadvertently embarks on a space journey.",
+        "A man deeply immersed in the Edinburgh drug scene tries to clean up and get out."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Up?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f951361",
+      "correctAnswer": "Impressionism",
+      "incorrectAnswers": [
+        "Cubism",
+        "Surrealism",
+        "Romanticism"
+      ],
+      "question": {
+        "text": "Which school of painting focused on transitory visual impressions with an emphasis on the changing effects of light and color?"
+      },
+      "tags": [
+        "words",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63e4c34a106de6ffa7d4a7c7",
+      "correctAnswer": "Ruby",
+      "incorrectAnswers": [
+        "Diamond",
+        "Sapphire",
+        "Emerald"
+      ],
+      "question": {
+        "text": "In Western cultures, what is the traditional gift for a 40th wedding anniversary?"
+      },
+      "tags": [
+        "society_and_culture",
+        "traditions"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "65056f147a97013de78b53c8",
+      "correctAnswer": "Winston Churchill",
+      "incorrectAnswers": [
+        "Arthur Balfour",
+        "Stanley Baldwin",
+        "Harold Wilson"
+      ],
+      "question": {
+        "text": "Which UK Prime Minister received the Nobel Prize in Literature?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9e03796f721e95543f39",
+      "correctAnswer": "Green",
+      "incorrectAnswers": [
+        "Maroon",
+        "Red",
+        "Black"
+      ],
+      "question": {
+        "text": "Which of these colors is included on the flag of Brazil?"
+      },
+      "tags": [
+        "flags",
+        "south_america",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe2a",
+      "correctAnswer": "Dinar",
+      "incorrectAnswers": [
+        "Lira",
+        "Rial",
+        "Shekel"
+      ],
+      "question": {
+        "text": "What is the basic unit of currency for Jordan?"
+      },
+      "tags": [
+        "the_middle_east",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ecba7f41d6338b96ef06",
+      "correctAnswer": "Biologist who created the oral contraceptive pill.",
+      "incorrectAnswers": [
+        "Chemist and biologist who had a leading impact on the chemical revolution.",
+        "A religious prophet.",
+        "An influential figure in Sunni Islam."
+      ],
+      "question": {
+        "text": "Which of the following describes Gregory Pincus?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510cf",
+      "correctAnswer": "Protactinium",
+      "incorrectAnswers": [
+        "Potassium",
+        "Lead",
+        "Palladium"
+      ],
+      "question": {
+        "text": "What is the Chemical Element Pa?"
+      },
+      "tags": [
+        "chemistry",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "645a6490158db1bd1779f19a",
+      "correctAnswer": "Chuck Berry",
+      "incorrectAnswers": [
+        "Elvis Presley",
+        "Buddy Holly",
+        "Little Richard"
+      ],
+      "question": {
+        "text": "Who was the very first performer to be inducted into the Rock & Roll Hall of Fame in 1986?"
+      },
+      "tags": [
+        "rock",
+        "history",
+        "performers",
+        "music",
+        "people",
+        "rock_and_roll"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "649601ffe831b1ab5aa1112c",
+      "correctAnswer": "Nonet",
+      "incorrectAnswers": [
+        "Norchestra",
+        "Ninstrumental",
+        "Novario"
+      ],
+      "question": {
+        "text": "What is the name for a musical piece composed for nine instruments?"
+      },
+      "tags": [
+        "classical_music",
+        "music_theory",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c9e",
+      "correctAnswer": "The Rolling Stones",
+      "incorrectAnswers": [
+        "McFly",
+        "Delirious?",
+        "Depeche Mode"
+      ],
+      "question": {
+        "text": "Which English rock band released the album 'Exile on Main St.'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "645cb16b7d263fd5097043c9",
+      "correctAnswer": "A goose",
+      "incorrectAnswers": [
+        "A flamingo",
+        "A pelican",
+        "An ostrich"
+      ],
+      "question": {
+        "text": "What type of bird is Hawaii's state bird, the Nene?"
+      },
+      "tags": [
+        "birds",
+        "symbols",
+        "animals",
+        "us_states"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6266bb16ff7b6ee0496ec77f",
+      "correctAnswer": "Woodwind",
+      "incorrectAnswers": [
+        "Stringed",
+        "Brass",
+        "Percussion"
+      ],
+      "question": {
+        "text": "What type of instrument is a clarinet?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6488dead50a27f7378a91dd2",
+      "correctAnswer": "Pakistan",
+      "incorrectAnswers": [
+        "Iran",
+        "Sri Lanka",
+        "Nepal"
+      ],
+      "question": {
+        "text": "Which country is located between Afghanistan and India?"
+      },
+      "tags": [
+        "borders",
+        "countries",
+        "asia",
+        "india"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8e1",
+      "correctAnswer": "Clint Eastwood",
+      "incorrectAnswers": [
+        "James Cagney",
+        "Marlon Brando",
+        "Harrison Ford"
+      ],
+      "question": {
+        "text": "Which actor played the role of Blondie in The Good, the Bad, and the Ugly?"
+      },
+      "tags": [
+        "people",
+        "acting",
+        "general_knowledge",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ff7c",
+      "correctAnswer": "Brussels",
+      "incorrectAnswers": [
+        "Antwerp",
+        "Liège",
+        "Amsterdam"
+      ],
+      "question": {
+        "text": "Where city has the statue, 'Manneken Pis, depicting a naked boy urinating into a fountain?"
+      },
+      "tags": [
+        "cities",
+        "tourist_attractions",
+        "statues",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
