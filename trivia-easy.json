@@ -1,24 +1,24 @@
 {
-  "gameDate": "2026-07-24",
+  "gameDate": "2026-07-25",
   "difficulty": "easy",
   "results": [
     {
-      "category": "science",
-      "id": "624333c8cfaae40c12961403",
-      "correctAnswer": "An Eaglet",
+      "category": "geography",
+      "id": "623741a0cb85f7ce9e949d79",
+      "correctAnswer": "Netherlands",
       "incorrectAnswers": [
-        "A Lamb",
-        "An Eyas",
-        "A Calf"
+        "Saint Lucia",
+        "Malaysia",
+        "Benin"
       ],
       "question": {
-        "text": "What would you call a baby eagle?"
+        "text": "Amsterdam is the capital city of which country?"
       },
       "tags": [
-        "animals",
-        "birds",
-        "names",
-        "science"
+        "cities",
+        "capital_cities",
+        "europe",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -27,18 +27,17 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f922",
-      "correctAnswer": "Austin Powers: International Man of Mystery",
+      "id": "62573fa73d2f5c16bfb88335",
+      "correctAnswer": "Braveheart",
       "incorrectAnswers": [
-        "Die Hard",
-        "The Adventures of Robin Hood",
-        "Pulp Fiction"
+        "Trainspotting",
+        "My Neighbour Totoro",
+        "Apocalypse Now"
       ],
       "question": {
-        "text": "Which film contains the character 'Dr. Evil'?"
+        "text": "Name the movie that matches the following plot summary: 'A Scottish warrior leads his countrymen in a rebellion to free his homeland.'"
       },
       "tags": [
-        "acting",
         "film",
         "film_and_tv"
       ],
@@ -48,21 +47,21 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f86e",
-      "correctAnswer": "Football",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502f2",
+      "correctAnswer": "Deer ",
       "incorrectAnswers": [
-        "Snooker",
-        "Cricket",
-        "Motor racing"
+        "Sheep",
+        "Pig",
+        "Goat"
       ],
       "question": {
-        "text": "With which sport is Cristiano Ronaldo associated?"
+        "text": "From what animal do we get venison?"
       },
       "tags": [
-        "people",
-        "general_knowledge",
-        "sport"
+        "animals",
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -71,20 +70,104 @@
     },
     {
       "category": "science",
-      "id": "63e13a18106de6ffa7d4a792",
-      "correctAnswer": "Triangle",
+      "id": "63f394fc989356ef48370bd6",
+      "correctAnswer": "The Sun",
       "incorrectAnswers": [
-        "Square",
-        "Parallelogram",
-        "Trapezoid"
+        "Alpha Centauri",
+        "Betelgeuse",
+        "Proxima Centauri"
       ],
       "question": {
-        "text": "What is the name of a shape with three sides?"
+        "text": "What is the name of the star in the center of our Solar System?"
       },
       "tags": [
         "science",
-        "mathematics",
-        "shapes"
+        "space",
+        "the_solar_system",
+        "astrophysics"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6243354acfaae40c12961499",
+      "correctAnswer": "A Ewe",
+      "incorrectAnswers": [
+        "A Bitch",
+        "A Soar",
+        "A Cow"
+      ],
+      "question": {
+        "text": "What is a female sheep known as?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570237a97013de78b553f",
+      "correctAnswer": "Yellow",
+      "incorrectAnswers": [
+        "White",
+        "Gray",
+        "Brown"
+      ],
+      "question": {
+        "text": "What is the typical color of pure sulfur at room temperature?"
+      },
+      "tags": [
+        "science",
+        "chemistry"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd4f",
+      "correctAnswer": "Guitar",
+      "incorrectAnswers": [
+        "Piano",
+        "Drums",
+        "Saxophone"
+      ],
+      "question": {
+        "text": "With Which Instrument Is Les Paul Associated?"
+      },
+      "tags": [
+        "people",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502f6",
+      "correctAnswer": "Bread ",
+      "incorrectAnswers": [
+        "Cheese",
+        "Cake",
+        "Wine"
+      ],
+      "question": {
+        "text": "Bruschetta is what?"
+      },
+      "tags": [
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -93,7 +176,7 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eeb",
+      "id": "622a1c397cc59eab6f950ef2",
       "correctAnswer": "Charles Dickens",
       "incorrectAnswers": [
         "Oscar Wilde",
@@ -101,7 +184,7 @@
         "Henryk Sienkiewicz"
       ],
       "question": {
-        "text": "Which author wrote 'Great Expectations'?"
+        "text": "Which author wrote 'A Christmas Carol'?"
       },
       "tags": [
         "arts_and_literature"
@@ -112,82 +195,16 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "63a03974c7d86251f9b65c5e",
-      "correctAnswer": "Ariel",
-      "incorrectAnswers": [
-        "Belle",
-        "Jasmine",
-        "Elsa"
-      ],
-      "question": {
-        "text": "What is the name of the mermaid in the Disney film The Little Mermaid?"
-      },
-      "tags": [
-        "film_and_tv",
-        "disney",
-        "film",
-        "fictitious_characters"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "65056e5f7a97013de78b52cb",
-      "correctAnswer": "Rhythm and Blues",
+      "id": "6266bb34ff7b6ee0496ec784",
+      "correctAnswer": "Percussion",
       "incorrectAnswers": [
-        "Bossa nova",
-        "Polka",
-        "Classical music"
+        "Brass",
+        "Stringed",
+        "Woodwind"
       ],
       "question": {
-        "text": "Which musical genre is widely considered a direct predecessor of rock and roll?"
-      },
-      "tags": [
-        "music",
-        "rock",
-        "genres"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c6148badf21197f98f771",
-      "correctAnswer": "United States",
-      "incorrectAnswers": [
-        "Brunei",
-        "Bahrain",
-        "Vietnam"
-      ],
-      "question": {
-        "text": "Where in the world would you most expect to be served Mac 'N' Cheese?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c3d7cc59eab6f951cad",
-      "correctAnswer": "Winter Wonderland",
-      "incorrectAnswers": [
-        "Jingle Bells",
-        "Driving Home For Christmas",
-        "Silent Night"
-      ],
-      "question": {
-        "text": "In which famous Christmas Song is a snowman pretended to be \"Parsons Brown\"?"
+        "text": "What type of instrument is a bongo?"
       },
       "tags": [
         "music"
@@ -198,305 +215,20 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "625698549da29df7b05f7280",
-      "correctAnswer": "Tony Stark",
-      "incorrectAnswers": [
-        "The Grandmaster",
-        "Alexander Pierce",
-        "Vision"
-      ],
-      "question": {
-        "text": "In the Marvel Cinematic Universe, which character is played by Robert Downey Jr.?"
-      },
-      "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
-        "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c60c095b12387e142c79b",
-      "correctAnswer": "Ramen",
-      "incorrectAnswers": [
-        "Ceviche",
-        "Plov",
-        "Chilli Crab"
-      ],
-      "question": {
-        "text": "Which of these dishes would you most expect to find in Japan?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570317a97013de78b5552",
-      "correctAnswer": "Larynx (voice box)",
-      "incorrectAnswers": [
-        "Ear",
-        "Stomach",
-        "Liver"
-      ],
-      "question": {
-        "text": "In which part of the human throat is the epiglottis located?"
-      },
-      "tags": [
-        "science",
-        "anatomy"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b5839fd6c701a921183a6",
-      "correctAnswer": "Brazil",
-      "incorrectAnswers": [
-        "Spain",
-        "Egypt",
-        "Argentina"
-      ],
-      "question": {
-        "text": "In which country would you find the city of Rio de Janeiro?"
-      },
-      "tags": [
-        "cities",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6505702b7a97013de78b5549",
-      "correctAnswer": "Neutrino",
-      "incorrectAnswers": [
-        "Electron",
-        "Muon",
-        "Tau"
-      ],
-      "question": {
-        "text": "Which of the following particles does NOT carry electric charge?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503fe",
-      "correctAnswer": "Aqueduct",
-      "incorrectAnswers": [
-        "Canal",
-        "Forum",
-        "Arena"
-      ],
-      "question": {
-        "text": "What did the Romans build to convey water? "
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262885a4b176d54800e3d97",
-      "correctAnswer": "Because you're worth it",
-      "incorrectAnswers": [
-        "Quality never goes out of style",
-        "Maybe she's born with it",
-        "It's Style"
-      ],
-      "question": {
-        "text": "Which marketing slogan would you associate with L'Oreal?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "fashion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502bc",
-      "correctAnswer": "Pasta ",
-      "incorrectAnswers": [
-        "Chicken",
-        "Cheese",
-        "Bread"
-      ],
-      "question": {
-        "text": "What Is Ravioli? "
-      },
-      "tags": [
-        "food",
-        "general_knowledge",
-        "words",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6256986c9da29df7b05f7286",
-      "correctAnswer": "Chris Hemsworth",
-      "incorrectAnswers": [
-        "Jon Favreau",
-        "John Slattery",
-        "Tom Holland"
-      ],
-      "question": {
-        "text": "The role of Thor in the Marvel Cinematic Universe is played by which actor?"
-      },
-      "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b583dfd6c701a921183a8",
-      "correctAnswer": "England",
-      "incorrectAnswers": [
-        "Italy",
-        "France",
-        "Belgium"
-      ],
-      "question": {
-        "text": "In which country would you find the UNESCO World Heritage site of Stonehenge?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fce8",
-      "correctAnswer": "Indo-European",
-      "incorrectAnswers": [
-        "Niger–Congo",
-        "Afroasiatic",
-        "Dravidian"
-      ],
-      "question": {
-        "text": "The language 'German' belongs to which language family?"
-      },
-      "tags": [
-        "germany",
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056fdf7a97013de78b54e0",
-      "correctAnswer": "Physicist",
-      "incorrectAnswers": [
-        "Physician",
-        "Physiatrist",
-        "Physicalist"
-      ],
-      "question": {
-        "text": "What term is used for someone who studies physics?"
-      },
-      "tags": [
-        "science",
-        "occupations"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63e4c35f106de6ffa7d4a7e0",
-      "correctAnswer": "Red, White, and Blue",
-      "incorrectAnswers": [
-        "Green, White, and Red",
-        "Yellow, White, and Blue",
-        "Red, White, and Yellow"
-      ],
-      "question": {
-        "text": "What colors are traditionally associated with the US Independence Day (4th of July)?"
-      },
-      "tags": [
-        "society_and_culture",
-        "usa",
-        "celebrations",
-        "colours"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950083",
-      "correctAnswer": "Basketball",
+      "id": "622a1c347cc59eab6f94f8c9",
+      "correctAnswer": "Tennis",
       "incorrectAnswers": [
-        "Volleyball",
         "Football",
-        "Baseball"
+        "Table tennis",
+        "Motor Racing"
       ],
       "question": {
-        "text": "What Sport Do The Harlem Globetrotters Play?"
+        "text": "With which sport is Serena Williams associated?"
       },
       "tags": [
+        "people",
+        "general_knowledge",
         "sport"
       ],
       "type": "text_choice",
@@ -505,21 +237,21 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c357cc59eab6f950021",
-      "correctAnswer": "Soccer",
+      "category": "music",
+      "id": "625063d7e12f6dec240bdf86",
+      "correctAnswer": "Nothing Compares 2 U",
       "incorrectAnswers": [
-        "Basketball",
-        "Volleyball",
-        "Rugby"
+        "Whoomp! (There It Is)",
+        "Whip It",
+        "Bust a Move"
       ],
       "question": {
-        "text": "With which sport is Pelé associated?"
+        "text": "What song did Sinead O'Connor have a hit with in 1990?"
       },
       "tags": [
-        "sport",
-        "people",
-        "general_knowledge"
+        "songs",
+        "one_hit_wonders",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -528,15 +260,267 @@
     },
     {
       "category": "science",
-      "id": "622a1c3f7cc59eab6f952397",
-      "correctAnswer": "Symbiosis",
+      "id": "622a1c3f7cc59eab6f9523ac",
+      "correctAnswer": "Amnesia",
       "incorrectAnswers": [
-        "Parasitism",
-        "Syncronicity",
-        "Parallelism"
+        "Insomnia",
+        "Coma",
+        "Kleptomania"
       ],
       "question": {
-        "text": "What is the word for a relationship between two different types of organism which live together for their mutual benefit?"
+        "text": "A loss of memory is known as what?"
+      },
+      "tags": [
+        "medicine",
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "64e6fca90b79e5bedd55c7f5",
+      "correctAnswer": "Left",
+      "incorrectAnswers": [
+        "Right",
+        "Front (bow)",
+        "Rear (stern)"
+      ],
+      "question": {
+        "text": "On a sailing ship, which side is called 'port'?"
+      },
+      "tags": [
+        "sailing",
+        "nautical"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6243357dcfaae40c129614ad",
+      "correctAnswer": "A Hatchling",
+      "incorrectAnswers": [
+        "A Piglet",
+        "A Maggot",
+        "A Lamb"
+      ],
+      "question": {
+        "text": "What is the word for a young turtle?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f951617",
+      "correctAnswer": "100",
+      "incorrectAnswers": [
+        "0",
+        "273",
+        "71"
+      ],
+      "question": {
+        "text": "At What Temperature Centigrade Does Water Boil At?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6494beb7d7601042f7eaa943",
+      "correctAnswer": "Forbidden fruit",
+      "incorrectAnswers": [
+        "Bad apple",
+        "Posioned chalice",
+        "Sour grapes"
+      ],
+      "question": {
+        "text": "What is the term used to refer to the food that God instructed Adam not to eat in the bible?"
+      },
+      "tags": [
+        "christianity",
+        "bible",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c608650d1a5e051325a61",
+      "correctAnswer": "France",
+      "incorrectAnswers": [
+        "Austria",
+        "Benin",
+        "North Africa"
+      ],
+      "question": {
+        "text": "Crêpes are most associated with which part of the world?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573fb53d2f5c16bfb88339",
+      "correctAnswer": "A cyborg must protect a ten-year-old boy from a more powerful cyborg.",
+      "incorrectAnswers": [
+        "A criminal pleads insanity and is admitted to a mental institution.",
+        "An NYPD officer tries to save his wife taken hostage by terrorists during a Christmas party.",
+        "A car salesman's inept crime falls apart due to his and his henchmen's bungling."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Terminator 2: Judgment Day?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63bc3faa0e893d6e5a6a0fd7",
+      "correctAnswer": "Disco",
+      "incorrectAnswers": [
+        "Grunge",
+        "Hippie",
+        "Preppy"
+      ],
+      "question": {
+        "text": "What is the name of the fashion trend popularized in the 1970s that involves wearing bell-bottoms, platform shoes, and oversized shirts?"
+      },
+      "tags": [
+        "society_and_culture",
+        "fashion",
+        "1970's"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950a24",
+      "correctAnswer": "Spain",
+      "incorrectAnswers": [
+        "Morocco",
+        "Andorra",
+        "France"
+      ],
+      "question": {
+        "text": "Which of these countries borders Portugal?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b5848fd6c701a921183ac",
+      "correctAnswer": "Japan",
+      "incorrectAnswers": [
+        "Indonesia",
+        "China",
+        "South Korea"
+      ],
+      "question": {
+        "text": "In which country would you find Mount Fuji?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ecb67f41d6338b96ef05",
+      "correctAnswer": "38th President of the USA. ",
+      "incorrectAnswers": [
+        "Developed the world's first vaccine (for smallpox).",
+        "Italian explorer who landed in America.",
+        "Dictator of Nazi Germany."
+      ],
+      "question": {
+        "text": "Which of the following describes John F. Kennedy?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9dff796f721e95543f38",
+      "correctAnswer": "Brazil",
+      "incorrectAnswers": [
+        "Jamaica",
+        "Faroe Islands",
+        "Iran"
+      ],
+      "question": {
+        "text": "Which country's flag can be described as 'Green with a yellow diamond in the center with a blue celestial globe.'?"
+      },
+      "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95048b",
+      "correctAnswer": "society",
+      "incorrectAnswers": [
+        "bones",
+        "the preparation of books and manuscripts",
+        "nematodes"
+      ],
+      "question": {
+        "text": "What is Sociology the study of?"
       },
       "tags": [
         "science"
@@ -548,21 +532,17 @@
     },
     {
       "category": "geography",
-      "id": "6233843e62eaad73716a8bf7",
-      "correctAnswer": "The Ganges",
+      "id": "6233861762eaad73716a8cb1",
+      "correctAnswer": "India",
       "incorrectAnswers": [
-        "The Indus",
-        "The Brahmaputra",
-        "The Krishna"
+        "China",
+        "Russia",
+        "Saudi Arabia"
       ],
       "question": {
-        "text": "What is the most sacred river in India?"
+        "text": "Where is Kolkata?"
       },
       "tags": [
-        "rivers",
-        "bodies_of_water",
-        "religion",
-        "hinduism",
         "geography"
       ],
       "type": "text_choice",
@@ -572,18 +552,21 @@
     },
     {
       "category": "general_knowledge",
-      "id": "64824e697778562fd76a962d",
-      "correctAnswer": "Opaque",
+      "id": "64730798cf09068746f6377c",
+      "correctAnswer": "Abbreviate",
       "incorrectAnswers": [
-        "Transparent",
-        "Translucent",
-        "Obtuse"
+        "Abolish",
+        "Abduct",
+        "Abhor"
       ],
       "question": {
-        "text": "What word means that an object is impossible to see through?"
+        "text": "What is the verb that means to shorten a word or phrase by omitting letters?"
       },
       "tags": [
+        "vocabulary",
+        "grammar",
         "words",
+        "language",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -592,68 +575,62 @@
       "isNiche": false
     },
     {
+      "category": "music",
+      "id": "648ee4224fe93387161138ab",
+      "correctAnswer": "Happy",
+      "incorrectAnswers": [
+        "Joyful",
+        "Excited",
+        "Satisfied"
+      ],
+      "question": {
+        "text": "What is the one-word title of a 2014 Pharrell Williams hit?"
+      },
+      "tags": [
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "65056e0a7a97013de78b5254",
+      "correctAnswer": "Conductor",
+      "incorrectAnswers": [
+        "Composer",
+        "Soloist",
+        "Concertmaster"
+      ],
+      "question": {
+        "text": "Who directs an orchestra?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
       "category": "geography",
-      "id": "623740ddcb85f7ce9e949d2a",
-      "correctAnswer": "Rome",
+      "id": "622a1c387cc59eab6f950aa4",
+      "correctAnswer": "United States of America",
       "incorrectAnswers": [
-        "Venice",
-        "Florence",
-        "Milan"
+        "El Salvador",
+        "Honduras",
+        "Nicaragua"
       ],
       "question": {
-        "text": "What is the capital city of Italy?"
+        "text": "Which of these countries borders Mexico?"
       },
       "tags": [
-        "italy",
-        "capital_cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9c1",
-      "correctAnswer": "Barack Obama",
-      "incorrectAnswers": [
-        "Calvin Coolidge",
-        "Ronald Reagan",
-        "Zachary Taylor"
-      ],
-      "question": {
-        "text": "Who was the 44th president of the USA, in term during the period 2009–2017?"
-      },
-      "tags": [
+        "central_america",
         "general_knowledge",
-        "usa",
-        "presidents",
-        "people",
-        "leaders",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "645cb1257d263fd50970439c",
-      "correctAnswer": "An Advent calendar",
-      "incorrectAnswers": [
-        "A Holy calendar",
-        "A Kwanzaa calendar",
-        "A Countdown calendar"
-      ],
-      "question": {
-        "text": "What kind of calendar used to count the days until Christmas and often has a treat behind each window?"
-      },
-      "tags": [
-        "traditions",
-        "candy",
-        "christmas"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
