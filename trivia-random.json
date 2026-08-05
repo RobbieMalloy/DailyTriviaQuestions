@@ -1,85 +1,63 @@
 {
-  "gameDate": "2026-08-04",
+  "gameDate": "2026-08-05",
   "difficulty": "random",
   "results": [
     {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f9522e0",
-      "correctAnswer": "Lightning",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95029a",
+      "correctAnswer": "Smoked Haddock",
       "incorrectAnswers": [
-        "Waves",
-        "Galaxies",
-        "Clouds"
+        "Pickled Herring",
+        "Spiced Basa",
+        "Battered Cod"
       ],
       "question": {
-        "text": "Forked, Sheet, and Ball are types of what?"
+        "text": "What type of fish is in an omelette Arnold Bennett?"
       },
       "tags": [
-        "science",
-        "meteorology"
+        "fish",
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951107",
-      "correctAnswer": "Rattlesnakes",
-      "incorrectAnswers": [
-        "Spiders",
-        "Frogs",
-        "Beetles"
-      ],
-      "question": {
-        "text": "__________ gather in groups to sleep through the winter. "
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950089",
-      "correctAnswer": "Catcher",
-      "incorrectAnswers": [
-        "Pitcher",
-        "Guard",
-        "Steer"
-      ],
-      "question": {
-        "text": "What Is The Name Of The Player In Baseball Who Is Positioned Behind The Home Plate"
-      },
-      "tags": [
-        "baseball",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "geography",
-      "id": "62602e254b176d54800e3cc5",
-      "correctAnswer": "Malmö",
+      "id": "6233863a62eaad73716a8cbe",
+      "correctAnswer": "New Hampshire",
       "incorrectAnswers": [
-        "Barcelona",
-        "Vienna",
-        "Madrid"
+        "Washington",
+        "Oregon",
+        "Texas"
       ],
       "question": {
-        "text": "Which of these cities is in Sweden?"
+        "text": "In which US state is Mount Washington?"
       },
       "tags": [
-        "cities",
-        "europe",
         "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515a9",
+      "correctAnswer": "Very Rare ",
+      "incorrectAnswers": [
+        "Boiled",
+        "Very Well Done",
+        "Medium"
+      ],
+      "question": {
+        "text": "How is steak cooked if cooked blue?"
+      },
+      "tags": [
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -88,15 +66,298 @@
     },
     {
       "category": "society_and_culture",
-      "id": "637162911bf863c45ca6c387",
-      "correctAnswer": "Bono malum superate",
+      "id": "62c2f9d4b3eadb0437fda6a6",
+      "correctAnswer": "MSN",
       "incorrectAnswers": [
-        "Bona fide",
-        "Humilitas occidit superbiam",
-        "Fortiter et fideliter"
+        "Hermès",
+        "Playboy",
+        "Nestlé"
       ],
       "question": {
-        "text": "Which of these Latin phrases means 'Overcome evil with good'?"
+        "text": "Which of these brands has a butterfly on its logo?"
+      },
+      "tags": [
+        "society_and_culture",
+        "business",
+        "marketing",
+        "animals",
+        "logos",
+        "symbols"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9505ea",
+      "correctAnswer": "Sarah Jessica Parker",
+      "incorrectAnswers": [
+        "Audrey Hepburn",
+        "Sally Hawkins",
+        "Lucy Lawless"
+      ],
+      "question": {
+        "text": "Which actress has starred in both Sex and the City and Ed Wood?"
+      },
+      "tags": [
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fbc0",
+      "correctAnswer": "\"A Day in the Life\" by the Beatles",
+      "incorrectAnswers": [
+        "\"Let it Be\" by the Beatles",
+        "\"Yo Home to Bel-Air\"",
+        "\"Old Man\" by Neil Young"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"I read the news today, oh boy...\"?"
+      },
+      "tags": [
+        "songs",
+        "lyrics",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e0f",
+      "correctAnswer": "Stendhal",
+      "incorrectAnswers": [
+        "Octave Mirbeau",
+        "Alphonse Daudet",
+        "Guy de Maupassant"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Charterhouse of Parma'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6470d59c32850588056636e7",
+      "correctAnswer": "Left-handed",
+      "incorrectAnswers": [
+        "Lightweight",
+        "Quick-footed",
+        "Unpredictable"
+      ],
+      "question": {
+        "text": "In boxing, what is meant by, the term 'southpaw'?"
+      },
+      "tags": [
+        "boxing",
+        "sport",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501c5",
+      "correctAnswer": "Romeo and Juliet",
+      "incorrectAnswers": [
+        "The Great Gatsby",
+        "Eine Geschichte des Universums in 100 Sternen",
+        "Madame Bovary"
+      ],
+      "question": {
+        "text": "Which piece of written work starts with the line 'Two households, both alike in dignity, in fair Verona, where we lay our scene, from ancient grudge break to new mutiny, where civil blood makes civil hands unclean.'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "645f9526541c4d4fc8cf2eb4",
+      "correctAnswer": "Argon",
+      "incorrectAnswers": [
+        "Neon",
+        "Helium",
+        "Radon"
+      ],
+      "question": {
+        "text": "What is the name of the inert gas with atomic number 18?"
+      },
+      "tags": [
+        "chemistry",
+        "chemical_elements",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6477ba9e550bc819ad646af6",
+      "correctAnswer": "The Galápagos",
+      "incorrectAnswers": [
+        "Aruba",
+        "Belize",
+        "Bora Bora"
+      ],
+      "question": {
+        "text": "Which Ecuadorian islands are home to blue-footed boobies?"
+      },
+      "tags": [
+        "birds",
+        "islands",
+        "science",
+        "animals",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "64f6d9bd660c3a8d960101f6",
+      "correctAnswer": "Mark Antony",
+      "incorrectAnswers": [
+        "Brutus",
+        "Cassius",
+        "Octavius"
+      ],
+      "question": {
+        "text": "In Shakespeare's play Julius Caesar, who begins the speech that opens 'Friends, Romans, countrymen...'?"
+      },
+      "tags": [
+        "Shakespeare",
+        "Julius Caesar",
+        "literature",
+        "play"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c377cc59eab6f950446",
+      "correctAnswer": "Scorpio",
+      "incorrectAnswers": [
+        "Aries",
+        "Gemini",
+        "Cancer"
+      ],
+      "question": {
+        "text": "If you were born on Halloween, what star sign would you be"
+      },
+      "tags": [
+        "halloween",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f9522d9",
+      "correctAnswer": "Sperm Whale",
+      "incorrectAnswers": [
+        "Anaconda",
+        "Silverback Gorilla",
+        "Tortoise"
+      ],
+      "question": {
+        "text": "From what animal is ambergris obtained?"
+      },
+      "tags": [
+        "biology",
+        "science",
+        "animals"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f95063f",
+      "correctAnswer": "Richard Harris",
+      "incorrectAnswers": [
+        "Sam Shepard",
+        "James Hong",
+        "Jon Bernthal"
+      ],
+      "question": {
+        "text": "Which actor has featured in films including Harry Potter and the Philosopher's Stone and Gladiator?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3a7cc59eab6f95104a",
+      "correctAnswer": "Precious Metals",
+      "incorrectAnswers": [
+        "Radiation",
+        "Wind Strength",
+        "Acidity"
+      ],
+      "question": {
+        "text": "What Is Measured Using The Troy System?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "637162311bf863c45ca6c35c",
+      "correctAnswer": "Carpe vinum",
+      "incorrectAnswers": [
+        "Nil volentibus arduum",
+        "Memores acti prudentes future",
+        "Oderint dum metuant"
+      ],
+      "question": {
+        "text": "Which of these Latin phrases means 'Seize the wine'?"
       },
       "tags": [
         "society_and_culture",
@@ -105,92 +366,27 @@
         "classics"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515ce",
-      "correctAnswer": "Hungary ",
-      "incorrectAnswers": [
-        "India",
-        "Portugal",
-        "Turkey"
-      ],
-      "question": {
-        "text": "From which country Does Bull's Blood wine originate?"
-      },
-      "tags": [
-        "drink",
-        "wine",
-        "alcohol",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "626030a04b176d54800e3d32",
-      "correctAnswer": "Lagos",
-      "incorrectAnswers": [
-        "Casablanca",
-        "Khartoum",
-        "Luanda"
-      ],
-      "question": {
-        "text": "Which of these cities is in Nigeria?"
-      },
-      "tags": [
-        "cities",
-        "africa",
-        "geography"
-      ],
-      "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "646261c8ab138b829b81e994",
-      "correctAnswer": "60",
+      "category": "general_knowledge",
+      "id": "647638d1f05ea6d6f587a156",
+      "correctAnswer": "Répondez S'il Vous Plaît",
       "incorrectAnswers": [
-        "12",
-        "20",
-        "30"
+        "Rester Sans Vôtre Poisson",
+        "Respond Soon Via Phone",
+        "Request Some Vacation Plans"
       ],
       "question": {
-        "text": "What is the lowest common multiple of 3, 4 and 5?"
+        "text": "What does the 4-letter abbreviation RSVP stand for?"
       },
       "tags": [
-        "numbers",
-        "arithmetic",
-        "mathematics",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6266bb37ff7b6ee0496ec785",
-      "correctAnswer": "Percussion",
-      "incorrectAnswers": [
-        "Woodwind",
-        "Stringed",
-        "Brass"
-      ],
-      "question": {
-        "text": "What type of instrument are the castanets?"
-      },
-      "tags": [
-        "music"
+        "abbreviations",
+        "initials",
+        "society_and_culture",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -199,20 +395,65 @@
     },
     {
       "category": "music",
-      "id": "6463391301d576cfac3aa302",
-      "correctAnswer": "Neil Diamond",
+      "id": "622a1c397cc59eab6f950d58",
+      "correctAnswer": "Motörhead",
       "incorrectAnswers": [
-        "Elton John",
-        "The Beatles",
-        "The Rolling Stones"
+        "Deep Purple",
+        "Feeder",
+        "Motley Crüe"
       ],
       "question": {
-        "text": "Which musician had a hit in 1967 with \"Kentucky Woman\"?"
+        "text": "Which band was founded by Lemmy?"
+      },
+      "tags": [
+        "music",
+        "bands"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff35",
+      "correctAnswer": "Michael Jackson",
+      "incorrectAnswers": [
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
+      ],
+      "question": {
+        "text": "Which musician released the song 'Beat It'?"
       },
       "tags": [
         "songs",
-        "music",
-        "1960's"
+        "musicians",
+        "1980's",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fa74",
+      "correctAnswer": "Cuba Gooding, Jr.",
+      "incorrectAnswers": [
+        "William H. Macy",
+        "Armin Mueller-Stahl",
+        "Edward Norton"
+      ],
+      "question": {
+        "text": "Who won the 1996 Academy Award for Best Supporting Actor for playing the role of Rod Tidwell in Jerry Maguire?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "academy_awards"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -221,18 +462,19 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f78",
-      "correctAnswer": "Stephen King",
+      "id": "622a1c3b7cc59eab6f9513c9",
+      "correctAnswer": "The Chronicles of Narnia",
       "incorrectAnswers": [
-        "H. P. Lovecraft",
-        "Edgar Allan Poe",
-        "Jack Vance"
+        "Harry Potter",
+        "The Neverending Story",
+        "Divergent"
       ],
       "question": {
-        "text": "Which author wrote 'Night Shift'?"
+        "text": "In which book series does 'Lucy Pevensie' appear?"
       },
       "tags": [
         "literature",
+        "young_adult",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -241,260 +483,65 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "63adbd7704c68cc1e14b8e47",
-      "correctAnswer": "Crust",
+      "category": "music",
+      "id": "62506452e12f6dec240bdfaa",
+      "correctAnswer": "Makin' It",
       "incorrectAnswers": [
-        "Mantle",
-        "Core",
-        "Stoam"
+        "Cum on Feel the Noize",
+        "Barbie Girl",
+        "Don't Leave Me This Way"
       ],
       "question": {
-        "text": "What is the name of the solid outermost layer of the Earth?"
+        "text": "David Naughton had a one hit wonder with which song?"
       },
       "tags": [
-        "geology",
-        "science",
-        "earth"
+        "songs",
+        "one_hit_wonders",
+        "music"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "625698b89da29df7b05f7299",
-      "correctAnswer": "Chadwick Boseman",
+      "id": "646262f6ab138b829b81ea6a",
+      "correctAnswer": "ER",
       "incorrectAnswers": [
-        "Clark Gregg",
-        "Robert Downey Jr.",
-        "Benedict Wong"
+        "Grey's Anatomy",
+        "House M.D.",
+        "Chicago Med"
       ],
       "question": {
-        "text": "Which actor played the role of T'Challa in the Marvel Cinematic Universe?"
+        "text": "What is the name of the NBC drama series set in County General Hospital?"
       },
       "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
+        "tv",
         "film_and_tv"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9504b8",
-      "correctAnswer": "Veins",
-      "incorrectAnswers": [
-        "Skin",
-        "Hair",
-        "Liver"
-      ],
-      "question": {
-        "text": "What part of the body is the medical field of phlebology concerned with?"
-      },
-      "tags": [
-        "science",
-        "medicine"
-      ],
-      "type": "text_choice",
       "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95022d",
-      "correctAnswer": "Double Gloucester & Stilton ",
-      "incorrectAnswers": [
-        "Cheddar & Red Leicester",
-        "Brie & Wensleydale",
-        "Gorgonzola & Mozzarella"
-      ],
-      "question": {
-        "text": "Which two cheeses are layered in a Huntsman Cheese?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62ab32c15202de619af28124",
-      "correctAnswer": "Ford",
-      "incorrectAnswers": [
-        "Alfa Romeo",
-        "BMW",
-        "Austin"
-      ],
-      "question": {
-        "text": "Which car manufacturer makes the Mustang?"
-      },
-      "tags": [
-        "motoring",
-        "business",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f9518d1",
-      "correctAnswer": "Guillotine",
+      "id": "62611f854b176d54800e3d5f",
+      "correctAnswer": "2015",
       "incorrectAnswers": [
-        "Firing Squad",
-        "Fire",
-        "Dogs"
+        "2000",
+        "1993",
+        "2004"
       ],
       "question": {
-        "text": "What was the instrument of execution during the \"Reign of Terror\"?"
+        "text": "In which year was the creation of the first artificial heart?"
       },
       "tags": [
-        "france",
-        "1700's",
-        "revolutions",
+        "events",
+        "inventions",
+        "medicine",
         "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64959827e831b1ab5aa11100",
-      "correctAnswer": "Non alcoholic",
-      "incorrectAnswers": [
-        "With ice",
-        "Strong",
-        "Served with a straw"
-      ],
-      "question": {
-        "text": "In cocktails, what does the word 'virgin' mean?"
-      },
-      "tags": [
-        "alcohol",
-        "drink",
-        "cocktails",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f958",
-      "correctAnswer": "The End of the Affair",
-      "incorrectAnswers": [
-        "Love in the Time of Cholera",
-        "Master and Commander",
-        "All the King's Men"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Maurice Bendrix'?"
-      },
-      "tags": [
-        "fictitious_characters",
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e49",
-      "correctAnswer": "Christopher Tolkien",
-      "incorrectAnswers": [
-        "Neil Gaiman",
-        "J. R. R. Tolkien",
-        "J. K. Rowling"
-      ],
-      "question": {
-        "text": "Which author wrote 'Unfinished Tales'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa10",
-      "correctAnswer": "‎Grant Wood",
-      "incorrectAnswers": [
-        "Georges Seurat",
-        "Vincent van Gogh",
-        "Peter Paul Rubens"
-      ],
-      "question": {
-        "text": "Which artist painted \"American Gothic\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f95106a",
-      "correctAnswer": "Seismologist",
-      "incorrectAnswers": [
-        "Geologist",
-        "Barologist",
-        "Gerologist"
-      ],
-      "question": {
-        "text": "What Do You Call A Person Who Studies Earthquakes?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9e0d796f721e95543f3b",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Green",
-        "Yellow",
-        "Gold"
-      ],
-      "question": {
-        "text": "Which of these colors is included on the flag of Cambodia?"
-      },
-      "tags": [
-        "flags",
-        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -503,19 +550,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6262af464b176d54800e3dba",
-      "correctAnswer": "Before Anyone Else",
+      "id": "645b69d8f09106226db2356d",
+      "correctAnswer": "Norse",
       "incorrectAnswers": [
-        "Best Among Equals",
-        "Brilliant Awesome Entertainment",
-        "Being An Enemy"
+        "Latin",
+        "Arabic",
+        "Greek"
       ],
       "question": {
-        "text": "On internet chats, what do the letters 'BAE' mean?"
+        "text": "From which language does the word 'ransack' come from?"
       },
       "tags": [
-        "the_internet",
-        "initials"
+        "etymology",
+        "words",
+        "language"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -523,42 +571,22 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe43",
-      "correctAnswer": "Denmark ",
+      "category": "society_and_culture",
+      "id": "647638d1f05ea6d6f587a153",
+      "correctAnswer": "BMW",
       "incorrectAnswers": [
-        "Sudan",
-        "Hungary",
-        "Japan"
+        "Mercedes-Benz",
+        "Audi",
+        "Volkswagen"
       ],
       "question": {
-        "text": "The Airline Danair Is Based Where?"
+        "text": "Which German automaker produces the X6 M sport utility vehicle?"
       },
       "tags": [
-        "business",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ffa1",
-      "correctAnswer": "Brussels",
-      "incorrectAnswers": [
-        "Antwerp",
-        "Ghent",
-        "Liège"
-      ],
-      "question": {
-        "text": "What is the capital of Belgium?"
-      },
-      "tags": [
-        "capital_cities",
-        "europe",
-        "geography"
+        "cars",
+        "motoring",
+        "brands",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -566,88 +594,66 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c3d7cc59eab6f951c84",
-      "correctAnswer": "IRAC",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdb9",
+      "correctAnswer": "MC Hammer",
       "incorrectAnswers": [
-        "HAL",
-        "OPAL",
-        "TRON"
+        "Vanilla Ice",
+        "Snoop Dogg",
+        "Sir Mix-a-Lot"
       ],
       "question": {
-        "text": "What was the name of the computer in TV's Wonder Woman?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950084",
-      "correctAnswer": "Surfing",
-      "incorrectAnswers": [
-        "Skate Boarding",
-        "Skiing",
-        "Boxing"
-      ],
-      "question": {
-        "text": "What sport do the following terms belong to - \"Hotdog & Bottom Trun\"?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f901",
-      "correctAnswer": "Macauley Culkin",
-      "incorrectAnswers": [
-        "Bill Murray",
-        "Andy Serkis",
-        "Al Pacino"
-      ],
-      "question": {
-        "text": "Which actor played the role of Kevin McCallister in Home Alone?"
+        "text": "Stanley Burrell Is The Real Name Of Which Popular 90's Musician?"
       },
       "tags": [
         "people",
-        "acting",
-        "cult_films",
-        "film",
-        "christmas",
-        "general_knowledge",
-        "film_and_tv"
+        "pseudonyms",
+        "music"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95133f",
-      "correctAnswer": "Rococco",
+      "category": "science",
+      "id": "6498aef29acaa77d9ad7c504",
+      "correctAnswer": "Prehensile",
       "incorrectAnswers": [
-        "Baroque",
-        "Neoclassical",
-        "Gothic"
+        "Persistent",
+        "Prophetic",
+        "Precipitous"
       ],
       "question": {
-        "text": "Which architectural style employed refined, elegant, highly decorative forms?"
+        "text": "What is the word used for a type of tail that can grasp objects?"
       },
       "tags": [
-        "words",
-        "architecture",
-        "art",
-        "arts_and_literature"
+        "biology",
+        "animals",
+        "science",
+        "nature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624334cdcfaae40c12961468",
+      "correctAnswer": "A Jenny",
+      "incorrectAnswers": [
+        "A Cow",
+        "A Sow",
+        "A Hembra"
+      ],
+      "question": {
+        "text": "A female mule is known as what?"
+      },
+      "tags": [
+        "names",
+        "animals",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
