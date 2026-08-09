@@ -1,63 +1,46 @@
 {
-  "gameDate": "2026-08-08",
+  "gameDate": "2026-08-09",
   "difficulty": "random",
   "results": [
     {
-      "category": "music",
-      "id": "6266bc26ff2394bd44dedffb",
-      "correctAnswer": "Percussion",
+      "category": "film_and_tv",
+      "id": "622a1c3c7cc59eab6f9517dc",
+      "correctAnswer": "David Cronenberg",
       "incorrectAnswers": [
-        "Woodwind",
-        "Brass",
-        "Stringed"
+        "Baz Luhrmann",
+        "Alfred Hitchcock",
+        "Peter Jackson"
       ],
       "question": {
-        "text": "What type of instrument is a cowbell?"
+        "text": "Which director's films included Shivers, Videodrome and The Fly?"
       },
       "tags": [
-        "music"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950dbc",
-      "correctAnswer": "Led Zeppelin",
+      "category": "history",
+      "id": "622a1c3b7cc59eab6f9516f9",
+      "correctAnswer": "Francisco Coronado",
       "incorrectAnswers": [
-        "The Beatles",
-        "Fleetwood Mac",
-        "The Kinks"
+        "Francisco Pizzaro",
+        "Hernando de Soto",
+        "Jose Garrido"
       ],
       "question": {
-        "text": "Which band was Robert Plant the lead singer for?"
+        "text": "Which Spanish conquistador's expedition marked the first European sighting of the Grand Canyon?"
       },
       "tags": [
-        "music",
-        "bands",
-        "musicians"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "6384b44d83dddfb71ee5e36f",
-      "correctAnswer": "Soccer",
-      "incorrectAnswers": [
-        "Cycling",
-        "American Football",
-        "Sailing"
-      ],
-      "question": {
-        "text": "Which sport is played at The Copa América?"
-      },
-      "tags": [
-        "sport"
+        "history",
+        "people",
+        "exploration",
+        "usa",
+        "natural_wonders"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -66,19 +49,37 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "645c9ff442ea81e2554c5f9c",
-      "correctAnswer": "Donkey, dog, cat and rooster",
+      "id": "622a1c397cc59eab6f950de4",
+      "correctAnswer": "Charles and Mary Lamb",
       "incorrectAnswers": [
-        "Horse, cow, pig and sheep",
-        "Mouse, rabbit, squirrel and fox",
-        "Duck, goose, swan and pigeon"
+        "Sebastian Brant",
+        "Agatha Christie",
+        "Rainer Maria Rilke"
       ],
       "question": {
-        "text": "In the Grimm fairy tale \"Town Musicians of Bremen\", which group of aging animals sets out for Bremen to become musicians?"
+        "text": "Which author wrote 'Tales from Shakspeare'?"
       },
       "tags": [
-        "animals",
-        "fairy_tales",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f60",
+      "correctAnswer": "Arthur Conan Doyle",
+      "incorrectAnswers": [
+        "Agatha Christie",
+        "Oscar Wilde",
+        "George Orwell"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Adventure of the Red-Headed League'?"
+      },
+      "tags": [
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -88,65 +89,62 @@
     },
     {
       "category": "society_and_culture",
-      "id": "646339a001d576cfac3aa397",
-      "correctAnswer": "Corduroy",
+      "id": "622a1c3b7cc59eab6f9516e2",
+      "correctAnswer": "The Council of Nicaea",
       "incorrectAnswers": [
-        "Chardonnay",
-        "Cordon Bleu",
-        "Cordon Sanitaire"
+        "The Papal Assembly",
+        "The Holy Synod",
+        "The Christian Commission"
       ],
       "question": {
-        "text": "What is the name of the durable cotton fabric derived from the French for \"Cord fit for the King\"?"
+        "text": "Who fixed the date of the Christian festival Easter?"
       },
       "tags": [
-        "clothing",
-        "fabric",
-        "words",
-        "fashion",
-        "society_and_culture"
+        "society_and_culture",
+        "christianity",
+        "religion"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "geography",
-      "id": "64720cd93bbb58c31f411cd2",
-      "correctAnswer": "Everglades",
+      "id": "6237414ecb85f7ce9e949d58",
+      "correctAnswer": "Bamako",
       "incorrectAnswers": [
-        "Yellowstone",
-        "Yosemite",
-        "Grand Canyon"
+        "Lomé",
+        "Managua",
+        "Zagreb"
       ],
       "question": {
-        "text": "Which subtropical American national park established in 1947 is known to harbor alligators?"
+        "text": "What is the capital city of Mali?"
       },
       "tags": [
-        "nature",
+        "capital_cities",
+        "africa",
         "geography"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "64824ee57778562fd76a96ac",
-      "correctAnswer": "Lobster",
+      "category": "geography",
+      "id": "623735fdcfe13103f55eb58e",
+      "correctAnswer": "Uganda",
       "incorrectAnswers": [
-        "Crab",
-        "Shrimp",
-        "Clam"
+        "Portugal",
+        "Uruguay",
+        "Uzbekistan"
       ],
       "question": {
-        "text": "Which type of seafood has varieties called Maine and spiny, and turns a vivid red only after it's been cooked?"
+        "text": "Which region of the world uses '.ug' at the end of its web addresses?"
       },
       "tags": [
-        "seafood",
-        "food_and_drink",
-        "food"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -154,83 +152,22 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950085",
-      "correctAnswer": "Canadian",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a98",
+      "correctAnswer": "Alaska",
       "incorrectAnswers": [
-        "American",
-        "English",
-        "Irish"
+        "Oregon",
+        "Idaho",
+        "Florida"
       ],
       "question": {
-        "text": "What Nationality Is Former Snooker World Champion Cliff Thorburn?"
+        "text": "On the 3rd January 1959 which state became America's 49th?"
       },
       "tags": [
-        "sport",
-        "people"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "63f394f9989356ef48370bd0",
-      "correctAnswer": "Violin",
-      "incorrectAnswers": [
-        "Viola",
-        "Cello",
-        "Double Bass"
-      ],
-      "question": {
-        "text": "What is the name of the highest pitched stringed instrument?"
-      },
-      "tags": [
-        "music",
-        "musical_instruments"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950099",
-      "correctAnswer": "The Ryder Cup",
-      "incorrectAnswers": [
-        "The FIFA World Cup",
-        "The UEFA Champion's League",
-        "The America's Cup"
-      ],
-      "question": {
-        "text": "The Solheim Cup Is The Woman's Equivalent Of Which Famous Sporting Cup?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb64",
-      "correctAnswer": "Ben-Hur",
-      "incorrectAnswers": [
-        "Anatomy of a Murder",
-        "The Diary of Anne Frank",
-        "The Nun's Story"
-      ],
-      "question": {
-        "text": "Which film won the Academy Award for Best Picture in 1959?"
-      },
-      "tags": [
-        "academy_awards",
-        "film",
-        "film_and_tv"
+        "1950's",
+        "usa",
+        "us_states",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -239,80 +176,20 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95136c",
-      "correctAnswer": "Art Nouveau",
+      "id": "6463391d01d576cfac3aa31b",
+      "correctAnswer": "The Great Gatsby",
       "incorrectAnswers": [
-        "Pop Art",
-        "Fauvism",
-        "Impressionism"
+        "For Whom the Bell Tolls",
+        "To Kill a Mockingbird",
+        "The Catcher in the Rye"
       ],
       "question": {
-        "text": "Which decorative art movement emerged in the late nineteenth century and was characterized by dense assymmetrical ornamentation in sinuous forms?"
+        "text": "Which 1925 classic is said to capture all the romance and glitter of the Jazz Age?"
       },
       "tags": [
+        "literature",
         "arts_and_literature",
-        "art"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3a7cc59eab6f9510e3",
-      "correctAnswer": "Oil",
-      "incorrectAnswers": [
-        "Blood",
-        "Sperm",
-        "Water"
-      ],
-      "question": {
-        "text": "A 42 foot sperm whale has about 7 tons of __________ in it."
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62443762746187c5e7be934d",
-      "correctAnswer": "Calcium sulphate dihydrate",
-      "incorrectAnswers": [
-        "Silicon dioxide",
-        "Iron Oxide",
-        "Isopropyl alcohol"
-      ],
-      "question": {
-        "text": "What chemical compound makes gypsum?"
-      },
-      "tags": [
-        "chemistry",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950533",
-      "correctAnswer": "Diseases of the stomach and intestines",
-      "incorrectAnswers": [
-        "Drug dosage",
-        "The origin and spread of diseases",
-        "The origin of stars"
-      ],
-      "question": {
-        "text": "What is Gastroenterology the study of?"
-      },
-      "tags": [
-        "science"
+        "classic_novels"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -320,70 +197,86 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6477bada550bc819ad646b53",
-      "correctAnswer": "Stephen Hawking",
+      "category": "film_and_tv",
+      "id": "625fd6cddc0dd3b72da64d0c",
+      "correctAnswer": "1968",
       "incorrectAnswers": [
-        "Albert Einstein",
-        "Issac Newton",
-        "Richard Feynman"
+        "1950",
+        "1956",
+        "1962"
       ],
       "question": {
-        "text": "Which physicist caused a stir in 2014 when he retracted his 1974 theory about black holes, stating that light may be able to escape them after all?"
+        "text": "In which year was 2001: A Space Odyssey released?"
       },
       "tags": [
-        "physics",
-        "science",
-        "scientific_discoveries",
-        "astrophysics",
-        "space"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624334dacfaae40c1296146d",
+      "correctAnswer": "A Pup",
+      "incorrectAnswers": [
+        "A Larva",
+        "A Farrow",
+        "A Joey"
+      ],
+      "question": {
+        "text": "A young otter is known as what?"
+      },
+      "tags": [
+        "words",
+        "animals",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "society_and_culture",
-      "id": "6499c2614e0e966accb0b979",
-      "correctAnswer": "Touch base",
+      "id": "6266e6ceff2394bd44dee066",
+      "correctAnswer": "Tien",
       "incorrectAnswers": [
-        "Home run",
-        "Out of left field",
-        "Grand slam"
+        "Zehn",
+        "Diez",
+        "Wit"
       ],
       "question": {
-        "text": "Which expression, originating from baseball, means to keep someone informed briefly?"
+        "text": "What is the Dutch word for 'ten'?"
       },
       "tags": [
-        "phrases",
-        "society_and_culture",
-        "basketball",
-        "baseball"
+        "language",
+        "translations",
+        "society_and_culture"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "64a9cc039bf4085beaa1b041",
-      "correctAnswer": "The Mormon Tabernacle",
+      "category": "film_and_tv",
+      "id": "647a121e55463d5ce2994fbb",
+      "correctAnswer": "The Sixth Sense",
       "incorrectAnswers": [
-        "The Amish Colonade",
-        "The Witness Hall",
-        "The Jesuit Amphitheatre"
+        "The Others",
+        "The Ring",
+        "The Grudge"
       ],
       "question": {
-        "text": "Which of these is an iconic Salt Lake City building?"
+        "text": "In which 1999 film does Bruce Willis meet a boy who can see dead people?"
       },
       "tags": [
-        "buildings",
-        "usa",
-        "utah",
-        "geography",
-        "society_and_culture"
+        "film",
+        "horror",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -392,19 +285,109 @@
     },
     {
       "category": "history",
-      "id": "622a1c347cc59eab6f94f9d2",
-      "correctAnswer": "Harry S. Truman",
+      "id": "64746ac15a4c31088dd9cfde",
+      "correctAnswer": "Bay of Pigs",
       "incorrectAnswers": [
-        "James Polk",
-        "Herbert Hoover",
-        "Grover Cleveland"
+        "Bay of Cows",
+        "Bay of Dogs",
+        "Bay of Sharks"
       ],
       "question": {
-        "text": "Who was the 33rd president of the USA, in term during the period 1945–1953?"
+        "text": "What is the name given to the USA's failed 1961 invasion of Cuba?"
       },
       "tags": [
-        "leaders",
+        "usa",
+        "cold_war",
+        "history",
+        "1960's",
+        "wars",
+        "cuba"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "647a126555463d5ce2994fe9",
+      "correctAnswer": "Smokey and the Bandit",
+      "incorrectAnswers": [
+        "White Lightning",
+        "The Cannonball Run",
+        "The Dukes of Hazzard"
+      ],
+      "question": {
+        "text": "In which 1977 film does Burt Reynolds drive a Trans Am from Georgia to Texas and back?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv",
+        "1970's"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e67dff2394bd44dee04e",
+      "correctAnswer": "Six",
+      "incorrectAnswers": [
+        "Ten",
+        "Eight",
+        "Black"
+      ],
+      "question": {
+        "text": "What does the word 'zes' mean in Dutch?"
+      },
+      "tags": [
+        "language",
+        "translations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc5e",
+      "correctAnswer": "Ulotrichous",
+      "incorrectAnswers": [
+        "Conjubilant",
+        "Kakorrhaphiophobia",
+        "Sprunt"
+      ],
+      "question": {
+        "text": "Which word is defined as 'having wooly or crispy hair'?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951c08",
+      "correctAnswer": "Richard Nixon",
+      "incorrectAnswers": [
+        "Donald Trump",
+        "Ronald Reagan",
+        "George W Bush"
+      ],
+      "question": {
+        "text": "Which President of the USA infamously allowed the bugging of the Democratic Committee headquarters?"
+      },
+      "tags": [
         "presidents",
+        "events",
         "usa",
         "history"
       ],
@@ -415,19 +398,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f9518fe",
-      "correctAnswer": "Reece's Pieces",
+      "id": "622a1c3c7cc59eab6f951809",
+      "correctAnswer": "The World Is Not Enough",
       "incorrectAnswers": [
-        "M&M's",
-        "Smores",
-        "Twinkies"
+        "Octopussy",
+        "Casino Royale",
+        "For Your Eyes Only"
       ],
       "question": {
-        "text": "What was E.T.'s favorite candy?"
+        "text": "Which Bond film features the character of Dr Christmas Jones?"
       },
       "tags": [
+        "james_bond",
         "film",
-        "food",
         "fictitious_characters",
         "film_and_tv"
       ],
@@ -437,18 +420,150 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f95103d",
-      "correctAnswer": "Es",
+      "category": "sport_and_leisure",
+      "id": "6473075ccf09068746f6376e",
+      "correctAnswer": "The latissimus dorsi",
       "incorrectAnswers": [
-        "El",
-        "En",
-        "Ei"
+        "The biceps",
+        "The triceps",
+        "The deltoids"
       ],
       "question": {
-        "text": "What is the chemical symbol for einsteinium?"
+        "text": "Which muscle group is mainly targeted by wide-grip pull-ups that work the muscles of the shoulders and the arms?"
       },
       "tags": [
+        "anatomy",
+        "exercise",
+        "fitness"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3b7cc59eab6f9513ca",
+      "correctAnswer": "Twilight",
+      "incorrectAnswers": [
+        "Voyages Extraordinaires",
+        "Harry Potter",
+        "Percy Jackson & the Olympians"
+      ],
+      "question": {
+        "text": "In which book series would you find the character 'Jacob Black'?"
+      },
+      "tags": [
+        "literature",
+        "young_adult",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "649d6d6de3aef0a3c23f6432",
+      "correctAnswer": "The Colossus of Rhodes",
+      "incorrectAnswers": [
+        "The Temple of Artemis",
+        "The Great Pyramid of Giza",
+        "The Statue of Zeus"
+      ],
+      "question": {
+        "text": "Which of the 7 Ancient Wonders of the World was a giant depiction of the Greek sun god Helios?"
+      },
+      "tags": [
+        "archaeology",
+        "ancient_greece",
+        "the_ancient_world",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570457a97013de78b556e",
+      "correctAnswer": "Subduction",
+      "incorrectAnswers": [
+        "Profession",
+        "Induction",
+        "Transgression"
+      ],
+      "question": {
+        "text": "What is the word used when one tectonic plate moves under another?"
+      },
+      "tags": [
+        "science",
+        "geology"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe56",
+      "correctAnswer": "Edinburgh ",
+      "incorrectAnswers": [
+        "London",
+        "Bath",
+        "Norwich"
+      ],
+      "question": {
+        "text": "In which British city is the Royal Mile?"
+      },
+      "tags": [
+        "uk",
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fd58",
+      "correctAnswer": "Russia",
+      "incorrectAnswers": [
+        "China",
+        "The USA",
+        "Australia"
+      ],
+      "question": {
+        "text": "Which country has the largest amount of timezones on its mainland?"
+      },
+      "tags": [
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504f7",
+      "correctAnswer": "Windmills and similar devices",
+      "incorrectAnswers": [
+        "Plant communities",
+        "Massage",
+        "The earth's atmosphere"
+      ],
+      "question": {
+        "text": "What is Molinology the study of?"
+      },
+      "tags": [
+        "words",
         "science"
       ],
       "type": "text_choice",
@@ -457,19 +572,20 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "6384b43583dddfb71ee5e365",
-      "correctAnswer": "Golf",
+      "category": "geography",
+      "id": "625e9e47796f721e95543f4c",
+      "correctAnswer": "Orange",
       "incorrectAnswers": [
-        "Sailing",
-        "Tennis",
-        "Athletics"
+        "Blue",
+        "Gold",
+        "Maroon"
       ],
       "question": {
-        "text": "Which sport is played at The US PGA?"
+        "text": "Which of these colors is included on the flag of Cote d'Ivoire?"
       },
       "tags": [
-        "sport"
+        "flags",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -477,62 +593,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "648891864cd3f064f443dc2e",
-      "correctAnswer": "A yo-yo",
+      "category": "music",
+      "id": "6250646de12f6dec240bdfb2",
+      "correctAnswer": "Timbuk 3",
       "incorrectAnswers": [
-        "A frisbee",
-        "A hula hoop",
-        "A skipping rope"
+        "Eddy Grant",
+        "Thelma Houston",
+        "Norman Greenbaum"
       ],
       "question": {
-        "text": "Which toy includes tricks like 'walking the dog' and 'around the world'?"
+        "text": "Who had a hit in 1986 with The Future's So Bright, I Gotta Wear Shades?"
       },
       "tags": [
-        "toys",
-        "games",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573fb13d2f5c16bfb88338",
-      "correctAnswer": "Django Unchained",
-      "incorrectAnswers": [
-        "Leon",
-        "Gran Torino",
-        "Monty Python and the Holy Grail"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A freed slave sets out to rescue his wife from a brutal plantation-owner.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950df9",
-      "correctAnswer": "D. H. Lawrence",
-      "incorrectAnswers": [
-        "Oscar Wilde",
-        "Charles Dickens",
-        "G. K. Chesterton"
-      ],
-      "question": {
-        "text": "Which author wrote 'Lady Chatterley's Lover'?"
-      },
-      "tags": [
-        "arts_and_literature"
+        "songs",
+        "one_hit_wonders",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -540,69 +615,21 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623b578afd6c701a92118364",
-      "correctAnswer": "Egypt",
+      "category": "history",
+      "id": "65056ead7a97013de78b5338",
+      "correctAnswer": "Amber",
       "incorrectAnswers": [
-        "Indonesia",
-        "Peru",
-        "Mexico"
+        "Acacia",
+        "Carob",
+        "Bees Wax"
       ],
       "question": {
-        "text": "In which country would you find the Pyramids of Giza?"
-      },
-      "tags": [
-        "tourist_attractions",
-        "classics",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623387fd0161109f922aac5b",
-      "correctAnswer": "Netherlands ",
-      "incorrectAnswers": [
-        "Thailand",
-        "Lesotho",
-        "Bangladesh"
-      ],
-      "question": {
-        "text": "Which Country has a name that literally means 'lower lands'?"
-      },
-      "tags": [
-        "names",
-        "words",
-        "language",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "65056f667a97013de78b543a",
-      "correctAnswer": "Henry Ford",
-      "incorrectAnswers": [
-        "Carl Benz",
-        "Rudolf Diesel",
-        "Gottlieb Daimler"
-      ],
-      "question": {
-        "text": "Who introduced the Model T in 1908, the first inexpensive car for the masses?"
+        "text": "What resin was used by Ancient Romans as jewelry?"
       },
       "tags": [
         "history",
-        "motoring",
-        "business",
-        "society_and_culture",
-        "1900's"
+        "romans",
+        "jewelry"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -610,41 +637,20 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "65056e927a97013de78b5313",
-      "correctAnswer": "Pickling",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ffcd",
+      "correctAnswer": "The Beach Boys",
       "incorrectAnswers": [
-        "Chilling",
-        "Canning",
-        "Smoking"
+        "Swans",
+        "Three 6 Mafia",
+        "The Velvet Underground"
       ],
       "question": {
-        "text": "What is the process of soaking and storing food in brine or vinegar?"
+        "text": "Who Had A Hit With \"Kokomo\""
       },
       "tags": [
-        "food_and_drink",
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e67",
-      "correctAnswer": "Margaret Atwood",
-      "incorrectAnswers": [
-        "Jules Verne",
-        "William Gibson",
-        "Frederik Pohl"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Handmaid's Tale'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
+        "songs",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
