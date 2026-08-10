@@ -1,22 +1,21 @@
 {
-  "gameDate": "2026-08-09",
+  "gameDate": "2026-08-10",
   "difficulty": "hard",
   "results": [
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f08",
-      "correctAnswer": "Fyodor Dostoyevsky",
+      "category": "geography",
+      "id": "62373738cfe13103f55eb59d",
+      "correctAnswer": "Vietnam",
       "incorrectAnswers": [
-        "Vladimir Nabokov",
-        "Leo Tolstoy",
-        "Mikhail Bulgakov"
+        "Vanuatu",
+        "Vienna",
+        "New Zealand"
       ],
       "question": {
-        "text": "Which author wrote 'The Idiot'?"
+        "text": "Which region of the world uses '.vn' at the end of its web addresses?"
       },
       "tags": [
-        "literature",
-        "arts_and_literature"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -24,23 +23,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "6498aef29acaa77d9ad7c507",
-      "correctAnswer": "Annie",
+      "category": "geography",
+      "id": "625e9e8c796f721e95543f5d",
+      "correctAnswer": "Yellow",
       "incorrectAnswers": [
-        "Cats",
-        "Chicago",
-        "Les Misérables"
+        "Maroon",
+        "Blue",
+        "White"
       ],
       "question": {
-        "text": "What musical features the songs 'Little Girls' and 'It's The Hard-knock Life'?"
+        "text": "Which of these colors would you find on the flag of Ghana?"
       },
       "tags": [
-        "theater",
-        "musicals",
-        "music",
-        "songs",
-        "arts_and_literature"
+        "flags",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -48,19 +44,86 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950df7",
-      "correctAnswer": "Yanka Kupala",
+      "category": "history",
+      "id": "62611f9d4b176d54800e3d65",
+      "correctAnswer": "1945",
       "incorrectAnswers": [
-        "Nikolai Gogol",
-        "Vladimir Nabokov",
-        "Henryk Sienkiewicz"
+        "1929",
+        "1960",
+        "1911"
       ],
       "question": {
-        "text": "Which author wrote 'Huśliar'?"
+        "text": "When was the ENIAC, the first programmable computer, created?"
       },
       "tags": [
-        "arts_and_literature"
+        "events",
+        "firsts",
+        "technology",
+        "inventions",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515c0",
+      "correctAnswer": "Cherry",
+      "incorrectAnswers": [
+        "Plum",
+        "Apple",
+        "Apricot"
+      ],
+      "question": {
+        "text": "From which fruit is the liqueur Kirsh made?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "63a039b4c7d86251f9b65ca4",
+      "correctAnswer": "Trinity",
+      "incorrectAnswers": [
+        "Little Boy",
+        "Fat Man",
+        "Big Bang"
+      ],
+      "question": {
+        "text": "What was the name of the first nuclear bomb tested by the United States?"
+      },
+      "tags": [
+        "history",
+        "usa"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "639c9dbf929b90846f2fc9b0",
+      "correctAnswer": "The Bhagavad Gita",
+      "incorrectAnswers": [
+        "The Upanishads",
+        "The Ramayana",
+        "The Puranas"
+      ],
+      "question": {
+        "text": "What is the name of the Hindu scripture that contains the dialogue between Krishna and Arjuna?"
+      },
+      "tags": [
+        "hinduism",
+        "religion",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -69,19 +132,59 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f950549",
-      "correctAnswer": "Wine and winemaking",
+      "id": "622a1c377cc59eab6f95055d",
+      "correctAnswer": "Flies",
       "incorrectAnswers": [
-        "Whales, dolphins and porpoises",
-        "Gross and disgusting things",
-        "Tibet"
+        "Schematics",
+        "The interpretation of symbols",
+        "Ligaments"
       ],
       "question": {
-        "text": "What is enology the study of?"
+        "text": "What is Dipterology the study of?"
       },
       "tags": [
-        "science",
-        "words"
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c367cc59eab6f9503df",
+      "correctAnswer": "Ceylon",
+      "incorrectAnswers": [
+        "Burma",
+        "East Pakistan",
+        "Persia"
+      ],
+      "question": {
+        "text": "What is the former name of Sri Lanka?"
+      },
+      "tags": [
+        "names",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c8f",
+      "correctAnswer": "Metallica",
+      "incorrectAnswers": [
+        "Alice Cooper",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
+      ],
+      "question": {
+        "text": "Which American heavy metal band released the studio album 'Kill 'Em All'?"
+      },
+      "tags": [
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -90,15 +193,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e90",
-      "correctAnswer": "Franz Kafka",
+      "id": "622a1c397cc59eab6f950e50",
+      "correctAnswer": "Samuel Beckett",
       "incorrectAnswers": [
-        "Émile Zola",
-        "Nathaniel Hawthorne",
-        "Leo Tolstoy"
+        "Oscar Wilde",
+        "Nikolai Gogol",
+        "Jonathan Swift"
       ],
       "question": {
-        "text": "Which author wrote 'In the Penal Colony'?"
+        "text": "Which author wrote 'Waiting for Godot'?"
       },
       "tags": [
         "arts_and_literature"
@@ -109,20 +212,41 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f989",
-      "correctAnswer": "The Power and the Glory",
+      "category": "music",
+      "id": "625064aae12f6dec240bdfc4",
+      "correctAnswer": "Quiet Riot",
       "incorrectAnswers": [
-        "The Remains of the Day",
-        "Post Office",
-        "Nine Stories"
+        "EMF",
+        "Toni Basil",
+        "Eddy Grant"
       ],
       "question": {
-        "text": "Which book contains the character 'The Whiskey Priest'?"
+        "text": "Who had a hit in 1983 with Cum on Feel the Noize?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eff",
+      "correctAnswer": "Ursula K. Le Guin",
+      "incorrectAnswers": [
+        "Stephen King",
+        "Jack Vance",
+        "George R. R. Martin"
+      ],
+      "question": {
+        "text": "Which author wrote 'Earthsea series'?"
       },
       "tags": [
         "literature",
-        "fictitious_characters",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -132,18 +256,17 @@
     },
     {
       "category": "general_knowledge",
-      "id": "6462628bab138b829b81ea28",
-      "correctAnswer": "Loggia",
+      "id": "622a1c377cc59eab6f950436",
+      "correctAnswer": "24",
       "incorrectAnswers": [
-        "Terrace",
-        "Gazebo",
-        "Patio"
+        "27",
+        "20",
+        "30"
       ],
       "question": {
-        "text": "Which of these architectural features is an outdoor corridor or gallery with a fully covered roof  and an outer wall that is open to the elements?"
+        "text": "How Old Was James Dean When He Died?"
       },
       "tags": [
-        "architecture",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -152,16 +275,122 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ed7",
-      "correctAnswer": "Walter Scott",
+      "category": "music",
+      "id": "622a1c367cc59eab6f9503aa",
+      "correctAnswer": "Thriller",
       "incorrectAnswers": [
-        "Oscar Wilde",
-        "J. R. R. Tolkien",
-        "Alphonse Daudet"
+        "Brothers in Arms",
+        "Tango in the Night",
+        "The Joshua Tree"
       ],
       "question": {
-        "text": "Which author wrote 'Waverley'?"
+        "text": "Which eighties album, selling over 20 million copies, featured an appearance by the classic horror actor Vincent Price?"
+      },
+      "tags": [
+        "1980's",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951b8b",
+      "correctAnswer": "Czechoslovakia",
+      "incorrectAnswers": [
+        "Hungary",
+        "Yugoslavia",
+        "Belarus"
+      ],
+      "question": {
+        "text": "In 1968 Which Country Did The USSR Invade To Stamp Out Liberal Reform?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c3c7cc59eab6f951a48",
+      "correctAnswer": "Melbourne",
+      "incorrectAnswers": [
+        "Cape Town",
+        "Buenos Aires",
+        "Rio de Janeiro"
+      ],
+      "question": {
+        "text": "The first ever Olympic Games to be held south of the equator opened in which city in 1956?"
+      },
+      "tags": [
+        "cities",
+        "olympics",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9507d1",
+      "correctAnswer": "Morgan Freeman",
+      "incorrectAnswers": [
+        "Christopher Lee",
+        "Liam Neeson",
+        "Arnold Schwarzenegger"
+      ],
+      "question": {
+        "text": "Which actor has featured in films including Batman Begins and Lucy?"
+      },
+      "tags": [
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "639c9dc1929b90846f2fc9b4",
+      "correctAnswer": "Azan",
+      "incorrectAnswers": [
+        "Adhan",
+        "Niqāb",
+        "Iqama"
+      ],
+      "question": {
+        "text": "What is the name of the Islamic call to prayer?"
+      },
+      "tags": [
+        "islam",
+        "religion",
+        "society_and_culture",
+        "traditions"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f950175",
+      "correctAnswer": "As You Like It",
+      "incorrectAnswers": [
+        "The Twelfth Night",
+        "A Midsummer Night's Dream",
+        "Richard III"
+      ],
+      "question": {
+        "text": "Which Shakespearean play is set in the forest of Arden?"
       },
       "tags": [
         "arts_and_literature"
@@ -172,86 +401,20 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "6250070c0d86c8f685d80f10",
-      "correctAnswer": "Shaped pasta",
+      "category": "film_and_tv",
+      "id": "625fd6d7dc0dd3b72da64d0f",
+      "correctAnswer": "1962",
       "incorrectAnswers": [
-        "Soup pasta",
-        "Stuffed pasta",
-        "Ribbon pasta"
+        "1950",
+        "1956",
+        "1968"
       ],
       "question": {
-        "text": "What type of pasta is strozzapreti?"
+        "text": "In which year was Lawrence of Arabia released?"
       },
       "tags": [
-        "food",
-        "italy",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ec5e7f41d6338b96eeeb",
-      "correctAnswer": "Physician who made contributions to understanding how blood circulates in the body.",
-      "incorrectAnswers": [
-        "Physicist who made discoveries in atomic physics.",
-        "United most of Western Europe to form the Carolingian Empire.",
-        "Artist and photographer, who is credited with the invention of the camera."
-      ],
-      "question": {
-        "text": "Which of the following describes William Harvey?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510db",
-      "correctAnswer": "Grist",
-      "incorrectAnswers": [
-        "Havok",
-        "Dazzle",
-        "Murmur"
-      ],
-      "question": {
-        "text": "A group of bees can be called either a hive, a swarm, or a __________"
-      },
-      "tags": [
-        "animals",
-        "biology",
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6266bc88b0e62e469cf43e9a",
-      "correctAnswer": "Brass",
-      "incorrectAnswers": [
-        "Woodwind",
-        "Stringed",
-        "Percussion"
-      ],
-      "question": {
-        "text": "What type of instrument is a didgeridoo?"
-      },
-      "tags": [
-        "music"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -260,36 +423,15 @@
     },
     {
       "category": "geography",
-      "id": "6237417fcb85f7ce9e949d6c",
-      "correctAnswer": "Podgorica",
+      "id": "62374198cb85f7ce9e949d76",
+      "correctAnswer": "Yaren District",
       "incorrectAnswers": [
-        "Basseterre",
-        "Baku",
-        "Sarajevo"
+        "Dili",
+        "Manila",
+        "Libreville"
       ],
       "question": {
-        "text": "What is the capital city of Montenegro?"
-      },
-      "tags": [
-        "capital_cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374161cb85f7ce9e949d60",
-      "correctAnswer": "Port Louis",
-      "incorrectAnswers": [
-        "Vilnius",
-        "Castries",
-        "Pristina"
-      ],
-      "question": {
-        "text": "What is the capital city of Mauritius?"
+        "text": "What is the capital city of Nauru?"
       },
       "tags": [
         "geography"
@@ -301,15 +443,15 @@
     },
     {
       "category": "history",
-      "id": "622a1c377cc59eab6f950415",
-      "correctAnswer": "Fourteenth",
+      "id": "622a1c377cc59eab6f950429",
+      "correctAnswer": "Three Mile Island",
       "incorrectAnswers": [
-        "Twentieth",
-        "Tenth",
-        "Seventh"
+        "Chernobyl",
+        "Fukushima",
+        "Jaslovské Bohunice"
       ],
       "question": {
-        "text": "In which century was The Black Death?"
+        "text": "In March 1979, where did a major nuclear accident occur?"
       },
       "tags": [
         "history"
@@ -320,43 +462,21 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "64626208ab138b829b81e9a4",
-      "correctAnswer": "Obtuse",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f965",
+      "correctAnswer": "Love in the Time of Cholera",
       "incorrectAnswers": [
-        "Chronic",
-        "Vector",
-        "Integral"
+        "Portnoy's Complaint",
+        "Pale Fire",
+        "Tinker"
       ],
       "question": {
-        "text": "In geometry, what is the opposite of an acute angle?"
+        "text": "Which book contains the character 'Florentino Ariza'?"
       },
       "tags": [
-        "mathematics",
-        "geometry",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6243344ccfaae40c12961435",
-      "correctAnswer": "A Leveret",
-      "incorrectAnswers": [
-        "A Codling",
-        "A Fawn",
-        "A Maggot"
-      ],
-      "question": {
-        "text": "What would you call a baby hare?"
-      },
-      "tags": [
-        "animals",
-        "words",
-        "science"
+        "fictitious_characters",
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -365,220 +485,41 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950ddb",
-      "correctAnswer": "Queen",
+      "id": "622a1c387cc59eab6f950bd6",
+      "correctAnswer": "Guns N' Roses",
       "incorrectAnswers": [
-        "Level 42",
-        "Deep Purple",
-        "Feeder"
+        "MercyMe",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
       ],
       "question": {
-        "text": "Of which band is 'Roger Taylor' a member?"
+        "text": "Which American hard rock band released the song 'Paradise City'?"
+      },
+      "tags": [
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "646262c1ab138b829b81ea5f",
+      "correctAnswer": "James Taylor",
+      "incorrectAnswers": [
+        "Elton John",
+        "Billy Joel",
+        "Paul Simon"
+      ],
+      "question": {
+        "text": "Who was the singer/songwriter who had his first top 40 hit with \"Fire and Rain\"?"
       },
       "tags": [
         "music",
-        "bands"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950045",
-      "correctAnswer": "Phil Hill",
-      "incorrectAnswers": [
-        "Mario Andretti",
-        "Lance Stroll",
-        "Dan Gurney"
-      ],
-      "question": {
-        "text": "Who was the first american to win the Formula 1 championship?"
-      },
-      "tags": [
-        "firsts",
-        "racing",
-        "motoring",
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "627164821ba117625baac962",
-      "correctAnswer": "Sang Som Rum",
-      "incorrectAnswers": [
-        "Pitorro",
-        "Tuba",
-        "Port wine"
-      ],
-      "question": {
-        "text": "Which of these drinks would you associate with Thailand?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94faf3",
-      "correctAnswer": "Frances McDormand",
-      "incorrectAnswers": [
-        "Viola Davis",
-        "Andra Day",
-        "Vanessa Kirby"
-      ],
-      "question": {
-        "text": "Who won the 2020 Academy Award for Best Leading Actress for playing the role of Fern in Nomadland?"
-      },
-      "tags": [
-        "academy_awards",
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63bc3fae0e893d6e5a6a0fdb",
-      "correctAnswer": "France",
-      "incorrectAnswers": [
-        "Germany",
-        "Austria-Hungary",
-        "Bulgaria"
-      ],
-      "question": {
-        "text": "Which of the following was NOT one of the Ottoman Empire's major allies during World War I?"
-      },
-      "tags": [
-        "history",
-        "ottoman_empire",
-        "world_war_1",
-        "wars"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ff79",
-      "correctAnswer": "Austria",
-      "incorrectAnswers": [
-        "Croatia",
-        "San Marino",
-        "Bosnia and Herzegovina"
-      ],
-      "question": {
-        "text": "Which country borders Italy, Switzerland, Germany, Czech Republic, Hungary, Slovenia, and Liechtenstein?"
-      },
-      "tags": [
-        "countries",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3d7cc59eab6f951c64",
-      "correctAnswer": "Perestroika",
-      "incorrectAnswers": [
-        "Apparatchik",
-        "Uskoreniye",
-        "Khozraschyot"
-      ],
-      "question": {
-        "text": "After the fall of the iron curtain, Russian leader Mikhail Gorbachev introduced a period of restructuring known as what?"
-      },
-      "tags": [
-        "russia",
-        "politics",
-        "cold_war",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624dba33de6018633d31f6ba",
-      "correctAnswer": "Sean Connery",
-      "incorrectAnswers": [
-        "Timothy Dalton",
-        "Daniel Craig",
-        "George Lazenby"
-      ],
-      "question": {
-        "text": "Who played the role of James Bond in You Only Live Twice?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f95000f",
-      "correctAnswer": "St. louis",
-      "incorrectAnswers": [
-        "New York City",
-        "Washington, D.C.",
-        "Los Angeles"
-      ],
-      "question": {
-        "text": "___________ was called the \"Gateway to the West\" in the 1800s because it served as a starting place for wagon train departures."
-      },
-      "tags": [
-        "usa",
-        "1800's",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fce2",
-      "correctAnswer": "Dravidian",
-      "incorrectAnswers": [
-        "Uralic",
-        "Koreanic",
-        "Afroasiatic"
-      ],
-      "question": {
-        "text": "The language 'Tamil' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
+        "musicians",
+        "songs"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -587,15 +528,15 @@
     },
     {
       "category": "music",
-      "id": "622a1c387cc59eab6f950b65",
-      "correctAnswer": "System of a Down",
+      "id": "622a1c397cc59eab6f950d5b",
+      "correctAnswer": "Oasis",
       "incorrectAnswers": [
-        "The Pussycat Dolls",
-        "Three 6 Mafia",
-        "The Velvet Underground"
+        "Goldfrapp",
+        "Kaiser Chiefs",
+        "Jethro Tull"
       ],
       "question": {
-        "text": "Which American metal band released the album 'Toxicity'?"
+        "text": "Which band includes 'Liam Gallagher'?"
       },
       "tags": [
         "music"
@@ -606,19 +547,19 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62417d980f96c4efe8d773d7",
-      "correctAnswer": "Sacramento Kings",
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951bb8",
+      "correctAnswer": "The Opium War",
       "incorrectAnswers": [
-        "Sacramento Flames",
-        "Sacramento Blackhawks",
-        "Sacramento Trailblazers"
+        "The Hong Kong War",
+        "The Mandarin War",
+        "The Boxer Rebellion"
       ],
       "question": {
-        "text": "Which of these is a basketball team based in Sacramento?"
+        "text": "How was the 1839-42 Anglo-Chinese war better known ?"
       },
       "tags": [
-        "sport"
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -626,20 +567,64 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503bf",
-      "correctAnswer": "Belgium",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cb3",
+      "correctAnswer": "Pink Floyd",
       "incorrectAnswers": [
-        "France",
-        "England",
-        "Italy"
+        "Wings",
+        "Rudimental",
+        "The Alan Parsons Project"
       ],
       "question": {
-        "text": "Where did the battle of Waterloo take place?"
+        "text": "Which English rock band released the studio album 'A Saucerful of Secrets'?"
       },
       "tags": [
-        "battles",
-        "history"
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "639c9da4929b90846f2fc97b",
+      "correctAnswer": "Holi",
+      "incorrectAnswers": [
+        "Diwali",
+        "Dusshera",
+        "Navaratri"
+      ],
+      "question": {
+        "text": "What is the name of the Hindu festival of colors?"
+      },
+      "tags": [
+        "hinduism",
+        "religion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6496a83ce831b1ab5aa1113a",
+      "correctAnswer": "Carmen Miranda",
+      "incorrectAnswers": [
+        "Gloria Estefan",
+        "Celia Cruz",
+        "Jennifer Lopez"
+      ],
+      "question": {
+        "text": "Which Latin music legend is known for her signature fruity hat?"
+      },
+      "tags": [
+        "people",
+        "hats",
+        "fashion",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
