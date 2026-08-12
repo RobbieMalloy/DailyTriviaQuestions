@@ -1,23 +1,87 @@
 {
-  "gameDate": "2026-08-11",
+  "gameDate": "2026-08-12",
   "difficulty": "hard",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "6250069b0d86c8f685d80eef",
-      "correctAnswer": "Farfalle",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f93b",
+      "correctAnswer": "Misery",
       "incorrectAnswers": [
-        "Strozzapreti",
-        "Fusilli",
-        "Orzo"
+        "Wall Street",
+        "Alien",
+        "Network"
       ],
       "question": {
-        "text": "Which pasta's name means 'Butterflies'?"
+        "text": "Which film contains the character 'Annie Wilkes'?"
       },
       "tags": [
-        "food",
-        "words",
-        "language",
+        "film",
+        "fictitious_characters",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951013",
+      "correctAnswer": "Borneo & Sumatra",
+      "incorrectAnswers": [
+        "Bali & Lombok",
+        "Sulawesi & Java",
+        "New Guinea & Komodo"
+      ],
+      "question": {
+        "text": "Which 2 Islands Are The Natural Habitat Of The Orang-Utan?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64af1025deeef534fb54ad10",
+      "correctAnswer": "Trout",
+      "incorrectAnswers": [
+        "Salmon",
+        "Bass",
+        "Tuna"
+      ],
+      "question": {
+        "text": "Named for its steely blue colour, which fish has a steelhead variety?"
+      },
+      "tags": [
+        "fish",
+        "nature",
+        "science",
+        "animals"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "627164c01ba117625baac973",
+      "correctAnswer": "Seco Herrerano",
+      "incorrectAnswers": [
+        "Tequila",
+        "Nsafufuo",
+        "Unicum"
+      ],
+      "question": {
+        "text": "Which of these is a popular drink in Panama?"
+      },
+      "tags": [
+        "drink",
+        "alcohol",
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -26,18 +90,167 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950ca3",
-      "correctAnswer": "Pink Floyd",
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc8f",
+      "correctAnswer": "Cattywampus",
       "incorrectAnswers": [
-        "Wings",
-        "Rudimental",
-        "The Alan Parsons Project"
+        "Funambulist",
+        "Donkey Engine",
+        "Widdershins"
       ],
       "question": {
-        "text": "Which English rock band released the song 'Have a Cigar'?"
+        "text": "Which word is defined as 'askew'?"
       },
       "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9f45796f721e95543f90",
+      "correctAnswer": "Green",
+      "incorrectAnswers": [
+        "Blue",
+        "Gold",
+        "Yellow"
+      ],
+      "question": {
+        "text": "Which of these colors is included on the flag of Morocco?"
+      },
+      "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e8b",
+      "correctAnswer": "Neil Gaiman",
+      "incorrectAnswers": [
+        "Stephen King",
+        "H. P. Lovecraft",
+        "Douglas Adams"
+      ],
+      "question": {
+        "text": "Which author wrote 'Fragile Things'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233880c0161109f922aac61",
+      "correctAnswer": "Sydney Harbour Bridge ",
+      "incorrectAnswers": [
+        "The Golden Gate Bridge",
+        "Tower Bridge",
+        "Brooklyn Bridge"
+      ],
+      "question": {
+        "text": "Which Famous City Bridge Is Known Locally As The Coathanger?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "624db9d0de6018633d31f6a3",
+      "correctAnswer": "Shirley Bassey",
+      "incorrectAnswers": [
+        "Lulu",
+        "Wings",
+        "Billie Eilish"
+      ],
+      "question": {
+        "text": "Who performed the theme song to the James Bond film Moonraker?"
+      },
+      "tags": [
+        "james_bond",
+        "film",
+        "soundtracks",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f95069c",
+      "correctAnswer": "Jason Bateman",
+      "incorrectAnswers": [
+        "Javier Bardem",
+        "Colin Firth",
+        "Tim Roth"
+      ],
+      "question": {
+        "text": "Which actor has featured in films including DodgeBall: A True Underdog Story and Up in the Air?"
+      },
+      "tags": [
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "649f1fffebb41911d4cbd6b1",
+      "correctAnswer": "Pampas",
+      "incorrectAnswers": [
+        "Andes",
+        "Patagonia",
+        "Sierra"
+      ],
+      "question": {
+        "text": "Which of these is a huge flat region of plains in Argentina?"
+      },
+      "tags": [
+        "argentina",
+        "south_america",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c18",
+      "correctAnswer": "Nirvana",
+      "incorrectAnswers": [
+        "Counting Crows",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which American rock band released the album 'Bleach'?"
+      },
+      "tags": [
+        "rock_music",
         "music"
       ],
       "type": "text_choice",
@@ -47,15 +260,15 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6266e5b5ff2394bd44dee013",
-      "correctAnswer": "Jaune",
+      "id": "6266e687ff2394bd44dee051",
+      "correctAnswer": "Seven",
       "incorrectAnswers": [
-        "Giallo",
-        "Amarelo",
+        "White",
+        "Five",
         "Six"
       ],
       "question": {
-        "text": "What is the French word for 'yellow'?"
+        "text": "What does the word 'sieben' mean in German?"
       },
       "tags": [
         "language",
@@ -68,66 +281,20 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95013e",
-      "correctAnswer": "Owl",
-      "incorrectAnswers": [
-        "Squirrel",
-        "Frog",
-        "Horse"
-      ],
-      "question": {
-        "text": "In Greek mythology, what animal is associated with Athena?"
-      },
-      "tags": [
-        "mythology",
-        "symbols",
-        "ancient_greece",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa01",
-      "correctAnswer": "Sandro Botticelli",
-      "incorrectAnswers": [
-        "Michelangelo",
-        "Pablo Picasso",
-        "René Magritte"
-      ],
-      "question": {
-        "text": "Which artist painted \"Primavera\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "62611fa84b176d54800e3d68",
-      "correctAnswer": "1983",
+      "id": "622a1c3c7cc59eab6f951b41",
+      "correctAnswer": "1936",
       "incorrectAnswers": [
-        "1974",
-        "1993",
-        "2001"
+        "1926",
+        "1916",
+        "1906"
       ],
       "question": {
-        "text": "When was laser eye surgery first used for vision correction?"
+        "text": "In What Year Did The Spanish Civil War Begin?"
       },
       "tags": [
-        "events",
-        "firsts",
-        "medicine",
+        "wars",
+        "europe",
         "history"
       ],
       "type": "text_choice",
@@ -136,237 +303,19 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506e6",
-      "correctAnswer": "Penélope Cruz",
-      "incorrectAnswers": [
-        "Amy Adams",
-        "Uma Thurman",
-        "Cameron Diaz"
-      ],
-      "question": {
-        "text": "Which actress has featured in films including Volver and All About My Mother?"
-      },
-      "tags": [
-        "film_and_tv",
-        "film",
-        "acting"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "645fcc1f541c4d4fc8cf3002",
-      "correctAnswer": "Ernst Stavro Blofeld",
-      "incorrectAnswers": [
-        "Auric Goldfinger",
-        "Francisco Scaramanga",
-        "Max Zorin"
-      ],
-      "question": {
-        "text": "Which diabolical James Bond nemesis has been portrayed by both Donald Pleasance and Charles Gray?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv",
-        "acting",
-        "james_bond"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262af644b176d54800e3dc3",
-      "correctAnswer": "I Am Not A Lawyer",
-      "incorrectAnswers": [
-        "I'm Anal",
-        "I Also Now Am Lonely",
-        "I'm Attractive, Not A Loser"
-      ],
-      "question": {
-        "text": "On internet chats, what do the letters 'IANAL' mean?"
-      },
-      "tags": [
-        "the_internet",
-        "initials",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6463398e01d576cfac3aa392",
-      "correctAnswer": "16",
-      "incorrectAnswers": [
-        "18",
-        "21",
-        "25"
-      ],
-      "question": {
-        "text": "What is the legal drinking age in Belgium?"
-      },
-      "tags": [
-        "drinking",
-        "belgium",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b581dfd6c701a9211839b",
-      "correctAnswer": "Italy",
-      "incorrectAnswers": [
-        "Iraq",
-        "Germany",
-        "Russia"
-      ],
-      "question": {
-        "text": "In which country would you find Mount Etna?"
-      },
-      "tags": [
-        "mountains",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6371625e1bf863c45ca6c370",
-      "correctAnswer": "Ordo ab chao",
-      "incorrectAnswers": [
-        "Qui totum vult orduris perdit",
-        "Melita, domi adsum",
-        "Nil volentibus arduum"
-      ],
-      "question": {
-        "text": "Which of these Latin phrases means 'Out of chaos, comes order'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95040c",
-      "correctAnswer": "Tracy Ullman",
-      "incorrectAnswers": [
-        "Vanessa Phillips",
-        "Paula Skeeberg",
-        "Mary Myers"
-      ],
-      "question": {
-        "text": "Name the female comedy star who once had a show on Fox, that had a pop hit in the early eighties"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f9518f9",
-      "correctAnswer": "Igraine",
-      "incorrectAnswers": [
-        "Gwendolyn",
-        "Uther",
-        "Morgase"
-      ],
-      "question": {
-        "text": "What was King Arthur's mother's name?"
-      },
-      "tags": [
-        "mythology",
-        "uk",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f951998",
-      "correctAnswer": "Cambria",
+      "id": "622a1c3c7cc59eab6f951a61",
+      "correctAnswer": "French Revolution",
       "incorrectAnswers": [
-        "Dunedin",
-        "Gaull",
-        "Merovingia"
+        "Spanish Civil War",
+        "The Cold War",
+        "The Renaissance"
       ],
       "question": {
-        "text": "What did the Romans call Wales?"
+        "text": "The 14th July 1789 marked the start of what?"
       },
       "tags": [
-        "classics",
-        "romans",
         "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740039da29df7b05f73bd",
-      "correctAnswer": "North by Northwest",
-      "incorrectAnswers": [
-        "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-        "Beauty and the Beast",
-        "Three Billboards Outside Ebbing, Missouri"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'An executive goes on the run after being mistaken for a government agent.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c367cc59eab6f95021c",
-      "correctAnswer": "Miles Davis ",
-      "incorrectAnswers": [
-        "Eminem",
-        "The Rolling Stones",
-        "Madonna"
-      ],
-      "question": {
-        "text": "Who released the album 'Bitches brew'? "
-      },
-      "tags": [
-        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -375,15 +324,15 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "62417dd70f96c4efe8d773ef",
-      "correctAnswer": "Washington Wizards",
+      "id": "62417cbf8c3137686862d736",
+      "correctAnswer": "Atlanta Hawks",
       "incorrectAnswers": [
-        "Washington Knicks",
-        "Washington Raiders",
-        "Washington Red Sox"
+        "Atlanta Suns",
+        "Atlanta Nationals",
+        "Atlanta Rockets"
       ],
       "question": {
-        "text": "Which of these is a basketball team based in Washington?"
+        "text": "Which of these is a basketball team based in Atlanta?"
       },
       "tags": [
         "sport"
@@ -394,16 +343,161 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951080",
-      "correctAnswer": "1.5kg",
+      "category": "food_and_drink",
+      "id": "627164891ba117625baac964",
+      "correctAnswer": "Fernet",
       "incorrectAnswers": [
-        "500g",
-        "1kg",
-        "2kg"
+        "Nsafufuo",
+        "Akevitt",
+        "Canelazo"
       ],
       "question": {
-        "text": "To The Nearest 250 Grams What Is The Average Weight Of An Adult Brain?"
+        "text": "Which of these is a popular drink in Argentina?"
+      },
+      "tags": [
+        "drink",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f94b",
+      "correctAnswer": "The Manchurian Candidate",
+      "incorrectAnswers": [
+        "The Shining",
+        "M",
+        "The Silence of the Lambs"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Mrs. Iselin'?"
+      },
+      "tags": [
+        "film",
+        "fictitious_characters",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623742a5cb85f7ce9e949de2",
+      "correctAnswer": "Nuku'alofa",
+      "incorrectAnswers": [
+        "Dhaka",
+        "Vaduz",
+        "Saint George's"
+      ],
+      "question": {
+        "text": "What is the capital city of Tonga?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6384b45e83dddfb71ee5e376",
+      "correctAnswer": "The Six Nations",
+      "incorrectAnswers": [
+        "The Open Championship",
+        "The FINA World Championships",
+        "The Hopman Cup"
+      ],
+      "question": {
+        "text": "Which of these is a Rugby competition?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcf7",
+      "correctAnswer": "John Stuart Mill",
+      "incorrectAnswers": [
+        "Thomas Hobbes",
+        "Ludwig Wittgenstein",
+        "William of Ockham"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'To do as one would be done by, and to love one's neighbor as oneself, constitute the ideal perfection of utilitarian morality'?"
+      },
+      "tags": [
+        "quotes",
+        "philosophy",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951c77",
+      "correctAnswer": "Trafalgar",
+      "incorrectAnswers": [
+        "Waterloo",
+        "Hastings",
+        "Bosworth Field"
+      ],
+      "question": {
+        "text": "21 October 1805 Is The Date Of Which Famous Battle?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95035f",
+      "correctAnswer": "Lee Harvey Oswald",
+      "incorrectAnswers": [
+        "John F Kennedy",
+        "John Lennon",
+        "Ronald Reagan"
+      ],
+      "question": {
+        "text": "Who Was Shot Dead In Dallas On 24th November 1963?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fe9",
+      "correctAnswer": "Orionids",
+      "incorrectAnswers": [
+        "Lyrids",
+        "Perseids",
+        "Andromedids"
+      ],
+      "question": {
+        "text": "Which meteor shower occurs on the 21st October?"
       },
       "tags": [
         "science"
@@ -414,19 +508,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f95161d",
-      "correctAnswer": "A gelatine substitute",
+      "category": "science",
+      "id": "648888d65dba6c873ef650ad",
+      "correctAnswer": "-cyte",
       "incorrectAnswers": [
-        "A sweetener",
-        "A spice",
-        "A raising agent"
+        "-toma",
+        "-plasty",
+        "-ectomy"
       ],
       "question": {
-        "text": "Agar-agar is often used in cooking. What is it?"
+        "text": "What suffix is added to a word to denote a cell?"
       },
       "tags": [
-        "food_and_drink"
+        "biology",
+        "medicine",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -434,19 +530,22 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950109",
-      "correctAnswer": "Oak",
+      "category": "music",
+      "id": "636a5285990390307063f3a2",
+      "correctAnswer": "Let's Spend the Night Together",
       "incorrectAnswers": [
-        "Pine",
-        "Cedar",
-        "Walnut"
+        "Blinded",
+        "Whiskey in a Jar",
+        "Sea of Love"
       ],
       "question": {
-        "text": "Which tree do Druids regard sacred ?"
+        "text": "Which song, originally recorded by the Rolling Stones, was later covered by David Bowie?"
       },
       "tags": [
-        "society_and_culture"
+        "music",
+        "cover_song",
+        "songs",
+        "musicians"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -454,19 +553,43 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950118",
-      "correctAnswer": "Calvary",
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fe38",
+      "correctAnswer": "Afghani",
       "incorrectAnswers": [
-        "Lutheros",
-        "Pellenor",
-        "Idris"
+        "Rial",
+        "Dinar",
+        "Derum"
       ],
       "question": {
-        "text": "What is the name of the field where Christ was crucified?"
+        "text": "What is the basic unit of currency for Afghanistan?"
       },
       "tags": [
-        "society_and_culture"
+        "currency",
+        "the_middle_east",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe9e",
+      "correctAnswer": "Rihanna",
+      "incorrectAnswers": [
+        "Drake",
+        "Nicki Minaj",
+        "Ricky Martin"
+      ],
+      "question": {
+        "text": "Which singer released the studio album 'Loud'?"
+      },
+      "tags": [
+        "music_albums",
+        "musicians",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -475,40 +598,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950679",
-      "correctAnswer": "Tim Roth",
+      "id": "622a1c347cc59eab6f94fc16",
+      "correctAnswer": "\"As God is my witness, I'll never be hungry again.\"",
       "incorrectAnswers": [
-        "Paul Newman",
-        "Tobey Maguire",
-        "Elijah Wood"
+        "\"With great power comes great responsiblity.\"",
+        "\"Forget it, Jake, it's Chinatown.\"",
+        "\"I am Groot.\""
       ],
       "question": {
-        "text": "Which actor has appeared in films including The Incredible Hulk and Pulp Fiction?"
-      },
-      "tags": [
-        "film_and_tv",
-        "film",
-        "acting"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd6f6dc0dd3b72da64d18",
-      "correctAnswer": "1965",
-      "incorrectAnswers": [
-        "1959",
-        "1971",
-        "1977"
-      ],
-      "question": {
-        "text": "In which year was For a Few Dollars More released?"
+        "text": "Which of these quotes is from the film 'Gone with the Wind'?"
       },
       "tags": [
         "film",
+        "quotes",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -517,127 +619,22 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c3d7cc59eab6f951c17",
-      "correctAnswer": "Turnip",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fafa",
+      "correctAnswer": "Cate Blanchett",
       "incorrectAnswers": [
-        "Swede",
-        "Potato",
-        "Carrot"
+        "Amy Adams",
+        "Sandra Bullock",
+        "Judi Dench"
       ],
       "question": {
-        "text": "From what were Jack-o-Lanterns first made?"
+        "text": "Who won the 2013 Academy Award for Best Leading Actress for playing the role of Jasmine in Blue Jasmine?"
       },
       "tags": [
-        "food",
-        "halloween",
-        "traditions",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951b0c",
-      "correctAnswer": "Poland",
-      "incorrectAnswers": [
-        "Germany",
-        "Hungary",
-        "Austria"
-      ],
-      "question": {
-        "text": "In Which Country Was The Auschwitz Concentration Camp Located?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fdbe",
-      "correctAnswer": "Can The Can",
-      "incorrectAnswers": [
-        "Do The Do",
-        "See The Sea",
-        "Dance The Dance"
-      ],
-      "question": {
-        "text": "What Was Suzi Quatro's First Hit In 1973?"
-      },
-      "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd79",
-      "correctAnswer": "The Righteous Brothers",
-      "incorrectAnswers": [
-        "The Isley Brothers",
-        "Wham!",
-        "The Temptations"
-      ],
-      "question": {
-        "text": "Who Were Bobby Hatfield & Bill Medley?"
-      },
-      "tags": [
-        "people",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "63bc3fa50e893d6e5a6a0fd0",
-      "correctAnswer": "Cronut",
-      "incorrectAnswers": [
-        "Strudel",
-        "Dosant",
-        "Chouxnut"
-      ],
-      "question": {
-        "text": "What is the name given to the pastry that looks like a doughnut, but made with choux pastry?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink",
-        "pastry",
-        "baking"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d2f0f96c4efe8d773ad",
-      "correctAnswer": "Kansas City Royals",
-      "incorrectAnswers": [
-        "Kansas City Capitals",
-        "Kansas City Timbers",
-        "Kansas City Hawks"
-      ],
-      "question": {
-        "text": "Which of these is a baseball team based in Kansas City?"
-      },
-      "tags": [
-        "sport"
+        "acting",
+        "academy_awards",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
