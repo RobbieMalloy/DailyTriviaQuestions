@@ -1,39 +1,218 @@
 {
-  "gameDate": "2026-08-14",
+  "gameDate": "2026-08-15",
   "difficulty": "random",
   "results": [
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e2f",
-      "correctAnswer": "Jane Austen",
+      "category": "food_and_drink",
+      "id": "6463394f01d576cfac3aa33c",
+      "correctAnswer": "Borscht",
       "incorrectAnswers": [
-        "Percy Bysshe Shelley",
-        "Stephenie Meyer",
-        "Robert Louis Stevenson"
+        "Stroganoff",
+        "Pelmeni",
+        "Blintz"
       ],
       "question": {
-        "text": "Which author wrote 'Mansfield Park'?"
+        "text": "What is the name of the Russian beet soup usually served with sour cream?"
       },
-      "tags": [],
+      "tags": [
+        "soups",
+        "food",
+        "food_and_drink",
+        "russia",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6257402e9da29df7b05f73ca",
+      "correctAnswer": "A group of low-level criminals fight to track down a priceless stolen diamond.",
+      "incorrectAnswers": [
+        "A research team in Antarctica is hunted by a shape-shifting alien.",
+        "When two girls move to the country, they have adventures with the forest spirits who live nearby.",
+        "In order to power the city, beasts have to scare children so that they scream."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Snatch?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "647f9d363a4302a719271573",
+      "correctAnswer": "Lobster",
+      "incorrectAnswers": [
+        "Egg",
+        "Ham",
+        "Tomato"
+      ],
+      "question": {
+        "text": "What type of food can be prepared 'Newberg style'?"
+      },
+      "tags": [
+        "recipes",
+        "cooking",
+        "food",
+        "food_and_drink"
+      ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c377cc59eab6f950427",
-      "correctAnswer": "The Hay",
+      "category": "food_and_drink",
+      "id": "627164551ba117625baac958",
+      "correctAnswer": "Uganda",
       "incorrectAnswers": [
-        "The Manger",
-        "A Donkey",
-        "The Stars"
+        "Niger",
+        "Colombia",
+        "The Czech Republic"
       ],
       "question": {
-        "text": "In the Christmas carol 'Away in a Manger', what was the little Lord Jesus asleep on?"
+        "text": "Which country is associated with the drink waragi?"
       },
       "tags": [
-        "christmas",
+        "drink",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fe2",
+      "correctAnswer": "Hibiscus",
+      "incorrectAnswers": [
+        "Orchid",
+        "Lavender",
+        "Rose"
+      ],
+      "question": {
+        "text": "Which plant is known for attracting hummingbirds?"
+      },
+      "tags": [
+        "biology",
+        "animals",
+        "plants",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623388880161109f922aac92",
+      "correctAnswer": "Laos",
+      "incorrectAnswers": [
+        "Cambodia",
+        "Thailand",
+        "Vietnam"
+      ],
+      "question": {
+        "text": "Which is the only landlocked country in South East Asia?"
+      },
+      "tags": [
+        "southeast_asia",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b57d4fd6c701a92118381",
+      "correctAnswer": "Italy",
+      "incorrectAnswers": [
+        "China",
+        "Belgium",
+        "Argentina"
+      ],
+      "question": {
+        "text": "In which country would you find the Dolomites?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623384cf62eaad73716a8c31",
+      "correctAnswer": "The Amazon",
+      "incorrectAnswers": [
+        "The Ganges",
+        "The Loire",
+        "The Mekong"
+      ],
+      "question": {
+        "text": "What is the world's widest river?"
+      },
+      "tags": [
+        "rivers",
+        "bodies_of_water",
+        "records",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f95108e",
+      "correctAnswer": "Alchemy",
+      "incorrectAnswers": [
+        "Magic",
+        "Aurentalism",
+        "Mystic Metallurgy"
+      ],
+      "question": {
+        "text": "The ancient attempt to transmute base metals into gold was called ________."
+      },
+      "tags": [
+        "classics",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc8d",
+      "correctAnswer": "Curmudgeon",
+      "incorrectAnswers": [
+        "Bumfuzzle",
+        "Borborygmus",
+        "Deipnophobia"
+      ],
+      "question": {
+        "text": "Which word is defined as 'a bad-tempered person'?"
+      },
+      "tags": [
+        "words",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -42,21 +221,22 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc18",
-      "correctAnswer": "\"There's no crying in baseball!\"",
+      "category": "science",
+      "id": "63adbd7304c68cc1e14b8e42",
+      "correctAnswer": "Pear Tree",
       "incorrectAnswers": [
-        "\"Forget it, Jake, it's Chinatown.\"",
-        "\"We rob banks.\"",
-        "\"Striker: Surely you can't be serious.\""
+        "Oak Tree",
+        "Maple Tree",
+        "Birch Tree"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'A League of Their Own'?"
+        "text": "Which type of tree is known for its fragrant white flowers?"
       },
       "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
+        "science",
+        "trees",
+        "plants",
+        "nature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -64,107 +244,41 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "62573f489da29df7b05f7392",
-      "correctAnswer": "City of God",
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950056",
+      "correctAnswer": "Joe Frazier",
       "incorrectAnswers": [
-        "Die Hard",
-        "Unforgiven",
-        "A Beautiful Mind"
+        "Sugar Ray Robinson",
+        "George Foreman",
+        "Mike Tyson"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'In the slums of Rio, two kids' paths diverge as one becomes a photographer and the other a kingpin.'"
+        "text": "Who Was Beaten By Muhammad Ali In The Bout Entitled 'The Thriller In Manilla'?"
       },
       "tags": [
-        "film",
-        "film_and_tv"
+        "boxing",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "64824eb57778562fd76a9692",
-      "correctAnswer": "Christina Aguilera",
-      "incorrectAnswers": [
-        "Britney Spears",
-        "Mariah Carey",
-        "Whitney Houston"
-      ],
-      "question": {
-        "text": "Who sung the 1999 pop song 'Genie in a Bottle'?"
-      },
-      "tags": [
-        "pop_music",
-        "music",
-        "1990's"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe91",
-      "correctAnswer": "Rihanna",
-      "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Ricky Martin"
-      ],
-      "question": {
-        "text": "Which singer released the song 'Rude Boy'?"
-      },
-      "tags": [
-        "songs",
-        "musicians",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502e5",
-      "correctAnswer": "Apricot ",
+      "id": "645ab413158db1bd1779f1b8",
+      "correctAnswer": "Moo Shoo",
       "incorrectAnswers": [
-        "Raspberry",
-        "Orange",
-        "Banana"
+        "Kung Pao",
+        "General Tso's Chicken",
+        "Lo Mein"
       ],
       "question": {
-        "text": "Laetrile is associated with the which fruit?"
+        "text": "What Chinese dish is traditionally made of shredded pork stir-fried with eggs, bamboo shoots, other vegetables, and served in thin pancakes?"
       },
       "tags": [
         "food",
-        "chemistry",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64902c3a6c4575eaf97c8ae9",
-      "correctAnswer": "Toddy",
-      "incorrectAnswers": [
-        "Mocha",
-        "Latte",
-        "Old Smoke"
-      ],
-      "question": {
-        "text": "What is the name of a spicy, hot beverage often served to cure a cold or sore throat?"
-      },
-      "tags": [
-        "drink",
-        "medicine",
+        "recipes",
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -173,19 +287,21 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503cc",
-      "correctAnswer": "Enola Gay",
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f95075d",
+      "correctAnswer": "Forest Whitaker",
       "incorrectAnswers": [
-        "Big Boy",
-        "Lady Diamond",
-        "Dauntless"
+        "Dan Aykroyd",
+        "Christian Bale",
+        "Shah Rukh Khan"
       ],
       "question": {
-        "text": "What was the name of the B-29 used at Hiroshima to drop the bomb?"
+        "text": "Which actor has featured in films including Rogue One and Black Panther?"
       },
       "tags": [
-        "history"
+        "acting",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -194,99 +310,86 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f855",
-      "correctAnswer": "Football",
+      "id": "622a1c347cc59eab6f94f88e",
+      "correctAnswer": "Tennis",
       "incorrectAnswers": [
-        "Skiing",
-        "Golf",
-        "Swimming"
+        "Snooker",
+        "Hockey",
+        "Cycling"
       ],
       "question": {
-        "text": "With which sport is Bill Shankly associated?"
+        "text": "With which sport is John McEnroe associated?"
       },
       "tags": [
         "people",
         "sport"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd3e",
-      "correctAnswer": "Gujarati",
-      "incorrectAnswers": [
-        "Tamil",
-        "Telugu",
-        "Malayalam"
-      ],
-      "question": {
-        "text": "Which of these Indian languages falls into the \"Indo-Aryan\" language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950511",
-      "correctAnswer": "the immune system",
-      "incorrectAnswers": [
-        "living tissues",
-        "eggs",
-        "the laws and phenomena of aqueous vapors"
-      ],
-      "question": {
-        "text": "What is Immunology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d230f96c4efe8d773a8",
-      "correctAnswer": "Houston Texans",
-      "incorrectAnswers": [
-        "Houston Capitals",
-        "Houston Celtics",
-        "Houston Penguins"
-      ],
-      "question": {
-        "text": "Which of these is an American Football team based in Houston?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6242cb2bd543524f1b19c913",
-      "correctAnswer": "A gaggle",
+      "category": "music",
+      "id": "6477baa2550bc819ad646afc",
+      "correctAnswer": "1999",
       "incorrectAnswers": [
-        "A nest",
-        "A pride",
-        "A gang"
+        "Purple Rain",
+        "Kiss",
+        "Let's Go Crazy"
       ],
       "question": {
-        "text": "What is the word for a group of geese?"
+        "text": "Which Prince hit from 1983 begins with the lyrics, 'I was dreamin' when I wrote this, so sue me if I go too fast'?"
       },
       "tags": [
+        "1980s",
+        "lyrics",
+        "music",
+        "songs"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ff94",
+      "correctAnswer": "Prague",
+      "incorrectAnswers": [
+        "Vienna",
+        "Oxford",
+        "Budapest"
+      ],
+      "question": {
+        "text": "Which European city is nicknamed the city of a hundred spires?"
+      },
+      "tags": [
+        "europe",
+        "cities",
+        "nicknames",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624334b9cfaae40c12961460",
+      "correctAnswer": "An Infant",
+      "incorrectAnswers": [
+        "A Pup",
+        "A Bunny",
+        "A Piglet"
+      ],
+      "question": {
+        "text": "What is a baby monkey known as?"
+      },
+      "tags": [
+        "animals",
+        "biology",
         "science"
       ],
       "type": "text_choice",
@@ -296,19 +399,17 @@
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94fe09",
-      "correctAnswer": "Lake Superior ",
+      "id": "6237373ccfe13103f55eb5a0",
+      "correctAnswer": "Zimbabwe",
       "incorrectAnswers": [
-        "Lake Victoria",
-        "Lake Baikal",
-        "Lake Titicaca"
+        "Zambia",
+        "The Netherlands",
+        "Western Sahara"
       ],
       "question": {
-        "text": "Which is the largest freshwater lake in the world?"
+        "text": "Which region of the world uses '.zw' at the end of its web addresses?"
       },
       "tags": [
-        "records",
-        "bodies_of_water",
         "geography"
       ],
       "type": "text_choice",
@@ -317,64 +418,22 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "62ab32e75202de619af2812f",
-      "correctAnswer": "F-Series",
+      "category": "film_and_tv",
+      "id": "624db9ebde6018633d31f6ab",
+      "correctAnswer": "Matt Monro",
       "incorrectAnswers": [
-        "Accord",
-        "911",
-        "Passat"
+        "Shirley Bassey",
+        "Lulu",
+        "Madonna"
       ],
       "question": {
-        "text": "Which of these models of car is made by Ford?"
+        "text": "Who performed the theme song to the James Bond film From Russia With Love?"
       },
       "tags": [
-        "motoring",
-        "business",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502d6",
-      "correctAnswer": "Sherry ",
-      "incorrectAnswers": [
-        "Ginger",
-        "Tomatoes",
-        "Bread"
-      ],
-      "question": {
-        "text": "What would you use the solera process on?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6355b7e9e8b368eed3a68236",
-      "correctAnswer": "The d in 'door'",
-      "incorrectAnswers": [
-        "The y in 'yellow'",
-        "The r in 'red'",
-        "The z in 'zoo'"
-      ],
-      "question": {
-        "text": "In phonetics, which of these is an example of a plosive sound?"
-      },
-      "tags": [
-        "language",
-        "linguistics",
-        "general_knowledge",
-        "science"
+        "james_bond",
+        "film",
+        "soundtracks",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -383,82 +442,126 @@
     },
     {
       "category": "film_and_tv",
-      "id": "62573f5c9da29df7b05f7397",
-      "correctAnswer": "A boy and his little sister struggle to survive in Japan during World War II.",
+      "id": "622a1c347cc59eab6f94fc00",
+      "correctAnswer": "\"Open the pod bay doors, please, HAL.\"",
       "incorrectAnswers": [
-        "POWs are forced to build a railway, not knowing that allies are planning to destroy it.",
-        "An aspiring nun is sent to become a governess to the seven children of a widowed naval officer.",
-        "Eddy has a week to pay back £500,000 after losing a poker game to a powerful local mobster."
+        "\"Forget it, Jake, it's Chinatown.\"",
+        "\"I love lamp.\"",
+        "\"I’m the guy who does his job. You must be the other guy.\""
       ],
       "question": {
-        "text": "What is the plot of the movie Grave of the Fireflies?"
+        "text": "Which of these quotes is from the film '2001: A Space Odyssey'?"
       },
       "tags": [
+        "quotes",
         "film",
         "film_and_tv"
       ],
       "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510b4",
+      "correctAnswer": "Brain",
+      "incorrectAnswers": [
+        "Lungs",
+        "Heart",
+        "Liver"
+      ],
+      "question": {
+        "text": "In which organ is your \"hypothalmus\" located?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "69a561ae6e10e90bb9969bf8",
+      "correctAnswer": "Jack",
+      "incorrectAnswers": [
+        "Hansel",
+        "Tom Thumb",
+        "Peter"
+      ],
+      "question": {
+        "text": "What small character outwits a giant in many stories and is known for cleverness?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b08",
+      "correctAnswer": "The Smiths",
+      "incorrectAnswers": [
+        "The Cure",
+        "Sex Pistols",
+        "Nirvana"
+      ],
+      "question": {
+        "text": "Which band had Morrissey as its frontman?"
+      },
+      "tags": [
+        "music",
+        "bands",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "6470d79b423445f16131b4d0",
+      "correctAnswer": "Henry VIII",
+      "incorrectAnswers": [
+        "Edward VI",
+        "Mary I",
+        "Elizabeth I"
+      ],
+      "question": {
+        "text": "Which king of England, who died in 1547, was survived by his wife Catherine?"
+      },
+      "tags": [
+        "monarchs",
+        "uk",
+        "history"
+      ],
+      "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "6239f8069129041bf3925cbf",
-      "correctAnswer": "Charlie",
+      "category": "science",
+      "id": "6463395501d576cfac3aa34f",
+      "correctAnswer": "Palm tree",
       "incorrectAnswers": [
-        "Catalog",
-        "Criminal",
-        "Cart"
+        "Maple tree",
+        "Birch tree",
+        "Fir tree"
       ],
       "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter C?"
+        "text": "What type of tree do both dates and coconuts come from?"
       },
       "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500db",
-      "correctAnswer": "Baby Pac-Man",
-      "incorrectAnswers": [
-        "Miss Pac-Man",
-        "Mrs Pac-Man",
-        "Super Pac-Man"
-      ],
-      "question": {
-        "text": "What was the hybrid pinball/video game in the Pac-Man series?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8bb",
-      "correctAnswer": "Harrison Ford",
-      "incorrectAnswers": [
-        "Marlon Brando",
-        "Samuel L. Jackson",
-        "Al Pacino"
-      ],
-      "question": {
-        "text": "Which actor played the role of Indiana Jones in Raiders of the Lost Ark?"
-      },
-      "tags": [
-        "people",
-        "acting",
-        "general_knowledge",
-        "film_and_tv"
+        "plants",
+        "trees",
+        "agriculture",
+        "fruit",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -466,41 +569,39 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950183",
-      "correctAnswer": "Little Men",
+      "category": "general_knowledge",
+      "id": "645c9f5342ea81e2554c5f0d",
+      "correctAnswer": "a foot",
       "incorrectAnswers": [
-        "Grown Women",
-        "Old Women",
-        "Out in the Barlows"
+        "a hand",
+        "an ear",
+        "a nose"
       ],
       "question": {
-        "text": "What was the sequel to Louisa May Alcott's \"Little Women\"?"
+        "text": "What body part are you said to have 'in the door' if you're lucky, and 'in the grave' if you're not?"
       },
       "tags": [
-        "literature",
-        "arts_and_literature"
+        "idioms",
+        "sayings"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fd89",
-      "correctAnswer": "Prince",
+      "id": "622a1c397cc59eab6f950bf5",
+      "correctAnswer": "The Doors",
       "incorrectAnswers": [
-        "Paul McCartney",
-        "Elton John",
-        "Patti Smith"
+        "Styx",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
       ],
       "question": {
-        "text": "Who Wrote The Song \"Manic Monday\" For The Bangles\""
+        "text": "Which American rock band released the song 'Riders on the Storm'?"
       },
       "tags": [
-        "songs",
-        "bands",
         "music"
       ],
       "type": "text_choice",
@@ -510,18 +611,19 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fedc",
-      "correctAnswer": "Mariah Carey",
+      "id": "62506466e12f6dec240bdfb0",
+      "correctAnswer": "Andrea True Connection",
       "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Madonna"
+        "Sugarhill Gang",
+        "Billy Ray Cyrus",
+        "Aqua"
       ],
       "question": {
-        "text": "Which American singer and songwriter released the song 'Emotions'?"
+        "text": "Who had a hit in 1975 with More More More?"
       },
       "tags": [
         "songs",
+        "one_hit_wonders",
         "music"
       ],
       "type": "text_choice",
@@ -530,107 +632,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950792",
-      "correctAnswer": "James Franco",
+      "category": "society_and_culture",
+      "id": "646089cade964ebc39016c73",
+      "correctAnswer": "Mae West",
       "incorrectAnswers": [
-        "Sean Connery",
-        "Gary Oldman",
-        "Donald Sutherland"
+        "Marilyn Monroe",
+        "Ginger Rogers",
+        "Bette Davis"
       ],
       "question": {
-        "text": "Which actor has featured in films including Spider-Man and Milk?"
+        "text": "What famous blonde from the 1930s said 'When women go wrong, men go right after them'?"
       },
       "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f970",
-      "correctAnswer": "On the Road",
-      "incorrectAnswers": [
-        "The Member of the Wedding",
-        "1984",
-        "Breakfast at Tiffany's"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Dean Moriarty'?"
-      },
-      "tags": [
-        "literature",
-        "classic_novels",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951362",
-      "correctAnswer": "Neoclassicism",
-      "incorrectAnswers": [
-        "Romanticism",
-        "Fauvism",
-        "Impressionism"
-      ],
-      "question": {
-        "text": "Which artistic style of the late eighteenth and early nineteenth centuries revived the order and harmony of ancient Greek and Roman art?"
-      },
-      "tags": [
-        "words",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502c7",
-      "correctAnswer": "Breakfast Cereals ",
-      "incorrectAnswers": [
-        "Bread",
-        "Crisps",
-        "Chewing Gum"
-      ],
-      "question": {
-        "text": "What Foodstuff Is The Most Advertised In The UK?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "627164961ba117625baac967",
-      "correctAnswer": "Canelazo",
-      "incorrectAnswers": [
-        "Kumis",
-        "Rakı",
-        "Tuba"
-      ],
-      "question": {
-        "text": "Which of these drinks would you associate with Equador?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
+        "quotes",
+        "people",
+        "1930's"
       ],
       "type": "text_choice",
       "difficulty": "hard",
