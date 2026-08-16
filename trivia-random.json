@@ -1,25 +1,45 @@
 {
-  "gameDate": "2026-08-15",
+  "gameDate": "2026-08-16",
   "difficulty": "random",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "6463394f01d576cfac3aa33c",
-      "correctAnswer": "Borscht",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd93",
+      "correctAnswer": "Gustav Holst",
       "incorrectAnswers": [
-        "Stroganoff",
-        "Pelmeni",
-        "Blintz"
+        "Edward Elgar",
+        "Igor Stravinsky",
+        "Claude Debussy"
       ],
       "question": {
-        "text": "What is the name of the Russian beet soup usually served with sour cream?"
+        "text": "Who Composed \"The Planets\" Suite? "
       },
       "tags": [
-        "soups",
-        "food",
-        "food_and_drink",
-        "russia",
-        "society_and_culture"
+        "classical_music",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f900",
+      "correctAnswer": "Whoopi Goldberg",
+      "incorrectAnswers": [
+        "Frances McDormand",
+        "Katharine Hepburn",
+        "Gloria Swanson"
+      ],
+      "question": {
+        "text": "Which actress played the role of Oda Mae Brown in Ghost?"
+      },
+      "tags": [
+        "film",
+        "acting",
+        "general_knowledge",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -27,16 +47,103 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "6257402e9da29df7b05f73ca",
-      "correctAnswer": "A group of low-level criminals fight to track down a priceless stolen diamond.",
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ffa9",
+      "correctAnswer": "Venice",
       "incorrectAnswers": [
-        "A research team in Antarctica is hunted by a shape-shifting alien.",
-        "When two girls move to the country, they have adventures with the forest spirits who live nearby.",
-        "In order to power the city, beasts have to scare children so that they scream."
+        "Rome",
+        "Milan",
+        "Naples"
       ],
       "question": {
-        "text": "What is the plot of the movie Snatch?"
+        "text": "In which city would you find the Bridge of Sighs?"
+      },
+      "tags": [
+        "places",
+        "tourist_attractions",
+        "bridges",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374170cb85f7ce9e949d66",
+      "correctAnswer": "Chisinau",
+      "incorrectAnswers": [
+        "Kinshasa",
+        "Lusaka",
+        "Tallinn"
+      ],
+      "question": {
+        "text": "What is the capital city of Moldova?"
+      },
+      "tags": [
+        "capital_cities",
+        "moldova"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdb8",
+      "correctAnswer": "Flight Suits",
+      "incorrectAnswers": [
+        "Bikinis",
+        "Nothing",
+        "Tuxedos"
+      ],
+      "question": {
+        "text": "What Clothing Are The 2 Figures Wearing On The 1978 Black Sabbath Album Cover \"Never Say Die\""
+      },
+      "tags": [
+        "music_albums",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "645b69d8f09106226db2355f",
+      "correctAnswer": "As You Like It",
+      "incorrectAnswers": [
+        "Twelfth Night",
+        "Much Ado About Nothing",
+        "A Midsummer Night's Dream"
+      ],
+      "question": {
+        "text": "From which Shakespearean comedy do the lines 'And thereby hangs a tale' and 'All the world's a stage' come?"
+      },
+      "tags": [
+        "theater",
+        "shakespeare",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6256fa4d9da29df7b05f7306",
+      "correctAnswer": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+      "incorrectAnswers": [
+        "A Korean War veteran sets out to reform his neighbor who tried to steal his prized possession.",
+        "A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.",
+        "Monoliths discovered in Africa generations ago lead mankind on an awesome journey to Jupiter, with the help the world's greatest supercomputer."
+      ],
+      "question": {
+        "text": "What is the plot of the movie A Clockwork Orange?"
       },
       "tags": [
         "film",
@@ -48,22 +155,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "647f9d363a4302a719271573",
-      "correctAnswer": "Lobster",
+      "category": "music",
+      "id": "645bb13cf09106226db23598",
+      "correctAnswer": "Johnny Cash",
       "incorrectAnswers": [
-        "Egg",
-        "Ham",
-        "Tomato"
+        "Elvis Presley",
+        "Buddy Holly",
+        "Roy Orbison"
       ],
       "question": {
-        "text": "What type of food can be prepared 'Newberg style'?"
+        "text": "For which man is the album 'At San Quentin, More of Old Golden Throat' named?"
       },
       "tags": [
-        "recipes",
-        "cooking",
-        "food",
-        "food_and_drink"
+        "music",
+        "musicians",
+        "music_albums"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -71,16 +177,280 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "627164551ba117625baac958",
-      "correctAnswer": "Uganda",
+      "category": "history",
+      "id": "646089e9de964ebc39016cb9",
+      "correctAnswer": "Amazon",
       "incorrectAnswers": [
-        "Niger",
-        "Colombia",
-        "The Czech Republic"
+        "Congo",
+        "Yangtze",
+        "Mississippi"
       ],
       "question": {
-        "text": "Which country is associated with the drink waragi?"
+        "text": "While cruising down what river in 1542 was Francisco de Orellana attacked by female warriors that gave it its name?"
+      },
+      "tags": [
+        "rivers",
+        "exploration",
+        "etymology",
+        "names",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "647f9deb3a4302a71927165a",
+      "correctAnswer": "Justin Bieber",
+      "incorrectAnswers": [
+        "Usher",
+        "Drake",
+        "Adele"
+      ],
+      "question": {
+        "text": "Which artist had a hit in 2016 with \"Love Yourself\"?"
+      },
+      "tags": [
+        "music",
+        "songs",
+        "pop_music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c357cc59eab6f95001d",
+      "correctAnswer": "Squash",
+      "incorrectAnswers": [
+        "Cricket",
+        "Rugby",
+        "Tennis"
+      ],
+      "question": {
+        "text": "With Which Sport Would You Associate Jahangir Khan?"
+      },
+      "tags": [
+        "people",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc12",
+      "correctAnswer": "\"What a dump.\"",
+      "incorrectAnswers": [
+        "\"May the odds ever be in your favor.\"",
+        "\"We’re goin’ streaking!\"",
+        "\"Mother of mercy, is this the end of Rico?\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Beyond the Forest'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "639ae2da929b90846f2fc8bc",
+      "correctAnswer": "Chainmail",
+      "incorrectAnswers": [
+        "Helmets",
+        "Shields",
+        "Leather jerkins"
+      ],
+      "question": {
+        "text": "Which of these is not a type of Viking armor?"
+      },
+      "tags": [
+        "history",
+        "vikings"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3d7cc59eab6f951c18",
+      "correctAnswer": "Mexico",
+      "incorrectAnswers": [
+        "Russia",
+        "China",
+        "Australia"
+      ],
+      "question": {
+        "text": "From Which Country Does The Poinsettia Plant Originate"
+      },
+      "tags": [
+        "plants",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8ef",
+      "correctAnswer": "Marlon Brando",
+      "incorrectAnswers": [
+        "Anthony Perkins",
+        "Bruce Willis",
+        "Humphrey Bogart"
+      ],
+      "question": {
+        "text": "Which actor played the role of Terry Malloy in On the Waterfront?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd06",
+      "correctAnswer": "Jean-Jacques Rousseau",
+      "incorrectAnswers": [
+        "Jean-Paul Sartre",
+        "Spinoza",
+        "Ludwig Wittgenstein"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'Man is born free, but is everywhere in chains'?"
+      },
+      "tags": [
+        "people",
+        "quotes",
+        "philosophy",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "645c9fc142ea81e2554c5f5f",
+      "correctAnswer": "Frond",
+      "incorrectAnswers": [
+        "Raunt",
+        "Leaflet",
+        "Bough"
+      ],
+      "question": {
+        "text": "What is the word used for the large, divided leaves of ferns and some palms, which comes from the Latin for \"foliage\"?"
+      },
+      "tags": [
+        "botany",
+        "plants",
+        "science",
+        "nature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64824f247778562fd76a96cc",
+      "correctAnswer": "Class action",
+      "incorrectAnswers": [
+        "Criminal suit",
+        "Civil litigation",
+        "Small claims"
+      ],
+      "question": {
+        "text": "What is the name of the type of lawsuit that represents the common interests of a large group?"
+      },
+      "tags": [
+        "law",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570417a97013de78b5569",
+      "correctAnswer": "Carcinogen",
+      "incorrectAnswers": [
+        "Cyanogen",
+        "Dermatogen",
+        "Androgen"
+      ],
+      "question": {
+        "text": "What do we call an agent that causes cancer?"
+      },
+      "tags": [
+        "science",
+        "medicine",
+        "biology"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "647f9dec3a4302a719271667",
+      "correctAnswer": "A novice",
+      "incorrectAnswers": [
+        "A friar",
+        "A cleric",
+        "A nun"
+      ],
+      "question": {
+        "text": "What is the term for a person who has joined a Catholic religious order, but has not yet taken vows, originating from the Latin for 'new'?"
+      },
+      "tags": [
+        "christianity",
+        "religion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "627164b21ba117625baac96f",
+      "correctAnswer": "Akevitt",
+      "incorrectAnswers": [
+        "Slivovitz",
+        "Mama Juana",
+        "Gin"
+      ],
+      "question": {
+        "text": "Which of these drinks would you associate with Norway?"
       },
       "tags": [
         "drink",
@@ -93,429 +463,18 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f950fe2",
-      "correctAnswer": "Hibiscus",
+      "id": "622a1c3a7cc59eab6f95103c",
+      "correctAnswer": "Ra",
       "incorrectAnswers": [
-        "Orchid",
-        "Lavender",
-        "Rose"
+        "Rd",
+        "Gi",
+        "Rm"
       ],
       "question": {
-        "text": "Which plant is known for attracting hummingbirds?"
-      },
-      "tags": [
-        "biology",
-        "animals",
-        "plants",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623388880161109f922aac92",
-      "correctAnswer": "Laos",
-      "incorrectAnswers": [
-        "Cambodia",
-        "Thailand",
-        "Vietnam"
-      ],
-      "question": {
-        "text": "Which is the only landlocked country in South East Asia?"
-      },
-      "tags": [
-        "southeast_asia",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b57d4fd6c701a92118381",
-      "correctAnswer": "Italy",
-      "incorrectAnswers": [
-        "China",
-        "Belgium",
-        "Argentina"
-      ],
-      "question": {
-        "text": "In which country would you find the Dolomites?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623384cf62eaad73716a8c31",
-      "correctAnswer": "The Amazon",
-      "incorrectAnswers": [
-        "The Ganges",
-        "The Loire",
-        "The Mekong"
-      ],
-      "question": {
-        "text": "What is the world's widest river?"
-      },
-      "tags": [
-        "rivers",
-        "bodies_of_water",
-        "records",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f95108e",
-      "correctAnswer": "Alchemy",
-      "incorrectAnswers": [
-        "Magic",
-        "Aurentalism",
-        "Mystic Metallurgy"
-      ],
-      "question": {
-        "text": "The ancient attempt to transmute base metals into gold was called ________."
-      },
-      "tags": [
-        "classics",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc8d",
-      "correctAnswer": "Curmudgeon",
-      "incorrectAnswers": [
-        "Bumfuzzle",
-        "Borborygmus",
-        "Deipnophobia"
-      ],
-      "question": {
-        "text": "Which word is defined as 'a bad-tempered person'?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "63adbd7304c68cc1e14b8e42",
-      "correctAnswer": "Pear Tree",
-      "incorrectAnswers": [
-        "Oak Tree",
-        "Maple Tree",
-        "Birch Tree"
-      ],
-      "question": {
-        "text": "Which type of tree is known for its fragrant white flowers?"
-      },
-      "tags": [
-        "science",
-        "trees",
-        "plants",
-        "nature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950056",
-      "correctAnswer": "Joe Frazier",
-      "incorrectAnswers": [
-        "Sugar Ray Robinson",
-        "George Foreman",
-        "Mike Tyson"
-      ],
-      "question": {
-        "text": "Who Was Beaten By Muhammad Ali In The Bout Entitled 'The Thriller In Manilla'?"
-      },
-      "tags": [
-        "boxing",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "645ab413158db1bd1779f1b8",
-      "correctAnswer": "Moo Shoo",
-      "incorrectAnswers": [
-        "Kung Pao",
-        "General Tso's Chicken",
-        "Lo Mein"
-      ],
-      "question": {
-        "text": "What Chinese dish is traditionally made of shredded pork stir-fried with eggs, bamboo shoots, other vegetables, and served in thin pancakes?"
-      },
-      "tags": [
-        "food",
-        "recipes",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95075d",
-      "correctAnswer": "Forest Whitaker",
-      "incorrectAnswers": [
-        "Dan Aykroyd",
-        "Christian Bale",
-        "Shah Rukh Khan"
-      ],
-      "question": {
-        "text": "Which actor has featured in films including Rogue One and Black Panther?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f88e",
-      "correctAnswer": "Tennis",
-      "incorrectAnswers": [
-        "Snooker",
-        "Hockey",
-        "Cycling"
-      ],
-      "question": {
-        "text": "With which sport is John McEnroe associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6477baa2550bc819ad646afc",
-      "correctAnswer": "1999",
-      "incorrectAnswers": [
-        "Purple Rain",
-        "Kiss",
-        "Let's Go Crazy"
-      ],
-      "question": {
-        "text": "Which Prince hit from 1983 begins with the lyrics, 'I was dreamin' when I wrote this, so sue me if I go too fast'?"
-      },
-      "tags": [
-        "1980s",
-        "lyrics",
-        "music",
-        "songs"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ff94",
-      "correctAnswer": "Prague",
-      "incorrectAnswers": [
-        "Vienna",
-        "Oxford",
-        "Budapest"
-      ],
-      "question": {
-        "text": "Which European city is nicknamed the city of a hundred spires?"
-      },
-      "tags": [
-        "europe",
-        "cities",
-        "nicknames",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624334b9cfaae40c12961460",
-      "correctAnswer": "An Infant",
-      "incorrectAnswers": [
-        "A Pup",
-        "A Bunny",
-        "A Piglet"
-      ],
-      "question": {
-        "text": "What is a baby monkey known as?"
-      },
-      "tags": [
-        "animals",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237373ccfe13103f55eb5a0",
-      "correctAnswer": "Zimbabwe",
-      "incorrectAnswers": [
-        "Zambia",
-        "The Netherlands",
-        "Western Sahara"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.zw' at the end of its web addresses?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624db9ebde6018633d31f6ab",
-      "correctAnswer": "Matt Monro",
-      "incorrectAnswers": [
-        "Shirley Bassey",
-        "Lulu",
-        "Madonna"
-      ],
-      "question": {
-        "text": "Who performed the theme song to the James Bond film From Russia With Love?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "soundtracks",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc00",
-      "correctAnswer": "\"Open the pod bay doors, please, HAL.\"",
-      "incorrectAnswers": [
-        "\"Forget it, Jake, it's Chinatown.\"",
-        "\"I love lamp.\"",
-        "\"I’m the guy who does his job. You must be the other guy.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film '2001: A Space Odyssey'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510b4",
-      "correctAnswer": "Brain",
-      "incorrectAnswers": [
-        "Lungs",
-        "Heart",
-        "Liver"
-      ],
-      "question": {
-        "text": "In which organ is your \"hypothalmus\" located?"
+        "text": "What is the chemical symbol for radium?"
       },
       "tags": [
         "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "69a561ae6e10e90bb9969bf8",
-      "correctAnswer": "Jack",
-      "incorrectAnswers": [
-        "Hansel",
-        "Tom Thumb",
-        "Peter"
-      ],
-      "question": {
-        "text": "What small character outwits a giant in many stories and is known for cleverness?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b08",
-      "correctAnswer": "The Smiths",
-      "incorrectAnswers": [
-        "The Cure",
-        "Sex Pistols",
-        "Nirvana"
-      ],
-      "question": {
-        "text": "Which band had Morrissey as its frontman?"
-      },
-      "tags": [
-        "music",
-        "bands",
-        "musicians"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -524,20 +483,59 @@
     },
     {
       "category": "history",
-      "id": "6470d79b423445f16131b4d0",
-      "correctAnswer": "Henry VIII",
+      "id": "65056e847a97013de78b52ff",
+      "correctAnswer": "Latin",
       "incorrectAnswers": [
-        "Edward VI",
-        "Mary I",
-        "Elizabeth I"
+        "Greek",
+        "Italian",
+        "Etruscan"
       ],
       "question": {
-        "text": "Which king of England, who died in 1547, was survived by his wife Catherine?"
+        "text": "Which language was most commonly spoken in Ancient Rome?"
       },
       "tags": [
-        "monarchs",
-        "uk",
-        "history"
+        "history",
+        "ancient"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c3f",
+      "correctAnswer": "Coldplay",
+      "incorrectAnswers": [
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
+      ],
+      "question": {
+        "text": "Which British band released the song 'Paradise'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623735d1cfe13103f55eb570",
+      "correctAnswer": "Sierra Leone",
+      "incorrectAnswers": [
+        "Slovenia",
+        "Slovakia",
+        "Sri Lanka"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.sl' at the end of its web addresses?"
+      },
+      "tags": [
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -545,64 +543,21 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6463395501d576cfac3aa34f",
-      "correctAnswer": "Palm tree",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa35",
+      "correctAnswer": "Italian Renaissance",
       "incorrectAnswers": [
-        "Maple tree",
-        "Birch tree",
-        "Fir tree"
+        "Art Nouveau",
+        "Surrealism",
+        "Romanticism"
       ],
       "question": {
-        "text": "What type of tree do both dates and coconuts come from?"
+        "text": "The painting \"Primavera\" by Sandro Botticelli is a part of which art movement?"
       },
       "tags": [
-        "plants",
-        "trees",
-        "agriculture",
-        "fruit",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "645c9f5342ea81e2554c5f0d",
-      "correctAnswer": "a foot",
-      "incorrectAnswers": [
-        "a hand",
-        "an ear",
-        "a nose"
-      ],
-      "question": {
-        "text": "What body part are you said to have 'in the door' if you're lucky, and 'in the grave' if you're not?"
-      },
-      "tags": [
-        "idioms",
-        "sayings"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950bf5",
-      "correctAnswer": "The Doors",
-      "incorrectAnswers": [
-        "Styx",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
-      ],
-      "question": {
-        "text": "Which American rock band released the song 'Riders on the Storm'?"
-      },
-      "tags": [
-        "music"
+        "painting",
+        "art",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -610,21 +565,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "62506466e12f6dec240bdfb0",
-      "correctAnswer": "Andrea True Connection",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950275",
+      "correctAnswer": "Screwdriver ",
       "incorrectAnswers": [
-        "Sugarhill Gang",
-        "Billy Ray Cyrus",
-        "Aqua"
+        "Hammer",
+        "Spanner",
+        "Wrench"
       ],
       "question": {
-        "text": "Who had a hit in 1975 with More More More?"
+        "text": "Which cocktail shares its name with a tool?"
       },
       "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
+        "drink",
+        "cocktails",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -633,20 +588,66 @@
     },
     {
       "category": "society_and_culture",
-      "id": "646089cade964ebc39016c73",
-      "correctAnswer": "Mae West",
+      "id": "64dd35bb9cef2bd3a34a8d53",
+      "correctAnswer": "Mark Zuckerberg",
       "incorrectAnswers": [
-        "Marilyn Monroe",
-        "Ginger Rogers",
-        "Bette Davis"
+        "Bill Gates",
+        "Steve Jobs",
+        "Jeff Bezos"
       ],
       "question": {
-        "text": "What famous blonde from the 1930s said 'When women go wrong, men go right after them'?"
+        "text": "Who co-founded Facebook?"
       },
       "tags": [
-        "quotes",
-        "people",
-        "1930's"
+        "technology",
+        "business",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625063b5e12f6dec240bdf7c",
+      "correctAnswer": "a-ha",
+      "incorrectAnswers": [
+        "Biz Markie",
+        "Haddaway",
+        "Bobby McFerrin"
+      ],
+      "question": {
+        "text": "Who had a hit in 1985 with Take on Me?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "1980's",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611f714b176d54800e3d59",
+      "correctAnswer": "1967",
+      "incorrectAnswers": [
+        "1973",
+        "1979",
+        "1985"
+      ],
+      "question": {
+        "text": "When was the first heart transplant?"
+      },
+      "tags": [
+        "events",
+        "firsts",
+        "medicine",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
