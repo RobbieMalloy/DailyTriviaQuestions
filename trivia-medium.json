@@ -1,23 +1,109 @@
 {
-  "gameDate": "2026-08-17",
+  "gameDate": "2026-08-18",
   "difficulty": "medium",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff5b",
-      "correctAnswer": "Bob Dylan",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950fa7",
+      "correctAnswer": "William Shakespeare",
       "incorrectAnswers": [
-        "Neil Young",
-        "Eric Clapton",
-        "Alanis Morissette"
+        "Arthur C. Clarke",
+        "Isaac Newton",
+        "Enid Blyton"
       ],
       "question": {
-        "text": "Which American musician released the album 'Blonde on Blonde'?"
+        "text": "Which author wrote 'King Lear'?"
       },
       "tags": [
-        "music_albums",
-        "1960's",
-        "musicians",
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9518b9",
+      "correctAnswer": "Caesarion",
+      "incorrectAnswers": [
+        "Octavian",
+        "Augustus",
+        "Commodus"
+      ],
+      "question": {
+        "text": "What was the name of the son of Cleopatra & Julius Caesar?"
+      },
+      "tags": [
+        "romans",
+        "the_ancient_world",
+        "people",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd90",
+      "correctAnswer": "Donny Osmond",
+      "incorrectAnswers": [
+        "David Bowie",
+        "Elton John",
+        "The Carpenters"
+      ],
+      "question": {
+        "text": "Who Had A Number One Hit With Puppy Love In 1972?"
+      },
+      "tags": [
+        "1970's",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fad5",
+      "correctAnswer": "Kevin Spacey",
+      "incorrectAnswers": [
+        "Russell Crowe",
+        "Richard Farnsworth",
+        "Sean Penn"
+      ],
+      "question": {
+        "text": "Who won the 1999 Academy Award for Best Leading Actor for playing the role of Lester Burnham in American Beauty?"
+      },
+      "tags": [
+        "academy_awards",
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c367cc59eab6f950340",
+      "correctAnswer": "Tchaikovsky",
+      "incorrectAnswers": [
+        "Handel",
+        "Bach",
+        "Schuberg"
+      ],
+      "question": {
+        "text": "Who was the composer of 'The Nutcracker' ballet?"
+      },
+      "tags": [
+        "classical_music",
         "music"
       ],
       "type": "text_choice",
@@ -27,132 +113,21 @@
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94ff7e",
-      "correctAnswer": "Hanoi",
+      "id": "645cb1257d263fd5097043a0",
+      "correctAnswer": "St. Lawrence",
       "incorrectAnswers": [
-        "Ho Chi Minh City",
-        "Huế",
-        "Saigon"
+        "Colorado",
+        "Mississippi",
+        "Nile"
       ],
       "question": {
-        "text": "What is the capital of Vietnam?"
+        "text": "On which river is Lake St. Francis located, on the border of Ontario and Quebec?"
       },
       "tags": [
-        "capital_cities",
+        "rivers",
+        "canada",
+        "bodies_of_water",
         "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9517a4",
-      "correctAnswer": "Houston",
-      "incorrectAnswers": [
-        "Austin",
-        "Dallas",
-        "Atlanta"
-      ],
-      "question": {
-        "text": "Which geographical location was the first word spoken on the moon?"
-      },
-      "tags": [
-        "history",
-        "geography",
-        "places",
-        "space_exploration",
-        "events"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ff83",
-      "correctAnswer": "Austin",
-      "incorrectAnswers": [
-        "Boston",
-        "Dallas",
-        "Houston"
-      ],
-      "question": {
-        "text": "What is the capital of Texas?"
-      },
-      "tags": [
-        "cities",
-        "us_states",
-        "usa",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "65056f967a97013de78b547d",
-      "correctAnswer": "China",
-      "incorrectAnswers": [
-        "India",
-        "France",
-        "Mexico"
-      ],
-      "question": {
-        "text": "In which country did the philosophy of Taoism originate?"
-      },
-      "tags": [
-        "society_and_culture",
-        "philosophy"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "626030b14b176d54800e3d37",
-      "correctAnswer": "Algeria",
-      "incorrectAnswers": [
-        "Cameroon",
-        "Democratic Republic of the Congo",
-        "Senegal"
-      ],
-      "question": {
-        "text": "Where would you find the city of Algiers?"
-      },
-      "tags": [
-        "cities",
-        "africa",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64dfa27da6681754ea052bae",
-      "correctAnswer": "The Scoville scale",
-      "incorrectAnswers": [
-        "The Heat index",
-        "The Shearer Factor",
-        "The Spiciness Gauge"
-      ],
-      "question": {
-        "text": "What is the name of the scale used to measure the heat level of chili peppers?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink",
-        "units",
-        "measurements"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -161,20 +136,18 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbd0",
-      "correctAnswer": "\"My precious.\"",
+      "id": "645c9fc142ea81e2554c5f67",
+      "correctAnswer": "Hook",
       "incorrectAnswers": [
-        "\"Keep your friends close, but your enemies closer.\"",
-        "\"You're gonna need a bigger boat.\"",
-        "\"You shall not pass!\""
+        "Indiana Jones and the Last Crusade",
+        "Jurassic Park",
+        "Schindler's List"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Lord of the Rings: The Two Towers'?"
+        "text": "Which 1991 Steven Spielberg film included 350 pirate outfits for the extras alone?"
       },
       "tags": [
-        "quotes",
         "film",
-        "general_knowledge",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -183,22 +156,65 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "63b069514799123c67712f7b",
-      "correctAnswer": "Indlamu",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cc4",
+      "correctAnswer": "Queen",
       "incorrectAnswers": [
-        "Hula",
-        "Tango",
-        "Flamenco"
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
       ],
       "question": {
-        "text": "What is the traditional dance of the Zulu people of South Africa?"
+        "text": "Which British rock band released the song 'The Show Must Go On'?"
       },
       "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293eca57f41d6338b96ef00",
+      "correctAnswer": "Enrico Fermi",
+      "incorrectAnswers": [
+        "Joseph Lister",
+        "Nicolaus Copernicus",
+        "Constantine the Great"
+      ],
+      "question": {
+        "text": "Which influential physicist created the first nuclear reactor?"
+      },
+      "tags": [
+        "people",
+        "history",
         "society_and_culture",
-        "dance",
-        "africa",
-        "zulu"
+        "physics",
+        "science",
+        "inventions"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9517ac",
+      "correctAnswer": "Davy Crockett",
+      "incorrectAnswers": [
+        "Davy Jones",
+        "Davy Barrow",
+        "Davy Dylan"
+      ],
+      "question": {
+        "text": "Which frontiersman died at the Alamo?"
+      },
+      "tags": [
+        "usa",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -207,20 +223,19 @@
     },
     {
       "category": "science",
-      "id": "63f39521989356ef48370c24",
-      "correctAnswer": "Cough",
+      "id": "622a1c377cc59eab6f95050c",
+      "correctAnswer": "movement in relation to human anatomy; a branch of medicine",
       "incorrectAnswers": [
-        "Headache",
-        "Nausea",
-        "Weight gain"
+        "cells",
+        "interactions among organisms and the water cycle",
+        "animals that may or may not be mythical"
       ],
       "question": {
-        "text": "Which of the following is the main symptom of bronchitis?"
+        "text": "What is Kinesiology the study of?"
       },
       "tags": [
-        "science",
-        "medicine",
-        "biology"
+        "words",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -228,85 +243,20 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95036d",
-      "correctAnswer": "Marie Antoinette",
+      "category": "general_knowledge",
+      "id": "622a1c3a7cc59eab6f951082",
+      "correctAnswer": "Libra",
       "incorrectAnswers": [
-        "Queen Victoria",
-        "Abraham Lincoln",
-        "Cleopatra"
+        "Scorpio",
+        "Gemini",
+        "Aries"
       ],
       "question": {
-        "text": "Who is reputed to have said said: \"Let them eat cake\"?"
+        "text": "What constellation is represented by scales?"
       },
       "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623384b462eaad73716a8c26",
-      "correctAnswer": "Lake Baikal",
-      "incorrectAnswers": [
-        "Lake Superior",
-        "Lake Victoria",
-        "Loch Ness"
-      ],
-      "question": {
-        "text": "What is the world's deepest lake?"
-      },
-      "tags": [
-        "bodies_of_water",
-        "records",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3e7cc59eab6f952231",
-      "correctAnswer": "South Korea",
-      "incorrectAnswers": [
-        "Taiwan",
-        "China",
-        "Japan"
-      ],
-      "question": {
-        "text": "In which country is the company Daewoo based?"
-      },
-      "tags": [
-        "society_and_culture",
-        "business"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "6498aef29acaa77d9ad7c50b",
-      "correctAnswer": "Stanza",
-      "incorrectAnswers": [
-        "Sonnet",
-        "Meter",
-        "Rhyme"
-      ],
-      "question": {
-        "text": "What is another name for a single verse of a poem?"
-      },
-      "tags": [
-        "poetry",
-        "arts_and_literature",
-        "literature",
-        "words"
+        "symbols",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -315,19 +265,18 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500ae",
-      "correctAnswer": "A Spare",
+      "id": "622a1c347cc59eab6f94f8bf",
+      "correctAnswer": "Athletics",
       "incorrectAnswers": [
-        "A Strike",
-        "A Near",
-        "A Close"
+        "Hockey",
+        "Rowing",
+        "Track and field"
       ],
       "question": {
-        "text": "In Bowling What Is The Term For Knocking Down All Ten Pins With 2 Consecutive Balls?"
+        "text": "With which sport is Carl Lewis associated?"
       },
       "tags": [
-        "games",
-        "words",
+        "people",
         "sport"
       ],
       "type": "text_choice",
@@ -336,66 +285,64 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c3b7cc59eab6f95176e",
-      "correctAnswer": "Cupid",
+      "category": "geography",
+      "id": "623385b562eaad73716a8c8a",
+      "correctAnswer": "Cambodia ",
       "incorrectAnswers": [
-        "Valentine",
-        "Vixen",
-        "Rudolph"
+        "Kuwait",
+        "Myanmar",
+        "Suriname"
       ],
       "question": {
-        "text": "Which of these is both one of Santa's reindeers and a mythological god of love?"
+        "text": "What country was known as Kampuchea between 1975 and 1979?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6463398801d576cfac3aa367",
+      "correctAnswer": "Where the Wild Things Are",
+      "incorrectAnswers": [
+        "The Cat in the Hat",
+        "Green Eggs and Ham",
+        "Goodnight Moon"
+      ],
+      "question": {
+        "text": "What 2009 film is based on Maurice Sendak's beloved children's classic?"
+      },
+      "tags": [
+        "childrens_literature",
+        "film",
+        "film_and_tv",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63b069364799123c67712f65",
+      "correctAnswer": "Gákti",
+      "incorrectAnswers": [
+        "Kilt",
+        "Lederhosen",
+        "Bunad"
+      ],
+      "question": {
+        "text": "Which of these is a piece of traditional clothing worn by the Sami people of Northern Europe?"
       },
       "tags": [
         "society_and_culture",
-        "mythology",
-        "christmas"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f419da29df7b05f7390",
-      "correctAnswer": "It's a Wonderful Life",
-      "incorrectAnswers": [
-        "WALL·E",
-        "Ratatouille",
-        "Psycho"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'An angel is sent to help a man by showing him what life would have been like if he had never existed.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f951a58",
-      "correctAnswer": "The Nightmare Before Christmas",
-      "incorrectAnswers": [
-        "Edward Scissorhands",
-        "Batman",
-        "Corpse Bride"
-      ],
-      "question": {
-        "text": "The Character Jack Skellington Appears In Which 1993 Tim Burton Film?"
-      },
-      "tags": [
-        "fictitious_characters",
-        "film",
-        "1990's",
-        "general_knowledge",
-        "film_and_tv"
+        "fashion",
+        "scandinavia"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -404,18 +351,19 @@
     },
     {
       "category": "history",
-      "id": "622a1c367cc59eab6f950345",
-      "correctAnswer": "John F Kennedy",
+      "id": "65056eed7a97013de78b5391",
+      "correctAnswer": "Slavery",
       "incorrectAnswers": [
-        "Winston Churchill",
-        "Henry VIII",
-        "Josef Stalin"
+        "Alcohol",
+        "Death",
+        "Hunger"
       ],
       "question": {
-        "text": "Who Was Quoted As Saying \"Ask Not What Your Country Can Do For You But What You Can Do For Your Country''?"
+        "text": "What did the abolitionist movement of the 1800s seek to end?"
       },
       "tags": [
-        "history"
+        "history",
+        "1800's"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -424,15 +372,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c3b7cc59eab6f9513c0",
-      "correctAnswer": "Little Women",
+      "id": "622a1c367cc59eab6f95016d",
+      "correctAnswer": "Satan",
       "incorrectAnswers": [
-        "Buddenbrooks",
-        "David Copperfield",
-        "Jane Eyre"
+        "Jesus",
+        "Dante",
+        "Judas"
       ],
       "question": {
-        "text": "In which book does 'Jo March' appear?"
+        "text": "Who is the protagonist of Milton's Paradise Lost?"
       },
       "tags": [
         "arts_and_literature"
@@ -443,20 +391,64 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f951905",
-      "correctAnswer": "Jackie Onnasis",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510b6",
+      "correctAnswer": "Brain",
       "incorrectAnswers": [
-        "Jackie Starling",
-        "Jackie Middleton",
-        "Jackie Van der Steene"
+        "Lungs",
+        "Heart",
+        "Kidneys"
       ],
       "question": {
-        "text": "What Was Jackie Kennedy's Name Before She Married John F Kennedy?"
+        "text": "Meningitis affects the _________."
+      },
+      "tags": [
+        "medicine",
+        "anatomy",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "6471bcf37206d7c314606f68",
+      "correctAnswer": "Nicholas II",
+      "incorrectAnswers": [
+        "Alexander III",
+        "Peter III",
+        "Ivan IV"
+      ],
+      "question": {
+        "text": "Who was crowned Tsar of Russia in 1896?"
       },
       "tags": [
         "people",
-        "politics",
+        "monarchs",
+        "russia",
+        "history",
+        "revolutions"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f950123",
+      "correctAnswer": "Evil",
+      "incorrectAnswers": [
+        "Shame",
+        "Jewellery",
+        "Mystery"
+      ],
+      "question": {
+        "text": "What did Pandora release when she opened the box?"
+      },
+      "tags": [
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -466,17 +458,19 @@
     },
     {
       "category": "music",
-      "id": "622a1c387cc59eab6f950b8b",
-      "correctAnswer": "The Jimi Hendrix Experience",
+      "id": "62506433e12f6dec240bdfa1",
+      "correctAnswer": "The Cardigans",
       "incorrectAnswers": [
-        "Poison",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
+        "New Radicals",
+        "Big Country",
+        "David Naughton"
       ],
       "question": {
-        "text": "Which English-American psychedelic rock band released the album 'Electric Ladyland'?"
+        "text": "Who had a hit in 1996 with Lovefool?"
       },
       "tags": [
+        "songs",
+        "one_hit_wonders",
         "music"
       ],
       "type": "text_choice",
@@ -485,21 +479,19 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "63e13a08106de6ffa7d4a77f",
-      "correctAnswer": "Digestion",
+      "category": "sport_and_leisure",
+      "id": "65056e687a97013de78b52d8",
+      "correctAnswer": "Tug of war",
       "incorrectAnswers": [
-        "Excretion",
-        "Absorption",
-        "Respiration"
+        "Biathlon",
+        "Skeleton",
+        "Figure skating"
       ],
       "question": {
-        "text": "What is the technical term for the process of breaking down food?"
+        "text": "Which is NOT a discipline at the Winter Olympic Games?"
       },
       "tags": [
-        "science",
-        "biology",
-        "anatomy"
+        "sport_and_leisure"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -507,19 +499,19 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95055e",
-      "correctAnswer": "Churches",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a70",
+      "correctAnswer": "Mother Teresa",
       "incorrectAnswers": [
-        "The skin",
-        "Winged insects",
-        "Soil"
+        "Florence Nightingale",
+        "Marie Curie",
+        "Margaret Thatcher"
       ],
       "question": {
-        "text": "What is Ecclesiology the study of?"
+        "text": "Who won the 1979 Nobel Peace Prize for her work among the poor?"
       },
       "tags": [
-        "science"
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -528,84 +520,42 @@
     },
     {
       "category": "geography",
-      "id": "625e9ffa796f721e95543fc5",
-      "correctAnswer": "Red with a yellow star in the center.",
+      "id": "6233844b62eaad73716a8bfc",
+      "correctAnswer": "Arthur's Seat ",
       "incorrectAnswers": [
-        "Blue with a yellow cross extending to the edges.",
-        "White with a large red disk in the center.",
-        "Three equal vertical bands of blue gold and red."
+        "William Wallace",
+        "John o' Groats",
+        "Mount Murphy"
       ],
       "question": {
-        "text": "What does the flag of Vietnam look like?"
+        "text": "What is the name of the extinct volcano that rises above Edinburgh?"
+      },
+      "tags": [
+        "volcanoes",
+        "uk",
+        "places",
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9f89796f721e95543fa4",
+      "correctAnswer": "White",
+      "incorrectAnswers": [
+        "Gold",
+        "Green",
+        "Black"
+      ],
+      "question": {
+        "text": "Which of these colors is included on the flag of Poland?"
       },
       "tags": [
         "flags",
-        "southeast_asia",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63bc3f950e893d6e5a6a0fbc",
-      "correctAnswer": "Mod",
-      "incorrectAnswers": [
-        "Rocker",
-        "Hippie",
-        "Goth"
-      ],
-      "question": {
-        "text": "What is the name of the fashion subculture that originated in London in the late 1950s?"
-      },
-      "tags": [
-        "society_and_culture",
-        "fashion"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3b7cc59eab6f9513d2",
-      "correctAnswer": "Twilight",
-      "incorrectAnswers": [
-        "Harry Potter",
-        "The Hunger Games",
-        "The Chronicles of Narnia"
-      ],
-      "question": {
-        "text": "In which book series does 'Edward Cullen' appear?"
-      },
-      "tags": [
-        "literature",
-        "fictitious_characters",
-        "young_adult",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623735e6cfe13103f55eb57e",
-      "correctAnswer": "Sweden",
-      "incorrectAnswers": [
-        "Serbia",
-        "Senegal",
-        "Singapore"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.se' at the end of its web addresses?"
-      },
-      "tags": [
-        "the_internet",
         "geography"
       ],
       "type": "text_choice",
@@ -615,18 +565,19 @@
     },
     {
       "category": "geography",
-      "id": "6498a5e40752843c0d8aae08",
-      "correctAnswer": "The Netherlands",
+      "id": "62602e474b176d54800e3ccf",
+      "correctAnswer": "Poland",
       "incorrectAnswers": [
-        "Estonia",
-        "Bangladesh",
-        "Thailand"
+        "Iceland",
+        "Macedonia",
+        "Slovenia"
       ],
       "question": {
-        "text": "Which country reclaimed about 17% of its land from the sea by pumping out water and making new areas called polders?"
+        "text": "Where would you find the city of Kraków?"
       },
       "tags": [
-        "countries",
+        "cities",
+        "europe",
         "geography"
       ],
       "type": "text_choice",
@@ -636,18 +587,61 @@
     },
     {
       "category": "geography",
-      "id": "622a1c387cc59eab6f950802",
-      "correctAnswer": "North America",
+      "id": "625e9fec796f721e95543fc1",
+      "correctAnswer": "Red with a white crescent moon and star.",
       "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Europe"
+        "Three equal horizontal bands of red white and green.",
+        "Red with five yellow stars in the top left.",
+        "Red with a yellow sun having eight broadening rays extending to the edges."
       ],
       "question": {
-        "text": "The country of Dominica is on which continent?"
+        "text": "What does the flag of Turkey look like?"
       },
       "tags": [
+        "flags",
         "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740869da29df7b05f73e4",
+      "correctAnswer": "Kill Bill: Vol. 1",
+      "incorrectAnswers": [
+        "Million Dollar Baby",
+        "Unforgiven",
+        "Dead Poets Society"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'After awakening from a coma, a former assassin wreaks vengeance on those who betrayed her.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "64824ee57778562fd76a96a7",
+      "correctAnswer": "92",
+      "incorrectAnswers": [
+        "90",
+        "89",
+        "91"
+      ],
+      "question": {
+        "text": "What is the total number of days in March, April, and May combined?"
+      },
+      "tags": [
+        "numbers",
+        "arithmetic"
       ],
       "type": "text_choice",
       "difficulty": "medium",

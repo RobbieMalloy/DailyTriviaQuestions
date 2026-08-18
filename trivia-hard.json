@@ -1,21 +1,21 @@
 {
-  "gameDate": "2026-08-17",
+  "gameDate": "2026-08-18",
   "difficulty": "hard",
   "results": [
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a03",
-      "correctAnswer": "St Helena",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502ea",
+      "correctAnswer": "4",
       "incorrectAnswers": [
-        "Corsica",
-        "Sicily",
-        "Malta"
+        "2",
+        "6",
+        "8"
       ],
       "question": {
-        "text": "To which island was Napoleon exiled, after his loss at Waterloo?"
+        "text": "How Many 75cl Bottles Of Champagne Would You Get From A Jeroboam?"
       },
       "tags": [
-        "history"
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -23,22 +23,22 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62417d070f96c4efe8d7739d",
-      "correctAnswer": "Dallas Stars",
+      "category": "food_and_drink",
+      "id": "647f9d363a4302a719271573",
+      "correctAnswer": "Lobster",
       "incorrectAnswers": [
-        "Dallas Tigers",
-        "Dallas Football",
-        "Dallas Predators"
+        "Egg",
+        "Ham",
+        "Tomato"
       ],
       "question": {
-        "text": "Which of these is a hockey team based in Dallas?"
+        "text": "What type of food can be prepared 'Newberg style'?"
       },
       "tags": [
-        "nhl",
-        "hockey",
-        "dallas",
-        "sport"
+        "recipes",
+        "cooking",
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -46,20 +46,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "64fb150b717513cb7919038b",
-      "correctAnswer": "600",
+      "category": "food_and_drink",
+      "id": "627164551ba117625baac958",
+      "correctAnswer": "Uganda",
       "incorrectAnswers": [
-        "Men",
-        "Doomed",
-        "Storm"
+        "Niger",
+        "Colombia",
+        "The Czech Republic"
       ],
       "question": {
-        "text": "Complete the following line from 'The Charge of the Light Brigade' poem: 'All in the valley of Death rode the ___'"
+        "text": "Which country is associated with the drink waragi?"
       },
       "tags": [
-        "poetry",
-        "arts_and_literature"
+        "drink",
+        "alcohol"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -67,21 +67,22 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c3b7cc59eab6f95172f",
-      "correctAnswer": "Sequoyah",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fe2",
+      "correctAnswer": "Hibiscus",
       "incorrectAnswers": [
-        "Geronimo",
-        "Sacagawea",
-        "Sitting Bull"
+        "Orchid",
+        "Lavender",
+        "Rose"
       ],
       "question": {
-        "text": "Who made reading and writing in the Cherokee language possible by creating a syllabary for it?"
+        "text": "Which plant is known for attracting hummingbirds?"
       },
       "tags": [
-        "society_and_culture",
-        "people",
-        "language"
+        "biology",
+        "animals",
+        "plants",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -90,15 +91,126 @@
     },
     {
       "category": "geography",
-      "id": "623742f9cb85f7ce9e949e04",
-      "correctAnswer": "Sana'a",
+      "id": "623388880161109f922aac92",
+      "correctAnswer": "Laos",
       "incorrectAnswers": [
-        "Chisinau",
-        "Tarawa",
-        "Suva"
+        "Cambodia",
+        "Thailand",
+        "Vietnam"
       ],
       "question": {
-        "text": "What is the capital city of Yemen?"
+        "text": "Which is the only landlocked country in South East Asia?"
+      },
+      "tags": [
+        "southeast_asia",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63adbd7304c68cc1e14b8e42",
+      "correctAnswer": "Pear Tree",
+      "incorrectAnswers": [
+        "Oak Tree",
+        "Maple Tree",
+        "Birch Tree"
+      ],
+      "question": {
+        "text": "Which type of tree is known for its fragrant white flowers?"
+      },
+      "tags": [
+        "science",
+        "trees",
+        "plants",
+        "nature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950056",
+      "correctAnswer": "Joe Frazier",
+      "incorrectAnswers": [
+        "Sugar Ray Robinson",
+        "George Foreman",
+        "Mike Tyson"
+      ],
+      "question": {
+        "text": "Who Was Beaten By Muhammad Ali In The Bout Entitled 'The Thriller In Manilla'?"
+      },
+      "tags": [
+        "boxing",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6477baa2550bc819ad646afc",
+      "correctAnswer": "1999",
+      "incorrectAnswers": [
+        "Purple Rain",
+        "Kiss",
+        "Let's Go Crazy"
+      ],
+      "question": {
+        "text": "Which Prince hit from 1983 begins with the lyrics, 'I was dreamin' when I wrote this, so sue me if I go too fast'?"
+      },
+      "tags": [
+        "1980s",
+        "lyrics",
+        "music",
+        "songs"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ff94",
+      "correctAnswer": "Prague",
+      "incorrectAnswers": [
+        "Vienna",
+        "Oxford",
+        "Budapest"
+      ],
+      "question": {
+        "text": "Which European city is nicknamed the city of a hundred spires?"
+      },
+      "tags": [
+        "europe",
+        "cities",
+        "nicknames",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237373ccfe13103f55eb5a0",
+      "correctAnswer": "Zimbabwe",
+      "incorrectAnswers": [
+        "Zambia",
+        "The Netherlands",
+        "Western Sahara"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.zw' at the end of its web addresses?"
       },
       "tags": [
         "geography"
@@ -109,87 +221,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6266e694ff2394bd44dee055",
-      "correctAnswer": "Sete",
-      "incorrectAnswers": [
-        "Sieben",
-        "Sept",
-        "Dois"
-      ],
-      "question": {
-        "text": "What is the Portuguese word for 'seven'?"
-      },
-      "tags": [
-        "language",
-        "translations",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "63a0398dc7d86251f9b65c7c",
-      "correctAnswer": "Corona",
+      "id": "624db9ebde6018633d31f6ab",
+      "correctAnswer": "Matt Monro",
       "incorrectAnswers": [
-        "Arendelle",
-        "Belgravia",
-        "Aldova"
+        "Shirley Bassey",
+        "Lulu",
+        "Madonna"
       ],
       "question": {
-        "text": "What is the name of the kingdom Rapunzel is from in Disney's 2010 film Tangled?"
+        "text": "Who performed the theme song to the James Bond film From Russia With Love?"
       },
       "tags": [
-        "film_and_tv",
-        "disney",
-        "film"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "6460896ade964ebc39016c51",
-      "correctAnswer": "Austria",
-      "incorrectAnswers": [
-        "Argentina",
-        "Belgium",
-        "The United States"
-      ],
-      "question": {
-        "text": "Which country was Kurt Waldheim, the former Secretary-General of the United Nations, from?"
-      },
-      "tags": [
-        "politics",
-        "organizations",
-        "organisations",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb33",
-      "correctAnswer": "Crash",
-      "incorrectAnswers": [
-        "Brokeback Mountain",
-        "Capote",
-        "Good Night, and Good Luck."
-      ],
-      "question": {
-        "text": "Which film won the Academy Award for Best Picture in 2005?"
-      },
-      "tags": [
+        "james_bond",
         "film",
-        "academy_awards",
+        "soundtracks",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -198,16 +244,58 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "62506429e12f6dec240bdf9e",
-      "correctAnswer": "Hot Child in the City",
+      "category": "history",
+      "id": "6470d79b423445f16131b4d0",
+      "correctAnswer": "Henry VIII",
       "incorrectAnswers": [
-        "96 Tears",
-        "99 Luftballoons",
-        "I'm Gonna Be (500 Miles)"
+        "Edward VI",
+        "Mary I",
+        "Elizabeth I"
       ],
       "question": {
-        "text": "Nick Gilder had a one hit wonder in 1978 with which song?"
+        "text": "Which king of England, who died in 1547, was survived by his wife Catherine?"
+      },
+      "tags": [
+        "monarchs",
+        "uk",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950bf5",
+      "correctAnswer": "The Doors",
+      "incorrectAnswers": [
+        "Styx",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
+      ],
+      "question": {
+        "text": "Which American rock band released the song 'Riders on the Storm'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "62506466e12f6dec240bdfb0",
+      "correctAnswer": "Andrea True Connection",
+      "incorrectAnswers": [
+        "Sugarhill Gang",
+        "Billy Ray Cyrus",
+        "Aqua"
+      ],
+      "question": {
+        "text": "Who had a hit in 1975 with More More More?"
       },
       "tags": [
         "songs",
@@ -220,200 +308,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f18",
-      "correctAnswer": "Leo Tolstoy",
-      "incorrectAnswers": [
-        "Ivan Turgenev",
-        "Henryk Sienkiewicz",
-        "Alphonse Daudet"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Death of Ivan Ilyich'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "645fcc80541c4d4fc8cf3080",
-      "correctAnswer": "Othello",
-      "incorrectAnswers": [
-        "Hamlet",
-        "Macbeth",
-        "Julius Caesar"
-      ],
-      "question": {
-        "text": "Which Shakespeare title character is summoned by the Duke of Venice to help him deal with the threat of a Turkish attack?"
-      },
-      "tags": [
-        "theater",
-        "shakespeare",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c3d7cc59eab6f951c3d",
-      "correctAnswer": "The Pretenders",
-      "incorrectAnswers": [
-        "The Pogues",
-        "Def Leppard",
-        "Journey"
-      ],
-      "question": {
-        "text": "Chrissie Hynde was in which early eighties group?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056f2f7a97013de78b53ee",
-      "correctAnswer": "Maafe",
-      "incorrectAnswers": [
-        "Pozole",
-        "Enchilada",
-        "Tamales"
-      ],
-      "question": {
-        "text": "Which is these is not a Mexican dish?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food",
-        "mexico",
-        "mexican_cuisine"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ffd3",
-      "correctAnswer": "Devo",
-      "incorrectAnswers": [
-        "MercyMe",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "The Lee Dorsey Song \"Working In A Coal Mine\" Was Later Covered By Which Quirky Band\"?"
-      },
-      "tags": [
-        "bands",
-        "cover_song",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "62c2f9e5b3eadb0437fda6ad",
-      "correctAnswer": "Bird",
+      "id": "646089cade964ebc39016c73",
+      "correctAnswer": "Mae West",
       "incorrectAnswers": [
-        "Fish",
-        "Dog",
-        "Tiger"
+        "Marilyn Monroe",
+        "Ginger Rogers",
+        "Bette Davis"
       ],
       "question": {
-        "text": "Which of these animals would you find on the Nestlé logo?"
+        "text": "What famous blonde from the 1930s said 'When women go wrong, men go right after them'?"
       },
       "tags": [
-        "society_and_culture",
-        "business",
-        "marketing",
-        "animals",
-        "logos",
-        "symbols"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "646140b44d46e537ca8cd9ec",
-      "correctAnswer": "Silver",
-      "incorrectAnswers": [
-        "Gold",
-        "Iron",
-        "Copper"
-      ],
-      "question": {
-        "text": "What metal corresponds to the Spanish term \"plata\"?"
-      },
-      "tags": [
-        "spanish"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63e13a2f106de6ffa7d4a7ae",
-      "correctAnswer": "San Francisco",
-      "incorrectAnswers": [
-        "Los Angeles",
-        "New York City",
-        "Chicago"
-      ],
-      "question": {
-        "text": "The \"Zebra murders\" of 1973-74 took place in which US city?"
-      },
-      "tags": [
-        "society_and_culture",
-        "crime",
-        "1970's",
-        "usa"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62c2f9e2b3eadb0437fda6ac",
-      "correctAnswer": "NBC",
-      "incorrectAnswers": [
-        "Slazenger",
-        "Porsche",
-        "ING Group"
-      ],
-      "question": {
-        "text": "Which of these brands has a peacock on its logo?"
-      },
-      "tags": [
-        "society_and_culture",
-        "business",
-        "marketing",
-        "animals",
-        "birds",
-        "logos",
-        "symbols"
+        "quotes",
+        "people",
+        "1930's"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -422,22 +331,20 @@
     },
     {
       "category": "history",
-      "id": "63a039d4c7d86251f9b65cbd",
-      "correctAnswer": "Lyndon B. Johnson",
+      "id": "63adbd6204c68cc1e14b8e25",
+      "correctAnswer": "Treaties of Paris",
       "incorrectAnswers": [
-        "John F. Kennedy",
-        "Richard Nixon",
-        "Jimmy Carter"
+        "Treaties of Vienna",
+        "Treaties of London",
+        "Treaties of Berlin"
       ],
       "question": {
-        "text": "Which president signed the Civil Rights Act of 1964?"
+        "text": "What treaties ended the Napoleonic wars?"
       },
       "tags": [
         "history",
-        "usa",
-        "civil_rights",
-        "presidents",
-        "1960's"
+        "napoleonic_wars",
+        "wars"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -445,106 +352,24 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8fe",
-      "correctAnswer": "Orson Welles",
+      "category": "society_and_culture",
+      "id": "62c2f9e7b3eadb0437fda6ae",
+      "correctAnswer": "Lamborghini",
       "incorrectAnswers": [
-        "James Stewart",
-        "Humphrey Bogart",
-        "John Belushi"
+        "Linux",
+        "Hermès",
+        "Tripadvisor"
       ],
       "question": {
-        "text": "Which actor played the role of Harry Lime in The Third Man?"
+        "text": "Which of these brands has a bull on its logo?"
       },
       "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95025a",
-      "correctAnswer": "Sherry ",
-      "incorrectAnswers": [
-        "Brandy",
-        "Whiskey",
-        "Vodka"
-      ],
-      "question": {
-        "text": "Which drink is served in a Schooner?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "648888d65dba6c873ef650a8",
-      "correctAnswer": "An aria",
-      "incorrectAnswers": [
-        "A duet",
-        "An adiago",
-        "A dirge"
-      ],
-      "question": {
-        "text": "What is the term for a solo song in an opera?"
-      },
-      "tags": [
-        "music",
-        "opera",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f9522b6",
-      "correctAnswer": "They spread overground",
-      "incorrectAnswers": [
-        "Underwater",
-        "They climb up vertical surfaces",
-        "They cling to animals"
-      ],
-      "question": {
-        "text": "How do procumbent plants grow?"
-      },
-      "tags": [
-        "science",
-        "biology",
-        "plants"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950560",
-      "correctAnswer": "Ligaments",
-      "incorrectAnswers": [
-        "Things which cannot be known",
-        "Butterflies and moths",
-        "Ants"
-      ],
-      "question": {
-        "text": "What is desmology the study of?"
-      },
-      "tags": [
-        "science",
-        "words"
+        "society_and_culture",
+        "business",
+        "marketing",
+        "animals",
+        "logos",
+        "symbols"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -553,18 +378,18 @@
     },
     {
       "category": "geography",
-      "id": "62602ea04b176d54800e3ce9",
-      "correctAnswer": "Brazil",
+      "id": "64976c110752843c0d8aadbe",
+      "correctAnswer": "Nova Scotia",
       "incorrectAnswers": [
-        "Uruguay",
-        "Peru",
-        "Bahamas"
+        "Prince Edward Island",
+        "New Brunswick",
+        "Quebec"
       ],
       "question": {
-        "text": "In which country is the city of Curitiba?"
+        "text": "In which Canadian province is Halifax?"
       },
       "tags": [
-        "cities",
+        "canada",
         "geography"
       ],
       "type": "text_choice",
@@ -573,19 +398,43 @@
       "isNiche": false
     },
     {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa44",
+      "correctAnswer": "Art Nouveau",
+      "incorrectAnswers": [
+        "Northern Renaissance",
+        "Surrealism",
+        "High Renaissance"
+      ],
+      "question": {
+        "text": "The painting \"The Kiss\" by Gustav Klimt is a part of which art movement?"
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c15",
-      "correctAnswer": "Nirvana",
+      "id": "645c9f8642ea81e2554c5f32",
+      "correctAnswer": "Sun Records",
       "incorrectAnswers": [
-        "Counting Crows",
-        "Three 6 Mafia",
-        "The Velvet Underground"
+        "Capitol Records",
+        "Atlantic Records",
+        "Columbia Records"
       ],
       "question": {
-        "text": "Which American rock band released the song 'About a Girl'?"
+        "text": "Which record label from Memphis released five singles from Elvis Presley between July 1954 and August 1955?"
       },
       "tags": [
-        "music"
+        "elvis_presley",
+        "music",
+        "1950's"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -593,22 +442,19 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f952243",
-      "correctAnswer": "Liver",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e6a",
+      "correctAnswer": "Gabriel García Márquez",
       "incorrectAnswers": [
-        "Bladder",
-        "Heart",
-        "Kidney"
+        "Ivan Turgenev",
+        "Søren Kierkegaard",
+        "Voltaire"
       ],
       "question": {
-        "text": "In which organ is bile produced?"
+        "text": "Which author wrote 'Love in the Time of Cholera'?"
       },
       "tags": [
-        "biology",
-        "science",
-        "anatomy",
-        "medicine"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -616,21 +462,44 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f95108f",
-      "correctAnswer": "Africa",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d52",
+      "correctAnswer": "Nine Inch Nails",
       "incorrectAnswers": [
-        "Asia",
-        "Autralasia",
-        "North America"
+        "Nirvana",
+        "The Clash",
+        "Blink 182"
       ],
       "question": {
-        "text": "The small red deer is the only type of deer found on which continent? "
+        "text": "Which band was Trent Reznor the lead vocalist for?"
       },
       "tags": [
-        "biology",
-        "animals",
-        "science"
+        "people",
+        "music",
+        "bands"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcfd",
+      "correctAnswer": "Sir Francis Bacon",
+      "incorrectAnswers": [
+        "Thomas Hobbes",
+        "Jean-Paul Sartre",
+        "Karl Marx"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'A little philosophy inclineth man's mind to atheism; but depth in philosophy bringeth men’s minds about to religion'?"
+      },
+      "tags": [
+        "philosophy",
+        "quotes",
+        "people",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -639,19 +508,147 @@
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f951a36",
-      "correctAnswer": "The Trail of Tears",
+      "id": "622a1c377cc59eab6f95044c",
+      "correctAnswer": "Cyprus",
       "incorrectAnswers": [
-        "The Way of Woe",
-        "The Road of Ruin",
-        "The Path of Pain"
+        "Ireland",
+        "Sicily",
+        "Corsica"
       ],
       "question": {
-        "text": "What was the most famous relocation by the Cherokee native Americans known as?"
+        "text": "Formed in 1955, with which island was the organisation known by the acronym EOKA associated?"
       },
       "tags": [
-        "usa",
         "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950384",
+      "correctAnswer": "Sir Francis Drake",
+      "incorrectAnswers": [
+        "Horatio Nelson",
+        "George Rodney",
+        "John Jervis"
+      ],
+      "question": {
+        "text": "Who Played Bowls Before Engaging The Spanish Armada?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f9500e8",
+      "correctAnswer": "Hera",
+      "incorrectAnswers": [
+        "Aphrodite",
+        "Athena",
+        "Minerva"
+      ],
+      "question": {
+        "text": "Who was Hercules' stepmother?"
+      },
+      "tags": [
+        "mythology",
+        "ancient_greece",
+        "classics",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950292",
+      "correctAnswer": "Fish",
+      "incorrectAnswers": [
+        "Cake",
+        "Cheese",
+        "Bread"
+      ],
+      "question": {
+        "text": "What Type Of Foodstuff Is A 'Rollmop'?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff74",
+      "correctAnswer": "U2",
+      "incorrectAnswers": [
+        "Public Image Ltd.",
+        "The Script",
+        "The Cure"
+      ],
+      "question": {
+        "text": "Adam Clayton Plays Bass Guitar For Which Band?"
+      },
+      "tags": [
+        "bands",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64a9cc039bf4085beaa1b049",
+      "correctAnswer": "Wiz Khalifa",
+      "incorrectAnswers": [
+        "Kendrick Lamar",
+        "Drake",
+        "Cardi B"
+      ],
+      "question": {
+        "text": "In 2016, which rapper was featured on the song 'Pull Up' with Lil Uzi Vert?"
+      },
+      "tags": [
+        "rap_music",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fda1",
+      "correctAnswer": "Madonna",
+      "incorrectAnswers": [
+        "Rihanna",
+        "Beyonce",
+        "Lady Gaga"
+      ],
+      "question": {
+        "text": "Which Female Icon Brought Out A Book Entitled \"Sex\"?"
+      },
+      "tags": [
+        "musicians",
+        "people",
+        "literature",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
