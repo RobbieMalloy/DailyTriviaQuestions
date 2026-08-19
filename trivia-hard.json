@@ -1,88 +1,23 @@
 {
-  "gameDate": "2026-08-18",
+  "gameDate": "2026-08-19",
   "difficulty": "hard",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502ea",
-      "correctAnswer": "4",
-      "incorrectAnswers": [
-        "2",
-        "6",
-        "8"
-      ],
-      "question": {
-        "text": "How Many 75cl Bottles Of Champagne Would You Get From A Jeroboam?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "647f9d363a4302a719271573",
-      "correctAnswer": "Lobster",
-      "incorrectAnswers": [
-        "Egg",
-        "Ham",
-        "Tomato"
-      ],
-      "question": {
-        "text": "What type of food can be prepared 'Newberg style'?"
-      },
-      "tags": [
-        "recipes",
-        "cooking",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "627164551ba117625baac958",
-      "correctAnswer": "Uganda",
-      "incorrectAnswers": [
-        "Niger",
-        "Colombia",
-        "The Czech Republic"
-      ],
-      "question": {
-        "text": "Which country is associated with the drink waragi?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f950fe2",
-      "correctAnswer": "Hibiscus",
+      "id": "622a1c3e7cc59eab6f9522ac",
+      "correctAnswer": "10",
       "incorrectAnswers": [
-        "Orchid",
-        "Lavender",
-        "Rose"
+        "6",
+        "4",
+        "2"
       ],
       "question": {
-        "text": "Which plant is known for attracting hummingbirds?"
+        "text": "How many legs does a crab have?"
       },
       "tags": [
-        "biology",
         "animals",
-        "plants",
-        "science"
+        "biology",
+        "numbers"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -91,18 +26,19 @@
     },
     {
       "category": "geography",
-      "id": "623388880161109f922aac92",
-      "correctAnswer": "Laos",
+      "id": "62602e814b176d54800e3ce0",
+      "correctAnswer": "Turkey",
       "incorrectAnswers": [
-        "Cambodia",
-        "Thailand",
-        "Vietnam"
+        "Egypt",
+        "Jordan",
+        "Israel"
       ],
       "question": {
-        "text": "Which is the only landlocked country in South East Asia?"
+        "text": "In which country is the city of Izmir?"
       },
       "tags": [
-        "southeast_asia",
+        "cities",
+        "europe",
         "geography"
       ],
       "type": "text_choice",
@@ -111,43 +47,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "63adbd7304c68cc1e14b8e42",
-      "correctAnswer": "Pear Tree",
+      "category": "arts_and_literature",
+      "id": "648891c14cd3f064f443dc51",
+      "correctAnswer": "Rex",
       "incorrectAnswers": [
-        "Oak Tree",
-        "Maple Tree",
-        "Birch Tree"
+        "Max",
+        "Leo",
+        "Bob"
       ],
       "question": {
-        "text": "Which type of tree is known for its fragrant white flowers?"
+        "text": "What is the second part of the title of the Sophocles play about the king of Thebes?"
       },
       "tags": [
-        "science",
-        "trees",
-        "plants",
-        "nature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950056",
-      "correctAnswer": "Joe Frazier",
-      "incorrectAnswers": [
-        "Sugar Ray Robinson",
-        "George Foreman",
-        "Mike Tyson"
-      ],
-      "question": {
-        "text": "Who Was Beaten By Muhammad Ali In The Bout Entitled 'The Thriller In Manilla'?"
-      },
-      "tags": [
-        "boxing",
-        "sport"
+        "theater",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -156,21 +69,108 @@
     },
     {
       "category": "music",
-      "id": "6477baa2550bc819ad646afc",
-      "correctAnswer": "1999",
+      "id": "622a1c397cc59eab6f950c74",
+      "correctAnswer": "U2",
       "incorrectAnswers": [
-        "Purple Rain",
-        "Kiss",
-        "Let's Go Crazy"
+        "Public Image Ltd.",
+        "The Script",
+        "The Cure"
       ],
       "question": {
-        "text": "Which Prince hit from 1983 begins with the lyrics, 'I was dreamin' when I wrote this, so sue me if I go too fast'?"
+        "text": "Which Irish rock band released the song 'Elevation'?"
       },
       "tags": [
-        "1980s",
-        "lyrics",
-        "music",
-        "songs"
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c347cc59eab6f94f9bd",
+      "correctAnswer": "Henry I",
+      "incorrectAnswers": [
+        "George II",
+        "John",
+        "George IV"
+      ],
+      "question": {
+        "text": "Who was the monarch of England during the time period 1100-1135?"
+      },
+      "tags": [
+        "uk",
+        "kings",
+        "middle_ages",
+        "medieval",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6462628bab138b829b81ea2a",
+      "correctAnswer": "Osprey",
+      "incorrectAnswers": [
+        "Peregrine falcon",
+        "Golden eagle",
+        "Kestrel"
+      ],
+      "question": {
+        "text": "Which of these birds of prey mainly feeds on fish?"
+      },
+      "tags": [
+        "birds",
+        "nature",
+        "animals",
+        "science",
+        "biology"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624ab0b2348a461bfc670690",
+      "correctAnswer": "The Middle East",
+      "incorrectAnswers": [
+        "Southeast Asia",
+        "Europe",
+        "North America"
+      ],
+      "question": {
+        "text": "From which part of the world does celery originate?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64720cd93bbb58c31f411cd4",
+      "correctAnswer": "Adam Smith",
+      "incorrectAnswers": [
+        "Karl Marx",
+        "John Maynard Keynes",
+        "Milton Friedman"
+      ],
+      "question": {
+        "text": "\"Wealth of Nations\" was written by which economist?"
+      },
+      "tags": [
+        "economics",
+        "philosophy",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -179,41 +179,21 @@
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94ff94",
-      "correctAnswer": "Prague",
+      "id": "64a32df9fc63594e30247821",
+      "correctAnswer": "The Drake Passage",
       "incorrectAnswers": [
-        "Vienna",
-        "Oxford",
-        "Budapest"
+        "The Panama Canal",
+        "The Bering Strait",
+        "The Gulf of St Lawrence"
       ],
       "question": {
-        "text": "Which European city is nicknamed the city of a hundred spires?"
+        "text": "What is the name of the body of water between South America and Antarctica?"
       },
       "tags": [
-        "europe",
-        "cities",
-        "nicknames",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237373ccfe13103f55eb5a0",
-      "correctAnswer": "Zimbabwe",
-      "incorrectAnswers": [
-        "Zambia",
-        "The Netherlands",
-        "Western Sahara"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.zw' at the end of its web addresses?"
-      },
-      "tags": [
-        "geography"
+        "bodies_of_water",
+        "geography",
+        "south_america",
+        "antarctica"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -222,20 +202,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "624db9ebde6018633d31f6ab",
-      "correctAnswer": "Matt Monro",
+      "id": "622a1c347cc59eab6f94fbda",
+      "correctAnswer": "\"You know how I know that you’re gay?\"",
       "incorrectAnswers": [
-        "Shirley Bassey",
-        "Lulu",
-        "Madonna"
+        "\"Today, I consider myself the luckiest man on the face of the earth.\"",
+        "\"Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.\"",
+        "\"Not my tempo.\""
       ],
       "question": {
-        "text": "Who performed the theme song to the James Bond film From Russia With Love?"
+        "text": "Which of these quotes is from the film 'The 40-Year-Old Virgin'?"
       },
       "tags": [
-        "james_bond",
+        "quotes",
         "film",
-        "soundtracks",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -244,85 +223,20 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "6470d79b423445f16131b4d0",
-      "correctAnswer": "Henry VIII",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8bc",
+      "correctAnswer": "Tennis",
       "incorrectAnswers": [
-        "Edward VI",
-        "Mary I",
-        "Elizabeth I"
+        "Table tennis",
+        "Gymnastics",
+        "Motor Racing"
       ],
       "question": {
-        "text": "Which king of England, who died in 1547, was survived by his wife Catherine?"
+        "text": "With which sport is Martina Navratilova associated?"
       },
       "tags": [
-        "monarchs",
-        "uk",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950bf5",
-      "correctAnswer": "The Doors",
-      "incorrectAnswers": [
-        "Styx",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
-      ],
-      "question": {
-        "text": "Which American rock band released the song 'Riders on the Storm'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "62506466e12f6dec240bdfb0",
-      "correctAnswer": "Andrea True Connection",
-      "incorrectAnswers": [
-        "Sugarhill Gang",
-        "Billy Ray Cyrus",
-        "Aqua"
-      ],
-      "question": {
-        "text": "Who had a hit in 1975 with More More More?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "646089cade964ebc39016c73",
-      "correctAnswer": "Mae West",
-      "incorrectAnswers": [
-        "Marilyn Monroe",
-        "Ginger Rogers",
-        "Bette Davis"
-      ],
-      "question": {
-        "text": "What famous blonde from the 1930s said 'When women go wrong, men go right after them'?"
-      },
-      "tags": [
-        "quotes",
         "people",
-        "1930's"
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -330,46 +244,21 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "63adbd6204c68cc1e14b8e25",
-      "correctAnswer": "Treaties of Paris",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f959",
+      "correctAnswer": "Lucky Jim",
       "incorrectAnswers": [
-        "Treaties of Vienna",
-        "Treaties of London",
-        "Treaties of Berlin"
+        "Of Mice and Men",
+        "Love in the Time of Cholera",
+        "In Our Time"
       ],
       "question": {
-        "text": "What treaties ended the Napoleonic wars?"
+        "text": "Which book contains the character 'Jim Dixon'?"
       },
       "tags": [
-        "history",
-        "napoleonic_wars",
-        "wars"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62c2f9e7b3eadb0437fda6ae",
-      "correctAnswer": "Lamborghini",
-      "incorrectAnswers": [
-        "Linux",
-        "Hermès",
-        "Tripadvisor"
-      ],
-      "question": {
-        "text": "Which of these brands has a bull on its logo?"
-      },
-      "tags": [
-        "society_and_culture",
-        "business",
-        "marketing",
-        "animals",
-        "logos",
-        "symbols"
+        "film",
+        "fictitious_characters",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -378,19 +267,19 @@
     },
     {
       "category": "geography",
-      "id": "64976c110752843c0d8aadbe",
-      "correctAnswer": "Nova Scotia",
+      "id": "62373fd0cb85f7ce9e949cbe",
+      "correctAnswer": "Ouagadougou",
       "incorrectAnswers": [
-        "Prince Edward Island",
-        "New Brunswick",
-        "Quebec"
+        "Monrovia",
+        "Manila",
+        "Dushanbe"
       ],
       "question": {
-        "text": "In which Canadian province is Halifax?"
+        "text": "What is the capital city of Burkina Faso?"
       },
       "tags": [
-        "canada",
-        "geography"
+        "capital_cities",
+        "africa"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -399,170 +288,19 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa44",
-      "correctAnswer": "Art Nouveau",
+      "id": "649d6d6de3aef0a3c23f6433",
+      "correctAnswer": "Fear and Loathing in Las Vegas",
       "incorrectAnswers": [
-        "Northern Renaissance",
-        "Surrealism",
-        "High Renaissance"
+        "On the Road",
+        "Blood Meridian",
+        "Catch-22"
       ],
       "question": {
-        "text": "The painting \"The Kiss\" by Gustav Klimt is a part of which art movement?"
+        "text": "Which Hunter S. Thompson book involves a wild journey through the desert and a series of autobiographical stories?"
       },
       "tags": [
-        "painting",
-        "art",
+        "literature",
         "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "645c9f8642ea81e2554c5f32",
-      "correctAnswer": "Sun Records",
-      "incorrectAnswers": [
-        "Capitol Records",
-        "Atlantic Records",
-        "Columbia Records"
-      ],
-      "question": {
-        "text": "Which record label from Memphis released five singles from Elvis Presley between July 1954 and August 1955?"
-      },
-      "tags": [
-        "elvis_presley",
-        "music",
-        "1950's"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e6a",
-      "correctAnswer": "Gabriel García Márquez",
-      "incorrectAnswers": [
-        "Ivan Turgenev",
-        "Søren Kierkegaard",
-        "Voltaire"
-      ],
-      "question": {
-        "text": "Which author wrote 'Love in the Time of Cholera'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d52",
-      "correctAnswer": "Nine Inch Nails",
-      "incorrectAnswers": [
-        "Nirvana",
-        "The Clash",
-        "Blink 182"
-      ],
-      "question": {
-        "text": "Which band was Trent Reznor the lead vocalist for?"
-      },
-      "tags": [
-        "people",
-        "music",
-        "bands"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcfd",
-      "correctAnswer": "Sir Francis Bacon",
-      "incorrectAnswers": [
-        "Thomas Hobbes",
-        "Jean-Paul Sartre",
-        "Karl Marx"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'A little philosophy inclineth man's mind to atheism; but depth in philosophy bringeth men’s minds about to religion'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "people",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c377cc59eab6f95044c",
-      "correctAnswer": "Cyprus",
-      "incorrectAnswers": [
-        "Ireland",
-        "Sicily",
-        "Corsica"
-      ],
-      "question": {
-        "text": "Formed in 1955, with which island was the organisation known by the acronym EOKA associated?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950384",
-      "correctAnswer": "Sir Francis Drake",
-      "incorrectAnswers": [
-        "Horatio Nelson",
-        "George Rodney",
-        "John Jervis"
-      ],
-      "question": {
-        "text": "Who Played Bowls Before Engaging The Spanish Armada?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9500e8",
-      "correctAnswer": "Hera",
-      "incorrectAnswers": [
-        "Aphrodite",
-        "Athena",
-        "Minerva"
-      ],
-      "question": {
-        "text": "Who was Hercules' stepmother?"
-      },
-      "tags": [
-        "mythology",
-        "ancient_greece",
-        "classics",
-        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -571,18 +309,19 @@
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950292",
-      "correctAnswer": "Fish",
+      "id": "625006600d86c8f685d80ee6",
+      "correctAnswer": "Tubular pasta",
       "incorrectAnswers": [
-        "Cake",
-        "Cheese",
-        "Bread"
+        "Ribbon pasta",
+        "Shaped pasta",
+        "Soup pasta"
       ],
       "question": {
-        "text": "What Type Of Foodstuff Is A 'Rollmop'?"
+        "text": "What type of pasta is calamarata?"
       },
       "tags": [
         "food",
+        "italy",
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -592,18 +331,17 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94ff74",
-      "correctAnswer": "U2",
+      "id": "622a1c397cc59eab6f950d7f",
+      "correctAnswer": "AC/DC",
       "incorrectAnswers": [
-        "Public Image Ltd.",
-        "The Script",
-        "The Cure"
+        "Pendulum",
+        "INXS",
+        "Savage Garden"
       ],
       "question": {
-        "text": "Adam Clayton Plays Bass Guitar For Which Band?"
+        "text": "Which band includes 'Angus Young'?"
       },
       "tags": [
-        "bands",
         "music"
       ],
       "type": "text_choice",
@@ -612,20 +350,22 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "64a9cc039bf4085beaa1b049",
-      "correctAnswer": "Wiz Khalifa",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951b43",
+      "correctAnswer": "1789",
       "incorrectAnswers": [
-        "Kendrick Lamar",
-        "Drake",
-        "Cardi B"
+        "1689",
+        "1889",
+        "1989"
       ],
       "question": {
-        "text": "In 2016, which rapper was featured on the song 'Pull Up' with Lil Uzi Vert?"
+        "text": "In What Year Did The French Revolution Begin?"
       },
       "tags": [
-        "rap_music",
-        "music"
+        "france",
+        "wars",
+        "revolutions",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -633,22 +373,276 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fda1",
-      "correctAnswer": "Madonna",
+      "category": "sport_and_leisure",
+      "id": "62399ef6af96521963a0870d",
+      "correctAnswer": "Argentina",
       "incorrectAnswers": [
-        "Rihanna",
-        "Beyonce",
-        "Lady Gaga"
+        "France",
+        "Brazil",
+        "England"
       ],
       "question": {
-        "text": "Which Female Icon Brought Out A Book Entitled \"Sex\"?"
+        "text": "Which country won the 1986 FIFA World Cup, hosted in Mexico?"
       },
       "tags": [
-        "musicians",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8b0",
+      "correctAnswer": "Cycling",
+      "incorrectAnswers": [
+        "Skiing",
+        "Snooker",
+        "Tennis"
+      ],
+      "question": {
+        "text": "With which sport is Eddy Merckx associated?"
+      },
+      "tags": [
         "people",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623388cd0161109f922aacad",
+      "correctAnswer": "Ural",
+      "incorrectAnswers": [
+        "Alps",
+        "Pyrenees",
+        "Atlas"
+      ],
+      "question": {
+        "text": "Which mountain range is regarded as the Eastern border of Europe?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fc5",
+      "correctAnswer": "John Logie Baird",
+      "incorrectAnswers": [
+        "Karl Benz",
+        "Johannes Gutenberg",
+        "Eli Whitney"
+      ],
+      "question": {
+        "text": "Who First Demonstrated Television In 1926?"
+      },
+      "tags": [
+        "inventions",
+        "people",
+        "1920's",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242cb61d543524f1b19c928",
+      "correctAnswer": "A labour",
+      "incorrectAnswers": [
+        "A covey",
+        "A watch",
+        "A nest"
+      ],
+      "question": {
+        "text": "What is the word for a group of moles?"
+      },
+      "tags": [
+        "animals",
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f6d",
+      "correctAnswer": "Arthur Conan Doyle",
+      "incorrectAnswers": [
+        "Agatha Christie",
+        "Oscar Wilde",
+        "George Orwell"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Sign of the Four'?"
+      },
+      "tags": [
         "literature",
-        "music"
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd12",
+      "correctAnswer": "Baruch Spinoza",
+      "incorrectAnswers": [
+        "Spinoza",
+        "Jean-Jacques Rousseau",
+        "Socrates"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'If men were born free, they would, so long as they remained free, form no conception of good and evil'?"
+      },
+      "tags": [
+        "philosophy",
+        "quotes",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa33",
+      "correctAnswer": "Realism",
+      "incorrectAnswers": [
+        "Suprematism",
+        "Fauvism",
+        "Modernism"
+      ],
+      "question": {
+        "text": "The painting \"Olympia\" by Édouard Manet is a part of which art movement?"
+      },
+      "tags": [
+        "painting",
+        "art"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc07",
+      "correctAnswer": "\"Is it safe?\"",
+      "incorrectAnswers": [
+        "\"Wait a minute, wait a minute. You ain't heard nothin' yet!\"",
+        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\"",
+        "\"That’s a bingo!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Marathon Man'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc7a",
+      "correctAnswer": "Gabelle",
+      "incorrectAnswers": [
+        "Ragamuffin",
+        "Frankenfood",
+        "Gubbins"
+      ],
+      "question": {
+        "text": "Which word is defined as 'a tax on salt'?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63e4c351106de6ffa7d4a7d0",
+      "correctAnswer": "Ankylosaurus",
+      "incorrectAnswers": [
+        "Triceratops",
+        "Stegosaurus",
+        "Parasaurolophus"
+      ],
+      "question": {
+        "text": "What is the name of the dinosaur with a club-like tail?"
+      },
+      "tags": [
+        "science",
+        "dinosaurs",
+        "nature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f976",
+      "correctAnswer": "The Catcher in the Rye",
+      "incorrectAnswers": [
+        "The Remains of the Day",
+        "Howards End",
+        "The Moviegoer"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Phoebe Caulfield'?"
+      },
+      "tags": [
+        "literature",
+        "fictitious_characters",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417dbe0f96c4efe8d773e5",
+      "correctAnswer": "Tampa Bay Buccaneers",
+      "incorrectAnswers": [
+        "Tamba Bay Bears",
+        "Tampa Bay Nuggets",
+        "Tampa Bay Broncos"
+      ],
+      "question": {
+        "text": "Which of these is an American Football team based in Tampa?"
+      },
+      "tags": [
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
