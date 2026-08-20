@@ -1,22 +1,486 @@
 {
-  "gameDate": "2026-08-19",
+  "gameDate": "2026-08-20",
   "difficulty": "medium",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "624c607850d1a5e051325a5d",
-      "correctAnswer": "Roast Beef Dinner",
+      "category": "film_and_tv",
+      "id": "625740d89da29df7b05f73fc",
+      "correctAnswer": "Cool Hand Luke",
       "incorrectAnswers": [
-        "Stamppot",
-        "Chicken Machboos",
-        "Poutine"
+        "The Silence of the Lambs",
+        "Untouchable",
+        "Jurassic Park"
       ],
       "question": {
-        "text": "Which of these dishes is most associated with England?"
+        "text": "Name the movie that matches the following plot summary: 'A laid back man is sentenced to two years in a rural prison, but refuses to conform.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "647c9855f89e0968cfbc1a29",
+      "correctAnswer": "Homeland",
+      "incorrectAnswers": [
+        "Badland",
+        "Madland",
+        "Motherland"
+      ],
+      "question": {
+        "text": "What is the name of the TV drama starring Claire Danes that was popular throughout the 2010s?"
+      },
+      "tags": [
+        "tv",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950bf7",
+      "correctAnswer": "Radiohead",
+      "incorrectAnswers": [
+        "Goldfrapp",
+        "Cream",
+        "Girls Aloud"
+      ],
+      "question": {
+        "text": "Which English rock band released the song 'Creep'?"
+      },
+      "tags": [
+        "rock_music",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62433429b6a8efd1b34a2033",
+      "correctAnswer": "A Gosling",
+      "incorrectAnswers": [
+        "A Caterpillar",
+        "A Joey",
+        "A Cub"
+      ],
+      "question": {
+        "text": "What is the word for a young goose?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515bb",
+      "correctAnswer": "Cactus",
+      "incorrectAnswers": [
+        "Orchid",
+        "Palm",
+        "Sugar Cane"
+      ],
+      "question": {
+        "text": "From which plant is tequila derived?"
+      },
+      "tags": [
+        "drink",
+        "plants",
+        "alcohol",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95135d",
+      "correctAnswer": "Conceptual Art",
+      "incorrectAnswers": [
+        "Dadaism",
+        "Color Field Painting",
+        "Abstract Art"
+      ],
+      "question": {
+        "text": "Which artistic movement of the 1960's and 1970's emphasized the artistic idea over the art object?"
+      },
+      "tags": [
+        "words",
+        "art",
+        "1960's",
+        "1970's"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c357cc59eab6f94fc44",
+      "correctAnswer": "\"A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.\"",
+      "incorrectAnswers": [
+        "\"Attica! Attica!\"",
+        "\"Chewie, we’re home.\"",
+        "\"What is this? A center for ants? How can we be expected to teach children to learn how to read…if they can’t even fit inside the building?\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'The Silence of the Lambs'?"
+      },
+      "tags": [
+        "film",
+        "quotes",
+        "general_knowledge",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "647207af3bbb58c31f411c5e",
+      "correctAnswer": "Seinfeld",
+      "incorrectAnswers": [
+        "Friends",
+        "The Big Bang Theory",
+        "The Simpsons"
+      ],
+      "question": {
+        "text": "What is the name of the sitcom that introduced the holiday tradition of \"Festivus\"?"
+      },
+      "tags": [
+        "christmas",
+        "sitcoms",
+        "film_and_tv",
+        "tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6498a5e40752843c0d8aae06",
+      "correctAnswer": "Friendly",
+      "incorrectAnswers": [
+        "Derby",
+        "Washer",
+        "Double header"
+      ],
+      "question": {
+        "text": "Which word is used to refer to a soccer match that is not part of an official competition?"
+      },
+      "tags": [
+        "soccer",
+        "sport",
+        "football"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95049a",
+      "correctAnswer": "feces",
+      "incorrectAnswers": [
+        "underground water",
+        "the field of medicine that deals with the skin",
+        "drug dosage"
+      ],
+      "question": {
+        "text": "What is Scatology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f9522ba",
+      "correctAnswer": "Porcine",
+      "incorrectAnswers": [
+        "Bovine",
+        "Mammalian",
+        "Recombinant"
+      ],
+      "question": {
+        "text": "Horse Is To Equine As Pig Is To What?"
+      },
+      "tags": [
+        "words",
+        "animals",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62443784746187c5e7be935a",
+      "correctAnswer": "Calcium carbonate",
+      "incorrectAnswers": [
+        "Deuterium Oxide",
+        "Calcium magnesium carbonate",
+        "Sodium bicarbonate"
+      ],
+      "question": {
+        "text": "What chemical compound makes limestone?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "64ba2d29fa11352f5124c370",
+      "correctAnswer": "Attila",
+      "incorrectAnswers": [
+        "Genghis Khan",
+        "Alexander the Great",
+        "Napoleon Bonaparte"
+      ],
+      "question": {
+        "text": "Which famous military leader was defeated in the Battle of the Catalaunian Plains in 451 A.D.?"
+      },
+      "tags": [
+        "battles",
+        "leaders",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "626030384b176d54800e3d15",
+      "correctAnswer": "Lahore",
+      "incorrectAnswers": [
+        "Lviv",
+        "Bishkek",
+        "Baku"
+      ],
+      "question": {
+        "text": "Which of these cities is in Pakistan?"
+      },
+      "tags": [
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64626286ab138b829b81ea0b",
+      "correctAnswer": "Led Zeppelin",
+      "incorrectAnswers": [
+        "The Doors",
+        "The Rolling Stones",
+        "The Beatles"
+      ],
+      "question": {
+        "text": "What is the name of the band that wrote and performed the song \"Kashmir\"?"
+      },
+      "tags": [
+        "bands",
+        "rock_music",
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611f444b176d54800e3d4d",
+      "correctAnswer": "1962",
+      "incorrectAnswers": [
+        "1950",
+        "1970",
+        "1973"
+      ],
+      "question": {
+        "text": "When did the Cuban Missile Crisis bring the world to the brink of nuclear war?"
+      },
+      "tags": [
+        "events",
+        "politics",
+        "cold_war",
+        "usa",
+        "russia",
+        "cuba",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f951608",
+      "correctAnswer": "Black Russian",
+      "incorrectAnswers": [
+        "Stinger",
+        "Harvey Wallbanger",
+        "Manhattan"
+      ],
+      "question": {
+        "text": "What cocktail is made from vodka and Kahlua?"
+      },
+      "tags": [
+        "drink",
+        "cocktails",
+        "alcohol",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "639c9d95929b90846f2fc95b",
+      "correctAnswer": "Burj Khalifa",
+      "incorrectAnswers": [
+        "Shanghai Tower",
+        "Taipei 101",
+        "Empire State Building"
+      ],
+      "question": {
+        "text": "What is the tallest building in the world?"
+      },
+      "tags": [
+        "architecture",
+        "geography",
+        "tourist_attractions",
+        "buildings",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6505702b7a97013de78b554a",
+      "correctAnswer": "Foot",
+      "incorrectAnswers": [
+        "Throat",
+        "Lungs",
+        "Brain"
+      ],
+      "question": {
+        "text": "In which part of the human body are the metatarsal bones located?"
+      },
+      "tags": [
+        "anatomy",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "64cfa1637f0714b9a0ca5e8c",
+      "correctAnswer": "Chicago",
+      "incorrectAnswers": [
+        "New York",
+        "Los Angeles",
+        "Houston"
+      ],
+      "question": {
+        "text": "In which US city is the Sears Tower?"
+      },
+      "tags": [
+        "architecture",
+        "skyscrapers",
+        "buildings",
+        "geography",
+        "cities",
+        "usa"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624ab0ad348a461bfc67068e",
+      "correctAnswer": "The Middle East",
+      "incorrectAnswers": [
+        "India",
+        "Central America",
+        "Africa"
+      ],
+      "question": {
+        "text": "Where in the world are figs originally from?"
       },
       "tags": [
         "food",
-        "uk",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950267",
+      "correctAnswer": "Braise ",
+      "incorrectAnswers": [
+        "Sautée",
+        "Roast",
+        "Bain Marie"
+      ],
+      "question": {
+        "text": "Which cooking term stems from the French word for coal?"
+      },
+      "tags": [
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -26,15 +490,100 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbd8",
-      "correctAnswer": "\"You motorboatin’ son of a b****!\"",
+      "id": "62573f0b9da29df7b05f7384",
+      "correctAnswer": "Inception",
       "incorrectAnswers": [
-        "\"I could do this all day\"",
-        "\"I’m the guy who does his job. You must be the other guy.\"",
-        "\"I'm gonna make him an offer he can't refuse.\""
+        "A Beautiful Mind",
+        "The Sixth Sense",
+        "A Clockwork Orange"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Wedding Crashers'?"
+        "text": "Name the movie that matches the following plot summary: 'A thief who steals secrets through dreams must plant an idea into the mind of a C.E.O.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f9500e5",
+      "correctAnswer": "Dionysus",
+      "incorrectAnswers": [
+        "Aphrodite",
+        "Isis",
+        "Bacchus"
+      ],
+      "question": {
+        "text": "Who was the Greek god of wine?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f6d9da29df7b05f739c",
+      "correctAnswer": "Whiplash",
+      "incorrectAnswers": [
+        "Full Metal Jacket",
+        "Three Billboards Outside Ebbing, Missouri",
+        "Aladdin"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'A drummer is mentored by an instructor who will stop at nothing to realize a student's potential.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6477ba9d550bc819ad646aeb",
+      "correctAnswer": "Sequoia",
+      "incorrectAnswers": [
+        "Redbud",
+        "Oak",
+        "Maple"
+      ],
+      "question": {
+        "text": "What is the name of the tree that can reach up to 350 feet tall and is named after a region in California?"
+      },
+      "tags": [
+        "nature",
+        "trees",
+        "california",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc2a",
+      "correctAnswer": "\"If you build it, he will come.\"",
+      "incorrectAnswers": [
+        "\"Frankly, my dear, I don't give a damn.\"",
+        "\"I'll get you, my pretty, and your little dog, too!\"",
+        "\"Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Field of Dreams'?"
       },
       "tags": [
         "quotes",
@@ -47,389 +596,20 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "645b431a067ef798d145507c",
-      "correctAnswer": "Yankee Stadium",
-      "incorrectAnswers": [
-        "Fenway Park",
-        "Wrigley Field",
-        "Dodger Stadium"
-      ],
-      "question": {
-        "text": "What is the nickname of the famous ballpark that was once called 'The House that Ruth Built'?"
-      },
-      "tags": [
-        "baseball",
-        "nicknames",
-        "sport",
-        "stadiums"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "63bc3f960e893d6e5a6a0fbe",
-      "correctAnswer": "Napoleon",
-      "incorrectAnswers": [
-        "Antoinette",
-        "Charles de Gaulle",
-        "Eclair"
-      ],
-      "question": {
-        "text": "What is the name of a French pastry known for its flaky layers of puff pastry and pastry cream filling?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink",
-        "pastry",
-        "baking"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f97f",
-      "correctAnswer": "Henderson the Rain King",
-      "incorrectAnswers": [
-        "The Moviegoer",
-        "The Old Man and the Sea",
-        "Howards End"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Eugene Henderson'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506f4",
-      "correctAnswer": "Jim Carrey",
-      "incorrectAnswers": [
-        "Gerard Butler",
-        "Hugh Jackman",
-        "Michael Fassbender"
-      ],
-      "question": {
-        "text": "Which actor has played roles in films including Batman Forever and The Mask?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "636a5280990390307063f3a0",
-      "correctAnswer": "Killing Me Softly",
-      "incorrectAnswers": [
-        "The Man Who Sold the World",
-        "Smells Like Teen Spirit",
-        "You Really Got Me"
-      ],
-      "question": {
-        "text": "Which song, originally recorded by Roberta Flack, was later covered by The Fugees?"
-      },
-      "tags": [
-        "music",
-        "cover_song",
-        "songs",
-        "musicians"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "63dd25ee742e43ed64f1f04f",
-      "correctAnswer": "John Dorian",
-      "incorrectAnswers": [
-        "Elliot Reid",
-        "Carla Espinosa",
-        "Christopher Turk"
-      ],
-      "question": {
-        "text": "What is the name of the character played by Zach Braff on the show 'Scrubs'?"
-      },
-      "tags": [
-        "film_and_tv",
-        "tv",
-        "sitcoms"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f951b5f",
-      "correctAnswer": "Brad Pitt",
-      "incorrectAnswers": [
-        "Nicholas Cage",
-        "John Travolta",
-        "Edward Norton"
-      ],
-      "question": {
-        "text": "In The Movie 'Interview With The Vampire' Who Played The Vampire Being Interviewed?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d71",
-      "correctAnswer": "Guns N' Roses",
-      "incorrectAnswers": [
-        "Aerosmith",
-        "The Jackson 5",
-        "The Doobie Brothers"
-      ],
-      "question": {
-        "text": "Which band is Axl Rose the lead vocalist of?"
-      },
-      "tags": [
-        "music",
-        "bands"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9519dd",
-      "correctAnswer": "Prohibition",
-      "incorrectAnswers": [
-        "Segregation",
-        "Slavery",
-        "British Rule"
-      ],
-      "question": {
-        "text": "What came to an end in the United States in December 1933?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "63e4c345106de6ffa7d4a7bf",
-      "correctAnswer": "Silver",
+      "id": "6266e6cbff2394bd44dee065",
+      "correctAnswer": "Ten",
       "incorrectAnswers": [
-        "Gold",
-        "Platinum",
-        "Bronze"
+        "Three",
+        "Blue",
+        "Six"
       ],
       "question": {
-        "text": "In Western cultures, what is the traditional gift for a 25th wedding anniversary?"
+        "text": "What does the word 'diez' mean in Spanish?"
       },
       "tags": [
-        "society_and_culture",
-        "traditions",
-        "materials"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f9507f8",
-      "correctAnswer": "Africa",
-      "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Europe"
-      ],
-      "question": {
-        "text": "The country of Eswatini is on which continent?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950213",
-      "correctAnswer": "Blackcurrant ",
-      "incorrectAnswers": [
-        "Raspberry",
-        "Plum",
-        "Peach"
-      ],
-      "question": {
-        "text": "With which flavour is the liqueur Crème de Cassis associated?"
-      },
-      "tags": [
-        "drink",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9517d8",
-      "correctAnswer": "President Nassar",
-      "incorrectAnswers": [
-        "President Kassar",
-        "President Passar",
-        "President Hassar"
-      ],
-      "question": {
-        "text": "Which Egyptian president ordered the seizure of the Suez Canal in 1956?"
-      },
-      "tags": [
-        "1950's",
-        "bodies_of_water",
-        "events",
-        "politics",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9fb2796f721e95543fb0",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Gold",
-        "Orange",
-        "Green"
-      ],
-      "question": {
-        "text": "Which of these colors would you find on the flag of Russia?"
-      },
-      "tags": [
-        "flags",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "63b0694a4799123c67712f75",
-      "correctAnswer": "Taekwondo",
-      "incorrectAnswers": [
-        "Karate",
-        "Judo",
-        "Muay Thai"
-      ],
-      "question": {
-        "text": "Which of these is a Korean martial art?"
-      },
-      "tags": [
-        "society_and_culture",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fb94",
-      "correctAnswer": "\"Hey Ya!\" by Outkast",
-      "incorrectAnswers": [
-        "\"What I Got\" by Sublime",
-        "\"Rapper's Delight\" by Sugarhill Gang",
-        "\"Pepper\" by Butthole Surfers"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"My baby don't mess around because she loves me so, and this I know for sure.\"?"
-      },
-      "tags": [
-        "songs",
-        "lyrics",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "64959827e831b1ab5aa11104",
-      "correctAnswer": "Vincent Price",
-      "incorrectAnswers": [
-        "Bela Lugosi",
-        "Christopher Lee",
-        "Boris Karloff"
-      ],
-      "question": {
-        "text": "Which actor did the voice-over on the Michael Jackson song 'Thriller'?"
-      },
-      "tags": [
-        "songs",
-        "horror",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3d7cc59eab6f951c6f",
-      "correctAnswer": "God",
-      "incorrectAnswers": [
-        "Noah",
-        "Joseph",
-        "King Herod"
-      ],
-      "question": {
-        "text": "According to the Bible who is Jesus's father?"
-      },
-      "tags": [
+        "language",
+        "translations",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -439,131 +619,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625fd6c3dc0dd3b72da64d09",
-      "correctAnswer": "1995",
+      "id": "6488deec50a27f7378a91ddf",
+      "correctAnswer": "Who Wants To Be A Millionaire?",
       "incorrectAnswers": [
-        "1991",
-        "1999",
-        "2003"
+        "Jeopardy!",
+        "Wheel of Fortune",
+        "The Price Is Right"
       ],
       "question": {
-        "text": "In which year was Toy Story first released in the cinema?"
+        "text": "What TV game show had a 'Phone-a-Friend' lifeline?"
       },
       "tags": [
-        "film",
-        "disney",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951016",
-      "correctAnswer": "Annual",
-      "incorrectAnswers": [
-        "Perennial",
-        "Evergreen",
-        "Ephemeral"
-      ],
-      "question": {
-        "text": "What Name Is Given To A Plant That Grows From Seed & flowers And Dies Within A Year? "
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63a039b9c7d86251f9b65ca8",
-      "correctAnswer": "Elizabeth I",
-      "incorrectAnswers": [
-        "Mary I",
-        "Anne Boleyn",
-        "Victoria"
-      ],
-      "question": {
-        "text": "Which English queen was known as 'The Virgin Queen'?"
-      },
-      "tags": [
-        "history",
-        "britain",
-        "uk",
-        "nicknames",
-        "queens",
-        "monarchs"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "647edb90520523194910c352",
-      "correctAnswer": "Green Bay",
-      "incorrectAnswers": [
-        "Buffalo",
-        "Jacksonville",
-        "San Diego"
-      ],
-      "question": {
-        "text": "What city is the smallest in the United States to have an NFL franchise?"
-      },
-      "tags": [
-        "football",
-        "cities",
-        "sport",
-        "usa",
-        "american_football"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62443734746187c5e7be933b",
-      "correctAnswer": "It is used as an ingredient in baking.",
-      "incorrectAnswers": [
-        "It is used in liquid fertilizers, potassium soaps and detergents.",
-        "It is used in laundry detergent.",
-        "It is used to relieve pain."
-      ],
-      "question": {
-        "text": "What is the chemical sodium bicarbonate often used for?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6477bacc550bc819ad646b0d",
-      "correctAnswer": "The Brooklyn Bridge",
-      "incorrectAnswers": [
-        "The Golden Gate Bridge",
-        "Tower Bridge",
-        "George Washington Bridge"
-      ],
-      "question": {
-        "text": "What is the name of the bridge that spans the East River in New York and was the first to use steel for cable wire?"
-      },
-      "tags": [
-        "bridges",
-        "geography",
-        "rivers",
-        "new_york",
-        "new_york_city"
+        "film_and_tv",
+        "tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -572,82 +640,17 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fdb4",
-      "correctAnswer": "Austrian",
+      "id": "6266bc66ff2394bd44dee005",
+      "correctAnswer": "Stringed",
       "incorrectAnswers": [
-        "Czech",
-        "Hungarian",
-        "German"
+        "Woodwind",
+        "Brass",
+        "Percussion"
       ],
       "question": {
-        "text": "What Nationality Was Mozart?"
+        "text": "What type of instrument is a sitar?"
       },
       "tags": [
-        "people",
-        "classical_music",
-        "musicians",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "650570047a97013de78b5514",
-      "correctAnswer": "Central Africa",
-      "incorrectAnswers": [
-        "South America",
-        "Southeast Asia",
-        "Madagascar"
-      ],
-      "question": {
-        "text": "Where is the mandrill native to?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9e4e796f721e95543f4e",
-      "correctAnswer": "Blue",
-      "incorrectAnswers": [
-        "Black",
-        "Orange",
-        "Maroon"
-      ],
-      "question": {
-        "text": "Which of these colors is included on the flag of Cuba?"
-      },
-      "tags": [
-        "flags",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe95",
-      "correctAnswer": "Rihanna",
-      "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Ricky Martin"
-      ],
-      "question": {
-        "text": "Which singer released the song 'Te Amo'?"
-      },
-      "tags": [
-        "songs",
         "music"
       ],
       "type": "text_choice",
