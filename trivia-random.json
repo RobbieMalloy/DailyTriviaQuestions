@@ -1,44 +1,24 @@
 {
-  "gameDate": "2026-08-27",
+  "gameDate": "2026-08-28",
   "difficulty": "random",
   "results": [
     {
       "category": "geography",
-      "id": "62373525cfe13103f55eb500",
-      "correctAnswer": "Germany",
+      "id": "64dd35bb9cef2bd3a34a8d58",
+      "correctAnswer": "Hanoi",
       "incorrectAnswers": [
-        "Denmark",
-        "Japan",
-        "India"
+        "Ho Chi Minh City",
+        "Da Nang",
+        "Hue"
       ],
       "question": {
-        "text": "Which region of the world uses '.de' at the end of its web addresses?"
+        "text": "In which Vietnamese city are Ho Chi Minh's remains displayed in a mausoleum in Ba Dinh Square?"
       },
       "tags": [
-        "the_internet",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa0e",
-      "correctAnswer": "Gustav Klimt",
-      "incorrectAnswers": [
-        "‎‎Edvard Munch",
-        "Raphael",
-        "Leonardo da Vinci"
-      ],
-      "question": {
-        "text": "Which artist painted \"The Kiss\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
+        "southeast_asia",
+        "vietnam",
+        "geography",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -46,19 +26,43 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502b4",
-      "correctAnswer": "Molasses",
+      "category": "sport_and_leisure",
+      "id": "6495b50be831b1ab5aa11118",
+      "correctAnswer": "Biathlon",
       "incorrectAnswers": [
-        "Pursy",
-        "Nectar",
-        "Crystallis"
+        "Ski jumping",
+        "Skeet shooting",
+        "Winter combat"
       ],
       "question": {
-        "text": "What is the name of the syrup drained from raw sugar?"
+        "text": "In which winter sport do athletes ski cross-country to a shooting range?"
       },
       "tags": [
-        "food_and_drink"
+        "winter_sports",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "646140b54d46e537ca8cda02",
+      "correctAnswer": "Clippers",
+      "incorrectAnswers": [
+        "Galleons",
+        "Frigates",
+        "Brigs"
+      ],
+      "question": {
+        "text": "Which 19th century sailing ships were known for their speed?"
+      },
+      "tags": [
+        "history",
+        "boats",
+        "1800's",
+        "trade"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -66,21 +70,41 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff2d",
-      "correctAnswer": "Michael Jackson",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f882",
+      "correctAnswer": "Athletics",
       "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
+        "Snooker",
+        "Gymnastics",
+        "Rowing"
       ],
       "question": {
-        "text": "Who sung the song 'Smooth Criminal'?"
+        "text": "With which sport is Al Oerter associated?"
+      },
+      "tags": [
+        "people",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "62506447e12f6dec240bdfa7",
+      "correctAnswer": "I'm Gonna Be (500 Miles)",
+      "incorrectAnswers": [
+        "Puttin' on the Ritz",
+        "Unbelievable",
+        "I'm Too Sexy"
+      ],
+      "question": {
+        "text": "The Proclaimers had a one hit wonder in 1989 with which song?"
       },
       "tags": [
         "songs",
-        "musicians",
-        "general_knowledge",
+        "one_hit_wonders",
         "music"
       ],
       "type": "text_choice",
@@ -89,237 +113,64 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "64824df37778562fd76a95ec",
-      "correctAnswer": "Pastrami",
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc69",
+      "correctAnswer": "Meldrop",
       "incorrectAnswers": [
-        "Pepperoni",
-        "Salami",
-        "Prosciutto"
+        "Agastopia",
+        "Blatherskite",
+        "Tittynope"
       ],
       "question": {
-        "text": "What is the name of the sliced meat that is made from smoked beef?"
+        "text": "Which word is defined as 'A drop of mucus at the nose, whether produced by cold or otherwise'?"
       },
       "tags": [
-        "meat",
-        "food_and_drink",
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6257410a9da29df7b05f7409",
-      "correctAnswer": "The merciless rivalry between Formula One rivals James Hunt and Niki Lauda.",
-      "incorrectAnswers": [
-        "The lives of mob hitmen, a boxer, a gangster and his wife, and a pair of bandits intertwine in four tales.",
-        "A stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.",
-        "An Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Rush?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c89",
-      "correctAnswer": "Metallica",
-      "incorrectAnswers": [
-        "Alice Cooper",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
-      ],
-      "question": {
-        "text": "Which American heavy metal band released the studio album 'Ride the Lightning'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3e7cc59eab6f952248",
-      "correctAnswer": "Courage",
-      "incorrectAnswers": [
-        "Honesty",
-        "Compassion",
-        "Patience"
-      ],
-      "question": {
-        "text": "What was the lion looking for in The Wizard of Oz?"
-      },
-      "tags": [
-        "film_and_tv",
-        "film",
-        "cult_films",
+        "words",
         "general_knowledge"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fd54",
-      "correctAnswer": "The Fugees",
+      "id": "622a1c397cc59eab6f950c9f",
+      "correctAnswer": "The Rolling Stones",
       "incorrectAnswers": [
-        "N.E.R.D",
-        "No Doubt",
-        "All Saints"
+        "McFly",
+        "Delirious?",
+        "Depeche Mode"
       ],
       "question": {
-        "text": "With Which Band Did Wyclef Jean & Lauryn Hill First Make Their Name?"
+        "text": "Which English rock band released the song 'Angie'?"
       },
       "tags": [
-        "people",
+        "rock_music",
         "music"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f951756",
-      "correctAnswer": "The French Revolution",
-      "incorrectAnswers": [
-        "The Russian Revolution",
-        "The Cuban Revolution",
-        "The Chinese Revolution"
-      ],
-      "question": {
-        "text": "Which revolution began in 1789?"
-      },
-      "tags": [
-        "history",
-        "revolutions",
-        "1700's"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95025b",
-      "correctAnswer": "Lindisfarne Mead ",
-      "incorrectAnswers": [
-        "Long Island Iced Tea",
-        "Camomile Tea",
-        "Dandelion & Burdock"
-      ],
-      "question": {
-        "text": "Which drink do you associate with a holy island in Northumberland?"
-      },
-      "tags": [
-        "drink",
-        "uk",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "625fd69edc0dd3b72da64cfe",
-      "correctAnswer": "1942",
+      "category": "arts_and_literature",
+      "id": "646140b44d46e537ca8cd9f3",
+      "correctAnswer": "Betty Friedan",
       "incorrectAnswers": [
-        "1928",
-        "1935",
-        "1949"
+        "Gloria Steinem",
+        "Margaret Atwood",
+        "Maya Angelou"
       ],
       "question": {
-        "text": "Casablanca was released in which year?"
+        "text": "Who wrote the book \"Life So Far\", which includes how she wrote \"The Feminine Mystique\"?"
       },
       "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "636a5259990390307063f38f",
-      "correctAnswer": "Rockin' Robin Roberts and the Wailers",
-      "incorrectAnswers": [
-        "Nine Inch Nails",
-        "Creedence Clearwater Revival",
-        "Nirvana"
-      ],
-      "question": {
-        "text": "Which artist first recorded 'Louie Louie', which was later covered by The Kingsmen?"
-      },
-      "tags": [
-        "music",
-        "cover_song",
-        "songs",
-        "musicians"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "645fcc90541c4d4fc8cf309f",
-      "correctAnswer": "Manhattan",
-      "incorrectAnswers": [
-        "Long Island",
-        "Staten Island",
-        "Coney Island"
-      ],
-      "question": {
-        "text": "Which New York island was bought by the Dutch in 1626 and is named after the Indian tribe who lived there?"
-      },
-      "tags": [
-        "new_york",
-        "new_york_city",
-        "usa"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62373fc3cb85f7ce9e949cb9",
-      "correctAnswer": "Brunei",
-      "incorrectAnswers": [
-        "Haiti",
-        "Benin",
-        "Bhutan"
-      ],
-      "question": {
-        "text": "Bandar Seri Begawan is the capital city of which country?"
-      },
-      "tags": [
-        "capital_cities",
-        "geography"
+        "feminism",
+        "arts_and_literature",
+        "literature",
+        "authors"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -328,20 +179,65 @@
     },
     {
       "category": "general_knowledge",
-      "id": "64b6436f7282fc9eadbafdab",
-      "correctAnswer": "The tongue",
+      "id": "622a1c3a7cc59eab6f951095",
+      "correctAnswer": "Pastern",
       "incorrectAnswers": [
-        "The skin",
-        "The brain",
-        "The heart"
+        "Sole",
+        "Periople",
+        "Hock"
       ],
       "question": {
-        "text": "In French anatomy, what does 'La langue' refer to?"
+        "text": "The part of the foot of a horse between the fetlock and the hoof is the __________"
       },
       "tags": [
-        "french",
-        "words",
-        "language"
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "645b4f1f067ef798d145508b",
+      "correctAnswer": "Daisy",
+      "incorrectAnswers": [
+        "Rose",
+        "Tulip",
+        "Orchid"
+      ],
+      "question": {
+        "text": "What plant species, whose scientific name is Chrysanthemum maximum, includes the shasta variety?"
+      },
+      "tags": [
+        "flowers",
+        "gardening",
+        "botany",
+        "plants",
+        "science",
+        "biology"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd68ddc0dd3b72da64cf9",
+      "correctAnswer": "1985",
+      "incorrectAnswers": [
+        "1970",
+        "1975",
+        "1980"
+      ],
+      "question": {
+        "text": "In which year was Back to the Future first released in the cinema?"
+      },
+      "tags": [
+        "film",
+        "cult_films",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -350,15 +246,143 @@
     },
     {
       "category": "music",
-      "id": "622a1c387cc59eab6f950bbe",
-      "correctAnswer": "Pearl Jam",
+      "id": "622a1c397cc59eab6f950c33",
+      "correctAnswer": "Depeche Mode",
       "incorrectAnswers": [
-        "Anti-Flag",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
+        "Level 42",
+        "Dead or Alive",
+        "Radiohead"
       ],
       "question": {
-        "text": "Which American rock band released the studio album 'Lightning Bolt'?"
+        "text": "Which English band released the song 'Just Can't Get Enough'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417d3a0f96c4efe8d773b1",
+      "correctAnswer": "Memphis Grizzlies",
+      "incorrectAnswers": [
+        "Memphis Bills",
+        "Memphis Nationals",
+        "Memphis Football"
+      ],
+      "question": {
+        "text": "Which of these is a basketball team based in Memphis?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d83",
+      "correctAnswer": "Kiss",
+      "incorrectAnswers": [
+        "Swans",
+        "The Pussycat Dolls",
+        "Mötley Crüe"
+      ],
+      "question": {
+        "text": "Gene Simmons is a member of which band?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9506dd",
+      "correctAnswer": "Drew Barrymore",
+      "incorrectAnswers": [
+        "Penélope Cruz",
+        "Kirsten Dunst",
+        "Charlize Theron"
+      ],
+      "question": {
+        "text": "Which actress starred in both E.T. the Extra-Terrestrial and Batman Forever?"
+      },
+      "tags": [
+        "film_and_tv",
+        "acting",
+        "film"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64824e267778562fd76a95f6",
+      "correctAnswer": "West",
+      "incorrectAnswers": [
+        "North",
+        "East",
+        "South"
+      ],
+      "question": {
+        "text": "What is the meaning of 'Maghrib' in Arabic?"
+      },
+      "tags": [
+        "language",
+        "words",
+        "translations",
+        "society_and_culture",
+        "islam"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515cc",
+      "correctAnswer": "Spain ",
+      "incorrectAnswers": [
+        "Italy",
+        "France",
+        "Russia"
+      ],
+      "question": {
+        "text": "From which country does the dish paella originate?"
+      },
+      "tags": [
+        "food",
+        "general_knowledge",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c14",
+      "correctAnswer": "Nirvana",
+      "incorrectAnswers": [
+        "Counting Crows",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which American rock band released the song 'Pennyroyal Tea'?"
       },
       "tags": [
         "music"
@@ -370,18 +394,19 @@
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f951b55",
-      "correctAnswer": "The Korean War",
+      "id": "622a1c3b7cc59eab6f951759",
+      "correctAnswer": "Harland & Wolff",
       "incorrectAnswers": [
-        "The Vietnam War",
-        "World War II",
-        "The Spanish Civil War"
+        "Myers Maritime",
+        "J.K. Thomson & Sons",
+        "Merl Systems"
       ],
       "question": {
-        "text": "In what war did jet fighters first battle each other?"
+        "text": "Which shipbuilding company constructed the Titanic?"
       },
       "tags": [
-        "history"
+        "history",
+        "business"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -389,19 +414,40 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510c5",
-      "correctAnswer": "Lung",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f3e",
+      "correctAnswer": "Guy de Maupassant",
       "incorrectAnswers": [
-        "Heart",
-        "Liver",
-        "Brain"
+        "François-René de Chateaubriand",
+        "Anatole France",
+        "Albert Camus"
       ],
       "question": {
-        "text": "In which organ is a pulmonary disease located?"
+        "text": "Which author wrote 'Bel Ami'?"
       },
       "tags": [
-        "science"
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc7d",
+      "correctAnswer": "Gibberish",
+      "incorrectAnswers": [
+        "Gobbledygook",
+        "Blatherskite",
+        "Flummox"
+      ],
+      "question": {
+        "text": "Which word is defined as 'unintelligible or meaningless speech'?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -409,21 +455,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "647edb8d520523194910c347",
-      "correctAnswer": "1929",
+      "category": "sport_and_leisure",
+      "id": "6384b46a83dddfb71ee5e37b",
+      "correctAnswer": "Tennis",
       "incorrectAnswers": [
-        "1987",
-        "2001",
-        "2008"
+        "Cricket",
+        "Ice Hockey",
+        "Soccer"
       ],
       "question": {
-        "text": "In what year did the Dow Jones Industrial Average crash and lose 23% of its value in what is known as 'Black Tuesday'?"
+        "text": "Which sport is played at Roland-Garros?"
       },
       "tags": [
-        "economics",
-        "events",
-        "history"
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -432,18 +476,18 @@
     },
     {
       "category": "geography",
-      "id": "623b5799fd6c701a9211836a",
-      "correctAnswer": "Austria",
+      "id": "625e9ea727d267462ff91758",
+      "correctAnswer": "Red",
       "incorrectAnswers": [
-        "Uzbekistan",
-        "Estonia",
-        "France"
+        "Yellow",
+        "Orange",
+        "Green"
       ],
       "question": {
-        "text": "In which country would you find the City of Salzburg?"
+        "text": "Which of these colors would you find on the flag of Indonesia?"
       },
       "tags": [
-        "cities",
+        "flags",
         "geography"
       ],
       "type": "text_choice",
@@ -452,21 +496,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "639ae36f929b90846f2fc8d1",
-      "correctAnswer": "Ehecatl",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c07",
+      "correctAnswer": "Muse",
       "incorrectAnswers": [
-        "Tlaloc",
-        "Huitzilopochtli",
-        "Quetzalcoatl"
+        "Tears for Fears",
+        "Bullet For My Valentine",
+        "Enter Shikari"
       ],
       "question": {
-        "text": "What was the name of the Aztec god of the wind?"
+        "text": "Which English rock band released the studio album 'Absolution'?"
       },
       "tags": [
-        "history",
-        "aztecs",
-        "mythology"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -475,20 +517,64 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95013c",
-      "correctAnswer": "Spider",
+      "id": "622a1c357cc59eab6f94fd0c",
+      "correctAnswer": "Ludwig Wittgenstein",
       "incorrectAnswers": [
-        "Squirrel",
-        "Snake",
-        "Frog"
+        "Socrates",
+        "Albert Camus",
+        "Democritus"
       ],
       "question": {
-        "text": "In Greek mythology, into what did Athena turn Arachne?"
+        "text": "Which philosopher famously said 'I don’t know why we are here, but I’m pretty sure it is not in order to enjoy ourselves'?"
       },
       "tags": [
-        "ancient_greece",
-        "mythology",
+        "philosophy",
+        "people",
+        "quotes",
         "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9519b8",
+      "correctAnswer": "Manhattan Island",
+      "incorrectAnswers": [
+        "The Moon",
+        "The Last Dodo",
+        "Queen Elizabeth's Corpse"
+      ],
+      "question": {
+        "text": "What did Peter Minuit buy in 1626?"
+      },
+      "tags": [
+        "people",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056f4f7a97013de78b541a",
+      "correctAnswer": "Bubonic plague",
+      "incorrectAnswers": [
+        "Syphilis",
+        "Scarlet fever",
+        "Furuncles"
+      ],
+      "question": {
+        "text": "What disease killed millions of Europeans in the 14th century?"
+      },
+      "tags": [
+        "history",
+        "diseases",
+        "1300s"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -496,19 +582,42 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f92",
-      "correctAnswer": "William Shakespeare",
+      "category": "food_and_drink",
+      "id": "624c60bc50d1a5e051325a70",
+      "correctAnswer": "Japan",
       "incorrectAnswers": [
-        "Arthur C. Clarke",
-        "Isaac Newton",
-        "Enid Blyton"
+        "Turkey",
+        "Spain",
+        "Estonia"
       ],
       "question": {
-        "text": "Which author wrote 'The Taming of the Shrew'?"
+        "text": "Where in the world would you most expect to be served Sushi?"
       },
       "tags": [
-        "arts_and_literature"
+        "food",
+        "general_knowledge",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9fef796f721e95543fc2",
+      "correctAnswer": "White",
+      "incorrectAnswers": [
+        "Orange",
+        "Blue",
+        "Yellow"
+      ],
+      "question": {
+        "text": "Which of these colors would you find on the flag of Turkey?"
+      },
+      "tags": [
+        "flags",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -517,126 +626,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa9d",
-      "correctAnswer": "Cate Blanchett",
+      "id": "622a1c347cc59eab6f94f8d6",
+      "correctAnswer": "Holly Hunter",
       "incorrectAnswers": [
-        "Laura Linney",
-        "Virginia Madsen",
-        "Sophie Okonedo"
+        "Angela Lansbury",
+        "Sidney Poitier",
+        "Emma Thompson"
       ],
       "question": {
-        "text": "Who won the 2004 Academy Award for Best Supporting Actress for playing the role of Katharine Hepburn in The Aviator?"
+        "text": "Which actress played the role of Jane Craig in Broadcast News?"
       },
       "tags": [
-        "academy_awards",
-        "acting",
         "film",
+        "acting",
         "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3d7cc59eab6f951bf3",
-      "correctAnswer": "Winston Churchill",
-      "incorrectAnswers": [
-        "Abraham Lincoln",
-        "Neil Armstrong",
-        "Tom Cruise"
-      ],
-      "question": {
-        "text": "Who said 'I have nothing to offer but blood, tears, toil and sweat'?"
-      },
-      "tags": [
-        "quotes",
-        "people",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623387ae0161109f922aac3c",
-      "correctAnswer": "Albania ",
-      "incorrectAnswers": [
-        "India",
-        "South Africa",
-        "Turkey"
-      ],
-      "question": {
-        "text": "Which country uses a Lek as a unit of currency?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f90",
-      "correctAnswer": "Stephen King",
-      "incorrectAnswers": [
-        "H. P. Lovecraft",
-        "Edgar Allan Poe",
-        "Jack Vance"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Dead Zone'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f95177f",
-      "correctAnswer": "The Mongols",
-      "incorrectAnswers": [
-        "The Huns",
-        "The Parthians",
-        "The Greeks"
-      ],
-      "question": {
-        "text": "Which people were led by Genghis Khan?"
-      },
-      "tags": [
-        "people",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950546",
-      "correctAnswer": "Animal behaviour",
-      "incorrectAnswers": [
-        "The Earth's atmosphere",
-        "Glaciers",
-        "Friction and lubrication"
-      ],
-      "question": {
-        "text": "What is Ethology the study of?"
-      },
-      "tags": [
-        "words",
-        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
