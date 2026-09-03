@@ -1,23 +1,24 @@
 {
-  "gameDate": "2026-09-02",
+  "gameDate": "2026-09-03",
   "difficulty": "easy",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "631e50a1a11f90a3bf2a3bf9",
-      "correctAnswer": "Green",
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b92",
+      "correctAnswer": "The Jackson 5",
       "incorrectAnswers": [
-        "Red",
-        "Blue",
-        "Purple"
+        "The Jackson Brothers",
+        "The Smashing Jacksons",
+        "Jackson"
       ],
       "question": {
-        "text": "What colour is wasabi?"
+        "text": "Before going solo, what band was Michael Jackson a member of?"
       },
       "tags": [
-        "food",
-        "colours",
-        "food_and_drink"
+        "music",
+        "people",
+        "musicians",
+        "bands"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -25,23 +26,83 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6462628cab138b829b81ea35",
-      "correctAnswer": "The Moon",
+      "category": "geography",
+      "id": "62374083cb85f7ce9e949d06",
+      "correctAnswer": "Berlin",
       "incorrectAnswers": [
-        "The Sun",
-        "Halley's Comet",
-        "Mars"
+        "Munich",
+        "Hamburg",
+        "Frankfurt"
       ],
       "question": {
-        "text": "What celestial object was the first for humankind to set foot on?"
+        "text": "What is the capital city of Germany?"
       },
       "tags": [
-        "astronomy",
-        "space",
-        "the_space_race",
-        "space_exploration",
-        "science"
+        "europe",
+        "germany",
+        "capital_cities"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6257413a9da29df7b05f740f",
+      "correctAnswer": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp.",
+      "incorrectAnswers": [
+        "Simba and his father are targeted by his uncle, who wants to ascend the throne himself.",
+        "Two soldiers race to deliver a message that will stop 1,600 men from walking into a deadly trap.",
+        "Two grifters team up to pull off the ultimate con."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Aladdin?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "648891c34cd3f064f443dc62",
+      "correctAnswer": "How to Train Your Dragon",
+      "incorrectAnswers": [
+        "How to Train Your Basilisk",
+        "How to Train Your Kraken",
+        "How to Train Your Unicorn"
+      ],
+      "question": {
+        "text": "In which 2010 animated film does Hiccup befriend and then teach an injured mythical creature?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "65056f817a97013de78b5460",
+      "correctAnswer": "Golf",
+      "incorrectAnswers": [
+        "Volleyball",
+        "Cricket",
+        "Triathlon"
+      ],
+      "question": {
+        "text": "In which sport do we use the words \"Birdie\", \"Eagle\" and \"Bogey\"?"
+      },
+      "tags": [
+        "sport_and_leisure"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -50,21 +111,17 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fea3",
-      "correctAnswer": "Elton John",
+      "id": "622a1c3d7cc59eab6f951c7f",
+      "correctAnswer": "Bohemian Rhapsody",
       "incorrectAnswers": [
-        "Eric Clapton",
-        "Paul McCartney",
-        "Sting"
+        "Good Vibrations",
+        "Help!",
+        "Wish You Were Here"
       ],
       "question": {
-        "text": "Which English singer-songwriter released the song 'Rocket Man'?"
+        "text": "'Is this the real life, is this just fantasy', is the opening line of which hit song?"
       },
       "tags": [
-        "songs",
-        "musicians",
-        "people",
-        "general_knowledge",
         "music"
       ],
       "type": "text_choice",
@@ -73,20 +130,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "639ae2d7929b90846f2fc8bb",
-      "correctAnswer": "Raiding",
+      "category": "geography",
+      "id": "62374206cb85f7ce9e949da2",
+      "correctAnswer": "Moscow",
       "incorrectAnswers": [
-        "Exploration",
-        "Migration",
-        "Trade"
+        "St Petersburg",
+        "Kazan",
+        "Vladivostok"
       ],
       "question": {
-        "text": "What is the name of the Viking practice of sailing off to unknown lands in search of riches and glory?"
+        "text": "What is the capital city of Russia?"
       },
       "tags": [
-        "history",
-        "vikings"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -95,15 +151,15 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95010b",
-      "correctAnswer": "Atlantis",
+      "id": "65056f7e7a97013de78b545c",
+      "correctAnswer": "Mayor",
       "incorrectAnswers": [
-        "Gondwana",
-        "Pangea",
-        "Europa"
+        "Prime Minister",
+        "Cardinal",
+        "President"
       ],
       "question": {
-        "text": "Which ancient continent is said to be submerged?"
+        "text": "Who is in charge of the administration of a city?"
       },
       "tags": [
         "society_and_culture"
@@ -114,23 +170,85 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fadd",
-      "correctAnswer": "Tom Hanks",
+      "category": "geography",
+      "id": "623b5794fd6c701a92118368",
+      "correctAnswer": "Athens",
       "incorrectAnswers": [
-        "Morgan Freeman",
-        "Nigel Hawthorne",
-        "Paul Newman"
+        "Jerusalem",
+        "Moscow",
+        "Venice"
       ],
       "question": {
-        "text": "Who won the 1994 Academy Award for Best Leading Actor for playing the role of Forrest Gump in Forrest Gump?"
+        "text": "In which city would you find the Acropolis?"
       },
       "tags": [
-        "academy_awards",
-        "acting",
-        "film",
-        "general_knowledge",
-        "film_and_tv"
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c347cc59eab6f94f9eb",
+      "correctAnswer": "George Washington ",
+      "incorrectAnswers": [
+        "Chester Arthur",
+        "Ulysses S. Grant",
+        "Millard Fillmore"
+      ],
+      "question": {
+        "text": "Who was the 1st president of the USA, in term during the period 1789–1797?"
+      },
+      "tags": [
+        "presidents",
+        "usa",
+        "firsts",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63e13a22106de6ffa7d4a79e",
+      "correctAnswer": "Hexagon",
+      "incorrectAnswers": [
+        "Pentagon",
+        "Octagon",
+        "Triangle"
+      ],
+      "question": {
+        "text": "What is the name of a shape with six sides?"
+      },
+      "tags": [
+        "science",
+        "mathematics",
+        "shapes"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602d704b176d54800e3c98",
+      "correctAnswer": "China",
+      "incorrectAnswers": [
+        "Sri Lanka",
+        "Malaysia",
+        "Taiwan"
+      ],
+      "question": {
+        "text": "Hong Kong is a city in which country?"
+      },
+      "tags": [
+        "cities",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -139,19 +257,243 @@
     },
     {
       "category": "general_knowledge",
-      "id": "6476390bf05ea6d6f587a178",
-      "correctAnswer": "A cascade",
+      "id": "63a03977c7d86251f9b65c63",
+      "correctAnswer": "3",
       "incorrectAnswers": [
-        "A shuffle",
-        "A fountain",
-        "A reverse"
+        "1",
+        "2",
+        "4"
       ],
       "question": {
-        "text": "What is the most basic juggling pattern?"
+        "text": "In the nursery rhyme Baa Baa Black Sheep, how many bags of wool does the sheep have?"
       },
       "tags": [
+        "arts_and_literature",
+        "nursery_rhymes"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8ca",
+      "correctAnswer": "Athletics",
+      "incorrectAnswers": [
+        "Snooker",
+        "Motor racing",
+        "Ice Hockey"
+      ],
+      "question": {
+        "text": "With which sport is Usain Bolt associated?"
+      },
+      "tags": [
+        "people",
         "general_knowledge",
-        "games"
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242cafdd543524f1b19c901",
+      "correctAnswer": "A flock",
+      "incorrectAnswers": [
+        "A fall",
+        "A gang",
+        "A yoke"
+      ],
+      "question": {
+        "text": "What is the word for a group of birds?"
+      },
+      "tags": [
+        "birds",
+        "words",
+        "general_knowledge",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6463391d01d576cfac3aa31f",
+      "correctAnswer": "Hansel and Gretel",
+      "incorrectAnswers": [
+        "The Magic Flute",
+        "Little Red Riding Hood",
+        "The Barber of Seville"
+      ],
+      "question": {
+        "text": "In which famous fairy tale do two children fall into the hands of a witch after being abandoned in a forest?"
+      },
+      "tags": [
+        "fairy_tales",
+        "society_and_culture",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9517fa",
+      "correctAnswer": "Pompeii",
+      "incorrectAnswers": [
+        "Genoa",
+        "Capua",
+        "Ostia"
+      ],
+      "question": {
+        "text": "Which Roman city was buried under volcanic ash from Mount Vesuvius In 79A.D.?"
+      },
+      "tags": [
+        "romans",
+        "volcanoes",
+        "italy",
+        "classics",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c44",
+      "correctAnswer": "The Beach Boys",
+      "incorrectAnswers": [
+        "Swans",
+        "The Velvet Underground",
+        "Aerosmith"
+      ],
+      "question": {
+        "text": "Which American rock band released the song 'Good Vibrations'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056f6c7a97013de78b5443",
+      "correctAnswer": "Census",
+      "incorrectAnswers": [
+        "Survey",
+        "Population register",
+        "Voter roll"
+      ],
+      "question": {
+        "text": "What is the name of the government-led process of counting all the people living in a country?"
+      },
+      "tags": [
+        "demography",
+        "government",
+        "population"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6477bb1e550bc819ad646b7c",
+      "correctAnswer": "The Lion King",
+      "incorrectAnswers": [
+        "Aladdin",
+        "Beauty and the Beast",
+        "Mulan"
+      ],
+      "question": {
+        "text": "Which Disney movie features the song 'Can You Feel The Love Tonight', written by Elton John and Tim Rice?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv",
+        "disney",
+        "songs",
+        "soundtracks"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64824e707778562fd76a9646",
+      "correctAnswer": "Giorgio Armani",
+      "incorrectAnswers": [
+        "Gucci Adriano",
+        "Giovanni Anselmi",
+        "Gabriel Alvarez"
+      ],
+      "question": {
+        "text": "Which Italian fashion designer has the initials G.A.?"
+      },
+      "tags": [
+        "designers",
+        "fashion",
+        "people",
+        "society_and_culture",
+        "italy"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "65056f917a97013de78b5476",
+      "correctAnswer": "Rocky Mountains",
+      "incorrectAnswers": [
+        "Transantarctic mountains",
+        "Andes",
+        "Himalayas"
+      ],
+      "question": {
+        "text": "Which mountain range does the Colorado River flow through?"
+      },
+      "tags": [
+        "geography",
+        "rivers",
+        "mountains"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6462624aab138b829b81e9de",
+      "correctAnswer": "Due",
+      "incorrectAnswers": [
+        "Earned",
+        "Needed",
+        "Appreciated"
+      ],
+      "question": {
+        "text": "Complete this popular saying: 'Give credit where credit is _______'"
+      },
+      "tags": [
+        "sayings",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -160,15 +502,123 @@
     },
     {
       "category": "food_and_drink",
-      "id": "65056e8e7a97013de78b530d",
-      "correctAnswer": "Grain",
+      "id": "622a1c3b7cc59eab6f9515cb",
+      "correctAnswer": "Mexico ",
       "incorrectAnswers": [
-        "Cheese",
-        "Wine",
-        "Butter"
+        "China",
+        "France",
+        "Australia"
       ],
       "question": {
-        "text": "What type of food is barley?"
+        "text": "From which country does the drink Tequila originate?"
+      },
+      "tags": [
+        "drink",
+        "alcohol",
+        "countries",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950246",
+      "correctAnswer": "Avocado ",
+      "incorrectAnswers": [
+        "Cucumber",
+        "Tomato",
+        "Mango"
+      ],
+      "question": {
+        "text": "Which Is The Main Ingredient Of Guacamole?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602e0a4b176d54800e3cbd",
+      "correctAnswer": "Italy",
+      "incorrectAnswers": [
+        "Portugal",
+        "Switzerland",
+        "Hungary"
+      ],
+      "question": {
+        "text": "In which country is the city of Florence?"
+      },
+      "tags": [
+        "cities",
+        "europe"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "63a03984c7d86251f9b65c72",
+      "correctAnswer": "Humpty Dumpty",
+      "incorrectAnswers": [
+        "Hey Diddle Diddle",
+        "Mary Had a Little Lamb",
+        "Baa Baa Black Sheep"
+      ],
+      "question": {
+        "text": "What nursery rhyme is about a man who falls off a wall?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "nursery_rhymes"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570337a97013de78b5555",
+      "correctAnswer": "Penguin",
+      "incorrectAnswers": [
+        "Stork",
+        "Eagle",
+        "Swan"
+      ],
+      "question": {
+        "text": "Which of these birds can swim but not fly?"
+      },
+      "tags": [
+        "science",
+        "animals",
+        "birds"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "65056e6e7a97013de78b52e0",
+      "correctAnswer": "Onions",
+      "incorrectAnswers": [
+        "Broccoli",
+        "Cauliflower",
+        "Turnip"
+      ],
+      "question": {
+        "text": "What food makes your eyes water when cut?"
       },
       "tags": [
         "food_and_drink",
@@ -180,484 +630,21 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "65056ef77a97013de78b539f",
-      "correctAnswer": "Adverb",
-      "incorrectAnswers": [
-        "Adjective",
-        "Noun",
-        "Conjunction"
-      ],
-      "question": {
-        "text": "Which part of speech is 'hastily'?"
-      },
-      "tags": [
-        "language",
-        "grammar",
-        "vocabulary"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "649b4f4f828109028d236250",
-      "correctAnswer": "The Panama Canal",
-      "incorrectAnswers": [
-        "The Suez Canal",
-        "The Erie Canal",
-        "The Gulf Intracoastal Waterway"
-      ],
-      "question": {
-        "text": "What is the name of the 50-mile waterway that stretches from Limon Bay on the Caribbean to the Bridge of the Americas on the Pacific Ocean?"
-      },
-      "tags": [
-        "canals",
-        "bodies_of_water",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "646140784d46e537ca8cd9c1",
-      "correctAnswer": "Buoyancy",
-      "incorrectAnswers": [
-        "Liquefaction",
-        "Oscillation",
-        "Gravity"
-      ],
-      "question": {
-        "text": "What is the term for the tendency of an object to float, or the upward pressure of fluid in an object?"
-      },
-      "tags": [
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262884d4b176d54800e3d94",
-      "correctAnswer": "Maybelline",
-      "incorrectAnswers": [
-        "L'Oreal",
-        "CoverGirl",
-        "Levis"
-      ],
-      "question": {
-        "text": "Which brand is associated with the marketing slogan 'Maybe she's born with it'?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "fashion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9507bb",
-      "correctAnswer": "Clint Eastwood",
+      "id": "622a1c347cc59eab6f94fbc5",
+      "correctAnswer": "\"I love lamp.\"",
       "incorrectAnswers": [
-        "Matt Damon",
-        "Robert De Niro",
-        "Sean Connery"
+        "\"Rosebud.\"",
+        "\"You're gonna need a bigger boat.\"",
+        "\"Shane. Shane. Come back!\""
       ],
       "question": {
-        "text": "Which actor has featured in films including The Good, the Bad and the Ugly and Million Dollar Baby?"
-      },
-      "tags": [
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639c9d90929b90846f2fc953",
-      "correctAnswer": "Barack Obama",
-      "incorrectAnswers": [
-        "Bill Clinton",
-        "George W. Bush",
-        "Donald Trump"
-      ],
-      "question": {
-        "text": "Which US president served two terms in office as the first African American president?"
-      },
-      "tags": [
-        "history",
-        "2000's",
-        "usa",
-        "presidents",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fef9",
-      "correctAnswer": "Kylie Minogue",
-      "incorrectAnswers": [
-        "Madonna",
-        "Mika",
-        "Hikaru Utada"
-      ],
-      "question": {
-        "text": "Which singer released the song 'I Should Be So Lucky'?"
+        "text": "Which of these quotes is from the film 'Anchorman: The Legend of Ron Burgundy'?"
       },
       "tags": [
         "songs",
-        "musicians",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6239f8019129041bf3925cbd",
-      "correctAnswer": "Alpha",
-      "incorrectAnswers": [
-        "Apple",
-        "Animal",
-        "Aeroplan"
-      ],
-      "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter A?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "63afff832d1dcedfbb654557",
-      "correctAnswer": "Photography",
-      "incorrectAnswers": [
-        "Painting",
-        "Sculpture",
-        "Architecture"
-      ],
-      "question": {
-        "text": "Which of the following is NOT a type of art commonly associated with the Renaissance?"
-      },
-      "tags": [
-        "history",
-        "renaissance",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "65056e377a97013de78b5294",
-      "correctAnswer": "Composer",
-      "incorrectAnswers": [
-        "Scientist",
-        "Politician",
-        "Painter"
-      ],
-      "question": {
-        "text": "What was Wolfgang Amadeus Mozart's profession?"
-      },
-      "tags": [
-        "music",
-        "classical",
-        "composer"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056e4f7a97013de78b52b5",
-      "correctAnswer": "1492",
-      "incorrectAnswers": [
-        "1502",
-        "1607",
-        "1776"
-      ],
-      "question": {
-        "text": "In what year did Christopher Columbus first reach the Bahamas?"
-      },
-      "tags": [
-        "history",
-        "exploration",
-        "Christopher Columbus"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6256989c9da29df7b05f7292",
-      "correctAnswer": "Benedict Cumberbatch",
-      "incorrectAnswers": [
-        "Jeff Goldblum",
-        "J.K. Simmons",
-        "Michael Douglas"
-      ],
-      "question": {
-        "text": "Which actor plays the role of Dr Strange in the Marvel Cinematic Universe?"
-      },
-      "tags": [
-        "mcu",
         "film",
-        "acting",
-        "marvel",
-        "comics",
         "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "65056f247a97013de78b53de",
-      "correctAnswer": "Mausoleum",
-      "incorrectAnswers": [
-        "Palace",
-        "Mosque",
-        "Tomb"
-      ],
-      "question": {
-        "text": "What kind of structure is the Taj Mahal?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95139f",
-      "correctAnswer": "Harry Potter",
-      "incorrectAnswers": [
-        "Voyages Extraordinaires",
-        "Percy Jackson & the Olympians",
-        "Twilight"
-      ],
-      "question": {
-        "text": "In which book series does Lord Voldemort appear?"
-      },
-      "tags": [
-        "fictitious_characters",
-        "childrens_literature",
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe93",
-      "correctAnswer": "Rihanna",
-      "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Ricky Martin"
-      ],
-      "question": {
-        "text": "Which singer released the song 'S&M'?"
-      },
-      "tags": [
-        "songs",
-        "musicians",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "65056f947a97013de78b547a",
-      "correctAnswer": "Dam",
-      "incorrectAnswers": [
-        "Clam",
-        "Scam",
-        "Lamb"
-      ],
-      "question": {
-        "text": "What is a barrier that blocks flowing water?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "63f39502989356ef48370be1",
-      "correctAnswer": "Apple",
-      "incorrectAnswers": [
-        "Mango",
-        "Papaya",
-        "Pineapple"
-      ],
-      "question": {
-        "text": "Which of these fruits is not a tropical fruit?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food",
-        "fruit"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "63d95321168979b94b2e4fa3",
-      "correctAnswer": "Charles Darwin",
-      "incorrectAnswers": [
-        "Albert Einstein",
-        "Isaac Newton",
-        "Galileo Galilei"
-      ],
-      "question": {
-        "text": "Who developed the theory of evolution by natural selection?"
-      },
-      "tags": [
-        "science",
-        "scientific_discoveries"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f951889",
-      "correctAnswer": "Apples",
-      "incorrectAnswers": [
-        "Bananas",
-        "Cherries",
-        "Carrots"
-      ],
-      "question": {
-        "text": "What Would You Traditionally 'Bob' For At Halloween?"
-      },
-      "tags": [
-        "halloween",
-        "traditions",
-        "food",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "645b9ebcf09106226db23571",
-      "correctAnswer": "Spinach",
-      "incorrectAnswers": [
-        "Kale",
-        "Broccoli",
-        "Cabbage"
-      ],
-      "question": {
-        "text": "Which vegetable did Popeye love to eat from a can?"
-      },
-      "tags": [
-        "nutrition",
-        "vegetables",
-        "food_and_drink",
-        "food",
-        "cartoons"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510c8",
-      "correctAnswer": "Reptiles",
-      "incorrectAnswers": [
-        "Mammals",
-        "Amphibians",
-        "Lizards"
-      ],
-      "question": {
-        "text": "Marine iguanas, saltwater crocodiles, sea snakes, and sea turtles are the only surviving seawater __________"
-      },
-      "tags": [
-        "animals",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056e967a97013de78b5318",
-      "correctAnswer": "Vincent van Gogh",
-      "incorrectAnswers": [
-        "Claude Monet",
-        "Johannes Vermeer",
-        "Egon Schiele"
-      ],
-      "question": {
-        "text": "Who painted \"The Starry Night\" in 1889?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "painting",
-        "post-impressionism"
       ],
       "type": "text_choice",
       "difficulty": "easy",
