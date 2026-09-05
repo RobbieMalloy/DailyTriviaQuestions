@@ -1,20 +1,87 @@
 {
-  "gameDate": "2026-09-04",
+  "gameDate": "2026-09-05",
   "difficulty": "hard",
   "results": [
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951080",
-      "correctAnswer": "1.5kg",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950dda",
+      "correctAnswer": "Francisco Quevedo",
       "incorrectAnswers": [
-        "500g",
-        "1kg",
-        "2kg"
+        "Miguel de Cervantes",
+        "Oscar Wilde",
+        "Alphonse Daudet"
       ],
       "question": {
-        "text": "To The Nearest 250 Grams What Is The Average Weight Of An Adult Brain?"
+        "text": "Which author wrote 'Las tres musas últimas castellanas'?"
       },
       "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbfb",
+      "correctAnswer": "\"Toga! Toga!\"",
+      "incorrectAnswers": [
+        "\"With great power comes great responsiblity.\"",
+        "\"Frankly, my dear, I don't give a damn.\"",
+        "\"Soylent Green is people!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'National Lampoon's Animal House'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611fb24b176d54800e3d6a",
+      "correctAnswer": "1973",
+      "incorrectAnswers": [
+        "1963",
+        "1949",
+        "1984"
+      ],
+      "question": {
+        "text": "When was the first mobile phone conversation?"
+      },
+      "tags": [
+        "events",
+        "firsts",
+        "technology",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62443791746187c5e7be935f",
+      "correctAnswer": "It is used in manufacture of pulp and paper, alumina, soap and detergents.",
+      "incorrectAnswers": [
+        "It is used to relieve pain.",
+        "It is used as an ingredient in baking.",
+        "It is used in disinfectants and antiseptics."
+      ],
+      "question": {
+        "text": "What is the chemical sodium hydroxide often used for?"
+      },
+      "tags": [
+        "chemistry",
         "science"
       ],
       "type": "text_choice",
@@ -23,18 +90,90 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f95161d",
-      "correctAnswer": "A gelatine substitute",
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ffb4",
+      "correctAnswer": "Niger",
       "incorrectAnswers": [
-        "A sweetener",
-        "A spice",
-        "A raising agent"
+        "Congo",
+        "Zaïre",
+        "Benue"
       ],
       "question": {
-        "text": "Agar-agar is often used in cooking. What is it?"
+        "text": "Name the longest river in Nigeria."
       },
       "tags": [
+        "africa",
+        "rivers",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6477bb12550bc819ad646b64",
+      "correctAnswer": "Île de la Cité",
+      "incorrectAnswers": [
+        "Île de Ré",
+        "le-de-Paris",
+        "Île-de-France"
+      ],
+      "question": {
+        "text": "What is the name of the island that is considered the historic center of Paris and is surrounded by the River Seine?"
+      },
+      "tags": [
+        "paris",
+        "france",
+        "rivers",
+        "geography",
+        "cities",
+        "europe"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fb7f",
+      "correctAnswer": "The Greatest Show on Earth",
+      "incorrectAnswers": [
+        "High Noon",
+        "Ivanhoe",
+        "Moulin Rouge"
+      ],
+      "question": {
+        "text": "Which film won the Academy Award for Best Picture in 1952?"
+      },
+      "tags": [
+        "academy_awards",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6250064c0d86c8f685d80ee0",
+      "correctAnswer": "Bavette",
+      "incorrectAnswers": [
+        "Farfalle",
+        "Tortellini",
+        "Conchiglie"
+      ],
+      "question": {
+        "text": "Which pasta's name means 'Bibs'?"
+      },
+      "tags": [
+        "food",
+        "words",
+        "language",
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -43,19 +182,19 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950109",
-      "correctAnswer": "Oak",
+      "category": "sport_and_leisure",
+      "id": "62417ce10f96c4efe8d7738e",
+      "correctAnswer": "Chicago Whitesox",
       "incorrectAnswers": [
-        "Pine",
-        "Cedar",
-        "Walnut"
+        "Chicago Orioles",
+        "Chicago Reds",
+        "Chicago Stars"
       ],
       "question": {
-        "text": "Which tree do Druids regard sacred ?"
+        "text": "Which of these is a baseball team based in Chicago?"
       },
       "tags": [
-        "society_and_culture"
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -63,41 +202,19 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950118",
-      "correctAnswer": "Calvary",
+      "category": "geography",
+      "id": "623741b2cb85f7ce9e949d80",
+      "correctAnswer": "Niamey",
       "incorrectAnswers": [
-        "Lutheros",
-        "Pellenor",
-        "Idris"
+        "Juba",
+        "Asmara",
+        "Doha"
       ],
       "question": {
-        "text": "What is the name of the field where Christ was crucified?"
+        "text": "What is the capital city of Niger?"
       },
       "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950679",
-      "correctAnswer": "Tim Roth",
-      "incorrectAnswers": [
-        "Paul Newman",
-        "Tobey Maguire",
-        "Elijah Wood"
-      ],
-      "question": {
-        "text": "Which actor has appeared in films including The Incredible Hulk and Pulp Fiction?"
-      },
-      "tags": [
-        "film_and_tv",
-        "film",
-        "acting"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -106,17 +223,18 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625fd6f6dc0dd3b72da64d18",
-      "correctAnswer": "1965",
+      "id": "622a1c347cc59eab6f94fc06",
+      "correctAnswer": "\"Attica! Attica!\"",
       "incorrectAnswers": [
-        "1959",
-        "1971",
-        "1977"
+        "\"Why don't you come up sometime and see me?\"",
+        "\"Well, here's another nice mess you've gotten me into!\"",
+        "\"Well, I don’t want to survive. I want to live.\""
       ],
       "question": {
-        "text": "In which year was For a Few Dollars More released?"
+        "text": "Which of these quotes is from the film 'Dog Day Afternoon'?"
       },
       "tags": [
+        "quotes",
         "film",
         "film_and_tv"
       ],
@@ -127,20 +245,17 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c3d7cc59eab6f951c17",
-      "correctAnswer": "Turnip",
+      "id": "622a1c367cc59eab6f950112",
+      "correctAnswer": "Apricots",
       "incorrectAnswers": [
-        "Swede",
-        "Potato",
-        "Carrot"
+        "Coins",
+        "The offspring of Hera and Zeus",
+        "The stars in the night sky"
       ],
       "question": {
-        "text": "From what were Jack-o-Lanterns first made?"
+        "text": "What were the 'Golden Apples' in Greek myth?"
       },
       "tags": [
-        "food",
-        "halloween",
-        "traditions",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -149,18 +264,43 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951b0c",
-      "correctAnswer": "Poland",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fec9",
+      "correctAnswer": "Kate Bush",
       "incorrectAnswers": [
-        "Germany",
-        "Hungary",
-        "Austria"
+        "David Bowie",
+        "John Lennon",
+        "George Michael"
       ],
       "question": {
-        "text": "In Which Country Was The Auschwitz Concentration Camp Located?"
+        "text": "Which British recording artist released the studio album 'The Dreaming'?"
       },
       "tags": [
+        "music_albums",
+        "musicians",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9517ce",
+      "correctAnswer": "Henry VIII",
+      "incorrectAnswers": [
+        "Richard I",
+        "William the Conqueror",
+        "Alfred the Great"
+      ],
+      "question": {
+        "text": "Which English king was given the title 'Defender Of The Faith' by Pope Leo X?"
+      },
+      "tags": [
+        "leaders",
+        "uk",
+        "christianity",
         "history"
       ],
       "type": "text_choice",
@@ -169,16 +309,78 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fdbe",
-      "correctAnswer": "Can The Can",
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950a3c",
+      "correctAnswer": "Iran",
       "incorrectAnswers": [
-        "Do The Do",
-        "See The Sea",
-        "Dance The Dance"
+        "Tajikistan",
+        "Kyrgyzstan",
+        "Uzbekistan"
       ],
       "question": {
-        "text": "What Was Suzi Quatro's First Hit In 1973?"
+        "text": "Which of these countries borders Pakistan?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f95000a",
+      "correctAnswer": "Botswana",
+      "incorrectAnswers": [
+        "Namibia",
+        "South Africa",
+        "Zimbabwe"
+      ],
+      "question": {
+        "text": "In what country is the currency named after the water being called the Pula?"
+      },
+      "tags": [
+        "currency",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ede",
+      "correctAnswer": "George R. R. Martin",
+      "incorrectAnswers": [
+        "Stephen King",
+        "Jack Vance",
+        "Edgar Rice Burroughs"
+      ],
+      "question": {
+        "text": "Which author wrote 'A Feast for Crows'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94feff",
+      "correctAnswer": "Madonna",
+      "incorrectAnswers": [
+        "Eric Clapton",
+        "Nicki Minaj",
+        "Alanis Morissette"
+      ],
+      "question": {
+        "text": "Which American singer and songwriter released the song 'Hung Up'?"
       },
       "tags": [
         "songs",
@@ -190,130 +392,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd79",
-      "correctAnswer": "The Righteous Brothers",
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f9522d6",
+      "correctAnswer": "Deciduous",
       "incorrectAnswers": [
-        "The Isley Brothers",
-        "Wham!",
-        "The Temptations"
+        "Conifer",
+        "Gymnosperm",
+        "Evergreen"
       ],
       "question": {
-        "text": "Who Were Bobby Hatfield & Bill Medley?"
+        "text": "From which type of tree do we get hardwood?"
       },
       "tags": [
-        "people",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "63bc3fa50e893d6e5a6a0fd0",
-      "correctAnswer": "Cronut",
-      "incorrectAnswers": [
-        "Strudel",
-        "Dosant",
-        "Chouxnut"
-      ],
-      "question": {
-        "text": "What is the name given to the pastry that looks like a doughnut, but made with choux pastry?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink",
-        "pastry",
-        "baking"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d2f0f96c4efe8d773ad",
-      "correctAnswer": "Kansas City Royals",
-      "incorrectAnswers": [
-        "Kansas City Capitals",
-        "Kansas City Timbers",
-        "Kansas City Hawks"
-      ],
-      "question": {
-        "text": "Which of these is a baseball team based in Kansas City?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950bf2",
-      "correctAnswer": "The Doors",
-      "incorrectAnswers": [
-        "Styx",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
-      ],
-      "question": {
-        "text": "Which American rock band released the song 'People Are Strange'?"
-      },
-      "tags": [
-        "rock_music",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcfb",
-      "correctAnswer": "Democritus",
-      "incorrectAnswers": [
-        "Thomas Hobbes",
-        "Denis Diderot",
-        "Jean-Paul Sartre"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'The brave man is he who overcomes not only his enemies but his pleasures'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "people",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa8f",
-      "correctAnswer": "Regina King",
-      "incorrectAnswers": [
-        "Amy Adams",
-        "Marina de Tavira",
-        "Emma Stone"
-      ],
-      "question": {
-        "text": "Who won the 2018 Academy Award for Best Supporting Actress for playing the role of Sharon Rivers in If Beale Street Could Talk?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "academy_awards",
-        "film_and_tv"
+        "science",
+        "plants",
+        "materials"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -322,18 +415,18 @@
     },
     {
       "category": "geography",
-      "id": "625e9ff6796f721e95543fc4",
-      "correctAnswer": "White",
+      "id": "62374282cb85f7ce9e949dd4",
+      "correctAnswer": "Damascus",
       "incorrectAnswers": [
-        "Yellow",
-        "Blue",
-        "Green"
+        "Mogadishu",
+        "Islamabad",
+        "Bamako"
       ],
       "question": {
-        "text": "Which of these colors would you find on the flag of Yemen?"
+        "text": "What is the capital city of Syria?"
       },
       "tags": [
-        "flags",
+        "capital_cities",
         "the_middle_east",
         "geography"
       ],
@@ -343,19 +436,86 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502b2",
-      "correctAnswer": "Brawn ",
+      "category": "history",
+      "id": "64626286ab138b829b81ea04",
+      "correctAnswer": "Liberia",
       "incorrectAnswers": [
-        "Trotters",
-        "Skippets",
-        "Swain"
+        "Egypt",
+        "South Africa",
+        "Morocco"
       ],
       "question": {
-        "text": "What is the name of the traditional English dish made from pork trimmings and pig's head?"
+        "text": "William Tolbert, who was killed in a 1980 coup, was the president of which African nation?"
       },
       "tags": [
-        "food",
+        "politics",
+        "government",
+        "assassinations",
+        "history",
+        "1980's"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f9500e4",
+      "correctAnswer": "Jacob",
+      "incorrectAnswers": [
+        "Joshua",
+        "Aaron",
+        "Michael"
+      ],
+      "question": {
+        "text": "Whose name did God change to Israel?"
+      },
+      "tags": [
+        "christianity",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd19",
+      "correctAnswer": "Aristotle",
+      "incorrectAnswers": [
+        "Thomas Hobbes",
+        "Ludwig Wittgenstein",
+        "Bertrand Russell"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'He who is unable to live in society, or who has no need because he is sufficient for himself, must be either a beast or a god'?"
+      },
+      "tags": [
+        "philosophy",
+        "quotes",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502bf",
+      "correctAnswer": "Star Fruit ",
+      "incorrectAnswers": [
+        "Durian",
+        "Guava",
+        "Dragon Fruit"
+      ],
+      "question": {
+        "text": "What is another name for the carambola?"
+      },
+      "tags": [
+        "words",
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -364,18 +524,62 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "62443786746187c5e7be935b",
-      "correctAnswer": "Calcium carbonate",
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f9500f0",
+      "correctAnswer": "Bragi",
       "incorrectAnswers": [
-        "Calcium sulphate dihydrate",
-        "Iron Oxide",
-        "Deuterium Oxide"
+        "Freya",
+        "Thor",
+        "Tyr"
       ],
       "question": {
-        "text": "What chemical has the formula CaCO3?"
+        "text": "Who is the Norse god of poetry?"
       },
       "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645c9f5342ea81e2554c5f13",
+      "correctAnswer": "Marshall McLuhan",
+      "incorrectAnswers": [
+        "Noam Chomsky",
+        "Edward Snowden",
+        "Glenn Greenwald"
+      ],
+      "question": {
+        "text": "Which pioneering pop-media theorist, born in Edmonton, Alberta, coined the phrase 'The medium is the message'?"
+      },
+      "tags": [
+        "society_and_culture",
+        "philosophy",
+        "quotes"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242cb0fd543524f1b19c908",
+      "correctAnswer": "A herd",
+      "incorrectAnswers": [
+        "A labour",
+        "A nye",
+        "A colony"
+      ],
+      "question": {
+        "text": "What is the word for a group of cranes?"
+      },
+      "tags": [
+        "words",
+        "animals",
         "science"
       ],
       "type": "text_choice",
@@ -384,151 +588,19 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500b6",
-      "correctAnswer": "Two",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950dcd",
+      "correctAnswer": "Frances Hodgson Burnett",
       "incorrectAnswers": [
-        "Five",
-        "Four",
-        "Three"
+        "Robert Louis Stevenson",
+        "Arthur Conan Doyle",
+        "Joseph Conrad"
       ],
       "question": {
-        "text": "In a game of netball how many players on a team are allowed To score?"
+        "text": "Which author wrote 'Little Lord Fauntleroy'?"
       },
       "tags": [
-        "numbers",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262af754b176d54800e3dc8",
-      "correctAnswer": "Your Mileage May Vary",
-      "incorrectAnswers": [
-        "You're Meeting My Villain",
-        "You Must Meet Voters",
-        "You Make Me Vomit"
-      ],
-      "question": {
-        "text": "On internet chats, what do the letters 'YMMV' mean?"
-      },
-      "tags": [
-        "the_internet",
-        "initials",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611f4b4b176d54800e3d4f",
-      "correctAnswer": "1969",
-      "incorrectAnswers": [
-        "1948",
-        "1978",
-        "1990"
-      ],
-      "question": {
-        "text": "When was ARPANET, the precursor to the Internet, first developed?"
-      },
-      "tags": [
-        "events",
-        "technology",
-        "inventions",
-        "the_internet",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fe20",
-      "correctAnswer": "Three Gorges Dam",
-      "incorrectAnswers": [
-        "Grand Coulee Dam",
-        "Hoover Dam",
-        "Oroville Dam"
-      ],
-      "question": {
-        "text": "What is the worlds longest concrete dam?"
-      },
-      "tags": [
-        "records",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fdd1",
-      "correctAnswer": "Tailor",
-      "incorrectAnswers": [
-        "Gambler",
-        "Dancer",
-        "Maid"
-      ],
-      "question": {
-        "text": "According To The Lyrics Of The Song “House Of The Rising Sun” What Was The Occupation Of Their Mother?"
-      },
-      "tags": [
-        "lyrics",
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950372",
-      "correctAnswer": "Elizabeth I",
-      "incorrectAnswers": [
-        "James III",
-        "Victoria",
-        "Henry VIII"
-      ],
-      "question": {
-        "text": "Who ruled England at the time of Shakespeare?"
-      },
-      "tags": [
-        "uk",
-        "shakespeare",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c377cc59eab6f950437",
-      "correctAnswer": "The Royal Family",
-      "incorrectAnswers": [
-        "The Kardashians",
-        "The Osmonds",
-        "The Gibbs"
-      ],
-      "question": {
-        "text": "In 1969 Richard Cawston Made A Documentary For The BBC About Which Famous Family?"
-      },
-      "tags": [
-        "history"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -537,19 +609,17 @@
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94fe5b",
-      "correctAnswer": "Afghanistan ",
+      "id": "6237359ccfe13103f55eb54c",
+      "correctAnswer": "Nigeria",
       "incorrectAnswers": [
-        "Iraq",
-        "Bangladesh",
-        "Sri Lanka"
+        "Hong Kong",
+        "Niger",
+        "Nicaragua"
       ],
       "question": {
-        "text": "In which Asian country is the Hindu Kush mountain range?"
+        "text": "Which region of the world uses '.ng' at the end of its web addresses?"
       },
       "tags": [
-        "asia",
-        "mountains",
         "geography"
       ],
       "type": "text_choice",
@@ -558,86 +628,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd16",
-      "correctAnswer": "Bertrand Russell",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f962",
+      "correctAnswer": "The Member of the Wedding",
       "incorrectAnswers": [
-        "Denis Diderot",
-        "Jean-Paul Sartre",
-        "Jean-Jacques Rousseau"
+        "Howards End",
+        "Wise Blood",
+        "All the King's Men"
       ],
       "question": {
-        "text": "Which philosopher famously said 'I would never die for my beliefs because I might be wrong'?"
+        "text": "Which book contains the character 'Frankie Addams'?"
       },
       "tags": [
-        "philosophy",
-        "quotes",
-        "people",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f928",
-      "correctAnswer": "National Lampoon's Animal House",
-      "incorrectAnswers": [
-        "Jaws",
-        "Psycho",
-        "Scarface"
-      ],
-      "question": {
-        "text": "Which film contains the character 'John \"Bluto\" Blutarsky'?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f866",
-      "correctAnswer": "Tennis",
-      "incorrectAnswers": [
-        "Baseball",
-        "Gymnastics",
-        "Skiing"
-      ],
-      "question": {
-        "text": "With which sport is Rod Laver associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ffac",
-      "correctAnswer": "Vietnam",
-      "incorrectAnswers": [
-        "Cambodia",
-        "Laos",
-        "Thailand"
-      ],
-      "question": {
-        "text": "In which country is the Mekong River Delta?"
-      },
-      "tags": [
-        "rivers",
-        "geography"
+        "literature",
+        "fictitious_characters",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
