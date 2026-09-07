@@ -1,22 +1,85 @@
 {
-  "gameDate": "2026-09-06",
+  "gameDate": "2026-09-07",
   "difficulty": "hard",
   "results": [
     {
-      "category": "science",
-      "id": "622a1c397cc59eab6f950fa6",
-      "correctAnswer": "Giovanni Schiaparelli",
+      "category": "sport_and_leisure",
+      "id": "62399ed21437c7031fbe41d0",
+      "correctAnswer": "Spain",
       "incorrectAnswers": [
-        "Galileo Galiei",
-        "Mary Ward",
-        "John Herschel"
+        "Italy",
+        "Brazil",
+        "England"
       ],
       "question": {
-        "text": "Who was the first person to notice \"canals\" on Mars?"
+        "text": "Which country won the 2010 FIFA World Cup, hosted in South Africa?"
       },
       "tags": [
-        "astronomy",
-        "people",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa2f",
+      "correctAnswer": "Vasily Kandinsky",
+      "incorrectAnswers": [
+        "James Abbott McNeill Whistler",
+        "René Magritte",
+        "Pierre-Auguste Renoir"
+      ],
+      "question": {
+        "text": "Which artist painted \"Composition 8\""
+      },
+      "tags": [
+        "art",
+        "painting",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f25",
+      "correctAnswer": "Hans Christian Andersen",
+      "incorrectAnswers": [
+        "Beatrix Potter",
+        "Søren Kierkegaard",
+        "Oscar Wilde"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Little Match Girl'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624333eacfaae40c1296140f",
+      "correctAnswer": "A Kit",
+      "incorrectAnswers": [
+        "A Joey",
+        "An Eaglet",
+        "A Lava"
+      ],
+      "question": {
+        "text": "What would you call a baby ferret?"
+      },
+      "tags": [
+        "animals",
+        "biology",
         "science"
       ],
       "type": "text_choice",
@@ -25,22 +88,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe35",
-      "correctAnswer": "The Bronx",
+      "category": "science",
+      "id": "6242cb3ad543524f1b19c919",
+      "correctAnswer": "A colony",
       "incorrectAnswers": [
-        "Manhattan",
-        "Harlem",
-        "Brooklyn"
+        "A covey",
+        "A sedge",
+        "A pace"
       ],
       "question": {
-        "text": "What is the only borough of New York City that is not on an island? "
+        "text": "What is the word for a group of gulls?"
       },
       "tags": [
-        "cities",
-        "new_york",
-        "usa",
-        "geography"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -48,19 +108,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62373ff7cb85f7ce9e949cce",
-      "correctAnswer": "Santiago",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e46",
+      "correctAnswer": "Lucy Maud Montgomery",
       "incorrectAnswers": [
-        "Castries",
-        "Manama",
-        "Port Vila"
+        "Alice Munro",
+        "Lewis Carroll",
+        "Margaret Atwood"
       ],
       "question": {
-        "text": "What is the capital city of Chile?"
+        "text": "Which author wrote 'Anne of Green Gables'?"
       },
       "tags": [
-        "geography"
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -68,41 +129,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623b57a6fd6c701a9211836f",
-      "correctAnswer": "Mexico",
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f950196",
+      "correctAnswer": "Hamlet",
       "incorrectAnswers": [
-        "Israel",
-        "Indonesia",
-        "Greece"
+        "King Lear",
+        "Julius Caesar",
+        "Othello"
       ],
       "question": {
-        "text": "In which country would you find Chichen Itza?"
+        "text": "In which Shakespearean tragedy Does Laertes appear?"
       },
       "tags": [
-        "tourist_attractions",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63bc3f920e893d6e5a6a0fb9",
-      "correctAnswer": "Yohji Yamamoto",
-      "incorrectAnswers": [
-        "Miu Miu",
-        "Dior",
-        "Felix Malikovich"
-      ],
-      "question": {
-        "text": "Which of the following fashion designers is famous for their use of the color black?"
-      },
-      "tags": [
-        "society_and_culture",
-        "fashion"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -111,18 +150,189 @@
     },
     {
       "category": "music",
-      "id": "622a1c347cc59eab6f94fb98",
-      "correctAnswer": "\"1,2 Step\" by Ciara and Missy Elliott",
+      "id": "6488889b5dba6c873ef6506b",
+      "correctAnswer": "Justin Timberlake",
       "incorrectAnswers": [
-        "\"Hooked on a Feeling\" by B.J. Thomas",
-        "\"I'm Real (Murder Remix) by Jennifer Lopez and Ja Rule",
-        "\"Fergalicious\" by Fergie and will.i.am."
+        "Usher",
+        "Bruno Mars",
+        "Ed Sheeran"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"This beat is automatic, supersonic, hypnotic, funky fresh.\"?"
+        "text": "Which pop star won the Grammy Award for Best Male Pop Vocal Performance in 2007, with the song \"What Goes Around... Comes Around\"?"
       },
       "tags": [
-        "lyrics",
+        "music",
+        "songs"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9506a0",
+      "correctAnswer": "Naomi Watts",
+      "incorrectAnswers": [
+        "Melissa Leo",
+        "Frances Conroy",
+        "Laura Linney"
+      ],
+      "question": {
+        "text": "Which actress has starred in both Birdman and King Kong?"
+      },
+      "tags": [
+        "film_and_tv",
+        "film",
+        "acting"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d0c",
+      "correctAnswer": "The Beatles",
+      "incorrectAnswers": [
+        "Deep Purple",
+        "Feeder",
+        "Uriah Heep"
+      ],
+      "question": {
+        "text": "Which English rock band released the song 'Come Together'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "645c9f5342ea81e2554c5f05",
+      "correctAnswer": "The Truman Show",
+      "incorrectAnswers": [
+        "Eternal Sunshine of the Spotless Mind",
+        "Dead Poet's Society",
+        "The Shawshank Redemption"
+      ],
+      "question": {
+        "text": "Which movie features the quote 'Good morning! And in case I don't see you, good afternoon, good evening, and good night!'?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv",
+        "quotes",
+        "film_quotes"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fb4e",
+      "correctAnswer": "The Deer Hunter",
+      "incorrectAnswers": [
+        "Coming Home",
+        "Heaven Can Wait",
+        "Midnight Express"
+      ],
+      "question": {
+        "text": "Which film won the Academy Award for Best Picture in 1978?"
+      },
+      "tags": [
+        "academy_awards",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f95007e",
+      "correctAnswer": "Trampoline",
+      "incorrectAnswers": [
+        "Golf",
+        "Wrestling",
+        "Squash"
+      ],
+      "question": {
+        "text": "What sport was first introduced into the Olympics in 2000?"
+      },
+      "tags": [
+        "olympics",
+        "firsts",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "627164a81ba117625baac96c",
+      "correctAnswer": "Pastis",
+      "incorrectAnswers": [
+        "Whisky",
+        "Mastika",
+        "Caesar"
+      ],
+      "question": {
+        "text": "Which of these drinks originates from France?"
+      },
+      "tags": [
+        "drink",
+        "alcohol",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c3d7cc59eab6f951c89",
+      "correctAnswer": "Starland Vocal Band",
+      "incorrectAnswers": [
+        "The Galaxy Quartet",
+        "Sirens of Titan",
+        "The Milky Ways"
+      ],
+      "question": {
+        "text": "'Afternoon Delight' was the only major hit for which one-hit-wonder group?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe99",
+      "correctAnswer": "Rihanna",
+      "incorrectAnswers": [
+        "Drake",
+        "Nicki Minaj",
+        "Ricky Martin"
+      ],
+      "question": {
+        "text": "Which singer released the song 'You da One'?"
+      },
+      "tags": [
         "songs",
         "music"
       ],
@@ -132,19 +342,43 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62602e7a4b176d54800e3cde",
-      "correctAnswer": "Israel",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a16",
+      "correctAnswer": "Marc Antony",
       "incorrectAnswers": [
-        "Bahrain",
-        "Qatar",
-        "Iran"
+        "Lepidus",
+        "Marcus Crassus",
+        "Pompey"
       ],
       "question": {
-        "text": "Haifa is a city in which country?"
+        "text": "Which Roman killed himself after his defeat at Actium?"
+      },
+      "tags": [
+        "battles",
+        "romans",
+        "people",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "626030c94b176d54800e3d3e",
+      "correctAnswer": "Tanzania",
+      "incorrectAnswers": [
+        "Senegal",
+        "Algeria",
+        "South Africa"
+      ],
+      "question": {
+        "text": "Dar es Salaam is a city in which country?"
       },
       "tags": [
         "cities",
+        "africa",
         "geography"
       ],
       "type": "text_choice",
@@ -153,16 +387,171 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f951621",
-      "correctAnswer": "Onion",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951ac6",
+      "correctAnswer": "Ethiopia",
       "incorrectAnswers": [
-        "Pepper",
-        "Tomato",
-        "Garlic"
+        "Sudan",
+        "Somalia",
+        "Eritrea"
       ],
       "question": {
-        "text": "What do you add to a martini to make it a Gibson?"
+        "text": "Which country did Mussolini's Italy invade in 1935?"
+      },
+      "tags": [
+        "italy",
+        "1930's",
+        "wars",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63e13a0b106de6ffa7d4a782",
+      "correctAnswer": "Secretes hormones and digestive enzymes",
+      "incorrectAnswers": [
+        "Controls body temperature",
+        "Filters blood",
+        "Produces oxygen"
+      ],
+      "question": {
+        "text": "What is the function of the pancreas?"
+      },
+      "tags": [
+        "science",
+        "biology",
+        "anatomy",
+        "medicine"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503e3",
+      "correctAnswer": "The Jarrow March",
+      "incorrectAnswers": [
+        "The Swing Riots",
+        "Tolpuddle Martyrs",
+        "The Chartists"
+      ],
+      "question": {
+        "text": "What famous protest took place in Britain in 1936?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62433582cfaae40c129614af",
+      "correctAnswer": "A Jill",
+      "incorrectAnswers": [
+        "A Gander",
+        "A Ewe",
+        "A Sow"
+      ],
+      "question": {
+        "text": "What is a female wallaby known as?"
+      },
+      "tags": [
+        "names",
+        "animals",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6355b7f3e8b368eed3a6823a",
+      "correctAnswer": "affricative",
+      "incorrectAnswers": [
+        "nasal",
+        "plosive",
+        "approximant"
+      ],
+      "question": {
+        "text": "In phonetics, the j in 'juice' is an example of what kind of sound?"
+      },
+      "tags": [
+        "language",
+        "linguistics",
+        "general_knowledge",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "645c9fc142ea81e2554c5f5c",
+      "correctAnswer": "Johannes Kepler",
+      "incorrectAnswers": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "René Descartes"
+      ],
+      "question": {
+        "text": "Who became imperial mathematician to the Holy Roman Emperor in 1601 after the death of Tycho Brahe?"
+      },
+      "tags": [
+        "astronomy",
+        "history",
+        "holy_roman_empire"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd2d",
+      "correctAnswer": "Albert Camus",
+      "incorrectAnswers": [
+        "Denis Diderot",
+        "Ludwig Wittgenstein",
+        "Epictetus"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'There is but one truly serious philosophical problem, and that is suicide'?"
+      },
+      "tags": [
+        "philosophy",
+        "people",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9503ea",
+      "correctAnswer": "Egg Mcmuffin",
+      "incorrectAnswers": [
+        "MSG",
+        "Aqua Faba",
+        "Instant Noodles"
+      ],
+      "question": {
+        "text": "What did Herb Peterson invent?"
       },
       "tags": [
         "food_and_drink"
@@ -173,103 +562,21 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c3a7cc59eab6f950fde",
-      "correctAnswer": "The Pan American Highway",
-      "incorrectAnswers": [
-        "Route 1",
-        "The Transcontinental Road",
-        "Christopher Columbus Road"
-      ],
-      "question": {
-        "text": "Which Road Runs From Alaska To Chile?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64a1c901c1e45722061c31b8",
-      "correctAnswer": "Gap",
-      "incorrectAnswers": [
-        "H&M",
-        "Zara",
-        "Uniqlo"
-      ],
-      "question": {
-        "text": "Which company, originally starting as a single store selling jeans, is the owner of Banana Republic?"
-      },
-      "tags": [
-        "retail",
-        "business",
-        "fashion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd56",
-      "correctAnswer": "Billy Idol",
-      "incorrectAnswers": [
-        "Billy Eilish",
-        "Bill Withers",
-        "Bill Bailey"
-      ],
-      "question": {
-        "text": "William Michael Albert Broad Is The Real Name Of Which Singer?"
-      },
-      "tags": [
-        "pseudonyms",
-        "people",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c13",
-      "correctAnswer": "Dream Theater",
-      "incorrectAnswers": [
-        "Jars of Clay",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American progressive metal band released the album 'Black Clouds & Silver Linings'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ef8",
-      "correctAnswer": "Ursula K. Le Guin",
+      "id": "622a1c367cc59eab6f9501ce",
+      "correctAnswer": "The Silmarillion",
       "incorrectAnswers": [
-        "Stephen King",
-        "Jack Vance",
-        "George R. R. Martin"
+        "The Decameron",
+        "Dead Souls",
+        "Welcome to the N.H.K."
       ],
       "question": {
-        "text": "Which author wrote 'The Word for World Is Forest'?"
+        "text": "Which piece of written work starts with the line 'There was Eru, the One, who in Arda is called Ilúvatar; and he made first the Ainur, the Holy Ones, that were the offspring of his thought, and they were with him before aught else was made.'?"
       },
       "tags": [
+        "fantasy",
+        "quotes",
+        "literature",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -278,61 +585,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950bf8",
-      "correctAnswer": "The Doors",
-      "incorrectAnswers": [
-        "Styx",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
-      ],
-      "question": {
-        "text": "Which American rock band released the studio album 'The Soft Parade'?"
-      },
-      "tags": [
-        "rock_music",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510a5",
-      "correctAnswer": "Rectangular",
-      "incorrectAnswers": [
-        "Circular",
-        "Triangular",
-        "Hexagonal"
-      ],
-      "question": {
-        "text": "The pupil of an octopus's eye is __________"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506c3",
-      "correctAnswer": "Reese Witherspoon",
+      "id": "622a1c347cc59eab6f94fc36",
+      "correctAnswer": "\"I'm walking here! I'm walking here!\"",
       "incorrectAnswers": [
-        "Kristin Scott Thomas",
-        "Naomi Watts",
-        "Penélope Cruz"
+        "\"I feel the need - the need for speed!\"",
+        "\"Shane. Shane. Come back!\"",
+        "\"Attica! Attica!\""
       ],
       "question": {
-        "text": "Which actress has starred in both Walk the Line and Cruel Intentions?"
+        "text": "Which of these quotes is from the film 'Midnight Cowboy'?"
       },
       "tags": [
+        "quotes",
         "film",
-        "acting",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -342,35 +608,15 @@
     },
     {
       "category": "music",
-      "id": "622a1c367cc59eab6f95039a",
-      "correctAnswer": "Stevie Wonder",
+      "id": "622a1c397cc59eab6f950be8",
+      "correctAnswer": "The Cure",
       "incorrectAnswers": [
-        "Stevie Nicks",
-        "Stevie Ray Vaughan",
-        "Stevie Winwood"
+        "Level 42",
+        "Deep Purple",
+        "Snow Patrol"
       ],
       "question": {
-        "text": "Who Released The 70's Album Entitled \"Innervisions\"?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c367cc59eab6f95021a",
-      "correctAnswer": "Shakira ",
-      "incorrectAnswers": [
-        "Enrique Iglesias",
-        "Pitbull",
-        "Jennifer Lopez"
-      ],
-      "question": {
-        "text": "Who released the album 'Pies Descalzos'?"
+        "text": "Which English rock band released the studio album 'Disintegration'?"
       },
       "tags": [
         "music"
@@ -382,257 +628,20 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f95017f",
-      "correctAnswer": "The Water Babies",
+      "id": "622a1c3a7cc59eab6f95131c",
+      "correctAnswer": "The Mock Turtle",
       "incorrectAnswers": [
-        "Oliver Twist",
-        "The Little Prince",
-        "The Prince and the Pauper"
+        "Humpty Dumpty",
+        "Tweedledee",
+        "Dodo"
       ],
       "question": {
-        "text": "Which famous book contains the line \"Once upon a time there was a little chimney sweep and his name was Tom\"?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "637162861bf863c45ca6c382",
-      "correctAnswer": "Great is the power of habit",
-      "incorrectAnswers": [
-        "Tomorrow, be ours",
-        "Lead in order to serve, not in order to rule",
-        "Such is life"
-      ],
-      "question": {
-        "text": "How does that Latin phrase 'Magna est vis consuetudinis' translate into English?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c357cc59eab6f94fde6",
-      "correctAnswer": "Peter I",
-      "incorrectAnswers": [
-        "Nicholas III",
-        "Ivan IV",
-        "Alexei VI"
-      ],
-      "question": {
-        "text": "Who is regarded as the most influential monarch of Russian Romanov Dynasty?"
-      },
-      "tags": [
-        "people",
-        "russia",
-        "leaders",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950306",
-      "correctAnswer": "The Golden Hind",
-      "incorrectAnswers": [
-        "The HMS Victory",
-        "The Mary Rose",
-        "The Black Pearl"
-      ],
-      "question": {
-        "text": "With Which Ship Did Francis Drake Circumnavigate The World?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d870f96c4efe8d773d0",
-      "correctAnswer": "Philadelphia Union",
-      "incorrectAnswers": [
-        "Philadelphia Indians",
-        "Philadelphia Ravens",
-        "Philadelphia Reds"
-      ],
-      "question": {
-        "text": "Which of these is a soccer team based in Philadelphia?"
-      },
-      "tags": [
-        "soccer",
-        "football",
-        "usa",
-        "mls",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc84",
-      "correctAnswer": "Finifugal",
-      "incorrectAnswers": [
-        "Groke",
-        "Gabelle",
-        "Salopettes"
-      ],
-      "question": {
-        "text": "Which word is defined as 'afraid of finishing anything'?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950dfa",
-      "correctAnswer": "Isaac Newton",
-      "incorrectAnswers": [
-        "Daniel Defoe",
-        "Percy Bysshe Shelley",
-        "Walter Scott"
-      ],
-      "question": {
-        "text": "Which author wrote 'Opticks, or a Treatise of the Reflections, Refractions, Inflections and Colours of Light'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcb3",
-      "correctAnswer": "Indo-European",
-      "incorrectAnswers": [
-        "Koreanic",
-        "Sino-Tibetan",
-        "Austronesian"
-      ],
-      "question": {
-        "text": "The language 'Sinhalese' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "646140b54d46e537ca8cda06",
-      "correctAnswer": "Circe",
-      "incorrectAnswers": [
-        "Medusa",
-        "Calypso",
-        "Aphrodite"
-      ],
-      "question": {
-        "text": "In Ancient Greek mythology, which enchantress changes Ulysses' men into pigs, but also warns him about the sirens?"
-      },
-      "tags": [
-        "classics",
-        "ancient_greece",
-        "mythology",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950a51",
-      "correctAnswer": "Chile",
-      "incorrectAnswers": [
-        "Peru",
-        "Ecuador",
-        "Suriname"
-      ],
-      "question": {
-        "text": "Which of these countries borders Argentina?"
-      },
-      "tags": [
-        "south_america",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "646262c1ab138b829b81ea5b",
-      "correctAnswer": "Spinning wheels",
-      "incorrectAnswers": [
-        "Candles",
-        "Pillows",
-        "Dolls"
-      ],
-      "question": {
-        "text": "What household objects did Sleeping Beauty's parents try to have burned?"
+        "text": "In Alice In Wonderland, who never stopped sobbing?"
       },
       "tags": [
         "arts_and_literature",
-        "fairy_tales",
-        "disney"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "64f4e5cbd361046b195e5801",
-      "correctAnswer": "Brazil",
-      "incorrectAnswers": [
-        "The USA",
-        "The Republic of the Congo",
-        "India"
-      ],
-      "question": {
-        "text": "Which country is home to the Pantanal, the largest tropical wetland area in the world?"
-      },
-      "tags": [
-        "nature",
-        "geography"
+        "literature",
+        "classic_novels"
       ],
       "type": "text_choice",
       "difficulty": "hard",
