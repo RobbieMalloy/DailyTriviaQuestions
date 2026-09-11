@@ -1,18 +1,82 @@
 {
-  "gameDate": "2026-09-10",
+  "gameDate": "2026-09-11",
   "difficulty": "easy",
   "results": [
     {
-      "category": "geography",
-      "id": "623742c8cb85f7ce9e949df0",
-      "correctAnswer": "Kyiv",
+      "category": "food_and_drink",
+      "id": "624c608650d1a5e051325a61",
+      "correctAnswer": "France",
       "incorrectAnswers": [
-        "Sofia",
-        "Belgrade",
-        "Kharkiv"
+        "Austria",
+        "Benin",
+        "North Africa"
       ],
       "question": {
-        "text": "What is the capital city of Ukraine?"
+        "text": "Crêpes are most associated with which part of the world?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573fb53d2f5c16bfb88339",
+      "correctAnswer": "A cyborg must protect a ten-year-old boy from a more powerful cyborg.",
+      "incorrectAnswers": [
+        "A criminal pleads insanity and is admitted to a mental institution.",
+        "An NYPD officer tries to save his wife taken hostage by terrorists during a Christmas party.",
+        "A car salesman's inept crime falls apart due to his and his henchmen's bungling."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Terminator 2: Judgment Day?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63bc3faa0e893d6e5a6a0fd7",
+      "correctAnswer": "Disco",
+      "incorrectAnswers": [
+        "Grunge",
+        "Hippie",
+        "Preppy"
+      ],
+      "question": {
+        "text": "What is the name of the fashion trend popularized in the 1970s that involves wearing bell-bottoms, platform shoes, and oversized shirts?"
+      },
+      "tags": [
+        "society_and_culture",
+        "fashion",
+        "1970's"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950a24",
+      "correctAnswer": "Spain",
+      "incorrectAnswers": [
+        "Morocco",
+        "Andorra",
+        "France"
+      ],
+      "question": {
+        "text": "Which of these countries borders Portugal?"
       },
       "tags": [
         "geography"
@@ -23,20 +87,40 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "6472060f222d3df382f0c861",
-      "correctAnswer": "Hors d'oeuvres",
+      "category": "geography",
+      "id": "623b5848fd6c701a921183ac",
+      "correctAnswer": "Japan",
       "incorrectAnswers": [
-        "À la carte",
-        "Croquettes",
-        "Tapas"
+        "Indonesia",
+        "China",
+        "South Korea"
       ],
       "question": {
-        "text": "What is the French term for appetizers that are served before the meal?"
+        "text": "In which country would you find Mount Fuji?"
       },
       "tags": [
-        "food",
-        "food_and_drink"
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9dff796f721e95543f38",
+      "correctAnswer": "Brazil",
+      "incorrectAnswers": [
+        "Jamaica",
+        "Faroe Islands",
+        "Iran"
+      ],
+      "question": {
+        "text": "Which country's flag can be described as 'Green with a yellow diamond in the center with a blue celestial globe.'?"
+      },
+      "tags": [
+        "flags",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -45,15 +129,15 @@
     },
     {
       "category": "science",
-      "id": "6505702d7a97013de78b554d",
-      "correctAnswer": "24 karat",
+      "id": "622a1c377cc59eab6f95048b",
+      "correctAnswer": "society",
       "incorrectAnswers": [
-        "22 karat",
-        "30 karat",
-        "12 karat"
+        "bones",
+        "the preparation of books and manuscripts",
+        "nematodes"
       ],
       "question": {
-        "text": "How many karats are in pure gold?"
+        "text": "What is Sociology the study of?"
       },
       "tags": [
         "science"
@@ -64,106 +148,19 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f947",
-      "correctAnswer": "Pirates of the Caribbean",
+      "category": "geography",
+      "id": "6233861762eaad73716a8cb1",
+      "correctAnswer": "India",
       "incorrectAnswers": [
-        "The Godfather",
-        "The Silence of the Lambs",
-        "The Birds"
+        "China",
+        "Russia",
+        "Saudi Arabia"
       ],
       "question": {
-        "text": "Which film contains the character 'Captain Jack Sparrow'?"
+        "text": "Where is Kolkata?"
       },
       "tags": [
-        "fictitious_characters",
-        "film",
-        "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f95177f",
-      "correctAnswer": "The Mongols",
-      "incorrectAnswers": [
-        "The Huns",
-        "The Parthians",
-        "The Greeks"
-      ],
-      "question": {
-        "text": "Which people were led by Genghis Khan?"
-      },
-      "tags": [
-        "people",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f952312",
-      "correctAnswer": "Stethoscope",
-      "incorrectAnswers": [
-        "MRI Scanner",
-        "Forceps",
-        "Insulin Pen"
-      ],
-      "question": {
-        "text": "What instrument do doctors often have around their necks?"
-      },
-      "tags": [
-        "medicine",
-        "general_knowledge",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f95164a",
-      "correctAnswer": "Lettuce",
-      "incorrectAnswers": [
-        "Egg",
-        "Tomato",
-        "Bread"
-      ],
-      "question": {
-        "text": " Iceberg, Boston, and Bibb are types of what?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62433548cfaae40c12961498",
-      "correctAnswer": "A Ram",
-      "incorrectAnswers": [
-        "A Jack",
-        "A Drake",
-        "A Rooster"
-      ],
-      "question": {
-        "text": "What would you call a male sheep?"
-      },
-      "tags": [
-        "science"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -172,218 +169,21 @@
     },
     {
       "category": "general_knowledge",
-      "id": "646089ddde964ebc39016c83",
-      "correctAnswer": "Mole",
+      "id": "64730798cf09068746f6377c",
+      "correctAnswer": "Abbreviate",
       "incorrectAnswers": [
-        "Ferret",
-        "Rat",
-        "Squirrel"
+        "Abolish",
+        "Abduct",
+        "Abhor"
       ],
       "question": {
-        "text": "Which term describes a spy who operates within the intelligence service of another country?"
+        "text": "What is the verb that means to shorten a word or phrase by omitting letters?"
       },
       "tags": [
-        "espionage",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056e837a97013de78b52fd",
-      "correctAnswer": "Anglo-Saxons",
-      "incorrectAnswers": [
-        "Egyptians",
-        "Mongols",
-        "Berbers"
-      ],
-      "question": {
-        "text": "Which of these peoples lived in England during the early Middle Ages?"
-      },
-      "tags": [
-        "history",
-        "medieval",
-        "british history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "64746317bda4b199c327d0ca",
-      "correctAnswer": "Parcel",
-      "incorrectAnswers": [
-        "Postal",
-        "Pound",
-        "Pouch"
-      ],
-      "question": {
-        "text": "What is the \"P\" in UPS, the world's largest package delivery company?"
-      },
-      "tags": [
-        "companies",
-        "initials",
-        "business",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63b0586e4799123c67712f28",
-      "correctAnswer": "Spanish",
-      "incorrectAnswers": [
-        "English",
-        "French",
-        "Portuguese"
-      ],
-      "question": {
-        "text": "What language is most widely spoken in Mexico?"
-      },
-      "tags": [
-        "mexico",
+        "vocabulary",
+        "grammar",
+        "words",
         "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6476390cf05ea6d6f587a17f",
-      "correctAnswer": "Eve",
-      "incorrectAnswers": [
-        "Rachel",
-        "Miriam",
-        "Sarah"
-      ],
-      "question": {
-        "text": "In the Bible, who was Adam's wife?"
-      },
-      "tags": [
-        "bible",
-        "christianity",
-        "society_and_culture",
-        "religion"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64fb150b717513cb79190392",
-      "correctAnswer": "Gravy",
-      "incorrectAnswers": [
-        "Salt",
-        "Bread",
-        "Cheese"
-      ],
-      "question": {
-        "text": "On a dinner table, what item might served in a 'boat'?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "626288b34b176d54800e3daf",
-      "correctAnswer": "Guinness",
-      "incorrectAnswers": [
-        "Stella Artois",
-        "Budweiser",
-        "Fosters"
-      ],
-      "question": {
-        "text": "Which beer brand is associated with the marketing slogan 'Good things come to those who wait'?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "drink",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6462628bab138b829b81ea25",
-      "correctAnswer": "Transylvania",
-      "incorrectAnswers": [
-        "Moldova",
-        "Dobruja",
-        "Banat"
-      ],
-      "question": {
-        "text": "What is the name of the Romanian region that is known for vampire legends?"
-      },
-      "tags": [
-        "romania",
-        "vampires",
-        "geography",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "63a0399ac7d86251f9b65c8d",
-      "correctAnswer": "Little Red Riding Hood",
-      "incorrectAnswers": [
-        "Hey Diddle Diddle",
-        "Mary Had a Little Lamb",
-        "Baa Baa Black Sheep"
-      ],
-      "question": {
-        "text": "What nursery rhyme is about a girl who went to the woods?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "nursery_rhymes"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f9522ad",
-      "correctAnswer": "1 Year",
-      "incorrectAnswers": [
-        "1 Day",
-        "28 Days",
-        "1 Month"
-      ],
-      "question": {
-        "text": "How long does it take for the Earth to orbit the Sun?"
-      },
-      "tags": [
-        "science",
-        "astronomy",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -392,21 +192,40 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "639895755c9a75021f310457",
-      "correctAnswer": "The Steam Engine",
+      "category": "music",
+      "id": "648ee4224fe93387161138ab",
+      "correctAnswer": "Happy",
       "incorrectAnswers": [
-        "Electricity",
-        "The Wheel",
-        "The Printing Press"
+        "Joyful",
+        "Excited",
+        "Satisfied"
       ],
       "question": {
-        "text": "What 18th century invention was considered to be one of the foundations of the Industrial Revolution?"
+        "text": "What is the one-word title of a 2014 Pharrell Williams hit?"
       },
       "tags": [
-        "history",
-        "1700's",
-        "inventions"
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "65056e0a7a97013de78b5254",
+      "correctAnswer": "Conductor",
+      "incorrectAnswers": [
+        "Composer",
+        "Soloist",
+        "Concertmaster"
+      ],
+      "question": {
+        "text": "Who directs an orchestra?"
+      },
+      "tags": [
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -415,104 +234,20 @@
     },
     {
       "category": "geography",
-      "id": "62602db94b176d54800e3ca9",
-      "correctAnswer": "United Kingdom",
+      "id": "622a1c387cc59eab6f950aa4",
+      "correctAnswer": "United States of America",
       "incorrectAnswers": [
-        "United States",
-        "New Zealand",
-        "Ireland"
+        "El Salvador",
+        "Honduras",
+        "Nicaragua"
       ],
       "question": {
-        "text": "In which country is the city of Edinburgh?"
+        "text": "Which of these countries borders Mexico?"
       },
       "tags": [
-        "cities",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f90c",
-      "correctAnswer": "The Lord of the Rings",
-      "incorrectAnswers": [
-        "The Searchers",
-        "Ghost",
-        "My Favorite Year"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Gollum'?"
-      },
-      "tags": [
-        "fictitious_characters",
-        "film",
+        "central_america",
         "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623740e7cb85f7ce9e949d2e",
-      "correctAnswer": "Tokyo",
-      "incorrectAnswers": [
-        "Osaka",
-        "Okinawa",
-        "Shanghai"
-      ],
-      "question": {
-        "text": "What is the capital city of Japan?"
-      },
-      "tags": [
         "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f8c3d2f5c16bfb88334",
-      "correctAnswer": "The crew of a spacecraft encounter a deadly lifeform after investigating a transmission.",
-      "incorrectAnswers": [
-        "The life of the lawyer who became the famed leader of the Indian revolts against the British rule.",
-        "An insurance representative lets a housewife seduce him into a scheme of insurance fraud and murder.",
-        "After the death of a tycoon, reporters scramble to uncover the meaning of his final utterance."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Alien?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "63a0397ec7d86251f9b65c6b",
-      "correctAnswer": "Scrabble",
-      "incorrectAnswers": [
-        "Risk",
-        "Chess",
-        "Monopoly"
-      ],
-      "question": {
-        "text": "What is the name of the classic board game where players must spell words with tiles?"
-      },
-      "tags": [
-        "board_games"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -521,15 +256,255 @@
     },
     {
       "category": "society_and_culture",
-      "id": "639c9d9a929b90846f2fc965",
-      "correctAnswer": "Shari'a",
+      "id": "6a9d0304358f83f179205523",
+      "correctAnswer": "Barbara Millicent Roberts",
       "incorrectAnswers": [
-        "Halakha",
-        "Karma",
-        "Dharma"
+        "Patricia Anne Reynolds",
+        "Margaret Louise Turner",
+        "Dorothy Jane Crawford"
       ],
       "question": {
-        "text": "What is the name of the Islamic law?"
+        "text": "What is the full name of Barbie, the fashion doll first sold by Mattel in 1959?"
+      },
+      "tags": [
+        "barbie",
+        "toys",
+        "mattel"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "64824e397778562fd76a961e",
+      "correctAnswer": "Illegible",
+      "incorrectAnswers": [
+        "Invisible",
+        "Illicit",
+        "Illegal"
+      ],
+      "question": {
+        "text": "What word describes something that is difficult to read, like with bad handwriting?"
+      },
+      "tags": [
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe67",
+      "correctAnswer": "Britney Spears",
+      "incorrectAnswers": [
+        "Madonna",
+        "Alanis Morissette",
+        "Nicki Minaj"
+      ],
+      "question": {
+        "text": "Which American singer, songwriter, dancer and actress released the song '...Baby One More Time'?"
+      },
+      "tags": [
+        "1990's",
+        "musicians",
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623740d8cb85f7ce9e949d28",
+      "correctAnswer": "Jerusalem",
+      "incorrectAnswers": [
+        "Tel Aviv",
+        "Tripoli",
+        "Damascus"
+      ],
+      "question": {
+        "text": "What is the capital city of Israel?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f951373",
+      "correctAnswer": "The Lord of the Rings",
+      "incorrectAnswers": [
+        "Harry Potter",
+        "Red Rising",
+        "The Hunger Games"
+      ],
+      "question": {
+        "text": "In which book series does 'Frodo Baggins' appear?"
+      },
+      "tags": [
+        "fictitious_characters",
+        "literature",
+        "general_knowledge",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62628849014f58b5fc1a3fd4",
+      "correctAnswer": "The Best a Man Can Get",
+      "incorrectAnswers": [
+        "Quality never goes out of style",
+        "Easy, breezy, beautiful….",
+        "Maybe she's born with it"
+      ],
+      "question": {
+        "text": "Which marketing slogan would you associate with Gillette?"
+      },
+      "tags": [
+        "business",
+        "marketing",
+        "fashion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950dc2",
+      "correctAnswer": "The Beatles",
+      "incorrectAnswers": [
+        "The Rolling Stones",
+        "Metallica",
+        "Nirvana"
+      ],
+      "question": {
+        "text": "Which band had Ringo Starr as its drummer?"
+      },
+      "tags": [
+        "music",
+        "bands",
+        "people"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "649fcb35ebb41911d4cbd6cf",
+      "correctAnswer": "Barack Obama",
+      "incorrectAnswers": [
+        "Bill Clinton",
+        "George Bush",
+        "Donald Trump"
+      ],
+      "question": {
+        "text": "Which former US president's wife is called Michelle? "
+      },
+      "tags": [
+        "presidents",
+        "usa",
+        "people",
+        "society_and_culture",
+        "world_leaders"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "638c77ea01e1a2ef6d1f146e",
+      "correctAnswer": "Priscilla",
+      "incorrectAnswers": [
+        "Francesca",
+        "Lisa Marie",
+        "Glady"
+      ],
+      "question": {
+        "text": "What was Elvis Presley's wife's name?"
+      },
+      "tags": [
+        "elvis_presley"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "645f952f541c4d4fc8cf2ec7",
+      "correctAnswer": "Neigh",
+      "incorrectAnswers": [
+        "Moo",
+        "Baa",
+        "Oink"
+      ],
+      "question": {
+        "text": "What is the sound made by a horse when it 'whinnies'?"
+      },
+      "tags": [
+        "sounds",
+        "horses",
+        "animals"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f079da29df7b05f7383",
+      "correctAnswer": "A chaotic clown causes a masked vigilante one of his greatest tests.",
+      "incorrectAnswers": [
+        "A stranger joins forces with a desperado to protect a widow from an assassin.",
+        "A woman works with a hardened boxing trainer to become a professional.",
+        "A suburban father has a mid-life crisis after becoming infatuated with his daughter's friend."
+      ],
+      "question": {
+        "text": "What is the plot of the movie The Dark Knight?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "639c9d98929b90846f2fc95f",
+      "correctAnswer": "Hinduism",
+      "incorrectAnswers": [
+        "Sunni",
+        "Shia",
+        "Sufism"
+      ],
+      "question": {
+        "text": "Which of the following is not one of the branches of Islam?"
       },
       "tags": [
         "islam",
@@ -542,21 +517,20 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "63d95303168979b94b2e4f79",
-      "correctAnswer": "The Simpsons",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc10",
+      "correctAnswer": "\"Elementary, my dear Watson.\"",
       "incorrectAnswers": [
-        "South Park",
-        "Family Guy",
-        "SpongeBob SquarePants"
+        "\"Keep your friends close, but your enemies closer.\"",
+        "\"My mother thanks you. My father thanks you. My sister thanks you. And I thank you.\"",
+        "\"My precious.\""
       ],
       "question": {
-        "text": "Which iconic  animated sitcom includes a teenage boy named Bart?"
+        "text": "Which of these quotes is from the film 'The Adventures of Sherlock Holmes'?"
       },
       "tags": [
-        "cartoons",
-        "sitcoms",
-        "tv",
+        "quotes",
+        "film",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -565,40 +539,23 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501b0",
-      "correctAnswer": "The Two Towers",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff53",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
-        "Life, the Universe and Everything",
-        "The Mysterious Island",
-        "A Connecticut Yankee in King Arthur's Court"
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "Which piece of written work starts with the line 'Aragorn sped on up the hill.'?"
+        "text": "Which American singer released the album 'Dangerous'?"
       },
       "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62373602cfe13103f55eb591",
-      "correctAnswer": "The United Kingdom",
-      "incorrectAnswers": [
-        "Ukraine",
-        "Uzbekistan",
-        "Uganda"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.uk' at the end of its web addresses?"
-      },
-      "tags": [
-        "the_internet",
-        "geography"
+        "music_albums",
+        "musicians",
+        "1980's",
+        "general_knowledge",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -607,20 +564,67 @@
     },
     {
       "category": "science",
-      "id": "624333c8cfaae40c12961403",
-      "correctAnswer": "An Eaglet",
+      "id": "622a1c3e7cc59eab6f9522a9",
+      "correctAnswer": "360",
       "incorrectAnswers": [
-        "A Lamb",
-        "An Eyas",
-        "A Calf"
+        "1",
+        "100",
+        "3.14"
       ],
       "question": {
-        "text": "What would you call a baby eagle?"
+        "text": "How many degrees are there in a circle?"
       },
       "tags": [
+        "shapes",
+        "science",
+        "mathematics",
+        "numbers",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63d95307168979b94b2e4f7e",
+      "correctAnswer": "Big Bang Theory",
+      "incorrectAnswers": [
+        "General Relativity",
+        "String Theory",
+        "Quantum Theory"
+      ],
+      "question": {
+        "text": "What is the name of the scientific theory that states that the universe began with a singularity?"
+      },
+      "tags": [
+        "science",
+        "physics",
+        "astrophysics",
+        "space"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "648889175dba6c873ef650de",
+      "correctAnswer": "Endangered species",
+      "incorrectAnswers": [
+        "Exotic species",
+        "Invasive species",
+        "Declining species"
+      ],
+      "question": {
+        "text": "What is the term for animals that are at risk of becoming extinct?"
+      },
+      "tags": [
+        "biology",
         "animals",
-        "birds",
-        "names",
+        "nature",
         "science"
       ],
       "type": "text_choice",
@@ -629,21 +633,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f922",
-      "correctAnswer": "Austin Powers: International Man of Mystery",
+      "category": "geography",
+      "id": "62602dc44b176d54800e3cac",
+      "correctAnswer": "Glasgow",
       "incorrectAnswers": [
-        "Die Hard",
-        "The Adventures of Robin Hood",
-        "Pulp Fiction"
+        "Baltimore",
+        "Houston",
+        "Minneapolis-St Paul"
       ],
       "question": {
-        "text": "Which film contains the character 'Dr. Evil'?"
+        "text": "Which of these cities is in United Kingdom?"
       },
       "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
+        "cities",
+        "europe",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",

@@ -1,21 +1,42 @@
 {
-  "gameDate": "2026-09-10",
+  "gameDate": "2026-09-11",
   "difficulty": "hard",
   "results": [
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e04",
-      "correctAnswer": "Lewis Carroll",
+      "id": "622a1c347cc59eab6f94fa1b",
+      "correctAnswer": "Pablo Picasso",
       "incorrectAnswers": [
-        "Enid Blyton",
-        "George Orwell",
-        "Charles Dickens"
+        "Henri Matisse",
+        "Sandro Botticelli",
+        "Georges Seurat"
       ],
       "question": {
-        "text": "Which author wrote 'The Hunting of the Snark'?"
+        "text": "Which artist painted \"Three Musicians\""
       },
       "tags": [
-        "literature",
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eca",
+      "correctAnswer": "James Joyce",
+      "incorrectAnswers": [
+        "Samuel Beckett",
+        "Oscar Wilde",
+        "Jonathan Swift"
+      ],
+      "question": {
+        "text": "Which author wrote 'A Portrait of the Artist as a Young Man'?"
+      },
+      "tags": [
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -25,21 +46,17 @@
     },
     {
       "category": "history",
-      "id": "62611fe24b176d54800e3d77",
-      "correctAnswer": "1927",
+      "id": "622a1c367cc59eab6f950393",
+      "correctAnswer": "Oliver Cromwell",
       "incorrectAnswers": [
-        "1918",
-        "1936",
-        "1945"
+        "Henry VIII",
+        "Francis Drake",
+        "Elizabeth I"
       ],
       "question": {
-        "text": "When was the first movie with sound?"
+        "text": "Who banned Christmas in Britain in 1647?"
       },
       "tags": [
-        "events",
-        "firsts",
-        "film",
-        "inventions",
         "history"
       ],
       "type": "text_choice",
@@ -48,23 +65,61 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "63a039aac7d86251f9b65c9c",
-      "correctAnswer": "Yorktown",
+      "category": "music",
+      "id": "622a1c3d7cc59eab6f951c6c",
+      "correctAnswer": "4 O'clock",
       "incorrectAnswers": [
-        "Gettysburg",
-        "Antietam",
-        "Saratoga"
+        "Midnight",
+        "9 O'clock",
+        "Lunchtime"
       ],
       "question": {
-        "text": "Which of these battles marked the end of the American Revolution?"
+        "text": "According to The Everly Bros Song \"Wake Up Little Susie\", What Time Did Susie Finally Wake Up?"
       },
       "tags": [
-        "history",
-        "usa",
-        "wars",
-        "revolutions",
-        "american_revolution"
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c615abadf21197f98f776",
+      "correctAnswer": "Kuli Kuli",
+      "incorrectAnswers": [
+        "Kushari",
+        "Ambuyat",
+        "Ndolé"
+      ],
+      "question": {
+        "text": "Which of these dishes would you most expect to find in Benin?"
+      },
+      "tags": [
+        "food",
+        "africa",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502c8",
+      "correctAnswer": "Heineken Lager ",
+      "incorrectAnswers": [
+        "Coca Cola",
+        "Sunny Delight",
+        "Dr Pepper"
+      ],
+      "question": {
+        "text": "What drink did Paul Daniels and Debbie McGee advertise singing off-key around a piano?"
+      },
+      "tags": [
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -73,20 +128,210 @@
     },
     {
       "category": "geography",
-      "id": "62373fe9cb85f7ce9e949cc8",
-      "correctAnswer": "Ottawa",
+      "id": "62373605cfe13103f55eb593",
+      "correctAnswer": "Uruguay",
       "incorrectAnswers": [
-        "Vancouver",
-        "Montreal",
-        "Quebec City"
+        "Guyana",
+        "Uzbekistan",
+        "Paraguay"
       ],
       "question": {
-        "text": "What is the capital city of Canada?"
+        "text": "Which region of the world uses '.uy' at the end of its web addresses?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "647f9ded3a4302a719271682",
+      "correctAnswer": "The Borg",
+      "incorrectAnswers": [
+        "The Klingons",
+        "The Romulans",
+        "The Dominion"
+      ],
+      "question": {
+        "text": "Which deadly enemy race in \"Star Trek\" were known for their catchphrase: \"Resistance is futile\"?"
+      },
+      "tags": [
+        "tv",
+        "science_fiction",
+        "star_trek",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ee6",
+      "correctAnswer": "Charles Dickens",
+      "incorrectAnswers": [
+        "Oscar Wilde",
+        "Joseph Conrad",
+        "Henryk Sienkiewicz"
+      ],
+      "question": {
+        "text": "Which author wrote 'Nicholas Nickleby'?"
+      },
+      "tags": [
+        "literature",
+        "classic_novels",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f94e",
+      "correctAnswer": "Heart of Darkness",
+      "incorrectAnswers": [
+        "Blindness",
+        "The Catcher in the Rye",
+        "Howards End"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Charlie Marlow'?"
+      },
+      "tags": [
+        "fictitious_characters",
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9e5f796f721e95543f53",
+      "correctAnswer": "Three equal horizontal bands of blue black and white.",
+      "incorrectAnswers": [
+        "Three equal vertical bands of green white and red.",
+        "Red field with a yellow sun in the center.",
+        "Three equal vertical bands of blue white and red."
+      ],
+      "question": {
+        "text": "What does the flag of Estonia look like?"
+      },
+      "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6488deed50a27f7378a91df0",
+      "correctAnswer": "Taxi Drivers",
+      "incorrectAnswers": [
+        "Beefeaters",
+        "Lawyers",
+        "The Mayor"
+      ],
+      "question": {
+        "text": "Who needs to pass an exam called \"The Knowledge\" to do their job in London?"
+      },
+      "tags": [
+        "london",
+        "society_and_culture",
+        "occupations"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "649c9f94e3aef0a3c23f6402",
+      "correctAnswer": "A Lie",
+      "incorrectAnswers": [
+        "A Disaster",
+        "An Accident",
+        "A Mistake"
+      ],
+      "question": {
+        "text": "What is another word for a prevarication?"
+      },
+      "tags": [
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b5782fd6c701a92118361",
+      "correctAnswer": "Jordan",
+      "incorrectAnswers": [
+        "Malta",
+        "Peru",
+        "Saudi Arabia"
+      ],
+      "question": {
+        "text": "In which country would you find the UNESCO World Heritage site of Petra?"
+      },
+      "tags": [
+        "tourist_attractions",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b6e",
+      "correctAnswer": "Blur",
+      "incorrectAnswers": [
+        "Level 42",
+        "Our Lady Peace",
+        "Feeder"
+      ],
+      "question": {
+        "text": "Which English alternative rock band released the studio album 'Think Tank'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237412ccb85f7ce9e949d4a",
+      "correctAnswer": "Vaduz",
+      "incorrectAnswers": [
+        "Naypyidaw",
+        "Vilnius",
+        "Muscat"
+      ],
+      "question": {
+        "text": "What is the capital city of Liechtenstein?"
       },
       "tags": [
         "capital_cities",
-        "canada",
-        "geography"
+        "europe"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -95,105 +340,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501cf",
-      "correctAnswer": "The Hitchhiker's Guide to the Galaxy",
+      "id": "622a1c347cc59eab6f94f977",
+      "correctAnswer": "The Swimmer",
       "incorrectAnswers": [
-        "The War of the Worlds",
-        "Northern Lights",
-        "Twenty Thousand Leagues Under the Sea"
+        "The English Patient",
+        "Portrait of the Artist as a Young Man",
+        "Nine Stories"
       ],
       "question": {
-        "text": "Which piece of written work starts with the line 'Far out in the uncharted backwaters of the unfashionable end of the western spiral arm of the Galaxy lies a small, unregarded yellow sun.'?"
-      },
-      "tags": [
-        "literature",
-        "quotes",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950dea",
-      "correctAnswer": "Jude Watson",
-      "incorrectAnswers": [
-        "Stephenie Meyer",
-        "Philip K. Dick",
-        "Brandon Sanderson"
-      ],
-      "question": {
-        "text": "Which author wrote 'Star Wars: Jedi Apprentice'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa1a",
-      "correctAnswer": "Georges Seurat",
-      "incorrectAnswers": [
-        "Caravaggio",
-        "Gustav Klimt",
-        "‎Pablo Picasso"
-      ],
-      "question": {
-        "text": "Which artist painted \"A Sunday Afternoon on the Island of La Grande Jatte\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "64dd398a9cef2bd3a34add0d",
-      "correctAnswer": "The Parthenon",
-      "incorrectAnswers": [
-        "The Colosseum",
-        "The Eiffel Tower",
-        "The Great Wall"
-      ],
-      "question": {
-        "text": "Which famous landmark has a full scale replica in Nashville, Tennessee?"
-      },
-      "tags": [
-        "architecture",
-        "buildings",
-        "tourist_attractions",
-        "tourism",
-        "geography",
-        "usa",
-        "cities"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f982",
-      "correctAnswer": "Brideshead Revisited",
-      "incorrectAnswers": [
-        "Breakfast at Tiffany's",
-        "The Age of Innocence",
-        "An American Tragedy"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Sebastian Flyte'?"
+        "text": "Which book contains the character 'Neddy Merrill'?"
       },
       "tags": [
         "literature",
@@ -205,44 +360,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950863",
-      "correctAnswer": "France",
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f950128",
+      "correctAnswer": "Donkey",
       "incorrectAnswers": [
-        "Monaco",
-        "Switzerland",
-        "Luxembourg"
+        "Elephant",
+        "Sheep",
+        "Giraffe"
       ],
       "question": {
-        "text": "Which of these countries borders Andorra?"
+        "text": "Though the touch of gold was removed, Midas was forever cursed by Athena to have the ears of which animal?"
       },
       "tags": [
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "64909c4d58265893a0c86da3",
-      "correctAnswer": "Nevada",
-      "incorrectAnswers": [
-        "Texas",
-        "Oregon",
-        "New Mexico"
-      ],
-      "question": {
-        "text": "Which US state is sandwiched between California and Utah?"
-      },
-      "tags": [
-        "us_states",
-        "usa",
-        "geography",
-        "california",
-        "utah"
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -251,123 +381,88 @@
     },
     {
       "category": "science",
-      "id": "6244373c746187c5e7be933e",
-      "correctAnswer": "It is used for surface purification, bleaching, odour removal and water disinfection.",
+      "id": "622a1c3e7cc59eab6f952285",
+      "correctAnswer": "33",
       "incorrectAnswers": [
-        "It is used as an ingredient in the production of glass, bricks, and ceramics.",
-        "It is used to manufacture dry wall.",
-        "It is used to relieve pain and inflammation."
+        "24",
+        "12",
+        "8"
       ],
       "question": {
-        "text": "What is the chemical sodium hypochlorite often used for?"
+        "text": "How many vertebrae is the average human born with?"
       },
       "tags": [
-        "chemistry",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a885637546cb6c31b8b0b",
-      "correctAnswer": "George Martin",
-      "incorrectAnswers": [
-        "Ralph Hedges",
-        "Norman Jones",
-        "Paul Starkley"
-      ],
-      "question": {
-        "text": "Who was known as 'the fifth Beatle', producing a great deal of The Beatles' music?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62399ed21437c7031fbe41d0",
-      "correctAnswer": "Spain",
-      "incorrectAnswers": [
-        "Italy",
-        "Brazil",
-        "England"
-      ],
-      "question": {
-        "text": "Which country won the 2010 FIFA World Cup, hosted in South Africa?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa2f",
-      "correctAnswer": "Vasily Kandinsky",
-      "incorrectAnswers": [
-        "James Abbott McNeill Whistler",
-        "René Magritte",
-        "Pierre-Auguste Renoir"
-      ],
-      "question": {
-        "text": "Which artist painted \"Composition 8\""
-      },
-      "tags": [
-        "art",
-        "painting",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f25",
-      "correctAnswer": "Hans Christian Andersen",
-      "incorrectAnswers": [
-        "Beatrix Potter",
-        "Søren Kierkegaard",
-        "Oscar Wilde"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Little Match Girl'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624333eacfaae40c1296140f",
-      "correctAnswer": "A Kit",
-      "incorrectAnswers": [
-        "A Joey",
-        "An Eaglet",
-        "A Lava"
-      ],
-      "question": {
-        "text": "What would you call a baby ferret?"
-      },
-      "tags": [
-        "animals",
         "biology",
+        "science",
+        "anatomy",
+        "numbers"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "646140f34d46e537ca8cda27",
+      "correctAnswer": "Tenzing Norgay",
+      "incorrectAnswers": [
+        "Sir Edmund Hillary",
+        "George Mallory",
+        "Reinhold Messner"
+      ],
+      "question": {
+        "text": "Who, with a Swiss team, came within 1,000 feet of the summit of Mount Everest in 1952 before reaching the summit in 1953?"
+      },
+      "tags": [
+        "climbing",
+        "mountains",
+        "people",
+        "history",
+        "1950's"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "646089e1de964ebc39016c95",
+      "correctAnswer": "Sukiyaki",
+      "incorrectAnswers": [
+        "Tempura",
+        "Yakitori",
+        "Sashimi"
+      ],
+      "question": {
+        "text": "Which of these Japanese dishes consists of stir-fried meat and vegetables?"
+      },
+      "tags": [
+        "food_and_drink",
+        "japan",
+        "cuisine",
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95048e",
+      "correctAnswer": "dietetics",
+      "incorrectAnswers": [
+        "intonation in speech",
+        "in ethics, duty",
+        "fossils of ancient life"
+      ],
+      "question": {
+        "text": "What is Sitiology the study of?"
+      },
+      "tags": [
+        "words",
         "science"
       ],
       "type": "text_choice",
@@ -377,17 +472,19 @@
     },
     {
       "category": "science",
-      "id": "6242cb3ad543524f1b19c919",
-      "correctAnswer": "A colony",
+      "id": "622a1c3e7cc59eab6f9522e6",
+      "correctAnswer": "The Castor Bean Plant",
       "incorrectAnswers": [
-        "A covey",
-        "A sedge",
-        "A pace"
+        "Lily of the Valley",
+        "Water Hemlock",
+        "Giant Hogweed"
       ],
       "question": {
-        "text": "What is the word for a group of gulls?"
+        "text": "From which plant is the poison ricin obtained?"
       },
       "tags": [
+        "biology",
+        "plants",
         "science"
       ],
       "type": "text_choice",
@@ -396,61 +493,22 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e46",
-      "correctAnswer": "Lucy Maud Montgomery",
+      "category": "geography",
+      "id": "6233861462eaad73716a8cb0",
+      "correctAnswer": "Boston",
       "incorrectAnswers": [
-        "Alice Munro",
-        "Lewis Carroll",
-        "Margaret Atwood"
+        "Austin",
+        "Atlanta",
+        "Philadelphia"
       ],
       "question": {
-        "text": "Which author wrote 'Anne of Green Gables'?"
+        "text": "In which US city is Beacon Street?"
       },
       "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950196",
-      "correctAnswer": "Hamlet",
-      "incorrectAnswers": [
-        "King Lear",
-        "Julius Caesar",
-        "Othello"
-      ],
-      "question": {
-        "text": "In which Shakespearean tragedy Does Laertes appear?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6488889b5dba6c873ef6506b",
-      "correctAnswer": "Justin Timberlake",
-      "incorrectAnswers": [
-        "Usher",
-        "Bruno Mars",
-        "Ed Sheeran"
-      ],
-      "question": {
-        "text": "Which pop star won the Grammy Award for Best Male Pop Vocal Performance in 2007, with the song \"What Goes Around... Comes Around\"?"
-      },
-      "tags": [
-        "music",
-        "songs"
+        "usa",
+        "cities",
+        "places",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -459,84 +517,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506a0",
-      "correctAnswer": "Naomi Watts",
+      "id": "622a1c347cc59eab6f94fa64",
+      "correctAnswer": "J.K. Simmons",
       "incorrectAnswers": [
-        "Melissa Leo",
-        "Frances Conroy",
-        "Laura Linney"
+        "Robert Duvall",
+        "Ethan Hawke",
+        "Edward Norton"
       ],
       "question": {
-        "text": "Which actress has starred in both Birdman and King Kong?"
+        "text": "Who won the 2014 Academy Award for Best Supporting Actor for playing the role of Fletcher in Whiplash?"
       },
       "tags": [
-        "film_and_tv",
-        "film",
-        "acting"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d0c",
-      "correctAnswer": "The Beatles",
-      "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Uriah Heep"
-      ],
-      "question": {
-        "text": "Which English rock band released the song 'Come Together'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "645c9f5342ea81e2554c5f05",
-      "correctAnswer": "The Truman Show",
-      "incorrectAnswers": [
-        "Eternal Sunshine of the Spotless Mind",
-        "Dead Poet's Society",
-        "The Shawshank Redemption"
-      ],
-      "question": {
-        "text": "Which movie features the quote 'Good morning! And in case I don't see you, good afternoon, good evening, and good night!'?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv",
-        "quotes",
-        "film_quotes"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb4e",
-      "correctAnswer": "The Deer Hunter",
-      "incorrectAnswers": [
-        "Coming Home",
-        "Heaven Can Wait",
-        "Midnight Express"
-      ],
-      "question": {
-        "text": "Which film won the Academy Award for Best Picture in 1978?"
-      },
-      "tags": [
+        "acting",
+        "cult_films",
         "academy_awards",
-        "film",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -546,19 +540,18 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f95007e",
-      "correctAnswer": "Trampoline",
+      "id": "622a1c347cc59eab6f94f858",
+      "correctAnswer": "Football",
       "incorrectAnswers": [
-        "Golf",
-        "Wrestling",
-        "Squash"
+        "Table tennis",
+        "Ice Hockey",
+        "Surfing"
       ],
       "question": {
-        "text": "What sport was first introduced into the Olympics in 2000?"
+        "text": "With which sport is Alex Ferguson associated?"
       },
       "tags": [
-        "olympics",
-        "firsts",
+        "people",
         "sport"
       ],
       "type": "text_choice",
@@ -567,21 +560,22 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "627164a81ba117625baac96c",
-      "correctAnswer": "Pastis",
+      "category": "film_and_tv",
+      "id": "624dba11de6018633d31f6b3",
+      "correctAnswer": "Pierce Brosnan",
       "incorrectAnswers": [
-        "Whisky",
-        "Mastika",
-        "Caesar"
+        "George Lazenby",
+        "Timothy Dalton",
+        "Sean Connery"
       ],
       "question": {
-        "text": "Which of these drinks originates from France?"
+        "text": "Who played the role of James Bond in Tomorrow Never Dies?"
       },
       "tags": [
-        "drink",
-        "alcohol",
-        "food_and_drink"
+        "james_bond",
+        "film",
+        "acting",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -589,19 +583,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c3d7cc59eab6f951c89",
-      "correctAnswer": "Starland Vocal Band",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f72",
+      "correctAnswer": "Stephen King",
       "incorrectAnswers": [
-        "The Galaxy Quartet",
-        "Sirens of Titan",
-        "The Milky Ways"
+        "H. P. Lovecraft",
+        "Edgar Allan Poe",
+        "Jack Vance"
       ],
       "question": {
-        "text": "'Afternoon Delight' was the only major hit for which one-hit-wonder group?"
+        "text": "Which author wrote 'Full Dark, No Stars'?"
       },
       "tags": [
-        "music"
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -609,20 +604,19 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe99",
-      "correctAnswer": "Rihanna",
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504ff",
+      "correctAnswer": "games and play",
       "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Ricky Martin"
+        "blood serum",
+        "the scientific study of baths, bathing and of their application to disease",
+        "word origins"
       ],
       "question": {
-        "text": "Which singer released the song 'You da One'?"
+        "text": "What is Ludology the study of?"
       },
       "tags": [
-        "songs",
-        "music"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -630,22 +624,23 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a16",
-      "correctAnswer": "Marc Antony",
+      "category": "society_and_culture",
+      "id": "6470d79b423445f16131b4cb",
+      "correctAnswer": "Hercules",
       "incorrectAnswers": [
-        "Lepidus",
-        "Marcus Crassus",
-        "Pompey"
+        "Zeus",
+        "Apollo",
+        "Athena"
       ],
       "question": {
-        "text": "Which Roman killed himself after his defeat at Actium?"
+        "text": "Which Roman muscleman is identified with the Celtic God Ogmios and carried a bow and a club?"
       },
       "tags": [
-        "battles",
+        "mythology",
         "romans",
-        "people",
-        "history"
+        "the_ancient_world",
+        "celtic",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
