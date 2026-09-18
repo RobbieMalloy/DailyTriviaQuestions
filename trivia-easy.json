@@ -1,68 +1,25 @@
 {
-  "gameDate": "2026-09-17",
+  "gameDate": "2026-09-18",
   "difficulty": "easy",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "647a125855463d5ce2994fc9",
-      "correctAnswer": "Kentucky Fried Chicken",
+      "category": "science",
+      "id": "6462628cab138b829b81ea35",
+      "correctAnswer": "The Moon",
       "incorrectAnswers": [
-        "McDonald's",
-        "Burger King",
-        "Taco Bell"
+        "The Sun",
+        "Halley's Comet",
+        "Mars"
       ],
       "question": {
-        "text": "Which fast food chain advertises with the slogan\"'It's finger lickin' good!\"?"
+        "text": "What celestial object was the first for humankind to set foot on?"
       },
       "tags": [
-        "marketing",
-        "brands",
-        "food",
-        "food_and_drink",
-        "slogans"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "65056f5a7a97013de78b542a",
-      "correctAnswer": "American Football",
-      "incorrectAnswers": [
-        "Tennis",
-        "Golf",
-        "Swimming"
-      ],
-      "question": {
-        "text": "In which sport can we score a touchdown?"
-      },
-      "tags": [
-        "sport_and_leisure"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "646b3ec40361c7fb32d6b6cb",
-      "correctAnswer": "Blue",
-      "incorrectAnswers": [
-        "Green",
-        "Yellow",
-        "Red"
-      ],
-      "question": {
-        "text": "What color are Smurfs?"
-      },
-      "tags": [
-        "tv",
-        "film_and_tv",
-        "cartoons",
-        "colours"
+        "astronomy",
+        "space",
+        "the_space_race",
+        "space_exploration",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -71,19 +28,21 @@
     },
     {
       "category": "music",
-      "id": "622a1c347cc59eab6f94fbaf",
-      "correctAnswer": "\"Mr. Brightside\" by The Killers",
+      "id": "622a1c357cc59eab6f94fea3",
+      "correctAnswer": "Elton John",
       "incorrectAnswers": [
-        "\"SpongeBob SquarePants Theme\" by Painty the Pirate",
-        "\"Hooked on a Feeling\" by B.J. Thomas",
-        "\"Let's Go Crazy\" by Prince and The Revolution"
+        "Eric Clapton",
+        "Paul McCartney",
+        "Sting"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"Coming out of my cage / And I've been doing just fine...\"?"
+        "text": "Which English singer-songwriter released the song 'Rocket Man'?"
       },
       "tags": [
         "songs",
-        "lyrics",
+        "musicians",
+        "people",
+        "general_knowledge",
         "music"
       ],
       "type": "text_choice",
@@ -93,21 +52,39 @@
     },
     {
       "category": "history",
-      "id": "622a1c347cc59eab6f94f9c4",
-      "correctAnswer": "William J. Clinton",
+      "id": "639ae2d7929b90846f2fc8bb",
+      "correctAnswer": "Raiding",
       "incorrectAnswers": [
-        "Rutherford B. Hayes",
-        "Woodrow Wilson",
-        "Dwight Eisenhower"
+        "Exploration",
+        "Migration",
+        "Trade"
       ],
       "question": {
-        "text": "Who was the 42nd president of the USA, in term during the period 1993–2001?"
+        "text": "What is the name of the Viking practice of sailing off to unknown lands in search of riches and glory?"
       },
       "tags": [
-        "usa",
-        "presidents",
-        "1990's",
-        "history"
+        "history",
+        "vikings"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f95010b",
+      "correctAnswer": "Atlantis",
+      "incorrectAnswers": [
+        "Gondwana",
+        "Pangea",
+        "Europa"
+      ],
+      "question": {
+        "text": "Which ancient continent is said to be submerged?"
+      },
+      "tags": [
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -116,109 +93,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "63d9530a168979b94b2e4f85",
-      "correctAnswer": "Friends",
+      "id": "622a1c347cc59eab6f94fadd",
+      "correctAnswer": "Tom Hanks",
       "incorrectAnswers": [
-        "Seinfeld",
-        "The Simpsons",
-        "Frasier"
+        "Morgan Freeman",
+        "Nigel Hawthorne",
+        "Paul Newman"
       ],
       "question": {
-        "text": "Which popular '90s show featured the character of Ross Geller?"
+        "text": "Who won the 1994 Academy Award for Best Leading Actor for playing the role of Forrest Gump in Forrest Gump?"
       },
       "tags": [
-        "1990's",
-        "film_and_tv",
-        "tv",
-        "sitcoms"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95048d",
-      "correctAnswer": "snakes",
-      "incorrectAnswers": [
-        "disease classification",
-        "prehistoric metaphytes ",
-        "society"
-      ],
-      "question": {
-        "text": "What is Serpentology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbeb",
-      "correctAnswer": "\"I have had it with these mother—— snakes on this mother—— plane!\"",
-      "incorrectAnswers": [
-        "\"Not my tempo.\"",
-        "\"Oh, Jerry, don't let's ask for the moon. We have the stars.\"",
-        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Snakes on a Plane'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056ec57a97013de78b535a",
-      "correctAnswer": "Turkey",
-      "incorrectAnswers": [
-        "Greece",
-        "Italy",
-        "Egypt"
-      ],
-      "question": {
-        "text": "In which country is the Hagia Sophia located?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "architecture",
-        "landmark"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625698509da29df7b05f727f",
-      "correctAnswer": "Samuel L. Jackson",
-      "incorrectAnswers": [
-        "Paul Rudd",
-        "Clark Gregg",
-        "Tom Hiddleston"
-      ],
-      "question": {
-        "text": "Which actor plays the role of Nick Fury in the Marvel Cinematic Universe?"
-      },
-      "tags": [
-        "mcu",
-        "film",
+        "academy_awards",
         "acting",
-        "marvel",
-        "comics",
+        "film",
         "general_knowledge",
         "film_and_tv"
       ],
@@ -228,20 +116,20 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "62573efd9da29df7b05f7380",
-      "correctAnswer": "A man becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "category": "general_knowledge",
+      "id": "6476390bf05ea6d6f587a178",
+      "correctAnswer": "A cascade",
       "incorrectAnswers": [
-        "In order to power the city, beasts have to scare children so that they scream.",
-        "A girl wanders into a world ruled by gods, witches, and spirits, where humans are changed into beasts.",
-        "King Arthur and his Knights embark on a search for a religious relic."
+        "A shuffle",
+        "A fountain",
+        "A reverse"
       ],
       "question": {
-        "text": "What is the plot of the movie Schindler's List?"
+        "text": "What is the most basic juggling pattern?"
       },
       "tags": [
-        "film",
-        "film_and_tv"
+        "general_knowledge",
+        "games"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -249,19 +137,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3b7cc59eab6f9513b2",
-      "correctAnswer": "The Hobbit",
+      "category": "food_and_drink",
+      "id": "65056e8e7a97013de78b530d",
+      "correctAnswer": "Grain",
       "incorrectAnswers": [
-        "Charlotte's Web",
-        "Alice's Adventures in Wonderland",
-        "Bluebeard"
+        "Cheese",
+        "Wine",
+        "Butter"
       ],
       "question": {
-        "text": "In which book does 'Bilbo Baggins' appear?"
+        "text": "What type of food is barley?"
       },
       "tags": [
-        "arts_and_literature"
+        "food_and_drink",
+        "food"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -269,21 +158,21 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "64730759cf09068746f63758",
-      "correctAnswer": "The Triple Jump",
+      "category": "general_knowledge",
+      "id": "65056ef77a97013de78b539f",
+      "correctAnswer": "Adverb",
       "incorrectAnswers": [
-        "Long Jump",
-        "High Jump",
-        "Pole Vault"
+        "Adjective",
+        "Noun",
+        "Conjunction"
       ],
       "question": {
-        "text": "Which athletics event consists of two hops and a jump?"
+        "text": "Which part of speech is 'hastily'?"
       },
       "tags": [
-        "olympics",
-        "track_and_field",
-        "sport"
+        "language",
+        "grammar",
+        "vocabulary"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -292,17 +181,19 @@
     },
     {
       "category": "geography",
-      "id": "623b5859fd6c701a921183b3",
-      "correctAnswer": "Australia",
+      "id": "649b4f4f828109028d236250",
+      "correctAnswer": "The Panama Canal",
       "incorrectAnswers": [
-        "China",
-        "Italy",
-        "France"
+        "The Suez Canal",
+        "The Erie Canal",
+        "The Gulf Intracoastal Waterway"
       ],
       "question": {
-        "text": "In which country would you find the Sydney Opera House?"
+        "text": "What is the name of the 50-mile waterway that stretches from Limon Bay on the Caribbean to the Bridge of the Americas on the Pacific Ocean?"
       },
       "tags": [
+        "canals",
+        "bodies_of_water",
         "geography"
       ],
       "type": "text_choice",
@@ -311,22 +202,19 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "646339ce01d576cfac3aa3ba",
-      "correctAnswer": "Carol",
+      "category": "general_knowledge",
+      "id": "646140784d46e537ca8cd9c1",
+      "correctAnswer": "Buoyancy",
       "incorrectAnswers": [
-        "Blessing",
-        "Chant",
-        "Anthem"
+        "Liquefaction",
+        "Oscillation",
+        "Gravity"
       ],
       "question": {
-        "text": "What is the general term for a Christmas song or hymn?"
+        "text": "What is the term for the tendency of an object to float, or the upward pressure of fluid in an object?"
       },
       "tags": [
-        "music",
-        "traditions",
-        "christmas",
-        "society_and_culture"
+        "words"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -335,17 +223,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9500f1",
-      "correctAnswer": "Thor",
+      "id": "6262884d4b176d54800e3d94",
+      "correctAnswer": "Maybelline",
       "incorrectAnswers": [
-        "Odin",
-        "Baldur",
-        "Heimdall"
+        "L'Oreal",
+        "CoverGirl",
+        "Levis"
       ],
       "question": {
-        "text": "Who is the Norse god of thunder and war?"
+        "text": "Which brand is associated with the marketing slogan 'Maybe she's born with it'?"
       },
       "tags": [
+        "business",
+        "marketing",
+        "fashion",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -354,44 +245,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "648888605dba6c873ef6503d",
-      "correctAnswer": "French toast",
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9507bb",
+      "correctAnswer": "Clint Eastwood",
       "incorrectAnswers": [
-        "Melba toast",
-        "Flatbread",
-        "Egg bathed toast"
+        "Matt Damon",
+        "Robert De Niro",
+        "Sean Connery"
       ],
       "question": {
-        "text": "What is the name of the dish made by dipping bread in a mixture of eggs and milk and frying until golden brown?"
+        "text": "Which actor has featured in films including The Good, the Bad and the Ugly and Million Dollar Baby?"
       },
       "tags": [
-        "breakfast",
-        "cooking",
-        "recipes",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c607b50d1a5e051325a5e",
-      "correctAnswer": "England",
-      "incorrectAnswers": [
-        "Mexico",
-        "Philippines",
-        "Spain"
-      ],
-      "question": {
-        "text": "Fish & Chips is a dish that is most associated with which part of the world?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
+        "film",
+        "acting",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -400,18 +268,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950125",
-      "correctAnswer": "Pig",
+      "id": "6a97ea0cc9cbd5256545a734",
+      "correctAnswer": "TheFacebook",
       "incorrectAnswers": [
-        "Rabbit",
-        "Cow",
-        "Horse"
+        "Facemash",
+        "HarvardConnection",
+        "SocialNet"
       ],
       "question": {
-        "text": "What animal's meat can a Muslim not eat?"
+        "text": "What original name did Mark Zuckerberg give the site he launched from his Harvard dorm?"
       },
       "tags": [
-        "society_and_culture"
+        "startups",
+        "Facebook",
+        "social media"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -419,38 +289,22 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "69a561a52858226c00dd2f7e",
-      "correctAnswer": "Candy",
+      "category": "history",
+      "id": "639c9d90929b90846f2fc953",
+      "correctAnswer": "Barack Obama",
       "incorrectAnswers": [
-        "Wood",
-        "Stone",
-        "Leaves"
+        "Bill Clinton",
+        "George W. Bush",
+        "Donald Trump"
       ],
       "question": {
-        "text": "In 'Hansel and Gretel', what do the children find the witch's house is made of?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c3d7cc59eab6f951c46",
-      "correctAnswer": "Just like the ones I used to know",
-      "incorrectAnswers": [
-        "Sharing kisses in the snow",
-        "We'll be going with the flow",
-        "Walking to your favourite show"
-      ],
-      "question": {
-        "text": "Bing Crosby famously sang 'I'm dreaming of a white Christmas'', what is the next line?"
+        "text": "Which US president served two terms in office as the first African American president?"
       },
       "tags": [
-        "christmas",
-        "lyrics",
+        "history",
+        "2000's",
+        "usa",
+        "presidents",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -459,89 +313,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe0d",
-      "correctAnswer": "Asia",
-      "incorrectAnswers": [
-        "Europe",
-        "Africa",
-        "North America"
-      ],
-      "question": {
-        "text": "Which is the Earth's largest continent?"
-      },
-      "tags": [
-        "records",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262881d4b176d54800e3d89",
-      "correctAnswer": "Energizer",
-      "incorrectAnswers": [
-        "Red Cross",
-        "IBM",
-        "FedEx"
-      ],
-      "question": {
-        "text": "'Keeps going and going and going' is a slogan associated with which brand?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "technology",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262888a4b176d54800e3da4",
-      "correctAnswer": "Motorola",
-      "incorrectAnswers": [
-        "Sony",
-        "Samsung",
-        "Nokia"
-      ],
-      "question": {
-        "text": "'Hello Moto' is a slogan associated with which communications brand?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "technology",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c357cc59eab6f94ff0a",
-      "correctAnswer": "Madonna",
+      "id": "622a1c357cc59eab6f94fef9",
+      "correctAnswer": "Kylie Minogue",
       "incorrectAnswers": [
-        "Eric Clapton",
-        "Nicki Minaj",
-        "Alanis Morissette"
+        "Madonna",
+        "Mika",
+        "Hikaru Utada"
       ],
       "question": {
-        "text": "Who sung 'Material Girl'?"
+        "text": "Which singer released the song 'I Should Be So Lucky'?"
       },
       "tags": [
         "songs",
         "musicians",
-        "general_knowledge",
         "music"
       ],
       "type": "text_choice",
@@ -550,22 +335,41 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "626288af4b176d54800e3dae",
-      "correctAnswer": "Carlsberg",
+      "category": "general_knowledge",
+      "id": "6239f8019129041bf3925cbd",
+      "correctAnswer": "Alpha",
       "incorrectAnswers": [
-        "Heineken",
-        "Fosters",
-        "Budweiser"
+        "Apple",
+        "Animal",
+        "Aeroplan"
       ],
       "question": {
-        "text": "'Probably the best lager in the world' is a slogan associated with which beer brand?"
+        "text": "What word is used in the NATO Phonetic Alphabet for the letter A?"
       },
       "tags": [
-        "business",
-        "marketing",
-        "drink",
-        "society_and_culture"
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "63afff832d1dcedfbb654557",
+      "correctAnswer": "Photography",
+      "incorrectAnswers": [
+        "Painting",
+        "Sculpture",
+        "Architecture"
+      ],
+      "question": {
+        "text": "Which of the following is NOT a type of art commonly associated with the Renaissance?"
+      },
+      "tags": [
+        "history",
+        "renaissance",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -574,15 +378,15 @@
     },
     {
       "category": "science",
-      "id": "6505701e7a97013de78b5538",
-      "correctAnswer": "Chlamydia",
+      "id": "6505700e7a97013de78b5521",
+      "correctAnswer": "Periscope",
       "incorrectAnswers": [
-        "Parkinson's",
-        "Thyroid cancer",
-        "Gastritis"
+        "Episcope",
+        "Stroboscope",
+        "Stethoscope"
       ],
       "question": {
-        "text": "Which is an example of a sexually transmitted disease?"
+        "text": "What is used by submarines to observe the surface from a concealed position?"
       },
       "tags": [
         "science"
@@ -593,19 +397,87 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "65056e497a97013de78b52ad",
-      "correctAnswer": "India",
+      "category": "music",
+      "id": "65056e377a97013de78b5294",
+      "correctAnswer": "Composer",
       "incorrectAnswers": [
-        "United States",
-        "Pakistan",
-        "Australia"
+        "Scientist",
+        "Politician",
+        "Painter"
       ],
       "question": {
-        "text": "Where is the film industry of Bollywood located?"
+        "text": "What was Wolfgang Amadeus Mozart's profession?"
       },
       "tags": [
-        "film_and_tv",
+        "music",
+        "classical",
+        "composer"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056e4f7a97013de78b52b5",
+      "correctAnswer": "1492",
+      "incorrectAnswers": [
+        "1502",
+        "1607",
+        "1776"
+      ],
+      "question": {
+        "text": "In what year did Christopher Columbus first reach the Bahamas?"
+      },
+      "tags": [
+        "history",
+        "exploration",
+        "Christopher Columbus"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6256989c9da29df7b05f7292",
+      "correctAnswer": "Benedict Cumberbatch",
+      "incorrectAnswers": [
+        "Jeff Goldblum",
+        "J.K. Simmons",
+        "Michael Douglas"
+      ],
+      "question": {
+        "text": "Which actor plays the role of Dr Strange in the Marvel Cinematic Universe?"
+      },
+      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056f247a97013de78b53de",
+      "correctAnswer": "Mausoleum",
+      "incorrectAnswers": [
+        "Palace",
+        "Mosque",
+        "Tomb"
+      ],
+      "question": {
+        "text": "What kind of structure is the Taj Mahal?"
+      },
+      "tags": [
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -614,20 +486,87 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ff8a",
-      "correctAnswer": "Kuwait City",
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95139f",
+      "correctAnswer": "Harry Potter",
       "incorrectAnswers": [
-        "Abu Dhabi",
-        "Doha",
-        "Amman"
+        "Voyages Extraordinaires",
+        "Percy Jackson & the Olympians",
+        "Twilight"
       ],
       "question": {
-        "text": "What is the capital of Kuwait?"
+        "text": "In which book series does Lord Voldemort appear?"
       },
       "tags": [
-        "capital_cities",
-        "geography"
+        "fictitious_characters",
+        "childrens_literature",
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe93",
+      "correctAnswer": "Rihanna",
+      "incorrectAnswers": [
+        "Drake",
+        "Nicki Minaj",
+        "Ricky Martin"
+      ],
+      "question": {
+        "text": "Which singer released the song 'S&M'?"
+      },
+      "tags": [
+        "songs",
+        "musicians",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "65056f947a97013de78b547a",
+      "correctAnswer": "Dam",
+      "incorrectAnswers": [
+        "Clam",
+        "Scam",
+        "Lamb"
+      ],
+      "question": {
+        "text": "What is a barrier that blocks flowing water?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "63f39502989356ef48370be1",
+      "correctAnswer": "Apple",
+      "incorrectAnswers": [
+        "Mango",
+        "Papaya",
+        "Pineapple"
+      ],
+      "question": {
+        "text": "Which of these fruits is not a tropical fruit?"
+      },
+      "tags": [
+        "food_and_drink",
+        "food",
+        "fruit"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -636,17 +575,86 @@
     },
     {
       "category": "science",
-      "id": "62433403cfaae40c12961419",
-      "correctAnswer": "A Tadpole",
+      "id": "63d95321168979b94b2e4fa3",
+      "correctAnswer": "Charles Darwin",
       "incorrectAnswers": [
-        "A Calf",
-        "A Piglet",
-        "A Maggot"
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei"
       ],
       "question": {
-        "text": "What would you call a baby frog?"
+        "text": "Who developed the theory of evolution by natural selection?"
       },
       "tags": [
+        "science",
+        "scientific_discoveries"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3c7cc59eab6f951889",
+      "correctAnswer": "Apples",
+      "incorrectAnswers": [
+        "Bananas",
+        "Cherries",
+        "Carrots"
+      ],
+      "question": {
+        "text": "What Would You Traditionally 'Bob' For At Halloween?"
+      },
+      "tags": [
+        "halloween",
+        "traditions",
+        "food",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "645b9ebcf09106226db23571",
+      "correctAnswer": "Spinach",
+      "incorrectAnswers": [
+        "Kale",
+        "Broccoli",
+        "Cabbage"
+      ],
+      "question": {
+        "text": "Which vegetable did Popeye love to eat from a can?"
+      },
+      "tags": [
+        "nutrition",
+        "vegetables",
+        "food_and_drink",
+        "food",
+        "cartoons"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510c8",
+      "correctAnswer": "Reptiles",
+      "incorrectAnswers": [
+        "Mammals",
+        "Amphibians",
+        "Lizards"
+      ],
+      "question": {
+        "text": "Marine iguanas, saltwater crocodiles, sea snakes, and sea turtles are the only surviving seawater __________"
+      },
+      "tags": [
+        "animals",
         "science"
       ],
       "type": "text_choice",
