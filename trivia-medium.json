@@ -1,18 +1,547 @@
 {
-  "gameDate": "2026-09-22",
+  "gameDate": "2026-09-23",
   "difficulty": "medium",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b10",
-      "correctAnswer": "The Cranberries",
+      "category": "film_and_tv",
+      "id": "62573f679da29df7b05f739a",
+      "correctAnswer": "City Lights",
       "incorrectAnswers": [
-        "The Corrs",
-        "Boyzone",
-        "Thin Lizzy"
+        "Pulp Fiction",
+        "The Terminator",
+        "The Truman Show"
       ],
       "question": {
-        "text": "Which Irish rock band released the single 'Zombie'?"
+        "text": "Name the movie that matches the following plot summary: 'A tramp who has fallen in love with a blind flower girl saves money to help her medically.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950df8",
+      "correctAnswer": "Isaac Newton",
+      "incorrectAnswers": [
+        "Daniel Defoe",
+        "Percy Bysshe Shelley",
+        "Walter Scott"
+      ],
+      "question": {
+        "text": "Which author wrote 'Philosophiae Naturalis Principia Mathematica'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9e96796f721e95543f5f",
+      "correctAnswer": "Nine horizontal stripes of blue and white, with a blue square in the top left containing a white cross.",
+      "incorrectAnswers": [
+        "Red with a white crescent moon and star.",
+        "Three equal horizontal bands of white, blue, and red",
+        "Red with five yellow stars in the top left."
+      ],
+      "question": {
+        "text": "What does the flag of Greece look like?"
+      },
+      "tags": [
+        "flags",
+        "greece"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "649c8996e3aef0a3c23f63f6",
+      "correctAnswer": "Krypton",
+      "incorrectAnswers": [
+        "Argon",
+        "Helium",
+        "Xenon"
+      ],
+      "question": {
+        "text": "In 1898, which noble gas was discovered and named after the Greek word for 'hidden'?"
+      },
+      "tags": [
+        "science",
+        "chemistry",
+        "chemical_elements",
+        "scientific_discoveries"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f9512f0",
+      "correctAnswer": "Macbeth",
+      "incorrectAnswers": [
+        "Richard III",
+        "Hamlet",
+        "Romeo & Juliet"
+      ],
+      "question": {
+        "text": "Name the Shakespeare play from this plot summary: \"Urged on by his wife, a man murders his king in order to take his place\"."
+      },
+      "tags": [
+        "arts_and_literature",
+        "theater",
+        "shakespeare"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9506c8",
+      "correctAnswer": "Kevin Spacey",
+      "incorrectAnswers": [
+        "Russell Crowe",
+        "Jean-Claude Van Damme",
+        "John Turturro"
+      ],
+      "question": {
+        "text": "Which actor has appeared in films including House of Cards and Superman Returns?"
+      },
+      "tags": [
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624437a7746187c5e7be9368",
+      "correctAnswer": "It is used in thermometers, thermostats, barometers",
+      "incorrectAnswers": [
+        "It is used as an ingredient in baking.",
+        "It is used as an ingredient in the production of glass, bricks, and ceramics.",
+        "It is used in disinfectants and antiseptics."
+      ],
+      "question": {
+        "text": "What is the chemical mercury often used for?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdd4",
+      "correctAnswer": "Bruno Mars",
+      "incorrectAnswers": [
+        "Jason Mraz",
+        "Ne-Yo",
+        "Usher"
+      ],
+      "question": {
+        "text": "Which American musician released the song 'Just the Way You Are'?"
+      },
+      "tags": [
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f95198a",
+      "correctAnswer": "It Was Sold To The United States",
+      "incorrectAnswers": [
+        "It had the most deadly volcanic eruption in history",
+        "The first recorded meteor impact",
+        "It declared independence"
+      ],
+      "question": {
+        "text": "What Happened To Alaska In 1867?"
+      },
+      "tags": [
+        "us_states",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503b0",
+      "correctAnswer": "Tibet",
+      "incorrectAnswers": [
+        "Bhutan",
+        "Nepal",
+        "Mongolia"
+      ],
+      "question": {
+        "text": "Which country did China invade on Christmas day 1950"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242cb6bd543524f1b19c92c",
+      "correctAnswer": "A parliament",
+      "incorrectAnswers": [
+        "A host",
+        "A nest",
+        "A yoke"
+      ],
+      "question": {
+        "text": "What is the word for a group of owls?"
+      },
+      "tags": [
+        "names",
+        "animals",
+        "birds",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056f0b7a97013de78b53bb",
+      "correctAnswer": "Laser",
+      "incorrectAnswers": [
+        "Kodachrome",
+        "Television",
+        "Atomic Bomb"
+      ],
+      "question": {
+        "text": "Which of the following technologies was developed most recently?"
+      },
+      "tags": [
+        "history",
+        "technology"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6239f8219129041bf3925cc9",
+      "correctAnswer": "Mike",
+      "incorrectAnswers": [
+        "Mambo",
+        "Mauritius",
+        "Mendip"
+      ],
+      "question": {
+        "text": "What word is used in the NATO Phonetic Alphabet for the letter M?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcb6",
+      "correctAnswer": "Afroasiatic",
+      "incorrectAnswers": [
+        "Indo-European",
+        "Koreanic",
+        "Dravidian"
+      ],
+      "question": {
+        "text": "The language 'Somali' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950512",
+      "correctAnswer": "Sleep",
+      "incorrectAnswers": [
+        "Radiation",
+        "Earth materials",
+        "The eyes"
+      ],
+      "question": {
+        "text": "What is Hypnology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "649fe02bebb41911d4cbd6e9",
+      "correctAnswer": "Valet",
+      "incorrectAnswers": [
+        "Chef",
+        "Doctor",
+        "Assassin"
+      ],
+      "question": {
+        "text": "In P.G. Wodehouse's novels, what is the job that Jeeves has? "
+      },
+      "tags": [
+        "arts_and_literature",
+        "fictitious_characters",
+        "occupations",
+        "literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6242e83aa22452794eaef20a",
+      "correctAnswer": "The Irons",
+      "incorrectAnswers": [
+        "Cottagers",
+        "The Hatters",
+        "The Reds"
+      ],
+      "question": {
+        "text": "What is the nickname of the English football team West Ham United?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c357cc59eab6f95001f",
+      "correctAnswer": "Boxing",
+      "incorrectAnswers": [
+        "Karate",
+        "Kickboxing",
+        "Judo"
+      ],
+      "question": {
+        "text": "With Which Sport Would You Associate A Lonsdale Belt?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63b0586f4799123c67712f2a",
+      "correctAnswer": "Pound",
+      "incorrectAnswers": [
+        "Euro",
+        "Dollar",
+        "Shilling"
+      ],
+      "question": {
+        "text": "What is the name of the British currency?"
+      },
+      "tags": [
+        "uk",
+        "society_and_culture",
+        "currency"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fade",
+      "correctAnswer": "Michael Douglas",
+      "incorrectAnswers": [
+        "William Hurt",
+        "Marcello Mastroianni",
+        "Jack Nicholson"
+      ],
+      "question": {
+        "text": "Who won the 1987 Academy Award for Best Leading Actor for playing the role of Gordon Gekko in Wall Street?"
+      },
+      "tags": [
+        "academy_awards",
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6243356bcfaae40c129614a6",
+      "correctAnswer": "A Larva",
+      "incorrectAnswers": [
+        "An Elver",
+        "A Kitten",
+        "An Owlet"
+      ],
+      "question": {
+        "text": "What is the word for a young termite?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "647f9de83a4302a719271654",
+      "correctAnswer": "Brandy",
+      "incorrectAnswers": [
+        "Gin",
+        "Wine",
+        "Whiskey"
+      ],
+      "question": {
+        "text": "Made in France, what type of alcohol is Armagnac?"
+      },
+      "tags": [
+        "alcohol",
+        "france",
+        "drink",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a3e",
+      "correctAnswer": "Thermopylae",
+      "incorrectAnswers": [
+        "Marathon",
+        "Corinth",
+        "Troy"
+      ],
+      "question": {
+        "text": "Where was the Greek army of Leonides annihilated by Persians in 480BC?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950318",
+      "correctAnswer": "John Adams",
+      "incorrectAnswers": [
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "George Washington"
+      ],
+      "question": {
+        "text": "Who was the second President of the USA?"
+      },
+      "tags": [
+        "people",
+        "presidents",
+        "usa",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504c3",
+      "correctAnswer": "illness",
+      "incorrectAnswers": [
+        "the classical Chinese literary masterpiece Dream of the Red Chamber",
+        "the practice of escaping from restraints or other traps",
+        "fermentation"
+      ],
+      "question": {
+        "text": "What is Pathology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bb8",
+      "correctAnswer": "Simon & Garfunkel",
+      "incorrectAnswers": [
+        "The Everly Brothers",
+        "The Righteous Brothers",
+        "Hall & Oates"
+      ],
+      "question": {
+        "text": "Which American music duo released the studio album 'Bridge over Troubled Water'?"
       },
       "tags": [
         "music"
@@ -23,45 +552,18 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "63f394fe989356ef48370bd8",
-      "correctAnswer": "Mount Fuji",
-      "incorrectAnswers": [
-        "Mount Yari",
-        "Mount Ontake",
-        "Mount Hakusan"
-      ],
-      "question": {
-        "text": "What is the name of the highest mountain in Japan?"
-      },
-      "tags": [
-        "geography",
-        "japan",
-        "mountains"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "622a1c367cc59eab6f95032e",
-      "correctAnswer": "Abraham Lincoln",
+      "id": "622a1c3d7cc59eab6f951c5c",
+      "correctAnswer": "Macedon",
       "incorrectAnswers": [
-        "Barack Obama",
-        "John Adams",
-        "Ronald Reagan"
+        "Thrace",
+        "Epirus",
+        "Mycenae"
       ],
       "question": {
-        "text": "Who was the first US president born outside the orginal 13 states"
+        "text": "Alexander the Great was king of which kingdom?"
       },
       "tags": [
-        "presidents",
-        "usa",
-        "us_states",
-        "people",
-        "leaders",
         "history"
       ],
       "type": "text_choice",
@@ -71,17 +573,20 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f9510a1",
-      "correctAnswer": "Crocodile",
+      "id": "622a1c397cc59eab6f950fc2",
+      "correctAnswer": "Alfred Nobel",
       "incorrectAnswers": [
-        "Kangaroo",
-        "Cow",
-        "Goliath Spider"
+        "Nikola Tesla",
+        "Thomas Edison",
+        "Leonardo da Vinci"
       ],
       "question": {
-        "text": "The __________ does not chew its food, but swallows it whole."
+        "text": "Who invented dynamite?"
       },
       "tags": [
+        "inventions",
+        "chemistry",
+        "people",
         "science"
       ],
       "type": "text_choice",
@@ -90,111 +595,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950efe",
-      "correctAnswer": "Victor Hugo",
-      "incorrectAnswers": [
-        "Alphonse Daudet",
-        "Jules Verne",
-        "Miguel de Cervantes"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Hunchback of Notre Dame'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "622a1c3e7cc59eab6f9522d7",
-      "correctAnswer": "Wood",
+      "id": "622a1c3a7cc59eab6f9510af",
+      "correctAnswer": "Pascal",
       "incorrectAnswers": [
-        "Sand",
-        "Earth",
-        "Clay"
+        "Borland",
+        "Newton",
+        "Ohm"
       ],
       "question": {
-        "text": "From What material do wasps build their nests?"
+        "text": "Name The SI Unit Of Pressure"
       },
       "tags": [
-        "animals",
-        "materials",
-        "science",
-        "biology"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f951725",
-      "correctAnswer": "Lee Harvey Oswald",
-      "incorrectAnswers": [
-        "John Wilkes Booth",
-        "Gerald Ford",
-        "Mark David Chapman"
-      ],
-      "question": {
-        "text": "Who assassinated president Kennedy?"
-      },
-      "tags": [
-        "history",
-        "assassinations",
-        "presidents",
-        "usa",
-        "people",
-        "events"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64e6fda00b79e5bedd55c8ca",
-      "correctAnswer": "Quinoa",
-      "incorrectAnswers": [
-        "Amaranth",
-        "Barley",
-        "Buckwheat"
-      ],
-      "question": {
-        "text": "Which high-protein grain, related to spinach, was known as the \"gold of the Incas\"?"
-      },
-      "tags": [
-        "grains",
-        "superfoods",
-        "ancient civilizations"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501b6",
-      "correctAnswer": "Oliver Twist",
-      "incorrectAnswers": [
-        "Germinal",
-        "Eine Geschichte des Universums in 100 Sternen",
-        "Madame Bovary"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'Among other public buildings in a certain town, which for many reasons it will be prudent to refrain from mentioning, and to which I will assign no fictitious name, there is one anciently common to most towns, great or small: to wit, a workhouse; and in this workhouse was born; on a day and date which I need not trouble myself to repeat, inasmuch as it can be of no possible consequence to the'?"
-      },
-      "tags": [
-        "quotes",
-        "literature",
-        "arts_and_literature"
+        "words",
+        "physics",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -203,455 +618,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95067c",
-      "correctAnswer": "Jodie Foster",
+      "id": "622a1c367cc59eab6f9501f1",
+      "correctAnswer": "Christopher Nolan",
       "incorrectAnswers": [
-        "Frances Fisher",
-        "Rachel Weisz",
-        "Salma Hayek"
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
       ],
       "question": {
-        "text": "Which actress has starred in both The Silence of the Lambs and Taxi Driver?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9517c7",
-      "correctAnswer": "Captain Vancouver",
-      "incorrectAnswers": [
-        "Captain Alaska",
-        "Captain Washington",
-        "Captain Canada"
-      ],
-      "question": {
-        "text": "Which explorer is best known for exploring and surveying  North America's northwest Pacific coast regions?"
-      },
-      "tags": [
-        "history",
-        "people",
-        "exploration"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f7b9da29df7b05f739f",
-      "correctAnswer": "Two magicians in 1890s London engage in a battle to create the ultimate illusion.",
-      "incorrectAnswers": [
-        "An insurance representative lets a housewife seduce him into a scheme of insurance fraud and murder.",
-        "A stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.",
-        "The life of a boxer whose temper led him to the top in the ring, but destroyed his life outside of it."
-      ],
-      "question": {
-        "text": "What is the plot of the movie The Prestige?"
+        "text": "Which director directed Batman Begins?"
       },
       "tags": [
         "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950279",
-      "correctAnswer": "England ",
-      "incorrectAnswers": [
-        "The Netherlands",
-        "Belgium",
-        "France"
-      ],
-      "question": {
-        "text": "Which Country Is The Source Of Stilton Cheese?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500a6",
-      "correctAnswer": "110m Hurdles",
-      "incorrectAnswers": [
-        "Pole Vault",
-        "Discus",
-        "Steeple Chase"
-      ],
-      "question": {
-        "text": "In Which Athletic Event Was Colin Jackson A Dominant Figure?"
-      },
-      "tags": [
-        "people",
-        "athletics",
-        "olympics",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6398984d5c9a75021f310476",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "White",
-        "Rosé",
-        "Sparkling"
-      ],
-      "question": {
-        "text": "What type of wine is Beaujolais Nouveau?"
-      },
-      "tags": [
-        "food_and_drink",
-        "wine",
-        "drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63b0587f4799123c67712f44",
-      "correctAnswer": "Cinco de Mayo",
-      "incorrectAnswers": [
-        "Día de la Independencia",
-        "Día de los Muertos",
-        "Día de la Revolución"
-      ],
-      "question": {
-        "text": "What is the name of the Mexican national holiday which celebrates Mexico's victory over France at the Battle of Puebla?"
-      },
-      "tags": [
-        "mexico",
-        "society_and_culture",
-        "celebrations",
-        "battles"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056e727a97013de78b52e6",
-      "correctAnswer": "Calcutta",
-      "incorrectAnswers": [
-        "Pretoria",
-        "Nairobi",
-        "Jerusalem"
-      ],
-      "question": {
-        "text": "In which city did Mother Teresa establish the Missionaries of Charity?"
-      },
-      "tags": [
-        "history",
-        "religion",
-        "biography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f89",
-      "correctAnswer": "Stephen King",
-      "incorrectAnswers": [
-        "H. P. Lovecraft",
-        "Edgar Allan Poe",
-        "Jack Vance"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Stand'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6243353ecfaae40c12961494",
-      "correctAnswer": "A Pup",
-      "incorrectAnswers": [
-        "A Caterpillar",
-        "A Cygnet",
-        "A Calf"
-      ],
-      "question": {
-        "text": "What is a baby seal known as?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6462624dab138b829b81e9e5",
-      "correctAnswer": "Martha's Vineyard",
-      "incorrectAnswers": [
-        "Long Island",
-        "Block Island",
-        "Cape Cod"
-      ],
-      "question": {
-        "text": "What is the name of the largest island in Massachusetts, famous for its lush scenery, beaches and celebrity sightings?"
-      },
-      "tags": [
-        "islands",
-        "massachusetts",
-        "usa",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62433569cfaae40c129614a5",
-      "correctAnswer": "A Cygnet",
-      "incorrectAnswers": [
-        "A Spiderling",
-        "A Colt",
-        "A Swanling"
-      ],
-      "question": {
-        "text": "A young swan is known as what?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "63bc3f990e893d6e5a6a0fc1",
-      "correctAnswer": "Cannoli",
-      "incorrectAnswers": [
-        "Bomboloni",
-        "Kringle",
-        "Torti"
-      ],
-      "question": {
-        "text": "What is the name of an Italian pastry made of deep-fried dough shaped into a tube and filled with custard or cream?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink",
-        "pastry",
-        "baking",
-        "italy"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "64746b3e5a4c31088dd9d037",
-      "correctAnswer": "Gandalf",
-      "incorrectAnswers": [
-        "Saruman",
-        "Radagast",
-        "Merlin"
-      ],
-      "question": {
-        "text": "In J.R.R. Tolkien's Middle-earth stories, which wizard gets promoted from \"the Grey\" to \"the White\"?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "literature",
-        "fantasy",
-        "fictitious_characters"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6476390bf05ea6d6f587a16f",
-      "correctAnswer": "Tokyo",
-      "incorrectAnswers": [
-        "Kyoto",
-        "Osaka",
-        "Nagoya"
-      ],
-      "question": {
-        "text": "In which city is Edo Castle located?"
-      },
-      "tags": [
-        "architecture",
-        "japan",
-        "tourist_attractions",
-        "castles",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d5f0f96c4efe8d773c0",
-      "correctAnswer": "New York Giants",
-      "incorrectAnswers": [
-        "New York Predators",
-        "New York Raiders",
-        "New York Lions"
-      ],
-      "question": {
-        "text": "Which of these is an American Football team based in New York?"
-      },
-      "tags": [
-        "new_york",
-        "football",
-        "nfl",
-        "usa",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3a7cc59eab6f9511da",
-      "correctAnswer": "Osiris",
-      "incorrectAnswers": [
-        "Isis",
-        "Horus",
-        "Imhotep"
-      ],
-      "question": {
-        "text": "In Egyptian mythology, who is the god of the underworld?"
-      },
-      "tags": [
-        "society_and_culture",
-        "ancient_egypt",
-        "mythology"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "647edb90520523194910c35a",
-      "correctAnswer": "Verona",
-      "incorrectAnswers": [
-        "Venice",
-        "Florence",
-        "Rome"
-      ],
-      "question": {
-        "text": "What Italian city is the setting for the opening of 'Romeo & Juliet'?"
-      },
-      "tags": [
-        "italy",
-        "shakespeare",
-        "arts_and_literature",
-        "cities",
-        "theater"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "6242e83da22452794eaef20b",
-      "correctAnswer": "Wolves",
-      "incorrectAnswers": [
-        "Cottagers",
-        "The Cherries",
-        "The Boro"
-      ],
-      "question": {
-        "text": "What is the nickname of the English football team Wolverhampton Wanderers?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e3e",
-      "correctAnswer": "George Orwell",
-      "incorrectAnswers": [
-        "Joseph Conrad",
-        "Virginia Woolf",
-        "Charles Dickens"
-      ],
-      "question": {
-        "text": "Which author wrote 'Nineteen Eighty-Four'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740d49da29df7b05f73fb",
-      "correctAnswer": "A law enforcement agent pursues four replicants who have returned to Earth to find their creator.",
-      "incorrectAnswers": [
-        "A man houses over a thousand Tutsi refugees during their struggle against the Hutu militia.",
-        "When a serial killer murders key political figures, a vigilante is forced to intervene.",
-        "An insurance representative lets a housewife seduce him into a scheme of insurance fraud and murder."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Blade Runner?"
-      },
-      "tags": [
-        "film",
+        "dc",
+        "batman",
         "film_and_tv"
       ],
       "type": "text_choice",
