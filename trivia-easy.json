@@ -1,106 +1,23 @@
 {
-  "gameDate": "2026-09-23",
+  "gameDate": "2026-09-24",
   "difficulty": "easy",
   "results": [
     {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950ae8",
-      "correctAnswer": "Germany",
-      "incorrectAnswers": [
-        "Liechtenstein",
-        "United Kingdom",
-        "San Marino"
-      ],
-      "question": {
-        "text": "Which of these countries borders France?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056eec7a97013de78b5390",
-      "correctAnswer": "Abacus",
-      "incorrectAnswers": [
-        "Tribulus",
-        "Chakram",
-        "Marimba"
-      ],
-      "question": {
-        "text": "Which of these devices was historically used to perform arithmetic?"
-      },
-      "tags": [
-        "history",
-        "science",
-        "mathematics"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "6293ec087f41d6338b96eed2",
-      "correctAnswer": "Military and political leader of the Mongols.",
+      "id": "65056fa27a97013de78b548d",
+      "correctAnswer": "Kiwi",
       "incorrectAnswers": [
-        "Engineer who helped develop radio transmission.",
-        "Political philosopher who promoted a theory of liberal democracy and a social contract.",
-        "Inventor of the printing press."
+        "Tui",
+        "Bellbird",
+        "Moa"
       ],
       "question": {
-        "text": "Which of the following describes Genghis Kahn?"
+        "text": "What is the national bird of New Zealand?"
       },
       "tags": [
-        "people",
-        "history",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "646089a9de964ebc39016c65",
-      "correctAnswer": "Comb",
-      "incorrectAnswers": [
-        "Pliers",
-        "Scissor",
-        "Razor"
-      ],
-      "question": {
-        "text": "What is the name of the toothed object commonly used to straighten hair?"
-      },
-      "tags": [
-        "tools",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d2b",
-      "correctAnswer": "The Beatles",
-      "incorrectAnswers": [
-        "The Rolling Stones",
-        "The Kinks",
-        "The Who"
-      ],
-      "question": {
-        "text": "Which English rock band released the song 'I Want to Hold Your Hand'?"
-      },
-      "tags": [
-        "music"
+        "national_symbols",
+        "New Zealand",
+        "birds"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -109,15 +26,15 @@
     },
     {
       "category": "science",
-      "id": "65056fd27a97013de78b54ce",
-      "correctAnswer": "Gravity",
+      "id": "65056fbd7a97013de78b54b1",
+      "correctAnswer": "Extinction",
       "incorrectAnswers": [
-        "Friction",
-        "Magnetic force",
-        "Air resistance"
+        "Adaptation",
+        "Evolution",
+        "Migration"
       ],
       "question": {
-        "text": "What force keeps the water in the oceans?"
+        "text": "What is the death of an entire species?"
       },
       "tags": [
         "science"
@@ -128,279 +45,16 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fb91",
-      "correctAnswer": "\"Bohemian Rhapsody\" by Queen",
-      "incorrectAnswers": [
-        "\"Let it Be\" by the Beatles",
-        "\"SpongeBob SquarePants Theme\" by Painty the Pirate",
-        "\"In da Club\" by 50 Cent"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"Is this the real life? Is this just fantasy?\"?"
-      },
-      "tags": [
-        "lyrics",
-        "songs",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64860e82113d76c6b63179fc",
-      "correctAnswer": "Hebrew",
-      "incorrectAnswers": [
-        "Arabic",
-        "English",
-        "Greek"
-      ],
-      "question": {
-        "text": "What is the official language of Israel?"
-      },
-      "tags": [
-        "countries",
-        "israel",
-        "languages",
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eac",
-      "correctAnswer": "J. K. Rowling",
-      "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Tales of Beedle the Bard'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc2d",
-      "correctAnswer": "\"You're gonna need a bigger boat.\"",
-      "incorrectAnswers": [
-        "\"A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.\"",
-        "\"Wait a minute, wait a minute. You ain't heard nothin' yet!\"",
-        "\"Mother of mercy, is this the end of Rico?\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Jaws'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c2a",
-      "correctAnswer": "ABBA",
-      "incorrectAnswers": [
-        "In Flames",
-        "HammerFall",
-        "Katatonia"
-      ],
-      "question": {
-        "text": "Which Swedish pop group released the song 'Thank You for the Music'?"
-      },
-      "tags": [
-        "pop_music",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f95100a",
-      "correctAnswer": "The Universe",
+      "id": "622a1c3a7cc59eab6f951048",
+      "correctAnswer": "Acidity Or Alkalinity",
       "incorrectAnswers": [
-        "The Milky Way",
-        "Andromeda",
-        "Infinity"
+        "Radiation",
+        "Wind Speed",
+        "Gravity"
       ],
       "question": {
-        "text": "What was created with the big bang?"
-      },
-      "tags": [
-        "physics",
-        "general_knowledge",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6463394f01d576cfac3aa33a",
-      "correctAnswer": "Hit and run",
-      "incorrectAnswers": [
-        "Crush and leave",
-        "Drive and go",
-        "Smack and flee"
-      ],
-      "question": {
-        "text": "What is the term used to describe an accident in which the driver flees the scene?"
-      },
-      "tags": [
-        "driving",
-        "law",
-        "society_and_culture",
-        "phrases"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056e907a97013de78b530f",
-      "correctAnswer": "Belarus",
-      "incorrectAnswers": [
-        "Italy",
-        "France",
-        "United Kingdom"
-      ],
-      "question": {
-        "text": "Which of these countries was once part of the Soviet Union?"
-      },
-      "tags": [
-        "history",
-        "soviet union"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63b058714799123c67712f2d",
-      "correctAnswer": "Ruble",
-      "incorrectAnswers": [
-        "Euro",
-        "Dinar",
-        "Leck"
-      ],
-      "question": {
-        "text": "What is the Russian currency?"
-      },
-      "tags": [
-        "russia",
-        "currency",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262af5d4b176d54800e3dc1",
-      "correctAnswer": "What The Fuck",
-      "incorrectAnswers": [
-        "When To Feed",
-        "With Total Frustration",
-        "Want To Fail"
-      ],
-      "question": {
-        "text": "What do people mean when type the letters 'WTF' in a message on the internet?"
-      },
-      "tags": [
-        "the_internet",
-        "initials",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcb7",
-      "correctAnswer": "Indo-European",
-      "incorrectAnswers": [
-        "Sino-Tibetan",
-        "Turkic",
-        "Niger–Congo"
-      ],
-      "question": {
-        "text": "The language 'Greek' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b96",
-      "correctAnswer": "The Jackson 5",
-      "incorrectAnswers": [
-        "The Osmonds",
-        "The Sylvers",
-        "The Partridge Family"
-      ],
-      "question": {
-        "text": "Which American pop music family group released the song 'I Want You Back'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6243347acfaae40c12961447",
-      "correctAnswer": "A Mare",
-      "incorrectAnswers": [
-        "A Hen",
-        "A Hembra",
-        "A Jill"
-      ],
-      "question": {
-        "text": "A female horse is known as what?"
+        "text": "What Is PH A Measure Of"
       },
       "tags": [
         "science"
@@ -412,20 +66,19 @@
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f951555",
-      "correctAnswer": "Samosa",
+      "id": "64a094bccf8fd58080ceffdd",
+      "correctAnswer": "Jamaica",
       "incorrectAnswers": [
-        "Pakora",
-        "Curry",
-        "Bhaji"
+        "Cuba",
+        "Mexico",
+        "Brazil"
       ],
       "question": {
-        "text": "What name is given to an Indian deep fried triangular pastry?"
+        "text": "Where did jerk chicken originate?"
       },
       "tags": [
+        "cuisine",
         "food",
-        "india",
-        "pastry",
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -434,66 +87,19 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "625740ec9da29df7b05f7402",
-      "correctAnswer": "Jaws",
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f950122",
+      "correctAnswer": "Vampires",
       "incorrectAnswers": [
-        "The Silence of the Lambs",
-        "The Good, the Bad and the Ugly",
-        "Platoon"
+        "Ghosts",
+        "Witches",
+        "Werewolves"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'A killer shark unleashes chaos on a beach community.'"
+        "text": "What has no reflection, no shadow, and can't stand the smell of garlic"
       },
       "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbf7",
-      "correctAnswer": "\"A martini. Shaken, not stirred.\"",
-      "incorrectAnswers": [
-        "\"Elementary, my dear Watson.\"",
-        "\"Carpe diem. Seize the day, boys. Make your lives extraordinary.\"",
-        "\"Go ahead, make my day.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Goldfinger'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b20",
-      "correctAnswer": "Spice Girls",
-      "incorrectAnswers": [
-        "The Supremes",
-        "TLC",
-        "All Saints"
-      ],
-      "question": {
-        "text": "Which band was Geri Halliwell a member of?"
-      },
-      "tags": [
-        "people",
-        "music",
-        "pop_music",
-        "bands"
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -502,40 +108,18 @@
     },
     {
       "category": "science",
-      "id": "624333a7cfaae40c129613f6",
-      "correctAnswer": "A Bitch",
+      "id": "6243336dcfaae40c129613df",
+      "correctAnswer": "A Kitten",
       "incorrectAnswers": [
-        "A Jill",
-        "A Gander",
-        "A Tigeress"
+        "An Eyas",
+        "A Cygnet",
+        "A Cria"
       ],
       "question": {
-        "text": "What is the word for a female dog?"
+        "text": "What is the word for a young cat?"
       },
       "tags": [
         "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6266e58cff2394bd44dee007",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Yellow",
-        "Nine",
-        "Black"
-      ],
-      "question": {
-        "text": "In French, what is the meaning of the word 'rouge'?"
-      },
-      "tags": [
-        "language",
-        "translations",
-        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -544,20 +128,21 @@
     },
     {
       "category": "geography",
-      "id": "62602e064b176d54800e3cbc",
-      "correctAnswer": "Napoli",
+      "id": "622a1c357cc59eab6f94ffe6",
+      "correctAnswer": "Paris",
       "incorrectAnswers": [
-        "Dublin",
-        "Leipzig",
-        "Athens"
+        "Strasbourg",
+        "Lyon",
+        "Nantes"
       ],
       "question": {
-        "text": "Which of these cities is in Italy?"
+        "text": "What is the capital of France?"
       },
       "tags": [
-        "cities",
+        "capital_cities",
         "europe",
-        "italy",
+        "france",
+        "general_knowledge",
         "geography"
       ],
       "type": "text_choice",
@@ -566,21 +151,50 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "647f9df73a4302a719271695",
-      "correctAnswer": "Pawns",
+      "category": "history",
+      "id": "622a1c3b7cc59eab6f951707",
+      "correctAnswer": "Adolf Hitler",
       "incorrectAnswers": [
-        "Bishops",
-        "Knights",
-        "Rooks"
+        "Hermann Müller",
+        "Konrad Adenauer",
+        "Angela Merkel"
       ],
       "question": {
-        "text": "Which chess piece is the most common?"
+        "text": "Who became chancellor of Germany in 1933?"
       },
       "tags": [
-        "chess",
-        "board_games",
-        "games"
+        "history",
+        "politics",
+        "germany",
+        "europe",
+        "leaders",
+        "1930's",
+        "world_war_2",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "645cb0e67d263fd50970438a",
+      "correctAnswer": "Muhammad Ali",
+      "incorrectAnswers": [
+        "Michael Jordan",
+        "Tiger Woods",
+        "Kobe Bryant"
+      ],
+      "question": {
+        "text": "What sports icon did Will Smith portray to receive an Oscar nomination in 2002?"
+      },
+      "tags": [
+        "acting",
+        "sport",
+        "film",
+        "film_and_tv",
+        "academy_awards"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -589,19 +203,18 @@
     },
     {
       "category": "science",
-      "id": "622a1c3c7cc59eab6f951924",
-      "correctAnswer": "A Reindeer",
+      "id": "622a1c377cc59eab6f9504c4",
+      "correctAnswer": "parasites",
       "incorrectAnswers": [
-        "A Whale",
-        "A Mouse",
-        "A Spider"
+        "crime",
+        "nutrition",
+        "the signification and application of words"
       ],
       "question": {
-        "text": "What type of animal is a caribou?"
+        "text": "What is Parasitology the study of?"
       },
       "tags": [
-        "animals",
-        "names",
+        "words",
         "science"
       ],
       "type": "text_choice",
@@ -611,20 +224,339 @@
     },
     {
       "category": "society_and_culture",
-      "id": "647f9def3a4302a71927168a",
-      "correctAnswer": "Dreadlocks",
+      "id": "645fcc80541c4d4fc8cf3084",
+      "correctAnswer": "Siesta",
       "incorrectAnswers": [
-        "Buzz cut",
-        "Mullet",
-        "Comb over"
+        "Fiesta",
+        "Naptime",
+        "Asleepta"
       ],
       "question": {
-        "text": "Which hairstyle, characterized by long, matted or coiled strands of hair, was sported by Lennox Lewis, Lenny Kravitz, and Bob Marley?"
+        "text": "What is the name of the afternoon nap popular in Spain, which derives from a word meaning 'sixth hour'?"
       },
       "tags": [
-        "hair",
-        "people",
-        "society_and_culture"
+        "words",
+        "spain",
+        "traditions"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056fc67a97013de78b54bc",
+      "correctAnswer": "Placenta",
+      "incorrectAnswers": [
+        "Ovaries",
+        "Cervix",
+        "Anus"
+      ],
+      "question": {
+        "text": "What acts as an exchange surface between mother and embryo?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "645b9ebcf09106226db2357c",
+      "correctAnswer": "Quiche",
+      "incorrectAnswers": [
+        "Omelette",
+        "Frittata",
+        "Pizza"
+      ],
+      "question": {
+        "text": "What type of food has a version called \"Lorraine\"?"
+      },
+      "tags": [
+        "cooking",
+        "food",
+        "recipes",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056fc57a97013de78b54bb",
+      "correctAnswer": "DNA",
+      "incorrectAnswers": [
+        "Golgi",
+        "Membrane",
+        "Cytoplasm"
+      ],
+      "question": {
+        "text": "What cell component is often used for personal identification?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbc9",
+      "correctAnswer": "\"This is Sparta!\"",
+      "incorrectAnswers": [
+        "\"Elementary, my dear Watson.\"",
+        "\"I have always depended on the kindness of strangers.\"",
+        "\"I love the smell of napalm in the morning.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film '300'?"
+      },
+      "tags": [
+        "film",
+        "quotes",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501a8",
+      "correctAnswer": "The Chronicles of Narnia",
+      "incorrectAnswers": [
+        "Voyages Extraordinaires",
+        "Harry Potter",
+        "Percy Jackson & the Olympians"
+      ],
+      "question": {
+        "text": "In which book series does 'Prince Caspian' appear?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602dff4b176d54800e3cba",
+      "correctAnswer": "Toulouse",
+      "incorrectAnswers": [
+        "Barcelona",
+        "Copenhagen",
+        "Amsterdam"
+      ],
+      "question": {
+        "text": "Which of these cities is in France?"
+      },
+      "tags": [
+        "cities",
+        "europe",
+        "france",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056f7c7a97013de78b545a",
+      "correctAnswer": "A4",
+      "incorrectAnswers": [
+        "A3",
+        "A5",
+        "A2"
+      ],
+      "question": {
+        "text": "What paper size measures 210 mm × 297 mm?"
+      },
+      "tags": [
+        "paper_sizes",
+        "measurement",
+        "standards"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "63a0399cc7d86251f9b65c8f",
+      "correctAnswer": "The Game of Life",
+      "incorrectAnswers": [
+        "Risk",
+        "Monopoly",
+        "Clue"
+      ],
+      "question": {
+        "text": "What is the name of the classic board game where players race through a person's life from childhood to retirement?"
+      },
+      "tags": [
+        "board_games"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056fe67a97013de78b54e9",
+      "correctAnswer": "Nucleus",
+      "incorrectAnswers": [
+        "Pivot",
+        "Epicenter",
+        "Fulcrum"
+      ],
+      "question": {
+        "text": "What do we call the center of an atom?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b57d1fd6c701a92118380",
+      "correctAnswer": "USA",
+      "incorrectAnswers": [
+        "Israel",
+        "England",
+        "Australia"
+      ],
+      "question": {
+        "text": "In which country would you find the Grand Canyon National Park?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950534",
+      "correctAnswer": "The Future",
+      "incorrectAnswers": [
+        "Science Fiction",
+        "Palm Reading",
+        "Drugs"
+      ],
+      "question": {
+        "text": "What is futurology the study of?"
+      },
+      "tags": [
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237426acb85f7ce9e949dca",
+      "correctAnswer": "Madrid",
+      "incorrectAnswers": [
+        "San Marino",
+        "Barcelona",
+        "Seville"
+      ],
+      "question": {
+        "text": "What is the capital city of Spain?"
+      },
+      "tags": [
+        "europe",
+        "capital_cities",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6a97ea32c9cbd5256545a739",
+      "correctAnswer": "The Roadster",
+      "incorrectAnswers": [
+        "The Model S",
+        "The Model 3",
+        "The Cybertruck"
+      ],
+      "question": {
+        "text": "What was the first product Tesla Motors sold after founding?"
+      },
+      "tags": [
+        "startups",
+        "Tesla",
+        "electric cars"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6488889b5dba6c873ef65060",
+      "correctAnswer": "The spin",
+      "incorrectAnswers": [
+        "The tumble",
+        "The shake",
+        "The toss"
+      ],
+      "question": {
+        "text": "What is the name of the cycle in a washing machine that dries clothes?"
+      },
+      "tags": [
+        "general_knowledge",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60dc50d1a5e051325a78",
+      "correctAnswer": "Stamppot",
+      "incorrectAnswers": [
+        "Ropa Vieja",
+        "Meat Pie",
+        "Ramen"
+      ],
+      "question": {
+        "text": "Which of these dishes is most associated with Netherlands?"
+      },
+      "tags": [
+        "food",
+        "the_netherlands",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -633,20 +565,81 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fea0",
-      "correctAnswer": "Rihanna",
+      "id": "622a1c397cc59eab6f950dc4",
+      "correctAnswer": "The Beatles",
       "incorrectAnswers": [
-        "Beyoncé",
-        "Alicia Keys",
-        "Ciara"
+        "The Rolling Stones",
+        "The Kinks",
+        "The Who"
       ],
       "question": {
-        "text": "Which singer released the song 'Only Girl (In the World)'?"
+        "text": "Which band includes 'John Lennon'?"
       },
       "tags": [
-        "musicians",
-        "songs",
         "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3c7cc59eab6f951880",
+      "correctAnswer": "Davey Jones's Locker",
+      "incorrectAnswers": [
+        "Mark Jacob's Locker",
+        "Bootstrap Bill's Locker",
+        "Harry Logan's Locker"
+      ],
+      "question": {
+        "text": "What's the resting place of those buried at sea? "
+      },
+      "tags": [
+        "words",
+        "general_knowledge",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625741379da29df7b05f740e",
+      "correctAnswer": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "incorrectAnswers": [
+        "Die Hard",
+        "The Departed",
+        "The Truman Show"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'A blacksmith teams up with an eccentric pirate to save his love.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056f3e7a97013de78b5402",
+      "correctAnswer": "Tetanus",
+      "incorrectAnswers": [
+        "Down syndrome",
+        "Cystic fibrosis",
+        "Sickle-cell disease"
+      ],
+      "question": {
+        "text": "Which condition is NOT genetically caused?"
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
