@@ -1,23 +1,83 @@
 {
-  "gameDate": "2026-10-01",
+  "gameDate": "2026-10-02",
   "difficulty": "hard",
   "results": [
     {
-      "category": "science",
-      "id": "64a9daf98e13b3b23eb9fde5",
-      "correctAnswer": "Neptunium",
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b22",
+      "correctAnswer": "HIM",
       "incorrectAnswers": [
-        "Francium",
-        "Plutonium",
-        "Americium"
+        "Haloo Helsinki!",
+        "Amorphis",
+        "Hanoi Rocks"
       ],
       "question": {
-        "text": "What is the atomic number of the first transuranium element?"
+        "text": "Which Finnish rock band released the studio album 'Screamworks: Love in Theory and Practice'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60ce50d1a5e051325a74",
+      "correctAnswer": "Mauritius",
+      "incorrectAnswers": [
+        "Afghanistan",
+        "Cuba",
+        "Greece"
+      ],
+      "question": {
+        "text": "Where in the world would you most expect to be served Dholl Puri?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f81",
+      "correctAnswer": "Agatha Christie",
+      "incorrectAnswers": [
+        "Robert Louis Stevenson",
+        "Charles Dickens",
+        "Lewis Carroll"
+      ],
+      "question": {
+        "text": "Which author wrote 'The A.B.C. Murders'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3f7cc59eab6f95238f",
+      "correctAnswer": "Vinegar",
+      "incorrectAnswers": [
+        "Aspirin",
+        "Lemon Juice",
+        "Soap"
+      ],
+      "question": {
+        "text": "Acetic Acid Is More Commonly Known As What?"
       },
       "tags": [
         "chemistry",
-        "chemical_elements",
-        "elements",
+        "names",
         "science"
       ],
       "type": "text_choice",
@@ -26,16 +86,405 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "624dba37cd90beeca3531569",
-      "correctAnswer": "Shirley Bassey",
+      "category": "history",
+      "id": "622a1c377cc59eab6f950414",
+      "correctAnswer": "1982",
       "incorrectAnswers": [
-        "Wings",
-        "Gladys Knight",
-        "Billie Eilish"
+        "1990",
+        "1971",
+        "1964"
       ],
       "question": {
-        "text": "Who performed the theme song to the James Bond film Diamonds Are Forever?"
+        "text": "In Which Year Did The Falklands Conflict Begin?"
+      },
+      "tags": [
+        "wars",
+        "politics",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "627164ab1ba117625baac96d",
+      "correctAnswer": "Horilka",
+      "incorrectAnswers": [
+        "Schnapps",
+        "Grappa",
+        "Waragi"
+      ],
+      "question": {
+        "text": "Which of these is a popular drink in Ukraine?"
+      },
+      "tags": [
+        "drink",
+        "alcohol",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e66cff2394bd44dee049",
+      "correctAnswer": "Cinco",
+      "incorrectAnswers": [
+        "Vijf",
+        "Fünf",
+        "Oito"
+      ],
+      "question": {
+        "text": "What is the Portuguese word for 'five'?"
+      },
+      "tags": [
+        "language",
+        "translations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623735d8cfe13103f55eb575",
+      "correctAnswer": "Somalia",
+      "incorrectAnswers": [
+        "Burkina Faso",
+        "Lesotho",
+        "Solomon Islands"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.so' at the end of its web addresses?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502e1",
+      "correctAnswer": "Sausage ",
+      "incorrectAnswers": [
+        "Cheese",
+        "Bread",
+        "Cake"
+      ],
+      "question": {
+        "text": "Popular in the Netherlands, what type of food is a frikandel?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "648889175dba6c873ef650e0",
+      "correctAnswer": "Sterilize them",
+      "incorrectAnswers": [
+        "Dispose of them",
+        "Repair them",
+        "Sharpen them"
+      ],
+      "question": {
+        "text": "What is an autoclave designed to do to surgical instruments in a medical lab?"
+      },
+      "tags": [
+        "medicine",
+        "technology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f950302",
+      "correctAnswer": "Cabbage Patch Kids",
+      "incorrectAnswers": [
+        "Stretch Armstrong",
+        "Slinky",
+        "Care Bear"
+      ],
+      "question": {
+        "text": "Xavier Roberts was the name associated with which eighties toy?"
+      },
+      "tags": [
+        "1980's",
+        "names",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c3d7cc59eab6f951c44",
+      "correctAnswer": "Annie Lennox",
+      "incorrectAnswers": [
+        "Madonna",
+        "Kylie Minogue",
+        "Karen Carpenter"
+      ],
+      "question": {
+        "text": "Who was the female half of the 80's band Eurythmics?"
+      },
+      "tags": [
+        "people",
+        "1980's",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63a03956c7d86251f9b65c45",
+      "correctAnswer": "FTP",
+      "incorrectAnswers": [
+        "SSH",
+        "HTTP",
+        "SMTP"
+      ],
+      "question": {
+        "text": "Which networking protocol is used to transfer files between two computers?"
+      },
+      "tags": [
+        "the_internet",
+        "technology",
+        "science",
+        "computing"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3c7cc59eab6f951979",
+      "correctAnswer": "Mistletoe",
+      "incorrectAnswers": [
+        "Tomato",
+        "Sunflower",
+        "Marijuana"
+      ],
+      "question": {
+        "text": "What is the more common name for the plant Viscum Album?"
+      },
+      "tags": [
+        "plants",
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625064dde12f6dec240bdfd3",
+      "correctAnswer": "Jeannie C. Riley",
+      "incorrectAnswers": [
+        "Quiet Riot",
+        "Michael Sembello",
+        "Nena"
+      ],
+      "question": {
+        "text": "Who had a hit in 1968 with Harper Valley Pta?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62373f93cb85f7ce9e949ca6",
+      "correctAnswer": "Dhaka",
+      "incorrectAnswers": [
+        "Vilnius",
+        "Rabat",
+        "Lusaka"
+      ],
+      "question": {
+        "text": "What is the capital city of Bangladesh?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c397cc59eab6f950fb8",
+      "correctAnswer": "Alexander Fleming",
+      "incorrectAnswers": [
+        "Louis Pasteur",
+        "Frederick Sanger",
+        "John Dalton"
+      ],
+      "question": {
+        "text": "Who Is Accepted As The Discoverer Of Penicillin?"
+      },
+      "tags": [
+        "inventions",
+        "chemistry",
+        "people",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950024",
+      "correctAnswer": "Tennis",
+      "incorrectAnswers": [
+        "Soccer",
+        "Badminton",
+        "Volleyball"
+      ],
+      "question": {
+        "text": "With which sport is Chris Evert Lloyd identified?"
+      },
+      "tags": [
+        "people",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951b9e",
+      "correctAnswer": "Mount Pelée",
+      "incorrectAnswers": [
+        "Krakatoa",
+        "Mount St Helen's",
+        "Mount Pinatubo"
+      ],
+      "question": {
+        "text": "Which volcano erupted in 1902, killing 30,000?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ec657f41d6338b96eeed",
+      "correctAnswer": "Christian theologian who developed a strict brand of Protestant Christianity.",
+      "incorrectAnswers": [
+        "Explorer, first European to reach India and establish a route for imperialism.",
+        "Inventor of the printing press.",
+        "Physicist who discovered electromagnetic waves or X-rays."
+      ],
+      "question": {
+        "text": "Which of the following describes John Calvin?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "639ae2de929b90846f2fc8be",
+      "correctAnswer": "Blót",
+      "incorrectAnswers": [
+        "Flägen",
+        "Midsommar",
+        "Odinskón"
+      ],
+      "question": {
+        "text": "What is the name of the Viking practice of sacrificing prisoners to their gods?"
+      },
+      "tags": [
+        "history",
+        "vikings",
+        "traditions"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "639c9dbc929b90846f2fc9ac",
+      "correctAnswer": "The Ramayana",
+      "incorrectAnswers": [
+        "The Upanishads",
+        "The Bhagavad Gita",
+        "The Puranas"
+      ],
+      "question": {
+        "text": "What is the name of the Hindu scripture that contains the story of Sita?"
+      },
+      "tags": [
+        "hinduism",
+        "religion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "624dba59de6018633d31f6c1",
+      "correctAnswer": "Goldfinger",
+      "incorrectAnswers": [
+        "Casino Royale",
+        "Spectre",
+        "Dr. No"
+      ],
+      "question": {
+        "text": "Which James Bond theme song was performed by Shirley Bassey?"
       },
       "tags": [
         "james_bond",
@@ -49,19 +498,23 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c367cc59eab6f9503b6",
-      "correctAnswer": "Rock Around The Clock",
+      "category": "geography",
+      "id": "647f9ded3a4302a71927167b",
+      "correctAnswer": "Frankfort",
       "incorrectAnswers": [
-        "Johnny B Goode",
-        "Candy Girl",
-        "Old Time Rock and Roll"
+        "Louisville",
+        "Lexington",
+        "Bowling Green"
       ],
       "question": {
-        "text": "Which Bill Haley song became the U.K.'s first Rock and Roll number one?"
+        "text": "What is the capital of Kentucky?"
       },
       "tags": [
-        "music"
+        "usa",
+        "state_capitals",
+        "cities",
+        "kentucky",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -69,41 +522,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fbad",
-      "correctAnswer": "\"Bullet with Butterfly Wings\" by The Smashing Pumpkins",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9518fb",
+      "correctAnswer": "Botany Bay",
       "incorrectAnswers": [
-        "\"Jumpin', Jumpin'\" by Destiny's Child",
-        "\"All Along the Watchtower\" by Bob Dylan",
-        "\"Swing Life Away\" by Rise Against"
+        "Florida",
+        "Hong Kong",
+        "The Bay of Biscay"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"The world is a vampire...\"?"
+        "text": "What Was Formerly Called Stingray Harbour?"
       },
       "tags": [
-        "lyrics",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe70",
-      "correctAnswer": "Lady Gaga",
-      "incorrectAnswers": [
-        "Hikaru Utada",
-        "Drake",
-        "Madonna"
-      ],
-      "question": {
-        "text": "Which American singer, songwriter, and actress released the studio album 'Artpop'?"
-      },
-      "tags": [
-        "music_albums",
-        "music"
+        "previous_names",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -112,15 +544,15 @@
     },
     {
       "category": "science",
-      "id": "6242cb35d543524f1b19c917",
-      "correctAnswer": "A charm",
+      "id": "65056f197a97013de78b53cf",
+      "correctAnswer": "Chewing",
       "incorrectAnswers": [
-        "A paddling",
-        "A bevy",
-        "A flight"
+        "Swallowing",
+        "Digesting",
+        "Salivating"
       ],
       "question": {
-        "text": "What is the word for a group of goldfinches?"
+        "text": "What is another word for \"masticating\"?"
       },
       "tags": [
         "science"
@@ -131,22 +563,19 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500d6",
-      "correctAnswer": "Andy Cole",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c72",
+      "correctAnswer": "Linkin Park",
       "incorrectAnswers": [
-        "Wayne Rooney",
-        "Sergio Aguero",
-        "Harry Kane"
+        "Alice in Chains",
+        "Hollywood Undead",
+        "System of a Down"
       ],
       "question": {
-        "text": "Alan Shearer was the first player to score 200 Premiership goals. Who was the second?"
+        "text": "Which American rock band released the studio album 'A Thousand Suns'?"
       },
       "tags": [
-        "soccer",
-        "firsts",
-        "football",
-        "sport"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -155,19 +584,18 @@
     },
     {
       "category": "general_knowledge",
-      "id": "64a48a10db01fd81937c97cd",
-      "correctAnswer": "Pluperfect",
+      "id": "622a1c367cc59eab6f950407",
+      "correctAnswer": "1914",
       "incorrectAnswers": [
-        "Past perfect",
-        "Present perfect",
-        "Future perfect"
+        "1922",
+        "1937",
+        "1946"
       ],
       "question": {
-        "text": "What word refers to the tense used in phrases like 'she had departed'."
+        "text": "On which Christmas day did English and German troops play football?"
       },
       "tags": [
-        "grammar",
-        "language"
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -175,41 +603,20 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950359",
-      "correctAnswer": "Ferdinand Marcos",
+      "category": "geography",
+      "id": "623b580bfd6c701a92118394",
+      "correctAnswer": "USA",
       "incorrectAnswers": [
-        "Luis Fernandez",
-        "Julio Cruz",
-        "Terab Loquito"
+        "Croatia",
+        "Spain",
+        "Australia"
       ],
       "question": {
-        "text": "Who Was Ousted As President of the Philippines By Corazon Aquino In 1986?"
+        "text": "In which country would you find the Carlsbad Caverns National Park?"
       },
       "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "64824df37778562fd76a95e6",
-      "correctAnswer": "The Luge",
-      "incorrectAnswers": [
-        "Skeleton",
-        "Bobsleigh",
-        "Curling"
-      ],
-      "question": {
-        "text": "What is the name of the winter Olympic sport in which you ride a sled face up and feet first?"
-      },
-      "tags": [
-        "winter_sports",
-        "sport",
-        "olympics"
+        "tourist_attractions",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -218,422 +625,20 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "646089a9de964ebc39016c6e",
-      "correctAnswer": "Caliban",
+      "id": "622a1c347cc59eab6f94fa0d",
+      "correctAnswer": "Eugène Delacroix",
       "incorrectAnswers": [
-        "Prospero",
-        "Miranda",
-        "Ariel"
+        "Caravaggio",
+        "René Magritte",
+        "Pierre-Auguste Renoir"
       ],
       "question": {
-        "text": "In Shakespeare's 'The Tempest', which character is described as 'a howling monster', 'a most scurvy monster' and 'some monster of the isle'?"
+        "text": "Which artist painted \"The Swing\""
       },
       "tags": [
-        "shakespeare",
-        "theater",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95135e",
-      "correctAnswer": "Suprematism",
-      "incorrectAnswers": [
-        "Cubism",
-        "Dadaism",
-        "Impressionism"
-      ],
-      "question": {
-        "text": "Which art movement is characterized by flat geometric shapes on plain backgrounds?"
-      },
-      "tags": [
+        "painting",
         "art",
-        "painting"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f0c",
-      "correctAnswer": "Fyodor Dostoyevsky",
-      "incorrectAnswers": [
-        "Vladimir Nabokov",
-        "Leo Tolstoy",
-        "Mikhail Bulgakov"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Gambler'?"
-      },
-      "tags": [
         "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740b29da29df7b05f73f1",
-      "correctAnswer": "An Army Medic refuses to kill and receives the Medal of Honor without firing a shot.",
-      "incorrectAnswers": [
-        "After his son is captured and taken to Sydney, a clownfish sets out on a journey to bring him home.",
-        "A man becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
-        "The son of a former boxer is trained by his father for a mixed martial arts tournament."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Hacksaw Ridge?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fdb5",
-      "correctAnswer": "6",
-      "incorrectAnswers": [
-        "2",
-        "20",
-        "10"
-      ],
-      "question": {
-        "text": "What Do The Lyrics In The 1st Line Of The Elvis Presley Song “Blue Suede Shoes” Add Up To?"
-      },
-      "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950be0",
-      "correctAnswer": "Scorpions",
-      "incorrectAnswers": [
-        "Rammstein",
-        "Sodom",
-        "U.D.O."
-      ],
-      "question": {
-        "text": "Which German rock band released the studio album 'Lovedrive'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95033e",
-      "correctAnswer": "Henry VIII",
-      "incorrectAnswers": [
-        "George I",
-        "Henry VI",
-        "Richard III"
-      ],
-      "question": {
-        "text": "Who was the father of Elizabeth I?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fdac",
-      "correctAnswer": "Robert Bell",
-      "incorrectAnswers": [
-        "Mark DuPont",
-        "Lawrence Jones",
-        "Gary Helman"
-      ],
-      "question": {
-        "text": "What was the real name of Kool, of Kool and the Gang fame?"
-      },
-      "tags": [
-        "people",
-        "pseudonyms",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f9508b3",
-      "correctAnswer": "Oman",
-      "incorrectAnswers": [
-        "Qatar",
-        "Bahrain",
-        "Iran"
-      ],
-      "question": {
-        "text": "Which of these countries borders United Arab Emirates?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611fce4b176d54800e3d72",
-      "correctAnswer": "1976",
-      "incorrectAnswers": [
-        "1964",
-        "1990",
-        "2009"
-      ],
-      "question": {
-        "text": "In which year were the first photographs sent from Mars?"
-      },
-      "tags": [
-        "events",
-        "firsts",
-        "astronomy",
-        "space_exploration",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950523",
-      "correctAnswer": "parasitic worms",
-      "incorrectAnswers": [
-        "plankton",
-        "primates",
-        "animal behaviour"
-      ],
-      "question": {
-        "text": "What is Helminthology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "64dd398a9cef2bd3a34add07",
-      "correctAnswer": "Brad Pitt",
-      "incorrectAnswers": [
-        "Matt Damon",
-        "Tom Hanks",
-        "Leonardo DiCaprio"
-      ],
-      "question": {
-        "text": "Who played Oakland A's general manager Billy Beane in the film 'Moneyball'?"
-      },
-      "tags": [
-        "film_and_tv",
-        "film",
-        "acting"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f952",
-      "correctAnswer": "The Sound and the Fury",
-      "incorrectAnswers": [
-        "Blood Meridian",
-        "In Our Time",
-        "The End of the Affair"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Quentin Compson'?"
-      },
-      "tags": [
-        "literature",
-        "classic_novels",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ffe7",
-      "correctAnswer": "Matsumoto",
-      "incorrectAnswers": [
-        "Ōsaka",
-        "Kyoto",
-        "Yokohama"
-      ],
-      "question": {
-        "text": "Which city used to be called Satoyamabe?"
-      },
-      "tags": [
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f95191c",
-      "correctAnswer": "Cabbage Patch Kids",
-      "incorrectAnswers": [
-        "Pokemon Cards",
-        "Hula Hoops",
-        "Yo-Yos"
-      ],
-      "question": {
-        "text": "What toy was in short supply for the 1983 Chirstmas season?"
-      },
-      "tags": [
-        "toys",
-        "1980's",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbf1",
-      "correctAnswer": "\"Carpe diem. Seize the day, boys. Make your lives extraordinary.\"",
-      "incorrectAnswers": [
-        "\"Listen to them. Children of the night. What music they make.\"",
-        "\"Very nice!\"",
-        "\"I'll have what she's having.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Dead Poets Society'?"
-      },
-      "tags": [
-        "film",
-        "quotes",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "623387560161109f922aac1a",
-      "correctAnswer": "Korea",
-      "incorrectAnswers": [
-        "Japan",
-        "China",
-        "Russia"
-      ],
-      "question": {
-        "text": "Which country developed Tae-Kwan-Do?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e95",
-      "correctAnswer": "Robert E. Howard",
-      "incorrectAnswers": [
-        "Nathaniel Hawthorne",
-        "Henryk Sienkiewicz",
-        "Ivan Turgenev"
-      ],
-      "question": {
-        "text": "Which author wrote 'Conan canonical works'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "6396edc26017b1e8e09020d1",
-      "correctAnswer": "Sir Rowland Hill",
-      "incorrectAnswers": [
-        "Sir Alan Sugar",
-        "Sir Thomas Moore",
-        "Sir Richard Stamp"
-      ],
-      "question": {
-        "text": "Who invented the postage stamp, and is seen as the inventor of the modern postal system?"
-      },
-      "tags": [
-        "history",
-        "inventions",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63d9530f168979b94b2e4f8b",
-      "correctAnswer": "Liaquat Ali Khan",
-      "incorrectAnswers": [
-        "Benazir Bhutto",
-        "Nawaz Sharif",
-        "Zulfikar Ali Bhutto"
-      ],
-      "question": {
-        "text": "Who was the first Prime Minister of Pakistan?"
-      },
-      "tags": [
-        "history",
-        "leaders",
-        "pakistan"
       ],
       "type": "text_choice",
       "difficulty": "hard",

@@ -1,42 +1,24 @@
 {
-  "gameDate": "2026-10-01",
+  "gameDate": "2026-10-02",
   "difficulty": "random",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "624ab0af348a461bfc67068f",
-      "correctAnswer": "The Middle East",
-      "incorrectAnswers": [
-        "North America",
-        "Central America",
-        "India"
-      ],
-      "question": {
-        "text": "From which part of the world does beetroot originate?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "623388fc0161109f922aacbd",
-      "correctAnswer": "Gibraltar ",
+      "id": "645bc75b4638d58091b1b9ea",
+      "correctAnswer": "Stuttgart",
       "incorrectAnswers": [
-        "Valencia",
-        "Maroc",
-        "Moor"
+        "Hamburg",
+        "Munich",
+        "Berlin"
       ],
       "question": {
-        "text": "Which Rock Is On The South Coast Of Spain?"
+        "text": "What German city was named for a stud farm that was formerly on the site?"
       },
       "tags": [
-        "geography"
+        "cities",
+        "history",
+        "germany",
+        "language"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -44,21 +26,43 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa0b",
-      "correctAnswer": "Vincent van Gogh",
+      "category": "geography",
+      "id": "6496a83ce831b1ab5aa11140",
+      "correctAnswer": "Honduras and Guatemala",
       "incorrectAnswers": [
-        "Leonardo da Vinci",
-        "Jacques-Louis David",
-        "‎Francisco Goya"
+        "Mexico and Costa Rica",
+        "Nicaragua and Panama",
+        "Colombia and Ecuador"
       ],
       "question": {
-        "text": "Which artist painted \"Portrait de L’artiste Sans Barbe\""
+        "text": "If you flew due south from Belize, which countries would you pass over on your way to El Salvador?"
       },
       "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
+        "countries",
+        "geography",
+        "borders"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbec",
+      "correctAnswer": "\"Release the Kraken!\"",
+      "incorrectAnswers": [
+        "\"With great power comes great responsiblity.\"",
+        "\"Rosebud.\"",
+        "\"You can't handle the truth!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Clash of the Titans'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -67,20 +71,17 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94ffd2",
-      "correctAnswer": "Manfred Mann",
+      "id": "622a1c387cc59eab6f950b58",
+      "correctAnswer": "Soundgarden",
       "incorrectAnswers": [
-        "Uriah Heep",
-        "Chumbawamba",
-        "The Rolling Stones"
+        "Alice in Chains",
+        "Stone Temple Pilots",
+        "Screaming Trees"
       ],
       "question": {
-        "text": "Which 60's Star Was Born In Johannesburg And Christened Michael Lubowitz?"
+        "text": "Which American rock band released the song 'Black Hole Sun'?"
       },
       "tags": [
-        "pseudonyms",
-        "names",
-        "nicknames",
         "music"
       ],
       "type": "text_choice",
@@ -89,21 +90,20 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd01",
-      "correctAnswer": "W. K. Clifford",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff6d",
+      "correctAnswer": "East 17",
       "incorrectAnswers": [
-        "Thomas Hobbes",
-        "Ludwig Wittgenstein",
-        "Epictetus"
+        "Take That",
+        "New Kids on the Block",
+        "Boyz II Men"
       ],
       "question": {
-        "text": "Which philosopher famously said 'It is wrong always, everywhere and for everyone, to believe anything upon insufficient evidence'?"
+        "text": "Which Boyband Released An Album Entitled “Walthamstow” In 1992?"
       },
       "tags": [
-        "quotes",
-        "philosophy",
-        "society_and_culture"
+        "london",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -111,63 +111,43 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "647638a3f05ea6d6f587a131",
-      "correctAnswer": "Face cards",
-      "incorrectAnswers": [
-        "Number cards",
-        "Lord cards",
-        "Icon cards"
-      ],
-      "question": {
-        "text": "What term is used to describe the cards in a deck that have either a Jack, Queen, or King on the card?"
-      },
-      "tags": [
-        "games"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "622a1c3c7cc59eab6f9517e8",
-      "correctAnswer": "Denmark",
+      "id": "622a1c357cc59eab6f94ffba",
+      "correctAnswer": "Danish",
       "incorrectAnswers": [
-        "China",
-        "France",
-        "Greece"
+        "Russian",
+        "British",
+        "Portuguese"
       ],
       "question": {
-        "text": "Which country has the oldest national flag?"
+        "text": "What Nationality Was The First European To Sail Through The Bering Strait?"
       },
       "tags": [
-        "geography",
-        "flags",
-        "records"
+        "exploration",
+        "oceans",
+        "geography"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c3b7cc59eab6f951790",
-      "correctAnswer": "On Her Majesty's Secret Service",
+      "id": "622a1c347cc59eab6f94fbfd",
+      "correctAnswer": "\"Hello, gorgeous.\"",
       "incorrectAnswers": [
-        "Live and Let Die",
-        "Goldeneye",
-        "Dr. No"
+        "\"Attica! Attica!\"",
+        "\"Chewie, we’re home.\"",
+        "\"Which would be worse, to live a monster or die as a good man?\""
       ],
       "question": {
-        "text": "Which James Bond Movie Is Set During The Christmas Period?"
+        "text": "Which of these quotes is from the film 'Funny Girl'?"
       },
       "tags": [
+        "quotes",
         "film",
-        "christmas",
-        "james_bond"
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -176,15 +156,15 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f950515",
-      "correctAnswer": "making timepieces, measuring time and timekeeping",
+      "id": "622a1c397cc59eab6f950fc3",
+      "correctAnswer": "Guglielmo Marconi",
       "incorrectAnswers": [
-        "animals",
-        "venereal diseases",
-        "ends or final causes"
+        "Samuel Morse",
+        "Alexander Graham Bell",
+        "Michael Faraday"
       ],
       "question": {
-        "text": "What is Horology the study of?"
+        "text": "Who first transmitted radio signals across the Atlantic?"
       },
       "tags": [
         "science"
@@ -195,16 +175,59 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6293ec507f41d6338b96eee7",
-      "correctAnswer": "Renaissance sculptor, painter and architect",
+      "category": "science",
+      "id": "6242cb3fd543524f1b19c91b",
+      "correctAnswer": "A cast",
       "incorrectAnswers": [
-        "Founder of Manichaeism, a gnostic religion which for a time was a rival to Christianity.",
-        "Inventor and businessman who helped introduce electricity and electric light bulbs.",
-        "Industrialist who revolutionised mass-production techniques"
+        "A muster",
+        "A murder",
+        "An exaltation"
       ],
       "question": {
-        "text": "Which of the following describes Michelangelo?"
+        "text": "What is the word for a group of hawks?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "64f6d9bd660c3a8d960101f4",
+      "correctAnswer": "Rodney King",
+      "incorrectAnswers": [
+        "O.J. Simpson",
+        "Reginald Denny",
+        "Michael Brown"
+      ],
+      "question": {
+        "text": "In 1991, there was outrage after the LAPD's notorious encounter with which man was caught on video?"
+      },
+      "tags": [
+        "usa",
+        "history",
+        "1990's",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ecf47f41d6338b96ef17",
+      "correctAnswer": "Principal figure of Jainism.",
+      "incorrectAnswers": [
+        "Inventor of the printing press.",
+        "Inventor of the telephone.",
+        "Queen of England from 1558 to 1603."
+      ],
+      "question": {
+        "text": "Which of the following was Mahavira known for?"
       },
       "tags": [
         "people",
@@ -217,148 +240,62 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950321",
-      "correctAnswer": "Hannibal",
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fc9c",
+      "correctAnswer": "Turkic",
       "incorrectAnswers": [
-        "Spartacus",
-        "Arminius",
-        "Brennus"
+        "Niger–Congo",
+        "Indo-European",
+        "Sino-Tibetan"
       ],
       "question": {
-        "text": "Who was the most famous leader of the Carthaginians?"
+        "text": "The language 'Uyghur' belongs to which language family?"
       },
       "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950335",
+      "correctAnswer": "Sally Ride",
+      "incorrectAnswers": [
+        "Joan Jett",
+        "Mary Winn",
+        "Ella Davis"
+      ],
+      "question": {
+        "text": "Who was the first female American astronaut?"
+      },
+      "tags": [
+        "firsts",
+        "usa",
         "history"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c79",
-      "correctAnswer": "U2",
-      "incorrectAnswers": [
-        "Public Image Ltd.",
-        "The Script",
-        "The Cure"
-      ],
-      "question": {
-        "text": "Which Irish rock band released the studio album 'Achtung Baby'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fdbb",
-      "correctAnswer": "Gasoline Alley",
-      "incorrectAnswers": [
-        "Drug Alley",
-        "Happy Alley",
-        "Dead Alley"
-      ],
-      "question": {
-        "text": "Rod Stewart's first album was named after which alley?"
-      },
-      "tags": [
-        "music_albums",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f09",
-      "correctAnswer": "Astrid Lindgren",
-      "incorrectAnswers": [
-        "Charles Perrault",
-        "Enid Blyton",
-        "Beatrix Potter"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Brothers Lionheart'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64626214ab138b829b81e9bb",
-      "correctAnswer": "Apples",
-      "incorrectAnswers": [
-        "Bananas",
-        "Cherries",
-        "Oranges"
-      ],
-      "question": {
-        "text": "What fruit allegedly keeps the doctor away if you eat one per day?"
-      },
-      "tags": [
-        "food",
-        "fruit",
-        "food_and_drink",
-        "sayings",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "647d5c21e9542d21c32c817a",
-      "correctAnswer": "Stapes",
-      "incorrectAnswers": [
-        "Femur",
-        "Humerus",
-        "Tibia"
-      ],
-      "question": {
-        "text": "What is the smallest bone in the human body?"
-      },
-      "tags": [
-        "science",
-        "anatomy",
-        "biology",
-        "bones",
-        "medicine"
-      ],
-      "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "geography",
-      "id": "62602e2c4b176d54800e3cc7",
-      "correctAnswer": "Christchurch",
+      "id": "625e9ec9796f721e95543f6c",
+      "correctAnswer": "Blue",
       "incorrectAnswers": [
-        "Hobart",
-        "Ballarat",
-        "Bendigo"
+        "Yellow",
+        "Maroon",
+        "Gold"
       ],
       "question": {
-        "text": "Which of these cities is in New Zealand?"
+        "text": "Which of these colors would you find on the flag of Iceland?"
       },
       "tags": [
-        "cities",
+        "flags",
         "geography"
       ],
       "type": "text_choice",
@@ -368,86 +305,40 @@
     },
     {
       "category": "geography",
-      "id": "6233856f62eaad73716a8c6e",
-      "correctAnswer": "Colorado and Wyoming",
+      "id": "623b5824fd6c701a9211839e",
+      "correctAnswer": "Greece",
       "incorrectAnswers": [
-        "Texas and Illinois",
-        "Florida and Georgia",
-        "Maine and Nevada"
+        "Jordan",
+        "Turkey",
+        "Belgium"
       ],
       "question": {
-        "text": "What two US states are rectangular?"
+        "text": "In which country would you find the UNESCO World Heritage site of Delphi?"
       },
       "tags": [
-        "usa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe28",
+      "correctAnswer": "Florida",
+      "incorrectAnswers": [
+        "Kansas",
+        "Texas",
+        "California"
+      ],
+      "question": {
+        "text": "Which American state's name is Spanish for \"flowered\" or \"flowery land\"?"
+      },
+      "tags": [
         "us_states",
+        "language",
         "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "645fcc73541c4d4fc8cf3058",
-      "correctAnswer": "Monty Python and the Holy Grail",
-      "incorrectAnswers": [
-        "The Godfather",
-        "Star Wars",
-        "The Wizard of Oz"
-      ],
-      "question": {
-        "text": "From which 1975 film classic does the quote 'Your mother was a hamster and your father smelt of elderberries' come?"
-      },
-      "tags": [
-        "comedy",
-        "film",
-        "film_and_tv",
-        "1970's"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510e1",
-      "correctAnswer": "Pelican",
-      "incorrectAnswers": [
-        "Turtle",
-        "Flamingo",
-        "Tiger"
-      ],
-      "question": {
-        "text": "Which bird has been known to consume a third of its body weight in a single meal?"
-      },
-      "tags": [
-        "animals",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eed",
-      "correctAnswer": "Charles Dickens",
-      "incorrectAnswers": [
-        "Oscar Wilde",
-        "Joseph Conrad",
-        "Henryk Sienkiewicz"
-      ],
-      "question": {
-        "text": "Which author wrote 'David Copperfield'?"
-      },
-      "tags": [
-        "classic_novels",
-        "literature",
-        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -456,22 +347,22 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "645c9fc442ea81e2554c5f85",
-      "correctAnswer": "Secretariat",
+      "id": "647edb8d520523194910c343",
+      "correctAnswer": "Jeté",
       "incorrectAnswers": [
-        "Man o' War",
-        "Sea Biscuit",
-        "Affirmed"
+        "Pirouette",
+        "Relevé",
+        "Plié"
       ],
       "question": {
-        "text": "What was the name of the horse that won the Belmont in 1973 by a record 31 lengths?"
+        "text": "What is the term for jumping forward from one foot to the other in ballet?"
       },
       "tags": [
-        "records",
-        "champions",
-        "horse_racing",
-        "sport",
-        "animals"
+        "dance",
+        "ballet",
+        "words",
+        "french",
+        "language"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -479,19 +370,19 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f950202",
-      "correctAnswer": "Michael Bay",
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f950108",
+      "correctAnswer": "Joseph Smith",
       "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
+        "Mark Adams",
+        "Brian Jones",
+        "George Michael"
       ],
       "question": {
-        "text": "Which director directed Transformers?"
+        "text": "Who founded Mormonism?"
       },
       "tags": [
-        "film_and_tv"
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -499,36 +390,167 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950287",
-      "correctAnswer": "Cougette",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f95101b",
+      "correctAnswer": "Ear",
       "incorrectAnswers": [
-        "Aubergine",
-        "Avocado",
-        "Sweet Potato"
+        "Nose",
+        "Hand",
+        "Foot"
       ],
       "question": {
-        "text": "What Vegetable Is Also Known As Zuchinni?"
+        "text": "Where in the body is the smallest human muscle?"
       },
       "tags": [
-        "food_and_drink"
+        "anatomy",
+        "biology",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c3c7cc59eab6f9517dc",
+      "correctAnswer": "David Cronenberg",
+      "incorrectAnswers": [
+        "Baz Luhrmann",
+        "Alfred Hitchcock",
+        "Peter Jackson"
+      ],
+      "question": {
+        "text": "Which director's films included Shivers, Videodrome and The Fly?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3b7cc59eab6f9516f9",
+      "correctAnswer": "Francisco Coronado",
+      "incorrectAnswers": [
+        "Francisco Pizzaro",
+        "Hernando de Soto",
+        "Jose Garrido"
+      ],
+      "question": {
+        "text": "Which Spanish conquistador's expedition marked the first European sighting of the Grand Canyon?"
+      },
+      "tags": [
+        "history",
+        "people",
+        "exploration",
+        "usa",
+        "natural_wonders"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950de4",
+      "correctAnswer": "Charles and Mary Lamb",
+      "incorrectAnswers": [
+        "Sebastian Brant",
+        "Agatha Christie",
+        "Rainer Maria Rilke"
+      ],
+      "question": {
+        "text": "Which author wrote 'Tales from Shakspeare'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f60",
+      "correctAnswer": "Arthur Conan Doyle",
+      "incorrectAnswers": [
+        "Agatha Christie",
+        "Oscar Wilde",
+        "George Orwell"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Adventure of the Red-Headed League'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3b7cc59eab6f9516e2",
+      "correctAnswer": "The Council of Nicaea",
+      "incorrectAnswers": [
+        "The Papal Assembly",
+        "The Holy Synod",
+        "The Christian Commission"
+      ],
+      "question": {
+        "text": "Who fixed the date of the Christian festival Easter?"
+      },
+      "tags": [
+        "society_and_culture",
+        "christianity",
+        "religion"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "geography",
-      "id": "62373f84cb85f7ce9e949ca0",
-      "correctAnswer": "Baku",
+      "id": "6237414ecb85f7ce9e949d58",
+      "correctAnswer": "Bamako",
       "incorrectAnswers": [
-        "Palikir",
-        "Valletta",
-        "Monrovia"
+        "Lomé",
+        "Managua",
+        "Zagreb"
       ],
       "question": {
-        "text": "What is the capital city of Azerbaijan?"
+        "text": "What is the capital city of Mali?"
+      },
+      "tags": [
+        "capital_cities",
+        "africa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623735fdcfe13103f55eb58e",
+      "correctAnswer": "Uganda",
+      "incorrectAnswers": [
+        "Portugal",
+        "Uruguay",
+        "Uzbekistan"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.ug' at the end of its web addresses?"
       },
       "tags": [
         "geography"
@@ -539,65 +561,22 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b26",
-      "correctAnswer": "The Miracles",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a98",
+      "correctAnswer": "Alaska",
       "incorrectAnswers": [
-        "The Temptations",
-        "The Four Tops",
-        "The Drifters"
+        "Oregon",
+        "Idaho",
+        "Florida"
       ],
       "question": {
-        "text": "Which American rhythm and blues vocal group released the song 'You've Really Got a Hold on Me'?"
+        "text": "On the 3rd January 1959 which state became America's 49th?"
       },
       "tags": [
-        "motown",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fb8b",
-      "correctAnswer": "\"A Thousand Miles\" by Vanessa Carlton",
-      "incorrectAnswers": [
-        "\"Hooked on a Feeling\" by B.J. Thomas",
-        "\"Old Man\" by Neil Young",
-        "\"Chimpan-A to Chimpan-Z\" by Troy McClure"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"Making my way downtown, walking fast, faces pass and I'm homebound.\"?"
-      },
-      "tags": [
-        "lyrics",
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "639c9d90929b90846f2fc951",
-      "correctAnswer": "Istanbul",
-      "incorrectAnswers": [
-        "Rome",
-        "Moscow",
-        "Athens"
-      ],
-      "question": {
-        "text": "The Hagia Sophia is an iconic structure in what city?"
-      },
-      "tags": [
-        "architecture",
-        "geography",
-        "buildings",
-        "tourist_attractions"
+        "1950's",
+        "usa",
+        "us_states",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -606,18 +585,20 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950333",
-      "correctAnswer": "Marley's Ghost",
+      "id": "6463391d01d576cfac3aa31b",
+      "correctAnswer": "The Great Gatsby",
       "incorrectAnswers": [
-        "Christmas Past",
-        "Christmas Present",
-        "Christmas Future"
+        "For Whom the Bell Tolls",
+        "To Kill a Mockingbird",
+        "The Catcher in the Rye"
       ],
       "question": {
-        "text": "Who was the first ghost appear to scrooge in the dickens classic 'a Christmas Carol'?"
+        "text": "Which 1925 classic is said to capture all the romance and glitter of the Jazz Age?"
       },
       "tags": [
-        "arts_and_literature"
+        "literature",
+        "arts_and_literature",
+        "classic_novels"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -626,19 +607,41 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506d2",
-      "correctAnswer": "Ron Perlman",
+      "id": "625fd6cddc0dd3b72da64d0c",
+      "correctAnswer": "1968",
       "incorrectAnswers": [
-        "Seth Rogen",
-        "John Turturro",
-        "Jean-Claude Van Damme"
+        "1950",
+        "1956",
+        "1962"
       ],
       "question": {
-        "text": "Which actor has appeared in both \"Sons of Anarchy\" and \"Fantastic Beasts and Where to Find Them\"?"
+        "text": "In which year was 2001: A Space Odyssey released?"
       },
       "tags": [
-        "film_and_tv",
-        "acting"
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624334dacfaae40c1296146d",
+      "correctAnswer": "A Pup",
+      "incorrectAnswers": [
+        "A Larva",
+        "A Farrow",
+        "A Joey"
+      ],
+      "question": {
+        "text": "A young otter is known as what?"
+      },
+      "tags": [
+        "words",
+        "animals",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
