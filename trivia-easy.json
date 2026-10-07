@@ -1,25 +1,132 @@
 {
-  "gameDate": "2026-10-06",
+  "gameDate": "2026-10-07",
   "difficulty": "easy",
   "results": [
     {
+      "category": "arts_and_literature",
+      "id": "648891854cd3f064f443dc27",
+      "correctAnswer": "The Yellow Brick Road",
+      "incorrectAnswers": [
+        "The Red Brick Road",
+        "The Emerald Road",
+        "The Sapphire Road"
+      ],
+      "question": {
+        "text": "What did Dorothy and her friends walk down in The Wizard of Oz?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "literature",
+        "childrens_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
       "category": "society_and_culture",
-      "id": "64824e707778562fd76a9646",
-      "correctAnswer": "Giorgio Armani",
+      "id": "62ab32d25202de619af28129",
+      "correctAnswer": "Porsche",
       "incorrectAnswers": [
-        "Gucci Adriano",
-        "Giovanni Anselmi",
-        "Gabriel Alvarez"
+        "Volkswagen",
+        "Rolls-Royce",
+        "Citroën"
       ],
       "question": {
-        "text": "Which Italian fashion designer has the initials G.A.?"
+        "text": "The 911 is a model of car made by which manufacturer?"
       },
       "tags": [
-        "designers",
-        "fashion",
+        "motoring",
+        "business",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056fb77a97013de78b54a8",
+      "correctAnswer": "Tropical region",
+      "incorrectAnswers": [
+        "Temperate region",
+        "Polar region",
+        "Arctic region"
+      ],
+      "question": {
+        "text": "What region receives the most heat from the Sun?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fb93",
+      "correctAnswer": "\"September\" by Earth, Wind & Fire",
+      "incorrectAnswers": [
+        "\"Yo Home to Bel-Air\"",
+        "\"What I Got\" by Sublime",
+        "\"American Pie\" by Don McLean"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"Do you remember, the 21st night of September?\"?"
+      },
+      "tags": [
+        "songs",
+        "lyrics",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63e13a2a106de6ffa7d4a7a9",
+      "correctAnswer": "Spinal cord",
+      "incorrectAnswers": [
+        "Vagus nerve",
+        "Ribcage",
+        "Trachea"
+      ],
+      "question": {
+        "text": "In the human body, what is the name of the structure that runs down the middle of the back?"
+      },
+      "tags": [
+        "science",
+        "biology",
+        "anatomy"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd70",
+      "correctAnswer": "Cher",
+      "incorrectAnswers": [
+        "Lady Gaga",
+        "Sia",
+        "Madonna"
+      ],
+      "question": {
+        "text": "Whose Real Name Is 'Cherilyn Sarkisian La Pier'?"
+      },
+      "tags": [
+        "pseudonyms",
         "people",
-        "society_and_culture",
-        "italy"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -27,86 +134,21 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "65056f917a97013de78b5476",
-      "correctAnswer": "Rocky Mountains",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8a9",
+      "correctAnswer": "Football",
       "incorrectAnswers": [
-        "Transantarctic mountains",
-        "Andes",
-        "Himalayas"
+        "Cycling",
+        "Hockey",
+        "Skiing"
       ],
       "question": {
-        "text": "Which mountain range does the Colorado River flow through?"
+        "text": "With which sport is Diego Maradona associated?"
       },
       "tags": [
-        "geography",
-        "rivers",
-        "mountains"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6462624aab138b829b81e9de",
-      "correctAnswer": "Due",
-      "incorrectAnswers": [
-        "Earned",
-        "Needed",
-        "Appreciated"
-      ],
-      "question": {
-        "text": "Complete this popular saying: 'Give credit where credit is _______'"
-      },
-      "tags": [
-        "sayings",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515cb",
-      "correctAnswer": "Mexico ",
-      "incorrectAnswers": [
-        "China",
-        "France",
-        "Australia"
-      ],
-      "question": {
-        "text": "From which country does the drink Tequila originate?"
-      },
-      "tags": [
-        "drink",
-        "alcohol",
-        "countries",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950246",
-      "correctAnswer": "Avocado ",
-      "incorrectAnswers": [
-        "Cucumber",
-        "Tomato",
-        "Mango"
-      ],
-      "question": {
-        "text": "Which Is The Main Ingredient Of Guacamole?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
+        "people",
+        "general_knowledge",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -115,15 +157,15 @@
     },
     {
       "category": "science",
-      "id": "65056f797a97013de78b5455",
-      "correctAnswer": "Charcoal",
+      "id": "622a1c3a7cc59eab6f951081",
+      "correctAnswer": "Blue",
       "incorrectAnswers": [
-        "Amber",
-        "Gold",
-        "Copper"
+        "Yellow",
+        "Purple",
+        "Red"
       ],
       "question": {
-        "text": "What is produced by heating wood without oxygen?"
+        "text": "What Colour Is Sonic the Hedgehog?"
       },
       "tags": [
         "science"
@@ -134,40 +176,20 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62602e0a4b176d54800e3cbd",
-      "correctAnswer": "Italy",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe7f",
+      "correctAnswer": "Lady Gaga",
       "incorrectAnswers": [
-        "Portugal",
-        "Switzerland",
-        "Hungary"
+        "Hikaru Utada",
+        "Drake",
+        "Madonna"
       ],
       "question": {
-        "text": "In which country is the city of Florence?"
+        "text": "Which American singer, songwriter, and actress released the song 'Bad Romance'?"
       },
       "tags": [
-        "cities",
-        "europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056ffa7a97013de78b5505",
-      "correctAnswer": "Hummingbirds",
-      "incorrectAnswers": [
-        "Kiwis",
-        "Storks",
-        "Parrots"
-      ],
-      "question": {
-        "text": "What is the only group of birds that can fly backwards?"
-      },
-      "tags": [
-        "science"
+        "general_knowledge",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -176,19 +198,86 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "63a03984c7d86251f9b65c72",
-      "correctAnswer": "Humpty Dumpty",
+      "id": "649b4f4f828109028d236251",
+      "correctAnswer": "A Spider",
       "incorrectAnswers": [
-        "Hey Diddle Diddle",
-        "Mary Had a Little Lamb",
-        "Baa Baa Black Sheep"
+        "A Pig",
+        "A Sheep",
+        "A Horse"
       ],
       "question": {
-        "text": "What nursery rhyme is about a man who falls off a wall?"
+        "text": "In E.B. White's classic children's book \"Charlotte's Web\", what kind of animal is Charlotte?"
       },
       "tags": [
+        "animals",
+        "childrens_literature",
         "arts_and_literature",
-        "nursery_rhymes"
+        "literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fbb3",
+      "correctAnswer": "\"Pokémon Theme\" by Jason Paige",
+      "incorrectAnswers": [
+        "\"Let it Be\" by the Beatles",
+        "\"I'm Real (Murder Remix) by Jennifer Lopez and Ja Rule",
+        "\"In da Club\" by 50 Cent"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"I wanna be the very best...\"?"
+      },
+      "tags": [
+        "lyrics",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bd7",
+      "correctAnswer": "Guns N' Roses",
+      "incorrectAnswers": [
+        "Mötley Crüe",
+        "Def Leppard",
+        "Skid Row"
+      ],
+      "question": {
+        "text": "Which American hard rock band released the song 'Welcome to the Jungle'?"
+      },
+      "tags": [
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "62506447e12f6dec240bdfa7",
+      "correctAnswer": "I'm Gonna Be (500 Miles)",
+      "incorrectAnswers": [
+        "Puttin' on the Ritz",
+        "Unbelievable",
+        "I'm Too Sexy"
+      ],
+      "question": {
+        "text": "The Proclaimers had a one hit wonder in 1989 with which song?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -197,20 +286,23 @@
     },
     {
       "category": "science",
-      "id": "650570337a97013de78b5555",
-      "correctAnswer": "Penguin",
+      "id": "645b4f1f067ef798d145508b",
+      "correctAnswer": "Daisy",
       "incorrectAnswers": [
-        "Stork",
-        "Eagle",
-        "Swan"
+        "Rose",
+        "Tulip",
+        "Orchid"
       ],
       "question": {
-        "text": "Which of these birds can swim but not fly?"
+        "text": "What plant species, whose scientific name is Chrysanthemum maximum, includes the shasta variety?"
       },
       "tags": [
+        "flowers",
+        "gardening",
+        "botany",
+        "plants",
         "science",
-        "animals",
-        "birds"
+        "biology"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -219,15 +311,121 @@
     },
     {
       "category": "food_and_drink",
-      "id": "65056e6e7a97013de78b52e0",
-      "correctAnswer": "Onions",
+      "id": "622a1c3b7cc59eab6f9515cc",
+      "correctAnswer": "Spain ",
       "incorrectAnswers": [
-        "Broccoli",
-        "Cauliflower",
-        "Turnip"
+        "Italy",
+        "France",
+        "Russia"
       ],
       "question": {
-        "text": "What food makes your eyes water when cut?"
+        "text": "From which country does the dish paella originate?"
+      },
+      "tags": [
+        "food",
+        "general_knowledge",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60bc50d1a5e051325a70",
+      "correctAnswer": "Japan",
+      "incorrectAnswers": [
+        "Turkey",
+        "Spain",
+        "Estonia"
+      ],
+      "question": {
+        "text": "Where in the world would you most expect to be served Sushi?"
+      },
+      "tags": [
+        "food",
+        "general_knowledge",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056e517a97013de78b52b8",
+      "correctAnswer": "Titanic",
+      "incorrectAnswers": [
+        "Britannic",
+        "Lusitania",
+        "Queen Mary"
+      ],
+      "question": {
+        "text": "Which ship was famously described as 'unsinkable' before it sank after hitting an iceberg?"
+      },
+      "tags": [
+        "history",
+        "maritime",
+        "ships"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6266bc3fff2394bd44dee001",
+      "correctAnswer": "Stringed",
+      "incorrectAnswers": [
+        "Woodwind",
+        "Percussion",
+        "Brass"
+      ],
+      "question": {
+        "text": "What type of instrument is a violin?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "65056f447a97013de78b540b",
+      "correctAnswer": "Canada",
+      "incorrectAnswers": [
+        "Denmark",
+        "Greenland",
+        "Australia"
+      ],
+      "question": {
+        "text": "In which country is the province of Nova Scotia?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "65056e3e7a97013de78b529d",
+      "correctAnswer": "Turnip",
+      "incorrectAnswers": [
+        "Cherry",
+        "Plum",
+        "Lúcuma"
+      ],
+      "question": {
+        "text": "Which of these foods is not a fruit?"
       },
       "tags": [
         "food_and_drink",
@@ -239,21 +437,19 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbc5",
-      "correctAnswer": "\"I love lamp.\"",
+      "category": "science",
+      "id": "65056faf7a97013de78b549e",
+      "correctAnswer": "Bamboo",
       "incorrectAnswers": [
-        "\"Rosebud.\"",
-        "\"You're gonna need a bigger boat.\"",
-        "\"Shane. Shane. Come back!\""
+        "Wild rice",
+        "Wheatgrass",
+        "Blue grama"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Anchorman: The Legend of Ron Burgundy'?"
+        "text": "What is the tallest grass in the world?"
       },
       "tags": [
-        "songs",
-        "film",
-        "film_and_tv"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -261,41 +457,21 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "6476390cf05ea6d6f587a189",
-      "correctAnswer": "Itinerary",
+      "category": "society_and_culture",
+      "id": "62628864014f58b5fc1a3fd6",
+      "correctAnswer": "There are some things money can't buy",
       "incorrectAnswers": [
-        "List",
-        "Voyage",
-        "Menu"
+        "Everywhere you want to be",
+        "Because Change Happens",
+        "The World's Local Bank"
       ],
       "question": {
-        "text": "What is the term for a list of places to visit on a journey?"
+        "text": "What is the marketing slogan of Mastercard?"
       },
       "tags": [
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eab",
-      "correctAnswer": "J. K. Rowling",
-      "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
-      ],
-      "question": {
-        "text": "Which author wrote 'Harry Potter and the Order of the Phoenix'?"
-      },
-      "tags": [
-        "harry_potter",
-        "literature",
-        "arts_and_literature"
+        "business",
+        "marketing",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -304,15 +480,15 @@
     },
     {
       "category": "science",
-      "id": "65056fa87a97013de78b5495",
-      "correctAnswer": "Skin",
+      "id": "65056fcd7a97013de78b54c7",
+      "correctAnswer": "Leaf",
       "incorrectAnswers": [
-        "Heart",
-        "Kidney",
-        "Bladder"
+        "Lateral root",
+        "Bark",
+        "Primary root"
       ],
       "question": {
-        "text": "What is the largest organ of the human body?"
+        "text": "In which part of a plant does photosynthesis mainly take place?"
       },
       "tags": [
         "science"
@@ -324,67 +500,20 @@
     },
     {
       "category": "music",
-      "id": "648891824cd3f064f443dc0c",
-      "correctAnswer": "The Beach Boys",
+      "id": "64f6d9b9660c3a8d960101e2",
+      "correctAnswer": "3000",
       "incorrectAnswers": [
-        "The Beatles",
-        "The Rolling Stones",
-        "The Four Tops"
+        "2000",
+        "1000",
+        "4000"
       ],
       "question": {
-        "text": "Who had a hit in 1964 with the song 'I Get Around'?"
+        "text": "Which actor and musician, a member of OutKast, is known as André ____?"
       },
       "tags": [
-        "songs",
+        "actors",
         "music",
-        "1960's"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd5a",
-      "correctAnswer": "The Fresh Prince",
-      "incorrectAnswers": [
-        "DJ Jazzy Jeff",
-        "Eminem",
-        "Jay Z"
-      ],
-      "question": {
-        "text": "What is Will Smith's Rapper Alter Ego?"
-      },
-      "tags": [
-        "pseudonyms",
-        "people",
-        "musicians",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff4d",
-      "correctAnswer": "Michael Jackson",
-      "incorrectAnswers": [
-        "Prince",
-        "Stevie Wonder",
-        "Lionel Richie"
-      ],
-      "question": {
-        "text": "Which musician released the album 'Off the Wall'?"
-      },
-      "tags": [
-        "music_albums",
-        "musicians",
-        "1980's",
-        "general_knowledge",
-        "music"
+        "entertainment"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -393,148 +522,22 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f9510e0",
-      "correctAnswer": "Pediatrician",
+      "id": "64f6d9c9660c3a8d96010202",
+      "correctAnswer": "The tail",
       "incorrectAnswers": [
-        "Physician",
-        "Oncologist",
-        "Gynaecologist"
+        "The horns",
+        "The legs",
+        "The claws"
       ],
       "question": {
-        "text": "A doctor who specializes in infants, children and young people is called a ______"
+        "text": "What body part can geckos snap off and leave behind when in danger?"
       },
       "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056feb7a97013de78b54f0",
-      "correctAnswer": "Epidermis",
-      "incorrectAnswers": [
-        "Dermis",
-        "Cartilage",
-        "Ligament"
-      ],
-      "question": {
-        "text": "What is the outermost layer of our skin?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbbf",
-      "correctAnswer": "\"Just keep swimming.\"",
-      "incorrectAnswers": [
-        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\"",
-        "\"We'll always have Paris.\"",
-        "\"Today, I consider myself the luckiest man on the face of the earth.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Finding Nemo'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "6398983b5c9a75021f310467",
-      "correctAnswer": "Adolf Hitler",
-      "incorrectAnswers": [
-        "Benito Mussolini",
-        "Joseph Stalin",
-        "Winston Churchill"
-      ],
-      "question": {
-        "text": "Who was the leader of Nazi Germany during World War II?"
-      },
-      "tags": [
-        "history",
-        "world_war_2",
-        "wars",
-        "people",
-        "germany",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950598",
-      "correctAnswer": "The influences of celestial bodies on earthly affairs",
-      "incorrectAnswers": [
-        "Friction at very small scale",
-        "The Sun",
-        "Men"
-      ],
-      "question": {
-        "text": "What is astrology the study of?"
-      },
-      "tags": [
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501c4",
-      "correctAnswer": "Harry Potter and the Philosopher's Stone",
-      "incorrectAnswers": [
-        "The Battle of the Labyrinth",
-        "Harry Potter and the Half-Blood Prince",
-        "The Sea of Monsters"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'Mr and Mrs Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.'?"
-      },
-      "tags": [
-        "quotes",
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056f7d7a97013de78b545b",
-      "correctAnswer": "Carbon dioxide",
-      "incorrectAnswers": [
-        "Butyric acid",
-        "Ammonia",
-        "Phenol"
-      ],
-      "question": {
-        "text": "What waste product is produced when we breathe?"
-      },
-      "tags": [
-        "science"
+        "reptiles",
+        "animals",
+        "biology",
+        "science",
+        "nature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -543,17 +546,18 @@
     },
     {
       "category": "geography",
-      "id": "65056f0c7a97013de78b53bd",
-      "correctAnswer": "White",
+      "id": "62602d414b176d54800e3c8a",
+      "correctAnswer": "Canada",
       "incorrectAnswers": [
-        "Orange",
-        "Black",
-        "Blue"
+        "Australia",
+        "New Zealand",
+        "United States"
       ],
       "question": {
-        "text": "What is the color of the cross on the Swiss flag?"
+        "text": "Where would you find the city of Vancouver?"
       },
       "tags": [
+        "cities",
         "geography"
       ],
       "type": "text_choice",
@@ -563,38 +567,20 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "69a561ae03d8987f10a83b14",
-      "correctAnswer": "Porridge",
+      "id": "6abb55aa350de7c80d60c588",
+      "correctAnswer": "Delft",
       "incorrectAnswers": [
-        "Cake",
-        "Bread",
-        "Soup"
+        "Gouda",
+        "Leiden",
+        "Utrecht"
       ],
       "question": {
-        "text": "In 'Goldilocks and the Three Bears', what does Goldilocks eat from the bears' house?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fba1",
-      "correctAnswer": "\"Circle of Life\" by Elton John",
-      "incorrectAnswers": [
-        "\"SpongeBob SquarePants Theme\" by Painty the Pirate",
-        "\"Let's Go Crazy\" by Prince and The Revolution",
-        "\"What I Got\" by Sublime"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"Nants ingonyama bagithi Baba / Sithi uhm ingonyama...\"?"
+        "text": "Which Dutch city is known for its blue-and-white pottery?"
       },
       "tags": [
-        "songs",
-        "lyrics",
-        "music"
+        "delft",
+        "pottery",
+        "netherlands"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -602,20 +588,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950ded",
-      "correctAnswer": "Queen",
+      "category": "geography",
+      "id": "6463394f01d576cfac3aa33b",
+      "correctAnswer": "Alaska & Hawaii",
       "incorrectAnswers": [
-        "Led Zeppelin",
-        "The Who",
-        "Pink Floyd"
+        "Maine & New Hampshire",
+        "Vermont & Massachusetts",
+        "Rhode Island & Connecticut"
       ],
       "question": {
-        "text": "Which band had Freddie Mercury as its lead vocalist?"
+        "text": "Which 2 US states share no land border with other states?"
       },
       "tags": [
-        "people",
-        "music"
+        "usa",
+        "us_states",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -623,19 +610,40 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "6266bc26ff2394bd44dedffb",
-      "correctAnswer": "Percussion",
+      "category": "film_and_tv",
+      "id": "625740939da29df7b05f73e8",
+      "correctAnswer": "A paleontologist is tasked with protecting two children when cloned dinosaurs are set free.",
       "incorrectAnswers": [
-        "Woodwind",
-        "Brass",
-        "Stringed"
+        "During WWII a Jewish waiter uses humor to protect his son from the realities of war.",
+        "A maverick teacher emboldens his students to new heights of self-expression.",
+        "A car salesman's inept crime falls apart due to his and his henchmen's bungling."
       ],
       "question": {
-        "text": "What type of instrument is a cowbell?"
+        "text": "What is the plot of the movie Jurassic Park?"
       },
       "tags": [
-        "music"
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056f9e7a97013de78b5487",
+      "correctAnswer": "Epidemic",
+      "incorrectAnswers": [
+        "Ingestion",
+        "Depression",
+        "Syndrome"
+      ],
+      "question": {
+        "text": "What is the rapid outbreak and spread of a disease?"
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
