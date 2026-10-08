@@ -1,21 +1,63 @@
 {
-  "gameDate": "2026-10-07",
+  "gameDate": "2026-10-08",
   "difficulty": "medium",
   "results": [
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a31",
-      "correctAnswer": "Gladiators",
+      "category": "society_and_culture",
+      "id": "622a1c3a7cc59eab6f9511be",
+      "correctAnswer": "Brahman",
       "incorrectAnswers": [
-        "Knights",
-        "Ninjas",
-        "Beserkers"
+        "Veda",
+        "Buddha",
+        "Vishnu"
       ],
       "question": {
-        "text": "Which fighters began a bout by saying, 'Hail Emperor, those about to die salute you'?"
+        "text": "What is the name given to the supreme reality in Hinduism?"
       },
       "tags": [
-        "history"
+        "hinduism",
+        "religion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c97",
+      "correctAnswer": "The Rolling Stones",
+      "incorrectAnswers": [
+        "McFly",
+        "Delirious?",
+        "Depeche Mode"
+      ],
+      "question": {
+        "text": "Which English rock band released the song 'Sympathy for the Devil'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f9500ca",
+      "correctAnswer": "16",
+      "incorrectAnswers": [
+        "12",
+        "10",
+        "14"
+      ],
+      "question": {
+        "text": "How many balls are on a pool table at the start of a game?"
+      },
+      "tags": [
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -24,19 +66,20 @@
     },
     {
       "category": "geography",
-      "id": "647a126555463d5ce2994fe8",
-      "correctAnswer": "Hong Kong",
+      "id": "6233870a0161109f922aabfc",
+      "correctAnswer": "Chicago",
       "incorrectAnswers": [
-        "Taiwan",
-        "Shanghai",
-        "Beijing"
+        "Vancouver",
+        "St. Petersberg",
+        "Sao Paolo"
       ],
       "question": {
-        "text": "Which Chinese special administrative region is located on the other side of the Pearl River estuary from Macau?"
+        "text": "Which city is known as the Windy City?"
       },
       "tags": [
-        "china",
-        "asia"
+        "cities",
+        "nicknames",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -44,19 +87,22 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "65056ef07a97013de78b5396",
-      "correctAnswer": "Building material",
+      "category": "society_and_culture",
+      "id": "637162411bf863c45ca6c363",
+      "correctAnswer": "Memento vivere",
       "incorrectAnswers": [
-        "Political system",
-        "French dance",
-        "Fertilizer"
+        "Vincit qui patitur",
+        "Palma non sine pulvere",
+        "Pro bono"
       ],
       "question": {
-        "text": "What is an \"adobe\"?"
+        "text": "Which of these Latin phrases translates to 'Remember to live'?"
       },
       "tags": [
-        "general_knowledge"
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -65,20 +111,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "624dba67de6018633d31f6c4",
-      "correctAnswer": "Live and Let Die",
+      "id": "622a1c347cc59eab6f94fbcb",
+      "correctAnswer": "\"I’ve been a poor man and I’ve been a rich man. And I choose rich every f****** time!\"",
       "incorrectAnswers": [
-        "Tomorrow Never Dies",
-        "Skyfall",
-        "The Living Daylights"
+        "\"You're gonna need a bigger boat.\"",
+        "\"Keep your friends close, but your enemies closer.\"",
+        "\"Open the pod bay doors, please, HAL.\""
       ],
       "question": {
-        "text": "Which James Bond theme song was performed by Wings?"
+        "text": "Which of these quotes is from the film 'The Wolf of Wall Street'?"
       },
       "tags": [
-        "james_bond",
+        "quotes",
         "film",
-        "soundtracks",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -87,16 +132,149 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f95017c",
-      "correctAnswer": "The Hunchback Of Natre Damme",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950297",
+      "correctAnswer": "Bread ",
       "incorrectAnswers": [
-        "A Tale of Two Cities",
-        "Les Miserables",
-        "The Count of Monte Cristo"
+        "Cheese",
+        "Fish",
+        "Mushroom"
       ],
       "question": {
-        "text": "Which famous book begins with the line \"On January 6, 1482, the people of Paris were awakened by the tumultuous clanging of all the bells in the city\"?"
+        "text": "What type of food is a bloomer?"
+      },
+      "tags": [
+        "food",
+        "words",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602e224b176d54800e3cc4",
+      "correctAnswer": "Daegu",
+      "incorrectAnswers": [
+        "Colombo",
+        "Singapore",
+        "Petaling Jaya"
+      ],
+      "question": {
+        "text": "Which of these cities is in South Korea?"
+      },
+      "tags": [
+        "cities",
+        "asia",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950ba4",
+      "correctAnswer": "Black Eyed Peas",
+      "incorrectAnswers": [
+        "LMFAO",
+        "OutKast",
+        "Run-DMC"
+      ],
+      "question": {
+        "text": "Which American band released the song 'Boom Boom Pow'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510aa",
+      "correctAnswer": "Milky way",
+      "incorrectAnswers": [
+        "Andromeda",
+        "Ursa",
+        "Orion"
+      ],
+      "question": {
+        "text": "What is the name of the galaxy that includes our solar system?"
+      },
+      "tags": [
+        "science",
+        "astronomy",
+        "physics",
+        "space",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6477bacc550bc819ad646b14",
+      "correctAnswer": "Green",
+      "incorrectAnswers": [
+        "Red",
+        "Blue",
+        "Yellow"
+      ],
+      "question": {
+        "text": "What color is traditionally associated with Robin Hood's outfits on film and in illustrations?"
+      },
+      "tags": [
+        "fictitious_characters",
+        "fashion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951886",
+      "correctAnswer": "1958",
+      "incorrectAnswers": [
+        "1980",
+        "1901",
+        "1946"
+      ],
+      "question": {
+        "text": "What year was NASA founded?"
+      },
+      "tags": [
+        "usa",
+        "space_exploration",
+        "organisations",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f95016c",
+      "correctAnswer": "Macduff",
+      "incorrectAnswers": [
+        "Macburn",
+        "Lady Macbeth",
+        "Duncan"
+      ],
+      "question": {
+        "text": "Who killed Macbeth?"
       },
       "tags": [
         "arts_and_literature"
@@ -107,21 +285,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951383",
-      "correctAnswer": "Sherlock Holmes",
+      "category": "science",
+      "id": "63e13a27106de6ffa7d4a7a4",
+      "correctAnswer": "Decagon",
       "incorrectAnswers": [
-        "Harry Potter",
-        "The Lord of the Rings",
-        "Goosebumps"
+        "Octagon",
+        "Hexagon",
+        "Triangle"
       ],
       "question": {
-        "text": "In which book series does Professor Moriarty appear?"
+        "text": "What is the name of a shape with ten sides?"
       },
       "tags": [
-        "arts_and_literature",
-        "literature",
-        "fictitious_characters"
+        "science",
+        "mathematics",
+        "shapes"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -130,132 +308,19 @@
     },
     {
       "category": "science",
-      "id": "645cb1257d263fd5097043ae",
-      "correctAnswer": "Oxygen",
+      "id": "648891864cd3f064f443dc35",
+      "correctAnswer": "Pheromones",
       "incorrectAnswers": [
-        "Helium",
-        "Hydrogen",
-        "Carbon dioxide"
+        "Neurotransmitters",
+        "Hormones",
+        "Proteins"
       ],
       "question": {
-        "text": "What gas, discovered in 1774, gets its name from the Greek words for 'acid' and 'forming'?"
+        "text": "What type of chemical calling cards are released by an animal to affect other members of its species?"
       },
       "tags": [
-        "science",
-        "chemistry",
-        "gases"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6610278f5b813cab24c99f4f",
-      "correctAnswer": "Marmara Sea",
-      "incorrectAnswers": [
-        "Black Sea",
-        "Aegean Sea",
-        "Caspian Sea"
-      ],
-      "question": {
-        "text": "Which sea separates European and Asian Turkey?"
-      },
-      "tags": [
-        "geography",
-        "seas",
-        "turkey"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62c2fa0ab3eadb0437fda6bd",
-      "correctAnswer": "Crane",
-      "incorrectAnswers": [
-        "Butterfly",
-        "Moose",
-        "Crocodile"
-      ],
-      "question": {
-        "text": "Which animal would you associate with the Japan Airlines logo?"
-      },
-      "tags": [
-        "society_and_culture",
-        "business",
-        "marketing",
         "animals",
-        "birds",
-        "symbols",
-        "logos",
-        "aviation"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f952299",
-      "correctAnswer": "24",
-      "incorrectAnswers": [
-        "6",
-        "12",
-        "15"
-      ],
-      "question": {
-        "text": "How many ribs do most humans have?"
-      },
-      "tags": [
-        "science",
-        "anatomy",
         "biology",
-        "numbers"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740a19da29df7b05f73ec",
-      "correctAnswer": "A man sees the spotlight turned on him following his wife's disappearance.",
-      "incorrectAnswers": [
-        "A woman works with a hardened boxing trainer to become a professional.",
-        "A boy and his little sister struggle to survive in Japan during World War II.",
-        "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Gone Girl?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056fe27a97013de78b54e4",
-      "correctAnswer": "Sweat glands",
-      "incorrectAnswers": [
-        "Small intestines",
-        "Scutes",
-        "Teeth"
-      ],
-      "question": {
-        "text": "Which of these do crocodiles not have?"
-      },
-      "tags": [
         "science"
       ],
       "type": "text_choice",
@@ -264,66 +329,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "63e4c368106de6ffa7d4a7ee",
-      "correctAnswer": "Pterodactyl",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f95197c",
+      "correctAnswer": "The Pilgrims",
       "incorrectAnswers": [
-        "Triceratops",
-        "Stegosaurus",
-        "Brachiosaurus"
+        "The Conquistadors",
+        "The Vikings",
+        "The Kingsmen"
       ],
       "question": {
-        "text": "Which of the following is not a dinosaur?"
+        "text": "What group landed in America in 1620?"
       },
       "tags": [
-        "science",
-        "dinosaurs",
-        "nature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "63d95324168979b94b2e4fa6",
-      "correctAnswer": "J. Robert Oppenheimer",
-      "incorrectAnswers": [
-        "Albert Einstein",
-        "Enrico Fermi",
-        "Edward Teller"
-      ],
-      "question": {
-        "text": "Which scientist is known as \"the father of the atomic bomb\"?"
-      },
-      "tags": [
-        "science",
-        "people"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f904",
-      "correctAnswer": "Olivia Newton-John",
-      "incorrectAnswers": [
-        "Tippi Hedren",
-        "Audrey Hepburn",
-        "Kathy Bates"
-      ],
-      "question": {
-        "text": "Which actress played the role of Sandy Olsson in Grease?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "cult_films",
-        "general_knowledge",
-        "film_and_tv"
+        "usa",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -332,39 +351,15 @@
     },
     {
       "category": "society_and_culture",
-      "id": "64824eaa7778562fd76a9664",
-      "correctAnswer": "Oxford",
+      "id": "63dd25c9742e43ed64f1f018",
+      "correctAnswer": "Money Supply",
       "incorrectAnswers": [
-        "Cambridge",
-        "Bristol",
-        "London"
-      ],
-      "question": {
-        "text": "Which British city gives its name to a type of laced shoe as well as a shirting fabric?"
-      },
-      "tags": [
-        "fashion",
-        "society_and_culture",
-        "clothing",
-        "cities",
-        "uk"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63dd25c6742e43ed64f1f014",
-      "correctAnswer": "GDP",
-      "incorrectAnswers": [
-        "Unemployment Rate",
+        "Gross Domestic Product",
         "Inflation Rate",
-        "Exchange Rate"
+        "Circular Flow"
       ],
       "question": {
-        "text": "The rise in what figure is the best measure of an economy's overall health?"
+        "text": "What is the term for the amount of money in circulation in an economy?"
       },
       "tags": [
         "society_and_culture",
@@ -376,61 +371,16 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "647f9db33a4302a719271610",
-      "correctAnswer": "Add 273.15",
-      "incorrectAnswers": [
-        "Add 100",
-        "Multiply by 3.14",
-        "Subtract 32"
-      ],
-      "question": {
-        "text": "What do you have to do to convert a Kelvin temperature to Celsius?"
-      },
-      "tags": [
-        "physics",
-        "chemistry",
-        "measurements",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "645fcc89541c4d4fc8cf308b",
-      "correctAnswer": "Disbar",
+      "id": "622a1c367cc59eab6f95012e",
+      "correctAnswer": "Sinai",
       "incorrectAnswers": [
-        "Debrief",
-        "Devalue",
-        "Disown"
+        "Jerusalem",
+        "Zion",
+        "Lebanon"
       ],
       "question": {
-        "text": "What is the term meaning to take away someone's license to practice law?"
-      },
-      "tags": [
-        "law",
-        "words",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950126",
-      "correctAnswer": "Cow",
-      "incorrectAnswers": [
-        "Pig",
-        "Sheep",
-        "Goat"
-      ],
-      "question": {
-        "text": "What animal's meat can a Hindu not eat?"
+        "text": "On which mountain did Moses receive the Ten Commandments?"
       },
       "tags": [
         "society_and_culture"
@@ -441,45 +391,19 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6462624aab138b829b81e9dd",
-      "correctAnswer": "Mosquito",
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b35",
+      "correctAnswer": "Blondie",
       "incorrectAnswers": [
-        "Fly",
-        "Tick",
-        "Flea"
+        "The Cars",
+        "The Go-Go's",
+        "The Bangles"
       ],
       "question": {
-        "text": "Which insect transmits dengue fever, encephalitis and dog heartworm?"
+        "text": "Which American rock band released the song 'Heart of Glass'?"
       },
       "tags": [
-        "insects",
-        "disease",
-        "science",
-        "medicine"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f9512f3",
-      "correctAnswer": "Charlotte, Emily, Anne",
-      "incorrectAnswers": [
-        "Ashley, Charlotte Margaret",
-        "Charlotte, Emily, Mary",
-        "Anne, Emily, Margaret"
-      ],
-      "question": {
-        "text": "What are the names of the three Brontë sisters?"
-      },
-      "tags": [
-        "people",
-        "literature",
-        "arts_and_literature",
-        "classic_novels"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -488,20 +412,64 @@
     },
     {
       "category": "film_and_tv",
-      "id": "647f9deb3a4302a719271656",
-      "correctAnswer": "Master and Commander",
+      "id": "62573fe49da29df7b05f73b4",
+      "correctAnswer": "Amélie",
       "incorrectAnswers": [
-        "Pirates of the Caribbean",
-        "The Last Samurai",
-        "Gladiator"
+        "Raging Bull",
+        "The Matrix",
+        "Warrior"
       ],
       "question": {
-        "text": "In which period film did Billy Boyd serve as Russell Crowe's coxswain?"
+        "text": "Name the movie that matches the following plot summary: 'A girl with her own sense of justice decides to help those around her and discovers love.'"
       },
       "tags": [
         "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645fcc89541c4d4fc8cf308a",
+      "correctAnswer": "The Clio Awards",
+      "incorrectAnswers": [
+        "The Emmy Awards",
+        "The Razzie Awards",
+        "The Tony Awards"
+      ],
+      "question": {
+        "text": "What is the name of the awards handed out for the best TV and radio commercials?"
+      },
+      "tags": [
+        "advertising",
+        "marketing",
+        "awards",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950695",
+      "correctAnswer": "Jamie Foxx",
+      "incorrectAnswers": [
+        "Hugo Weaving",
+        "Warwick Davis",
+        "Timothy Spall"
+      ],
+      "question": {
+        "text": "Which actor has starred in both Django Unchained and Dreamgirls?"
+      },
+      "tags": [
         "film_and_tv",
-        "seafaring"
+        "film",
+        "acting"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -509,22 +477,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "64bee2e595a7194220973957",
-      "correctAnswer": "Deltoid",
+      "category": "film_and_tv",
+      "id": "645cb0ac7d263fd509704374",
+      "correctAnswer": "Dead Man's Chest",
       "incorrectAnswers": [
-        "Bicep",
-        "Tricep",
-        "Gluteal"
+        "Curse of the Black Pearl",
+        "At World's End",
+        "On Stranger Tides"
       ],
       "question": {
-        "text": "What is the name of the large muscle that covers the shoulder joint?"
+        "text": "What was the name of the second 'Pirates of the Caribbean' movie?"
       },
       "tags": [
-        "anatomy",
-        "muscles",
-        "biology",
-        "science"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -532,23 +498,21 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "6242e833a22452794eaef207",
-      "correctAnswer": "The Canaries",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951897",
+      "correctAnswer": "Papa Doc",
       "incorrectAnswers": [
-        "The Tigers",
-        "The Foxes",
-        "The Posh"
+        "Big Daddy",
+        "Pa Lordy",
+        "Man Man Judge"
       ],
       "question": {
-        "text": "What is the nickname of the English football team Norwich City?"
+        "text": "What was the nickname of President Duvalier of Haiti, who died in 1971?"
       },
       "tags": [
-        "football",
-        "uk",
-        "soccer",
-        "nicknames",
-        "sport"
+        "politics",
+        "leaders",
+        "nicknames"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -556,42 +520,19 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "625e9efd796f721e95543f7b",
-      "correctAnswer": "Jamaica",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95028d",
+      "correctAnswer": "Coconut milk ",
       "incorrectAnswers": [
-        "Morocco",
-        "Gabon",
-        "Spain"
+        "Almond milk",
+        "Goat milk",
+        "Sheep milk"
       ],
       "question": {
-        "text": "Which country's flag can be described as 'Black and green triangles divided by a yellow cross.'?"
+        "text": "What type of milk is a basic ingredient of Thai cookery?"
       },
       "tags": [
-        "flags",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "648ee4224fe93387161138a4",
-      "correctAnswer": "India",
-      "incorrectAnswers": [
-        "Japan",
-        "Thailand",
-        "Sri Lanka"
-      ],
-      "question": {
-        "text": "The Dharma Chakra or 'Wheel of Law' appears on the flag of which country?"
-      },
-      "tags": [
-        "flags",
-        "countries",
-        "geography"
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -600,18 +541,17 @@
     },
     {
       "category": "music",
-      "id": "6477ba5a550bc819ad646a6b",
-      "correctAnswer": "Fergie",
+      "id": "6266bc3bff2394bd44dee000",
+      "correctAnswer": "Stringed",
       "incorrectAnswers": [
-        "Gaga",
-        "RiRi",
-        "Bey"
+        "Percussion",
+        "Woodwind",
+        "Brass"
       ],
       "question": {
-        "text": "What is the name of the woman from The Black Eyed Peas?"
+        "text": "What type of instrument is a double bass?"
       },
       "tags": [
-        "bands",
         "music"
       ],
       "type": "text_choice",
@@ -620,20 +560,19 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9504d8",
-      "correctAnswer": "the eyes",
+      "category": "general_knowledge",
+      "id": "622a1c3a7cc59eab6f95107e",
+      "correctAnswer": "1 year",
       "incorrectAnswers": [
-        "bacteria",
-        "crayfish",
-        "signs"
+        "1 month",
+        "1 week",
+        "1 day"
       ],
       "question": {
-        "text": "What is Ophthalmology the study of?"
+        "text": "Two rats can become the progenitors of 15,000 rats in less than"
       },
       "tags": [
-        "words",
-        "science"
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -642,21 +581,63 @@
     },
     {
       "category": "music",
-      "id": "622a1c347cc59eab6f94fbb0",
-      "correctAnswer": "\"The Sound of Silence\" by Simon & Garfunkel",
+      "id": "6462628bab138b829b81ea21",
+      "correctAnswer": "Que sera sera",
       "incorrectAnswers": [
-        "\"Jumpin', Jumpin'\" by Destiny's Child",
-        "\"Gimme More\" by Britney Spears",
-        "\"1,2 Step\" by Ciara and Missy Elliott"
+        "Carpe diem",
+        "Cogito ergo sum",
+        "Hakuna Matata"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"Hello darkness, my old friend...\"?"
+        "text": "What popular maxim is the title of a 1956 song by Doris Day?"
       },
       "tags": [
         "songs",
-        "lyrics",
-        "general_knowledge",
+        "phrases",
         "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63dd25d2742e43ed64f1f028",
+      "correctAnswer": "Consumer Spending",
+      "incorrectAnswers": [
+        "Personal Spending",
+        "Investment Spending",
+        "Big Spending"
+      ],
+      "question": {
+        "text": "In economics, what is the term for the amount of money that individuals spend on goods and services?"
+      },
+      "tags": [
+        "society_and_culture",
+        "economics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "645f9526541c4d4fc8cf2eb5",
+      "correctAnswer": "The Pacific Ocean",
+      "incorrectAnswers": [
+        "The Atlantic Ocean",
+        "The Indian Ocean",
+        "The Caribbean Sea"
+      ],
+      "question": {
+        "text": "Which surrounding body of water is represented by the blue triangle on the flag of the Solomon Islands?"
+      },
+      "tags": [
+        "flags",
+        "islands",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
