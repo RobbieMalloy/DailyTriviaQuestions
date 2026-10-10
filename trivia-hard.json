@@ -1,21 +1,44 @@
 {
-  "gameDate": "2026-10-09",
+  "gameDate": "2026-10-10",
   "difficulty": "hard",
   "results": [
     {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f9500c8",
+      "correctAnswer": "Five",
+      "incorrectAnswers": [
+        "Twelve",
+        "Two",
+        "Nine"
+      ],
+      "question": {
+        "text": "How Many Consecutive Wimbledon Titles Did Bjorn Borg Win?"
+      },
+      "tags": [
+        "sport",
+        "tennis",
+        "people"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
       "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f95161d",
-      "correctAnswer": "A gelatine substitute",
+      "id": "6271645f1ba117625baac95b",
+      "correctAnswer": "Turkey",
       "incorrectAnswers": [
-        "A sweetener",
-        "A spice",
-        "A raising agent"
+        "Spain",
+        "France",
+        "Taiwan"
       ],
       "question": {
-        "text": "Agar-agar is often used in cooking. What is it?"
+        "text": "Which country is associated with the drink rakı?"
       },
       "tags": [
-        "food_and_drink"
+        "drink",
+        "alcohol"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -23,39 +46,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950109",
-      "correctAnswer": "Oak",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa41",
+      "correctAnswer": "Neoclassicism",
       "incorrectAnswers": [
-        "Pine",
-        "Cedar",
-        "Walnut"
+        "Baroque",
+        "Dutch Golden Age",
+        "High Renaissance"
       ],
       "question": {
-        "text": "Which tree do Druids regard sacred ?"
+        "text": "The painting \"The Grand Odalisque\" by Jean Auguste Dominique Ingres is a part of which art movement?"
       },
       "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950118",
-      "correctAnswer": "Calvary",
-      "incorrectAnswers": [
-        "Lutheros",
-        "Pellenor",
-        "Idris"
-      ],
-      "question": {
-        "text": "What is the name of the field where Christ was crucified?"
-      },
-      "tags": [
-        "society_and_culture"
+        "painting",
+        "art",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -64,20 +69,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950679",
-      "correctAnswer": "Tim Roth",
+      "id": "622a1c347cc59eab6f94f92b",
+      "correctAnswer": "Being There",
       "incorrectAnswers": [
-        "Paul Newman",
-        "Tobey Maguire",
-        "Elijah Wood"
+        "The Godfather",
+        "Pirates of the Caribbean",
+        "Wall Street"
       ],
       "question": {
-        "text": "Which actor has appeared in films including The Incredible Hulk and Pulp Fiction?"
+        "text": "Which film contains the character 'Chance the Gardener'?"
       },
       "tags": [
-        "film_and_tv",
         "film",
-        "acting"
+        "fictitious_characters",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -86,15 +91,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625fd6f6dc0dd3b72da64d18",
-      "correctAnswer": "1965",
+      "id": "625fd725dc0dd3b72da64d26",
+      "correctAnswer": "1996",
       "incorrectAnswers": [
-        "1959",
-        "1971",
-        "1977"
+        "1992",
+        "2000",
+        "2004"
       ],
       "question": {
-        "text": "In which year was For a Few Dollars More released?"
+        "text": "In which year was Fargo first released in the cinema?"
       },
       "tags": [
         "film",
@@ -106,19 +111,505 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c3d7cc59eab6f951c17",
-      "correctAnswer": "Turnip",
+      "category": "science",
+      "id": "622a1c3f7cc59eab6f9523a4",
+      "correctAnswer": "Stomata",
       "incorrectAnswers": [
-        "Swede",
-        "Potato",
-        "Carrot"
+        "Stigma",
+        "Sepal",
+        "Petal"
       ],
       "question": {
-        "text": "From what were Jack-o-Lanterns first made?"
+        "text": "What word describes the porous openings on the surface of leaves?"
       },
       "tags": [
-        "food",
+        "words",
+        "biology",
+        "plants",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950a1a",
+      "correctAnswer": "France",
+      "incorrectAnswers": [
+        "Luxembourg",
+        "Denmark",
+        "Switzerland"
+      ],
+      "question": {
+        "text": "Which of these countries borders Kingdom of the Netherlands?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c3a7cc59eab6f951017",
+      "correctAnswer": "Chevrolet",
+      "incorrectAnswers": [
+        "Ford",
+        "Gmc",
+        "Pontiac"
+      ],
+      "question": {
+        "text": "What Make Of Car Did Don Mclean Drive To The Levy In American Pie?"
+      },
+      "tags": [
+        "lyrics",
+        "songs",
+        "motoring",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9501d9",
+      "correctAnswer": "Chris Columbus",
+      "incorrectAnswers": [
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
+      ],
+      "question": {
+        "text": "Which director directed Home Alone?"
+      },
+      "tags": [
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcc2",
+      "correctAnswer": "Afroasiatic",
+      "incorrectAnswers": [
+        "Turkic",
+        "Sino-Tibetan",
+        "Kra–Dai"
+      ],
+      "question": {
+        "text": "The language 'Saʽidi Arabic' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "647edb8d520523194910c34d",
+      "correctAnswer": "Mahjong",
+      "incorrectAnswers": [
+        "Sudoku",
+        "Shogi",
+        "Go"
+      ],
+      "question": {
+        "text": "What game involves tiles with dots, cracks, and bams?"
+      },
+      "tags": [
+        "games",
+        "board_games"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95131a",
+      "correctAnswer": "The Tabard",
+      "incorrectAnswers": [
+        "The King's Head",
+        "The Red Lion",
+        "The Altar"
+      ],
+      "question": {
+        "text": "In \"The Canterbury Tales\", at which tavern do the story tellers assemble?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "literature",
+        "medieval",
+        "middle_ages"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "647edb90520523194910c35c",
+      "correctAnswer": "Dermatitis",
+      "incorrectAnswers": [
+        "Eczema",
+        "Psoriasis",
+        "Acne"
+      ],
+      "question": {
+        "text": "What term is used to describe a number of skin inflammations and is from the Greek word for 'skin'?"
+      },
+      "tags": [
+        "medicine",
+        "language",
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95046a",
+      "correctAnswer": "Flags",
+      "incorrectAnswers": [
+        "Spiders",
+        "Languages",
+        "God"
+      ],
+      "question": {
+        "text": "What is Vexillology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8f0",
+      "correctAnswer": "Bill Murray",
+      "incorrectAnswers": [
+        "Jeff Bridges",
+        "John Belushi",
+        "Joe Pesci"
+      ],
+      "question": {
+        "text": "Which actor played the role of Carl Spackler in Caddyshack?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950555",
+      "correctAnswer": "The influence of soil on life",
+      "incorrectAnswers": [
+        "Classical music",
+        "The characteristics of the skull",
+        "Bacteria and fungal spores"
+      ],
+      "question": {
+        "text": "What is Edaphology the study of?"
+      },
+      "tags": [
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f95079c",
+      "correctAnswer": "Brad Pitt",
+      "incorrectAnswers": [
+        "Matt Damon",
+        "Robert De Niro",
+        "George Clooney"
+      ],
+      "question": {
+        "text": "Which actor has starred in films including Deadpool 2 and Inglourious Basterds?"
+      },
+      "tags": [
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645cb0e67d263fd509704389",
+      "correctAnswer": "a metrosexual",
+      "incorrectAnswers": [
+        "a dickie bow",
+        "a hipster",
+        "a natty dresser"
+      ],
+      "question": {
+        "text": "What slang word is often applied to an urban man who is fastidious about his grooming and fashion?"
+      },
+      "tags": [
+        "words",
+        "slang",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950486",
+      "correctAnswer": "especially as related to Christianity",
+      "incorrectAnswers": [
+        "human beings killing other human beings",
+        "the study and design of machines at the molecular level",
+        "the physiological bases of psychological processes"
+      ],
+      "question": {
+        "text": "What is Soteriology the study of?"
+      },
+      "tags": [
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374273cb85f7ce9e949dce",
+      "correctAnswer": "Paramaribo",
+      "incorrectAnswers": [
+        "Havana",
+        "Manila",
+        "Sarajevo"
+      ],
+      "question": {
+        "text": "What is the capital city of Suriname?"
+      },
+      "tags": [
+        "capital_cities",
+        "central_america",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374127cb85f7ce9e949d48",
+      "correctAnswer": "Tripoli",
+      "incorrectAnswers": [
+        "Managua",
+        "Yaren District",
+        "Quito"
+      ],
+      "question": {
+        "text": "What is the capital city of Libya?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504f2",
+      "correctAnswer": "fungi",
+      "incorrectAnswers": [
+        "male health and disease",
+        "plankton",
+        "music"
+      ],
+      "question": {
+        "text": "What is Mycology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "646338e001d576cfac3aa2f6",
+      "correctAnswer": "\"Spellbound\"",
+      "incorrectAnswers": [
+        "\"Vertigo\"",
+        "\"Psycho\"",
+        "\"Rear Window\""
+      ],
+      "question": {
+        "text": "In which 1945 Hitchcock classic does Gregory Peck not remember if he committed a murder?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa58",
+      "correctAnswer": "Suprematism",
+      "incorrectAnswers": [
+        "post-impressionism",
+        "Italian Renaissance",
+        "Dutch Golden Age"
+      ],
+      "question": {
+        "text": "The painting \"Composition 8\" by Vasily Kandinsky is a part of which art movement?"
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e8c",
+      "correctAnswer": "Neil Gaiman",
+      "incorrectAnswers": [
+        "Stephen King",
+        "H. P. Lovecraft",
+        "Douglas Adams"
+      ],
+      "question": {
+        "text": "Which author wrote 'Smoke and Mirrors'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f86b",
+      "correctAnswer": "Football",
+      "incorrectAnswers": [
+        "Athletics",
+        "Rugby Union",
+        "Surfing"
+      ],
+      "question": {
+        "text": "With which sport is George Best associated?"
+      },
+      "tags": [
+        "people",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f9508f1",
+      "correctAnswer": "Kenya",
+      "incorrectAnswers": [
+        "Yemen",
+        "Eritrea",
+        "Seychelles"
+      ],
+      "question": {
+        "text": "Which of these countries borders Somalia?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62373588cfe13103f55eb53f",
+      "correctAnswer": "Montenegro",
+      "incorrectAnswers": [
+        "Yemen",
+        "Mexico",
+        "Monaco"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.me' at the end of its web addresses?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c377cc59eab6f950444",
+      "correctAnswer": "Samhain",
+      "incorrectAnswers": [
+        "All Hallows Eve",
+        "Harvest Festival",
+        "Thanksgiving"
+      ],
+      "question": {
+        "text": "Halloween originated from which Pagan festival?"
+      },
+      "tags": [
         "halloween",
         "traditions",
         "society_and_culture"
@@ -129,515 +620,22 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951b0c",
-      "correctAnswer": "Poland",
-      "incorrectAnswers": [
-        "Germany",
-        "Hungary",
-        "Austria"
-      ],
-      "question": {
-        "text": "In Which Country Was The Auschwitz Concentration Camp Located?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fdbe",
-      "correctAnswer": "Can The Can",
-      "incorrectAnswers": [
-        "Do The Do",
-        "See The Sea",
-        "Dance The Dance"
-      ],
-      "question": {
-        "text": "What Was Suzi Quatro's First Hit In 1973?"
-      },
-      "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd79",
-      "correctAnswer": "The Righteous Brothers",
-      "incorrectAnswers": [
-        "The Isley Brothers",
-        "Wham!",
-        "The Temptations"
-      ],
-      "question": {
-        "text": "Who Were Bobby Hatfield & Bill Medley?"
-      },
-      "tags": [
-        "people",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "food_and_drink",
-      "id": "63bc3fa50e893d6e5a6a0fd0",
-      "correctAnswer": "Cronut",
+      "id": "6250066b0d86c8f685d80ee8",
+      "correctAnswer": "Cannelloni",
       "incorrectAnswers": [
-        "Strudel",
-        "Dosant",
-        "Chouxnut"
+        "Garganelli",
+        "Bavette",
+        "Ziti"
       ],
       "question": {
-        "text": "What is the name given to the pastry that looks like a doughnut, but made with choux pastry?"
+        "text": "Which pasta's name means 'Large reeds'?"
       },
       "tags": [
         "food",
-        "food_and_drink",
-        "pastry",
-        "baking"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d2f0f96c4efe8d773ad",
-      "correctAnswer": "Kansas City Royals",
-      "incorrectAnswers": [
-        "Kansas City Capitals",
-        "Kansas City Timbers",
-        "Kansas City Hawks"
-      ],
-      "question": {
-        "text": "Which of these is a baseball team based in Kansas City?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950bf2",
-      "correctAnswer": "The Doors",
-      "incorrectAnswers": [
-        "The Animals",
-        "Jefferson Airplane",
-        "The Byrds"
-      ],
-      "question": {
-        "text": "Which American rock band released the song 'People Are Strange'?"
-      },
-      "tags": [
-        "rock_music",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcfb",
-      "correctAnswer": "Democritus",
-      "incorrectAnswers": [
-        "Thomas Hobbes",
-        "Denis Diderot",
-        "Jean-Paul Sartre"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'The brave man is he who overcomes not only his enemies but his pleasures'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "people",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa8f",
-      "correctAnswer": "Regina King",
-      "incorrectAnswers": [
-        "Amy Adams",
-        "Marina de Tavira",
-        "Emma Stone"
-      ],
-      "question": {
-        "text": "Who won the 2018 Academy Award for Best Supporting Actress for playing the role of Sharon Rivers in If Beale Street Could Talk?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "academy_awards",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9ff6796f721e95543fc4",
-      "correctAnswer": "White",
-      "incorrectAnswers": [
-        "Yellow",
-        "Blue",
-        "Green"
-      ],
-      "question": {
-        "text": "Which of these colors would you find on the flag of Yemen?"
-      },
-      "tags": [
-        "flags",
-        "the_middle_east",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502b2",
-      "correctAnswer": "Brawn ",
-      "incorrectAnswers": [
-        "Trotters",
-        "Skippets",
-        "Swain"
-      ],
-      "question": {
-        "text": "What is the name of the traditional English dish made from pork trimmings and pig's head?"
-      },
-      "tags": [
-        "food",
+        "words",
+        "language",
         "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62443786746187c5e7be935b",
-      "correctAnswer": "Calcium carbonate",
-      "incorrectAnswers": [
-        "Calcium sulphate dihydrate",
-        "Iron Oxide",
-        "Deuterium Oxide"
-      ],
-      "question": {
-        "text": "What chemical has the formula CaCO3?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500b6",
-      "correctAnswer": "Two",
-      "incorrectAnswers": [
-        "Five",
-        "Four",
-        "Three"
-      ],
-      "question": {
-        "text": "In a game of netball how many players on a team are allowed To score?"
-      },
-      "tags": [
-        "numbers",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262af754b176d54800e3dc8",
-      "correctAnswer": "Your Mileage May Vary",
-      "incorrectAnswers": [
-        "You're Meeting My Villain",
-        "You Must Meet Voters",
-        "You Make Me Vomit"
-      ],
-      "question": {
-        "text": "On internet chats, what do the letters 'YMMV' mean?"
-      },
-      "tags": [
-        "the_internet",
-        "initials",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611f4b4b176d54800e3d4f",
-      "correctAnswer": "1969",
-      "incorrectAnswers": [
-        "1948",
-        "1978",
-        "1990"
-      ],
-      "question": {
-        "text": "When was ARPANET, the precursor to the Internet, first developed?"
-      },
-      "tags": [
-        "events",
-        "technology",
-        "inventions",
-        "the_internet",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fe20",
-      "correctAnswer": "Three Gorges Dam",
-      "incorrectAnswers": [
-        "Grand Coulee Dam",
-        "Hoover Dam",
-        "Oroville Dam"
-      ],
-      "question": {
-        "text": "What is the worlds longest concrete dam?"
-      },
-      "tags": [
-        "records",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fdd1",
-      "correctAnswer": "Tailor",
-      "incorrectAnswers": [
-        "Gambler",
-        "Dancer",
-        "Maid"
-      ],
-      "question": {
-        "text": "According To The Lyrics Of The Song “House Of The Rising Sun” What Was The Occupation Of Their Mother?"
-      },
-      "tags": [
-        "lyrics",
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950372",
-      "correctAnswer": "Elizabeth I",
-      "incorrectAnswers": [
-        "James III",
-        "Victoria",
-        "Henry VIII"
-      ],
-      "question": {
-        "text": "Who ruled England at the time of Shakespeare?"
-      },
-      "tags": [
-        "uk",
-        "shakespeare",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c377cc59eab6f950437",
-      "correctAnswer": "The Royal Family",
-      "incorrectAnswers": [
-        "The Kardashians",
-        "The Osmonds",
-        "The Gibbs"
-      ],
-      "question": {
-        "text": "In 1969 Richard Cawston Made A Documentary For The BBC About Which Famous Family?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe5b",
-      "correctAnswer": "Afghanistan ",
-      "incorrectAnswers": [
-        "Iraq",
-        "Bangladesh",
-        "Sri Lanka"
-      ],
-      "question": {
-        "text": "In which Asian country is the Hindu Kush mountain range?"
-      },
-      "tags": [
-        "asia",
-        "mountains",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd16",
-      "correctAnswer": "Bertrand Russell",
-      "incorrectAnswers": [
-        "Denis Diderot",
-        "Jean-Paul Sartre",
-        "Jean-Jacques Rousseau"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'I would never die for my beliefs because I might be wrong'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "people",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f928",
-      "correctAnswer": "National Lampoon's Animal House",
-      "incorrectAnswers": [
-        "Jaws",
-        "Psycho",
-        "Scarface"
-      ],
-      "question": {
-        "text": "Which film contains the character 'John \"Bluto\" Blutarsky'?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f866",
-      "correctAnswer": "Tennis",
-      "incorrectAnswers": [
-        "Baseball",
-        "Gymnastics",
-        "Skiing"
-      ],
-      "question": {
-        "text": "With which sport is Rod Laver associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ffac",
-      "correctAnswer": "Vietnam",
-      "incorrectAnswers": [
-        "Cambodia",
-        "Laos",
-        "Thailand"
-      ],
-      "question": {
-        "text": "In which country is the Mekong River Delta?"
-      },
-      "tags": [
-        "rivers",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624333b9cfaae40c129613fd",
-      "correctAnswer": "A Colt",
-      "incorrectAnswers": [
-        "A Maggot",
-        "A Bunny",
-        "An Owlet"
-      ],
-      "question": {
-        "text": "What is a baby donkey known as?"
-      },
-      "tags": [
-        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
