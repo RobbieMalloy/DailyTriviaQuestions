@@ -1,23 +1,23 @@
 {
-  "gameDate": "2026-10-10",
+  "gameDate": "2026-10-11",
   "difficulty": "medium",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b9e",
-      "correctAnswer": "Wings",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e0b",
+      "correctAnswer": "Suzanne Collins",
       "incorrectAnswers": [
-        "The Kinks",
-        "The Hollies",
-        "Electric Light Orchestra"
+        "Frederik Pohl",
+        "Dan Brown",
+        "Philip K. Dick"
       ],
       "question": {
-        "text": "Which band did Paul McCartney form after The Beatles?"
+        "text": "Which author wrote 'The Hunger Games'?"
       },
       "tags": [
-        "music",
-        "bands",
-        "the_beatles"
+        "literature",
+        "young_adult",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -25,65 +25,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94feb0",
-      "correctAnswer": "Beyoncé",
+      "category": "society_and_culture",
+      "id": "64bee2e595a719422097395f",
+      "correctAnswer": "Blue zones",
       "incorrectAnswers": [
-        "Rihanna",
-        "Alicia Keys",
-        "Ciara"
+        "Health spots",
+        "Longevity lands",
+        "Octogenarial regions"
       ],
       "question": {
-        "text": "Which American singer, actress and record producer released the song 'Lift Off'?"
+        "text": "What is the name given to parts of the world where the population lives significantly longer than average?"
       },
       "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b5792fd6c701a92118367",
-      "correctAnswer": "Japan",
-      "incorrectAnswers": [
-        "Vietnam",
-        "Russia",
-        "France"
-      ],
-      "question": {
-        "text": "In which country would you find the Itsukushima Shinto Shrine?"
-      },
-      "tags": [
-        "tourist_attractions",
-        "places",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "64746b055a4c31088dd9d00b",
-      "correctAnswer": "El Cid",
-      "incorrectAnswers": [
-        "Don Quixote",
-        "Ferdinand II of Aragon",
-        "Zorro"
-      ],
-      "question": {
-        "text": "Which of these was an 11th-century  Spanish knight and warlord?"
-      },
-      "tags": [
-        "spain",
-        "history",
-        "1000s",
-        "people"
+        "society_and_culture",
+        "sociology",
+        "health"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -92,21 +48,20 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951322",
-      "correctAnswer": "1",
+      "id": "647c9855f89e0968cfbc1a28",
+      "correctAnswer": "Epic",
       "incorrectAnswers": [
-        "0",
-        "2",
-        "3"
+        "Verse",
+        "Ode",
+        "Sonnet"
       ],
       "question": {
-        "text": "How many holes are there on a traditional paint pallette?"
+        "text": "What is the name of the long narrative poem that tells of the deeds and adventures of a hero?"
       },
       "tags": [
-        "arts_and_literature",
-        "art",
-        "general_knowledge",
-        "painting"
+        "poetry",
+        "writing",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -114,21 +69,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd44",
-      "correctAnswer": "Wood & Sound",
+      "category": "society_and_culture",
+      "id": "6357fd2468bd5000211e7181",
+      "correctAnswer": "Javanese",
       "incorrectAnswers": [
-        "Multiple & Sound",
-        "Wood & Tone",
-        "Multiple & Tone"
+        "Hausa",
+        "Mandarin",
+        "Quechua"
       ],
       "question": {
-        "text": "'Xylophone' Is Derived From The Greek Words For What?"
+        "text": "Which of these languages would you find spoken in Indonesia?"
       },
       "tags": [
         "language",
-        "words",
-        "music"
+        "linguistics",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -137,21 +92,408 @@
     },
     {
       "category": "geography",
-      "id": "645cb0e67d263fd50970438d",
-      "correctAnswer": "Indochina",
+      "id": "623387490161109f922aac15",
+      "correctAnswer": "Ecuador",
       "incorrectAnswers": [
-        "Malay",
-        "Malacca",
-        "Sunda"
+        "Indonesia",
+        "Japan",
+        "Chile"
       ],
       "question": {
-        "text": "Cambodia, Laos, and Vietnam are located on what peninsula?"
+        "text": "Which country are the Galapagos Islands part of?"
       },
       "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510c2",
+      "correctAnswer": "Flax",
+      "incorrectAnswers": [
+        "Sunflower",
+        "Hemp",
+        "Wheat"
+      ],
+      "question": {
+        "text": "Linen is obtained from the fibers of what plant?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950311",
+      "correctAnswer": "Napoleon",
+      "incorrectAnswers": [
+        "Hitler",
+        "Genghis Khan",
+        "Charlemagne"
+      ],
+      "question": {
+        "text": "Whose army did Admiral Nelson defeat at the battle of Trafalgar?"
+      },
+      "tags": [
+        "battles",
+        "wars",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f951564",
+      "correctAnswer": "Switzerland ",
+      "incorrectAnswers": [
+        "The Netherlands",
+        "Denmark",
+        "France"
+      ],
+      "question": {
+        "text": "From which country does emmental cheese originate?"
+      },
+      "tags": [
+        "food_and_drink",
+        "food",
+        "cheese"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c377cc59eab6f950450",
+      "correctAnswer": "Macbeth",
+      "incorrectAnswers": [
+        "Romeo & Juliette",
+        "Hamlet",
+        "King Lear"
+      ],
+      "question": {
+        "text": "Double, double toil and trouble, Fire burn, and cauldron bubble. Comes from which of Shakespeare's plays?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd09",
+      "correctAnswer": "Socrates",
+      "incorrectAnswers": [
+        "Thomas Hobbes",
+        "Bertrand Russell",
+        "Immanuel Kant"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'The only thing I know is that I know nothing'?"
+      },
+      "tags": [
+        "philosophy",
+        "quotes",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f950177",
+      "correctAnswer": "Macbeth",
+      "incorrectAnswers": [
+        "Hamlet",
+        "Othello",
+        "Romeo & Juliette"
+      ],
+      "question": {
+        "text": "Which Shakespeare play opens with the 3 Witches?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056ebf7a97013de78b5351",
+      "correctAnswer": "Quebec",
+      "incorrectAnswers": [
+        "Queen",
+        "Quid",
+        "Quaff"
+      ],
+      "question": {
+        "text": "In the NATO phonetic alphabet, which word represents the letter Q?"
+      },
+      "tags": [
+        "society_and_culture",
+        "nato",
+        "alphabet"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63a03952c7d86251f9b65c40",
+      "correctAnswer": "2.73 K",
+      "incorrectAnswers": [
+        "273 K",
+        "2730 K",
+        "27.3 K"
+      ],
+      "question": {
+        "text": "What is the approximate temperature of the universe?"
+      },
+      "tags": [
+        "astrophysics",
+        "science",
+        "space"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fe27",
+      "correctAnswer": "Fort Knox",
+      "incorrectAnswers": [
+        "Fort Box",
+        "Fort Dox",
+        "Fort Stox"
+      ],
+      "question": {
+        "text": "Where is most of America's gold located?"
+      },
+      "tags": [
+        "places",
+        "usa",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "64909c1758265893a0c86d7a",
+      "correctAnswer": "Harry Potter and the Deathly Hallows",
+      "incorrectAnswers": [
+        "Harry Potter and the Cursed Child",
+        "Harry Potter and the Order of Phoenix",
+        "Harry Potter and the Chamber of Secrets"
+      ],
+      "question": {
+        "text": "Which book is the 7th book of the Harry Potter series?"
+      },
+      "tags": [
+        "young_adult",
+        "arts_and_literature",
+        "literature",
+        "harry_potter"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056f927a97013de78b5478",
+      "correctAnswer": "The Crusaders",
+      "incorrectAnswers": [
+        "The Zealots",
+        "The Infidels",
+        "The Righteous"
+      ],
+      "question": {
+        "text": "Who fought for the Holy Land between 1095 and 1291?"
+      },
+      "tags": [
+        "history",
+        "wars"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a76",
+      "correctAnswer": "Joan of Arc",
+      "incorrectAnswers": [
+        "Marie Antoinette",
+        "Birgitte Bardot",
+        "Simone de Beauvoir"
+      ],
+      "question": {
+        "text": "Who was called 'The Maid of Orleans'?"
+      },
+      "tags": [
+        "people",
+        "medieval",
+        "middle_ages",
+        "france",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63b058864799123c67712f4f",
+      "correctAnswer": "Lotus",
+      "incorrectAnswers": [
+        "Rose",
+        "Jasmine",
+        "Marigold"
+      ],
+      "question": {
+        "text": "Which is the national flower of India?"
+      },
+      "tags": [
+        "india",
+        "plants",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950dc3",
+      "correctAnswer": "Green Day",
+      "incorrectAnswers": [
+        "Mastodon",
+        "Animal Collective",
+        "Fall Out Boy"
+      ],
+      "question": {
+        "text": "Which band includes 'Billie Joe Armstrong'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "63a0397ec7d86251f9b65c6a",
+      "correctAnswer": "Aurora",
+      "incorrectAnswers": [
+        "Rapunzel",
+        "Belle",
+        "Cinderella"
+      ],
+      "question": {
+        "text": "What is the name of the beautiful princess in Sleeping Beauty?"
+      },
+      "tags": [
+        "film_and_tv",
+        "disney",
+        "film"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510d1",
+      "correctAnswer": "Heart",
+      "incorrectAnswers": [
+        "Soul",
+        "Blood",
+        "Eyes"
+      ],
+      "question": {
+        "text": "What part of the body does carditis affect?"
+      },
+      "tags": [
+        "medicine",
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fb76",
+      "correctAnswer": "Gone with the Wind",
+      "incorrectAnswers": [
+        "Dark Victory",
+        "Goodbye, Mr. Chips",
+        "Love Affair"
+      ],
+      "question": {
+        "text": "Which film won the Academy Award for Best Picture in 1939?"
+      },
+      "tags": [
+        "academy_awards",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "645f9526541c4d4fc8cf2ead",
+      "correctAnswer": "Italy",
+      "incorrectAnswers": [
+        "Spain",
+        "Portugal",
+        "Greece"
+      ],
+      "question": {
+        "text": "Which country is home to the cities of Taranto, Anzio, and Padua?"
+      },
+      "tags": [
+        "cities",
+        "europe",
         "countries",
-        "peninsulas",
-        "southeast_asia",
-        "asia",
         "geography"
       ],
       "type": "text_choice",
@@ -161,15 +503,15 @@
     },
     {
       "category": "food_and_drink",
-      "id": "624c607f50d1a5e051325a5f",
-      "correctAnswer": "The United Kingdom",
+      "id": "624c609f50d1a5e051325a68",
+      "correctAnswer": "India",
       "incorrectAnswers": [
-        "Cuba",
-        "Indonesia",
-        "India"
+        "Ghana",
+        "Thailand",
+        "Barbados"
       ],
       "question": {
-        "text": "Where in the world was Chicken Tikka Masala invented?"
+        "text": "Masala Dosa is a dish that is most associated with which part of the world?"
       },
       "tags": [
         "food",
@@ -181,230 +523,16 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "63d952fc168979b94b2e4f6b",
-      "correctAnswer": "Simon Bolivar",
-      "incorrectAnswers": [
-        "Juan Peron",
-        "Augusto Pinochet",
-        "Ho Chi Minh"
-      ],
-      "question": {
-        "text": "Which leader was known as 'The Great Liberator'?"
-      },
-      "tags": [
-        "history",
-        "leaders",
-        "people"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "64e927cd0b0fc0be2ff5aa3c",
-      "correctAnswer": "Vin Diesel",
-      "incorrectAnswers": [
-        "Jason Statham",
-        "Dwayne Johnson",
-        "Chris Hemsworth"
-      ],
-      "question": {
-        "text": "Which actor, who starred in several 'Fast & Furious' films and in the 2020 movie 'Bloodshot', is also a producer?"
-      },
-      "tags": [
-        "actors",
-        "movies",
-        "action"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "637162981bf863c45ca6c38a",
-      "correctAnswer": "For the good",
-      "incorrectAnswers": [
-        "Professional soldier",
-        "I am not led, I lead",
-        "Great is the power of habit"
-      ],
-      "question": {
-        "text": "What is the meaning of the Latin phrase 'Pro bono'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233876d0161109f922aac23",
-      "correctAnswer": "Ecuador ",
-      "incorrectAnswers": [
-        "Latvia",
-        "Liberia",
-        "Indonesia"
-      ],
-      "question": {
-        "text": "Which country has taken its name from a line of latitude?"
-      },
-      "tags": [
-        "words",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950363",
-      "correctAnswer": "Lyndon B Johnson",
-      "incorrectAnswers": [
-        "Gerald Ford",
-        "Richard Nixon",
-        "Thomas Jefferson"
-      ],
-      "question": {
-        "text": "Who took over from John F Kennedy after he was assassinated?"
-      },
-      "tags": [
-        "presidents",
-        "usa",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6257405a9da29df7b05f73d7",
-      "correctAnswer": "Double Indemnity",
-      "incorrectAnswers": [
-        "Casino",
-        "Dune",
-        "The Great Escape"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'An insurance representative lets a housewife seduce him into a scheme of insurance fraud and murder.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63f39507989356ef48370bec",
-      "correctAnswer": "Shintoism",
-      "incorrectAnswers": [
-        "Confucianism",
-        "Taoism",
-        "Buddhism"
-      ],
-      "question": {
-        "text": "Which of these religions originated in Japan?"
-      },
-      "tags": [
-        "japan",
-        "religion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6462621bab138b829b81e9c6",
-      "correctAnswer": "Luxembourg",
-      "incorrectAnswers": [
-        "Liechtenstein",
-        "Liberia",
-        "Laos"
-      ],
-      "question": {
-        "text": "Which country is the northernmost among Luxembourg, Liechtenstein, Laos and Liberia?"
-      },
-      "tags": [
-        "countries",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570067a97013de78b5516",
-      "correctAnswer": "360°",
-      "incorrectAnswers": [
-        "480°",
-        "90°",
-        "180°"
-      ],
-      "question": {
-        "text": "What is the sum of the inner angles of a square?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951008",
-      "correctAnswer": "A code-breaking computer",
-      "incorrectAnswers": [
-        "A nuclear-resistant tank",
-        "A supersonic bomber",
-        "An intercontinental missile"
-      ],
-      "question": {
-        "text": "What Was The Colossus, Developed In Buckinghamshire In 1943?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502cb",
-      "correctAnswer": "Alcohol By Volume ",
+      "id": "622a1c367cc59eab6f950286",
+      "correctAnswer": "Courgette ",
       "incorrectAnswers": [
-        "Alcohol Bucahol Variance",
-        "Alcoholic Barrier Vitality",
-        "Alcoholic Barometric Vice"
+        "Carrot",
+        "Onion",
+        "Cucumber"
       ],
       "question": {
-        "text": "What does the abbreviation A.B.V. Stand for in alcoholic drinks?"
+        "text": "What vegetable is known a zucchini in the USA?"
       },
       "tags": [
         "food_and_drink"
@@ -415,20 +543,22 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95055b",
-      "correctAnswer": "How the environment interacts with an organism",
+      "category": "general_knowledge",
+      "id": "622a1c3a7cc59eab6f951062",
+      "correctAnswer": "Chihuahua",
       "incorrectAnswers": [
-        "The art of bell ringing",
-        "Bats",
-        "Redemption"
+        "Maltese",
+        "Pomeranian",
+        "Havanese"
       ],
       "question": {
-        "text": "What is Ecophysiology the study of?"
+        "text": "What dog is named after a Mexican state?"
       },
       "tags": [
-        "words",
-        "science"
+        "animals",
+        "central_america",
+        "names",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -436,39 +566,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a9c",
-      "correctAnswer": "The Empire State Building",
+      "category": "geography",
+      "id": "65056e9a7a97013de78b531d",
+      "correctAnswer": "Australian Dollar",
       "incorrectAnswers": [
-        "The Chrysler Building",
-        "The World Trade Center",
-        "The CN Tower"
+        "Australian Pound",
+        "Australian Shilling",
+        "Australian Franc"
       ],
       "question": {
-        "text": "On May 1st 1931 the world's then tallest building was opened in New York City. Which building was it?"
+        "text": "What is the currency of Australia?"
       },
       "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056eb87a97013de78b5347",
-      "correctAnswer": "Immune response",
-      "incorrectAnswers": [
-        "Blood clotting",
-        "Blood formation",
-        "Oxygen transport"
-      ],
-      "question": {
-        "text": "What is the function of white blood cells in the human body?"
-      },
-      "tags": [
-        "science"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -477,15 +587,15 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "6384b47183dddfb71ee5e37e",
-      "correctAnswer": "Tennis",
+      "id": "622a1c367cc59eab6f9500bf",
+      "correctAnswer": "Eight",
       "incorrectAnswers": [
-        "Baseball",
-        "Athletics",
-        "Motorsports"
+        "Four",
+        "Twelve",
+        "Sixteen"
       ],
       "question": {
-        "text": "Which sport is played at The Billie Jean King Cup?"
+        "text": "How Many Lanes Does An Olympic Standard Swimming Pool Have?"
       },
       "tags": [
         "sport"
@@ -496,130 +606,23 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "63b0587d4799123c67712f41",
-      "correctAnswer": " Central Asia",
+      "category": "science",
+      "id": "63adbd6e04c68cc1e14b8e3a",
+      "correctAnswer": "Sugar Maple",
       "incorrectAnswers": [
-        "South America",
-        "Eastern Europe",
-        "Western Australia"
+        "American Redbud",
+        "Weeping Willow",
+        "Elm Tree"
       ],
       "question": {
-        "text": "Where are the Altai mountains located?"
+        "text": "What is the common name for the tree species Acer saccharum?"
       },
       "tags": [
-        "mountains",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f593d2f5c16bfb88330",
-      "correctAnswer": "A secretary checks into a remote motel run by a young man under the domination of his mother.",
-      "incorrectAnswers": [
-        "The story of how the scandal of child molestation within the Boston Catholic church was uncovered.",
-        "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler.",
-        "When a heist goes wrong, the surviving criminals suspect that one of them is a police informant."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Psycho?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950801",
-      "correctAnswer": "Africa",
-      "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Europe"
-      ],
-      "question": {
-        "text": "The country of Mauritius is on which continent?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625698749da29df7b05f7288",
-      "correctAnswer": "Pepper Potts",
-      "incorrectAnswers": [
-        "Valkyrie",
-        "Eitri",
-        "Wanda Maximoff"
-      ],
-      "question": {
-        "text": "In the Marvel Cinematic Universe, which character is played by Gwyneth Paltrow?"
-      },
-      "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "647f9dc33a4302a71927163e",
-      "correctAnswer": "Ming",
-      "incorrectAnswers": [
-        "Tang",
-        "Qing",
-        "Han"
-      ],
-      "question": {
-        "text": "What is the name of the Chinese dynasty that began in 1368 and means \"bright\" in Mandarin?"
-      },
-      "tags": [
-        "history",
-        "china"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f951762",
-      "correctAnswer": "The Communists",
-      "incorrectAnswers": [
-        "The Socialists",
-        "The Liberals",
-        "The Fascists"
-      ],
-      "question": {
-        "text": "Which political party rose to power in China in 1949?"
-      },
-      "tags": [
-        "history",
-        "china",
-        "1940's",
-        "politics"
+        "science",
+        "trees",
+        "language",
+        "plants",
+        "nature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -628,21 +631,18 @@
     },
     {
       "category": "science",
-      "id": "6a9e5462a2b474f99d2d3fa1",
-      "correctAnswer": "Tasmanian tiger",
+      "id": "65056f1e7a97013de78b53d5",
+      "correctAnswer": "Pollen",
       "incorrectAnswers": [
-        "Tasmanian devil",
-        "wombat",
-        "koala"
+        "Nectar",
+        "Seeds",
+        "Sap"
       ],
       "question": {
-        "text": "Which striped Australian marsupial was hunted by farmers who blamed it for killing sheep, until the last known one died in a zoo in 1936?"
+        "text": "What is produced by a stamen?"
       },
       "tags": [
-        "tasmanian tiger",
-        "thylacine",
-        "australia",
-        "extinct animals"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
