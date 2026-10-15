@@ -1,23 +1,23 @@
 {
-  "gameDate": "2026-10-14",
+  "gameDate": "2026-10-15",
   "difficulty": "hard",
   "results": [
     {
       "category": "music",
-      "id": "6ab60f275e1f40ab5b557d17",
-      "correctAnswer": "Claudio Monteverdi",
+      "id": "645c9f8642ea81e2554c5f30",
+      "correctAnswer": "Ritchie Valens",
       "incorrectAnswers": [
-        "Antonio Vivaldi",
-        "Arcangelo Corelli",
-        "Giovanni Pierluigi da Palestrina"
+        "Buddy Holly",
+        "Eddie Cochran",
+        "Chuck Berry"
       ],
       "question": {
-        "text": "Which Italian composer wrote the early opera L'Orfeo?"
+        "text": "Who performed the song 'La Bamba'?"
       },
       "tags": [
-        "opera",
-        "baroque music",
-        "claudio monteverdi"
+        "songs",
+        "music",
+        "rock_and_roll"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -25,21 +25,62 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "6477ba9e550bc819ad646af4",
-      "correctAnswer": "Rorschach",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ffe1",
+      "correctAnswer": "Ace Of Base",
       "incorrectAnswers": [
-        "The Joker",
-        "Venom",
-        "Lex Luthor"
+        "Modern Talking",
+        "The Cardigans",
+        "Every Little Thing"
       ],
       "question": {
-        "text": "Which antihero, whose mask looked like swirling ink, did Jackie Earle Haley portray in 'Watchmen'?"
+        "text": "Jenny & Lyn Beggren Are Singers With Which 90's Group"
       },
       "tags": [
-        "superheroes",
-        "film",
-        "film_and_tv"
+        "bands",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fedd",
+      "correctAnswer": "Mariah Carey",
+      "incorrectAnswers": [
+        "Whitney Houston",
+        "Céline Dion",
+        "Toni Braxton"
+      ],
+      "question": {
+        "text": "Which American singer released the album 'Music Box'?"
+      },
+      "tags": [
+        "music_albums",
+        "musicians",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237427dcb85f7ce9e949dd2",
+      "correctAnswer": "Bern",
+      "incorrectAnswers": [
+        "Geneva",
+        "Zurich",
+        "Basel"
+      ],
+      "question": {
+        "text": "What is the capital city of Switzerland?"
+      },
+      "tags": [
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -48,15 +89,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e41",
-      "correctAnswer": "Mikhail Bulgakov",
+      "id": "622a1c397cc59eab6f950e2d",
+      "correctAnswer": "L. Frank Baum",
       "incorrectAnswers": [
-        "Vladimir Nabokov",
-        "Ayn Rand",
-        "Stanisław Lem"
+        "Suzanne Collins",
+        "James Fenimore Cooper",
+        "Donna Leon"
       ],
       "question": {
-        "text": "Which author wrote 'Heart of a Dog'?"
+        "text": "Which author wrote 'The Wonderful Wizard of Oz'?"
       },
       "tags": [
         "literature",
@@ -68,18 +109,330 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62374006cb85f7ce9e949cd4",
-      "correctAnswer": "Moroni",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa11",
+      "correctAnswer": "Henri Matisse",
       "incorrectAnswers": [
-        "Ouagadougou",
-        "Tegucigalpa",
-        "Conakry"
+        "Leonardo da Vinci",
+        "Gustav Klimt",
+        "Claude Monet"
       ],
       "question": {
-        "text": "What is the capital city of Comoros?"
+        "text": "Which artist painted \"The Dance\""
       },
       "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6ac8927fd8f99ae2f1cf25c4",
+      "correctAnswer": "Ringo Starr",
+      "incorrectAnswers": [
+        "Paul McCartney",
+        "George Harrison",
+        "John Lennon"
+      ],
+      "question": {
+        "text": "Which former Beatle was the first narrator of the children's television series Thomas & Friends?"
+      },
+      "tags": [
+        "ringo-starr",
+        "thomas-and-friends",
+        "beatles"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242cb66d543524f1b19c92a",
+      "correctAnswer": "A barren",
+      "incorrectAnswers": [
+        "A sounder",
+        "A leap",
+        "A flight"
+      ],
+      "question": {
+        "text": "What is the word for a group of mules?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056f937a97013de78b5479",
+      "correctAnswer": "Cyprus",
+      "incorrectAnswers": [
+        "Sardinia",
+        "Majorca",
+        "Malta"
+      ],
+      "question": {
+        "text": "What mediterranean island was invaded by Turkey in 1974?"
+      },
+      "tags": [
+        "history",
+        "islands",
+        "wars",
+        "europe",
+        "mediterranean",
+        "1970's"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "648888d55dba6c873ef65094",
+      "correctAnswer": "Protons",
+      "incorrectAnswers": [
+        "Electrons",
+        "Neutrons",
+        "Quarks"
+      ],
+      "question": {
+        "text": "What subatomic particle is used to arrange elements on the periodic table?"
+      },
+      "tags": [
+        "chemistry",
+        "science",
+        "chemical_elements",
+        "elements"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc0b",
+      "correctAnswer": "\"Sawyer, you're going out a youngster, but you've t to come back a star!\"",
+      "incorrectAnswers": [
+        "\"Hello, gorgeous.\"",
+        "\"You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am.\"",
+        "\"I'll get you, my pretty, and your little dog, too!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film '42nd Street'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951c4b",
+      "correctAnswer": "Zanzibar and England",
+      "incorrectAnswers": [
+        "France and Mauritania",
+        "Belgium and The Netherlands",
+        "India and Fiji"
+      ],
+      "question": {
+        "text": "Between which countries was the shortest war in history, lasting 38 minutes?"
+      },
+      "tags": [
+        "wars",
+        "records",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "647f9db33a4302a719271616",
+      "correctAnswer": "Conan",
+      "incorrectAnswers": [
+        "Hercules",
+        "Thor",
+        "Xena"
+      ],
+      "question": {
+        "text": "Which character was accompanied by a wizard named Akiro in two 1980s movies?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv",
+        "fantasy"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950355",
+      "correctAnswer": "Catherine Parr",
+      "incorrectAnswers": [
+        "Catherine of Aragon",
+        "Jane Seymour",
+        "Anne Boleyn"
+      ],
+      "question": {
+        "text": "Who Was Henry VIII's Last Wife?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950349",
+      "correctAnswer": "Stanley Baldwin",
+      "incorrectAnswers": [
+        "Anthony Eden",
+        "Winston Churchill",
+        "Bonar Law"
+      ],
+      "question": {
+        "text": "Who Was Prime Minister When King Edward VIII Abdicated?"
+      },
+      "tags": [
+        "leaders",
+        "uk",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa56",
+      "correctAnswer": "Washington Color School",
+      "incorrectAnswers": [
+        "Crystal Cubism",
+        "Primitivism",
+        "Ukiyo-e"
+      ],
+      "question": {
+        "text": "The painting \"Royal Red and Blue\" by Mark Rothko is a part of which art movement?"
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "646089a2de964ebc39016c61",
+      "correctAnswer": "Prince",
+      "incorrectAnswers": [
+        "Madonna",
+        "Michael Jackson",
+        "Elton John"
+      ],
+      "question": {
+        "text": "What singer's \"Lovesexy\" album caused a controversy when some stores refused to stock it due to the nude cover?"
+      },
+      "tags": [
+        "controversies",
+        "music_albums",
+        "music",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9503d5",
+      "correctAnswer": "I Love Lucy",
+      "incorrectAnswers": [
+        "The Brady Bunch",
+        "Sanford and Son",
+        "My Favourite Martian"
+      ],
+      "question": {
+        "text": "What popular sitcom made its first appearance in 1951 & ran until 1957?"
+      },
+      "tags": [
+        "tv",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f939",
+      "correctAnswer": "On the Waterfront",
+      "incorrectAnswers": [
+        "National Lampoon's Animal House",
+        "The Third Man",
+        "Gangs of New York"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Terry Malloy'?"
+      },
+      "tags": [
+        "film",
+        "fictitious_characters",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623389220161109f922aaccc",
+      "correctAnswer": "New Jersey",
+      "incorrectAnswers": [
+        "Oregon",
+        "Hawaii",
+        "Montana"
+      ],
+      "question": {
+        "text": "Which US state is nicknamed the Garden State?"
+      },
+      "tags": [
+        "names",
+        "nicknames",
+        "us_states",
+        "usa",
         "geography"
       ],
       "type": "text_choice",
@@ -88,21 +441,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "65056f4f7a97013de78b541b",
-      "correctAnswer": "Labour Party",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e59",
+      "correctAnswer": "Dante Alighieri",
       "incorrectAnswers": [
-        "Liberal Democrats",
-        "Sinn Fein",
-        "Conservative Party"
+        "Giovanni Boccaccio",
+        "Agatha Christie",
+        "Aleksandr Solzhenitsyn"
       ],
       "question": {
-        "text": "To which political party did UK prime minister Tony Blair belong?"
+        "text": "Which author wrote 'Paradiso'?"
       },
       "tags": [
-        "history",
-        "politics",
-        "uk"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -110,131 +461,21 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6244374b746187c5e7be9344",
-      "correctAnswer": "It is used as a solvent for lacquer, floor polishes and resins.",
+      "category": "geography",
+      "id": "6476390cf05ea6d6f587a186",
+      "correctAnswer": "The Red River",
       "incorrectAnswers": [
-        "It is used for surface purification, bleaching, odour removal and water disinfection.",
-        "It is used in manufacture of pulp and paper, alumina, soap and detergents.",
-        "It is used as oscillators in radios, watches."
+        "The Blue River",
+        "The Yellow River",
+        "The Green River"
       ],
       "question": {
-        "text": "What is the chemical trichloromethane often used for?"
+        "text": "What is the name of the river that runs through Canada's Manitoba province and empties into Lake Winnipeg?"
       },
       "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611fdf4b176d54800e3d76",
-      "correctAnswer": "1975",
-      "incorrectAnswers": [
-        "1957",
-        "1963",
-        "1969"
-      ],
-      "question": {
-        "text": "In which year was the digital camera invented?"
-      },
-      "tags": [
-        "events",
-        "inventions",
-        "technology",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64dfa5baa6681754ea052bb8",
-      "correctAnswer": "Ushanka",
-      "incorrectAnswers": [
-        "Parka",
-        "Shapka",
-        "Balaclava"
-      ],
-      "question": {
-        "text": "What is the name given to the distinctive Russian fur hat?"
-      },
-      "tags": [
-        "clothing",
-        "hats",
-        "society_and_culture",
-        "fashion",
-        "russia"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6371622a1bf863c45ca6c359",
-      "correctAnswer": "Dies irae",
-      "incorrectAnswers": [
-        "Danum dos agios",
-        "Melita, domi adsum!",
-        "Pro bono"
-      ],
-      "question": {
-        "text": "Which of these Latin phrases translates to 'Day of wrath'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950518",
-      "correctAnswer": "the structure of diseased tissues",
-      "incorrectAnswers": [
-        "the biosphere and its relations to the lithosphere and atmosphere",
-        "the liver; a branch of medicine",
-        "study of horses"
-      ],
-      "question": {
-        "text": "What is Histopathology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f95199b",
-      "correctAnswer": "Caledonia",
-      "incorrectAnswers": [
-        "Newfoundland",
-        "Vanuatu",
-        "Huron"
-      ],
-      "question": {
-        "text": "What did the Romans call Scotland?"
-      },
-      "tags": [
-        "romans",
-        "names",
-        "history"
+        "rivers",
+        "canada",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -243,15 +484,38 @@
     },
     {
       "category": "film_and_tv",
-      "id": "645f9528541c4d4fc8cf2ebc",
-      "correctAnswer": "Valkyrie",
+      "id": "622a1c347cc59eab6f94facd",
+      "correctAnswer": "Jamie Foxx",
       "incorrectAnswers": [
-        "Dunkirk",
-        "Saving Private Ryan",
-        "Schindler's List"
+        "Don Cheadle",
+        "Johnny Depp",
+        "Leonardo DiCaprio"
       ],
       "question": {
-        "text": "What is the name of the 2008 WWII film that had the tagline \"Many saw evil. They dared to stop it\"?"
+        "text": "Who won the 2004 Academy Award for Best Leading Actor for playing the role of Ray Charles in Ray?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "academy_awards",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd73adc0dd3b72da64d2c",
+      "correctAnswer": "1976",
+      "incorrectAnswers": [
+        "1966",
+        "1971",
+        "1981"
+      ],
+      "question": {
+        "text": "Rocky was released in which year?"
       },
       "tags": [
         "film",
@@ -264,18 +528,20 @@
     },
     {
       "category": "science",
-      "id": "6242cb75d543524f1b19c930",
-      "correctAnswer": "A nye",
+      "id": "6ac5e5d61660d3d8cbdcfa8e",
+      "correctAnswer": "Montreal Protocol",
       "incorrectAnswers": [
-        "A sedge",
-        "A parliament",
-        "A clowder"
+        "Kyoto Protocol",
+        "Paris Agreement",
+        "Basel Convention"
       ],
       "question": {
-        "text": "What is the word for a group of pheasants?"
+        "text": "Which international agreement phased out the chemicals that were destroying the ozone layer?"
       },
       "tags": [
-        "science"
+        "ozone",
+        "treaties",
+        "environment"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -284,18 +550,18 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8dc",
-      "correctAnswer": "Peter Sellers",
+      "id": "622a1c347cc59eab6f94f946",
+      "correctAnswer": "The Birds",
       "incorrectAnswers": [
-        "James Cagney",
-        "Michael Douglas",
-        "Johnny Depp"
+        "The Good, the Bad, and the Ugly",
+        "Sweet Smell of Success",
+        "The Manchurian Candidate"
       ],
       "question": {
-        "text": "Which actor played the role of Chance the Gardener in Being There?"
+        "text": "Which film contains the character 'Melanie Daniels'?"
       },
       "tags": [
-        "acting",
+        "fictitious_characters",
         "film",
         "film_and_tv"
       ],
@@ -305,64 +571,22 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950747",
-      "correctAnswer": "Gérard Depardieu",
+      "category": "arts_and_literature",
+      "id": "64626208ab138b829b81e9a0",
+      "correctAnswer": "Sense and Sensibility",
       "incorrectAnswers": [
-        "Jean Reno",
-        "Alain Delon",
-        "Vincent Cassel"
+        "Pride and Prejudice",
+        "Emma",
+        "Mansfield Park"
       ],
       "question": {
-        "text": "Which French actor has featured in films including Cyrano de Bergerac and La Vie en Rose?"
+        "text": "Which novel by Jane Austen ends with sisters Marianne & Elinor Dashwood getting married?"
       },
       "tags": [
-        "film_and_tv",
-        "acting",
-        "film"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "627164701ba117625baac960",
-      "correctAnswer": "Niger",
-      "incorrectAnswers": [
-        "Cambodia",
-        "Estonia",
-        "Colombia"
-      ],
-      "question": {
-        "text": "Which country is associated with the drink chapalo?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "648891864cd3f064f443dc37",
-      "correctAnswer": "Aaron Sorkin",
-      "incorrectAnswers": [
-        "David Chase",
-        "Joss Whedon",
-        "Matthew Weiner"
-      ],
-      "question": {
-        "text": "Which writer created the television series 'The West Wing'?"
-      },
-      "tags": [
-        "awards",
-        "film_and_tv",
-        "tv"
+        "arts_and_literature",
+        "literature",
+        "classic_novels",
+        "novels"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -371,280 +595,60 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcd7",
-      "correctAnswer": "Indo-European",
+      "id": "622a1c3d7cc59eab6f951c97",
+      "correctAnswer": "Jason",
       "incorrectAnswers": [
-        "Afroasiatic",
-        "Kra–Dai",
-        "Niger–Congo"
+        "Bartholomew",
+        "Phillip",
+        "Thaddeus"
       ],
       "question": {
-        "text": "The language 'Bhojpuri' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6462628bab138b829b81ea24",
-      "correctAnswer": "Banyan",
-      "incorrectAnswers": [
-        "Teak",
-        "Betula",
-        "Camphor"
-      ],
-      "question": {
-        "text": "What is the name of the tree species native to India that has supporting roots and trunks, and a single tree can cover an area of up to 3 acres?"
-      },
-      "tags": [
-        "trees",
-        "nature",
-        "science",
-        "plants",
-        "botany",
-        "india"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950338",
-      "correctAnswer": "Constantine",
-      "incorrectAnswers": [
-        "Justinian",
-        "Claudius",
-        "Julius"
-      ],
-      "question": {
-        "text": "Who Was The First Christian Emperor Of Rome?"
+        "text": "Which of these was not one of Jesus's twelve apostles?"
       },
       "tags": [
         "christianity",
-        "romans",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9505ae",
-      "correctAnswer": "Ticks and mites",
-      "incorrectAnswers": [
-        "The mouth and its diseases",
-        "Cosmetics",
-        "Schematic layouts"
-      ],
-      "question": {
-        "text": "What is Acarology the study of?"
-      },
-      "tags": [
-        "science",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f8c",
-      "correctAnswer": "William Shakespeare",
-      "incorrectAnswers": [
-        "Arthur C. Clarke",
-        "Isaac Newton",
-        "Enid Blyton"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Winter's Tale'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6271649a1ba117625baac968",
-      "correctAnswer": "Tej",
-      "incorrectAnswers": [
-        "Horilka",
-        "Canelazo",
-        "Sangria"
-      ],
-      "question": {
-        "text": "Which of these is a popular drink in Ethiopia?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639ae349929b90846f2fc8c1",
-      "correctAnswer": "Nahuatl",
-      "incorrectAnswers": [
-        "Maya glyphs",
-        "Olmec",
-        "Isthmian"
-      ],
-      "question": {
-        "text": "What is the name of the Aztec writing system?"
-      },
-      "tags": [
-        "history",
-        "aztecs",
-        "language"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95134b",
-      "correctAnswer": "Color Field Painting",
-      "incorrectAnswers": [
-        "Foreshortening",
-        "Gestural Painting",
-        "Canvas Filling"
-      ],
-      "question": {
-        "text": "Which technique in abstract painting developed in the 1950's focuses on the effects of large areas of color having a minimum of surface detail?"
-      },
-      "tags": [
-        "art",
-        "words",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95073d",
-      "correctAnswer": "Danny DeVito",
-      "incorrectAnswers": [
-        "Ben Kingsley",
-        "Michael Douglas",
-        "Kiefer Sutherland"
-      ],
-      "question": {
-        "text": "Which actor has starred in films including One Flew Over the Cuckoo's Nest and Batman Returns?"
-      },
-      "tags": [
-        "film_and_tv",
-        "acting",
-        "film"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c36",
-      "correctAnswer": "Depeche Mode",
-      "incorrectAnswers": [
-        "Level 42",
-        "Dead or Alive",
-        "Radiohead"
-      ],
-      "question": {
-        "text": "Which English band released the studio album 'Ultra'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "63f39505989356ef48370be9",
-      "correctAnswer": "Piccolo",
-      "incorrectAnswers": [
-        "Flute",
-        "Clarinet",
-        "Bass Flute"
-      ],
-      "question": {
-        "text": "What is the name of the highest pitched woodwind instrument?"
-      },
-      "tags": [
-        "music",
-        "musical_instruments"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "647f9de83a4302a719271650",
-      "correctAnswer": "Edmonton",
-      "incorrectAnswers": [
-        "Calgary",
-        "Toronto",
-        "Vancouver"
-      ],
-      "question": {
-        "text": "Which Canadian city is nicknamed 'Oil City'?"
-      },
-      "tags": [
-        "places",
-        "cities",
-        "canada",
-        "nicknames",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcf0",
-      "correctAnswer": "Sino-Tibetan",
-      "incorrectAnswers": [
-        "Uralic",
-        "Kra–Dai",
-        "Dravidian"
-      ],
-      "question": {
-        "text": "The language 'Mandarin Chinese' belongs to which language family?"
-      },
-      "tags": [
-        "language",
         "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f83",
+      "correctAnswer": "Agatha Christie",
+      "incorrectAnswers": [
+        "Robert Louis Stevenson",
+        "Charles Dickens",
+        "Lewis Carroll"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Murder of Roger Ackroyd'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950dcc",
+      "correctAnswer": "William Makepeace Thackeray",
+      "incorrectAnswers": [
+        "Oscar Wilde",
+        "François-René de Chateaubriand",
+        "Orhan Pamuk"
+      ],
+      "question": {
+        "text": "Which author wrote 'Vanity Fair'?"
+      },
+      "tags": [
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",

@@ -1,21 +1,23 @@
 {
-  "gameDate": "2026-10-14",
+  "gameDate": "2026-10-15",
   "difficulty": "easy",
   "results": [
     {
-      "category": "geography",
-      "id": "623b57d1fd6c701a92118380",
-      "correctAnswer": "USA",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe66",
+      "correctAnswer": "Britney Spears",
       "incorrectAnswers": [
-        "Israel",
-        "England",
-        "Australia"
+        "Christina Aguilera",
+        "Jessica Simpson",
+        "Mandy Moore"
       ],
       "question": {
-        "text": "In which country would you find the Grand Canyon National Park?"
+        "text": "Which American singer, songwriter, dancer and actress released the studio album 'Oops!… I Did It Again'?"
       },
       "tags": [
-        "geography"
+        "general_knowledge",
+        "pop_music",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -24,18 +26,18 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f950534",
-      "correctAnswer": "The Future",
+      "id": "64824eb57778562fd76a9690",
+      "correctAnswer": "GPS",
       "incorrectAnswers": [
-        "Science Fiction",
-        "Palm Reading",
-        "Drugs"
+        "BPS",
+        "LPS",
+        "TPS"
       ],
       "question": {
-        "text": "What is futurology the study of?"
+        "text": "Which technology was first developed for the U.S. military and is now used for navigation?"
       },
       "tags": [
-        "words",
+        "technology",
         "science"
       ],
       "type": "text_choice",
@@ -45,20 +47,17 @@
     },
     {
       "category": "geography",
-      "id": "6237426acb85f7ce9e949dca",
-      "correctAnswer": "Madrid",
+      "id": "622a1c387cc59eab6f950a5c",
+      "correctAnswer": "Russia",
       "incorrectAnswers": [
-        "San Marino",
-        "Barcelona",
-        "Seville"
+        "Bulgaria",
+        "Lithuania",
+        "Latvia"
       ],
       "question": {
-        "text": "What is the capital city of Spain?"
+        "text": "Which of these countries borders Ukraine?"
       },
       "tags": [
-        "europe",
-        "capital_cities",
-        "general_knowledge",
         "geography"
       ],
       "type": "text_choice",
@@ -67,64 +66,65 @@
       "isNiche": false
     },
     {
+      "category": "sport_and_leisure",
+      "id": "65056f8f7a97013de78b5474",
+      "correctAnswer": "Tee",
+      "incorrectAnswers": [
+        "Anvil",
+        "Stall",
+        "Marquee"
+      ],
+      "question": {
+        "text": "Where is the golf ball rested at the start of the game?"
+      },
+      "tags": [
+        "sport_and_leisure"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "65056eaf7a97013de78b533b",
+      "correctAnswer": "Bible",
+      "incorrectAnswers": [
+        "The Odyssey",
+        "Hamlet",
+        "The Decameron"
+      ],
+      "question": {
+        "text": "The 'New King James Version' (NKJV) is a modern translation of which religious text?"
+      },
+      "tags": [
+        "religion",
+        "translation",
+        "bible"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
       "category": "society_and_culture",
-      "id": "6a97ea32c9cbd5256545a739",
-      "correctAnswer": "The Roadster",
+      "id": "6293ec197f41d6338b96eed7",
+      "correctAnswer": "Napoleon Bonaparte",
       "incorrectAnswers": [
-        "The Model S",
-        "The Model 3",
-        "The Cybertruck"
+        "Vasco da Gama",
+        "Louis XVI",
+        "Charles de Gaulle"
       ],
       "question": {
-        "text": "What was the first product Tesla Motors sold after founding?"
+        "text": "Which influential historical person was a French military and political leader in the late 18th and early 19th centuries?"
       },
       "tags": [
-        "startups",
-        "Tesla",
-        "electric cars"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6488889b5dba6c873ef65060",
-      "correctAnswer": "The spin",
-      "incorrectAnswers": [
-        "The tumble",
-        "The shake",
-        "The toss"
-      ],
-      "question": {
-        "text": "What is the name of the cycle in a washing machine that dries clothes?"
-      },
-      "tags": [
+        "people",
+        "history",
+        "society_and_culture",
         "general_knowledge",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c60dc50d1a5e051325a78",
-      "correctAnswer": "Stamppot",
-      "incorrectAnswers": [
-        "Ropa Vieja",
-        "Meat Pie",
-        "Ramen"
-      ],
-      "question": {
-        "text": "Which of these dishes is most associated with Netherlands?"
-      },
-      "tags": [
-        "food",
-        "the_netherlands",
-        "food_and_drink"
+        "france"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -133,15 +133,430 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950dc4",
-      "correctAnswer": "The Beatles",
+      "id": "622a1c397cc59eab6f950c17",
+      "correctAnswer": "Nirvana",
       "incorrectAnswers": [
-        "The Rolling Stones",
-        "The Kinks",
-        "The Who"
+        "Pearl Jam",
+        "Soundgarden",
+        "Stone Temple Pilots"
       ],
       "question": {
-        "text": "Which band includes 'John Lennon'?"
+        "text": "Which American rock band released the song 'Smells Like Teen Spirit'?"
+      },
+      "tags": [
+        "general_knowledge",
+        "rock_music",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "648891854cd3f064f443dc27",
+      "correctAnswer": "The Yellow Brick Road",
+      "incorrectAnswers": [
+        "The Red Brick Road",
+        "The Emerald Road",
+        "The Sapphire Road"
+      ],
+      "question": {
+        "text": "What did Dorothy and her friends walk down in The Wizard of Oz?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "literature",
+        "childrens_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62ab32d25202de619af28129",
+      "correctAnswer": "Porsche",
+      "incorrectAnswers": [
+        "Volkswagen",
+        "Rolls-Royce",
+        "Citroën"
+      ],
+      "question": {
+        "text": "The 911 is a model of car made by which manufacturer?"
+      },
+      "tags": [
+        "motoring",
+        "business",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056fb77a97013de78b54a8",
+      "correctAnswer": "Tropical region",
+      "incorrectAnswers": [
+        "Temperate region",
+        "Polar region",
+        "Arctic region"
+      ],
+      "question": {
+        "text": "What region receives the most heat from the Sun?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fb93",
+      "correctAnswer": "\"September\" by Earth, Wind & Fire",
+      "incorrectAnswers": [
+        "\"Yo Home to Bel-Air\"",
+        "\"What I Got\" by Sublime",
+        "\"American Pie\" by Don McLean"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"Do you remember, the 21st night of September?\"?"
+      },
+      "tags": [
+        "songs",
+        "lyrics",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63e13a2a106de6ffa7d4a7a9",
+      "correctAnswer": "Spinal cord",
+      "incorrectAnswers": [
+        "Vagus nerve",
+        "Ribcage",
+        "Trachea"
+      ],
+      "question": {
+        "text": "In the human body, what is the name of the structure that runs down the middle of the back?"
+      },
+      "tags": [
+        "science",
+        "biology",
+        "anatomy"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd70",
+      "correctAnswer": "Cher",
+      "incorrectAnswers": [
+        "Lady Gaga",
+        "Sia",
+        "Madonna"
+      ],
+      "question": {
+        "text": "Whose Real Name Is 'Cherilyn Sarkisian La Pier'?"
+      },
+      "tags": [
+        "pseudonyms",
+        "people",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8a9",
+      "correctAnswer": "Football",
+      "incorrectAnswers": [
+        "Cycling",
+        "Hockey",
+        "Skiing"
+      ],
+      "question": {
+        "text": "With which sport is Diego Maradona associated?"
+      },
+      "tags": [
+        "people",
+        "general_knowledge",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951081",
+      "correctAnswer": "Blue",
+      "incorrectAnswers": [
+        "Yellow",
+        "Purple",
+        "Red"
+      ],
+      "question": {
+        "text": "What Colour Is Sonic the Hedgehog?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe7f",
+      "correctAnswer": "Lady Gaga",
+      "incorrectAnswers": [
+        "Hikaru Utada",
+        "Drake",
+        "Madonna"
+      ],
+      "question": {
+        "text": "Which American singer, songwriter, and actress released the song 'Bad Romance'?"
+      },
+      "tags": [
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "649b4f4f828109028d236251",
+      "correctAnswer": "A Spider",
+      "incorrectAnswers": [
+        "A Pig",
+        "A Sheep",
+        "A Horse"
+      ],
+      "question": {
+        "text": "In E.B. White's classic children's book \"Charlotte's Web\", what kind of animal is Charlotte?"
+      },
+      "tags": [
+        "animals",
+        "childrens_literature",
+        "arts_and_literature",
+        "literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056e747a97013de78b52e9",
+      "correctAnswer": "Catalytic Converter",
+      "incorrectAnswers": [
+        "Muffler",
+        "Exhaust Manifold",
+        "Turbocharger"
+      ],
+      "question": {
+        "text": "What part of an exhaust converts toxic byproducts of combustion into less toxic ones?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fbb3",
+      "correctAnswer": "\"Pokémon Theme\" by Jason Paige",
+      "incorrectAnswers": [
+        "\"Let it Be\" by the Beatles",
+        "\"I'm Real (Murder Remix) by Jennifer Lopez and Ja Rule",
+        "\"In da Club\" by 50 Cent"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"I wanna be the very best...\"?"
+      },
+      "tags": [
+        "lyrics",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bd7",
+      "correctAnswer": "Guns N' Roses",
+      "incorrectAnswers": [
+        "Mötley Crüe",
+        "Def Leppard",
+        "Skid Row"
+      ],
+      "question": {
+        "text": "Which American hard rock band released the song 'Welcome to the Jungle'?"
+      },
+      "tags": [
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "62506447e12f6dec240bdfa7",
+      "correctAnswer": "I'm Gonna Be (500 Miles)",
+      "incorrectAnswers": [
+        "Puttin' on the Ritz",
+        "Unbelievable",
+        "I'm Too Sexy"
+      ],
+      "question": {
+        "text": "The Proclaimers had a one hit wonder in 1989 with which song?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "645b4f1f067ef798d145508b",
+      "correctAnswer": "Daisy",
+      "incorrectAnswers": [
+        "Rose",
+        "Tulip",
+        "Orchid"
+      ],
+      "question": {
+        "text": "What plant species, whose scientific name is Chrysanthemum maximum, includes the shasta variety?"
+      },
+      "tags": [
+        "flowers",
+        "gardening",
+        "botany",
+        "plants",
+        "science",
+        "biology"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515cc",
+      "correctAnswer": "Spain ",
+      "incorrectAnswers": [
+        "Italy",
+        "France",
+        "Russia"
+      ],
+      "question": {
+        "text": "From which country does the dish paella originate?"
+      },
+      "tags": [
+        "food",
+        "general_knowledge",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60bc50d1a5e051325a70",
+      "correctAnswer": "Japan",
+      "incorrectAnswers": [
+        "Turkey",
+        "Spain",
+        "Estonia"
+      ],
+      "question": {
+        "text": "Where in the world would you most expect to be served Sushi?"
+      },
+      "tags": [
+        "food",
+        "general_knowledge",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056e517a97013de78b52b8",
+      "correctAnswer": "Titanic",
+      "incorrectAnswers": [
+        "Britannic",
+        "Lusitania",
+        "Queen Mary"
+      ],
+      "question": {
+        "text": "Which ship was famously described as 'unsinkable' before it sank after hitting an iceberg?"
+      },
+      "tags": [
+        "history",
+        "maritime",
+        "ships"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6266bc3fff2394bd44dee001",
+      "correctAnswer": "Stringed",
+      "incorrectAnswers": [
+        "Woodwind",
+        "Percussion",
+        "Brass"
+      ],
+      "question": {
+        "text": "What type of instrument is a violin?"
       },
       "tags": [
         "music"
@@ -152,220 +567,18 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f951880",
-      "correctAnswer": "Davey Jones's Locker",
-      "incorrectAnswers": [
-        "Mark Jacob's Locker",
-        "Bootstrap Bill's Locker",
-        "Harry Logan's Locker"
-      ],
-      "question": {
-        "text": "What's the resting place of those buried at sea? "
-      },
-      "tags": [
-        "words",
-        "general_knowledge",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056f3e7a97013de78b5402",
-      "correctAnswer": "Tetanus",
-      "incorrectAnswers": [
-        "Down syndrome",
-        "Cystic fibrosis",
-        "Sickle-cell disease"
-      ],
-      "question": {
-        "text": "Which condition is NOT genetically caused?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3c7cc59eab6f951958",
-      "correctAnswer": "Hubble",
-      "incorrectAnswers": [
-        "Bubble",
-        "Toil",
-        "Trouble"
-      ],
-      "question": {
-        "text": "What is the name of the space telescope that was placed in Earth's orbit in 1990?"
-      },
-      "tags": [
-        "physics",
-        "astronomy",
-        "events",
-        "1990's",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950710",
-      "correctAnswer": "Will Smith",
-      "incorrectAnswers": [
-        "Brian Cox",
-        "Ralph Fiennes",
-        "Ryan Reynolds"
-      ],
-      "question": {
-        "text": "Which actor has starred in films including Men in Black and Enemy of the State?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63f39521989356ef48370c23",
-      "correctAnswer": "Origami",
-      "incorrectAnswers": [
-        "Kabuki",
-        "Kintsugi",
-        "Kokeshi"
-      ],
-      "question": {
-        "text": "What is the name of the traditional Japanese art of paper folding?"
-      },
-      "tags": [
-        "japan",
-        "society_and_culture",
-        "traditions",
-        "art"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951042",
-      "correctAnswer": "Big Bang",
-      "incorrectAnswers": [
-        "Eternal Inflation",
-        "Steady State",
-        "Oscillating Model"
-      ],
-      "question": {
-        "text": "What is the most widely accepted theory for the creation of the universe?"
-      },
-      "tags": [
-        "physics",
-        "general_knowledge",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6505702e7a97013de78b554e",
-      "correctAnswer": "2",
-      "incorrectAnswers": [
-        "1",
-        "0",
-        "4"
-      ],
-      "question": {
-        "text": "How many horns does a wildebeest have?"
-      },
-      "tags": [
-        "animals",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ec2a7f41d6338b96eedc",
-      "correctAnswer": "Dictator of Nazi Germany.",
-      "incorrectAnswers": [
-        "One of the pioneers of Quantum mechanics",
-        "Roman Emperor who accepted the Christian religion.",
-        "Physicist who discovered X-rays."
-      ],
-      "question": {
-        "text": "Which of the following describes Adolf Hitler?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95012a",
-      "correctAnswer": "Olympus",
-      "incorrectAnswers": [
-        "Sinai",
-        "Everest",
-        "Marathon"
-      ],
-      "question": {
-        "text": "Which Greek mountain was known as the home of the gods?"
-      },
-      "tags": [
-        "mythology",
-        "ancient_greece",
-        "classics",
-        "general_knowledge",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "62373ffccb85f7ce9e949cd0",
-      "correctAnswer": "Beijing",
+      "id": "65056f447a97013de78b540b",
+      "correctAnswer": "Canada",
       "incorrectAnswers": [
-        "Shanghai",
-        "Chengdu",
-        "Hong Kong"
+        "Denmark",
+        "Greenland",
+        "Australia"
       ],
       "question": {
-        "text": "What is the capital city of China?"
+        "text": "In which country is the province of Nova Scotia?"
       },
       "tags": [
-        "china",
-        "capital_cities",
-        "general_knowledge",
         "geography"
       ],
       "type": "text_choice",
@@ -374,21 +587,40 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c3a7cc59eab6f9511ba",
-      "correctAnswer": "Medusa",
+      "category": "food_and_drink",
+      "id": "65056e3e7a97013de78b529d",
+      "correctAnswer": "Turnip",
       "incorrectAnswers": [
-        "Minotaur",
-        "Harpy",
-        "Siren"
+        "Cherry",
+        "Plum",
+        "Lúcuma"
       ],
       "question": {
-        "text": "Which Ancient Greek creature had snakes for hair?"
+        "text": "Which of these foods is not a fruit?"
       },
       "tags": [
-        "mythology",
-        "ancient_greece",
-        "society_and_culture"
+        "food_and_drink",
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056faf7a97013de78b549e",
+      "correctAnswer": "Bamboo",
+      "incorrectAnswers": [
+        "Wild rice",
+        "Wheatgrass",
+        "Blue grama"
+      ],
+      "question": {
+        "text": "What is the tallest grass in the world?"
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -397,255 +629,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "63dd25c7742e43ed64f1f016",
-      "correctAnswer": "Elon Musk",
+      "id": "62628864014f58b5fc1a3fd6",
+      "correctAnswer": "There are some things money can't buy",
       "incorrectAnswers": [
-        "Jeff Bezos",
-        "Bill Gates",
-        "Mark Zuckerberg"
+        "Everywhere you want to be",
+        "Because Change Happens",
+        "The World's Local Bank"
       ],
       "question": {
-        "text": "What is the name of the founder of Tesla Motors?"
+        "text": "What is the marketing slogan of Mastercard?"
       },
       "tags": [
-        "society_and_culture",
         "business",
-        "people",
-        "motoring"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6a9a5f87e0b97b1653496bd1",
-      "correctAnswer": "Los Angeles",
-      "incorrectAnswers": [
-        "San Diego",
-        "San Francisco",
-        "Santa Barbara"
-      ],
-      "question": {
-        "text": "Founded on September 4, 1781 by 44 Spanish-speaking settlers, which US city later became synonymous with Hollywood and the American film industry?"
-      },
-      "tags": [
-        "cities",
-        "history",
-        "california",
-        "usa",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "64a094bccf8fd58080ceffda",
-      "correctAnswer": "A touchdown",
-      "incorrectAnswers": [
-        "A field goal",
-        "An interception",
-        "A sack"
-      ],
-      "question": {
-        "text": "In the sport of American football, what is the term for scoring 6 points by carrying the ball into the opponent's end zone?"
-      },
-      "tags": [
-        "football",
-        "american_football",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6486be3159bc33d1c362f320",
-      "correctAnswer": "St. Valentine",
-      "incorrectAnswers": [
-        "St. Patrick",
-        "St. Michael",
-        "St. Francis"
-      ],
-      "question": {
-        "text": "Which saint is celebrated on February 14th?"
-      },
-      "tags": [
-        "traditions",
-        "celebrations",
+        "marketing",
         "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9ee8796f721e95543f75",
-      "correctAnswer": "Three equal vertical bands of green white and red.",
-      "incorrectAnswers": [
-        "Three equal horizontal bands of red white and black.",
-        "Red with a green five-pointed star in the center.",
-        "Red field with a yellow sun in the center."
-      ],
-      "question": {
-        "text": "What does the flag of Italy look like?"
-      },
-      "tags": [
-        "flags",
-        "italy",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6505700d7a97013de78b5520",
-      "correctAnswer": "Telescope",
-      "incorrectAnswers": [
-        "Periscope",
-        "Endoscope",
-        "Microscope"
-      ],
-      "question": {
-        "text": "What instrument can we use to observe the stars?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056f4e7a97013de78b5419",
-      "correctAnswer": "Big Bang",
-      "incorrectAnswers": [
-        "Supernova",
-        "Standard model",
-        "Special relativity"
-      ],
-      "question": {
-        "text": "What theory describes the start of our universe?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f96f",
-      "correctAnswer": "1984",
-      "incorrectAnswers": [
-        "Parade's End",
-        "The Age of Innocence",
-        "Howards End"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Big Brother'?"
-      },
-      "tags": [
-        "literature",
-        "general_knowledge",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056e757a97013de78b52ea",
-      "correctAnswer": "Not enough insulin",
-      "incorrectAnswers": [
-        "Not enough estrogen",
-        "Not enough calcium",
-        "Not enough magnesium"
-      ],
-      "question": {
-        "text": "What is the direct cause of Type I Diabetes?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740f39da29df7b05f7404",
-      "correctAnswer": "A young girl and her dog are swept away by a tornado from their Kansas farm to a magical land.",
-      "incorrectAnswers": [
-        "A man with short-term memory loss attempts to track down his wife's murderer.",
-        "The jury in a murder trial is frustrated by a member whose caution forces them to consider the evidence.",
-        "A former neo-nazi tries to prevent his brother from going down the same path that he did."
-      ],
-      "question": {
-        "text": "What is the plot of the movie The Wizard of Oz?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f9503f9",
-      "correctAnswer": "Robots",
-      "incorrectAnswers": [
-        "Aliens",
-        "Gods",
-        "Wizards"
-      ],
-      "question": {
-        "text": "Transformers are ___________ in disguise. "
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056efa7a97013de78b53a3",
-      "correctAnswer": "Freezing",
-      "incorrectAnswers": [
-        "Melting",
-        "Boiling",
-        "Condensation"
-      ],
-      "question": {
-        "text": "What is the transition from liquid to solid phase?"
-      },
-      "tags": [
-        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
