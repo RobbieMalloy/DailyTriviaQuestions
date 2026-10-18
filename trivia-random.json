@@ -1,21 +1,85 @@
 {
-  "gameDate": "2026-10-17",
+  "gameDate": "2026-10-18",
   "difficulty": "random",
   "results": [
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eaf",
-      "correctAnswer": "J. K. Rowling",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff5f",
+      "correctAnswer": "Bob Dylan",
       "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
+        "Neil Young",
+        "Tom Petty",
+        "Bruce Springsteen"
       ],
       "question": {
-        "text": "Which author wrote 'Harry Potter and the Half-Blood Prince'?"
+        "text": "Which American Musician wrote the song 'Like a Rolling Stone'?"
       },
       "tags": [
-        "arts_and_literature"
+        "songs",
+        "musicians",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f95163e",
+      "correctAnswer": "Green",
+      "incorrectAnswers": [
+        "Blue",
+        "Yellow",
+        "Red"
+      ],
+      "question": {
+        "text": " What colour is creme de menthe?"
+      },
+      "tags": [
+        "drink",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "6ad303e1753915dc7be53cf7",
+      "correctAnswer": "Charles Blondin",
+      "incorrectAnswers": [
+        "Philippe Petit",
+        "Harry Houdini",
+        "Karl Wallenda"
+      ],
+      "question": {
+        "text": "Which French daredevil crossed Niagara Falls on a tightrope in 1859?"
+      },
+      "tags": [
+        "niagara-falls",
+        "tightrope"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056fbd7a97013de78b54b1",
+      "correctAnswer": "Extinction",
+      "incorrectAnswers": [
+        "Adaptation",
+        "Evolution",
+        "Migration"
+      ],
+      "question": {
+        "text": "What is the death of an entire species?"
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -23,59 +87,16 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f871",
-      "correctAnswer": "Cricket",
-      "incorrectAnswers": [
-        "Motor Racing",
-        "Snooker",
-        "Rowing"
-      ],
-      "question": {
-        "text": "With which sport is Brian Lara associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "624437b1746187c5e7be936c",
-      "correctAnswer": "It is used in disinfectants and antiseptics.",
+      "id": "65056f207a97013de78b53d9",
+      "correctAnswer": "Hypotenuse",
       "incorrectAnswers": [
-        "It is used in nuclear reactors, as a neutron moderator.",
-        "It is used as oscillators in radios, watches.",
-        "It is used for surface purification, bleaching, odour removal and water disinfection."
+        "Cathetus",
+        "Secant",
+        "Tangent"
       ],
       "question": {
-        "text": "What is the chemical isopropyl alcohol often used for?"
-      },
-      "tags": [
-        "chemistry",
-        "general_knowledge",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056fd97a97013de78b54d7",
-      "correctAnswer": "2006",
-      "incorrectAnswers": [
-        "1930",
-        "1995",
-        "1973"
-      ],
-      "question": {
-        "text": "In what year was Pluto demoted to a dwarf planet?"
+        "text": "In a right triangle, what do you call the side opposite the right angle?"
       },
       "tags": [
         "science"
@@ -87,15 +108,15 @@
     },
     {
       "category": "geography",
-      "id": "622a1c387cc59eab6f9507f6",
-      "correctAnswer": "Europe",
+      "id": "622a1c387cc59eab6f950850",
+      "correctAnswer": "France",
       "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Asia"
+        "Switzerland",
+        "Liechtenstein",
+        "San Marino"
       ],
       "question": {
-        "text": "The country of Liechtenstein is on which continent?"
+        "text": "Which of these countries borders Monaco?"
       },
       "tags": [
         "geography"
@@ -106,22 +127,19 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c397cc59eab6f950fb8",
-      "correctAnswer": "Alexander Fleming",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ddf",
+      "correctAnswer": "Jostein Gaarder",
       "incorrectAnswers": [
-        "Louis Pasteur",
-        "Frederick Sanger",
-        "John Dalton"
+        "G. K. Chesterton",
+        "Jules Verne",
+        "J. R. R. Tolkien"
       ],
       "question": {
-        "text": "Who Is Accepted As The Discoverer Of Penicillin?"
+        "text": "Which author wrote 'Sophie's World'?"
       },
       "tags": [
-        "inventions",
-        "chemistry",
-        "people",
-        "science"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -129,22 +147,43 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "62611f554b176d54800e3d52",
-      "correctAnswer": "1992",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f96e",
+      "correctAnswer": "Nine Stories",
       "incorrectAnswers": [
-        "1945",
-        "1960",
-        "1977"
+        "The Metamorphosis",
+        "Blood Meridian",
+        "Portnoy's Complaint"
       ],
       "question": {
-        "text": "When did the Maastricht Treaty lay the foundation for the European Union?"
+        "text": "Which book contains the character 'Seymour Glass'?"
       },
       "tags": [
-        "events",
-        "politics",
-        "europe",
-        "history"
+        "literature",
+        "fictitious_characters",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6a97ea23c9cbd5256545a735",
+      "correctAnswer": "Tiny Speck",
+      "incorrectAnswers": [
+        "Valve",
+        "Epic Games",
+        "Riot Games"
+      ],
+      "question": {
+        "text": "Which failed video-game company later pivoted to create the Slack messaging app?"
+      },
+      "tags": [
+        "startups",
+        "Slack",
+        "pivot"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -153,40 +192,59 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6293ec577f41d6338b96eee9",
-      "correctAnswer": "Powerful Indian King who established a large empire by conquest before converting to Buddhism.",
+      "id": "622a1c357cc59eab6f94fd17",
+      "correctAnswer": "Immanuel Kant",
       "incorrectAnswers": [
-        "Queen of England from 1558 to her death in 1603. Cemented England as a Protestant country, defeated Spanish Armada.",
-        "Explorer, first European to reach India and establish a route for imperialism.",
-        "Spiritual Teacher and founder of Buddhism."
+        "Baruch Spinoza",
+        "Martin Heidegger",
+        "Bertrand Russell"
       ],
       "question": {
-        "text": "Which of the following describes Asoka?"
+        "text": "Which philosopher famously said 'Metaphysics is a dark ocean without shores or lighthouse, strewn with many a philosophic wreck'?"
       },
       "tags": [
-        "people",
-        "history",
+        "philosophy",
+        "quotes",
         "society_and_culture"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951af6",
+      "correctAnswer": "The American War Of Independence",
+      "incorrectAnswers": [
+        "World War II",
+        "The Korean War",
+        "The Chinese Civil War"
+      ],
+      "question": {
+        "text": "In which war was Bunker Hill a major battle?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "625740a49da29df7b05f73ed",
-      "correctAnswer": "Chinatown",
+      "id": "622a1c377cc59eab6f95060f",
+      "correctAnswer": "Joaquin Phoenix",
       "incorrectAnswers": [
-        "Gran Torino",
-        "Up",
-        "Gone Girl"
+        "Peter O'Toole",
+        "Roger Moore",
+        "Alan Cumming"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'A detective hired to expose an adulterer finds himself caught up in a web of deceit.'"
+        "text": "Which actor has starred in films including Joker and Her?"
       },
       "tags": [
-        "film",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -195,375 +253,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f951791",
-      "correctAnswer": "Louis XIV",
-      "incorrectAnswers": [
-        "Henri III",
-        "Charles the Bald",
-        "Napoleon Bonaparte"
-      ],
-      "question": {
-        "text": "Which King of France was known as The Sun King?"
-      },
-      "tags": [
-        "france",
-        "leaders",
-        "nicknames",
-        "middle_ages",
-        "medieval",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "64974e400752843c0d8aadaf",
-      "correctAnswer": "Nepal",
-      "incorrectAnswers": [
-        "Sri Lanka",
-        "Bangladesh",
-        "Pakistan"
-      ],
-      "question": {
-        "text": "Which country is surrounded by India on three sides and China to the north?"
-      },
-      "tags": [
-        "borders",
-        "asia",
-        "india",
-        "china",
-        "countries",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950024",
-      "correctAnswer": "Tennis",
-      "incorrectAnswers": [
-        "Soccer",
-        "Badminton",
-        "Volleyball"
-      ],
-      "question": {
-        "text": "With which sport is Chris Evert Lloyd identified?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3d7cc59eab6f951ca3",
-      "correctAnswer": "9 Ladies Dancing",
-      "incorrectAnswers": [
-        "9 Lords a Leaping",
-        "9 Calling Birds",
-        "9 Pipers Piping"
-      ],
-      "question": {
-        "text": "What did 'my true love give to me' on the ninth day of Christmas?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3d7cc59eab6f951b9e",
-      "correctAnswer": "Mount Pelée",
-      "incorrectAnswers": [
-        "Krakatoa",
-        "Mount St Helen's",
-        "Mount Pinatubo"
-      ],
-      "question": {
-        "text": "Which volcano erupted in 1902, killing 30,000?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ec657f41d6338b96eeed",
-      "correctAnswer": "Christian theologian who developed a strict brand of Protestant Christianity.",
-      "incorrectAnswers": [
-        "Explorer, first European to reach India and establish a route for imperialism.",
-        "Inventor of the printing press.",
-        "Physicist who discovered electromagnetic waves or X-rays."
-      ],
-      "question": {
-        "text": "Which of the following describes John Calvin?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ebdc7f41d6338b96eec5",
-      "correctAnswer": "Moses",
-      "incorrectAnswers": [
-        "Mohammed",
-        "Frodo",
-        "Buddha"
-      ],
-      "question": {
-        "text": "Who of these was a key figure of Jewish/Christian history?"
-      },
-      "tags": [
-        "people",
-        "society_and_culture",
-        "christianity",
-        "judaism",
-        "religion"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639ae2de929b90846f2fc8be",
-      "correctAnswer": "Blót",
-      "incorrectAnswers": [
-        "Flägen",
-        "Midsommar",
-        "Odinskón"
-      ],
-      "question": {
-        "text": "What is the name of the Viking practice of sacrificing prisoners to their gods?"
-      },
-      "tags": [
-        "history",
-        "vikings",
-        "traditions"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcf8",
-      "correctAnswer": "Turkic",
-      "incorrectAnswers": [
-        "Koreanic",
-        "Afroasiatic",
-        "Niger–Congo"
-      ],
-      "question": {
-        "text": "The language 'Turkish' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f80",
-      "correctAnswer": "Stephen King",
-      "incorrectAnswers": [
-        "H. P. Lovecraft",
-        "Edgar Allan Poe",
-        "Jack Vance"
-      ],
-      "question": {
-        "text": "Which author wrote 'It'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "639c9dbc929b90846f2fc9ac",
-      "correctAnswer": "The Ramayana",
-      "incorrectAnswers": [
-        "The Upanishads",
-        "The Bhagavad Gita",
-        "The Puranas"
-      ],
-      "question": {
-        "text": "What is the name of the Hindu scripture that contains the story of Sita?"
-      },
-      "tags": [
-        "hinduism",
-        "religion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "639ae86e929b90846f2fc8dd",
-      "correctAnswer": "Millennium Falcon",
+      "id": "6463391401d576cfac3aa314",
+      "correctAnswer": "Val Kilmer",
       "incorrectAnswers": [
-        "Razor Crest",
-        "Ebon Hawk",
-        "X-Wing"
+        "Kevin Spacey",
+        "Tom Cruise",
+        "Samuel L. Jackson"
       ],
       "question": {
-        "text": "In Star Wars, what is the name of Han Solo's ship?"
+        "text": "Which actor has played Jim Morrison, Elvis Presley, and Batman in various films?"
       },
       "tags": [
-        "star_wars",
-        "film_and_tv",
         "film",
-        "science_fiction"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6aacd6a96c95af194f14a99f",
-      "correctAnswer": "Duke Ellington",
-      "incorrectAnswers": [
-        "Count Basie",
-        "Louis Armstrong",
-        "Fletcher Henderson"
-      ],
-      "question": {
-        "text": "Which bandleader's orchestra opened at Harlem's Cotton Club in 1927?"
-      },
-      "tags": [
-        "jazz",
-        "big_band",
-        "harlem"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "64824e287778562fd76a960e",
-      "correctAnswer": "Adele",
-      "incorrectAnswers": [
-        "Taylor Swift",
-        "Ed Sheeran",
-        "Beyoncé"
-      ],
-      "question": {
-        "text": "Released in 2008, which artist's debut album was titled \"19\"?"
-      },
-      "tags": [
-        "music",
-        "music_albums"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8ae",
-      "correctAnswer": "Swimming",
-      "incorrectAnswers": [
-        "Figure skating",
-        "Track and field",
-        "Boxing"
-      ],
-      "question": {
-        "text": "With which sport is Michael Phelps associated?"
-      },
-      "tags": [
-        "olympics",
-        "people",
-        "general_knowledge",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "646089a9de964ebc39016c64",
-      "correctAnswer": "Mount Olympus",
-      "incorrectAnswers": [
-        "Mount Everest",
-        "Mont Blanc",
-        "Mount Etna"
-      ],
-      "question": {
-        "text": "Which mountain was believed by the ancient Greeks to be the center of the Earth?"
-      },
-      "tags": [
-        "history",
-        "mythology",
-        "geography",
-        "ancient_greece",
-        "mountains"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "646339a001d576cfac3aa396",
-      "correctAnswer": "Cheers & Frasier",
-      "incorrectAnswers": [
-        "Seinfeld & Friends",
-        "The Big Bang Theory & How I Met Your Mother",
-        "The Office & Brooklyn Nine-Nine"
-      ],
-      "question": {
-        "text": "On which two popular sitcoms has Bebe Neuwirth played Dr. Lilith Sternin?"
-      },
-      "tags": [
-        "sitcoms",
-        "tv",
         "film_and_tv",
         "acting"
       ],
@@ -574,20 +276,17 @@
     },
     {
       "category": "film_and_tv",
-      "id": "624dba59de6018633d31f6c1",
-      "correctAnswer": "Goldfinger",
+      "id": "622a1c3c7cc59eab6f951a40",
+      "correctAnswer": "The Godfather",
       "incorrectAnswers": [
-        "Casino Royale",
-        "Spectre",
-        "Dr. No"
+        "Seabiscuit",
+        "Live and Let Die",
+        "Alien"
       ],
       "question": {
-        "text": "Which James Bond theme song was performed by Shirley Bassey?"
+        "text": "The horse Khartoum plays a role in which film?"
       },
       "tags": [
-        "james_bond",
-        "film",
-        "soundtracks",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -597,22 +296,20 @@
     },
     {
       "category": "geography",
-      "id": "639c9d9f929b90846f2fc972",
-      "correctAnswer": "Skyscraper",
+      "id": "645f94b7541c4d4fc8cf2e67",
+      "correctAnswer": "The Sudan",
       "incorrectAnswers": [
-        "Cathedral",
-        "Museum",
-        "Stadium"
+        "Ethiopia",
+        "Nigeria",
+        "South Africa"
       ],
       "question": {
-        "text": "The Gherkin is a well-known London building designed by Norman Foster. What type of building is it?"
+        "text": "What is the name of the large country to the south of Egypt, with which it shares a land border?"
       },
       "tags": [
-        "architecture",
-        "geography",
-        "buildings",
-        "london",
-        "uk"
+        "countries",
+        "africa",
+        "egypt"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -620,22 +317,170 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "647f9ded3a4302a71927167b",
-      "correctAnswer": "Frankfort",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951048",
+      "correctAnswer": "Acidity Or Alkalinity",
       "incorrectAnswers": [
-        "Louisville",
-        "Lexington",
-        "Bowling Green"
+        "Radiation",
+        "Wind Speed",
+        "Gravity"
       ],
       "question": {
-        "text": "What is the capital of Kentucky?"
+        "text": "What Is PH A Measure Of"
       },
       "tags": [
-        "usa",
-        "state_capitals",
-        "cities",
-        "kentucky",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64909c4d58265893a0c86da5",
+      "correctAnswer": "Pierre",
+      "incorrectAnswers": [
+        "Jacques",
+        "Jean",
+        "Francois"
+      ],
+      "question": {
+        "text": "What is the first name shared by fashion designer Cardin and furniture designer Boulle?"
+      },
+      "tags": [
+        "designers",
+        "fashion",
+        "people",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6476390bf05ea6d6f587a179",
+      "correctAnswer": "For example",
+      "incorrectAnswers": [
+        "And another thing",
+        "In other words",
+        "And so on"
+      ],
+      "question": {
+        "text": "What does the Latin abbreviation term 'e.g.' mean?"
+      },
+      "tags": [
+        "latin",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fb02",
+      "correctAnswer": "Reese Witherspoon",
+      "incorrectAnswers": [
+        "Judi Dench",
+        "Felicity Huffman",
+        "Keira Knightley"
+      ],
+      "question": {
+        "text": "Who won the 2005 Academy Award for Best Leading Actress for playing the role of June Carter in Walk the Line?"
+      },
+      "tags": [
+        "academy_awards",
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "63a03947c7d86251f9b65c32",
+      "correctAnswer": "Cheese",
+      "incorrectAnswers": [
+        "Tomatoes",
+        "Beans",
+        "Chili"
+      ],
+      "question": {
+        "text": "What is the main ingredient in queso dip?"
+      },
+      "tags": [
+        "food_and_drink",
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f1f",
+      "correctAnswer": "Alice Munro",
+      "incorrectAnswers": [
+        "Ivan Turgenev",
+        "E. T. A. Hoffmann",
+        "Alphonse Daudet"
+      ],
+      "question": {
+        "text": "Which author wrote 'Too Much Happiness'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "64a094bccf8fd58080ceffdd",
+      "correctAnswer": "Jamaica",
+      "incorrectAnswers": [
+        "Cuba",
+        "Mexico",
+        "Brazil"
+      ],
+      "question": {
+        "text": "Where did jerk chicken originate?"
+      },
+      "tags": [
+        "cuisine",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "64720cd93bbb58c31f411cd9",
+      "correctAnswer": "The Avon",
+      "incorrectAnswers": [
+        "The Thames",
+        "The Severn",
+        "The Mersey"
+      ],
+      "question": {
+        "text": "Which river in England has both a Welford-on- and a Bidford-on- location?"
+      },
+      "tags": [
+        "rivers",
+        "uk",
         "geography"
       ],
       "type": "text_choice",
@@ -644,20 +489,143 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9518fb",
-      "correctAnswer": "Botany Bay",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f7d",
+      "correctAnswer": "Stephen King",
       "incorrectAnswers": [
-        "Florida",
-        "Hong Kong",
-        "The Bay of Biscay"
+        "H. P. Lovecraft",
+        "Edgar Allan Poe",
+        "Jack Vance"
       ],
       "question": {
-        "text": "What Was Formerly Called Stingray Harbour?"
+        "text": "Which author wrote 'The Dark Tower'?"
       },
       "tags": [
-        "previous_names",
-        "history"
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950deb",
+      "correctAnswer": "Truman Capote",
+      "incorrectAnswers": [
+        "Robert Jordan",
+        "Philip K. Dick",
+        "Isabel Allende"
+      ],
+      "question": {
+        "text": "Which author wrote 'Breakfast at Tiffany's'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f860",
+      "correctAnswer": "Motor racing",
+      "incorrectAnswers": [
+        "Basketball",
+        "Baseball",
+        "Swimming"
+      ],
+      "question": {
+        "text": "With which sport is Lewis Hamilton associated?"
+      },
+      "tags": [
+        "people",
+        "general_knowledge",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950212",
+      "correctAnswer": "Orange Juice ",
+      "incorrectAnswers": [
+        "Lemon Juice",
+        "Pineapple Juice",
+        "Apple Juice"
+      ],
+      "question": {
+        "text": "With what is champagne mixed to produce `Buck's Fizz'?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "645b4f1f067ef798d1455089",
+      "correctAnswer": "Greece",
+      "incorrectAnswers": [
+        "Italy",
+        "Spain",
+        "Egypt"
+      ],
+      "question": {
+        "text": "Which country was served by Olympic Airlines?"
+      },
+      "tags": [
+        "airlines",
+        "business"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f95103f",
+      "correctAnswer": "212",
+      "incorrectAnswers": [
+        "100",
+        "32",
+        "169"
+      ],
+      "question": {
+        "text": "What is the boiling point of water in Farenheit?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdf0",
+      "correctAnswer": "Kesha",
+      "incorrectAnswers": [
+        "Katy Perry",
+        "Lady Gaga",
+        "P!nk"
+      ],
+      "question": {
+        "text": "Which American singer released the studio album 'Animal'?"
+      },
+      "tags": [
+        "music_albums",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
