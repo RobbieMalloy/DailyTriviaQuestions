@@ -1,22 +1,21 @@
 {
-  "gameDate": "2026-10-23",
+  "gameDate": "2026-10-24",
   "difficulty": "medium",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "625740cd9da29df7b05f73f9",
-      "correctAnswer": "Life of Brian",
+      "category": "science",
+      "id": "622a1c377cc59eab6f950506",
+      "correctAnswer": "The voice box",
       "incorrectAnswers": [
-        "Terminator 2: Judgment Day",
-        "The Bridge on the River Kwai",
-        "Die Hard"
+        "Books",
+        "Ancient laws",
+        "The history of speech"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'Born in the stable next door to Christ, a man spends his life being mistaken for a messiah.'"
+        "text": "What is Laryngology the study of?"
       },
       "tags": [
-        "film",
-        "film_and_tv"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -24,19 +23,83 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "6a98263ac9cbd5256545a77b",
-      "correctAnswer": "Philips",
+      "category": "science",
+      "id": "63adbd7f04c68cc1e14b8e56",
+      "correctAnswer": "American Elm",
       "incorrectAnswers": [
-        "Sony",
-        "Pioneer",
-        "Panasonic"
+        "American Redbud",
+        "American Willow",
+        "American Tree"
       ],
       "question": {
-        "text": "Which Dutch electronics company popularised the compact cassette and the CD?"
+        "text": "What is the common name for the tree species Ulmus americana?"
       },
       "tags": [
-        "brands,Philips,audio,history"
+        "trees",
+        "plants",
+        "nature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f951637",
+      "correctAnswer": "Water",
+      "incorrectAnswers": [
+        "Champagne",
+        "Beer",
+        "Wine"
+      ],
+      "question": {
+        "text": " What type of drink is Perrier?"
+      },
+      "tags": [
+        "drink",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a14",
+      "correctAnswer": "Hernando Cortez",
+      "incorrectAnswers": [
+        "Francisco Pizarro",
+        "Christopher Columbus",
+        "Ferdinand Magellan"
+      ],
+      "question": {
+        "text": "Which Spaniard conquered most of Mexico and lead to the downfall of the Aztec Empire?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c606250d1a5e051325a57",
+      "correctAnswer": "Canada",
+      "incorrectAnswers": [
+        "Vietnam",
+        "Ecuador",
+        "France"
+      ],
+      "question": {
+        "text": "Poutine is a dish that is most associated with which part of the world?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -45,17 +108,19 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c3b7cc59eab6f9513ae",
-      "correctAnswer": "Lolita",
+      "id": "622a1c397cc59eab6f950edd",
+      "correctAnswer": "H. G. Wells",
       "incorrectAnswers": [
-        "Les Liaisons dangereuses",
-        "And Then There Were None",
-        "Ulysses"
+        "Neil Gaiman",
+        "Arthur C. Clarke",
+        "C. S. Lewis"
       ],
       "question": {
-        "text": "In which book does 'Humbert Humbert' appear?"
+        "text": "Which author wrote 'The Time Machine'?"
       },
       "tags": [
+        "literature",
+        "science_fiction",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -64,16 +129,143 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950789",
-      "correctAnswer": "George Clooney",
+      "category": "society_and_culture",
+      "id": "622a1c3c7cc59eab6f9517fd",
+      "correctAnswer": "Good King Wenceslas",
       "incorrectAnswers": [
-        "Sean Connery",
-        "Gary Oldman",
-        "Ewan McGregor"
+        "Once in Royal David's City",
+        "Silent Night",
+        "Deck the Halls"
       ],
       "question": {
-        "text": "Which actor has had roles in films including Tomorrowland and Gravity?"
+        "text": "Which Christmas Carol tells the tale of a 10th century Duke of Bohemia?"
+      },
+      "tags": [
+        "christmas",
+        "songs",
+        "christianity",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc27",
+      "correctAnswer": "\"We rob banks.\"",
+      "incorrectAnswers": [
+        "\"You can't handle the truth!\"",
+        "\"There's no place like home.\"",
+        "\"Carpe diem. Seize the day, boys. Make your lives extraordinary.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Bonnie and Clyde'?"
+      },
+      "tags": [
+        "film",
+        "quotes",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9519ac",
+      "correctAnswer": "The exploding shell",
+      "incorrectAnswers": [
+        "The steam engine",
+        "The lightbulb",
+        "The television"
+      ],
+      "question": {
+        "text": "What did Henry Shrapnel invent?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "639c9d93929b90846f2fc956",
+      "correctAnswer": "Moorish",
+      "incorrectAnswers": [
+        "Byzantine",
+        "Neoclassical",
+        "Gothic"
+      ],
+      "question": {
+        "text": "Which of the following is a style of Islamic architecture?"
+      },
+      "tags": [
+        "architecture",
+        "art",
+        "islam"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056e697a97013de78b52d9",
+      "correctAnswer": "Mikhail Kalashnikov",
+      "incorrectAnswers": [
+        "John Browning",
+        "Samuel Colt",
+        "Artem Mikoyan"
+      ],
+      "question": {
+        "text": "Who designed the AK-47, the world's most-produced firearm?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d69",
+      "correctAnswer": "Genesis",
+      "incorrectAnswers": [
+        "Orchestral Manoeuvres in the Dark",
+        "Soft Machine",
+        "The Human League"
+      ],
+      "question": {
+        "text": "Which band includes 'Phil Collins'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f95072f",
+      "correctAnswer": "John Travolta",
+      "incorrectAnswers": [
+        "Ralph Fiennes",
+        "Brian Cox",
+        "Michael Douglas"
+      ],
+      "question": {
+        "text": "Which actor has featured in films including Pulp Fiction and Hairspray?"
       },
       "tags": [
         "film",
@@ -86,251 +278,22 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c377cc59eab6f9507e4",
-      "correctAnswer": "Oceania",
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b3c",
+      "correctAnswer": "The Police",
       "incorrectAnswers": [
-        "South America",
-        "Europe",
-        "Asia"
+        "The Rolling Stones",
+        "U2",
+        "Ultravox"
       ],
       "question": {
-        "text": "The country of Nauru is on which continent?"
+        "text": "Which band had Sting as its lead singer?"
       },
       "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623384f962eaad73716a8c42",
-      "correctAnswer": "Montreal ",
-      "incorrectAnswers": [
-        "Sao Paolo",
-        "Los Angeles",
-        "London"
-      ],
-      "question": {
-        "text": "What major city is on an island in the St Lawrence River?"
-      },
-      "tags": [
-        "cities",
-        "rivers",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e13",
-      "correctAnswer": "Mario Puzo",
-      "incorrectAnswers": [
-        "Edgar Allan Poe",
-        "Stephen King",
-        "Dan Brown"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Godfather'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950241",
-      "correctAnswer": "Parma ",
-      "incorrectAnswers": [
-        "Genoa",
-        "Venice",
-        "Florence"
-      ],
-      "question": {
-        "text": "Which Italian city gave its name to a cheese and a type of ham?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3a7cc59eab6f951012",
-      "correctAnswer": "Otter",
-      "incorrectAnswers": [
-        "Squirrel",
-        "Turtle",
-        "Bear"
-      ],
-      "question": {
-        "text": "What Sort Of Animal Was Tarka?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950fd8",
-      "correctAnswer": "Kidney",
-      "incorrectAnswers": [
-        "Liver",
-        "Lung",
-        "Heart"
-      ],
-      "question": {
-        "text": "Which vital organ does the adjective renal refer to?"
-      },
-      "tags": [
-        "anatomy",
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "64824eaa7778562fd76a965b",
-      "correctAnswer": "South Vietnam",
-      "incorrectAnswers": [
-        "North Korea",
-        "China",
-        "Laos"
-      ],
-      "question": {
-        "text": "Nguyen Van Thieu served as the president of which Asian country from 1967 to 1975?"
-      },
-      "tags": [
-        "politics",
-        "asia",
-        "leaders",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f95080f",
-      "correctAnswer": "Africa",
-      "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Europe"
-      ],
-      "question": {
-        "text": "The country of Guinea-Bissau is on which continent?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a0e",
-      "correctAnswer": "The Korean War",
-      "incorrectAnswers": [
-        "World War II",
-        "The American War of Independence",
-        "The Vietnam War"
-      ],
-      "question": {
-        "text": "Which war began on June 25, 1950?"
-      },
-      "tags": [
-        "wars",
-        "1950's",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f966",
-      "correctAnswer": "Home Alone",
-      "incorrectAnswers": [
-        "Blue Velvet",
-        "On the Waterfront",
-        "Mad Max"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Kevin McCallister'?"
-      },
-      "tags": [
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62373545cfe13103f55eb516",
-      "correctAnswer": "Ireland",
-      "incorrectAnswers": [
-        "Vietnam",
-        "Iceland",
-        "Israel"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.ie' at the end of its web addresses?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570117a97013de78b5526",
-      "correctAnswer": "Eye",
-      "incorrectAnswers": [
-        "Ear",
-        "Esophagus",
-        "Wrist"
-      ],
-      "question": {
-        "text": "What part of the body is affected by conjunctivitis?"
-      },
-      "tags": [
-        "science"
+        "people",
+        "music",
+        "bands",
+        "musicians"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -339,17 +302,19 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950131",
-      "correctAnswer": "Narcissus",
+      "id": "62ab330c5202de619af2813a",
+      "correctAnswer": "Renault",
       "incorrectAnswers": [
-        "Hercules",
-        "Apollo",
-        "Perseus"
+        "Porsche",
+        "Rolls-Royce",
+        "Land Rover"
       ],
       "question": {
-        "text": "In Greek mythology, who was the beautiful young man Echo fell in love with?"
+        "text": "The Clio is a model of car made by which manufacturer?"
       },
       "tags": [
+        "motoring",
+        "business",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -358,101 +323,22 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9505ac",
-      "correctAnswer": "Male health and disease",
-      "incorrectAnswers": [
-        "Animal behaviour",
-        "The causation of disease",
-        "The structure of cells"
-      ],
-      "question": {
-        "text": "What is Andrology the study of?"
-      },
-      "tags": [
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950565",
-      "correctAnswer": "The records in tree rings",
-      "incorrectAnswers": [
-        "Muscles",
-        "Minerals",
-        "Venereal diseases"
-      ],
-      "question": {
-        "text": "What is dendrochronology the study of?"
-      },
-      "tags": [
-        "science",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "645c9f5342ea81e2554c5f07",
-      "correctAnswer": "a hybrid bicycle",
-      "incorrectAnswers": [
-        "an electric bike",
-        "a recumbent bike",
-        "a tandem bike"
-      ],
-      "question": {
-        "text": "What type of bicycle combines features of a road bike with those of a mountain bike, and uses no electricity?"
-      },
-      "tags": [
-        "cycling"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6492d7ae9975daf4109a79fe",
-      "correctAnswer": "Volvo",
-      "incorrectAnswers": [
-        "Toyota",
-        "Fiat",
-        "Mazda"
-      ],
-      "question": {
-        "text": "Which automaker offers a V90 model?"
-      },
-      "tags": [
-        "motoring",
-        "cars"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f951b3e",
-      "correctAnswer": "1918",
+      "id": "64fb150b717513cb79190396",
+      "correctAnswer": "John F. Kennedy",
       "incorrectAnswers": [
-        "1920",
-        "1914",
-        "1931"
+        "Theodore Roosevelt",
+        "Abraham Lincoln",
+        "Barack Obama"
       ],
       "question": {
-        "text": "In What Year Did World War I End?"
+        "text": "Who was the youngest person ever elected president of the USA?"
       },
       "tags": [
+        "presidents",
+        "government",
+        "usa",
+        "society_and_culture",
         "history"
       ],
       "type": "text_choice",
@@ -461,16 +347,85 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "636a5270990390307063f399",
-      "correctAnswer": "Nine Inch Nails",
+      "category": "sport_and_leisure",
+      "id": "648889135dba6c873ef650be",
+      "correctAnswer": "Chess",
       "incorrectAnswers": [
-        "The White Stripes",
-        "Creedence Clearwater Revival",
-        "Miley Cyrus"
+        "Checkers",
+        "Backgammon",
+        "Go"
       ],
       "question": {
-        "text": "Which artist first recorded 'Hurt', which was later covered by Johnny Cash?"
+        "text": "In 1988, Bobby Fischer invented a new type of clock that has since become widely used in which board game?"
+      },
+      "tags": [
+        "board_games",
+        "games",
+        "inventions"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6463398b01d576cfac3aa379",
+      "correctAnswer": "George H.W. Bush",
+      "incorrectAnswers": [
+        "Barack Obama",
+        "Bill Clinton",
+        "Donald Trump"
+      ],
+      "question": {
+        "text": "Which US President is quoted as saying \"I'm President of the United States, and I'm not going to eat any more broccoli!\"?"
+      },
+      "tags": [
+        "presidents",
+        "usa",
+        "food",
+        "food_and_drink",
+        "quotes"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd66bdc0dd3b72da64cef",
+      "correctAnswer": "1980",
+      "incorrectAnswers": [
+        "1965",
+        "1970",
+        "1975"
+      ],
+      "question": {
+        "text": "In which year was Star Wars: Episode V - The Empire Strikes Back first released in the cinema?"
+      },
+      "tags": [
+        "film",
+        "cult_films",
+        "star_wars",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "636a5242990390307063f385",
+      "correctAnswer": "The Pixies",
+      "incorrectAnswers": [
+        "Bob Marley and The Wailers",
+        "Otis Redding",
+        "Joni Mitchell"
+      ],
+      "question": {
+        "text": "Which artist first recorded 'Where Is My Mind', which was later covered by Tkay Maidza?"
       },
       "tags": [
         "music",
@@ -484,20 +439,20 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9507ae",
-      "correctAnswer": "Anthony Hopkins",
+      "category": "food_and_drink",
+      "id": "62716477d5d487fbab6b795a",
+      "correctAnswer": "Italy",
       "incorrectAnswers": [
-        "Tom Hanks",
-        "Ewan McGregor",
-        "Arnold Schwarzenegger"
+        "Ghana",
+        "Panama",
+        "Nepal"
       ],
       "question": {
-        "text": "Which actor has starred in Thor and Westworld?"
+        "text": "In which country is grappa a popular drink?"
       },
       "tags": [
-        "acting",
-        "film_and_tv"
+        "drink",
+        "alcohol"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -506,39 +461,18 @@
     },
     {
       "category": "food_and_drink",
-      "id": "639898545c9a75021f31047a",
-      "correctAnswer": "Red wine",
+      "id": "622a1c367cc59eab6f9502f9",
+      "correctAnswer": "Vino della casa ",
       "incorrectAnswers": [
-        "Brandy",
-        "Port",
-        "Beer"
+        "Vino del campo",
+        "Vino della mansione",
+        "Vino del domin"
       ],
       "question": {
-        "text": "What type of alcohol is traditionally used in the French dish 'Coq au Vin'?"
+        "text": "How would you say 'house wine' in Italian?"
       },
       "tags": [
-        "food_and_drink",
-        "drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "65056e277a97013de78b527d",
-      "correctAnswer": "Arctic",
-      "incorrectAnswers": [
-        "Antarctica",
-        "South America",
-        "Africa"
-      ],
-      "question": {
-        "text": "Which is NOT a continent?"
-      },
-      "tags": [
-        "geography"
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -547,19 +481,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "63b0586b4799123c67712f24",
-      "correctAnswer": "Peso",
+      "id": "626288164b176d54800e3d87",
+      "correctAnswer": "IBM",
       "incorrectAnswers": [
-        "Euro",
-        "Dollar",
-        "Rand"
+        "Electronic Arts",
+        "IMAX",
+        "FedEx"
       ],
       "question": {
-        "text": "What is the Mexican currency called?"
+        "text": "'Solutions for a smart planet' is a slogan associated with which technology brand?"
       },
       "tags": [
-        "mexico",
-        "currency",
+        "business",
+        "marketing",
+        "technology",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -568,21 +503,64 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fbb2",
-      "correctAnswer": "\"Comfortably Numb\" by Pink Floyd",
+      "category": "history",
+      "id": "63bc3fb00e893d6e5a6a0fde",
+      "correctAnswer": "The Siege of Vienna",
       "incorrectAnswers": [
-        "\"Rapper's Delight\" by Sugarhill Gang",
-        "\"Welcome to the Black Parade\" by My Chemical Romance",
-        "\"Baby Got Back\" by Sir Mix-a-Lot"
+        "The Battle of Ankara",
+        "The Battle of Marj Dabiq",
+        "The Siege of Istanbul"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"Hello? Is there anybody in there?\"?"
+        "text": "What event marked the beginning of the decline of the Ottoman Empire?"
       },
       "tags": [
-        "songs",
-        "lyrics",
-        "music"
+        "history",
+        "ottoman_empire",
+        "battles"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645c9fc342ea81e2554c5f72",
+      "correctAnswer": "Hades",
+      "incorrectAnswers": [
+        "Zeus",
+        "Poseidon",
+        "Apollo"
+      ],
+      "question": {
+        "text": "Which Greek god took Persephone to be his queen in the underworld after she ate his pomegranate seeds?"
+      },
+      "tags": [
+        "mythology",
+        "ancient_greece"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f95226b",
+      "correctAnswer": "Photocopying",
+      "incorrectAnswers": [
+        "Lock picking",
+        "Deep fat frying",
+        "Radiography"
+      ],
+      "question": {
+        "text": "In 1937 Chester Carlson invented a process called Xerography. What do we call it today?"
+      },
+      "tags": [
+        "science",
+        "words",
+        "inventions"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -591,17 +569,19 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501c6",
-      "correctAnswer": "Pride and Prejudice",
+      "id": "622a1c367cc59eab6f9501b4",
+      "correctAnswer": "Gone with the Wind",
       "incorrectAnswers": [
-        "Jane Eyre",
-        "Sense and Sensibility",
-        "Anna Karenina"
+        "The Fall of the King",
+        "All Quiet on the Western Front",
+        "A Tale of Two Cities"
       ],
       "question": {
-        "text": "In which book does 'Mr. Darcy' appear?"
+        "text": "Which piece of written work starts with the line 'Scarlett O’Hara was not beautiful, but men seldom realized it when caught by her charm as the Tarleton twins were.'?"
       },
       "tags": [
+        "literature",
+        "quotes",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -610,20 +590,62 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "646262b8ab138b829b81ea4c",
-      "correctAnswer": "Polka",
+      "category": "science",
+      "id": "650570287a97013de78b5546",
+      "correctAnswer": "Immortal jellyfish",
       "incorrectAnswers": [
-        "Bolka",
-        "Molka",
-        "Tolka"
+        "Immortal bee",
+        "Immortal fly",
+        "Immortal mussel"
       ],
       "question": {
-        "text": "What word could refer to a dance or a dot?"
+        "text": "Which of these animals is known to be potentially biologically immortal?"
       },
       "tags": [
-        "words",
-        "dance"
+        "science",
+        "biology",
+        "animals",
+        "aging"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "63a03997c7d86251f9b65c89",
+      "correctAnswer": "Sorry!",
+      "incorrectAnswers": [
+        "Monopoly",
+        "Chess",
+        "Connect Four"
+      ],
+      "question": {
+        "text": "What is the name of the classic board game where players must move pieces around a board in an effort to get all their pieces \"home\" first?"
+      },
+      "tags": [
+        "board_games"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570077a97013de78b5518",
+      "correctAnswer": "Eucalyptus",
+      "incorrectAnswers": [
+        "Bamboo",
+        "Rice",
+        "Apple"
+      ],
+      "question": {
+        "text": "What type of plant do koalas eat?"
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
