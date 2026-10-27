@@ -1,23 +1,21 @@
 {
-  "gameDate": "2026-10-26",
+  "gameDate": "2026-10-27",
   "difficulty": "easy",
   "results": [
     {
-      "category": "science",
-      "id": "6ac09d6f796cdd6eefed56f9",
-      "correctAnswer": "Koalas",
+      "category": "sport_and_leisure",
+      "id": "65056f8f7a97013de78b5474",
+      "correctAnswer": "Tee",
       "incorrectAnswers": [
-        "Wombats",
-        "Opossums",
-        "Kangaroos"
+        "Anvil",
+        "Stall",
+        "Marquee"
       ],
       "question": {
-        "text": "Which tree-dwelling marsupial sleeps for up to 20 hours a day?"
+        "text": "Where is the golf ball rested at the start of the game?"
       },
       "tags": [
-        "animals",
-        "marsupials",
-        "Australia"
+        "sport_and_leisure"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -25,21 +23,45 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "6acdbd87772de49528170fef",
-      "correctAnswer": "Potato",
+      "category": "arts_and_literature",
+      "id": "65056eaf7a97013de78b533b",
+      "correctAnswer": "Bible",
       "incorrectAnswers": [
-        "Maize",
-        "Cassava",
-        "Rice"
+        "The Odyssey",
+        "Hamlet",
+        "The Decameron"
       ],
       "question": {
-        "text": "Which staple vegetable was first domesticated in the Andes of South America?"
+        "text": "The 'New King James Version' (NKJV) is a modern translation of which religious text?"
       },
       "tags": [
-        "potato",
-        "andes",
-        "agriculture"
+        "religion",
+        "translation",
+        "bible"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ec197f41d6338b96eed7",
+      "correctAnswer": "Napoleon Bonaparte",
+      "incorrectAnswers": [
+        "Vasco da Gama",
+        "Louis XVI",
+        "Charles de Gaulle"
+      ],
+      "question": {
+        "text": "Which influential historical person was a French military and political leader in the late 18th and early 19th centuries?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture",
+        "general_knowledge",
+        "france"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -48,19 +70,19 @@
     },
     {
       "category": "music",
-      "id": "622a1c347cc59eab6f94fbaf",
-      "correctAnswer": "\"Mr. Brightside\" by The Killers",
+      "id": "622a1c397cc59eab6f950c17",
+      "correctAnswer": "Nirvana",
       "incorrectAnswers": [
-        "\"SpongeBob SquarePants Theme\" by Painty the Pirate",
-        "\"Hooked on a Feeling\" by B.J. Thomas",
-        "\"Let's Go Crazy\" by Prince and The Revolution"
+        "Pearl Jam",
+        "Soundgarden",
+        "Stone Temple Pilots"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"Coming out of my cage / And I've been doing just fine...\"?"
+        "text": "Which American rock band released the song 'Smells Like Teen Spirit'?"
       },
       "tags": [
-        "songs",
-        "lyrics",
+        "general_knowledge",
+        "rock_music",
         "music"
       ],
       "type": "text_choice",
@@ -69,22 +91,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9c4",
-      "correctAnswer": "William J. Clinton",
+      "category": "society_and_culture",
+      "id": "65056e407a97013de78b529f",
+      "correctAnswer": "Bull",
       "incorrectAnswers": [
-        "Rutherford B. Hayes",
-        "Woodrow Wilson",
-        "Dwight Eisenhower"
+        "Horse",
+        "Lion",
+        "Unicorn"
       ],
       "question": {
-        "text": "Who was the 42nd president of the USA, in term during the period 1993–2001?"
+        "text": "In Greek mythology, which animal's head does the Minotaur have?"
       },
       "tags": [
-        "usa",
-        "presidents",
-        "1990's",
-        "history"
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -92,22 +111,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "63d9530a168979b94b2e4f85",
-      "correctAnswer": "Friends",
+      "category": "arts_and_literature",
+      "id": "648891854cd3f064f443dc27",
+      "correctAnswer": "The Yellow Brick Road",
       "incorrectAnswers": [
-        "Seinfeld",
-        "The Simpsons",
-        "Frasier"
+        "The Red Brick Road",
+        "The Emerald Road",
+        "The Sapphire Road"
       ],
       "question": {
-        "text": "Which popular '90s show featured the character of Ross Geller?"
+        "text": "What did Dorothy and her friends walk down in The Wizard of Oz?"
       },
       "tags": [
-        "1990's",
-        "film_and_tv",
-        "tv",
-        "sitcoms"
+        "arts_and_literature",
+        "literature",
+        "childrens_literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -115,19 +133,21 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "65056e547a97013de78b52bc",
-      "correctAnswer": "India",
+      "category": "society_and_culture",
+      "id": "62ab32d25202de619af28129",
+      "correctAnswer": "Porsche",
       "incorrectAnswers": [
-        "Japan",
-        "Russia",
-        "France"
+        "Volkswagen",
+        "Rolls-Royce",
+        "Citroën"
       ],
       "question": {
-        "text": "Where do women traditionally wear a sari?"
+        "text": "The 911 is a model of car made by which manufacturer?"
       },
       "tags": [
-        "general_knowledge"
+        "motoring",
+        "business",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -136,15 +156,15 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f95048d",
-      "correctAnswer": "snakes",
+      "id": "65056fb77a97013de78b54a8",
+      "correctAnswer": "Tropical region",
       "incorrectAnswers": [
-        "disease classification",
-        "prehistoric metaphytes ",
-        "society"
+        "Temperate region",
+        "Polar region",
+        "Arctic region"
       ],
       "question": {
-        "text": "What is Serpentology the study of?"
+        "text": "What region receives the most heat from the Sun?"
       },
       "tags": [
         "science"
@@ -155,69 +175,22 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbeb",
-      "correctAnswer": "\"I have had it with these mother—— snakes on this mother—— plane!\"",
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fb93",
+      "correctAnswer": "\"September\" by Earth, Wind & Fire",
       "incorrectAnswers": [
-        "\"Not my tempo.\"",
-        "\"Oh, Jerry, don't let's ask for the moon. We have the stars.\"",
-        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\""
+        "\"Yo Home to Bel-Air\"",
+        "\"What I Got\" by Sublime",
+        "\"American Pie\" by Don McLean"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Snakes on a Plane'?"
+        "text": "Which song begins with the lyrics: \"Do you remember, the 21st night of September?\"?"
       },
       "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056ec57a97013de78b535a",
-      "correctAnswer": "Turkey",
-      "incorrectAnswers": [
-        "Greece",
-        "Italy",
-        "Egypt"
-      ],
-      "question": {
-        "text": "In which country is the Hagia Sophia located?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "architecture",
-        "landmark"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625698509da29df7b05f727f",
-      "correctAnswer": "Samuel L. Jackson",
-      "incorrectAnswers": [
-        "Paul Rudd",
-        "Clark Gregg",
-        "Tom Hiddleston"
-      ],
-      "question": {
-        "text": "Which actor plays the role of Nick Fury in the Marvel Cinematic Universe?"
-      },
-      "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
+        "songs",
+        "lyrics",
         "general_knowledge",
-        "film_and_tv"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -225,20 +198,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "62573efd9da29df7b05f7380",
-      "correctAnswer": "A man becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "category": "science",
+      "id": "63e13a2a106de6ffa7d4a7a9",
+      "correctAnswer": "Spinal cord",
       "incorrectAnswers": [
-        "In order to power the city, beasts have to scare children so that they scream.",
-        "A girl wanders into a world ruled by gods, witches, and spirits, where humans are changed into beasts.",
-        "King Arthur and his Knights embark on a search for a religious relic."
+        "Vagus nerve",
+        "Ribcage",
+        "Trachea"
       ],
       "question": {
-        "text": "What is the plot of the movie Schindler's List?"
+        "text": "In the human body, what is the name of the structure that runs down the middle of the back?"
       },
       "tags": [
-        "film",
-        "film_and_tv"
+        "science",
+        "biology",
+        "anatomy"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -246,19 +220,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3b7cc59eab6f9513b2",
-      "correctAnswer": "The Hobbit",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd70",
+      "correctAnswer": "Cher",
       "incorrectAnswers": [
-        "Charlotte's Web",
-        "Alice's Adventures in Wonderland",
-        "Bluebeard"
+        "Lady Gaga",
+        "Sia",
+        "Madonna"
       ],
       "question": {
-        "text": "In which book does 'Bilbo Baggins' appear?"
+        "text": "Whose Real Name Is 'Cherilyn Sarkisian La Pier'?"
       },
       "tags": [
-        "arts_and_literature"
+        "pseudonyms",
+        "people",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -267,19 +243,19 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "64730759cf09068746f63758",
-      "correctAnswer": "The Triple Jump",
+      "id": "622a1c347cc59eab6f94f8a9",
+      "correctAnswer": "Football",
       "incorrectAnswers": [
-        "Long Jump",
-        "High Jump",
-        "Pole Vault"
+        "Cycling",
+        "Hockey",
+        "Skiing"
       ],
       "question": {
-        "text": "Which athletics event consists of two hops and a jump?"
+        "text": "With which sport is Diego Maradona associated?"
       },
       "tags": [
-        "olympics",
-        "track_and_field",
+        "people",
+        "general_knowledge",
         "sport"
       ],
       "type": "text_choice",
@@ -288,79 +264,16 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623b5859fd6c701a921183b3",
-      "correctAnswer": "Australia",
-      "incorrectAnswers": [
-        "China",
-        "Italy",
-        "France"
-      ],
-      "question": {
-        "text": "In which country would you find the Sydney Opera House?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "646339ce01d576cfac3aa3ba",
-      "correctAnswer": "Carol",
-      "incorrectAnswers": [
-        "Blessing",
-        "Chant",
-        "Anthem"
-      ],
-      "question": {
-        "text": "What is the general term for a Christmas song or hymn?"
-      },
-      "tags": [
-        "music",
-        "traditions",
-        "christmas",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9500f1",
-      "correctAnswer": "Thor",
-      "incorrectAnswers": [
-        "Odin",
-        "Baldur",
-        "Heimdall"
-      ],
-      "question": {
-        "text": "Who is the Norse god of thunder and war?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "65056ee67a97013de78b5388",
-      "correctAnswer": "Bones",
+      "id": "622a1c3a7cc59eab6f951081",
+      "correctAnswer": "Blue",
       "incorrectAnswers": [
-        "Blood",
-        "Skin",
-        "Brain"
+        "Yellow",
+        "Purple",
+        "Red"
       ],
       "question": {
-        "text": "What part of the body is affected by osteoporosis?"
+        "text": "What Colour Is Sonic the Hedgehog?"
       },
       "tags": [
         "science"
@@ -371,233 +284,18 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "648888605dba6c873ef6503d",
-      "correctAnswer": "French toast",
-      "incorrectAnswers": [
-        "Melba toast",
-        "Flatbread",
-        "Egg bathed toast"
-      ],
-      "question": {
-        "text": "What is the name of the dish made by dipping bread in a mixture of eggs and milk and frying until golden brown?"
-      },
-      "tags": [
-        "breakfast",
-        "cooking",
-        "recipes",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056f707a97013de78b5448",
-      "correctAnswer": "Chromosome",
-      "incorrectAnswers": [
-        "Glucose",
-        "Cobalt",
-        "Electrolyte"
-      ],
-      "question": {
-        "text": "What consists of DNA and carries our genetic information?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c607b50d1a5e051325a5e",
-      "correctAnswer": "England",
-      "incorrectAnswers": [
-        "Mexico",
-        "Philippines",
-        "Spain"
-      ],
-      "question": {
-        "text": "Fish & Chips is a dish that is most associated with which part of the world?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950125",
-      "correctAnswer": "Pig",
-      "incorrectAnswers": [
-        "Rabbit",
-        "Cow",
-        "Horse"
-      ],
-      "question": {
-        "text": "What animal's meat can a Muslim not eat?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "69a561a52858226c00dd2f7e",
-      "correctAnswer": "Candy",
-      "incorrectAnswers": [
-        "Wood",
-        "Stone",
-        "Leaves"
-      ],
-      "question": {
-        "text": "In 'Hansel and Gretel', what do the children find the witch's house is made of?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c3d7cc59eab6f951c46",
-      "correctAnswer": "Just like the ones I used to know",
+      "id": "622a1c357cc59eab6f94fe7f",
+      "correctAnswer": "Lady Gaga",
       "incorrectAnswers": [
-        "Sharing kisses in the snow",
-        "We'll be going with the flow",
-        "Walking to your favourite show"
+        "Hikaru Utada",
+        "Drake",
+        "Madonna"
       ],
       "question": {
-        "text": "Bing Crosby famously sang 'I'm dreaming of a white Christmas'', what is the next line?"
+        "text": "Which American singer, songwriter, and actress released the song 'Bad Romance'?"
       },
       "tags": [
-        "christmas",
-        "lyrics",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe0d",
-      "correctAnswer": "Asia",
-      "incorrectAnswers": [
-        "Europe",
-        "Africa",
-        "North America"
-      ],
-      "question": {
-        "text": "Which is the Earth's largest continent?"
-      },
-      "tags": [
-        "records",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "65056df97a97013de78b523c",
-      "correctAnswer": "Uncle",
-      "incorrectAnswers": [
-        "Nephew",
-        "Brother-in-law",
-        "Grandfather"
-      ],
-      "question": {
-        "text": "Who is the brother of your mother?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262881d4b176d54800e3d89",
-      "correctAnswer": "Energizer",
-      "incorrectAnswers": [
-        "Red Cross",
-        "IBM",
-        "FedEx"
-      ],
-      "question": {
-        "text": "'Keeps going and going and going' is a slogan associated with which brand?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "technology",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262888a4b176d54800e3da4",
-      "correctAnswer": "Motorola",
-      "incorrectAnswers": [
-        "Sony",
-        "Samsung",
-        "Nokia"
-      ],
-      "question": {
-        "text": "'Hello Moto' is a slogan associated with which communications brand?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "technology",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff0a",
-      "correctAnswer": "Madonna",
-      "incorrectAnswers": [
-        "Cyndi Lauper",
-        "Kylie Minogue",
-        "Whitney Houston"
-      ],
-      "question": {
-        "text": "Who sung 'Material Girl'?"
-      },
-      "tags": [
-        "songs",
-        "musicians",
         "general_knowledge",
         "music"
       ],
@@ -607,21 +305,300 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "626288af4b176d54800e3dae",
-      "correctAnswer": "Carlsberg",
+      "category": "arts_and_literature",
+      "id": "649b4f4f828109028d236251",
+      "correctAnswer": "A Spider",
       "incorrectAnswers": [
-        "Heineken",
-        "Fosters",
-        "Budweiser"
+        "A Pig",
+        "A Sheep",
+        "A Horse"
       ],
       "question": {
-        "text": "'Probably the best lager in the world' is a slogan associated with which beer brand?"
+        "text": "In E.B. White's classic children's book \"Charlotte's Web\", what kind of animal is Charlotte?"
+      },
+      "tags": [
+        "animals",
+        "childrens_literature",
+        "arts_and_literature",
+        "literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056e747a97013de78b52e9",
+      "correctAnswer": "Catalytic Converter",
+      "incorrectAnswers": [
+        "Muffler",
+        "Exhaust Manifold",
+        "Turbocharger"
+      ],
+      "question": {
+        "text": "What part of an exhaust converts toxic byproducts of combustion into less toxic ones?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fbb3",
+      "correctAnswer": "\"Pokémon Theme\" by Jason Paige",
+      "incorrectAnswers": [
+        "\"Let it Be\" by the Beatles",
+        "\"I'm Real (Murder Remix) by Jennifer Lopez and Ja Rule",
+        "\"In da Club\" by 50 Cent"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"I wanna be the very best...\"?"
+      },
+      "tags": [
+        "lyrics",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bd7",
+      "correctAnswer": "Guns N' Roses",
+      "incorrectAnswers": [
+        "Mötley Crüe",
+        "Def Leppard",
+        "Skid Row"
+      ],
+      "question": {
+        "text": "Which American hard rock band released the song 'Welcome to the Jungle'?"
+      },
+      "tags": [
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "62506447e12f6dec240bdfa7",
+      "correctAnswer": "I'm Gonna Be (500 Miles)",
+      "incorrectAnswers": [
+        "Puttin' on the Ritz",
+        "Unbelievable",
+        "I'm Too Sexy"
+      ],
+      "question": {
+        "text": "The Proclaimers had a one hit wonder in 1989 with which song?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "645b4f1f067ef798d145508b",
+      "correctAnswer": "Daisy",
+      "incorrectAnswers": [
+        "Rose",
+        "Tulip",
+        "Orchid"
+      ],
+      "question": {
+        "text": "What plant species, whose scientific name is Chrysanthemum maximum, includes the shasta variety?"
+      },
+      "tags": [
+        "flowers",
+        "gardening",
+        "botany",
+        "plants",
+        "science",
+        "biology"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515cc",
+      "correctAnswer": "Spain ",
+      "incorrectAnswers": [
+        "Italy",
+        "France",
+        "Russia"
+      ],
+      "question": {
+        "text": "From which country does the dish paella originate?"
+      },
+      "tags": [
+        "food",
+        "general_knowledge",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60bc50d1a5e051325a70",
+      "correctAnswer": "Japan",
+      "incorrectAnswers": [
+        "Turkey",
+        "Spain",
+        "Estonia"
+      ],
+      "question": {
+        "text": "Where in the world would you most expect to be served Sushi?"
+      },
+      "tags": [
+        "food",
+        "general_knowledge",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056e517a97013de78b52b8",
+      "correctAnswer": "Titanic",
+      "incorrectAnswers": [
+        "Britannic",
+        "Lusitania",
+        "Queen Mary"
+      ],
+      "question": {
+        "text": "Which ship was famously described as 'unsinkable' before it sank after hitting an iceberg?"
+      },
+      "tags": [
+        "history",
+        "maritime",
+        "ships"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6266bc3fff2394bd44dee001",
+      "correctAnswer": "Stringed",
+      "incorrectAnswers": [
+        "Woodwind",
+        "Percussion",
+        "Brass"
+      ],
+      "question": {
+        "text": "What type of instrument is a violin?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "65056f447a97013de78b540b",
+      "correctAnswer": "Canada",
+      "incorrectAnswers": [
+        "Denmark",
+        "Greenland",
+        "Australia"
+      ],
+      "question": {
+        "text": "In which country is the province of Nova Scotia?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "65056e3e7a97013de78b529d",
+      "correctAnswer": "Turnip",
+      "incorrectAnswers": [
+        "Cherry",
+        "Plum",
+        "Lúcuma"
+      ],
+      "question": {
+        "text": "Which of these foods is not a fruit?"
+      },
+      "tags": [
+        "food_and_drink",
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056faf7a97013de78b549e",
+      "correctAnswer": "Bamboo",
+      "incorrectAnswers": [
+        "Wild rice",
+        "Wheatgrass",
+        "Blue grama"
+      ],
+      "question": {
+        "text": "What is the tallest grass in the world?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62628864014f58b5fc1a3fd6",
+      "correctAnswer": "There are some things money can't buy",
+      "incorrectAnswers": [
+        "Everywhere you want to be",
+        "Because Change Happens",
+        "The World's Local Bank"
+      ],
+      "question": {
+        "text": "What is the marketing slogan of Mastercard?"
       },
       "tags": [
         "business",
         "marketing",
-        "drink",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -631,18 +608,40 @@
     },
     {
       "category": "science",
-      "id": "6505701e7a97013de78b5538",
-      "correctAnswer": "Chlamydia",
+      "id": "65056fcd7a97013de78b54c7",
+      "correctAnswer": "Leaf",
       "incorrectAnswers": [
-        "Parkinson's",
-        "Thyroid cancer",
-        "Gastritis"
+        "Lateral root",
+        "Bark",
+        "Primary root"
       ],
       "question": {
-        "text": "Which is an example of a sexually transmitted disease?"
+        "text": "In which part of a plant does photosynthesis mainly take place?"
       },
       "tags": [
         "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64f6d9b9660c3a8d960101e2",
+      "correctAnswer": "3000",
+      "incorrectAnswers": [
+        "2000",
+        "1000",
+        "4000"
+      ],
+      "question": {
+        "text": "Which actor and musician, a member of OutKast, is known as André ____?"
+      },
+      "tags": [
+        "actors",
+        "music",
+        "entertainment"
       ],
       "type": "text_choice",
       "difficulty": "easy",
