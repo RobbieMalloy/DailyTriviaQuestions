@@ -1,24 +1,44 @@
 {
-  "gameDate": "2026-10-28",
+  "gameDate": "2026-10-29",
   "difficulty": "easy",
   "results": [
     {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9eb",
-      "correctAnswer": "George Washington ",
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501a8",
+      "correctAnswer": "The Chronicles of Narnia",
       "incorrectAnswers": [
-        "Chester Arthur",
-        "Ulysses S. Grant",
-        "Millard Fillmore"
+        "Voyages Extraordinaires",
+        "Harry Potter",
+        "Percy Jackson & the Olympians"
       ],
       "question": {
-        "text": "Who was the 1st president of the USA, in term during the period 1789–1797?"
+        "text": "In which book series does 'Prince Caspian' appear?"
       },
       "tags": [
-        "presidents",
-        "usa",
-        "firsts",
-        "history"
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602dff4b176d54800e3cba",
+      "correctAnswer": "Toulouse",
+      "incorrectAnswers": [
+        "Barcelona",
+        "Copenhagen",
+        "Amsterdam"
+      ],
+      "question": {
+        "text": "Which of these cities is in France?"
+      },
+      "tags": [
+        "cities",
+        "europe",
+        "france",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -27,15 +47,57 @@
     },
     {
       "category": "science",
-      "id": "65056fca7a97013de78b54c3",
-      "correctAnswer": "Cocoon",
+      "id": "65056f7c7a97013de78b545a",
+      "correctAnswer": "A4",
       "incorrectAnswers": [
-        "Chrysalis",
-        "Nest",
-        "Web"
+        "A3",
+        "A5",
+        "A2"
       ],
       "question": {
-        "text": "What silk structure do many insects use as a protective covering of the pupa?"
+        "text": "What paper size measures 210 mm × 297 mm?"
+      },
+      "tags": [
+        "paper_sizes",
+        "measurement",
+        "standards"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "63a0399cc7d86251f9b65c8f",
+      "correctAnswer": "The Game of Life",
+      "incorrectAnswers": [
+        "Risk",
+        "Monopoly",
+        "Clue"
+      ],
+      "question": {
+        "text": "What is the name of the classic board game where players race through a person's life from childhood to retirement?"
+      },
+      "tags": [
+        "board_games"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056fe67a97013de78b54e9",
+      "correctAnswer": "Nucleus",
+      "incorrectAnswers": [
+        "Pivot",
+        "Epicenter",
+        "Fulcrum"
+      ],
+      "question": {
+        "text": "What do we call the center of an atom?"
       },
       "tags": [
         "science"
@@ -46,41 +108,18 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "63e13a22106de6ffa7d4a79e",
-      "correctAnswer": "Hexagon",
-      "incorrectAnswers": [
-        "Pentagon",
-        "Octagon",
-        "Triangle"
-      ],
-      "question": {
-        "text": "What is the name of a shape with six sides?"
-      },
-      "tags": [
-        "science",
-        "mathematics",
-        "shapes"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "62602d704b176d54800e3c98",
-      "correctAnswer": "China",
+      "id": "623b57d1fd6c701a92118380",
+      "correctAnswer": "USA",
       "incorrectAnswers": [
-        "Sri Lanka",
-        "Malaysia",
-        "Taiwan"
+        "Israel",
+        "England",
+        "Australia"
       ],
       "question": {
-        "text": "Hong Kong is a city in which country?"
+        "text": "In which country would you find the Grand Canyon National Park?"
       },
       "tags": [
-        "cities",
         "geography"
       ],
       "type": "text_choice",
@@ -89,42 +128,19 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "63a03977c7d86251f9b65c63",
-      "correctAnswer": "3",
+      "category": "society_and_culture",
+      "id": "65056e227a97013de78b5276",
+      "correctAnswer": "26",
       "incorrectAnswers": [
-        "1",
-        "2",
-        "4"
+        "14",
+        "36",
+        "22"
       ],
       "question": {
-        "text": "In the nursery rhyme Baa Baa Black Sheep, how many bags of wool does the sheep have?"
+        "text": "Of how many letters does the English alphabet consist?"
       },
       "tags": [
-        "arts_and_literature",
-        "nursery_rhymes"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8ca",
-      "correctAnswer": "Athletics",
-      "incorrectAnswers": [
-        "Snooker",
-        "Motor racing",
-        "Ice Hockey"
-      ],
-      "question": {
-        "text": "With which sport is Usain Bolt associated?"
-      },
-      "tags": [
-        "people",
-        "general_knowledge",
-        "sport"
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -133,20 +149,18 @@
     },
     {
       "category": "science",
-      "id": "6242cafdd543524f1b19c901",
-      "correctAnswer": "A flock",
+      "id": "622a1c377cc59eab6f950534",
+      "correctAnswer": "The Future",
       "incorrectAnswers": [
-        "A fall",
-        "A gang",
-        "A yoke"
+        "Science Fiction",
+        "Palm Reading",
+        "Drugs"
       ],
       "question": {
-        "text": "What is the word for a group of birds?"
+        "text": "What is futurology the study of?"
       },
       "tags": [
-        "birds",
         "words",
-        "general_knowledge",
         "science"
       ],
       "type": "text_choice",
@@ -156,20 +170,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6463391d01d576cfac3aa31f",
-      "correctAnswer": "Hansel and Gretel",
+      "id": "6a97ea32c9cbd5256545a739",
+      "correctAnswer": "Roadster",
       "incorrectAnswers": [
-        "The Magic Flute",
-        "Little Red Riding Hood",
-        "The Barber of Seville"
+        "Model S",
+        "Model 3",
+        "Cybertruck"
       ],
       "question": {
-        "text": "In which famous fairy tale do two children fall into the hands of a witch after being abandoned in a forest?"
+        "text": "What was the first product Tesla Motors sold after founding?"
       },
       "tags": [
-        "fairy_tales",
-        "society_and_culture",
-        "arts_and_literature"
+        "startups",
+        "Tesla",
+        "electric cars"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -177,23 +191,42 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9517fa",
-      "correctAnswer": "Pompeii",
+      "category": "general_knowledge",
+      "id": "6488889b5dba6c873ef65060",
+      "correctAnswer": "The spin",
       "incorrectAnswers": [
-        "Genoa",
-        "Capua",
-        "Ostia"
+        "The tumble",
+        "The shake",
+        "The toss"
       ],
       "question": {
-        "text": "Which Roman city was buried under volcanic ash from Mount Vesuvius In 79A.D.?"
+        "text": "What is the name of the cycle in a washing machine that dries clothes?"
       },
       "tags": [
-        "romans",
-        "volcanoes",
-        "italy",
-        "classics",
-        "history"
+        "general_knowledge",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60dc50d1a5e051325a78",
+      "correctAnswer": "Stamppot",
+      "incorrectAnswers": [
+        "Ropa Vieja",
+        "Meat Pie",
+        "Ramen"
+      ],
+      "question": {
+        "text": "Which of these dishes is most associated with Netherlands?"
+      },
+      "tags": [
+        "food",
+        "the_netherlands",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -202,15 +235,15 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c44",
-      "correctAnswer": "The Beach Boys",
+      "id": "622a1c397cc59eab6f950dc4",
+      "correctAnswer": "The Beatles",
       "incorrectAnswers": [
-        "Jan and Dean",
-        "The Monkees",
-        "The Four Seasons"
+        "The Rolling Stones",
+        "The Kinks",
+        "The Who"
       ],
       "question": {
-        "text": "Which American rock band released the song 'Good Vibrations'?"
+        "text": "Which band includes 'John Lennon'?"
       },
       "tags": [
         "music"
@@ -221,21 +254,43 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "65056f6c7a97013de78b5443",
-      "correctAnswer": "Census",
+      "category": "science",
+      "id": "65056f3e7a97013de78b5402",
+      "correctAnswer": "Tetanus",
       "incorrectAnswers": [
-        "Survey",
-        "Population register",
-        "Voter roll"
+        "Down syndrome",
+        "Cystic fibrosis",
+        "Sickle-cell disease"
       ],
       "question": {
-        "text": "What is the name of the government-led process of counting all the people living in a country?"
+        "text": "Which condition is NOT genetically caused?"
       },
       "tags": [
-        "demography",
-        "government",
-        "population"
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3c7cc59eab6f951958",
+      "correctAnswer": "Hubble",
+      "incorrectAnswers": [
+        "Bubble",
+        "Toil",
+        "Trouble"
+      ],
+      "question": {
+        "text": "What is the name of the space telescope that was placed in Earth's orbit in 1990?"
+      },
+      "tags": [
+        "physics",
+        "astronomy",
+        "events",
+        "1990's",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -244,299 +299,17 @@
     },
     {
       "category": "film_and_tv",
-      "id": "6477bb1e550bc819ad646b7c",
-      "correctAnswer": "The Lion King",
+      "id": "622a1c377cc59eab6f950710",
+      "correctAnswer": "Will Smith",
       "incorrectAnswers": [
-        "Aladdin",
-        "Beauty and the Beast",
-        "Mulan"
+        "Brian Cox",
+        "Ralph Fiennes",
+        "Ryan Reynolds"
       ],
       "question": {
-        "text": "Which Disney movie features the song 'Can You Feel The Love Tonight', written by Elton John and Tim Rice?"
+        "text": "Which actor has starred in films including Men in Black and Enemy of the State?"
       },
       "tags": [
-        "film",
-        "film_and_tv",
-        "disney",
-        "songs",
-        "soundtracks"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64824e707778562fd76a9646",
-      "correctAnswer": "Giorgio Armani",
-      "incorrectAnswers": [
-        "Gucci Adriano",
-        "Giovanni Anselmi",
-        "Gabriel Alvarez"
-      ],
-      "question": {
-        "text": "Which Italian fashion designer has the initials G.A.?"
-      },
-      "tags": [
-        "designers",
-        "fashion",
-        "people",
-        "society_and_culture",
-        "italy"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "65056f917a97013de78b5476",
-      "correctAnswer": "Rocky Mountains",
-      "incorrectAnswers": [
-        "Transantarctic mountains",
-        "Andes",
-        "Himalayas"
-      ],
-      "question": {
-        "text": "Which mountain range does the Colorado River flow through?"
-      },
-      "tags": [
-        "geography",
-        "rivers",
-        "mountains"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6462624aab138b829b81e9de",
-      "correctAnswer": "Due",
-      "incorrectAnswers": [
-        "Earned",
-        "Needed",
-        "Appreciated"
-      ],
-      "question": {
-        "text": "Complete this popular saying: 'Give credit where credit is _______'"
-      },
-      "tags": [
-        "sayings",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515cb",
-      "correctAnswer": "Mexico ",
-      "incorrectAnswers": [
-        "China",
-        "France",
-        "Australia"
-      ],
-      "question": {
-        "text": "From which country does the drink Tequila originate?"
-      },
-      "tags": [
-        "drink",
-        "alcohol",
-        "countries",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950246",
-      "correctAnswer": "Avocado ",
-      "incorrectAnswers": [
-        "Cucumber",
-        "Tomato",
-        "Mango"
-      ],
-      "question": {
-        "text": "Which Is The Main Ingredient Of Guacamole?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056f797a97013de78b5455",
-      "correctAnswer": "Charcoal",
-      "incorrectAnswers": [
-        "Amber",
-        "Gold",
-        "Copper"
-      ],
-      "question": {
-        "text": "What is produced by heating wood without oxygen?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056e567a97013de78b52be",
-      "correctAnswer": "Cookie",
-      "incorrectAnswers": [
-        "Hyperlink",
-        "Breadcrumbs",
-        "Ribbon"
-      ],
-      "question": {
-        "text": "What allows a website to save user data locally in the web browser?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602e0a4b176d54800e3cbd",
-      "correctAnswer": "Italy",
-      "incorrectAnswers": [
-        "Portugal",
-        "Switzerland",
-        "Hungary"
-      ],
-      "question": {
-        "text": "In which country is the city of Florence?"
-      },
-      "tags": [
-        "cities",
-        "europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056ffa7a97013de78b5505",
-      "correctAnswer": "Hummingbirds",
-      "incorrectAnswers": [
-        "Kiwis",
-        "Storks",
-        "Parrots"
-      ],
-      "question": {
-        "text": "What is the only group of birds that can fly backwards?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "63a03984c7d86251f9b65c72",
-      "correctAnswer": "Humpty Dumpty",
-      "incorrectAnswers": [
-        "Hey Diddle Diddle",
-        "Mary Had a Little Lamb",
-        "Baa Baa Black Sheep"
-      ],
-      "question": {
-        "text": "What nursery rhyme is about a man who falls off a wall?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "nursery_rhymes"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570337a97013de78b5555",
-      "correctAnswer": "Penguin",
-      "incorrectAnswers": [
-        "Stork",
-        "Eagle",
-        "Swan"
-      ],
-      "question": {
-        "text": "Which of these birds can swim but not fly?"
-      },
-      "tags": [
-        "science",
-        "animals",
-        "birds"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056e6e7a97013de78b52e0",
-      "correctAnswer": "Onions",
-      "incorrectAnswers": [
-        "Broccoli",
-        "Cauliflower",
-        "Turnip"
-      ],
-      "question": {
-        "text": "What food makes your eyes water when cut?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbc5",
-      "correctAnswer": "\"I love lamp.\"",
-      "incorrectAnswers": [
-        "\"Rosebud.\"",
-        "\"You're gonna need a bigger boat.\"",
-        "\"Shane. Shane. Come back!\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Anchorman: The Legend of Ron Burgundy'?"
-      },
-      "tags": [
-        "songs",
-        "film",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -545,16 +318,152 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "65056ebb7a97013de78b534c",
-      "correctAnswer": "Thomas Edison",
+      "category": "society_and_culture",
+      "id": "63f39521989356ef48370c23",
+      "correctAnswer": "Origami",
       "incorrectAnswers": [
-        "Rudolf Diesel",
-        "John Fowler",
-        "Johannes Gutenberg"
+        "Kabuki",
+        "Kintsugi",
+        "Kokeshi"
       ],
       "question": {
-        "text": "Who is considered the inventor of the first commercially practical light bulb?"
+        "text": "What is the name of the traditional Japanese art of paper folding?"
+      },
+      "tags": [
+        "japan",
+        "society_and_culture",
+        "traditions",
+        "art"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951042",
+      "correctAnswer": "Big Bang",
+      "incorrectAnswers": [
+        "Eternal Inflation",
+        "Steady State",
+        "Oscillating Model"
+      ],
+      "question": {
+        "text": "What is the most widely accepted theory for the creation of the universe?"
+      },
+      "tags": [
+        "physics",
+        "general_knowledge",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6505702e7a97013de78b554e",
+      "correctAnswer": "2",
+      "incorrectAnswers": [
+        "1",
+        "0",
+        "4"
+      ],
+      "question": {
+        "text": "How many horns does a wildebeest have?"
+      },
+      "tags": [
+        "animals",
+        "biology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ec2a7f41d6338b96eedc",
+      "correctAnswer": "Dictator of Nazi Germany.",
+      "incorrectAnswers": [
+        "One of the pioneers of Quantum mechanics",
+        "Roman Emperor who accepted the Christian religion.",
+        "Physicist who discovered X-rays."
+      ],
+      "question": {
+        "text": "Which of the following describes Adolf Hitler?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f95012a",
+      "correctAnswer": "Olympus",
+      "incorrectAnswers": [
+        "Sinai",
+        "Everest",
+        "Marathon"
+      ],
+      "question": {
+        "text": "Which Greek mountain was known as the home of the gods?"
+      },
+      "tags": [
+        "mythology",
+        "ancient_greece",
+        "classics",
+        "general_knowledge",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62373ffccb85f7ce9e949cd0",
+      "correctAnswer": "Beijing",
+      "incorrectAnswers": [
+        "Shanghai",
+        "Chengdu",
+        "Hong Kong"
+      ],
+      "question": {
+        "text": "What is the capital city of China?"
+      },
+      "tags": [
+        "china",
+        "capital_cities",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056e467a97013de78b52a8",
+      "correctAnswer": "Detecting objects",
+      "incorrectAnswers": [
+        "Amplifying sound",
+        "Generating electricity",
+        "Measuring temperature"
+      ],
+      "question": {
+        "text": "What is radar primarily used for?"
       },
       "tags": [
         "science"
@@ -565,19 +474,152 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "6476390cf05ea6d6f587a189",
-      "correctAnswer": "Itinerary",
+      "category": "society_and_culture",
+      "id": "622a1c3a7cc59eab6f9511ba",
+      "correctAnswer": "Medusa",
       "incorrectAnswers": [
-        "List",
-        "Voyage",
-        "Menu"
+        "Minotaur",
+        "Harpy",
+        "Siren"
       ],
       "question": {
-        "text": "What is the term for a list of places to visit on a journey?"
+        "text": "Which Ancient Greek creature had snakes for hair?"
       },
       "tags": [
-        "words"
+        "mythology",
+        "ancient_greece",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63dd25c7742e43ed64f1f016",
+      "correctAnswer": "Elon Musk",
+      "incorrectAnswers": [
+        "Jeff Bezos",
+        "Bill Gates",
+        "Mark Zuckerberg"
+      ],
+      "question": {
+        "text": "What is the name of the founder of Tesla Motors?"
+      },
+      "tags": [
+        "society_and_culture",
+        "business",
+        "people",
+        "motoring"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6a9a5f87e0b97b1653496bd1",
+      "correctAnswer": "Los Angeles",
+      "incorrectAnswers": [
+        "San Diego",
+        "San Francisco",
+        "Santa Barbara"
+      ],
+      "question": {
+        "text": "Founded on September 4, 1781 by 44 Spanish-speaking settlers, which US city later became synonymous with Hollywood and the American film industry?"
+      },
+      "tags": [
+        "cities",
+        "history",
+        "california",
+        "usa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "64a094bccf8fd58080ceffda",
+      "correctAnswer": "A touchdown",
+      "incorrectAnswers": [
+        "A field goal",
+        "An interception",
+        "A sack"
+      ],
+      "question": {
+        "text": "In the sport of American football, what is the term for scoring 6 points by carrying the ball into the opponent's end zone?"
+      },
+      "tags": [
+        "football",
+        "american_football",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6486be3159bc33d1c362f320",
+      "correctAnswer": "St. Valentine",
+      "incorrectAnswers": [
+        "St. Patrick",
+        "St. Michael",
+        "St. Francis"
+      ],
+      "question": {
+        "text": "Which saint is celebrated on February 14th?"
+      },
+      "tags": [
+        "traditions",
+        "celebrations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6505700d7a97013de78b5520",
+      "correctAnswer": "Telescope",
+      "incorrectAnswers": [
+        "Periscope",
+        "Endoscope",
+        "Microscope"
+      ],
+      "question": {
+        "text": "What instrument can we use to observe the stars?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056f4e7a97013de78b5419",
+      "correctAnswer": "Big Bang",
+      "incorrectAnswers": [
+        "Supernova",
+        "Standard model",
+        "Special relativity"
+      ],
+      "question": {
+        "text": "What theory describes the start of our universe?"
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -586,60 +628,20 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eab",
-      "correctAnswer": "J. K. Rowling",
+      "id": "622a1c347cc59eab6f94f96f",
+      "correctAnswer": "1984",
       "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
+        "Parade's End",
+        "The Age of Innocence",
+        "Howards End"
       ],
       "question": {
-        "text": "Which author wrote 'Harry Potter and the Order of the Phoenix'?"
+        "text": "Which book contains the character 'Big Brother'?"
       },
       "tags": [
-        "harry_potter",
         "literature",
+        "general_knowledge",
         "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056fa87a97013de78b5495",
-      "correctAnswer": "Skin",
-      "incorrectAnswers": [
-        "Heart",
-        "Kidney",
-        "Bladder"
-      ],
-      "question": {
-        "text": "What is the largest organ of the human body?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056ecd7a97013de78b5364",
-      "correctAnswer": "3",
-      "incorrectAnswers": [
-        "2",
-        "4",
-        "5"
-      ],
-      "question": {
-        "text": "How many leaves does a shamrock have?"
-      },
-      "tags": [
-        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
