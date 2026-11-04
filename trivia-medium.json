@@ -1,25 +1,193 @@
 {
-  "gameDate": "2026-11-03",
+  "gameDate": "2026-11-04",
   "difficulty": "medium",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "645c9fc342ea81e2554c5f77",
-      "correctAnswer": "Chutney",
+      "category": "science",
+      "id": "622a1c3f7cc59eab6f9523ae",
+      "correctAnswer": "Geyser",
       "incorrectAnswers": [
-        "Salsa",
-        "Pesto",
-        "Hummus"
+        "Volcano",
+        "Jetsam",
+        "Geotherm"
       ],
       "question": {
-        "text": "What is the name of the popular relishes of spices and fruits that often accompany Indian foods?"
+        "text": "What is the name for a hot spring that shoots steam into the air?"
       },
       "tags": [
-        "cuisine",
-        "cooking",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fddb",
+      "correctAnswer": "Nicki Minaj",
+      "incorrectAnswers": [
+        "Hikaru Utada",
+        "Alanis Morissette",
+        "Ludacris"
+      ],
+      "question": {
+        "text": "Which singer released the song 'Bitch I'm Madonna'?"
+      },
+      "tags": [
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "64e6fd5e0b79e5bedd55c87e",
+      "correctAnswer": "Menudo",
+      "incorrectAnswers": [
+        "Gazpacho",
+        "Pho",
+        "Gumbo"
+      ],
+      "question": {
+        "text": "Which of these is a Mexican tripe soup?"
+      },
+      "tags": [
+        "mexican_cuisine",
+        "mexico",
         "food_and_drink",
         "food",
-        "india"
+        "soups"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570447a97013de78b556d",
+      "correctAnswer": "Seismometer",
+      "incorrectAnswers": [
+        "Ceilometer",
+        "Graphometer",
+        "Spectrometer"
+      ],
+      "question": {
+        "text": "Which device measures the strength of an earthquake?"
+      },
+      "tags": [
+        "science",
+        "measurements"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f951602",
+      "correctAnswer": "A ",
+      "incorrectAnswers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "question": {
+        "text": "Carrots Are Rich In which Vitamin?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056ec27a97013de78b5355",
+      "correctAnswer": "Helium",
+      "incorrectAnswers": [
+        "Hydrogen",
+        "Radium",
+        "Carbon"
+      ],
+      "question": {
+        "text": "What is the second lightest chemical element?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "65056f107a97013de78b53c2",
+      "correctAnswer": "Bogotá",
+      "incorrectAnswers": [
+        "San Jose",
+        "Quito",
+        "Caracas"
+      ],
+      "question": {
+        "text": "What is the capital of Colombia?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6a9a5f30e0b97b1653496bcd",
+      "correctAnswer": "The Price Is Right",
+      "incorrectAnswers": [
+        "Family Feud",
+        "Wheel of Fortune",
+        "Jeopardy!"
+      ],
+      "question": {
+        "text": "On which American game show, now on its 53rd season, did Drew Carey become host in 2007?"
+      },
+      "tags": [
+        "game_shows",
+        "tv",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "64720c933bbb58c31f411c8c",
+      "correctAnswer": "Carnitas",
+      "incorrectAnswers": [
+        "Tacos",
+        "Burritos",
+        "Enchiladas"
+      ],
+      "question": {
+        "text": "What Mexican dish that means \"little meats\" is made with shredded pork?"
+      },
+      "tags": [
+        "pork",
+        "meat",
+        "mexican_cuisine",
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -28,15 +196,15 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcd3",
+      "id": "622a1c357cc59eab6f94fcdb",
       "correctAnswer": "Indo-European",
       "incorrectAnswers": [
-        "Austronesian",
-        "Austroasiatic",
-        "Afroasiatic"
+        "Koreanic",
+        "Afroasiatic",
+        "Sino-Tibetan"
       ],
       "question": {
-        "text": "The language 'Ukrainian' belongs to which language family?"
+        "text": "The language 'Italian' belongs to which language family?"
       },
       "tags": [
         "language",
@@ -48,39 +216,21 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a92",
-      "correctAnswer": "July 4th, 1776",
+      "category": "society_and_culture",
+      "id": "63b058784799123c67712f39",
+      "correctAnswer": "Moscow Exchange",
       "incorrectAnswers": [
-        "July 5th, 1801",
-        "July 4th, 1801",
-        "July 5th, 1776"
+        "Wall Street",
+        "Stalinobmen",
+        "Vladivostock"
       ],
       "question": {
-        "text": "On what date did America become an independant nation?"
+        "text": "What is the name of Russia's main stock market?"
       },
       "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3d7cc59eab6f951cb6",
-      "correctAnswer": "4",
-      "incorrectAnswers": [
-        "3",
-        "0",
-        "1"
-      ],
-      "question": {
-        "text": "In Charles Dickens' \"A Christmas Carol\", how many different ghosts visited Scrooge?"
-      },
-      "tags": [
-        "arts_and_literature"
+        "russia",
+        "economics",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -89,17 +239,18 @@
     },
     {
       "category": "geography",
-      "id": "62373f7fcb85f7ce9e949c9e",
-      "correctAnswer": "Vienna",
+      "id": "623385ea62eaad73716a8c9f",
+      "correctAnswer": "North Africa ",
       "incorrectAnswers": [
-        "Baku",
-        "Ashgabat",
-        "Prague"
+        "Australia",
+        "Central America",
+        "Eastern Europe"
       ],
       "question": {
-        "text": "What is the capital city of Austria?"
+        "text": "Where Are The Atlas Mountains?"
       },
       "tags": [
+        "mountains",
         "geography"
       ],
       "type": "text_choice",
@@ -108,108 +259,20 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950052",
-      "correctAnswer": "George Foreman",
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcb0",
+      "correctAnswer": "Niger–Congo",
       "incorrectAnswers": [
-        "Joe Frazier",
-        "Wilfredo Gomez",
-        "Roberto Duran"
+        "Afroasiatic",
+        "Kra–Dai",
+        "Austroasiatic"
       ],
       "question": {
-        "text": "Who Did Muhammed Ali Fight In 'The Rumble In The Jungle''?"
+        "text": "The language 'Nigerian Fulfulde' belongs to which language family?"
       },
       "tags": [
-        "boxing",
-        "events",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6257407c9da29df7b05f73e1",
-      "correctAnswer": "The Truman Show",
-      "incorrectAnswers": [
-        "Indiana Jones and the Last Crusade",
-        "The Matrix",
-        "The Batman"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'An insurance salesman discovers his whole life is actually a reality TV show.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3c7cc59eab6f951807",
-      "correctAnswer": "The Boo Radleys",
-      "incorrectAnswers": [
-        "The Smiths",
-        "Deep Purple",
-        "Pink Floyd"
-      ],
-      "question": {
-        "text": "Which British alternative band takes its name from a character from To Kill a Mockingbird ?"
-      },
-      "tags": [
-        "music",
-        "bands",
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056f5c7a97013de78b542c",
-      "correctAnswer": "France",
-      "incorrectAnswers": [
-        "Italy",
-        "The Netherlands",
-        "Austria"
-      ],
-      "question": {
-        "text": "In which country can we find the Palace of Versailles?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94feee",
-      "correctAnswer": "David Bowie",
-      "incorrectAnswers": [
-        "Elton John",
-        "Rod Stewart",
-        "Sting"
-      ],
-      "question": {
-        "text": "Which musician released the album '\"Heroes\"'?"
-      },
-      "tags": [
-        "music_albums",
-        "musicians",
-        "music"
+        "language",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -218,15 +281,146 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f95109c",
-      "correctAnswer": "Salt",
+      "id": "622a1c3a7cc59eab6f951026",
+      "correctAnswer": "Entomology",
       "incorrectAnswers": [
-        "Sugar",
-        "Vinegar",
-        "Lemon Juice"
+        "Botany",
+        "Zoology",
+        "Horticulture"
       ],
       "question": {
-        "text": "What is the common name of the chemical compound sodium chloride?"
+        "text": "What Is The Study Of Insects Called? "
+      },
+      "tags": [
+        "words",
+        "animals",
+        "biology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "63a03992c7d86251f9b65c82",
+      "correctAnswer": "Kaa",
+      "incorrectAnswers": [
+        "Baloo",
+        "Shere Khan",
+        "King Louie"
+      ],
+      "question": {
+        "text": "What is the name of the snake in the Disney film The Jungle Book?"
+      },
+      "tags": [
+        "film_and_tv",
+        "disney",
+        "film",
+        "fictitious_characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950087",
+      "correctAnswer": "5 And 1",
+      "incorrectAnswers": [
+        "1 and 19",
+        "7 and 13",
+        "15 and 5"
+      ],
+      "question": {
+        "text": "What Numbers Are Either Side Of 20 On A Dartboard"
+      },
+      "tags": [
+        "numbers",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056f367a97013de78b53f8",
+      "correctAnswer": "Turkey",
+      "incorrectAnswers": [
+        "Poland",
+        "Greece",
+        "Portugal"
+      ],
+      "question": {
+        "text": "Atatürk was a statesman of which country?"
+      },
+      "tags": [
+        "history",
+        "politics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "63d9530f168979b94b2e4f8c",
+      "correctAnswer": "Pretty Woman",
+      "incorrectAnswers": [
+        "Runaway Bride",
+        "My Best Friend's Wedding",
+        "Maid in Manhattan"
+      ],
+      "question": {
+        "text": "What was the name of the iconic '90s film where Julia Roberts plays a prostitute who is hired by a wealthy entrepreneur?"
+      },
+      "tags": [
+        "1990's",
+        "film",
+        "film_and_tv",
+        "romantic_comedies"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c377cc59eab6f95045d",
+      "correctAnswer": "12 Drummers Drumming",
+      "incorrectAnswers": [
+        "12 Lords a Leaping",
+        "12 Maids a Milking",
+        "12 Swans a Swimming"
+      ],
+      "question": {
+        "text": "In the song \"The Twelve Days Of Christmas\", what did my true love give to me on the 12th day?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056faf7a97013de78b549d",
+      "correctAnswer": "Bile",
+      "incorrectAnswers": [
+        "Amniotic fluid",
+        "Breast milk",
+        "Saliva"
+      ],
+      "question": {
+        "text": "What fluid is produced by the liver to aid digestion?"
       },
       "tags": [
         "science"
@@ -238,19 +432,143 @@
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f9518a7",
-      "correctAnswer": "Spanish Flu",
+      "id": "65056f017a97013de78b53ad",
+      "correctAnswer": "India",
       "incorrectAnswers": [
-        "Swine Flu",
-        "SARS",
-        "Coronavirus"
+        "Iran",
+        "Austria",
+        "Algeria"
       ],
       "question": {
-        "text": "What was the name of the pandemic which killed over 1% of the world's population in 1918?"
+        "text": "Which of these countries was once part of the British Empire?"
       },
       "tags": [
-        "medicine",
-        "1910's",
+        "history",
+        "colonialism",
+        "countries"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623740e2cb85f7ce9e949d2c",
+      "correctAnswer": "Kingston",
+      "incorrectAnswers": [
+        "Bridgetown",
+        "Gaborone",
+        "Mogadishu"
+      ],
+      "question": {
+        "text": "What is the capital city of Jamaica?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6ac2416c7457498440f6ee66",
+      "correctAnswer": "Krakow",
+      "incorrectAnswers": [
+        "Gdansk",
+        "Poznan",
+        "Wroclaw"
+      ],
+      "question": {
+        "text": "Which city was the capital of Poland before Warsaw?"
+      },
+      "tags": [
+        "poland",
+        "cities"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd72fdc0dd3b72da64d29",
+      "correctAnswer": "1998",
+      "incorrectAnswers": [
+        "1995",
+        "2001",
+        "2004"
+      ],
+      "question": {
+        "text": "The Big Lebowski was released in which year?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64fb5b33717513cb79190402",
+      "correctAnswer": "Control",
+      "incorrectAnswers": [
+        "Test",
+        "Experimental",
+        "Base"
+      ],
+      "question": {
+        "text": "In experiments, what is the name of the group that does not receive the treatment?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6498aef29acaa77d9ad7c50a",
+      "correctAnswer": "Pharaoh",
+      "incorrectAnswers": [
+        "King Herod",
+        "Pontius Pilate",
+        "Caesar Augustus"
+      ],
+      "question": {
+        "text": "In the biblical story of Exodus, who tells Moses 'I know not the Lord, neither will I let Israel go'?"
+      },
+      "tags": [
+        "bible",
+        "society_and_culture",
+        "religion"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503f5",
+      "correctAnswer": "Hawaii",
+      "incorrectAnswers": [
+        "Alaska",
+        "Puerto Rico",
+        "New Mexico"
+      ],
+      "question": {
+        "text": "What Became America's 50th State On August 21st 1959?"
+      },
+      "tags": [
         "history"
       ],
       "type": "text_choice",
@@ -259,92 +577,19 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "647129af64c916f9c84814b3",
-      "correctAnswer": "Monica and Ross",
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951c79",
+      "correctAnswer": "California",
       "incorrectAnswers": [
-        "Rachel and Joey",
-        "Phoebe and Chandler",
-        "Monica and Chandler"
+        "Florida",
+        "Texas",
+        "Ohio"
       ],
       "question": {
-        "text": "On the TV show Friends, which characters do Courtney Cox and David Schwimmer play?"
+        "text": "1955 saw the first ever Disneyland open in which U.S. state?"
       },
       "tags": [
-        "acting",
-        "tv",
-        "film_and_tv",
-        "sitcoms",
-        "friends"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506e3",
-      "correctAnswer": "Gerard Butler",
-      "incorrectAnswers": [
-        "Hugh Jackman",
-        "Robert Redford",
-        "Jim Carrey"
-      ],
-      "question": {
-        "text": "Which actor has featured in films including 300 and James Bond: Tomorrow Never Dies?"
-      },
-      "tags": [
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62c2f9f5b3eadb0437fda6b4",
-      "correctAnswer": "Kangaroo",
-      "incorrectAnswers": [
-        "Panda",
-        "Eagle",
-        "Moose"
-      ],
-      "question": {
-        "text": "Which animal would you associate with the Qantas logo?"
-      },
-      "tags": [
-        "society_and_culture",
-        "business",
-        "marketing",
-        "animals",
-        "logos",
-        "symbols",
-        "aviation"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9de7796f721e95543f32",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Orange",
-        "Blue",
-        "White"
-      ],
-      "question": {
-        "text": "Which of these colors is included on the flag of Belgium?"
-      },
-      "tags": [
-        "flags",
-        "geography"
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -353,18 +598,17 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c48",
-      "correctAnswer": "The Beach Boys",
+      "id": "622a1c397cc59eab6f950c51",
+      "correctAnswer": "Bee Gees",
       "incorrectAnswers": [
-        "The Four Seasons",
-        "Jan and Dean",
-        "The Monkees"
+        "Level 42",
+        "Culture Club",
+        "Dire Straits"
       ],
       "question": {
-        "text": "Which American rock band released the song 'God Only Knows'?"
+        "text": "Which English-Australian pop group released the studio album 'Odessa'?"
       },
       "tags": [
-        "general_knowledge",
         "music"
       ],
       "type": "text_choice",
@@ -373,280 +617,19 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "64b5a8837282fc9eadbafd9a",
-      "correctAnswer": "Common-law",
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504bc",
+      "correctAnswer": "drugs",
       "incorrectAnswers": [
-        "Civil",
-        "Religious",
-        "Arranged"
+        "the scientific study of muscles",
+        "animal diseases",
+        "museum management"
       ],
       "question": {
-        "text": "What is another name for an informal marriage that often comes with some level of legal recognition?"
+        "text": "What is Pharmacology the study of?"
       },
       "tags": [
-        "marriage",
-        "law",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950094",
-      "correctAnswer": "Let",
-      "incorrectAnswers": [
-        "Dus",
-        "Par",
-        "See"
-      ],
-      "question": {
-        "text": "What 3 Letter Word It The Name Given To A Replayed Point In Tennis?"
-      },
-      "tags": [
-        "tennis",
-        "sport",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "647f9ded3a4302a71927167c",
-      "correctAnswer": "Aung San Suu Kyi",
-      "incorrectAnswers": [
-        "Kim Jong-un",
-        "Ho Chi Minh",
-        "Xi Jinping"
-      ],
-      "question": {
-        "text": "Which political leader played a major role in Myanmar's transition from a military junta in the 2010s?"
-      },
-      "tags": [
-        "politics",
-        "history",
-        "people",
-        "2010's",
-        "asia",
-        "myanmar"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6a97ea05c9cbd5256545a733",
-      "correctAnswer": "Air mattresses",
-      "incorrectAnswers": [
-        "Sofa beds",
-        "Sleeping bags",
-        "Cots"
-      ],
-      "question": {
-        "text": "What did Airbnb founders first offer to hotel-starved conference-goers in their apartment?"
-      },
-      "tags": [
-        "startups",
-        "Airbnb",
-        "Sharing economy"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056f487a97013de78b5411",
-      "correctAnswer": "Indira Gandhi",
-      "incorrectAnswers": [
-        "Sarojini Naidu",
-        "Ratan Tata",
-        "Gauri Khan"
-      ],
-      "question": {
-        "text": "Who was the first female prime minister of India?"
-      },
-      "tags": [
-        "history",
-        "india",
-        "firsts",
-        "women"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950811",
-      "correctAnswer": "Germany",
-      "incorrectAnswers": [
-        "Ireland",
-        "Kingdom of the Netherlands",
-        "Belgium"
-      ],
-      "question": {
-        "text": "Which of these countries borders Denmark?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f859da29df7b05f73a0",
-      "correctAnswer": "A leader tries to expand his empire while a poor barber tries to avoid persecution.",
-      "incorrectAnswers": [
-        "Two men join in an uneasy alliance against a third to find gold buried in a remote cemetery.",
-        "A weatherman finds himself trapped in a small town as he lives the same day over and over again.",
-        "A surgeon rescues a disfigured man who is mistreated while scraping a living as a side-show freak."
-      ],
-      "question": {
-        "text": "What is the plot of the movie The Great Dictator?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "63a03977c7d86251f9b65c62",
-      "correctAnswer": "Clue",
-      "incorrectAnswers": [
-        "Checkers",
-        "Backgammon",
-        "Scrabble"
-      ],
-      "question": {
-        "text": "What is the name of the classic board game where players must discover the circumstances of a murder?"
-      },
-      "tags": [
-        "board_games"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63adbd7304c68cc1e14b8e41",
-      "correctAnswer": "The new European political order",
-      "incorrectAnswers": [
-        "Fossil fuel consumption",
-        "African colonisation",
-        "The fall of the Soviet Union"
-      ],
-      "question": {
-        "text": "What did the Congress of Vienna meet to discuss in 1815?"
-      },
-      "tags": [
-        "history",
-        "napoleonic_wars",
-        "1800's"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056f2a7a97013de78b53e7",
-      "correctAnswer": "Marie Antoinette",
-      "incorrectAnswers": [
-        "Marie de' Medici",
-        "Eleanor of Aquitaine",
-        "Diane de Poitiers"
-      ],
-      "question": {
-        "text": "Which Archduchess of Austria became Queen of France in 1774?"
-      },
-      "tags": [
-        "history",
-        "royalty"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "645c9f8f42ea81e2554c5f4c",
-      "correctAnswer": "The Phoenix",
-      "incorrectAnswers": [
-        "The Roc",
-        "The Harpy",
-        "The Siren"
-      ],
-      "question": {
-        "text": "What is the name of the mythical bird that dies in a fire and is reborn from its own ashes?"
-      },
-      "tags": [
-        "mythology",
-        "mythological_creatures"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "65056ef07a97013de78b5395",
-      "correctAnswer": "Australia",
-      "incorrectAnswers": [
-        "India",
-        "Netherlands",
-        "France"
-      ],
-      "question": {
-        "text": "Where is the city of Adelaide?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63d952fe168979b94b2e4f6f",
-      "correctAnswer": "Jawaharlal Nehru",
-      "incorrectAnswers": [
-        "Mahatma Gandhi",
-        "Indira Gandhi",
-        "Subhas Chandra Bose"
-      ],
-      "question": {
-        "text": "Who was the first Prime Minister of India?"
-      },
-      "tags": [
-        "history",
-        "leaders",
-        "people"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
