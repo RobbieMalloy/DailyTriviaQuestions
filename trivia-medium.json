@@ -1,18 +1,41 @@
 {
-  "gameDate": "2026-11-04",
+  "gameDate": "2026-11-05",
   "difficulty": "medium",
   "results": [
     {
       "category": "science",
-      "id": "622a1c3f7cc59eab6f9523ae",
-      "correctAnswer": "Geyser",
+      "id": "646339a001d576cfac3aa39b",
+      "correctAnswer": "Pod",
       "incorrectAnswers": [
-        "Volcano",
-        "Jetsam",
-        "Geotherm"
+        "School",
+        "Flock",
+        "Hive"
       ],
       "question": {
-        "text": "What is the name for a hot spring that shoots steam into the air?"
+        "text": "What is the collective noun for a group of whales or seals?"
+      },
+      "tags": [
+        "animals",
+        "science",
+        "biology",
+        "collective_nouns"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510a2",
+      "correctAnswer": "Amphibians",
+      "incorrectAnswers": [
+        "Mammals",
+        "Reptiles",
+        "Marsupials"
+      ],
+      "question": {
+        "text": "What are frogs?"
       },
       "tags": [
         "science"
@@ -24,15 +47,232 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fddb",
-      "correctAnswer": "Nicki Minaj",
+      "id": "6266bc7cb0e62e469cf43e97",
+      "correctAnswer": "Brass",
       "incorrectAnswers": [
-        "Hikaru Utada",
-        "Alanis Morissette",
-        "Ludacris"
+        "Stringed",
+        "Woodwind",
+        "Percussion"
       ],
       "question": {
-        "text": "Which singer released the song 'Bitch I'm Madonna'?"
+        "text": "What type of instrument is a trombone?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6384b43383dddfb71ee5e364",
+      "correctAnswer": "The Open Championship",
+      "incorrectAnswers": [
+        "Le Mans 24 Hours",
+        "The Copa Libertadores",
+        "The IAAF World Championships"
+      ],
+      "question": {
+        "text": "Which of these is a competition in Golf?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9e36796f721e95543f47",
+      "correctAnswer": "Red",
+      "incorrectAnswers": [
+        "Maroon",
+        "Black",
+        "Orange"
+      ],
+      "question": {
+        "text": "Which of these colors is included on the flag of Costa Rica?"
+      },
+      "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64626214ab138b829b81e9c0",
+      "correctAnswer": "Divining Rods",
+      "incorrectAnswers": [
+        "Feng Shui Rods",
+        "Geomancy Sticks",
+        "Magnetic Field Sensors"
+      ],
+      "question": {
+        "text": "What are the forked sticks sometimes used to locate water, dismissed by scientists as superstition?"
+      },
+      "tags": [
+        "superstitions",
+        "myths",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645fcc91541c4d4fc8cf30ac",
+      "correctAnswer": "Beefeaters",
+      "incorrectAnswers": [
+        "The SAS",
+        "The Swiss Guard",
+        "The Green Berets"
+      ],
+      "question": {
+        "text": "What nickname is given to England's Yeoman Warders of the Tower of London?"
+      },
+      "tags": [
+        "history",
+        "culture",
+        "london",
+        "uk",
+        "society_and_culture",
+        "military"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "63f3950d989356ef48370bfa",
+      "correctAnswer": "Orange",
+      "incorrectAnswers": [
+        "Strawberry",
+        "Apple",
+        "Blueberry"
+      ],
+      "question": {
+        "text": "Which of these fruits is a citrus fruit?"
+      },
+      "tags": [
+        "food_and_drink",
+        "food",
+        "fruit"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "645b69d8f09106226db23568",
+      "correctAnswer": "Moby Dick",
+      "incorrectAnswers": [
+        "The Old Man and the Sea",
+        "20,000 Leagues Under the Sea",
+        "The Sea-Wolf"
+      ],
+      "question": {
+        "text": "Which novel tells the story of Ishmael, who goes to work on a whaler after feeling 'a damp, drizzly November' in his soul?"
+      },
+      "tags": [
+        "novels",
+        "literature",
+        "arts_and_literature",
+        "classic_novels"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "63f39519989356ef48370c13",
+      "correctAnswer": "Cherry",
+      "incorrectAnswers": [
+        "Mango",
+        "Papaya",
+        "Pineapple"
+      ],
+      "question": {
+        "text": "Which of these fruits is not a tropical fruit?"
+      },
+      "tags": [
+        "food_and_drink",
+        "food",
+        "fruit"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623735decfe13103f55eb579",
+      "correctAnswer": "Spain",
+      "incorrectAnswers": [
+        "Seychelles",
+        "Eswatini",
+        "Estonia"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.es' at the end of its web addresses?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b9e",
+      "correctAnswer": "Wings",
+      "incorrectAnswers": [
+        "The Kinks",
+        "The Hollies",
+        "Electric Light Orchestra"
+      ],
+      "question": {
+        "text": "Which band did Paul McCartney form after The Beatles?"
+      },
+      "tags": [
+        "music",
+        "bands",
+        "the_beatles"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94feb0",
+      "correctAnswer": "Beyoncé",
+      "incorrectAnswers": [
+        "Rihanna",
+        "Alicia Keys",
+        "Ciara"
+      ],
+      "question": {
+        "text": "Which American singer, actress and record producer released the song 'Lift Off'?"
       },
       "tags": [
         "songs",
@@ -44,302 +284,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "64e6fd5e0b79e5bedd55c87e",
-      "correctAnswer": "Menudo",
-      "incorrectAnswers": [
-        "Gazpacho",
-        "Pho",
-        "Gumbo"
-      ],
-      "question": {
-        "text": "Which of these is a Mexican tripe soup?"
-      },
-      "tags": [
-        "mexican_cuisine",
-        "mexico",
-        "food_and_drink",
-        "food",
-        "soups"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570447a97013de78b556d",
-      "correctAnswer": "Seismometer",
-      "incorrectAnswers": [
-        "Ceilometer",
-        "Graphometer",
-        "Spectrometer"
-      ],
-      "question": {
-        "text": "Which device measures the strength of an earthquake?"
-      },
-      "tags": [
-        "science",
-        "measurements"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f951602",
-      "correctAnswer": "A ",
-      "incorrectAnswers": [
-        "B",
-        "C",
-        "D"
-      ],
-      "question": {
-        "text": "Carrots Are Rich In which Vitamin?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056ec27a97013de78b5355",
-      "correctAnswer": "Helium",
-      "incorrectAnswers": [
-        "Hydrogen",
-        "Radium",
-        "Carbon"
-      ],
-      "question": {
-        "text": "What is the second lightest chemical element?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "65056f107a97013de78b53c2",
-      "correctAnswer": "Bogotá",
+      "id": "623b5792fd6c701a92118367",
+      "correctAnswer": "Japan",
       "incorrectAnswers": [
-        "San Jose",
-        "Quito",
-        "Caracas"
+        "Vietnam",
+        "Russia",
+        "France"
       ],
       "question": {
-        "text": "What is the capital of Colombia?"
+        "text": "In which country would you find the Itsukushima Shinto Shrine?"
       },
       "tags": [
+        "tourist_attractions",
+        "places",
         "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6a9a5f30e0b97b1653496bcd",
-      "correctAnswer": "The Price Is Right",
-      "incorrectAnswers": [
-        "Family Feud",
-        "Wheel of Fortune",
-        "Jeopardy!"
-      ],
-      "question": {
-        "text": "On which American game show, now on its 53rd season, did Drew Carey become host in 2007?"
-      },
-      "tags": [
-        "game_shows",
-        "tv",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64720c933bbb58c31f411c8c",
-      "correctAnswer": "Carnitas",
-      "incorrectAnswers": [
-        "Tacos",
-        "Burritos",
-        "Enchiladas"
-      ],
-      "question": {
-        "text": "What Mexican dish that means \"little meats\" is made with shredded pork?"
-      },
-      "tags": [
-        "pork",
-        "meat",
-        "mexican_cuisine",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcdb",
-      "correctAnswer": "Indo-European",
-      "incorrectAnswers": [
-        "Koreanic",
-        "Afroasiatic",
-        "Sino-Tibetan"
-      ],
-      "question": {
-        "text": "The language 'Italian' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63b058784799123c67712f39",
-      "correctAnswer": "Moscow Exchange",
-      "incorrectAnswers": [
-        "Wall Street",
-        "Stalinobmen",
-        "Vladivostock"
-      ],
-      "question": {
-        "text": "What is the name of Russia's main stock market?"
-      },
-      "tags": [
-        "russia",
-        "economics",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623385ea62eaad73716a8c9f",
-      "correctAnswer": "North Africa ",
-      "incorrectAnswers": [
-        "Australia",
-        "Central America",
-        "Eastern Europe"
-      ],
-      "question": {
-        "text": "Where Are The Atlas Mountains?"
-      },
-      "tags": [
-        "mountains",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcb0",
-      "correctAnswer": "Niger–Congo",
-      "incorrectAnswers": [
-        "Afroasiatic",
-        "Kra–Dai",
-        "Austroasiatic"
-      ],
-      "question": {
-        "text": "The language 'Nigerian Fulfulde' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951026",
-      "correctAnswer": "Entomology",
-      "incorrectAnswers": [
-        "Botany",
-        "Zoology",
-        "Horticulture"
-      ],
-      "question": {
-        "text": "What Is The Study Of Insects Called? "
-      },
-      "tags": [
-        "words",
-        "animals",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "63a03992c7d86251f9b65c82",
-      "correctAnswer": "Kaa",
-      "incorrectAnswers": [
-        "Baloo",
-        "Shere Khan",
-        "King Louie"
-      ],
-      "question": {
-        "text": "What is the name of the snake in the Disney film The Jungle Book?"
-      },
-      "tags": [
-        "film_and_tv",
-        "disney",
-        "film",
-        "fictitious_characters"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950087",
-      "correctAnswer": "5 And 1",
-      "incorrectAnswers": [
-        "1 and 19",
-        "7 and 13",
-        "15 and 5"
-      ],
-      "question": {
-        "text": "What Numbers Are Either Side Of 20 On A Dartboard"
-      },
-      "tags": [
-        "numbers",
-        "sport"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -348,19 +307,21 @@
     },
     {
       "category": "history",
-      "id": "65056f367a97013de78b53f8",
-      "correctAnswer": "Turkey",
+      "id": "64746b055a4c31088dd9d00b",
+      "correctAnswer": "El Cid",
       "incorrectAnswers": [
-        "Poland",
-        "Greece",
-        "Portugal"
+        "Don Quixote",
+        "Ferdinand II of Aragon",
+        "Zorro"
       ],
       "question": {
-        "text": "Atatürk was a statesman of which country?"
+        "text": "Which of these was an 11th-century  Spanish knight and warlord?"
       },
       "tags": [
+        "spain",
         "history",
-        "politics"
+        "1000s",
+        "people"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -368,228 +329,22 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "63d9530f168979b94b2e4f8c",
-      "correctAnswer": "Pretty Woman",
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f951322",
+      "correctAnswer": "1",
       "incorrectAnswers": [
-        "Runaway Bride",
-        "My Best Friend's Wedding",
-        "Maid in Manhattan"
+        "0",
+        "2",
+        "3"
       ],
       "question": {
-        "text": "What was the name of the iconic '90s film where Julia Roberts plays a prostitute who is hired by a wealthy entrepreneur?"
+        "text": "How many holes are there on a traditional paint pallette?"
       },
       "tags": [
-        "1990's",
-        "film",
-        "film_and_tv",
-        "romantic_comedies"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c377cc59eab6f95045d",
-      "correctAnswer": "12 Drummers Drumming",
-      "incorrectAnswers": [
-        "12 Lords a Leaping",
-        "12 Maids a Milking",
-        "12 Swans a Swimming"
-      ],
-      "question": {
-        "text": "In the song \"The Twelve Days Of Christmas\", what did my true love give to me on the 12th day?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056faf7a97013de78b549d",
-      "correctAnswer": "Bile",
-      "incorrectAnswers": [
-        "Amniotic fluid",
-        "Breast milk",
-        "Saliva"
-      ],
-      "question": {
-        "text": "What fluid is produced by the liver to aid digestion?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056f017a97013de78b53ad",
-      "correctAnswer": "India",
-      "incorrectAnswers": [
-        "Iran",
-        "Austria",
-        "Algeria"
-      ],
-      "question": {
-        "text": "Which of these countries was once part of the British Empire?"
-      },
-      "tags": [
-        "history",
-        "colonialism",
-        "countries"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623740e2cb85f7ce9e949d2c",
-      "correctAnswer": "Kingston",
-      "incorrectAnswers": [
-        "Bridgetown",
-        "Gaborone",
-        "Mogadishu"
-      ],
-      "question": {
-        "text": "What is the capital city of Jamaica?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6ac2416c7457498440f6ee66",
-      "correctAnswer": "Krakow",
-      "incorrectAnswers": [
-        "Gdansk",
-        "Poznan",
-        "Wroclaw"
-      ],
-      "question": {
-        "text": "Which city was the capital of Poland before Warsaw?"
-      },
-      "tags": [
-        "poland",
-        "cities"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd72fdc0dd3b72da64d29",
-      "correctAnswer": "1998",
-      "incorrectAnswers": [
-        "1995",
-        "2001",
-        "2004"
-      ],
-      "question": {
-        "text": "The Big Lebowski was released in which year?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "64fb5b33717513cb79190402",
-      "correctAnswer": "Control",
-      "incorrectAnswers": [
-        "Test",
-        "Experimental",
-        "Base"
-      ],
-      "question": {
-        "text": "In experiments, what is the name of the group that does not receive the treatment?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6498aef29acaa77d9ad7c50a",
-      "correctAnswer": "Pharaoh",
-      "incorrectAnswers": [
-        "King Herod",
-        "Pontius Pilate",
-        "Caesar Augustus"
-      ],
-      "question": {
-        "text": "In the biblical story of Exodus, who tells Moses 'I know not the Lord, neither will I let Israel go'?"
-      },
-      "tags": [
-        "bible",
-        "society_and_culture",
-        "religion"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503f5",
-      "correctAnswer": "Hawaii",
-      "incorrectAnswers": [
-        "Alaska",
-        "Puerto Rico",
-        "New Mexico"
-      ],
-      "question": {
-        "text": "What Became America's 50th State On August 21st 1959?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3d7cc59eab6f951c79",
-      "correctAnswer": "California",
-      "incorrectAnswers": [
-        "Florida",
-        "Texas",
-        "Ohio"
-      ],
-      "question": {
-        "text": "1955 saw the first ever Disneyland open in which U.S. state?"
-      },
-      "tags": [
-        "history"
+        "arts_and_literature",
+        "art",
+        "general_knowledge",
+        "painting"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -598,17 +353,19 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c51",
-      "correctAnswer": "Bee Gees",
+      "id": "622a1c357cc59eab6f94fd44",
+      "correctAnswer": "Wood & Sound",
       "incorrectAnswers": [
-        "Level 42",
-        "Culture Club",
-        "Dire Straits"
+        "Multiple & Sound",
+        "Wood & Tone",
+        "Multiple & Tone"
       ],
       "question": {
-        "text": "Which English-Australian pop group released the studio album 'Odessa'?"
+        "text": "'Xylophone' Is Derived From The Greek Words For What?"
       },
       "tags": [
+        "language",
+        "words",
         "music"
       ],
       "type": "text_choice",
@@ -617,16 +374,277 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9504bc",
-      "correctAnswer": "drugs",
+      "category": "general_knowledge",
+      "id": "64e6fd9b0b79e5bedd55c8bc",
+      "correctAnswer": "Kia",
       "incorrectAnswers": [
-        "the scientific study of muscles",
-        "animal diseases",
-        "museum management"
+        "Hyundai",
+        "Toyota",
+        "Honda"
       ],
       "question": {
-        "text": "What is Pharmacology the study of?"
+        "text": "Which Korean car brand has a model called 'Soul'?"
+      },
+      "tags": [
+        "cars",
+        "brands",
+        "korean cars"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "645cb0e67d263fd50970438d",
+      "correctAnswer": "Indochina",
+      "incorrectAnswers": [
+        "Malay",
+        "Malacca",
+        "Sunda"
+      ],
+      "question": {
+        "text": "Cambodia, Laos, and Vietnam are located on what peninsula?"
+      },
+      "tags": [
+        "countries",
+        "peninsulas",
+        "southeast_asia",
+        "asia",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c607f50d1a5e051325a5f",
+      "correctAnswer": "The United Kingdom",
+      "incorrectAnswers": [
+        "Cuba",
+        "Indonesia",
+        "India"
+      ],
+      "question": {
+        "text": "Where in the world was Chicken Tikka Masala invented?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "63d952fc168979b94b2e4f6b",
+      "correctAnswer": "Simon Bolivar",
+      "incorrectAnswers": [
+        "Juan Peron",
+        "Augusto Pinochet",
+        "Ho Chi Minh"
+      ],
+      "question": {
+        "text": "Which leader was known as 'The Great Liberator'?"
+      },
+      "tags": [
+        "history",
+        "leaders",
+        "people"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "64e927cd0b0fc0be2ff5aa3c",
+      "correctAnswer": "Vin Diesel",
+      "incorrectAnswers": [
+        "Jason Statham",
+        "Dwayne Johnson",
+        "Chris Hemsworth"
+      ],
+      "question": {
+        "text": "Which actor, who starred in several 'Fast & Furious' films and in the 2020 movie 'Bloodshot', is also a producer?"
+      },
+      "tags": [
+        "actors",
+        "movies",
+        "action"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "637162981bf863c45ca6c38a",
+      "correctAnswer": "For the good",
+      "incorrectAnswers": [
+        "Professional soldier",
+        "I am not led, I lead",
+        "Great is the power of habit"
+      ],
+      "question": {
+        "text": "What is the meaning of the Latin phrase 'Pro bono'?"
+      },
+      "tags": [
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233876d0161109f922aac23",
+      "correctAnswer": "Ecuador ",
+      "incorrectAnswers": [
+        "Latvia",
+        "Liberia",
+        "Indonesia"
+      ],
+      "question": {
+        "text": "Which country has taken its name from a line of latitude?"
+      },
+      "tags": [
+        "words",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950363",
+      "correctAnswer": "Lyndon B Johnson",
+      "incorrectAnswers": [
+        "Gerald Ford",
+        "Richard Nixon",
+        "Thomas Jefferson"
+      ],
+      "question": {
+        "text": "Who took over from John F Kennedy after he was assassinated?"
+      },
+      "tags": [
+        "presidents",
+        "usa",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6257405a9da29df7b05f73d7",
+      "correctAnswer": "Double Indemnity",
+      "incorrectAnswers": [
+        "Casino",
+        "Dune",
+        "The Great Escape"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'An insurance representative lets a housewife seduce him into a scheme of insurance fraud and murder.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63f39507989356ef48370bec",
+      "correctAnswer": "Shintoism",
+      "incorrectAnswers": [
+        "Confucianism",
+        "Taoism",
+        "Buddhism"
+      ],
+      "question": {
+        "text": "Which of these religions originated in Japan?"
+      },
+      "tags": [
+        "japan",
+        "religion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6462621bab138b829b81e9c6",
+      "correctAnswer": "Luxembourg",
+      "incorrectAnswers": [
+        "Liechtenstein",
+        "Liberia",
+        "Laos"
+      ],
+      "question": {
+        "text": "Which country is the northernmost among Luxembourg, Liechtenstein, Laos and Liberia?"
+      },
+      "tags": [
+        "countries",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570067a97013de78b5516",
+      "correctAnswer": "360°",
+      "incorrectAnswers": [
+        "480°",
+        "90°",
+        "180°"
+      ],
+      "question": {
+        "text": "What is the sum of the inner angles of a square?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951008",
+      "correctAnswer": "A code-breaking computer",
+      "incorrectAnswers": [
+        "A nuclear-resistant tank",
+        "A supersonic bomber",
+        "An intercontinental missile"
+      ],
+      "question": {
+        "text": "What Was The Colossus, Developed In Buckinghamshire In 1943?"
       },
       "tags": [
         "science"
