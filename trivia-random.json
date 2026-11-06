@@ -1,82 +1,18 @@
 {
-  "gameDate": "2026-11-05",
+  "gameDate": "2026-11-06",
   "difficulty": "random",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f92e",
-      "correctAnswer": "Network",
-      "incorrectAnswers": [
-        "Say Anything...",
-        "The Lord of the Rings",
-        "Taxi Driver"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Howard Beale'?"
-      },
-      "tags": [
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "63a03992c7d86251f9b65c84",
-      "correctAnswer": "Jack and Jill",
-      "incorrectAnswers": [
-        "Hey Diddle Diddle",
-        "Mary Had a Little Lamb",
-        "Girls and Boys Come Out To Play"
-      ],
-      "question": {
-        "text": "What nursery rhyme is about a couple who climbed a hill?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "nursery_rhymes"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "645bb13cf09106226db23592",
-      "correctAnswer": "Swan Lake",
-      "incorrectAnswers": [
-        "The Nutcracker",
-        "Romeo and Juliet",
-        "Sleeping Beauty"
-      ],
-      "question": {
-        "text": "In which classic ballet do Prince Siegfried and Odette drown themselves at the end?"
-      },
-      "tags": [
-        "dance",
-        "ballet"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "62433330cfaae40c129613c7",
-      "correctAnswer": "A Drone",
+      "id": "6242caffd543524f1b19c902",
+      "correctAnswer": "A sounder",
       "incorrectAnswers": [
-        "A Buck",
-        "A Jack",
-        "A Boar"
+        "A shoal",
+        "A flock",
+        "A sedge"
       ],
       "question": {
-        "text": "What would you call a male bee?"
+        "text": "What is the word for a group of boars?"
       },
       "tags": [
         "science"
@@ -84,63 +20,86 @@
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
+      "isNiche": false,
+      "hint": "This collective noun is also used for groups of wild swine.",
+      "explanation": "A sounder is the collective noun for a group of boars, and the term is also used for groups of wild pigs."
+    },
+    {
+      "category": "general_knowledge",
+      "id": "65056e927a97013de78b5312",
+      "correctAnswer": "Fruit",
+      "incorrectAnswers": [
+        "Hat",
+        "Musical instrument",
+        "Fish"
+      ],
+      "question": {
+        "text": "What is a kumquat?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95075f",
-      "correctAnswer": "Kevin Costner",
+      "id": "62573f4b9da29df7b05f7393",
+      "correctAnswer": "Casablanca",
       "incorrectAnswers": [
-        "Dwayne Johnson",
-        "Shah Rukh Khan",
-        "Gérard Depardieu"
+        "Blade Runner",
+        "A Beautiful Mind",
+        "Goodfellas"
       ],
       "question": {
-        "text": "Which actor has had roles in films including Batman v Superman: Dawn of Justice and The Untouchables?"
+        "text": "Name the movie that matches the following plot summary: 'A cafe owner decides whether or not to help his ex and her husband escape the Nazis in French Morocco.'"
       },
       "tags": [
         "film",
-        "acting",
         "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "The nightclub pianist performs the song “As Time Goes By.”",
+      "explanation": "Casablanca follows cafe owner Rick as he weighs helping his former lover Ilsa and her husband Victor escape from French Morocco during World War II."
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9503f6",
-      "correctAnswer": "Inky, Pinky, Blinky & Clyde",
+      "id": "6ae5a18aaadee662775e8e64",
+      "correctAnswer": "St. Moritz",
       "incorrectAnswers": [
-        "Inky, Pinky, Blinky & Floyd",
-        "Dinky, Pinky, Winky & Clyde",
-        "Dinky, Pinky, Blinky & Floyd"
+        "Zermatt",
+        "Davos",
+        "Verbier"
       ],
       "question": {
-        "text": "What Are The Names Of The Ghosts In The Classic 80's Video Game Pac Man? "
+        "text": "Which Swiss resort hosted the Winter Olympics in both 1928 and 1948?"
       },
       "tags": [
-        "video_games",
-        "1980's",
-        "sport"
+        "st moritz",
+        "winter olympics",
+        "switzerland"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "625fd70edc0dd3b72da64d1f",
-      "correctAnswer": "2003",
+      "id": "625fd6e9dc0dd3b72da64d14",
+      "correctAnswer": "1976",
       "incorrectAnswers": [
-        "1997",
-        "2000",
-        "2006"
+        "1966",
+        "1971",
+        "1981"
       ],
       "question": {
-        "text": "In which year was Kill Bill: Vol. 1 first released in the cinema?"
+        "text": "Taxi Driver was released in which year?"
       },
       "tags": [
         "film",
@@ -149,214 +108,205 @@
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "The film premiered during the year of the United States bicentennial.",
+      "explanation": "Taxi Driver, directed by Martin Scorsese and starring Robert De Niro, was released in 1976."
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503c2",
-      "correctAnswer": "Southampton",
+      "category": "geography",
+      "id": "65056dfd7a97013de78b5242",
+      "correctAnswer": "Amazon",
       "incorrectAnswers": [
-        "Cardiff",
-        "Portsmouth",
-        "Plymouth"
+        "Ganges",
+        "Mississippi",
+        "Yangtze"
       ],
       "question": {
-        "text": "Where Did The Mayflower Set Sail From In 1620?"
+        "text": "Which of these rivers is the longest?"
       },
       "tags": [
-        "history"
+        "geography"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fdbd",
-      "correctAnswer": "Don't You Want Me Baby",
+      "id": "622a1c347cc59eab6f94fbaa",
+      "correctAnswer": "\"I'll Make a Man Out of You\" - Mulan",
       "incorrectAnswers": [
-        "Never Tear Us Apart",
-        "What is Love",
-        "Slave To The Rhythm"
+        "\"The Circle of Life\" - The Lion King",
+        "\"Prince Ali\" - Aladdin",
+        "\"Hero to Zero\" - Hercules"
       ],
       "question": {
-        "text": "What Song Features The Lyric \"I Was Working As A Waitress In A Cocktail Bar\"?"
+        "text": "Which Disney song begins with the lyrics: \"Let's get down to business...\"?"
       },
       "tags": [
+        "disney",
+        "soundtracks",
         "lyrics",
         "songs",
         "music"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "This number accompanies recruits' rigorous military training in a Disney story inspired by a Chinese legend.",
+      "explanation": "“I'll Make a Man Out of You” is the training song in Mulan, led by Captain Li Shang as he drills the recruits."
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ed9",
+      "correctAnswer": "Jack London",
+      "incorrectAnswers": [
+        "Edgar Rice Burroughs",
+        "James Fenimore Cooper",
+        "Frederik Pohl"
+      ],
+      "question": {
+        "text": "Which author wrote 'Call of the Wild'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He also wrote White Fang, a novel about a wolf-dog in the Yukon.",
+      "explanation": "Jack London wrote The Call of the Wild, which follows a domesticated dog drawn into life in the Yukon wilderness."
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c09",
+      "correctAnswer": "Muse",
+      "incorrectAnswers": [
+        "Tears for Fears",
+        "Bullet For My Valentine",
+        "Enter Shikari"
+      ],
+      "question": {
+        "text": "Which English rock band released the studio album 'Showbiz'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The band formed in Teignmouth, a coastal town in Devon, England.",
+      "explanation": "Muse released Showbiz as its debut studio album in 1999."
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f9518c2",
-      "correctAnswer": "Ben Braddock",
+      "id": "622a1c377cc59eab6f95041a",
+      "correctAnswer": "Marathon Man",
       "incorrectAnswers": [
-        "Martin Jackson",
-        "Leo Quince",
-        "Harold Buck"
+        "The Graduate",
+        "Rain Man",
+        "Tootsie"
       ],
       "question": {
-        "text": "What Was The Name Of Dustin Hoffman's Character In The 1967 Film The Graduate?"
+        "text": "In which 1970's films does Dustin Hoffman play the character ' Babe Levy'?"
       },
       "tags": [
-        "film",
-        "fictitious_characters",
         "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "A chilling dental-chair scene is associated with the question, “Is it safe?”",
+      "explanation": "Marathon Man is a 1976 thriller in which Dustin Hoffman plays Babe Levy, a graduate student drawn into a plot involving a Nazi fugitive."
     },
     {
-      "category": "society_and_culture",
-      "id": "6262afa84b176d54800e3dd5",
-      "correctAnswer": "Talk to you later",
+      "category": "science",
+      "id": "622a1c377cc59eab6f950496",
+      "correctAnswer": "The moon",
       "incorrectAnswers": [
-        "The two year lapse",
-        "Try to yeet loads",
-        "Top thanks you legend"
+        "Tax",
+        "Heat",
+        "Interactions between siblings"
       ],
       "question": {
-        "text": "If someone typed the letters 'TTYL' in a message, what would they mean?"
+        "text": "What is Selenology the study of?"
       },
       "tags": [
-        "the_internet",
-        "initials",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "648888d65dba6c873ef650a1",
-      "correctAnswer": "Portland",
-      "incorrectAnswers": [
-        "Seattle",
-        "Vancouver",
-        "Boise"
-      ],
-      "question": {
-        "text": "Which city in the USA contains both The Columbia River and The Willamette River?"
-      },
-      "tags": [
-        "usa",
-        "rivers",
-        "geography",
-        "cities"
+        "words",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "Apollo astronauts landed on the celestial body this field investigates.",
+      "explanation": "Selenology is the study of the Moon; its name comes from Selene, the Greek moon goddess."
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f95002f",
-      "correctAnswer": "Babe Ruth",
+      "category": "food_and_drink",
+      "id": "624c607850d1a5e051325a5d",
+      "correctAnswer": "Roast Beef Dinner",
       "incorrectAnswers": [
-        "Ian Botham",
-        "Jay Rodriguez",
-        "Brian Lara"
+        "Stamppot",
+        "Chicken Machboos",
+        "Poutine"
       ],
       "question": {
-        "text": "Who wore a cabbage leaf under his cap?"
+        "text": "Which of these dishes is most associated with England?"
       },
       "tags": [
-        "people",
         "food",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63b058774799123c67712f36",
-      "correctAnswer": "University of Oxford",
-      "incorrectAnswers": [
-        "University of Cambridge",
-        "University of Edinburgh",
-        "University of London"
-      ],
-      "question": {
-        "text": "Which is the oldest university in the UK?"
-      },
-      "tags": [
         "uk",
-        "universities",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9519ba",
-      "correctAnswer": "Anastasia",
-      "incorrectAnswers": [
-        "Natasha",
-        "Ilyana",
-        "Ivanka"
-      ],
-      "question": {
-        "text": "What daughter of Czar Nicholas II was falsely rumoured to have escaped death in the Russian Revolution?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262af724b176d54800e3dc7",
-      "correctAnswer": "For what it's worth",
-      "incorrectAnswers": [
-        "For while I'm waiting",
-        "Fantastic when it works",
-        "Friend who is wise"
-      ],
-      "question": {
-        "text": "What do the letters 'FWIW' mean on internet chats?"
-      },
-      "tags": [
-        "the_internet",
-        "initials",
-        "society_and_culture"
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "A traditional Sunday meal often includes sliced meat, potatoes, vegetables, and Yorkshire pudding.",
+      "explanation": "Roast Beef Dinner is closely associated with England and the traditional Sunday roast, often served with vegetables, potatoes, and Yorkshire pudding."
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc31",
-      "correctAnswer": "\"It's alive! It's alive!\"",
+      "id": "622a1c377cc59eab6f9505f3",
+      "correctAnswer": "Jane Fonda",
       "incorrectAnswers": [
-        "\"Stella! Hey, Stella!\"",
-        "\"My precious...\"",
-        "\"I'm walkin' here!\""
+        "Catherine Deneuve",
+        "Sally Hawkins",
+        "Lucy Lawless"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Frankenstein'?"
+        "text": "Which actress has appeared in films including Coming Home and Julia?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "She played the title heroine in Barbarella and later became famous for her workout videos.",
+      "explanation": "Jane Fonda appeared in both Julia and Coming Home, and won the Academy Award for Best Actress for Coming Home."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbd8",
+      "correctAnswer": "\"You motorboatin’ son of a b****!\"",
+      "incorrectAnswers": [
+        "\"I could do this all day\"",
+        "\"I’m the guy who does his job. You must be the other guy.\"",
+        "\"I'm gonna make him an offer he can't refuse.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Wedding Crashers'?"
       },
       "tags": [
         "quotes",
@@ -364,248 +314,73 @@
         "film_and_tv"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "The comedy follows two friends who pose as wedding guests to meet women.",
+      "explanation": "The quote is from Wedding Crashers, a comedy about two friends, played by Owen Wilson and Vince Vaughn, who sneak into weddings."
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f951ace",
-      "correctAnswer": "Jordan",
+      "id": "622a1c367cc59eab6f9503bb",
+      "correctAnswer": "Crete",
       "incorrectAnswers": [
-        "Monaco",
-        "Syria",
-        "Iran"
+        "Babylon",
+        "Mexico",
+        "Turkey"
       ],
       "question": {
-        "text": "King Abdullah was assassinated in 1951. Of which country was he king?"
+        "text": "Where were the ancient script of Linear A and Linear B found?"
       },
       "tags": [
-        "leaders",
-        "1950's",
         "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "The scripts are associated with the Minoan civilization, centered on a large island south of mainland Greece.",
+      "explanation": "Linear A and Linear B were found on Crete, including at Knossos. Linear A remains undeciphered, while Linear B records an early form of Greek."
+    },
+    {
+      "category": "geography",
+      "id": "62373fadcb85f7ce9e949cb0",
+      "correctAnswer": "Porto-Novo",
+      "incorrectAnswers": [
+        "Ashgabat",
+        "Amman",
+        "Lusaka"
+      ],
+      "question": {
+        "text": "What is the capital city of Benin?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Benin’s capital is near its southeastern border with Nigeria, while Cotonou is the country’s largest city.",
+      "explanation": "Porto-Novo is Benin’s official capital, while Cotonou is the country’s largest city and seat of government."
     },
     {
       "category": "sport_and_leisure",
-      "id": "6242e835a22452794eaef208",
-      "correctAnswer": "The Saints",
+      "id": "645b431a067ef798d145507c",
+      "correctAnswer": "Yankee Stadium",
       "incorrectAnswers": [
-        "The Bees",
-        "The Clarets",
-        "The Citizens"
+        "Fenway Park",
+        "Wrigley Field",
+        "Dodger Stadium"
       ],
       "question": {
-        "text": "What is the nickname of the English football team Southampton?"
+        "text": "What is the nickname of the famous ballpark that was once called 'The House that Ruth Built'?"
       },
       "tags": [
-        "uk",
-        "football",
-        "soccer",
-        "southampton",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951879",
-      "correctAnswer": "1804",
-      "incorrectAnswers": [
-        "1819",
-        "1834",
-        "1849"
-      ],
-      "question": {
-        "text": "When Did Napoleon Bonaparte Begin His Reign As Emperor Of France?"
-      },
-      "tags": [
-        "france",
-        "empires",
-        "leaders",
-        "europe",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950369",
-      "correctAnswer": "John Wilkes Booth",
-      "incorrectAnswers": [
-        "Lee Harvey Oswald",
-        "Mark David Chapman",
-        "Leon Czolgosz"
-      ],
-      "question": {
-        "text": "Who shot Abraham Lincoln?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "639ae2d5929b90846f2fc8ba",
-      "correctAnswer": "Fenrir",
-      "incorrectAnswers": [
-        "Kraken",
-        "Goblin",
-        "Odin"
-      ],
-      "question": {
-        "text": "What is the name of the mythical wolf that appears in Norse mythology?"
-      },
-      "tags": [
-        "vikings",
-        "mythology"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3b7cc59eab6f951708",
-      "correctAnswer": "Winston Churchill",
-      "incorrectAnswers": [
-        "Aristotle",
-        "Jean Paul Sartre",
-        "Karl Marx"
-      ],
-      "question": {
-        "text": "Who described Russia as 'a riddle wrapped in a mystery inside an enigma'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "russia",
-        "people",
-        "quotes"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f95106d",
-      "correctAnswer": "Tomato",
-      "incorrectAnswers": [
-        "Garlic",
-        "Onion",
-        "Chili Pepper"
-      ],
-      "question": {
-        "text": "What Is Alicante A Variety Of?"
-      },
-      "tags": [
-        "food",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "647f9def3a4302a71927168d",
-      "correctAnswer": "Fresco",
-      "incorrectAnswers": [
-        "Mosaic",
-        "Graffiti",
-        "Stencil"
-      ],
-      "question": {
-        "text": "What term refers to a type of mural painting executed on freshly laid, still-wet plaster, with water-based pigments?"
-      },
-      "tags": [
-        "painting",
-        "arts_and_literature",
-        "art"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501bd",
-      "correctAnswer": "Harry Potter and the Prisoner of Azkaban",
-      "incorrectAnswers": [
-        "Harry Potter and the Half-Blood Prince",
-        "New Moon",
-        "The Alchemist"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'Harry Potter was a highly unusual boy in many ways.'?"
-      },
-      "tags": [
-        "harry_potter",
-        "literature",
-        "young_adult",
-        "fiction",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd694dc0dd3b72da64cfb",
-      "correctAnswer": "1994",
-      "incorrectAnswers": [
-        "1986",
-        "1990",
-        "1998"
-      ],
-      "question": {
-        "text": "In which year was The Lion King released?"
-      },
-      "tags": [
-        "film",
-        "disney",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740e59da29df7b05f7400",
-      "correctAnswer": "Fargo",
-      "incorrectAnswers": [
-        "12 Years a Slave",
-        "Rear Window",
-        "A Beautiful Mind"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A car salesman's inept crime falls apart due to his and his henchmen's bungling.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
+        "baseball",
+        "nicknames",
+        "sport",
+        "stadiums"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -614,19 +389,231 @@
     },
     {
       "category": "food_and_drink",
-      "id": "645cb1257d263fd5097043ac",
-      "correctAnswer": "Cordon Bleu",
+      "id": "63bc3f960e893d6e5a6a0fbe",
+      "correctAnswer": "Napoleon",
       "incorrectAnswers": [
-        "Sacre Bleu",
-        "Bleu du Fafa",
-        "Bleu Lundi"
+        "Antoinette",
+        "Charles de Gaulle",
+        "Eclair"
       ],
       "question": {
-        "text": "What culinary term, often referring to a first-class cook, literally means 'Blue Ribbon'?"
+        "text": "What is the name of a French pastry known for its flaky layers of puff pastry and pastry cream filling?"
       },
       "tags": [
-        "cooking",
-        "food_and_drink"
+        "food",
+        "food_and_drink",
+        "pastry",
+        "baking"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The pastry shares its name with the French emperor who crowned himself in 1804.",
+      "explanation": "Napoleon is a layered pastry made with puff pastry and pastry cream, often associated with the French dessert mille-feuille."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "65056e8e7a97013de78b530d",
+      "correctAnswer": "Grain",
+      "incorrectAnswers": [
+        "Cheese",
+        "Wine",
+        "Butter"
+      ],
+      "question": {
+        "text": "What type of food is barley?"
+      },
+      "tags": [
+        "food_and_drink",
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f97f",
+      "correctAnswer": "Henderson the Rain King",
+      "incorrectAnswers": [
+        "The Moviegoer",
+        "The Old Man and the Sea",
+        "Howards End"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Eugene Henderson'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Saul Bellow wrote this novel about a wealthy American who travels to Africa.",
+      "explanation": "Henderson the Rain King is Saul Bellow's novel featuring Eugene Henderson, a wealthy American who travels to Africa."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9506f4",
+      "correctAnswer": "Jim Carrey",
+      "incorrectAnswers": [
+        "Gerard Butler",
+        "Hugh Jackman",
+        "Michael Fassbender"
+      ],
+      "question": {
+        "text": "Which actor has played roles in films including Batman Forever and The Mask?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The same rubber-faced comedian played a pet detective in a hit 1990s comedy.",
+      "explanation": "Jim Carrey played the Riddler in Batman Forever and the title character in The Mask."
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d46",
+      "correctAnswer": "Fleetwood Mac",
+      "incorrectAnswers": [
+        "W.A.S.P.",
+        "Paramore",
+        "Alice in Chains"
+      ],
+      "question": {
+        "text": "Which band includes 'Lindsey Buckingham'?"
+      },
+      "tags": [
+        "people",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The group behind the album Rumours also featured Stevie Nicks and Christine McVie.",
+      "explanation": "Fleetwood Mac is the rock band whose classic lineup included Lindsey Buckingham, Stevie Nicks, and Christine McVie."
+    },
+    {
+      "category": "geography",
+      "id": "623735dbcfe13103f55eb577",
+      "correctAnswer": "South Africa",
+      "incorrectAnswers": [
+        "Tanzania",
+        "Zambia",
+        "Zimbabwe"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.za' at the end of its web addresses?"
+      },
+      "tags": [
+        "the_internet",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The country is home to Cape Town and Johannesburg.",
+      "explanation": ".za is South Africa’s country-code domain. The code comes from Zuid-Afrika, the country’s name in Dutch."
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501d7",
+      "correctAnswer": "Little Women",
+      "incorrectAnswers": [
+        "Buddenbrooks",
+        "David Copperfield",
+        "Jane Eyre"
+      ],
+      "question": {
+        "text": "Which piece of written work starts with the line ''Christmas won't be Christmas without any presents''?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its four March sisters include Jo, Meg, Beth, and Amy.",
+      "explanation": "Little Women opens with Jo March grumbling that Christmas would not be Christmas without presents. Louisa May Alcott’s novel follows Jo and her sisters."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "645f952f541c4d4fc8cf2ecd",
+      "correctAnswer": "Jackie Chan",
+      "incorrectAnswers": [
+        "Jet Li",
+        "Bruce Lee",
+        "Donnie Yen"
+      ],
+      "question": {
+        "text": "Which Chinese action star has broken a number of bones doing stunts and acted in films like 'Drunken Master' and 'Rumble in the Bronx'?"
+      },
+      "tags": [
+        "film_and_tv",
+        "film",
+        "acting"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The Hong Kong performer is known for combining martial arts with slapstick comedy and performing many of his own stunts.",
+      "explanation": "Jackie Chan is famous for blending martial arts and physical comedy, often performing his own stunts. He starred in both Drunken Master and Rumble in the Bronx."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c357cc59eab6f94fe17",
+      "correctAnswer": "Queensboro Bridge ",
+      "incorrectAnswers": [
+        "Manhattan Bridge",
+        "Hudson Bridge",
+        "Brooklyn Bridge"
+      ],
+      "question": {
+        "text": "Which Bridge Features On The Poster To The Woody Allen Film Manhattan?"
+      },
+      "tags": [
+        "bridges",
+        "new_york",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It links Midtown Manhattan with Long Island City across the East River.",
+      "explanation": "The Queensboro Bridge spans the East River between Manhattan and Queens and is featured on the film's poster."
+    },
+    {
+      "category": "music",
+      "id": "636a5280990390307063f3a0",
+      "correctAnswer": "Killing Me Softly",
+      "incorrectAnswers": [
+        "The Man Who Sold the World",
+        "Smells Like Teen Spirit",
+        "You Really Got Me"
+      ],
+      "question": {
+        "text": "Which song, originally recorded by Roberta Flack, was later covered by The Fugees?"
+      },
+      "tags": [
+        "music",
+        "cover_song",
+        "songs",
+        "musicians"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -634,26 +621,68 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9518d6",
-      "correctAnswer": "The Prohibition",
+      "category": "film_and_tv",
+      "id": "63dd25ee742e43ed64f1f04f",
+      "correctAnswer": "John Dorian",
       "incorrectAnswers": [
-        "The Dry Spell",
-        "The Dark Days",
-        "The Moonshine"
+        "Elliot Reid",
+        "Carla Espinosa",
+        "Christopher Turk"
       ],
       "question": {
-        "text": "What Name Was Given To The Period From 1919 To 1933 When Alcohol Was Banned In The USA?"
+        "text": "What is the name of the character played by Zach Braff on the show 'Scrubs'?"
       },
       "tags": [
-        "words",
-        "1920's",
-        "usa",
-        "drink",
-        "history"
+        "film_and_tv",
+        "tv",
+        "sitcoms"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The show's central young doctor often narrates episodes through his elaborate daydreams.",
+      "explanation": "John Dorian is the central doctor played by Zach Braff; friends and colleagues commonly call him J.D."
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6ae03f923f3b0b676f6e9a8c",
+      "correctAnswer": "Wayne Gretzky",
+      "incorrectAnswers": [
+        "Mario Lemieux",
+        "Gordie Howe",
+        "Bobby Orr"
+      ],
+      "question": {
+        "text": "Which ice hockey player is nicknamed 'The Great One'?"
+      },
+      "tags": [
+        "ice-hockey",
+        "wayne-gretzky"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "65056f027a97013de78b53ae",
+      "correctAnswer": "Tennessee Williams",
+      "incorrectAnswers": [
+        "Graham Greene",
+        "Franz Grillparzer",
+        "Anthony Neilson"
+      ],
+      "question": {
+        "text": "What playwright wrote \"A Streetcar Named Desire\"?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "theater"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     }

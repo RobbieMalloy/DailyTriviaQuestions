@@ -1,24 +1,23 @@
 {
-  "gameDate": "2026-11-05",
+  "gameDate": "2026-11-06",
   "difficulty": "medium",
   "results": [
     {
-      "category": "science",
-      "id": "646339a001d576cfac3aa39b",
-      "correctAnswer": "Pod",
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe39",
+      "correctAnswer": "Niagara falls",
       "incorrectAnswers": [
-        "School",
-        "Flock",
-        "Hive"
+        "Lake Huron",
+        "Yosemite",
+        "Appalachian Mountains"
       ],
       "question": {
-        "text": "What is the collective noun for a group of whales or seals?"
+        "text": "Which site in North America was named after the Mohawk Indian word meaning \"thunder of waters\"?"
       },
       "tags": [
-        "animals",
-        "science",
-        "biology",
-        "collective_nouns"
+        "words",
+        "usa",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -26,412 +25,283 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510a2",
-      "correctAnswer": "Amphibians",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502b3",
+      "correctAnswer": "Gazpacho ",
       "incorrectAnswers": [
-        "Mammals",
-        "Reptiles",
-        "Marsupials"
+        "Carpaccio",
+        "Alpacho",
+        "Fropaccio"
       ],
       "question": {
-        "text": "What are frogs?"
+        "text": "What is the name of cold Spanish soup made from peppers and tomatoes?"
       },
       "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It is especially associated with Andalusia, a region in southern Spain.",
+      "explanation": "Gazpacho is a chilled Spanish soup commonly made with tomatoes and peppers, often blended with other vegetables."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "646140784d46e537ca8cd9c5",
+      "correctAnswer": "Inspector Clouseau",
+      "incorrectAnswers": [
+        "Austin Powers",
+        "Dr. Evil",
+        "Borat"
+      ],
+      "question": {
+        "text": "Which character, played by Peter Sellers, famously mispronounces words like 'room', 'phone', and 'monkey'?"
+      },
+      "tags": [
+        "film",
+        "comedy",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He is the accident-prone French detective at the center of The Pink Panther films.",
+      "explanation": "Inspector Clouseau is Peter Sellers's bumbling French detective in The Pink Panther films, known for comic mispronunciations."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740b99da29df7b05f73f3",
+      "correctAnswer": "Room",
+      "incorrectAnswers": [
+        "L.A. Confidential",
+        "Barry Lyndon",
+        "Beauty and the Beast"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'Held captive for 7 years, a woman and her young son finally gain their freedom.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Brie Larson won an Oscar for portraying the mother in this adaptation of Emma Donoghue’s novel.",
+      "explanation": "Room follows a mother and son after years of captivity and their struggle to adjust after escaping."
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951031",
+      "correctAnswer": "Hexagon",
+      "incorrectAnswers": [
+        "Pentagon",
+        "Octagon",
+        "Dodecahedron"
+      ],
+      "question": {
+        "text": "What is the mathematical term used to describe the shape of a cell in a honeycomb? "
+      },
+      "tags": [
+        "mathematics",
+        "general_knowledge",
         "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6266bc7cb0e62e469cf43e97",
-      "correctAnswer": "Brass",
-      "incorrectAnswers": [
-        "Stringed",
-        "Woodwind",
-        "Percussion"
-      ],
-      "question": {
-        "text": "What type of instrument is a trombone?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "6384b43383dddfb71ee5e364",
-      "correctAnswer": "The Open Championship",
-      "incorrectAnswers": [
-        "Le Mans 24 Hours",
-        "The Copa Libertadores",
-        "The IAAF World Championships"
-      ],
-      "question": {
-        "text": "Which of these is a competition in Golf?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9e36796f721e95543f47",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Maroon",
-        "Black",
-        "Orange"
-      ],
-      "question": {
-        "text": "Which of these colors is included on the flag of Costa Rica?"
-      },
-      "tags": [
-        "flags",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64626214ab138b829b81e9c0",
-      "correctAnswer": "Divining Rods",
-      "incorrectAnswers": [
-        "Feng Shui Rods",
-        "Geomancy Sticks",
-        "Magnetic Field Sensors"
-      ],
-      "question": {
-        "text": "What are the forked sticks sometimes used to locate water, dismissed by scientists as superstition?"
-      },
-      "tags": [
-        "superstitions",
-        "myths",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "645fcc91541c4d4fc8cf30ac",
-      "correctAnswer": "Beefeaters",
-      "incorrectAnswers": [
-        "The SAS",
-        "The Swiss Guard",
-        "The Green Berets"
-      ],
-      "question": {
-        "text": "What nickname is given to England's Yeoman Warders of the Tower of London?"
-      },
-      "tags": [
-        "history",
-        "culture",
-        "london",
-        "uk",
-        "society_and_culture",
-        "military"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "63f3950d989356ef48370bfa",
-      "correctAnswer": "Orange",
-      "incorrectAnswers": [
-        "Strawberry",
-        "Apple",
-        "Blueberry"
-      ],
-      "question": {
-        "text": "Which of these fruits is a citrus fruit?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food",
-        "fruit"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "645b69d8f09106226db23568",
-      "correctAnswer": "Moby Dick",
-      "incorrectAnswers": [
-        "The Old Man and the Sea",
-        "20,000 Leagues Under the Sea",
-        "The Sea-Wolf"
-      ],
-      "question": {
-        "text": "Which novel tells the story of Ishmael, who goes to work on a whaler after feeling 'a damp, drizzly November' in his soul?"
-      },
-      "tags": [
-        "novels",
-        "literature",
-        "arts_and_literature",
-        "classic_novels"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "63f39519989356ef48370c13",
-      "correctAnswer": "Cherry",
-      "incorrectAnswers": [
-        "Mango",
-        "Papaya",
-        "Pineapple"
-      ],
-      "question": {
-        "text": "Which of these fruits is not a tropical fruit?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food",
-        "fruit"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623735decfe13103f55eb579",
-      "correctAnswer": "Spain",
-      "incorrectAnswers": [
-        "Seychelles",
-        "Eswatini",
-        "Estonia"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.es' at the end of its web addresses?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b9e",
-      "correctAnswer": "Wings",
-      "incorrectAnswers": [
-        "The Kinks",
-        "The Hollies",
-        "Electric Light Orchestra"
-      ],
-      "question": {
-        "text": "Which band did Paul McCartney form after The Beatles?"
-      },
-      "tags": [
-        "music",
-        "bands",
-        "the_beatles"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94feb0",
-      "correctAnswer": "Beyoncé",
-      "incorrectAnswers": [
-        "Rihanna",
-        "Alicia Keys",
-        "Ciara"
-      ],
-      "question": {
-        "text": "Which American singer, actress and record producer released the song 'Lift Off'?"
-      },
-      "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b5792fd6c701a92118367",
-      "correctAnswer": "Japan",
-      "incorrectAnswers": [
-        "Vietnam",
-        "Russia",
-        "France"
-      ],
-      "question": {
-        "text": "In which country would you find the Itsukushima Shinto Shrine?"
-      },
-      "tags": [
-        "tourist_attractions",
-        "places",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "A cube has the same number of faces as a honeycomb cell has sides.",
+      "explanation": "A hexagon is a polygon with six sides, and honeycomb cells use this shape to fit together efficiently."
     },
     {
       "category": "history",
-      "id": "64746b055a4c31088dd9d00b",
-      "correctAnswer": "El Cid",
+      "id": "628d54b2a5a57ff6c2ad2bf3",
+      "correctAnswer": "Romanov",
       "incorrectAnswers": [
-        "Don Quixote",
-        "Ferdinand II of Aragon",
-        "Zorro"
+        "Nikolevsky",
+        "Napoleon",
+        "Lenin"
       ],
       "question": {
-        "text": "Which of these was an 11th-century  Spanish knight and warlord?"
+        "text": "What was the name of the reigning imperial house of Russia from the 17th century until the 1917 revolution?"
       },
       "tags": [
-        "spain",
-        "history",
-        "1000s",
-        "people"
+        "russia",
+        "leaders",
+        "revolutions",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "Peter the Great and Nicholas II belonged to this imperial family.",
+      "explanation": "The Romanovs ruled Russia from 1613 until the monarchy fell in the 1917 revolution."
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951322",
-      "correctAnswer": "1",
+      "category": "science",
+      "id": "63adbd6904c68cc1e14b8e32",
+      "correctAnswer": "Oak Tree",
       "incorrectAnswers": [
-        "0",
-        "2",
-        "3"
+        "Fir Tree",
+        "Maple Tree",
+        "Elm Tree"
       ],
       "question": {
-        "text": "How many holes are there on a traditional paint pallette?"
+        "text": "What type of tree is known for its large, dark green leaves?"
       },
       "tags": [
-        "arts_and_literature",
-        "art",
-        "general_knowledge",
-        "painting"
+        "science",
+        "trees",
+        "plants",
+        "nature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "Its leaves commonly have distinctive rounded or pointed lobes.",
+      "explanation": "Oak trees are broadleaf trees with leaves that are often lobed, unlike the needle-like foliage of firs."
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd44",
-      "correctAnswer": "Wood & Sound",
+      "category": "society_and_culture",
+      "id": "645cb19b7d263fd5097043eb",
+      "correctAnswer": "Chests",
       "incorrectAnswers": [
-        "Multiple & Sound",
-        "Wood & Tone",
-        "Multiple & Tone"
+        "Wardrobes",
+        "Chairs",
+        "Tables"
       ],
       "question": {
-        "text": "'Xylophone' Is Derived From The Greek Words For What?"
+        "text": "Used by brides in the past to collect their belongings before marriage, bridal, dower, and hope are all types of what piece of furniture?"
       },
       "tags": [
-        "language",
-        "words",
-        "music"
+        "society_and_culture",
+        "furniture",
+        "traditions",
+        "marriage"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "Traditional examples often had a hinged lid and stored clothing, linens, or valuables.",
+      "explanation": "Bridal, dower, and hope chests were used to store a bride's belongings, often gathered in preparation for marriage."
     },
     {
-      "category": "general_knowledge",
-      "id": "64e6fd9b0b79e5bedd55c8bc",
-      "correctAnswer": "Kia",
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f95002a",
+      "correctAnswer": "He bit off an opponent's ear",
       "incorrectAnswers": [
-        "Hyundai",
-        "Toyota",
-        "Honda"
+        "He was found to be doping",
+        "He had cocaine detected during a drugs test",
+        "Match fixing"
       ],
       "question": {
-        "text": "Which Korean car brand has a model called 'Soul'?"
+        "text": "Why was Mike Tyson fined $3 million by the boxing association in 1997?"
       },
       "tags": [
-        "cars",
-        "brands",
-        "korean cars"
+        "sport",
+        "boxing",
+        "events",
+        "1990's"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "The incident occurred during Tyson’s heavyweight rematch with Evander Holyfield.",
+      "explanation": "Mike Tyson bit Evander Holyfield’s ear during their 1997 rematch, leading to Tyson’s disqualification and a $3 million fine."
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951bbc",
+      "correctAnswer": "43",
+      "incorrectAnswers": [
+        "48",
+        "51",
+        "57"
+      ],
+      "question": {
+        "text": "How old was John F. Kennedy when he became president?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He was the youngest person ever elected president of the United States.",
+      "explanation": "John F. Kennedy was 43 when he became president. He was the youngest person elected to the office; Theodore Roosevelt was younger when he assumed it after a president's death."
     },
     {
       "category": "geography",
-      "id": "645cb0e67d263fd50970438d",
-      "correctAnswer": "Indochina",
+      "id": "6233846262eaad73716a8c05",
+      "correctAnswer": "Arabic",
       "incorrectAnswers": [
-        "Malay",
-        "Malacca",
-        "Sunda"
+        "Hebrew",
+        "Egyptian",
+        "Italian"
       ],
       "question": {
-        "text": "Cambodia, Laos, and Vietnam are located on what peninsula?"
+        "text": "What is the official language of Egypt?"
       },
       "tags": [
-        "countries",
-        "peninsulas",
-        "southeast_asia",
-        "asia",
+        "africa",
+        "language",
+        "the_middle_east",
         "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "Egypt shares its official language with many countries across the Middle East and North Africa.",
+      "explanation": "Arabic is Egypt’s official language and is spoken across much of the Middle East and North Africa."
+    },
+    {
+      "category": "geography",
+      "id": "62602e924b176d54800e3ce5",
+      "correctAnswer": "Sri Lanka",
+      "incorrectAnswers": [
+        "Indonesia",
+        "Vietnam",
+        "Cambodia"
+      ],
+      "question": {
+        "text": "Colombo is a city in which country?"
+      },
+      "tags": [
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This island nation lies just southeast of India, across the Palk Strait.",
+      "explanation": "Colombo is Sri Lanka’s largest city and commercial hub. The country’s legislative capital is Sri Jayawardenepura Kotte."
     },
     {
       "category": "food_and_drink",
-      "id": "624c607f50d1a5e051325a5f",
-      "correctAnswer": "The United Kingdom",
+      "id": "64cfa1637f0714b9a0ca5e8d",
+      "correctAnswer": "Battered",
       "incorrectAnswers": [
-        "Cuba",
-        "Indonesia",
-        "India"
+        "Poached",
+        "Crumbled",
+        "Spatchcock"
       ],
       "question": {
-        "text": "Where in the world was Chicken Tikka Masala invented?"
+        "text": "What word is used when food is coated in a mixture of flour and eggs for frying?"
       },
       "tags": [
+        "cooking",
         "food",
         "food_and_drink"
       ],
@@ -441,126 +311,16 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "63d952fc168979b94b2e4f6b",
-      "correctAnswer": "Simon Bolivar",
-      "incorrectAnswers": [
-        "Juan Peron",
-        "Augusto Pinochet",
-        "Ho Chi Minh"
-      ],
-      "question": {
-        "text": "Which leader was known as 'The Great Liberator'?"
-      },
-      "tags": [
-        "history",
-        "leaders",
-        "people"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "64e927cd0b0fc0be2ff5aa3c",
-      "correctAnswer": "Vin Diesel",
+      "id": "62573f529da29df7b05f7395",
+      "correctAnswer": "The Pianist",
       "incorrectAnswers": [
-        "Jason Statham",
-        "Dwayne Johnson",
-        "Chris Hemsworth"
+        "Unforgiven",
+        "Gandhi",
+        "The Terminator"
       ],
       "question": {
-        "text": "Which actor, who starred in several 'Fast & Furious' films and in the 2020 movie 'Bloodshot', is also a producer?"
-      },
-      "tags": [
-        "actors",
-        "movies",
-        "action"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "637162981bf863c45ca6c38a",
-      "correctAnswer": "For the good",
-      "incorrectAnswers": [
-        "Professional soldier",
-        "I am not led, I lead",
-        "Great is the power of habit"
-      ],
-      "question": {
-        "text": "What is the meaning of the Latin phrase 'Pro bono'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233876d0161109f922aac23",
-      "correctAnswer": "Ecuador ",
-      "incorrectAnswers": [
-        "Latvia",
-        "Liberia",
-        "Indonesia"
-      ],
-      "question": {
-        "text": "Which country has taken its name from a line of latitude?"
-      },
-      "tags": [
-        "words",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950363",
-      "correctAnswer": "Lyndon B Johnson",
-      "incorrectAnswers": [
-        "Gerald Ford",
-        "Richard Nixon",
-        "Thomas Jefferson"
-      ],
-      "question": {
-        "text": "Who took over from John F Kennedy after he was assassinated?"
-      },
-      "tags": [
-        "presidents",
-        "usa",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6257405a9da29df7b05f73d7",
-      "correctAnswer": "Double Indemnity",
-      "incorrectAnswers": [
-        "Casino",
-        "Dune",
-        "The Great Escape"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'An insurance representative lets a housewife seduce him into a scheme of insurance fraud and murder.'"
+        "text": "Name the movie that matches the following plot summary: 'A Polish Jew struggles to survive the destruction of the Warsaw ghetto of World War II.'"
       },
       "tags": [
         "film",
@@ -569,24 +329,97 @@
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "Its central character was a concert musician before the Nazi occupation of Warsaw.",
+      "explanation": "The Pianist tells the story of Władysław Szpilman, a Jewish musician who survived the Nazi occupation of Warsaw and the destruction of its ghetto."
     },
     {
       "category": "society_and_culture",
-      "id": "63f39507989356ef48370bec",
-      "correctAnswer": "Shintoism",
+      "id": "622a1c367cc59eab6f950129",
+      "correctAnswer": "Mecca",
       "incorrectAnswers": [
-        "Confucianism",
-        "Taoism",
-        "Buddhism"
+        "Tehran",
+        "Dubai",
+        "Riyadh"
       ],
       "question": {
-        "text": "Which of these religions originated in Japan?"
+        "text": "To where do Muslims make pilgrimage?"
       },
       "tags": [
-        "japan",
-        "religion",
         "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The Hajj centers on the city that contains the Kaaba.",
+      "explanation": "Mecca is the destination of the Hajj, the pilgrimage Muslims are expected to make if they are able."
+    },
+    {
+      "category": "science",
+      "id": "645cb1257d263fd5097043ad",
+      "correctAnswer": "Cartilage",
+      "incorrectAnswers": [
+        "Tendon",
+        "Ligament",
+        "Muscle"
+      ],
+      "question": {
+        "text": "What part of the body, often referred to as 'gristle', is important for the formation of bones?"
+      },
+      "tags": [
+        "anatomy",
+        "biology",
+        "science",
+        "medicine"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "During development, many bones begin as a flexible framework that is gradually replaced by harder tissue.",
+      "explanation": "Cartilage is a flexible connective tissue that serves as a model for many bones during development, as bone gradually replaces it."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd3f",
+      "correctAnswer": "Coptic",
+      "incorrectAnswers": [
+        "Pernial",
+        "Maurovingian",
+        "Arabic"
+      ],
+      "question": {
+        "text": "Which of these words relates to a family of dialects descended from the Ancient Egyptian language?"
+      },
+      "tags": [
+        "words",
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It survives chiefly in worship among Egypt’s historic Christian community.",
+      "explanation": "Coptic is the latest stage of the Ancient Egyptian language and includes several dialects; it is also preserved in Christian worship in Egypt."
+    },
+    {
+      "category": "science",
+      "id": "64f6d9b9660c3a8d960101e9",
+      "correctAnswer": "Oxygen",
+      "incorrectAnswers": [
+        "Hydrogen",
+        "Nitrogen",
+        "Methane"
+      ],
+      "question": {
+        "text": "SpaceX's Falcon 9 rocket burns kerosene with which element, carried on board as a super-cooled liquid?"
+      },
+      "tags": [
+        "space",
+        "rockets",
+        "propulsion"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -594,19 +427,90 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "6462621bab138b829b81e9c6",
-      "correctAnswer": "Luxembourg",
+      "category": "science",
+      "id": "6461403b4d46e537ca8cd999",
+      "correctAnswer": "Drag",
       "incorrectAnswers": [
-        "Liechtenstein",
-        "Liberia",
-        "Laos"
+        "Thrust",
+        "Gravity",
+        "Lift"
       ],
       "question": {
-        "text": "Which country is the northernmost among Luxembourg, Liechtenstein, Laos and Liberia?"
+        "text": "What is the name of the force that resists the forward motion of a moving airplane?"
       },
       "tags": [
-        "countries",
+        "physics",
+        "aviation",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It is one of the four forces of flight, acting opposite the aircraft’s direction of travel.",
+      "explanation": "Drag is the aerodynamic force that opposes an airplane’s motion through the air. Thrust acts forward, while lift and gravity act mainly vertically."
+    },
+    {
+      "category": "geography",
+      "id": "6233865e62eaad73716a8ccc",
+      "correctAnswer": "Mecca",
+      "incorrectAnswers": [
+        "Jerusalem",
+        "Rome",
+        "Lhaasa"
+      ],
+      "question": {
+        "text": "Where is the Holy Kaaba?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It stands in Islam’s holiest city, in western Saudi Arabia.",
+      "explanation": "The Holy Kaaba is at the center of the Grand Mosque in Mecca, Saudi Arabia."
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510e7",
+      "correctAnswer": "Elephants",
+      "incorrectAnswers": [
+        "Bald Eagles",
+        "Chimpanzees",
+        "Earthworms"
+      ],
+      "question": {
+        "text": "Which animal communicates in sound waves below the frequency that humans can hear?"
+      },
+      "tags": [
+        "science",
+        "animals",
+        "sounds",
+        "biology",
+        "nature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Their deep rumbles can travel long distances across open grasslands.",
+      "explanation": "Elephants communicate with infrasonic rumbles, sounds below the range of human hearing that can carry over long distances."
+    },
+    {
+      "category": "geography",
+      "id": "65056f137a97013de78b53c7",
+      "correctAnswer": "Niagara River",
+      "incorrectAnswers": [
+        "Mississippi River",
+        "Hudson River",
+        "Colorado River"
+      ],
+      "question": {
+        "text": "Which river flows over the falls between Lake Erie and Lake Ontario?"
+      },
+      "tags": [
         "geography"
       ],
       "type": "text_choice",
@@ -615,44 +519,196 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "650570067a97013de78b5516",
-      "correctAnswer": "360°",
+      "category": "society_and_culture",
+      "id": "6262afa1014f58b5fc1a3fd8",
+      "correctAnswer": "On My Way",
       "incorrectAnswers": [
-        "480°",
-        "90°",
-        "180°"
+        "Oh My Word",
+        "Old Man Ways",
+        "Oh Man, Why"
       ],
       "question": {
-        "text": "What is the sum of the inner angles of a square?"
+        "text": "If someone typed the letters 'OMW' in a message, what would they mean?"
       },
       "tags": [
-        "science"
+        "the_internet",
+        "initials",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "It’s a quick update from someone traveling to meet you or reach a destination.",
+      "explanation": "OMW means On My Way, a brief message telling someone the sender is traveling to the destination."
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951008",
-      "correctAnswer": "A code-breaking computer",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc29",
+      "correctAnswer": "\"I'll be back.\"",
       "incorrectAnswers": [
-        "A nuclear-resistant tank",
-        "A supersonic bomber",
-        "An intercontinental missile"
+        "\"You had me at hello.\"",
+        "\"You motorboatin’ son of a b****!\"",
+        "\"You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?\""
       ],
       "question": {
-        "text": "What Was The Colossus, Developed In Buckinghamshire In 1943?"
+        "text": "Which of these quotes is from the film 'The Terminator'?"
       },
       "tags": [
-        "science"
+        "film",
+        "quotes",
+        "general_knowledge",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "The cyborg played by Arnold Schwarzenegger says it while leaving a police station.",
+      "explanation": "“I'll be back” is the Terminator's famous line, spoken by Arnold Schwarzenegger's cyborg character at a police station."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "648891c34cd3f064f443dc61",
+      "correctAnswer": "Rango",
+      "incorrectAnswers": [
+        "Nemo",
+        "Simba",
+        "Po"
+      ],
+      "question": {
+        "text": "What 2011 animated film centers on a pet Chameleon who accidentally ends up in a lawless Wild West outpost?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The chameleon reinvents himself as sheriff of the desert town.",
+      "explanation": "Rango follows a pet chameleon who becomes sheriff in the Wild West town of Dirt."
+    },
+    {
+      "category": "history",
+      "id": "6461403b4d46e537ca8cd995",
+      "correctAnswer": "Mojave",
+      "incorrectAnswers": [
+        "Apache",
+        "Navajo",
+        "Cherokee"
+      ],
+      "question": {
+        "text": "Which Native American tribe thrived in the scorching heat of the California desert that bears their name?"
+      },
+      "tags": [
+        "history",
+        "geography",
+        "deserts",
+        "native_americans",
+        "society_and_culture",
+        "usa"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Their historic homeland lay along the lower Colorado River, near the California-Arizona border.",
+      "explanation": "The Mojave people traditionally lived along the lower Colorado River, and the desert takes its name from them."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624ab085348a461bfc67067f",
+      "correctAnswer": "South America",
+      "incorrectAnswers": [
+        "Europe",
+        "The Middle East",
+        "China"
+      ],
+      "question": {
+        "text": "From which part of the world do sweet potatoes originate?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Their native range includes tropical areas of the continent that contains Peru and Brazil.",
+      "explanation": "South America is the intended choice among these broad regions. Sweet potatoes are native to the tropical Americas, though the details of their domestication are complex."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502a9",
+      "correctAnswer": "Tempura ",
+      "incorrectAnswers": [
+        "Bento",
+        "Sashimi",
+        "Nori"
+      ],
+      "question": {
+        "text": "What name is given to the Japanese dish in which fish, shellfish, or vegetables are fried in batter?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its signature is a light, crisp coating around seafood or vegetables.",
+      "explanation": "Tempura is a Japanese dish of fish, shellfish, or vegetables coated in batter and fried."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "647207af3bbb58c31f411c58",
+      "correctAnswer": "Field of Dreams",
+      "incorrectAnswers": [
+        "Bull Durham",
+        "The Natural",
+        "Moneyball"
+      ],
+      "question": {
+        "text": "Which 1989 film features Kevin Costner building a baseball diamond on his corn farm?"
+      },
+      "tags": [
+        "baseball",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its famous whisper is, “If you build it, he will come.”",
+      "explanation": "Field of Dreams follows Iowa farmer Ray Kinsella, who builds a baseball diamond in his cornfield after hearing a mysterious voice."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62628843014f58b5fc1a3fd3",
+      "correctAnswer": "Mazda",
+      "incorrectAnswers": [
+        "Mercedez-Benz",
+        "Ford",
+        "Greyhound"
+      ],
+      "question": {
+        "text": "'Zoom Zoom' is a slogan associated with which motoring brand?"
+      },
+      "tags": [
+        "business",
+        "marketing",
+        "motoring",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This Japanese automaker is headquartered in Hiroshima.",
+      "explanation": "Mazda used “Zoom-Zoom” as a brand slogan in its advertising, evoking the sound and excitement of driving."
     }
   ]
 }
