@@ -1,522 +1,325 @@
 {
-  "gameDate": "2026-11-08",
+  "gameDate": "2026-11-09",
   "difficulty": "hard",
   "results": [
     {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950132",
-      "correctAnswer": "Vanir",
+      "category": "arts_and_literature",
+      "id": "6462624dab138b829b81e9ea",
+      "correctAnswer": "Injun Joe",
       "incorrectAnswers": [
-        "Maiar",
-        "Frost Giants",
-        "Valhallans"
+        "Huckleberry Finn",
+        "Becky Thatcher",
+        "Tom Sawyer"
       ],
       "question": {
-        "text": "In Norse myth, there were two separate races of gods: the Aesir gods which included Odin and Thor, and the ____ gods from whom descended Freya."
+        "text": "In the novel \"The Adventures of Tom Sawyer\", which character kills Dr. Robinson?"
       },
       "tags": [
-        "mythology",
+        "arts_and_literature",
+        "literature",
+        "novels",
+        "fictitious_characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He frames Muff Potter for the murder.",
+      "explanation": "Injun Joe murders Dr. Robinson during a graveyard robbery and blames Muff Potter; Tom and Huck witness the killing."
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ec7",
+      "correctAnswer": "Haruki Murakami",
+      "incorrectAnswers": [
+        "Oscar Wilde",
+        "Umberto Eco",
+        "Søren Kierkegaard"
+      ],
+      "question": {
+        "text": "Which author wrote 'Blind Willow, Sleeping Woman'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The Japanese novelist also wrote Kafka on the Shore.",
+      "explanation": "Blind Willow, Sleeping Woman is a collection of short stories by Haruki Murakami, including work from different periods of his career."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fb68",
+      "correctAnswer": "Around the World in 80 Days",
+      "incorrectAnswers": [
+        "Friendly Persuasion",
+        "Giant",
+        "The King and I"
+      ],
+      "question": {
+        "text": "Which film won the Academy Award for Best Picture in 1956?"
+      },
+      "tags": [
+        "academy_awards",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa0f",
+      "correctAnswer": "Eugène Delacroix",
+      "incorrectAnswers": [
+        "‎Salvador Dalí",
+        "Paul Cézanne",
+        "Jackson Pollock"
+      ],
+      "question": {
+        "text": "Which artist painted \"The Liberty leading the people\""
+      },
+      "tags": [
+        "art",
+        "painting",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The painting is a celebrated work of French Romanticism depicting the July Revolution of 1830.",
+      "explanation": "Eugène Delacroix's painting depicts the July Revolution of 1830, which toppled King Charles X of France."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbe3",
+      "correctAnswer": "\"I’m going to have to science the s*** out of this.\"",
+      "incorrectAnswers": [
+        "\"Here's looking at you, kid.\"",
+        "\"Show me the money!\"",
+        "\"Soylent Green is people!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'The Martian'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "An astronaut left alone on Mars survives through ingenuity.",
+      "explanation": "Mark Watney, played by Matt Damon, is a botanist and astronaut stranded on Mars. The film is based on Andy Weir's novel."
+    },
+    {
+      "category": "geography",
+      "id": "63b058704799123c67712f2b",
+      "correctAnswer": "Rajasthan",
+      "incorrectAnswers": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Uttar Pradesh"
+      ],
+      "question": {
+        "text": "Which is the largest state in India?"
+      },
+      "tags": [
+        "india",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its capital is Jaipur, and much of the Thar Desert lies within its borders.",
+      "explanation": "Rajasthan covers about 10% of India's land area, and its capital is Jaipur."
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f95222f",
+      "correctAnswer": "Eye",
+      "incorrectAnswers": [
+        "Pancreas",
+        "Kidney",
+        "Testicles"
+      ],
+      "question": {
+        "text": "In which organ is a clear watery solution known as the 'aqueous humor' found?"
+      },
+      "tags": [
+        "science",
+        "biology",
+        "anatomy"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It fills the space between the cornea and the lens.",
+      "explanation": "The eye’s aqueous humor helps maintain internal pressure and supplies nutrients to parts of the eye that lack blood vessels."
+    },
+    {
+      "category": "science",
+      "id": "6463398801d576cfac3aa372",
+      "correctAnswer": "Mars",
+      "incorrectAnswers": [
+        "Earth",
+        "Saturn",
+        "Venus"
+      ],
+      "question": {
+        "text": "The moons Deimos and Phobos orbit which planet in our solar system?"
+      },
+      "tags": [
+        "astronomy",
+        "space",
+        "planets",
+        "the_solar_system",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its reddish surface and giant volcano Olympus Mons help identify this neighboring planet.",
+      "explanation": "Mars's moons are named after Phobos and Deimos, sons of the Greek god Ares and personifications of fear and dread."
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa3a",
+      "correctAnswer": "Cubism",
+      "incorrectAnswers": [
+        "Abstract expressionism",
+        "Surrealism",
+        "Pointilism"
+      ],
+      "question": {
+        "text": "The painting \"Les Demoiselles d’Avignon\" by Pablo Picasso is a part of which art movement?"
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its angular figures and fractured forms helped pioneer a movement that depicts subjects from multiple viewpoints.",
+      "explanation": "Cubism challenged traditional perspective by showing subjects through fractured forms and multiple viewpoints. This 1907 painting is often seen as a turning point toward the movement."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f9500f4",
+      "correctAnswer": "Forseti",
+      "incorrectAnswers": [
+        "Baldur",
+        "Thor",
+        "Odin"
+      ],
+      "question": {
+        "text": "Who is the Norse god of justice?"
+      },
+      "tags": [
         "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Freya's father Njord and brother Freyr are also members of this group of gods.",
-      "explanation": "The Vanir and Aesir fought a war before making peace and exchanging hostages. Njord, Freyr, and Freya are counted among the Vanir."
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d7d0f96c4efe8d773cc",
-      "correctAnswer": "Philadelphia Phillies",
-      "incorrectAnswers": [
-        "Philadelphia Brewers",
-        "Philadelphia Crew",
-        "Philadelphia Orioles"
-      ],
-      "question": {
-        "text": "Which of these is a baseball team based in Philadelphia?"
-      },
-      "tags": [
-        "usa",
-        "baseball",
-        "nbl",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The team's nickname is a shortened, old-fashioned form of “Philadelphians.”",
-      "explanation": "The Philadelphia Phillies franchise dates to 1883 and has won two World Series titles."
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c47",
-      "correctAnswer": "The Beach Boys",
-      "incorrectAnswers": [
-        "Jan and Dean",
-        "The Monkees",
-        "The Four Seasons"
-      ],
-      "question": {
-        "text": "Which American rock band released the album 'Smile'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950172",
-      "correctAnswer": "Prokofiev",
-      "incorrectAnswers": [
-        "Beethoven",
-        "Strauss",
-        "Stravinsky"
-      ],
-      "question": {
-        "text": "Who composed the ballet \"Romeo & Juliet\"?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The same Russian composer created the musical fairy tale Peter and the Wolf.",
-      "explanation": "Prokofiev's score includes the forceful “Dance of the Knights,” often performed as a standalone concert piece."
-    },
-    {
-      "category": "music",
-      "id": "64a9cc039bf4085beaa1b04a",
-      "correctAnswer": "Arcade Fire",
-      "incorrectAnswers": [
-        "Coldplay",
-        "Radiohead",
-        "The Killers"
-      ],
-      "question": {
-        "text": "In 2007, which Montreal group released the album 'Neon Bible'?"
-      },
-      "tags": [
-        "bands",
-        "music",
-        "music_albums"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Their acclaimed debut album was titled Funeral.",
-      "explanation": "Arcade Fire's second studio album, Neon Bible, includes the songs “Keep the Car Running” and “Intervention.”"
-    },
-    {
-      "category": "film_and_tv",
-      "id": "645bc180f09106226db2359e",
-      "correctAnswer": "Soccer",
-      "incorrectAnswers": [
-        "Baseball",
-        "Basketball",
-        "Hockey"
-      ],
-      "question": {
-        "text": "In the 1992 film \"Ladybugs\", a flustered Rodney Dangerfield coached a girls' team in which sport?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The players tried to score by kicking a ball past a goalkeeper and into a net.",
-      "explanation": "Soccer is the sport in Ladybugs; Dangerfield's character secretly has his fiancée's son play on the girls' team."
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950fed",
-      "correctAnswer": "Hippopotamus",
-      "incorrectAnswers": [
-        "Elephant",
-        "Rhinoceros",
-        "American Bison"
-      ],
-      "question": {
-        "text": "Which Is The Second Heaviest Land Animal?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This massive African mammal spends much of the day submerged in rivers and lakes."
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6adf168ec588a7840e634e59",
-      "correctAnswer": "Wilhelm scream",
-      "incorrectAnswers": [
-        "Howie scream",
-        "Castle thunder",
-        "Goofy holler"
-      ],
-      "question": {
-        "text": "What name is given to the stock sound effect of a man screaming, heard in 'Star Wars' and countless other films?"
-      },
-      "tags": [
-        "wilhelm scream",
-        "sound effects"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its name comes from a character in the 1953 Western The Charge at Feather River.",
-      "explanation": "The Wilhelm scream was first heard in the 1951 film Distant Drums and became one of cinema’s most reused sound effects."
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa65",
-      "correctAnswer": "Christoph Waltz",
-      "incorrectAnswers": [
-        "Alan Arkin",
-        "Robert De Niro",
-        "Philip Seymour Hoffman"
-      ],
-      "question": {
-        "text": "Who won the 2012 Academy Award for Best Supporting Actor for playing the role of Dr. King Schultz in Django Unchained?"
-      },
-      "tags": [
-        "academy_awards",
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "He also won an Oscar for playing Hans Landa in another Quentin Tarantino film.",
-      "explanation": "Christoph Waltz's win was his second supporting-actor Oscar; his first came for Tarantino's Inglourious Basterds."
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950098",
-      "correctAnswer": "Houston",
-      "incorrectAnswers": [
-        "Atlanta",
-        "Settle",
-        "Miami"
-      ],
-      "question": {
-        "text": "The Rockets Basketball Team & The Astros Baseball Team Both Hail From Which US City?"
-      },
-      "tags": [
-        "sport",
-        "usa"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "NASA's Mission Control Center is based in the same Texas city.",
-      "explanation": "Houston is also home to NASA's Johnson Space Center, which has served as mission control for crewed spaceflights."
-    },
-    {
-      "category": "science",
-      "id": "624333d2cfaae40c12961407",
-      "correctAnswer": "A Calf",
-      "incorrectAnswers": [
-        "An Owlet",
-        "A Maggot",
-        "An Infant"
-      ],
-      "question": {
-        "text": "What would you call a baby elephant?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The young of cattle and whales are known by the same term.",
-      "explanation": "A baby elephant is called a calf. An elephant pregnancy lasts about 22 months, among the longest of any land animal."
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62399f1aaf96521963a0871a",
-      "correctAnswer": "Brazil",
-      "incorrectAnswers": [
-        "France",
-        "Italy",
-        "West Germany"
-      ],
-      "question": {
-        "text": "Which country won the 1958 FIFA World Cup, hosted in Sweden?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "A teenage Pelé helped this South American side win its first world title.",
-      "explanation": "Brazil beat host nation Sweden 5–2 in the final, earning its first World Cup title."
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f9503f1",
-      "correctAnswer": "All Born On Christmas Day",
-      "incorrectAnswers": [
-        "All British Nobility",
-        "All Died By Drowning",
-        "All Related To Each Other (by blood)"
-      ],
-      "question": {
-        "text": "What Connects Kenny Everett, Annie Lennox, And Sir Isaac Newton?"
-      },
-      "tags": [
-        "people",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The annual holiday associated with decorated evergreens and gift-giving is the key to their shared date.",
-      "explanation": "All Born On Christmas Day: Everett and Lennox were born on December 25. Newton's December 25, 1642, birthday was recorded in the Julian calendar; in the Gregorian calendar, it was January 4, 1643."
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c6168badf21197f98f77a",
-      "correctAnswer": "Ndolé",
-      "incorrectAnswers": [
-        "Ambuyat",
-        "Borscht",
-        "Plov"
-      ],
-      "question": {
-        "text": "Which of these dishes is most associated with Cameroon?"
-      },
-      "tags": [
-        "food",
-        "africa",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This Cameroonian stew is known for its bitter leaves and rich peanut sauce.",
-      "explanation": "Ndolé is a Cameroonian dish made with bitterleaf and groundnuts; meat or seafood is often added."
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f95102c",
-      "correctAnswer": "Talus",
-      "incorrectAnswers": [
-        "Tibia",
-        "Fibia",
-        "Metatarsal"
-      ],
-      "question": {
-        "text": "What is the second largest bone in the foot?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It sits atop the heel bone and forms part of the ankle joint.",
-      "explanation": "The talus sits between the lower leg and the heel bone, transferring body weight into the foot. The calcaneus, or heel bone, is the foot’s largest bone."
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950472",
-      "correctAnswer": "friction and lubrication",
-      "incorrectAnswers": [
-        "cetaceans - whales, dolphins, and porpoise",
-        "the ecological interrelationships among communities of organisms",
-        "the process of human psychological evolution"
-      ],
-      "question": {
-        "text": "What is Tribology the study of?"
-      },
-      "tags": [
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This field helps engineers reduce wear in moving machine parts."
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501c1",
-      "correctAnswer": "Harry Potter and the Half-Blood Prince",
-      "incorrectAnswers": [
-        "Harry Potter and the Philosopher's Stone",
-        "Harry Potter and the Prisoner of Azkaban",
-        "Harry Potter and the Goblet of Fire"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'It was nearing midnight and the Prime Minister was sitting alone in his office, reading a long memo that was slipping through his brain without leaving the lightest trace of meaning behind.'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This is the sixth novel in the series, and its opening chapter features the British Prime Minister.",
-      "explanation": "Harry Potter and the Half-Blood Prince is the sixth novel in J.K. Rowling's series. Its opening chapter shows the Muggle prime minister learning about turmoil in the wizarding world."
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d250f96c4efe8d773a9",
-      "correctAnswer": "Houston Rockets",
-      "incorrectAnswers": [
-        "Houston Thunder",
-        "Houston A's",
-        "Houston Sounders"
-      ],
-      "question": {
-        "text": "Which of these is a basketball team based in Houston?"
-      },
-      "tags": [
-        "basketball",
-        "nba",
-        "usa",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Houston's identity as “Space City” is reflected in the name of its NBA team.",
-      "explanation": "The Houston Rockets play in the NBA, and their name reflects Houston's association with space exploration."
+      "hint": "His shining hall, Glitnir, was where disputes were settled.",
+      "explanation": "Forseti was said to hold court in Glitnir, settling disputes among gods and humans."
     },
     {
       "category": "history",
-      "id": "62611fc04b176d54800e3d6e",
-      "correctAnswer": "1937",
+      "id": "622a1c3d7cc59eab6f951c0c",
+      "correctAnswer": "Atlanta",
       "incorrectAnswers": [
-        "1910",
-        "1919",
-        "1928"
+        "Dallas",
+        "Houston",
+        "Columbus"
       ],
       "question": {
-        "text": "When was the first blood bank opened?"
+        "text": "Which city was burned by General Sherman in 1864?"
       },
       "tags": [
-        "events",
-        "firsts",
-        "medicine",
         "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "The pioneering facility opened at a Chicago hospital during the late 1930s.",
-      "explanation": "The first blood bank opened in 1937 at Cook County Hospital in Chicago, established by physician Bernard Fantus."
+      "hint": "This Georgia rail hub fell to Union forces before Sherman began his March to the Sea.",
+      "explanation": "Atlanta was an important Confederate rail and supply center. Sherman’s forces captured it in September 1864 and burned much of the city before beginning the March to the Sea."
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3c7cc59eab6f951896",
-      "correctAnswer": "Lewis Carrol",
+      "category": "history",
+      "id": "622a1c347cc59eab6f94f9e5",
+      "correctAnswer": "Calvin Coolidge",
       "incorrectAnswers": [
-        "Charles Dickens",
-        "T. S. Elliot",
-        "Thomas Hardy"
+        "Martin Van Buren ",
+        "Grover Cleveland",
+        "Rutherford B. Hayes"
       ],
       "question": {
-        "text": "What was the pen name of author Charles Lutwidge Dodgson?"
+        "text": "Who was the 30th president of the USA, in term during the period 1923–1929?"
       },
       "tags": [
-        "literature",
-        "people",
-        "pseudonyms",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417ceb0f96c4efe8d77392",
-      "correctAnswer": "Chicago Fire",
-      "incorrectAnswers": [
-        "Chicago FC",
-        "Chicago Rangers",
-        "Chicago Marlins"
-      ],
-      "question": {
-        "text": "Which of these is a soccer team based in Chicago?"
-      },
-      "tags": [
-        "soccer",
-        "sport"
+        "presidents",
+        "usa",
+        "1920's",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Its name recalls a devastating 19th-century event in the city's history.",
-      "explanation": "Chicago Fire joined Major League Soccer in 1998 and takes its name from the Great Chicago Fire of 1871."
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f7f",
-      "correctAnswer": "Agatha Christie",
-      "incorrectAnswers": [
-        "Robert Louis Stevenson",
-        "Charles Dickens",
-        "Lewis Carroll"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Labours of Hercules'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The author's famous Belgian detective, Hercule Poirot, appears in this collection.",
-      "explanation": "Agatha Christie structured the twelve Poirot stories around the twelve labors of the Greek hero Hercules."
+      "hint": "He became president after Warren G. Harding died and won a full term in the 1924 election.",
+      "explanation": "Calvin Coolidge was nicknamed “Silent Cal” for his reserved manner."
     },
     {
       "category": "geography",
-      "id": "62373599cfe13103f55eb54a",
-      "correctAnswer": "Nicaragua",
+      "id": "622a1c387cc59eab6f950ac4",
+      "correctAnswer": "Latvia",
       "incorrectAnswers": [
-        "Niger",
-        "Nigeria",
-        "Namibia"
+        "Kyrgyzstan",
+        "Tajikistan",
+        "Uzbekistan"
       ],
       "question": {
-        "text": "Which region of the world uses '.ni' at the end of its web addresses?"
+        "text": "Which of these countries borders Russia?"
+      },
+      "tags": [
+        "russia",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Among the Baltic states, the one south of Estonia has a land border with Russia.",
+      "explanation": "Latvia is one of the three Baltic states and also shares a border with Belarus."
+    },
+    {
+      "category": "geography",
+      "id": "623b585cfd6c701a921183b4",
+      "correctAnswer": "Indonesia",
+      "incorrectAnswers": [
+        "Tanzania",
+        "Malta",
+        "Brazil"
+      ],
+      "question": {
+        "text": "In which country would you find the UNESCO World Heritage site of Prambanan?"
       },
       "tags": [
         "geography"
@@ -525,68 +328,112 @@
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "It is the largest country in Central America by area.",
-      "explanation": "Nicaragua's .ni domain reflects its two-letter country code. Managua is the country's capital."
+      "hint": "Prambanan is a major Hindu temple complex on the island of Java.",
+      "explanation": "Indonesia is home to Prambanan, a Hindu temple complex dedicated to Brahma, Vishnu, and Shiva."
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510b1",
-      "correctAnswer": "Ecdysis",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc17",
+      "correctAnswer": "\"A boy's best friend is his mother.\"",
       "incorrectAnswers": [
-        "Descaling",
-        "Poreolasis",
-        "Unsheathing"
+        "\"I'll have what she's having.\"",
+        "\"I love lamp.\"",
+        "\"Snap out of it!\""
       ],
       "question": {
-        "text": "The process of a snake shedding its skin or a crustacean casting off its outer shell is called __________"
+        "text": "Which of these quotes is from the film 'Psycho'?"
       },
       "tags": [
-        "animals",
-        "biology",
-        "words",
-        "science"
+        "quotes",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "A rigid exoskeleton limits growth, so many arthropods periodically renew their outer covering.",
-      "explanation": "Ecdysis lets arthropods grow by replacing their rigid exoskeleton; snakes also shed their outer skin."
+      "hint": "Norman Bates delivers that remark during a conversation about family.",
+      "explanation": "Norman Bates says the line to Marion Crane during their conversation at the Bates Motel, hinting at the family dynamic behind the film’s suspense."
     },
     {
-      "category": "history",
-      "id": "639c9dbc929b90846f2fc9aa",
-      "correctAnswer": "1967",
+      "category": "geography",
+      "id": "62374109cb85f7ce9e949d3c",
+      "correctAnswer": "Bishkek",
       "incorrectAnswers": [
-        "1922",
-        "1869",
-        "1894"
+        "Thimphu",
+        "Tbilisi",
+        "Managua"
       ],
       "question": {
-        "text": "In which year did the Six-Day War take place?"
+        "text": "What is the capital city of Kyrgyzstan?"
       },
       "tags": [
-        "history",
-        "wars"
+        "capital_cities",
+        "cities",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "That year also saw Israel capture East Jerusalem, the West Bank, Gaza, the Sinai Peninsula, and the Golan Heights.",
-      "explanation": "The Six-Day War took place in 1967. That year also saw the Summer of Love and the launch of Rolling Stone magazine."
+      "hint": "Its name was Frunze during the Soviet era.",
+      "explanation": "Bishkek was known as Frunze during much of the Soviet era and regained its current name in 1991."
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f2c",
-      "correctAnswer": "Hans Christian Andersen",
+      "id": "622a1c397cc59eab6f950ed3",
+      "correctAnswer": "Walter Scott",
       "incorrectAnswers": [
-        "Beatrix Potter",
-        "Søren Kierkegaard",
-        "Oscar Wilde"
+        "Oscar Wilde",
+        "J. R. R. Tolkien",
+        "Alphonse Daudet"
       ],
       "question": {
-        "text": "Which author wrote 'The Steadfast Tin Soldier'?"
+        "text": "Which author wrote 'The Heart of Midlothian'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The same novelist wrote Ivanhoe and Rob Roy.",
+      "explanation": "Walter Scott's novel belongs to his Waverley series, which was initially published anonymously."
+    },
+    {
+      "category": "history",
+      "id": "622a1c377cc59eab6f950432",
+      "correctAnswer": "New Zealand",
+      "incorrectAnswers": [
+        "France",
+        "Switzerland",
+        "Canada"
+      ],
+      "question": {
+        "text": "In 1893, which country was the first to give women the vote?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This island nation lies in the southwestern Pacific, southeast of Australia.",
+      "explanation": "New Zealand’s 1893 Electoral Act enfranchised women, making it the first self-governing country to do so. Women could not stand for Parliament there until 1919."
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950dd0",
+      "correctAnswer": "Dmitry Glukhovsky",
+      "incorrectAnswers": [
+        "Salman Rushdie",
+        "Agatha Christie",
+        "Stephenie Meyer"
+      ],
+      "question": {
+        "text": "Which author wrote 'Metro 2033'?"
       },
       "tags": [
         "literature",
@@ -596,69 +443,88 @@
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "The same Danish storyteller created The Little Mermaid and The Ugly Duckling.",
-      "explanation": "Hans Christian Andersen's tale was first published in 1838."
+      "hint": "The author is a Russian journalist and novelist.",
+      "explanation": "Dmitry Glukhovsky's novel later inspired a video game series set in the same post-apocalyptic world."
     },
     {
-      "category": "general_knowledge",
-      "id": "64626214ab138b829b81e9be",
-      "correctAnswer": "Reborn",
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950741",
+      "correctAnswer": "Ben Kingsley",
       "incorrectAnswers": [
-        "Returned",
-        "Revolutionary",
-        "Respected"
+        "Kiefer Sutherland",
+        "Michael Douglas",
+        "Josh Brolin"
       ],
       "question": {
-        "text": "The word \"renaissance\" comes from the Old French \"renaistre\", which means what?"
+        "text": "Which actor has featured in films including Iron Man 3 and Schindler's List?"
       },
       "tags": [
-        "history",
-        "society_and_culture",
-        "renaissance",
-        "words"
+        "acting",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Its French root uses a verb for entering life, with a prefix that signals repetition.",
-      "explanation": "Reborn reflects the sense of the French verb renaître: to be born again. The related noun renaissance carries the same idea of renewal."
+      "hint": "He won an Academy Award for portraying Gandhi in the 1982 biographical film.",
+      "explanation": "Ben Kingsley won the Academy Award for Best Actor for his portrayal of Mahatma Gandhi in Gandhi."
     },
     {
-      "category": "science",
-      "id": "62433566cfaae40c129614a4",
-      "correctAnswer": "A Pen",
+      "category": "geography",
+      "id": "6233869862eaad73716a8ce2",
+      "correctAnswer": "Poland ",
       "incorrectAnswers": [
-        "A Jill",
-        "A Ewe",
-        "A Vixen"
+        "South Africa",
+        "Mongolia",
+        "Ireland"
       ],
       "question": {
-        "text": "A female swan is known as what?"
+        "text": "In which country is the city of Plock?"
       },
       "tags": [
-        "animals",
-        "biology",
-        "science"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "The male is called a cob, and the female has a short, matching name.",
-      "explanation": "A pen is a female swan; a male is called a cob, and a young swan is a cygnet."
+      "hint": "The city sits on the Vistula River, west of Warsaw.",
+      "explanation": "Płock is home to a major oil refinery operated by the Polish energy company ORLEN."
+    },
+    {
+      "category": "geography",
+      "id": "6237421acb85f7ce9e949daa",
+      "correctAnswer": "Kingstown",
+      "incorrectAnswers": [
+        "Yamoussoukro",
+        "Manama",
+        "Banjul"
+      ],
+      "question": {
+        "text": "What is the capital city of Saint Vincent and the Grenadines?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The capital lies on the southwestern coast of the island of Saint Vincent.",
+      "explanation": "Kingstown is the country's largest city and its main port."
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c3b7cc59eab6f9513ac",
-      "correctAnswer": "Pride and Prejudice",
+      "id": "622a1c397cc59eab6f950e0c",
+      "correctAnswer": "John Green",
       "incorrectAnswers": [
-        "The Fault in Our Stars",
-        "Ship of Fools",
-        "War and Peace"
+        "Cassandra Clare",
+        "James Fenimore Cooper",
+        "Brandon Sanderson"
       ],
       "question": {
-        "text": "In which book does 'Mr William Collins' appear?"
+        "text": "Which author wrote 'The Fault in Our Stars'?"
       },
       "tags": [
         "arts_and_literature"
@@ -667,32 +533,173 @@
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Its author also created Elizabeth Bennet and Mr Darcy.",
-      "explanation": "Pride and Prejudice is Jane Austen’s novel about the Bennet family; Collins is their clergyman cousin, whose proposal Elizabeth turns down."
+      "hint": "The same young-adult novelist also wrote Looking for Alaska and Paper Towns.",
+      "explanation": "John Green took the novel’s title from a line in Shakespeare’s Julius Caesar: “The fault, dear Brutus, is not in our stars.”"
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506ec",
-      "correctAnswer": "Amy Adams",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e15",
+      "correctAnswer": "Marquis de Sade",
       "incorrectAnswers": [
-        "Penélope Cruz",
-        "Emma Thompson",
-        "Kirsten Dunst"
+        "Nikolai Gogol",
+        "J. R. R. Tolkien",
+        "Virginia Woolf"
       ],
       "question": {
-        "text": "Which actress has starred in both Batman v Superman: Dawn of Justice and American Hustle?"
+        "text": "Which author wrote 'The 120 Days of Sodom'?"
       },
       "tags": [
-        "film_and_tv",
-        "acting",
-        "film"
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "She played Lois Lane in the superhero film and a con artist alongside Christian Bale in the crime drama.",
-      "explanation": "Amy Adams received an Academy Award nomination for her supporting role in American Hustle."
+      "hint": "A French nobleman's name later became the root of a term associated with cruelty and sexual gratification.",
+      "explanation": "Marquis de Sade wrote the novel while imprisoned in the Bastille."
+    },
+    {
+      "category": "history",
+      "id": "62611f904b176d54800e3d61",
+      "correctAnswer": "1958",
+      "incorrectAnswers": [
+        "1934",
+        "1942",
+        "1971"
+      ],
+      "question": {
+        "text": "When was the pacemaker invented?"
+      },
+      "tags": [
+        "events",
+        "medicine",
+        "inventions",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "649fcf8eebb41911d4cbd6df",
+      "correctAnswer": "Spain",
+      "incorrectAnswers": [
+        "Mexico",
+        "Portugal",
+        "France"
+      ],
+      "question": {
+        "text": "The world's first leaning skyscrapers, Puerto de Europa, can be found in which country?"
+      },
+      "tags": [
+        "architecture",
+        "buildings",
+        "skyscrapers",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "These landmark towers stand in Madrid, the country's capital.",
+      "explanation": "Spain's twin Puerta de Europa towers stand in Madrid and are also known as the KIO Towers; each leans inward at about 15 degrees."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "63dd25de742e43ed64f1f03a",
+      "correctAnswer": "George Costanza",
+      "incorrectAnswers": [
+        "Kramer",
+        "Elaine Benes",
+        "Jerry Seinfeld"
+      ],
+      "question": {
+        "text": "What is the name of the character played by Jason Alexander on the show 'Seinfeld'?"
+      },
+      "tags": [
+        "film_and_tv",
+        "tv",
+        "sitcoms"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Jason Alexander played the neurotic, often scheming member of the show's core group.",
+      "explanation": "George Costanza was modeled in part on Seinfeld co-creator Larry David."
+    },
+    {
+      "category": "history",
+      "id": "62611fd8014f58b5fc1a3fd1",
+      "correctAnswer": "1996",
+      "incorrectAnswers": [
+        "1986",
+        "1991",
+        "2001"
+      ],
+      "question": {
+        "text": "In which year was a mammal first cloned?"
+      },
+      "tags": [
+        "events",
+        "firsts",
+        "animals",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "645f94ec541c4d4fc8cf2e71",
+      "correctAnswer": "Emilio Estevez",
+      "incorrectAnswers": [
+        "Martin Sheen",
+        "Joe Estevez",
+        "Christian Slater"
+      ],
+      "question": {
+        "text": "What is the name of the older brother of Charlie Sheen who made his feature film debut in \"Tex\" at the age of 20?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv",
+        "acting",
+        "siblings"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He played athlete Andrew Clark in the teen film The Breakfast Club.",
+      "explanation": "Emilio Estevez wrote and directed The Way, a film starring his father, Martin Sheen."
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f45",
+      "correctAnswer": "Edgar Allan Poe",
+      "incorrectAnswers": [
+        "Stephen King",
+        "Nathaniel Hawthorne",
+        "Mario Puzo"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Fall of the House of Usher'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The same American writer created detective C. Auguste Dupin and wrote “The Raven.”",
+      "explanation": "Edgar Allan Poe’s Gothic story was first published in 1839 and centers on a decaying mansion and the family who lives there."
     }
   ]
 }
