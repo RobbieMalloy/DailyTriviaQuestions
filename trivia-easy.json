@@ -1,40 +1,18 @@
 {
-  "gameDate": "2026-11-10",
+  "gameDate": "2026-11-11",
   "difficulty": "easy",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502a0",
-      "correctAnswer": "Dr Pepper ",
-      "incorrectAnswers": [
-        "Lucozade",
-        "Tango",
-        "Sunny Delight"
-      ],
-      "question": {
-        "text": "What soft drink is advertised with the slogan, \"What's the worst that could happen\"?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its distinctive taste is famously described as a blend of 23 flavors.",
-      "explanation": "Dr Pepper was first served at a drugstore in Waco, Texas, in 1885."
-    },
-    {
       "category": "science",
-      "id": "65056e897a97013de78b5306",
-      "correctAnswer": "Armadillo",
+      "id": "65056efa7a97013de78b53a3",
+      "correctAnswer": "Freezing",
       "incorrectAnswers": [
-        "Pangolin",
-        "Hedgehog",
-        "Sloth"
+        "Melting",
+        "Boiling",
+        "Condensation"
       ],
       "question": {
-        "text": "Which armoured mammal is native to the Americas?"
+        "text": "What is the transition from liquid to solid phase?"
       },
       "tags": [
         "science"
@@ -43,518 +21,637 @@
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Its range extends from the southern United States through much of South America.",
-      "explanation": "Armadillos have bony plates beneath their skin that form a protective covering."
+      "hint": "Water undergoes this change when it becomes ice.",
+      "explanation": "Freezing is the reverse of melting; boiling and condensation are phase changes involving a gas."
     },
     {
       "category": "science",
-      "id": "65056f0e7a97013de78b53c0",
-      "correctAnswer": "Blood",
+      "id": "622a1c3e7cc59eab6f9522cb",
+      "correctAnswer": "Hydroponics",
       "incorrectAnswers": [
-        "Bones",
-        "Memory",
-        "Posture"
+        "Aquonics",
+        "Horticulture",
+        "Waterculture"
       ],
       "question": {
-        "text": "What do hematologists study?"
+        "text": "What is the name given to the practice of growing plants in liquids rather than soil?"
       },
       "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The field focuses on red and white cells, platelets, and clotting.",
-      "explanation": "Hematology also covers blood-forming tissues such as bone marrow and disorders such as anemia."
-    },
-    {
-      "category": "science",
-      "id": "65056f837a97013de78b5464",
-      "correctAnswer": "Megabyte",
-      "incorrectAnswers": [
-        "Kilobyte",
-        "Gigabyte",
-        "Terabyte"
-      ],
-      "question": {
-        "text": "What does MB stand for?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Photos and documents are often measured at this scale of digital storage.",
-      "explanation": "A megabyte is a unit of digital information; depending on the convention, it represents 1,000,000 or 1,048,576 bytes."
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056e8c7a97013de78b530a",
-      "correctAnswer": "Climax",
-      "incorrectAnswers": [
-        "Denouement",
-        "Rising action",
-        "Exposition"
-      ],
-      "question": {
-        "text": "What is the term for the turning point of the action in the plot of a play or story?"
-      },
-      "tags": [
-        "literature",
-        "drama",
-        "plot"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It comes after tension builds and before the consequences are resolved.",
-      "explanation": "The climax is the story’s high point; exposition sets up the context, rising action builds toward it, and denouement brings events to a close."
-    },
-    {
-      "category": "food_and_drink",
-      "id": "646140784d46e537ca8cd9c8",
-      "correctAnswer": "Peanuts",
-      "incorrectAnswers": [
-        "Lentils",
-        "Black beans",
-        "Chickpeas"
-      ],
-      "question": {
-        "text": "Which of these is a major food allergen?"
-      },
-      "tags": [
-        "nutrition",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It is often ground into a creamy spread eaten on sandwiches.",
-      "explanation": "Peanuts are legumes, not true tree nuts, though they can cause serious allergic reactions."
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3d7cc59eab6f951cba",
-      "correctAnswer": "A Partridge In A Pear Tree",
-      "incorrectAnswers": [
-        "5 Gold Rings",
-        "A Turtle Dove",
-        "True Love"
-      ],
-      "question": {
-        "text": "What did 'my true love give to me' on the first day of Christmas?"
-      },
-      "tags": [
-        "christmas",
-        "lyrics",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The opening gift combines a living creature with something found in an orchard.",
-      "explanation": "A Partridge in a Pear Tree is the gift in the carol’s opening verse. Each succeeding verse adds gifts while repeating those already named."
-    },
-    {
-      "category": "science",
-      "id": "650570027a97013de78b5511",
-      "correctAnswer": "2",
-      "incorrectAnswers": [
-        "8",
-        "None",
-        "4"
-      ],
-      "question": {
-        "text": "How many eyes does a king cobra have?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Like other snakes, its eyes sit on opposite sides of its head.",
-      "explanation": "A king cobra has two eyes, one on each side of its head; a clear scale called a spectacle covers each eye."
-    },
-    {
-      "category": "science",
-      "id": "65056fad7a97013de78b549a",
-      "correctAnswer": "Fission",
-      "incorrectAnswers": [
-        "Fusion",
-        "Combustion",
-        "Radioactive decay"
-      ],
-      "question": {
-        "text": "Which nuclear process occurs inside an atomic bomb?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Uranium-235 and plutonium-239 are common fuels in this kind of weapon.",
-      "explanation": "Fission releases energy when heavy atomic nuclei break into lighter ones, producing neutrons that can trigger further reactions in a rapidly growing chain."
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64746b6f5a4c31088dd9d054",
-      "correctAnswer": "Think Different",
-      "incorrectAnswers": [
-        "Just Do It",
-        "I'm Lovin' It",
-        "Got Milk?"
-      ],
-      "question": {
-        "text": "After rejoining Apple in 1997, Steve Jobs engineered what ad campaign?"
-      },
-      "tags": [
-        "advertising",
-        "technology",
-        "business",
-        "marketing",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its ads celebrated innovators such as Albert Einstein, Mahatma Gandhi, and Pablo Picasso.",
-      "explanation": "Think Different used portraits of figures such as Albert Einstein and Martin Luther King Jr. to link Apple with creativity and nonconformity."
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe7a",
-      "correctAnswer": "Lady Gaga",
-      "incorrectAnswers": [
-        "Hikaru Utada",
-        "Drake",
-        "Madonna"
-      ],
-      "question": {
-        "text": "Which American singer, songwriter, and actress released the song 'Just Dance'?"
-      },
-      "tags": [
-        "songs",
-        "musicians",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "She later became known for hits like 'Poker Face' and 'Bad Romance.'",
-      "explanation": "Lady Gaga's debut single features guest vocals from Colby O'Donis."
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3c7cc59eab6f951954",
-      "correctAnswer": "Pigs in blankets",
-      "incorrectAnswers": [
-        "Little weiners",
-        "Swine rolls",
-        "Porkos"
-      ],
-      "question": {
-        "text": "What is the popular name for little baked sausages wrapped in rashers of streaky bacon?"
-      },
-      "tags": [
-        "food",
-        "names",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "In Britain, they are a traditional accompaniment to Christmas dinner, often served alongside roast turkey.",
-      "explanation": "In the UK, pigs in blankets are a Christmas dinner favorite; in the US, the same name often refers to sausages wrapped in pastry."
-    },
-    {
-      "category": "science",
-      "id": "645b4f1f067ef798d1455087",
-      "correctAnswer": "DNA",
-      "incorrectAnswers": [
-        "GCI",
-        "ATP",
-        "COD"
-      ],
-      "question": {
-        "text": "What is the abbreviation for the polymer that carries genetic instructions for living cells?"
-      },
-      "tags": [
-        "biology",
-        "chemistry",
-        "genetics",
+        "plants",
         "science",
-        "initials"
+        "words"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Its famous double-helix shape stores hereditary instructions in cells.",
-      "explanation": "DNA’s two strands twist into a double helix, and sequences of its chemical bases encode inherited information."
+      "hint": "The term combines a Greek-derived word for water with one for labor.",
+      "explanation": "Hydroponics supplies plant roots with nutrients through a water-based solution. The name combines Greek roots meaning “water” and “labor.”"
     },
     {
-      "category": "sport_and_leisure",
-      "id": "64626286ab138b829b81ea07",
-      "correctAnswer": "Javelin",
+      "category": "society_and_culture",
+      "id": "6293ece67f41d6338b96ef13",
+      "correctAnswer": "Menes",
       "incorrectAnswers": [
-        "Shot put",
-        "Discus",
-        "Hammer throw"
+        "Rene Descartes",
+        "Imhotep",
+        "Diogenes"
       ],
       "question": {
-        "text": "Which Olympic sport involves throwing a spear?"
+        "text": "Which influential historical person was an Egyptian pharaoh who united Upper and Lower Egypt to found the First Dynasty?"
       },
       "tags": [
-        "athletics",
-        "olympics",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Athletes build speed along a runway before launching a long, narrow implement that must land point-first.",
-      "explanation": "A throw counts only if the javelin’s metal head strikes the ground before any other part."
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "63a03970c7d86251f9b65c59",
-      "correctAnswer": "Hey Diddle Diddle",
-      "incorrectAnswers": [
-        "Humpty Dumpty",
-        "Mary Had a Little Lamb",
-        "Baa Baa Black Sheep"
-      ],
-      "question": {
-        "text": "What nursery rhyme includes a cow jumping over the moon?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "nursery_rhymes"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "A dish and a spoon also run away together in this nonsensical verse.",
-      "explanation": "Hey Diddle Diddle is a whimsical verse that also features a cat playing a fiddle and a dish and spoon running away."
-    },
-    {
-      "category": "science",
-      "id": "65056e447a97013de78b52a5",
-      "correctAnswer": "Venom",
-      "incorrectAnswers": [
-        "Stare",
-        "Shock",
-        "Persuasion"
-      ],
-      "question": {
-        "text": "What does the king cobra use to kill its prey?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its long fangs inject a substance that can paralyze prey.",
-      "explanation": "King cobra venom contains neurotoxins that interfere with nerve signaling and can cause paralysis."
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d02",
-      "correctAnswer": "The Beatles",
-      "incorrectAnswers": [
-        "The Rolling Stones",
-        "The Kinks",
-        "The Who"
-      ],
-      "question": {
-        "text": "Which English rock band released the song 'Yellow Submarine'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The band's drummer, Ringo Starr, sings lead on this song.",
-      "explanation": "The Beatles' 1966 recording later became the title track of their animated film, released in 1968."
-    },
-    {
-      "category": "food_and_drink",
-      "id": "631e50a1a11f90a3bf2a3bf9",
-      "correctAnswer": "Green",
-      "incorrectAnswers": [
-        "Red",
-        "Blue",
-        "Purple"
-      ],
-      "question": {
-        "text": "What colour is wasabi?"
-      },
-      "tags": [
-        "food",
-        "colours",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its usual hue matches the color of fresh grass.",
-      "explanation": "Green wasabi is traditionally made by grating the plant’s rhizome; many commercial pastes rely mostly on horseradish and mustard."
-    },
-    {
-      "category": "science",
-      "id": "6462628cab138b829b81ea35",
-      "correctAnswer": "The Moon",
-      "incorrectAnswers": [
-        "The Sun",
-        "Halley's Comet",
-        "Mars"
-      ],
-      "question": {
-        "text": "What celestial object was the first for humankind to set foot on?"
-      },
-      "tags": [
-        "astronomy",
-        "space",
-        "the_space_race",
-        "space_exploration",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Apollo 11 carried the first astronauts to land on Earth's natural satellite.",
-      "explanation": "The Moon was reached by Apollo 11 in 1969, when Neil Armstrong and Buzz Aldrin became the first people to walk on its surface."
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fea3",
-      "correctAnswer": "Elton John",
-      "incorrectAnswers": [
-        "Rod Stewart",
-        "Sting",
-        "Phil Collins"
-      ],
-      "question": {
-        "text": "Which English singer-songwriter released the song 'Rocket Man'?"
-      },
-      "tags": [
-        "songs",
-        "musicians",
         "people",
-        "general_knowledge",
-        "music"
+        "history",
+        "society_and_culture",
+        "ancient_egypt"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "His long-running songwriting partnership with Bernie Taupin produced many of his best-known hits.",
-      "explanation": "Elton John released the song in 1972; its full title is “Rocket Man (I Think It’s Going to Be a Long, Long Time).”"
+      "hint": "He is often identified with Narmer, whose ceremonial palette depicts Egypt’s unification.",
+      "explanation": "Menes is commonly identified with Narmer, though some Egyptologists identify him with Hor-Aha, so the historical attribution remains debated."
     },
     {
       "category": "history",
-      "id": "639ae2d7929b90846f2fc8bb",
-      "correctAnswer": "Raiding",
+      "id": "622a1c3c7cc59eab6f951a08",
+      "correctAnswer": "Holocaust",
       "incorrectAnswers": [
-        "Exploration",
-        "Migration",
-        "Trade"
+        "Auchterarder",
+        "Blitzkrieg",
+        "Luftwaffe"
       ],
       "question": {
-        "text": "What is the name of the Viking practice of sailing off to unknown lands in search of riches and glory?"
+        "text": "Which word describes the Nazi genocide of Jews?"
       },
       "tags": [
-        "history",
-        "vikings"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6acb19f8fca2905181ea8a26",
-      "correctAnswer": "Columbia",
-      "incorrectAnswers": [
-        "Challenger",
-        "Discovery",
-        "Atlantis"
-      ],
-      "question": {
-        "text": "Which American space shuttle broke apart while re-entering the atmosphere in 2003?"
-      },
-      "tags": [
-        "space-shuttle",
-        "nasa"
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "It was NASA’s first space-rated shuttle orbiter.",
-      "explanation": "Columbia was lost after launch damage compromised its thermal protection, allowing extreme heat to destroy the orbiter during re-entry."
+      "hint": "A landmark 1978 American television miniseries about the genocide helped popularize this term.",
+      "explanation": "Holocaust derives from a Greek term for a sacrifice burned whole; its use for the Nazi genocide became widespread in the 20th century."
+    },
+    {
+      "category": "science",
+      "id": "65056fe17a97013de78b54e2",
+      "correctAnswer": "Sun",
+      "incorrectAnswers": [
+        "Moon",
+        "Venus",
+        "Alpha Centauri"
+      ],
+      "question": {
+        "text": "What is Earth's primary source of energy?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It is the star at the center of our planetary system.",
+      "explanation": "The Sun supplies most of the energy reaching Earth, warming the planet and powering processes such as weather and photosynthesis."
+    },
+    {
+      "category": "geography",
+      "id": "62602e034b176d54800e3cbb",
+      "correctAnswer": "Bilbao",
+      "incorrectAnswers": [
+        "Dublin",
+        "Stuttgart",
+        "Cologne"
+      ],
+      "question": {
+        "text": "Which of these cities is in Spain?"
+      },
+      "tags": [
+        "cities",
+        "europe",
+        "spain",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It is a major city in the Basque Country, near Spain’s northern coast.",
+      "explanation": "Bilbao is in northern Spain. Its Guggenheim Museum, which opened in 1997, is known for Frank Gehry's sculptural design."
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d11",
+      "correctAnswer": "The Beatles",
+      "incorrectAnswers": [
+        "The Who",
+        "The Clash",
+        "Pink Floyd"
+      ],
+      "question": {
+        "text": "Which English rock band released the song 'Here Comes the Sun'?"
+      },
+      "tags": [
+        "rock_music",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "George Harrison wrote this acoustic song while visiting Eric Clapton's garden.",
+      "explanation": "George Harrison wrote and sang the song. It appeared on Abbey Road, the last album the band recorded."
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "6463391401d576cfac3aa316",
+      "correctAnswer": "Curds & Whey",
+      "incorrectAnswers": [
+        "Bread & Butter",
+        "Neaps & Tatties",
+        "Apples & Pears"
+      ],
+      "question": {
+        "text": "In \"Little Miss Muffet\", what are the two foods being consumed by Miss Muffet when the spider frightens her?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink",
+        "nursery_rhymes",
+        "society_and_culture",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The pair comes from milk: one is the solid part, the other the liquid left behind when milk separates.",
+      "explanation": "Curds are the solid part of curdled milk, while whey is the liquid that separates from it."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "627164241ba117625baac94a",
+      "correctAnswer": "Scotland",
+      "incorrectAnswers": [
+        "Italy",
+        "Romania",
+        "Mexico"
+      ],
+      "question": {
+        "text": "Which country is associated with the drink whisky?"
+      },
+      "tags": [
+        "drink",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its whisky is traditionally spelled without an “e,” unlike the common Irish and American spelling.",
+      "explanation": "Scotland's whisky is often associated with regions such as Islay and Speyside, whose whiskies can have distinctive styles."
+    },
+    {
+      "category": "geography",
+      "id": "622a1c3e7cc59eab6f95222a",
+      "correctAnswer": "Texas",
+      "incorrectAnswers": [
+        "Florida",
+        "Michigan",
+        "California"
+      ],
+      "question": {
+        "text": "In which US state is the Houston Space Centre?"
+      },
+      "tags": [
+        "geography",
+        "places",
+        "usa"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This state is nicknamed the Lone Star State.",
+      "explanation": "Texas is home to NASA’s Johnson Space Center, and Space Center Houston is its public visitor center."
+    },
+    {
+      "category": "science",
+      "id": "65056e537a97013de78b52bb",
+      "correctAnswer": "Dodo",
+      "incorrectAnswers": [
+        "Owl",
+        "Finch",
+        "Black stork"
+      ],
+      "question": {
+        "text": "Which of these birds is extinct?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This large flightless bird was native to the Indian Ocean island of Mauritius.",
+      "explanation": "The Dodo lived only on Mauritius; hunting and animals introduced by people contributed to its extinction."
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95031c",
+      "correctAnswer": "Boudica",
+      "incorrectAnswers": [
+        "Joan of Arc",
+        "Zenobia",
+        "Fulvia"
+      ],
+      "question": {
+        "text": "Who Was the Queen Of The Iceni Tribe Of England Who Led An Uprising Against The Romans?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Her revolt followed Roman authorities' seizure of the Iceni kingdom after her husband's death.",
+      "explanation": "Boudica’s forces also destroyed Verulamium, another Roman settlement in Britain."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "63b0588a4799123c67712f56",
+      "correctAnswer": "Corona",
+      "incorrectAnswers": [
+        "Budweiser",
+        "Coors",
+        "Heineken"
+      ],
+      "question": {
+        "text": "Which of these is a popular Mexican beer?"
+      },
+      "tags": [
+        "mexico",
+        "drink",
+        "beer",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This Mexican lager is often served with a lime wedge tucked into the bottle.",
+      "explanation": "Corona is brewed in Mexico by Grupo Modelo, which is part of AB InBev."
+    },
+    {
+      "category": "music",
+      "id": "622a1c377cc59eab6f950425",
+      "correctAnswer": "Chestnuts",
+      "incorrectAnswers": [
+        "Mistletoe",
+        "Santa",
+        "Marshmallows"
+      ],
+      "question": {
+        "text": "In the Christmas song what was 'Roasting on an Open Fire'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "They grow inside spiky husks and are a classic winter street snack.",
+      "explanation": "Chestnuts come from trees in the Castanea genus and have long been enjoyed roasted."
+    },
+    {
+      "category": "geography",
+      "id": "65056f767a97013de78b5451",
+      "correctAnswer": "West",
+      "incorrectAnswers": [
+        "North",
+        "South",
+        "East"
+      ],
+      "question": {
+        "text": "What direction is the opposite of East?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The Sun appears to set in this direction.",
+      "explanation": "West is commonly abbreviated W on maps and compasses."
+    },
+    {
+      "category": "geography",
+      "id": "625e9e85796f721e95543f5c",
+      "correctAnswer": "France",
+      "incorrectAnswers": [
+        "Gabon",
+        "Belgium",
+        "Lithuania"
+      ],
+      "question": {
+        "text": "Which of these countries has white on its flag?"
+      },
+      "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its flag is a vertical tricolor of blue, white, and red.",
+      "explanation": "France's blue-white-red tricolor is arranged vertically; the Netherlands uses the same colors in horizontal bands."
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff14",
+      "correctAnswer": "Madonna",
+      "incorrectAnswers": [
+        "Cyndi Lauper",
+        "Kylie Minogue",
+        "Whitney Houston"
+      ],
+      "question": {
+        "text": "The iconic song 'Vogue' was a hit by which musician?"
+      },
+      "tags": [
+        "songs",
+        "musicians",
+        "1980's",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Often called the Queen of Pop, she also starred in Desperately Seeking Susan.",
+      "explanation": "Madonna recorded “Vogue” for the Dick Tracy soundtrack, and its video helped bring voguing from New York ballroom culture to a wider audience."
+    },
+    {
+      "category": "general_knowledge",
+      "id": "65056f587a97013de78b5427",
+      "correctAnswer": "Theater",
+      "incorrectAnswers": [
+        "Ice hockey",
+        "Woodstock",
+        "Trading"
+      ],
+      "question": {
+        "text": "For what is Broadway in Manhattan famous?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The annual Tony Awards recognize many productions staged along this Manhattan avenue.",
+      "explanation": "Broadway theater is closely associated with New York's Theater District near Times Square, and the Tony Awards honor excellence in Broadway productions."
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d48",
+      "correctAnswer": "One Direction",
+      "incorrectAnswers": [
+        "Blur",
+        "The Beatles",
+        "U2"
+      ],
+      "question": {
+        "text": "Which band did Liam Payne belong to?"
+      },
+      "tags": [
+        "people",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He joined four other singers after competing on The X Factor.",
+      "explanation": "One Direction formed on The X Factor in 2010 and became one of the best-selling boy bands of all time."
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95010b",
-      "correctAnswer": "Atlantis",
+      "id": "648614a2f773f09dc0193b3c",
+      "correctAnswer": "Mice",
       "incorrectAnswers": [
-        "Gondwana",
-        "Pangea",
-        "Europa"
+        "Lions",
+        "Dogs",
+        "Monkeys"
       ],
       "question": {
-        "text": "Which ancient continent is said to be submerged?"
+        "text": "Fill in the blank: \"The best-laid schemes of _____ and men.\""
       },
       "tags": [
+        "idioms",
+        "sayings",
+        "phrases",
         "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Plato's dialogues describe it as a powerful island civilization lost beneath the sea.",
-      "explanation": "Atlantis appears in Plato's dialogues Timaeus and Critias as a wealthy power that sank beneath the sea."
+      "hint": "Robert Burns wrote the poem after accidentally disturbing a small animal’s nest while plowing.",
+      "explanation": "Burns’s poem was addressed to a field mouse and later inspired the title of John Steinbeck’s novel Of Mice and Men."
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fadd",
-      "correctAnswer": "Tom Hanks",
+      "id": "625740f69da29df7b05f7405",
+      "correctAnswer": "Rocky",
       "incorrectAnswers": [
-        "Morgan Freeman",
-        "Nigel Hawthorne",
-        "Paul Newman"
+        "Amélie",
+        "The Deer Hunter",
+        "Schindler's List"
       ],
       "question": {
-        "text": "Who won the 1994 Academy Award for Best Leading Actor for playing the role of Forrest Gump in Forrest Gump?"
+        "text": "Name the movie that matches the following plot summary: 'A small-time boxer gets a chance to fight the world heavyweight champion.'"
       },
       "tags": [
-        "academy_awards",
-        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The underdog boxer is nicknamed the Italian Stallion and lives in Philadelphia.",
+      "explanation": "Rocky won the Academy Award for Best Picture, and Sylvester Stallone wrote the screenplay and starred as the title character."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "648889135dba6c873ef650b8",
+      "correctAnswer": "Parsley",
+      "incorrectAnswers": [
+        "Basil",
+        "Oregano",
+        "Thyme"
+      ],
+      "question": {
+        "text": "Which herb is often used as a garnish and comes in curly-leaf and flat-leaf varieties?"
+      },
+      "tags": [
+        "cooking",
+        "herbs",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This leafy herb is a key ingredient in tabbouleh.",
+      "explanation": "Parsley is also a key ingredient in tabbouleh, a Levantine salad, where it is used in much larger quantities than a garnish."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6463395501d576cfac3aa355",
+      "correctAnswer": "Bigfoot",
+      "incorrectAnswers": [
+        "Loch Ness Monster",
+        "Yeti",
+        "Chupacabra"
+      ],
+      "question": {
+        "text": "Which legendary creature is thought to inhabit the forests of North America, standing up to 10 feet tall and weighing about 500 pounds?"
+      },
+      "tags": [
+        "mythology",
+        "legends",
+        "society_and_culture",
+        "usa"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its reported sightings are especially associated with the Pacific Northwest.",
+      "explanation": "Bigfoot’s name comes from the unusually large tracks attributed to the creature."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "646262b8ab138b829b81ea55",
+      "correctAnswer": "Kimono",
+      "incorrectAnswers": [
+        "Cheongsam",
+        "Sari",
+        "Hijab"
+      ],
+      "question": {
+        "text": "What is the Asian-style robe that is often used as a dressing gown?"
+      },
+      "tags": [
+        "clothing",
+        "fashion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "In Japan, this traditional garment is fastened with a broad sash called an obi.",
+      "explanation": "A traditional kimono is wrapped around the body and secured with a wide sash called an obi."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "65056ed77a97013de78b5372",
+      "correctAnswer": "Cranberry",
+      "incorrectAnswers": [
+        "Land cress",
+        "Spinach",
+        "Mustard"
+      ],
+      "question": {
+        "text": "Which of these is a fruit?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This tart red berry is often served as a sauce with turkey.",
+      "explanation": "Cranberries are known for their sharp flavor and are commonly made into juice, sauce, and baked goods."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6adeee97c588a7840e634e2b",
+      "correctAnswer": "Eid al-Fitr",
+      "incorrectAnswers": [
+        "Eid al-Adha",
+        "Mawlid",
+        "Ashura"
+      ],
+      "question": {
+        "text": "Which Islamic festival marks the end of the month of fasting?"
+      },
+      "tags": [
+        "eid",
+        "festivals",
+        "islam"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The month-long fast concludes with a celebration known for communal prayers and sweet treats.",
+      "explanation": "Eid al-Fitr means “festival of breaking the fast” and follows Ramadan."
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951c85",
+      "correctAnswer": "Watergate",
+      "incorrectAnswers": [
+        "Hotelgate",
+        "Croneygate",
+        "Corruptiongate"
+      ],
+      "question": {
+        "text": "What was the name of the scandal that forced President Nixon to resign?"
+      },
+      "tags": [
+        "events",
+        "presidents",
+        "usa",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "A 1972 break-in at the Democratic National Committee's offices in a Washington complex triggered the scandal.",
+      "explanation": "Watergate involved a break-in at Democratic National Committee headquarters and the Nixon administration's efforts to cover it up, leading to Nixon's resignation."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc28",
+      "correctAnswer": "\"My mama always said life was like a box of chocolates. You never know what you're gonna get.\"",
+      "incorrectAnswers": [
+        "\"Very nice!\"",
+        "\"Say hello to my little friend!\"",
+        "\"Nobody makes me bleed my own blood. Nobody!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Forrest Gump'?"
+      },
+      "tags": [
+        "quotes",
         "film",
         "general_knowledge",
         "film_and_tv"
@@ -562,143 +659,56 @@
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
-      "isNiche": false
+      "isNiche": false,
+      "hint": "Forrest recalls this memorable saying as wisdom passed down by his mother.",
+      "explanation": "“My mama always said life was like a box of chocolates. You never know what you're gonna get” is one of Forrest Gump's best-known lines, recalling advice from his mother."
     },
     {
-      "category": "sport_and_leisure",
-      "id": "64e6fd5e0b79e5bedd55c889",
-      "correctAnswer": "The (New York) Yankees",
+      "category": "science",
+      "id": "6243354dcfaae40c1296149a",
+      "correctAnswer": "A Lamb",
       "incorrectAnswers": [
-        "The Boston Red Sox",
-        "The Chicago Cubs",
-        "The Los Angeles Dodgers"
+        "A Maggot",
+        "A Caterpillar",
+        "A Fry"
       ],
       "question": {
-        "text": "In 1999, which team had Mariano Rivera as their closer in the World Series?"
+        "text": "What is a baby sheep known as?"
       },
       "tags": [
-        "baseball",
-        "World Series",
-        "teams"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "The Bronx team had won the two previous World Series, making 1999 the third title in its run.",
-      "explanation": "The Yankees swept the Atlanta Braves, and Rivera was named World Series MVP after allowing no earned runs in the series."
+      "hint": "Its mother is called a ewe, while its father is called a ram.",
+      "explanation": "Sheep are ruminants, and their young are commonly called lambs."
     },
     {
-      "category": "general_knowledge",
-      "id": "6476390bf05ea6d6f587a178",
-      "correctAnswer": "A cascade",
+      "category": "geography",
+      "id": "6237408acb85f7ce9e949d09",
+      "correctAnswer": "Greece",
       "incorrectAnswers": [
-        "A shuffle",
-        "A fountain",
-        "A reverse"
+        "Luxembourg",
+        "Georgia",
+        "Serbia"
       ],
       "question": {
-        "text": "What is the most basic juggling pattern?"
+        "text": "Athens is the capital city of which country?"
       },
       "tags": [
+        "capital_cities",
+        "cities",
         "general_knowledge",
-        "games"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Each toss travels diagonally toward the opposite hand, making this the standard beginner pattern.",
-      "explanation": "A cascade is the standard pattern for juggling an odd number of objects, with each object crossing between the hands."
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056e8e7a97013de78b530d",
-      "correctAnswer": "Grain",
-      "incorrectAnswers": [
-        "Cheese",
-        "Wine",
-        "Butter"
-      ],
-      "question": {
-        "text": "What type of food is barley?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Like wheat and oats, it is harvested for its edible seeds.",
-      "explanation": "Grain is the food category for barley, which is also malted for brewing beer and whiskey."
-    },
-    {
-      "category": "general_knowledge",
-      "id": "65056ef77a97013de78b539f",
-      "correctAnswer": "Adverb",
-      "incorrectAnswers": [
-        "Adjective",
-        "Noun",
-        "Conjunction"
-      ],
-      "question": {
-        "text": "Which part of speech is 'hastily'?"
-      },
-      "tags": [
-        "language",
-        "grammar",
-        "vocabulary"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It often tells how an action is performed.",
-      "explanation": "Hastily means doing something in a rushed manner, so it functions as an adverb modifying an action."
-    },
-    {
-      "category": "science",
-      "id": "65056e9a7a97013de78b531e",
-      "correctAnswer": "Africa",
-      "incorrectAnswers": [
-        "Australia",
-        "Europe",
-        "America"
-      ],
-      "question": {
-        "text": "On which continent are cheetahs native?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "65056ed07a97013de78b5369",
-      "correctAnswer": "3.14",
-      "incorrectAnswers": [
-        "3.41",
-        "4.31",
-        "1.34"
-      ],
-      "question": {
-        "text": "What are the first digits of pi?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It is the ratio of a circle’s circumference to its diameter, rounded to two decimal places.",
-      "explanation": "3.14 is a common approximation of pi, whose decimal digits continue forever without repeating."
+      "hint": "Its blue-and-white flag flies over islands such as Crete and Rhodes.",
+      "explanation": "Greece is often called the birthplace of democracy, which developed in ancient Athens."
     }
   ]
 }

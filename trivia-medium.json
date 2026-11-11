@@ -1,43 +1,122 @@
 {
-  "gameDate": "2026-11-10",
+  "gameDate": "2026-11-11",
   "difficulty": "medium",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502ff",
-      "correctAnswer": "An order of monks ",
+      "category": "society_and_culture",
+      "id": "62ab32cb5202de619af28127",
+      "correctAnswer": "Land Rover",
       "incorrectAnswers": [
-        "An Italian Town",
-        "A type of monkey",
-        "A legendary musician"
+        "Fiat",
+        "Alfa Romeo",
+        "Citroën"
       ],
       "question": {
-        "text": "A Cappuccino Coffee Is Named After What?"
+        "text": "Which car manufacturer makes the Range Rover?"
       },
       "tags": [
-        "food_and_drink"
+        "motoring",
+        "business",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Its name is linked to brown hooded robes whose color resembles the drink.",
-      "explanation": "The name refers to the Capuchins, a Catholic order of friars; the coffee’s color with milk was associated with their brown robes."
+      "hint": "It also makes the Defender and Discovery, two other well-known SUVs.",
+      "explanation": "Range Rover is Land Rover's luxury SUV line, alongside the Discovery and Defender."
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9504e7",
-      "correctAnswer": "nerves",
+      "category": "arts_and_literature",
+      "id": "647f9ded3a4302a719271677",
+      "correctAnswer": "James and the Giant Peach",
       "incorrectAnswers": [
-        "embryos",
-        "the study and psychology of organisms with regard to their functions and structures",
-        "mollusks"
+        "John and the Giant Apple",
+        "Jack and the Giant Pear",
+        "Jonah and the Giant Pineapple"
       ],
       "question": {
-        "text": "What is Neurology the study of?"
+        "text": "In which book did Roald Dahl tell the story of a boy's adventure in a giant piece of fruit?"
       },
       "tags": [
-        "science"
+        "childrens_literature",
+        "arts_and_literature",
+        "literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The boy travels with oversized insect companions inside a stone fruit.",
+      "explanation": "In James and the Giant Peach, James travels across the Atlantic inside the fruit with a group of talking insects."
+    },
+    {
+      "category": "geography",
+      "id": "646261c8ab138b829b81e993",
+      "correctAnswer": "Vatican City",
+      "incorrectAnswers": [
+        "Monaco",
+        "Liechtenstein",
+        "San Marino"
+      ],
+      "question": {
+        "text": "Which tiny country has been independent from Italy since 1929 and is the home of the Pope?"
+      },
+      "tags": [
+        "europe",
+        "italy",
+        "christianity",
+        "geography",
+        "countries"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its tiny territory is an enclave surrounded by Rome, Italy’s capital.",
+      "explanation": "Vatican City’s sovereignty was established by the Lateran Treaty between Italy and the Holy See in 1929."
+    },
+    {
+      "category": "geography",
+      "id": "645bc75b4638d58091b1b9e9",
+      "correctAnswer": "Las Vegas",
+      "incorrectAnswers": [
+        "Los Angeles",
+        "Lansing",
+        "Louisiana"
+      ],
+      "question": {
+        "text": "Which city is represented by the airport code LAS?"
+      },
+      "tags": [
+        "airports",
+        "usa"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its famous Strip is lined with casinos and hotels.",
+      "explanation": "LAS is the code for Harry Reid International Airport, which serves Las Vegas."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ec467f41d6338b96eee4",
+      "correctAnswer": "Louis Daguerre",
+      "incorrectAnswers": [
+        "Isaac Newton",
+        "Guglielmo Marconi",
+        "Claude Monet"
+      ],
+      "question": {
+        "text": "Which influential artist and photographer is credited with the invention of the camera?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture",
+        "art",
+        "inventions"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -45,181 +124,67 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510c9",
-      "correctAnswer": "8",
+      "category": "society_and_culture",
+      "id": "622a1c3a7cc59eab6f9511db",
+      "correctAnswer": "Ash",
       "incorrectAnswers": [
-        "2",
-        "4",
-        "10"
+        "Wood",
+        "Birch",
+        "Charcoal"
       ],
       "question": {
-        "text": "How Many Bits In A Byte"
+        "text": "In Egyptian mythology, who is known as the god of the desert and oases?"
       },
       "tags": [
-        "science"
+        "ancient_egypt",
+        "mythology",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "A standard byte can encode every value from 0 through 255.",
-      "explanation": "A byte is conventionally eight bits, a unit used to measure digital data."
-    },
-    {
-      "category": "food_and_drink",
-      "id": "65056e417a97013de78b52a1",
-      "correctAnswer": "Fermentation",
-      "incorrectAnswers": [
-        "Cartography",
-        "Substitution",
-        "Titration"
-      ],
-      "question": {
-        "text": "What process is used for making beer, wine and sourdough bread?"
-      },
-      "tags": [
-        "food_and_drink",
-        "bread",
-        "alcohol",
-        "food",
-        "drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Yeast transforms sugars, producing alcohol in drinks and helping sourdough rise.",
-      "explanation": "Fermentation converts sugars through microbial activity. In sourdough, yeast produces carbon dioxide that helps the dough rise, while lactic acid bacteria create its tang."
+      "hint": "He was associated with Egypt’s western frontier and the neighboring Libyan desert.",
+      "explanation": "Ash was associated with Egypt’s western desert and the neighboring region of Libya."
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f79",
-      "correctAnswer": "Stephen King",
+      "id": "622a1c397cc59eab6f950eb4",
+      "correctAnswer": "Charles Darwin",
       "incorrectAnswers": [
-        "H. P. Lovecraft",
-        "Edgar Allan Poe",
-        "Jack Vance"
+        "Percy Bysshe Shelley",
+        "H. Rider Haggard",
+        "Robert Louis Stevenson"
       ],
       "question": {
-        "text": "Which author wrote 'Carrie'?"
+        "text": "Which author wrote 'On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection'?"
       },
       "tags": [
-        "literature",
         "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "The author also wrote The Shining and It, two famous horror novels.",
-      "explanation": "Carrie was Stephen King's first published novel, and its success helped launch his career as a bestselling horror writer."
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3a7cc59eab6f951097",
-      "correctAnswer": "Stealth",
-      "incorrectAnswers": [
-        "Supersonic",
-        "Automated",
-        "Nuclear"
-      ],
-      "question": {
-        "text": "The Lockheed F-117 Nighthawk Was The First Of Which Type Of Aircraft?"
-      },
-      "tags": [
-        "technology",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its angular shape and special coatings were designed to make radar detection difficult.",
-      "explanation": "The F-117 was the first operational aircraft designed around radar evasion, and it was primarily used to attack ground targets."
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "6463398b01d576cfac3aa381",
-      "correctAnswer": "Jean Valjean",
-      "incorrectAnswers": [
-        "Romeo",
-        "Hamlet",
-        "Yossarian"
-      ],
-      "question": {
-        "text": "Which iconic literary character spends his life searching for redemption after spending 19 years in prison for stealing a loaf of bread?"
-      },
-      "tags": [
-        "fictitious_characters",
-        "classic_novels",
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "He is the central figure of Victor Hugo’s novel Les Misérables.",
-      "explanation": "After a bishop treats Jean Valjean with compassion, he resolves to live honestly and help others. Inspector Javert continues to pursue him."
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d36",
-      "correctAnswer": "The Beatles",
-      "incorrectAnswers": [
-        "The Rolling Stones",
-        "Blur",
-        "Black Sabbath"
-      ],
-      "question": {
-        "text": "Which English rock band released the album 'Abbey Road'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The Liverpool group featured John Lennon, Paul McCartney, George Harrison, and Ringo Starr.",
-      "explanation": "The Beatles recorded Abbey Road after Let It Be, but it was released first; Abbey Road was their final album recorded together."
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515ad",
-      "correctAnswer": "Raw",
-      "incorrectAnswers": [
-        "Fried",
-        "Boiled",
-        "Grilled"
-      ],
-      "question": {
-        "text": "How is steak tartare cooked?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The beef is finely minced and often seasoned with capers, mustard, and egg yolk before serving.",
-      "explanation": "Steak tartare is served raw, usually as finely chopped or minced beef, often seasoned with capers or onion."
+      "hint": "His voyage aboard HMS Beagle helped shape his ideas about evolution.",
+      "explanation": "The essay formed part of a 1858 presentation of ideas on natural selection by Charles Darwin and Alfred Russel Wallace to the Linnean Society."
     },
     {
       "category": "geography",
-      "id": "62602dd64b176d54800e3cae",
-      "correctAnswer": "Japan",
+      "id": "62628cd452c39217ab0d70f2",
+      "correctAnswer": "The Danube",
       "incorrectAnswers": [
-        "China",
-        "New Zealand",
-        "South Korea"
+        "The Nile",
+        "The Amazon",
+        "The Congo"
       ],
       "question": {
-        "text": "In which country is the city of Nagoya?"
+        "text": "Which river has the most capital cities on it?"
       },
       "tags": [
+        "rivers",
+        "bodies_of_water",
+        "capital_cities",
         "cities",
         "geography"
       ],
@@ -227,166 +192,192 @@
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Nagoya lies on Honshu, the largest of the four main islands that make up this country.",
-      "explanation": "Japan's Tokaido Shinkansen line links Nagoya with Tokyo and Osaka, making the city a major stop on the country's busiest rail corridor."
+      "hint": "Its course runs through Vienna, Bratislava, Budapest, and Belgrade.",
+      "explanation": "The Danube runs through or alongside four national capitals: Vienna, Bratislava, Budapest, and Belgrade."
     },
     {
       "category": "society_and_culture",
-      "id": "6293ebf47f41d6338b96eecc",
-      "correctAnswer": "James Watt",
+      "id": "63b0692d4799123c67712f5d",
+      "correctAnswer": "Kippah",
       "incorrectAnswers": [
-        "Joe Tyler",
-        "Nikolaus August Otto",
-        "Thomas Edison"
+        "Topi",
+        "Taqiyah",
+        "Capotain"
       ],
       "question": {
-        "text": "Which influential scientist improved the Newcomen steam engine, creating an efficient steam engine?"
+        "text": "What is the traditional Jewish head covering for men?"
       },
       "tags": [
-        "people",
-        "history",
-        "science",
-        "inventions"
+        "society_and_culture",
+        "religion",
+        "judaism",
+        "fashion"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "His key improvement let steam condense in a separate chamber, reducing heat waste.",
-      "explanation": "James Watt's separate condenser reduced the fuel needed to run steam engines, making them far more practical and efficient."
+      "hint": "It is a small, usually round cap worn on the crown of the head.",
+      "explanation": "A kippah is also commonly known as a yarmulke; Jewish customs around when to wear one vary."
     },
     {
-      "category": "food_and_drink",
-      "id": "63a0393dc7d86251f9b65c27",
-      "correctAnswer": "Parmesan",
+      "category": "music",
+      "id": "64dd35bb9cef2bd3a34a8d57",
+      "correctAnswer": "Alicia Keys",
       "incorrectAnswers": [
-        "Cheddar",
-        "Gouda",
-        "Feta"
+        "Beyoncé",
+        "Rihanna",
+        "Taylor Swift"
       ],
       "question": {
-        "text": "What type of cheese is Parmigiano Reggiano?"
+        "text": "In 2007, which artist had a hit with her song 'No One'?"
       },
       "tags": [
-        "cheese",
-        "food_and_drink",
-        "food"
+        "pop_music",
+        "music",
+        "songs"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "It is a hard, aged Italian cheese commonly grated over pasta.",
-      "explanation": "Parmesan is the English name commonly used for Parmigiano Reggiano, a hard cheese made in a defined area of northern Italy under protected designation rules."
+      "hint": "The singer is also known for piano-driven R&B hits like 'Fallin'.'",
+      "explanation": "Alicia Keys wrote and performed 'Fallin',' an early hit that helped establish her as a singer-songwriter."
     },
     {
-      "category": "society_and_culture",
-      "id": "65056e4a7a97013de78b52ae",
-      "correctAnswer": "Shia",
+      "category": "arts_and_literature",
+      "id": "645f94f3541c4d4fc8cf2e9a",
+      "correctAnswer": "Charlotte's Web",
       "incorrectAnswers": [
-        "Benedictine",
-        "Dominican",
-        "Society of Jesus"
+        "Animal Farm",
+        "Black Beauty",
+        "Watership Down"
       ],
       "question": {
-        "text": "Which of these is NOT a Roman Catholic order?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The term belongs to an Islamic tradition, not a Catholic religious community.",
-      "explanation": "Shia is a major branch of Islam, while Benedictines, Dominicans, and Jesuits are Roman Catholic religious orders."
-    },
-    {
-      "category": "science",
-      "id": "6505702c7a97013de78b554b",
-      "correctAnswer": "Bird",
-      "incorrectAnswers": [
-        "Mammal",
-        "Fish",
-        "Reptile"
-      ],
-      "question": {
-        "text": "What kind of animal is a kookaburra?"
+        "text": "Which book published in 1952 features an unusual friendship between a spider and a pig?"
       },
       "tags": [
         "animals",
-        "science"
+        "arts_and_literature",
+        "literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Its loud, laughing call is often heard in the forests of Australia.",
-      "explanation": "A kookaburra is a bird in the kingfisher family, and its call sounds remarkably like human laughter."
+      "hint": "Its author, E. B. White, also wrote the children's book Stuart Little.",
+      "explanation": "Charlotte's Web was written by E. B. White; Charlotte helps Wilbur by weaving words into her web."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "64824f247778562fd76a96c7",
+      "correctAnswer": "Rihanna",
+      "incorrectAnswers": [
+        "Beyonce",
+        "Adele",
+        "Shakira"
+      ],
+      "question": {
+        "text": "Which one-named singer showed off her acting in 'Ocean's 8' as a hacker/stoner named Nine Ball in 2018?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv",
+        "acting",
+        "musicians",
+        "people"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The singer behind Umbrella played the tech-savvy member of the heist crew.",
+      "explanation": "Rihanna was born in Barbados and became a global pop star with songs including “Umbrella” and “Diamonds.”"
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "63b058654799123c67712f1b",
+      "correctAnswer": "Golf",
+      "incorrectAnswers": [
+        "Cricket",
+        "Rugby",
+        "Tennis"
+      ],
+      "question": {
+        "text": "What sport is Scotland widely considered to be the home of?"
+      },
+      "tags": [
+        "uk",
+        "sport",
+        "society_and_culture",
+        "scotland"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "St Andrews is home to the sport's famous Old Course.",
+      "explanation": "Golf’s rules were shaped in part by the Royal and Ancient Golf Club of St Andrews, founded in 1754."
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe8a",
+      "correctAnswer": "Eminem",
+      "incorrectAnswers": [
+        "50 Cent",
+        "Dr. Dre",
+        "Jay-Z"
+      ],
+      "question": {
+        "text": "Which American rapper, producer and actor released the studio album 'The Marshall Mathers LP'?"
+      },
+      "tags": [
+        "music_albums",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The album title uses the performer’s birth name, Marshall Mathers.",
+      "explanation": "Eminem's birth name is Marshall Bruce Mathers III, which supplies the album's title."
     },
     {
       "category": "general_knowledge",
-      "id": "64b6436f7282fc9eadbafdad",
-      "correctAnswer": "Non-player character",
+      "id": "6239f838a72e7a347ac879d6",
+      "correctAnswer": "Uniform",
       "incorrectAnswers": [
-        "New player character",
-        "Non-playable challenge",
-        "Never play cautiously"
+        "Unable",
+        "Underneath",
+        "Umbrella"
       ],
       "question": {
-        "text": "In video game slang, what does the acronym 'NPC' stand for?"
+        "text": "What word is used in the NATO Phonetic Alphabet for the letter U?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The NATO code words around it are Tango and Victor.",
+      "explanation": "Uniform is the code word for U. The alphabet is designed to make letters easier to distinguish over radio and telephone connections."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "648889155dba6c873ef650cc",
+      "correctAnswer": "Swipe right",
+      "incorrectAnswers": [
+        "Like it",
+        "Thumbs up",
+        "Heart it"
+      ],
+      "question": {
+        "text": "What is the two-word term that the Tinder app has popularized, meaning to accept or approve of something?"
       },
       "tags": [
         "technology",
-        "games",
-        "video_games",
-        "abbreviations"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "These game-world figures are controlled by the game rather than by a person at the controls.",
-      "explanation": "Non-player characters can populate game worlds, offer quests, or provide dialogue, while human participants control the playable figures."
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63b0586c4799123c67712f25",
-      "correctAnswer": "Orthodox Christianity",
-      "incorrectAnswers": [
-        "Islam",
-        "Catholicism",
-        "Judaism"
-      ],
-      "question": {
-        "text": "What is the most widely practiced religion in Russia?"
-      },
-      "tags": [
-        "russia",
-        "religion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The country’s largest religious community follows a tradition with its historic patriarchate based in Moscow.",
-      "explanation": "Orthodox Christianity in Russia traces its roots to the Christianization of Kievan Rus in 988 under Prince Vladimir."
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6463395501d576cfac3aa354",
-      "correctAnswer": "Thar she blows!",
-      "incorrectAnswers": [
-        "Land Ahoy!",
-        "Dive! Dive! Dive!",
-        "Look alive, boys!"
-      ],
-      "question": {
-        "text": "What is the traditional cry heard when a whaling boat spots a whale?"
-      },
-      "tags": [
-        "sailing",
         "society_and_culture",
         "phrases"
       ],
@@ -394,186 +385,51 @@
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "A whale’s spout of water is the key image behind this old seafaring exclamation.",
-      "explanation": "Thar she blows! is a stock lookout cry, referring to the plume visible when a whale surfaces to breathe."
+      "hint": "Tinder users signal interest by moving a finger across a profile card in a particular direction.",
+      "explanation": "On Tinder, Swipe right signals interest in a profile, while its opposite signals rejection."
     },
     {
-      "category": "science",
-      "id": "647f9de83a4302a71927164e",
-      "correctAnswer": "Dialysis",
+      "category": "film_and_tv",
+      "id": "625699099da29df7b05f72ad",
+      "correctAnswer": "The Ancient One",
       "incorrectAnswers": [
-        "Chemotherapy",
-        "Physiotherapy",
-        "Radiation"
+        "Agent Peggy Carter",
+        "Rocket Raccoon",
+        "Valkyrie"
       ],
       "question": {
-        "text": "What process is used when kidneys are not working properly?"
+        "text": "Tilda Swinton plays the role of which character in the Marvel Cinematic Universe?"
       },
       "tags": [
-        "medicine",
-        "health",
-        "anatomy",
-        "science"
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "It removes waste and excess fluid from the blood when the kidneys cannot filter them adequately.",
-      "explanation": "Dialysis can clean the blood through a machine or use the lining of the abdomen as a filter."
+      "hint": "She is the mystical mentor who trains Stephen Strange in the ways of sorcery.",
+      "explanation": "The Ancient One protects Earth from mystical threats, including Dormammu, and guides Doctor Strange in his training."
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f95192a",
-      "correctAnswer": "Macbeth",
+      "category": "music",
+      "id": "6486be3159bc33d1c362f31a",
+      "correctAnswer": "Paul Simon",
       "incorrectAnswers": [
-        "Lear",
-        "Hamlet",
-        "Richard III"
+        "Elton John",
+        "Billy Joel",
+        "Bob Dylan"
       ],
       "question": {
-        "text": "What Shakespearean king was actually king of Scotland for 17 years?"
+        "text": "Who won the Grammy Song of the Year award in 1970 for the song 'Bridge Over Troubled Water'?"
       },
       "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Three witches' prophecies drive the Shakespearean tragedy about this Scottish ruler.",
-      "explanation": "Macbeth ruled from 1040 until his death in 1057; Shakespeare’s play took liberties with the historical king’s story."
-    },
-    {
-      "category": "science",
-      "id": "6505703e7a97013de78b5565",
-      "correctAnswer": "A hormone",
-      "incorrectAnswers": [
-        "A gland",
-        "An amino acid",
-        "A sugar"
-      ],
-      "question": {
-        "text": "What is testosterone?"
-      },
-      "tags": [
-        "science",
-        "medicine",
-        "anatomy",
-        "biology"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It acts as a chemical messenger involved in male sexual development and muscle growth.",
-      "explanation": "Testosterone is a hormone involved in sexual development and helps support muscle and bone growth."
-    },
-    {
-      "category": "science",
-      "id": "6ac241747457498440f6ee68",
-      "correctAnswer": "Firefox",
-      "incorrectAnswers": [
-        "Chrome",
-        "Safari",
-        "Internet Explorer"
-      ],
-      "question": {
-        "text": "Which web browser was first released under the name Phoenix?"
-      },
-      "tags": [
-        "software",
-        "internet"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "explanation": "Firefox followed the names Phoenix and Firebird; the browser adopted its current name in 2004."
-    },
-    {
-      "category": "general_knowledge",
-      "id": "645c9f5342ea81e2554c5f0a",
-      "correctAnswer": "Monopoly",
-      "incorrectAnswers": [
-        "Scrabble",
-        "Chess",
-        "Risk"
-      ],
-      "question": {
-        "text": "Which board game can you get in a French language edition, with properties like Place du Parc and Promenade?"
-      },
-      "tags": [
-        "board_games"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Players buy properties, collect rent, and try to bankrupt their rivals.",
-      "explanation": "Monopoly has roots in The Landlord’s Game, created by Elizabeth Magie to illustrate the effects of land ownership."
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "6496ac48e831b1ab5aa11147",
-      "correctAnswer": "The Indianapolis Colts",
-      "incorrectAnswers": [
-        "The Dallas Cowboys",
-        "The Pittsburgh Steelers",
-        "The Oakland Raiders"
-      ],
-      "question": {
-        "text": "What is the name of the NFL team whose logo features a blue horseshoe?"
-      },
-      "tags": [
-        "football",
-        "american_football",
-        "sport",
-        "logos"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its home city hosts a famous 500-mile race each May.",
-      "explanation": "The Indianapolis Colts kept the horseshoe emblem when the franchise moved from Baltimore to Indianapolis in 1984."
-    },
-    {
-      "category": "geography",
-      "id": "623b57a9fd6c701a92118370",
-      "correctAnswer": "Indonesia",
-      "incorrectAnswers": [
-        "Turkey",
-        "Saudi Arabia",
-        "Thailand"
-      ],
-      "question": {
-        "text": "In which country would you find the island of Bali?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Bali lies east of Java, the island home to this country's capital, Jakarta.",
-      "explanation": "Indonesia is an archipelago of thousands of islands; Bali lies just east of Java."
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950443",
-      "correctAnswer": "Polio",
-      "incorrectAnswers": [
-        "Smallpox",
-        "Coronavirus",
-        "Malaria"
-      ],
-      "question": {
-        "text": "In 1954 the Salk vaccine was introduced - a vaccine which effectively wiped out which devastating disease?"
-      },
-      "tags": [
-        "science"
+        "music",
+        "songs"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -581,123 +437,285 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6471e4297206d7c314606f6f",
-      "correctAnswer": "A fish",
-      "incorrectAnswers": [
-        " A lion",
-        "A cow",
-        "An octopus"
-      ],
-      "question": {
-        "text": "In the biblical story, what does Jonah get swallowed by?"
-      },
-      "tags": [
-        "bible",
-        "society_and_culture",
-        "christianity"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The biblical text calls the sea creature “great” without naming a specific species.",
-      "explanation": "The biblical text describes the creature as a great fish, though popular retellings often picture a whale."
-    },
-    {
-      "category": "history",
-      "id": "622a1c3d7cc59eab6f951bd9",
-      "correctAnswer": "13",
-      "incorrectAnswers": [
-        "4",
-        "50",
-        "49"
-      ],
-      "question": {
-        "text": "How Many Colonies Signed The American Declaration Of Independence?"
-      },
-      "tags": [
-        "usa",
-        "us_states",
-        "numbers",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The original U.S. flag had the same number of stripes as the colonies represented.",
-      "explanation": "The Declaration was adopted by the Continental Congress, and delegates from all thirteen colonies eventually signed it. New York's delegates signed after receiving authorization."
-    },
-    {
-      "category": "geography",
-      "id": "645aba5e158db1bd1779f1d1",
-      "correctAnswer": "Nicaragua",
-      "incorrectAnswers": [
-        "Honduras",
-        "El Salvador",
-        "Costa Rica"
-      ],
-      "question": {
-        "text": "In which country are the largest two lakes in Central America located, including Lake Managua?"
-      },
-      "tags": [
-        "lakes",
-        "geography",
-        "central_america",
-        "bodies_of_water"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The country’s capital shares its name with one of the lakes.",
-      "explanation": "Nicaragua also contains Lake Nicaragua, the largest lake in Central America."
-    },
-    {
-      "category": "general_knowledge",
-      "id": "647f9db33a4302a719271628",
-      "correctAnswer": "Erode",
-      "incorrectAnswers": [
-        "Erupt",
-        "Elevate",
-        "Emanate"
-      ],
-      "question": {
-        "text": "What is the geological term meaning 'to wear away'?"
-      },
-      "tags": [
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Flowing water and wind can slowly reshape rock by carrying particles off its surface.",
-      "explanation": "Erode describes a process driven by water, wind, ice, or gravity. Unlike weathering, erosion involves moving loosened material away."
-    },
-    {
       "category": "science",
-      "id": "622a1c3e7cc59eab6f952247",
-      "correctAnswer": "The Human Nose",
+      "id": "65056f547a97013de78b5422",
+      "correctAnswer": "Epicenter",
       "incorrectAnswers": [
-        "Rhinoceroses",
-        "Kidneys",
-        "The Moon"
+        "Focus",
+        "Fault line",
+        "Seismic zone"
       ],
       "question": {
-        "text": "In what does a rhinologist specialise?"
+        "text": "What is the point on the Earth's surface directly above an earthquake's origin called?"
       },
       "tags": [
-        "words",
         "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Rhinoplasty is a surgical procedure whose name shares the same Greek root.",
-      "explanation": "Rhinologists diagnose and treat disorders of the nasal passages and sinuses; the prefix rhino- refers to the nose."
+      "hint": "Its Greek-derived prefix means “upon” or “over,” matching its position relative to the underground origin.",
+      "explanation": "The epicenter lies directly above the focus, the underground point where an earthquake begins. A fault line is a fracture in Earth's crust."
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdc1",
+      "correctAnswer": "Paranoid",
+      "incorrectAnswers": [
+        "Psycho",
+        "Crazy",
+        "Insane"
+      ],
+      "question": {
+        "text": "Name Black Sabbath's debut hit?"
+      },
+      "tags": [
+        "songs",
+        "rock_music",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The song shares its name with Black Sabbath's second studio album.",
+      "explanation": "Paranoid was Black Sabbath's first major hit and became the title track of the band's second album."
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c377cc59eab6f95042c",
+      "correctAnswer": "Jacob Marley",
+      "incorrectAnswers": [
+        "Archie Scorn",
+        "Marius Topman",
+        "Ronald Leerden"
+      ],
+      "question": {
+        "text": "In The Charles Dickens Novel 'A Chrismas Carol' Who Was Scrooge's Dead Business Partner? "
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "His ghost visits Scrooge, bound by chains forged through a life of greed.",
+      "explanation": "Dickens uses the chains as a warning: Marley says he forged them through selfishness and neglect of others."
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "646089e4de964ebc39016ca5",
+      "correctAnswer": "The Tempest",
+      "incorrectAnswers": [
+        "Hamlet",
+        "Romeo and Juliet",
+        "Macbeth"
+      ],
+      "question": {
+        "text": "In which play is the Duke of Milan marooned, inspired by the 1609 wreck of an English ship off Bermuda?"
+      },
+      "tags": [
+        "theater",
+        "shakespeare",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Prospero, the exiled Duke of Milan, lives on the island with his daughter Miranda.",
+      "explanation": "The Tempest is often classified as one of Shakespeare’s romances. Prospero eventually gives up his magic and forgives his enemies."
+    },
+    {
+      "category": "geography",
+      "id": "6233840262eaad73716a8be1",
+      "correctAnswer": "Sicily",
+      "incorrectAnswers": [
+        "Sardinia",
+        "Crete",
+        "Cyprus"
+      ],
+      "question": {
+        "text": "What is the largest island in the Mediterranean?"
+      },
+      "tags": [
+        "geography",
+        "mediterranean",
+        "islands",
+        "bodies_of_water"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This island lies just off the toe of Italy's boot.",
+      "explanation": "Sicily is part of Italy, and Mount Etna, one of Europe’s most active volcanoes, rises on its eastern side."
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501be",
+      "correctAnswer": "The Hound of the Baskervilles",
+      "incorrectAnswers": [
+        "The A.B.C. Murders",
+        "The Da Vinci Code",
+        "The Murder of Roger Ackroyd"
+      ],
+      "question": {
+        "text": "Which piece of written work starts with the line 'Mr. Sherlock Holmes, who was usually very late in the mornings, save upon those not infrequent occasions when he stayed up all night, was seated at the breakfast table.'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its mystery centers on a feared family curse and a remote, eerie moor.",
+      "explanation": "The Hound of the Baskervilles is an Arthur Conan Doyle Sherlock Holmes novel. Its mystery centers on a feared family legend involving a deadly beast."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6adf1685c588a7840e634e58",
+      "correctAnswer": "Hattie McDaniel",
+      "incorrectAnswers": [
+        "Dorothy Dandridge",
+        "Lena Horne",
+        "Ethel Waters"
+      ],
+      "question": {
+        "text": "Who became the first African American to win an Academy Award, for playing Mammy in 'Gone with the Wind'?"
+      },
+      "tags": [
+        "hattie mcdaniel",
+        "oscars"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Before her film career, she sang and performed on Denver radio.",
+      "explanation": "McDaniel won Best Supporting Actress, but segregation at the ceremony meant she sat apart from her co-stars."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95028c",
+      "correctAnswer": "Farfalle ",
+      "incorrectAnswers": [
+        "Conchiglie",
+        "Rigatoni",
+        "Fusilli"
+      ],
+      "question": {
+        "text": "What type of pasta resembles a bow-tie in shape?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Each piece is pinched tightly at the center, with two broad ends.",
+      "explanation": "Farfalle means “butterflies” in Italian, a name inspired by the pasta’s distinctive shape."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f743d2f5c16bfb88331",
+      "correctAnswer": "A former neo-nazi tries to prevent his brother from going down the same path that he did.",
+      "incorrectAnswers": [
+        "King Arthur and his Knights embark on a search for a religious relic.",
+        "An undercover cop and a mole in the police try to identify each other while infiltrating a gang.",
+        "A Scottish warrior leads his countrymen in a rebellion to free his homeland."
+      ],
+      "question": {
+        "text": "What is the plot of the movie American History X?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Edward Furlong plays the student whose school essay gives the film its title.",
+      "explanation": "A former neo-Nazi tries to stop his younger brother from following the same path after prison changes his outlook. Edward Norton plays Derek Vinyard, and Edward Furlong plays his brother Danny."
+    },
+    {
+      "category": "science",
+      "id": "63a0395ec7d86251f9b65c4e",
+      "correctAnswer": "Internet Service Provider",
+      "incorrectAnswers": [
+        "Internet Service Portal",
+        "Internet Software Provider",
+        "Internet Search Provider"
+      ],
+      "question": {
+        "text": "In computer networking, is the full form of tje initials ISP?"
+      },
+      "tags": [
+        "the_internet",
+        "technology",
+        "science",
+        "initials"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "These companies sell the connection that lets homes and businesses go online.",
+      "explanation": "Internet Service Providers connect customers to the global network through services such as broadband, fiber, or mobile data."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbf2",
+      "correctAnswer": "\"I feel the need - the need for speed!\"",
+      "incorrectAnswers": [
+        "\"Bond. James Bond.\"",
+        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\"",
+        "\"Louis, I think this is the beginning of a beautiful friendship.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Top Gun'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The line is a shouted, rhyming exchange between two Navy fighter pilots.",
+      "explanation": "Maverick and Goose, played by Tom Cruise and Anthony Edwards, deliver the line together; it became one of the film’s best-known catchphrases."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6262afa5957e77cecfa4ec33",
+      "correctAnswer": "I Don't Know",
+      "incorrectAnswers": [
+        "Internet Did Kill",
+        "I'm Definitely King",
+        "I Didn't Kill"
+      ],
+      "question": {
+        "text": "What do people mean when type the letters 'IDK' in a message on the internet?"
+      },
+      "tags": [
+        "the_internet",
+        "initials",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It’s a common three-word reply from someone who doesn’t have the information being asked for.",
+      "explanation": "IDK abbreviates “I Don't Know” and is a quick way to say someone lacks an answer."
     }
   ]
 }
