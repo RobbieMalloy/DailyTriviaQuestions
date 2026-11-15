@@ -1,437 +1,497 @@
 {
-  "gameDate": "2026-11-14",
+  "gameDate": "2026-11-15",
   "difficulty": "hard",
   "results": [
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f2a",
-      "correctAnswer": "Hans Christian Andersen",
+      "id": "622a1c397cc59eab6f950eb3",
+      "correctAnswer": "Charles Darwin",
       "incorrectAnswers": [
-        "Beatrix Potter",
-        "Søren Kierkegaard",
-        "Oscar Wilde"
+        "Percy Bysshe Shelley",
+        "H. Rider Haggard",
+        "Robert Louis Stevenson"
       ],
       "question": {
-        "text": "Which author wrote 'The Nightingale'?"
+        "text": "Which author wrote 'The Descent of Man And Selection in Relation to Sex'?"
       },
       "tags": [
-        "literature",
-        "arts_and_literature"
+        "category:arts-and-literature",
+        "category:science",
+        "person:authors",
+        "person:charles-darwin",
+        "topic:non-fiction",
+        "science:biology",
+        "science:evolution"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "The same Danish storyteller wrote “The Little Mermaid” and “The Ugly Duckling.”",
-      "explanation": "Hans Christian Andersen's fairy tale contrasts a living nightingale's song with that of a jeweled mechanical bird."
-    },
-    {
-      "category": "science",
-      "id": "622a1c3f7cc59eab6f952353",
-      "correctAnswer": "Willow",
-      "incorrectAnswers": [
-        "Birch",
-        "Elm",
-        "Cypress"
-      ],
-      "question": {
-        "text": "Aspirin was originally obtained from the bark of which tree?"
-      },
-      "tags": [
-        "chemistry",
-        "plants",
-        "medicine",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its bark contains salicin, a natural compound that inspired the development of this pain reliever.",
-      "explanation": "Willow bark contains salicin, which the body can convert into salicylic acid, a substance used in developing aspirin."
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e85",
-      "correctAnswer": "Neil Gaiman",
-      "incorrectAnswers": [
-        "Stephen King",
-        "H. P. Lovecraft",
-        "Douglas Adams"
-      ],
-      "question": {
-        "text": "Which author wrote 'Trigger Warning: Short Fictions and Disturbances'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The same British fantasy writer created Coraline and the comic series The Sandman.",
-      "explanation": "Neil Gaiman also wrote Coraline, which was adapted into an animated film."
-    },
-    {
-      "category": "science",
-      "id": "6ac341b37457498440f6ef81",
-      "correctAnswer": "Mantis shrimp",
-      "incorrectAnswers": [
-        "Pistol shrimp",
-        "Lobster",
-        "King crab"
-      ],
-      "question": {
-        "text": "Which sea creature strikes its prey with a club-like appendage at the speed of a bullet?"
-      },
-      "tags": [
-        "marine life",
-        "crustaceans"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its spring-loaded punch can crack the hard shells of prey.",
-      "explanation": "Mantis shrimp deliver blows with specialized forelimbs; some species instead use pointed limbs to spear prey."
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d93",
-      "correctAnswer": "The Who",
-      "incorrectAnswers": [
-        "The Kinks",
-        "The Small Faces",
-        "The Yardbirds"
-      ],
-      "question": {
-        "text": "Which band was co-founded by 'Pete Townshend'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its rock opera Tommy includes the song “Pinball Wizard.”",
-      "explanation": "The Who's Pete Townshend wrote much of Tommy, the band's 1969 rock opera."
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd72cdc0dd3b72da64d28",
-      "correctAnswer": "1959",
-      "incorrectAnswers": [
-        "1953",
-        "1965",
-        "1971"
-      ],
-      "question": {
-        "text": "In which year was Ben-Hur first released in the cinema?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Charlton Heston starred in this biblical epic, which won 11 Academy Awards.",
-      "explanation": "Ben-Hur became the first film to win 11 Academy Awards, including Best Picture."
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f3f",
-      "correctAnswer": "Guy de Maupassant",
-      "incorrectAnswers": [
-        "François-René de Chateaubriand",
-        "Anatole France",
-        "Albert Camus"
-      ],
-      "question": {
-        "text": "Which author wrote 'Au soleil'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The author also wrote the short story “The Necklace.”",
-      "explanation": "Guy de Maupassant’s Au soleil is travel writing based on his journey through Algeria."
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9519d8",
-      "correctAnswer": "Qing",
-      "incorrectAnswers": [
-        "Ming",
-        "Tan",
-        "Han"
-      ],
-      "question": {
-        "text": "What Chinese dynasty was overthrown in 1912?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its final emperor, Puyi, later became the subject of the film The Last Emperor.",
-      "explanation": "The Qing dynasty's last emperor, Puyi, was only six when he abdicated in 1912."
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd81",
-      "correctAnswer": "Irving Berlin",
-      "incorrectAnswers": [
-        "Stephen Sondheim",
-        "Andrew Lloyd Webber",
-        "George Gershwin"
-      ],
-      "question": {
-        "text": "Which composer wrote the song 'There's No Business Like Show Business'?"
-      },
-      "tags": [
-        "musicals",
-        "theater",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The Russian-born American songwriter behind “White Christmas” also wrote this musical-theater standard.",
-      "explanation": "Irving Berlin wrote the song for the Broadway musical Annie Get Your Gun, where Ethel Merman performed it."
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e10",
-      "correctAnswer": "James Fenimore Cooper",
-      "incorrectAnswers": [
-        "Edgar Rice Burroughs",
-        "Jack London",
-        "Edgar Allan Poe"
-      ],
-      "question": {
-        "text": "Which author wrote 'Leatherstocking Tales'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "His frontier novels include The Last of the Mohicans and feature the woodsman Natty Bumppo.",
-      "explanation": "James Fenimore Cooper's five-novel cycle follows frontiersman Natty Bumppo; The Last of the Mohicans is its best-known installment."
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e2a",
-      "correctAnswer": "Gustave Flaubert",
-      "incorrectAnswers": [
-        "Anatole France",
-        "Guy de Maupassant",
-        "Charles Perrault"
-      ],
-      "question": {
-        "text": "Which author wrote 'Bouvard et Pécuchet'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The French novelist who created Emma Bovary also wrote this satire of two would-be intellectuals.",
-      "explanation": "Gustave Flaubert's satirical novel remained unfinished when he died and was published posthumously."
-    },
-    {
-      "category": "music",
-      "id": "6250648fe12f6dec240bdfbc",
-      "correctAnswer": "Maniac",
-      "incorrectAnswers": [
-        "Convoy",
-        "Just a Friend",
-        "Tainted Love"
-      ],
-      "question": {
-        "text": "What song did Michael Sembello have a hit with in 1983?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It appeared on the soundtrack to the 1983 film Flashdance.",
-      "explanation": "Maniac appears in Flashdance during a dance-training sequence; the climactic audition is set to Flashdance... What a Feeling."
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f9508da",
-      "correctAnswer": "Ivory Coast",
-      "incorrectAnswers": [
-        "Ghana",
-        "Togo",
-        "Benin"
-      ],
-      "question": {
-        "text": "Which of these countries borders Mali?"
-      },
-      "tags": [
-        "africa",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its former capital, Abidjan, is a major port on the Gulf of Guinea.",
-      "explanation": "Ivory Coast also shares borders with Liberia and Ghana; its political capital is Yamoussoukro."
+      "hint": "The British naturalist who wrote On the Origin of Species also authored this book.",
+      "explanation": "Charles Darwin's 1871 book develops his theory of sexual selection, including how competition for mates can shape traits such as elaborate plumage."
     },
     {
       "category": "food_and_drink",
-      "id": "645fcc91541c4d4fc8cf30a9",
-      "correctAnswer": "Grapes",
+      "id": "624ab05fc64ce21c11f06e95",
+      "correctAnswer": "North America",
       "incorrectAnswers": [
-        "Apples",
-        "Oranges",
-        "Bananas"
+        "Southeast Asia",
+        "Central Asia",
+        "Europe"
       ],
       "question": {
-        "text": "Which fruit comes in Tokay and Emperor varieties?"
+        "text": "From which part of the world do blueberries originate?"
       },
       "tags": [
-        "food_and_drink",
-        "food",
-        "fruit"
+        "category:food-and-drink",
+        "category:geography",
+        "food:fruit",
+        "place:north-america",
+        "place:americas"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "They grow in bunches on vines, and some varieties are used to make wine.",
-      "explanation": "Grapes include many named cultivars; Emperor is a large red variety commonly eaten fresh."
+      "hint": "Wild varieties grew naturally across the United States and Canada before cultivation spread elsewhere.",
+      "explanation": "Many blueberry species are native to North America; Europe’s similar bilberries are closely related but distinct."
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e17",
-      "correctAnswer": "Karl May",
+      "id": "6abf49ed85eae6187eadb9e0",
+      "correctAnswer": "Graham Greene",
       "incorrectAnswers": [
-        "Michael Ende",
-        "Friedrich Engels",
-        "Erich Maria Remarque"
+        "Evelyn Waugh",
+        "Somerset Maugham",
+        "Anthony Burgess"
       ],
       "question": {
-        "text": "Which author wrote 'Im Schatten des Grossherrn'?"
+        "text": "Which English novelist wrote 'The Quiet American', set in 1950s Vietnam?"
       },
       "tags": [
-        "arts_and_literature"
+        "category:arts-and-literature",
+        "person:authors",
+        "topic:literature",
+        "topic:british-literature",
+        "topic:modern-fiction",
+        "era:1950s",
+        "era:20th-century"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "The same German novelist created Winnetou and Old Shatterhand.",
-      "explanation": "Karl May is best known for adventure stories featuring Winnetou, an Apache chief, and Old Shatterhand, a German traveler in the American West."
+      "hint": "He also wrote The Third Man, a story adapted into a classic film.",
+      "explanation": "Graham Greene's novel contrasts an idealistic American aid worker with a cynical British journalist amid the First Indochina War."
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ec3",
-      "correctAnswer": "John le Carré",
+      "id": "622a1c397cc59eab6f950f00",
+      "correctAnswer": "Ursula K. Le Guin",
       "incorrectAnswers": [
-        "Agatha Christie",
-        "Georges Simenon",
-        "Charles Dickens"
+        "Stephen King",
+        "Jack Vance",
+        "George R. R. Martin"
       ],
       "question": {
-        "text": "Which author wrote 'The Constant Gardener'?"
+        "text": "Which author wrote 'The Left Hand of Darkness'?"
       },
       "tags": [
-        "literature",
-        "arts_and_literature"
+        "category:arts-and-literature",
+        "topic:literature",
+        "person:authors",
+        "topic:science-fiction",
+        "topic:modern-fiction"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "The same British novelist created the recurring intelligence agent George Smiley.",
-      "explanation": "John le Carré, born David Cornwell, is best known for his espionage novels, many of which feature George Smiley."
+      "hint": "The same writer created the Earthsea fantasy cycle.",
+      "explanation": "Ursula K. Le Guin's novel won both the Hugo and Nebula Awards, two of science fiction's major honors."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6250070f0d86c8f685d80f11",
+      "correctAnswer": "to cut",
+      "incorrectAnswers": [
+        "Little bells",
+        "Pens",
+        "Little worms"
+      ],
+      "question": {
+        "text": "The pasta tagliatelle has what meaning in Italian?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "category:society-and-culture",
+        "food:pasta",
+        "topic:italian-language",
+        "topic:language"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "These long, flat ribbons are named for the action used to shape them from a sheet of pasta.",
+      "explanation": "Tagliatelle comes from the Italian verb tagliare, meaning “to cut”; the pasta is made by slicing rolled dough into ribbons."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "62500672ea7a97fd2e356d2b",
+      "correctAnswer": "Fine hair",
+      "incorrectAnswers": [
+        "Twins",
+        "Small thimbles",
+        "Bibs"
+      ],
+      "question": {
+        "text": "The pasta capellini has what meaning in Italian?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "food:pasta",
+        "food:italian-cuisine",
+        "topic:italian-language",
+        "topic:language",
+        "topic:translations"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its Italian name is a diminutive form of a word for something that grows on your head.",
+      "explanation": "Capellini comes from capello, Italian for hair, with a diminutive ending; the pasta’s fine strands explain the name."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625699189da29df7b05f72b1",
+      "correctAnswer": "Peter Dinklage",
+      "incorrectAnswers": [
+        "J.K. Simmons",
+        "Paul Rudd",
+        "Tom Hiddleston"
+      ],
+      "question": {
+        "text": "The role of Eitri in the Marvel Cinematic Universe is played by which actor?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "person:actors",
+        "work:marvel",
+        "work:marvel-cinematic-universe"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The actor is widely known for playing Tyrion Lannister on Game of Thrones.",
+      "explanation": "Peter Dinklage plays Eitri, the dwarf king of Nidavellir, whose forge produces Stormbreaker in Avengers: Infinity War."
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f9500b3",
+      "correctAnswer": "Blue",
+      "incorrectAnswers": [
+        "Yellow",
+        "Purple",
+        "Red"
+      ],
+      "question": {
+        "text": "In a nine-ball pool set what colour is the number 2 ball?"
+      },
+      "tags": [
+        "category:sport-and-leisure",
+        "sport:sports",
+        "sport:snooker-and-darts",
+        "sport:sports-rules-and-terms",
+        "topic:colours"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The 10 ball shares its color, but has a stripe.",
+      "explanation": "Blue is part of the standard numbered-ball color sequence: the 2 ball is solid, while the 10 ball uses the same color in a stripe."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "63dd25e3742e43ed64f1f040",
+      "correctAnswer": "Niles Crane",
+      "incorrectAnswers": [
+        "Frasier Moon",
+        "Roz Doyle",
+        "Martin Crane"
+      ],
+      "question": {
+        "text": "What is the name of the character played by David Hyde Pierce on the show 'Frasier'?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:television",
+        "topic:sitcoms",
+        "topic:fictional-characters",
+        "person:actors",
+        "work:cheers-and-frasier"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He is Frasier's younger brother and a fellow psychiatrist.",
+      "explanation": "Niles Crane is Frasier's younger brother and a psychiatrist, often portrayed as more formal and fastidious than his brother."
     },
     {
       "category": "geography",
-      "id": "6462621bab138b829b81e9c4",
-      "correctAnswer": "Chesapeake Bay",
+      "id": "623b5818fd6c701a92118399",
+      "correctAnswer": "Uzbekistan",
       "incorrectAnswers": [
-        "Hudson Bay",
-        "Puget Sound",
-        "Narragansett Bay"
+        "Norway",
+        "Libya",
+        "Croatia"
       ],
       "question": {
-        "text": "What bay splits Virginia's part of the Delmarva Peninsula from the mainland?"
+        "text": "In which country would you find the city of Bukhara?"
       },
       "tags": [
-        "bodies_of_water",
-        "virginia",
-        "usa",
-        "geography"
+        "category:geography",
+        "place:asia",
+        "place:central-asia",
+        "place:cities"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Virginia's Eastern Shore connects to the mainland by a famous bridge-tunnel crossing this waterway.",
-      "explanation": "Chesapeake Bay is the largest estuary in the United States, fed by rivers including the Susquehanna."
+      "hint": "Bukhara is a historic Silk Road city in Central Asia.",
+      "explanation": "Uzbekistan is a landlocked country in Central Asia, and Bukhara was an important trading and scholarly center on the Silk Road."
     },
     {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f9522ff",
-      "correctAnswer": "Silver",
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fce4",
+      "correctAnswer": "Indo-European",
       "incorrectAnswers": [
-        "Iron",
-        "Titanium",
-        "Zinc"
+        "Afroasiatic",
+        "Kra–Dai",
+        "Uralic"
       ],
       "question": {
-        "text": "Electrum is a natural alloy of gold and what other metal?"
+        "text": "The language 'Gujarati' belongs to which language family?"
       },
       "tags": [
-        "science"
+        "category:society-and-culture",
+        "topic:language",
+        "topic:languages-of-the-world"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Its partner is a precious metal whose compounds were once widely used in photographic film.",
-      "explanation": "Silver gives electrum a paler color than pure gold, and naturally occurring electrum can vary in composition."
+      "hint": "Gujarati shares a broad language family with English, Hindi, and Persian.",
+      "explanation": "Gujarati belongs to the Indo-Aryan branch, alongside Hindi and Bengali; Indo-Aryan is one branch of the larger Indo-European family."
+    },
+    {
+      "category": "history",
+      "id": "650570237a97013de78b553e",
+      "correctAnswer": "Christiaan Barnard",
+      "incorrectAnswers": [
+        "Robert Adams",
+        "Gaston Milian",
+        "Edoardo Bassini"
+      ],
+      "question": {
+        "text": "Who performed the world's first successful human heart transplant in 1967?"
+      },
+      "tags": [
+        "category:history",
+        "category:science",
+        "era:1960s",
+        "era:20th-century",
+        "science:medicine",
+        "topic:famous-firsts"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The operation took place at Groote Schuur Hospital in Cape Town, South Africa.",
+      "explanation": "Christiaan Barnard performed the operation at Groote Schuur Hospital; the recipient, Louis Washkansky, lived for 18 days afterward."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcbf",
+      "correctAnswer": "Indo-European",
+      "incorrectAnswers": [
+        "Austronesian",
+        "Afroasiatic",
+        "Austroasiatic"
+      ],
+      "question": {
+        "text": "The language 'Chittagonian' belongs to which language family?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "topic:language",
+        "topic:languages-of-the-world"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Bengali and Hindi belong to the same broad language family as Chittagonian.",
+      "explanation": "Chittagonian is generally classified as an Indo-Aryan language, a branch of Indo-European, and is spoken in southeastern Bangladesh."
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417d780f96c4efe8d773ca",
+      "correctAnswer": "Orlando Magic",
+      "incorrectAnswers": [
+        "Orlando Colts",
+        "Orlando Timbers",
+        "Orlando Raptors"
+      ],
+      "question": {
+        "text": "Which of these is a basketball team based in Orlando?"
+      },
+      "tags": [
+        "category:sport-and-leisure",
+        "sport:basketball",
+        "sport:sports",
+        "place:cities",
+        "place:florida",
+        "place:united-states",
+        "place:north-america",
+        "place:americas",
+        "place:us-south"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Shaquille O'Neal and Penny Hardaway once led this Orlando NBA franchise to the Finals.",
+      "explanation": "The Orlando Magic joined the NBA as an expansion team in 1989, and Shaquille O’Neal began his NBA career with the franchise."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3b7cc59eab6f951712",
+      "correctAnswer": "Pantomime",
+      "incorrectAnswers": [
+        "Colosseum",
+        "Theatrical",
+        "Cabaret"
+      ],
+      "question": {
+        "text": "Which word comes from a Greek word meaning 'imitator of all'?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "category:general-knowledge",
+        "topic:etymology",
+        "topic:language",
+        "topic:words"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This stage art often tells a story through gestures and facial expressions rather than speech.",
+      "explanation": "In ancient Rome, pantomime performers often acted out stories through gestures, accompanied by music."
+    },
+    {
+      "category": "history",
+      "id": "622a1c3a7cc59eab6f9510b8",
+      "correctAnswer": "George Hudson",
+      "incorrectAnswers": [
+        "Isambard Kingdom Brunel",
+        "Robert Stephenson",
+        "Thomas Telford"
+      ],
+      "question": {
+        "text": "Which businessman was known as the 'Railway King' in 19th-century Britain?"
+      },
+      "tags": [
+        "category:history",
+        "category:society-and-culture",
+        "person:business-leaders",
+        "era:19th-century",
+        "topic:british-history",
+        "topic:business",
+        "topic:railways",
+        "topic:transport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He began as a York wool merchant before becoming a powerful railway promoter.",
+      "explanation": "George Hudson’s railway empire collapsed after financial irregularities were exposed during the railway boom."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950256",
+      "correctAnswer": "Haddock",
+      "incorrectAnswers": [
+        "Herring",
+        "Salmon",
+        "Tuna"
+      ],
+      "question": {
+        "text": "Which fish is smoked and cured and called 'finnan'?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "food:seafood"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This popular fish-and-chips choice is also traditionally used in kedgeree.",
+      "explanation": "Finnan haddie is a Scottish smoked-fish specialty, and smoked haddock is also a traditional ingredient in kedgeree."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8eb",
+      "correctAnswer": "Anne Bancroft",
+      "incorrectAnswers": [
+        "Gloria Swanson",
+        "Shirley MacLaine",
+        "Glenn Close"
+      ],
+      "question": {
+        "text": "Which actress played the role of Mrs. Robinson in The Graduate?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "person:actors"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Her Oscar-winning performance was as Helen Keller's teacher in The Miracle Worker.",
+      "explanation": "Anne Bancroft was only about six years older than Dustin Hoffman, who played Benjamin."
     },
     {
       "category": "arts_and_literature",
-      "id": "6477bb1e550bc819ad646b76",
-      "correctAnswer": "Fauvist",
+      "id": "622a1c347cc59eab6f94fa45",
+      "correctAnswer": "Rococo",
       "incorrectAnswers": [
-        "Impressionist",
-        "Cubist",
-        "Surrealist"
+        "Italian Renaissance",
+        "Northern Renaissance",
+        "Washington Color School"
       ],
       "question": {
-        "text": "What art movement was Maurice de Vlaminck part of, known for its bold use of color?"
+        "text": "The painting \"The Swing\" by Eugène Delacroix is a part of which art movement?"
       },
       "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
+        "category:arts-and-literature",
+        "topic:art",
+        "topic:painting",
+        "person:artists",
+        "topic:art-movements"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -439,256 +499,302 @@
       "isNiche": false
     },
     {
+      "category": "society_and_culture",
+      "id": "64824ee47778562fd76a969c",
+      "correctAnswer": "Sariputra",
+      "incorrectAnswers": [
+        "Aristotle",
+        "Mahavira",
+        "Confucius"
+      ],
+      "question": {
+        "text": "Who was an early pupil of Buddha in the 6th century B.C.?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "category:history",
+        "topic:buddhism",
+        "topic:religion",
+        "person:religious-figures",
+        "era:ancient-india",
+        "era:ancient-world"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He became renowned among the Buddha’s disciples for his exceptional wisdom.",
+      "explanation": "Sariputra is traditionally described in Buddhist accounts as foremost among the Buddha's disciples in wisdom."
+    },
+    {
       "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501e6",
-      "correctAnswer": "David Yates",
+      "id": "625fd68adc0dd3b72da64cf8",
+      "correctAnswer": "1991",
+      "incorrectAnswers": [
+        "1987",
+        "1995",
+        "1999"
+      ],
+      "question": {
+        "text": "Terminator 2: Judgment Day was released in which year?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "topic:science-fiction",
+        "work:terminator",
+        "era:1990s",
+        "era:20th-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The original Terminator film premiered in 1984, seven years before this sequel.",
+      "explanation": "Terminator 2: Judgment Day was released in 1991, seven years after the original; James Cameron directed both films."
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950328",
+      "correctAnswer": "George II",
+      "incorrectAnswers": [
+        "William I",
+        "James III",
+        "Richard II"
+      ],
+      "question": {
+        "text": "Who was the last British monarch born outside Britain?"
+      },
+      "tags": [
+        "category:history",
+        "category:society-and-culture",
+        "person:monarchs",
+        "person:british-monarchs",
+        "topic:british-history",
+        "era:18th-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He was born in the German city that gave its name to the royal dynasty his father represented.",
+      "explanation": "George II was born in Hanover before his father, George I, inherited the British crown."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502aa",
+      "correctAnswer": "Capon",
+      "incorrectAnswers": [
+        "Bodice",
+        "Prized Cock",
+        "Lode"
+      ],
+      "question": {
+        "text": "What name is given to a cockerel that is castrated and fattened for the table?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "food:meat",
+        "animal:animals",
+        "animal:birds",
+        "animal:farm-animals",
+        "topic:animal-terminology"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "In France and Italy, this large bird is a traditional festive roast, often served at Christmas.",
+      "explanation": "Capon meat is prized for its tenderness and rich flavor, qualities associated with the bird’s castration and fattening."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd37",
+      "correctAnswer": "Thomas Hobbes",
+      "incorrectAnswers": [
+        "Ludwig Wittgenstein",
+        "Friedrich Nietzsche",
+        "Bertrand Russell"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'The life of man (in a state of nature) is solitary, poor, nasty, brutish, and short'?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "category:history",
+        "topic:philosophy",
+        "topic:famous-quotes",
+        "person:philosophers"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The quote appears in a famous work arguing that people need a powerful sovereign to escape violent disorder.",
+      "explanation": "Thomas Hobbes develops this view in Leviathan, arguing that a powerful sovereign is needed to prevent society from descending into conflict."
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504e2",
+      "correctAnswer": "Musical instruments",
+      "incorrectAnswers": [
+        "Stars",
+        "Embryos",
+        "The heart"
+      ],
+      "question": {
+        "text": "What is Organology the study of?"
+      },
+      "tags": [
+        "category:science",
+        "category:music",
+        "topic:ologies-and-phobias",
+        "music:instruments"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It examines objects that produce tones and how they are classified by their sound-making methods.",
+      "explanation": "Organology examines how musical instruments are built, classified, and used across cultures; it is a branch of musicology."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f943",
+      "correctAnswer": "Terms of Endearment",
+      "incorrectAnswers": [
+        "Pirates of the Caribbean",
+        "Grease",
+        "The Night of the Hunter"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Aurora Greenway'?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "topic:fictional-characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Shirley MacLaine plays this character in a drama about a strong-willed mother and her daughter.",
+      "explanation": "Terms of Endearment won five Academy Awards, including Best Picture; Shirley MacLaine and Jack Nicholson also won acting awards for the film."
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950ace",
+      "correctAnswer": "Nepal",
+      "incorrectAnswers": [
+        "Tajikistan",
+        "Kyrgyzstan",
+        "Thailand"
+      ],
+      "question": {
+        "text": "Which of these countries borders India?"
+      },
+      "tags": [
+        "category:geography",
+        "topic:borders",
+        "place:india",
+        "place:asia",
+        "place:south-asia",
+        "place:nepal"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its capital, Kathmandu, lies in a landlocked Himalayan country between India and China.",
+      "explanation": "Nepal and India maintain an open border that allows citizens of both countries to cross without visas."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6a994918c9cbd5256545a84f",
+      "correctAnswer": "Tiger tank",
+      "incorrectAnswers": [
+        "Panther tank",
+        "Messerschmitt Bf 109",
+        "V-2 rocket"
+      ],
+      "question": {
+        "text": "Besides the Volkswagen Beetle, which wartime vehicle did Ferdinand Porsche design for the Nazi regime?"
+      },
+      "tags": [
+        "category:history",
+        "category:science",
+        "category:society-and-culture",
+        "era:1940s",
+        "era:20th-century",
+        "event:world-war-ii",
+        "topic:military",
+        "topic:weapons",
+        "topic:transport",
+        "science:technology",
+        "place:germany",
+        "place:europe",
+        "place:central-europe",
+        "place:western-europe"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its name is shared with a large striped feline.",
+      "explanation": "Porsche's prototype lost out to Henschel's design, but its chassis was later adapted into the Ferdinand tank destroyer."
+    },
+    {
+      "category": "history",
+      "id": "622a1c347cc59eab6f94f9ef",
+      "correctAnswer": "James Madison",
+      "incorrectAnswers": [
+        "Zachary Taylor",
+        "John Adams",
+        "Herbert Hoover"
+      ],
+      "question": {
+        "text": "Who was the 4th president of the USA, in term during the period 1809–1817?"
+      },
+      "tags": [
+        "category:history",
+        "person:us-presidents",
+        "topic:american-history",
+        "topic:politics",
+        "topic:us-politics",
+        "era:19th-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He helped draft the U.S. Constitution and co-authored The Federalist Papers.",
+      "explanation": "James Madison was president during the War of 1812, when British troops burned the White House in 1814."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9501de",
+      "correctAnswer": "Luc Besson",
       "incorrectAnswers": [
         "Steven Spielberg",
         "Woody Allen",
         "Martin Scorsese"
       ],
       "question": {
-        "text": "Which director directed Harry Potter and the Half-Blood Prince?"
+        "text": "Which director directed Lucy?"
       },
       "tags": [
-        "film_and_tv"
+        "category:film-and-tv",
+        "topic:film",
+        "topic:science-fiction",
+        "person:film-directors"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "He also directed the final two films in the series.",
-      "explanation": "David Yates went on to direct all four remaining Harry Potter films, more than any other director in the series."
-    },
-    {
-      "category": "history",
-      "id": "645a6490158db1bd1779f199",
-      "correctAnswer": "Harold Macmillan",
-      "incorrectAnswers": [
-        "Margaret Thatcher",
-        "Winston Churchill",
-        "Clement Attlee"
-      ],
-      "question": {
-        "text": "Who succeeded Anthony Eden as the Prime Minister of the United Kingdom in 1957?"
-      },
-      "tags": [
-        "people",
-        "politics",
-        "uk",
-        "british_prime_ministers",
-        "1950's"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "As prime minister, he later spoke of a “wind of change” sweeping through Africa.",
-      "explanation": "Macmillan remained prime minister until 1963, when Alec Douglas-Home succeeded him."
-    },
-    {
-      "category": "music",
-      "id": "622a1c367cc59eab6f95036b",
-      "correctAnswer": "Simon & Garfunkel",
-      "incorrectAnswers": [
-        "Sonny & Cher",
-        "Hall & Oates",
-        "The Everly Brothers"
-      ],
-      "question": {
-        "text": "Which duo recorded the 1970 song 'El Condor Pasa (If I Could)'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Their folk-rock harmonies also appear on The Graduate soundtrack.",
-      "explanation": "Simon & Garfunkel’s version popularized a Peruvian melody, with English lyrics by Paul Simon."
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f9513a7",
-      "correctAnswer": "Don Quixote",
-      "incorrectAnswers": [
-        "The Diary of a Chambermaid",
-        "The Neverending Story",
-        "Orlando Furioso"
-      ],
-      "question": {
-        "text": "In which book does 'Alonso Quijano' appear?"
-      },
-      "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "He is the aging Spanish gentleman who reinvents himself as a knight-errant.",
-      "explanation": "In Miguel de Cervantes's novel, Alonso Quijano adopts the name Don Quixote and sets out on adventures as a knight-errant."
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500b9",
-      "correctAnswer": "Nigel Mansell",
-      "incorrectAnswers": [
-        "Damon Hill",
-        "Martin Brundle",
-        "Johnny Herbert"
-      ],
-      "question": {
-        "text": "Which Formula One driver signed for McLaren in 1995 but was too big to fit in the car, missing the first two races?"
-      },
-      "tags": [
-        "sport",
-        "racing"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The 1992 world champion's stocky build caused the cockpit-fit problem.",
-      "explanation": "Nigel Mansell had won the drivers' championship with Williams before joining McLaren; his 1995 return to Formula One was brief."
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95013d",
-      "correctAnswer": "Isis",
-      "incorrectAnswers": [
-        "Set",
-        "Ammit",
-        "Horus"
-      ],
-      "question": {
-        "text": "In Egyptian mythology, who was Horus' mother?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "She was the wife of Osiris and a major goddess associated with magic and protection.",
-      "explanation": "Isis was also Osiris's sister; after he was killed by Set, she protected their son as he grew up."
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff67",
-      "correctAnswer": "Bob Dylan",
-      "incorrectAnswers": [
-        "Neil Young",
-        "Tom Petty",
-        "Bruce Springsteen"
-      ],
-      "question": {
-        "text": "Which musician wrote the song 'Knockin' on Heaven's Door'?"
-      },
-      "tags": [
-        "songs",
-        "musicians",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The songwriter also wrote “Blowin’ in the Wind” and “Like a Rolling Stone.”",
-      "explanation": "Bob Dylan’s song first appeared in the film Pat Garrett and Billy the Kid, in which Dylan also had a small acting role."
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b70",
-      "correctAnswer": "Evanescence",
-      "incorrectAnswers": [
-        "Within Temptation",
-        "Lacuna Coil",
-        "Nightwish"
-      ],
-      "question": {
-        "text": "Which American alternative metal band released the studio album 'The Open Door'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Their breakthrough album Fallen featured the hit song “Bring Me to Life.”",
-      "explanation": "Evanescence’s second studio album includes the single “Call Me When You’re Sober.”"
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624ab0cc348a461bfc67069a",
-      "correctAnswer": "India",
-      "incorrectAnswers": [
-        "Europe",
-        "China",
-        "South America"
-      ],
-      "question": {
-        "text": "From which part of the world does eggplant originate?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Baingan bharta is a famous dish from the region where this vegetable originated.",
-      "explanation": "Eggplant is native to India and nearby parts of South Asia, and it later spread to other regions through trade."
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e96",
-      "correctAnswer": "Michael Crichton",
-      "incorrectAnswers": [
-        "Suzanne Collins",
-        "James Fenimore Cooper",
-        "Donna Leon"
-      ],
-      "question": {
-        "text": "Which author wrote 'Jurassic Park'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The same novelist wrote The Andromeda Strain and created the television drama ER.",
-      "explanation": "Michael Crichton trained as a physician, and many of his novels explore the dangers and consequences of scientific advances."
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e5f",
-      "correctAnswer": "William Gibson",
-      "incorrectAnswers": [
-        "Ursula K. Le Guin",
-        "Edgar Rice Burroughs",
-        "Margaret Atwood"
-      ],
-      "question": {
-        "text": "Which author wrote 'Neuromancer'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The author helped popularize the term “cyberspace” in an earlier short story.",
-      "explanation": "William Gibson's novel won the Hugo, Nebula, and Philip K. Dick awards, making it the first novel to win all three."
+      "hint": "He also directed The Fifth Element and Léon: The Professional.",
+      "explanation": "Luc Besson co-founded the French film company EuropaCorp."
     }
   ]
 }

@@ -1,283 +1,328 @@
 {
-  "gameDate": "2026-11-14",
+  "gameDate": "2026-11-15",
   "difficulty": "easy",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f95164a",
-      "correctAnswer": "Lettuce",
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f9500c1",
+      "correctAnswer": "Five",
       "incorrectAnswers": [
-        "Egg",
-        "Tomato",
-        "Bread"
+        "Four",
+        "Six",
+        "Seven"
       ],
       "question": {
-        "text": "Iceberg, Boston, and Bibb are types of what?"
+        "text": "How many players from each team are on court at once in basketball?"
       },
       "tags": [
-        "food",
-        "food_and_drink"
+        "category:sport-and-leisure",
+        "sport:sports",
+        "sport:basketball",
+        "sport:sports-rules-and-terms"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "One is the crisp, pale-green layer often tucked into burgers and served in salads.",
-      "explanation": "Lettuce varieties include different types: iceberg is crisphead, while Boston and Bibb are butterhead varieties."
+      "hint": "A traditional lineup has two guards, two forwards, and one center.",
+      "explanation": "Each team has five players on the court, and substitutions can change which players fill those spots during the game."
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe55",
+      "correctAnswer": "South America",
+      "incorrectAnswers": [
+        "Africa",
+        "Europe",
+        "Asia"
+      ],
+      "question": {
+        "text": "In which continent would you find the Amazon River?"
+      },
+      "tags": [
+        "category:geography",
+        "place:amazon",
+        "place:south-america"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The river flows through Brazil and drains into the Atlantic Ocean.",
+      "explanation": "South America contains most of the Amazon basin, which spans several countries, including Brazil and Peru."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f914",
+      "correctAnswer": "The Silence of the Lambs",
+      "incorrectAnswers": [
+        "Casablanca",
+        "A Nightmare on Elm Street",
+        "Taxi Driver"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Hannibal Lecter'?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "topic:fictional-characters",
+        "topic:crime-fiction"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "An FBI trainee consults this imprisoned psychiatrist while hunting a serial killer.",
+      "explanation": "Anthony Hopkins won the Academy Award for Best Actor for playing Hannibal Lecter, despite appearing on screen for only about 16 minutes."
     },
     {
       "category": "science",
-      "id": "62433548cfaae40c12961498",
-      "correctAnswer": "A Ram",
+      "id": "622a1c377cc59eab6f95055f",
+      "correctAnswer": "Dialects",
       "incorrectAnswers": [
-        "A Jack",
-        "A Drake",
-        "A Rooster"
+        "X-Rays",
+        "Drugs",
+        "Clouds"
       ],
       "question": {
-        "text": "What would you call a male sheep?"
+        "text": "What is dialectology the study of?"
       },
       "tags": [
-        "science"
+        "category:science",
+        "category:society-and-culture",
+        "topic:ologies-and-phobias",
+        "topic:language",
+        "topic:languages-of-the-world"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Like a bull among cattle, this animal may have large curled horns.",
-      "explanation": "A male sheep is called a ram; the female is a ewe, and a young sheep is a lamb."
+      "hint": "It examines how language varies among regions and communities.",
+      "explanation": "Dialectology studies variation in language across regions and communities, including differences in pronunciation, vocabulary, and grammar."
     },
     {
-      "category": "general_knowledge",
-      "id": "646089ddde964ebc39016c83",
-      "correctAnswer": "Mole",
+      "category": "film_and_tv",
+      "id": "64dfa27da6681754ea052baf",
+      "correctAnswer": "A warthog",
       "incorrectAnswers": [
-        "Ferret",
-        "Rat",
-        "Squirrel"
+        "A lion",
+        "An elephant",
+        "A rhinoceros"
       ],
       "question": {
-        "text": "Which term describes a spy who operates within the intelligence service of another country?"
+        "text": "In the Lion King, what sort of animal is Pumbaa?"
       },
       "tags": [
-        "espionage",
-        "words"
+        "category:film-and-tv",
+        "category:science",
+        "animal:animals",
+        "animal:mammals",
+        "org:disney",
+        "topic:animated-films",
+        "topic:fictional-characters",
+        "work:the-lion-king"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "The term uses an animal metaphor associated with tunneling underground.",
-      "explanation": "A mole is named for the burrowing animal, evoking an agent hidden inside an organization."
-    },
-    {
-      "category": "history",
-      "id": "65056e837a97013de78b52fd",
-      "correctAnswer": "Anglo-Saxons",
-      "incorrectAnswers": [
-        "Egyptians",
-        "Mongols",
-        "Berbers"
-      ],
-      "question": {
-        "text": "Which of these peoples lived in England during the early Middle Ages?"
-      },
-      "tags": [
-        "history",
-        "medieval",
-        "british history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "They crossed the North Sea from areas that are now Germany and Denmark and formed early English kingdoms.",
-      "explanation": "Anglo-Saxon kingdoms included Wessex, Mercia, and Northumbria before England was unified."
-    },
-    {
-      "category": "general_knowledge",
-      "id": "64746317bda4b199c327d0ca",
-      "correctAnswer": "Parcel",
-      "incorrectAnswers": [
-        "Postal",
-        "Pound",
-        "Pouch"
-      ],
-      "question": {
-        "text": "What is the \"P\" in UPS, the world's largest package delivery company?"
-      },
-      "tags": [
-        "companies",
-        "initials",
-        "business",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The initials expand to “United ___ Service.”",
-      "explanation": "Parcel is the P in United Parcel Service. UPS began in Seattle in 1907 as the American Messenger Company."
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63b0586e4799123c67712f28",
-      "correctAnswer": "Spanish",
-      "incorrectAnswers": [
-        "English",
-        "French",
-        "Portuguese"
-      ],
-      "question": {
-        "text": "What language is most widely spoken in Mexico?"
-      },
-      "tags": [
-        "mexico",
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Mexico was colonized by a European country whose name shares its root with the dominant language.",
-      "explanation": "Mexico has the world's largest population of speakers of Spanish, ahead of Spain and Colombia."
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6476390cf05ea6d6f587a17f",
-      "correctAnswer": "Eve",
-      "incorrectAnswers": [
-        "Rachel",
-        "Miriam",
-        "Sarah"
-      ],
-      "question": {
-        "text": "In the Bible, who was Adam's wife?"
-      },
-      "tags": [
-        "bible",
-        "christianity",
-        "society_and_culture",
-        "religion"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Genesis says she was formed from Adam's rib.",
-      "explanation": "Genesis says Adam named Eve because she would become the mother of all living."
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64fb150b717513cb79190392",
-      "correctAnswer": "Gravy",
-      "incorrectAnswers": [
-        "Salt",
-        "Bread",
-        "Cheese"
-      ],
-      "question": {
-        "text": "On a dinner table, what item might be served in a 'boat'?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It is commonly poured over mashed potatoes and roast meat.",
-      "explanation": "Gravy is often served in a gravy boat, a small serving dish with a spout for pouring."
-    },
-    {
-      "category": "society_and_culture",
-      "id": "626288b34b176d54800e3daf",
-      "correctAnswer": "Guinness",
-      "incorrectAnswers": [
-        "Stella Artois",
-        "Budweiser",
-        "Fosters"
-      ],
-      "question": {
-        "text": "Which beer brand is associated with the marketing slogan 'Good things come to those who wait'?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "drink",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This Irish stout is famous for its dark color and creamy head.",
-      "explanation": "Guinness promoted the slogan in ads for its stout, including a well-known commercial featuring surfers waiting for waves."
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6462628bab138b829b81ea25",
-      "correctAnswer": "Transylvania",
-      "incorrectAnswers": [
-        "Moldova",
-        "Dobruja",
-        "Banat"
-      ],
-      "question": {
-        "text": "What is the name of the Romanian region that is known for vampire legends?"
-      },
-      "tags": [
-        "romania",
-        "vampires",
-        "geography",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The fictional Count Dracula is famously associated with this region.",
-      "explanation": "Transylvania lies in central Romania, and Bram Stoker’s Dracula helped make its vampire legends famous worldwide."
-    },
-    {
-      "category": "science",
-      "id": "65056fae7a97013de78b549c",
-      "correctAnswer": "Light",
-      "incorrectAnswers": [
-        "Low",
-        "Long",
-        "Large"
-      ],
-      "question": {
-        "text": "For what does the \"L\" in LASER stand?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Lasers amplify a form of electromagnetic radiation.",
-      "explanation": "LASER stands for “light amplification by stimulated emission of radiation.”"
+      "hint": "The “Hakuna Matata” duo’s larger member has prominent tusks and a broad snout.",
+      "explanation": "Warthogs are wild pigs native to Africa, known for the long tusks on their faces."
     },
     {
       "category": "arts_and_literature",
-      "id": "63a0399ac7d86251f9b65c8d",
-      "correctAnswer": "Little Red Riding Hood",
+      "id": "65056eb17a97013de78b533d",
+      "correctAnswer": "Through the Looking Glass",
       "incorrectAnswers": [
-        "Hey Diddle Diddle",
-        "Mary Had a Little Lamb",
-        "Baa Baa Black Sheep"
+        "Alice's Adventures in Wonderland",
+        "The Hunting of the Snark",
+        "A Tangled Tale"
       ],
       "question": {
-        "text": "What nursery rhyme is about a girl who went to the woods?"
+        "text": "Which Lewis Carroll book is a sequel to \"Alice's Adventures in Wonderland\"?"
       },
       "tags": [
-        "arts_and_literature",
-        "nursery_rhymes"
+        "category:arts-and-literature",
+        "topic:literature",
+        "topic:classic-literature",
+        "topic:british-literature",
+        "work:alices-adventures-in-wonderland"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Alice's journey in this follow-up is framed as a chess game, with characters moving like pieces.",
+      "explanation": "Through the Looking Glass builds its story around a chessboard, with Alice advancing across it toward becoming a queen."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9501f0",
+      "correctAnswer": "Christopher Nolan",
+      "incorrectAnswers": [
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
+      ],
+      "question": {
+        "text": "Which director directed Interstellar?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "person:christopher-nolan",
+        "topic:science-fiction",
+        "era:2010s",
+        "era:21st-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The filmmaker behind Inception and the Dark Knight trilogy also made this space epic.",
+      "explanation": "Christopher Nolan co-wrote Interstellar with his brother Jonathan Nolan, and Hans Zimmer composed its score."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "626288354b176d54800e3d90",
+      "correctAnswer": "Have it your way",
+      "incorrectAnswers": [
+        "A glass and a half in every half pound",
+        "Finger lickin' good",
+        "Snap! Crackle! Pop!"
+      ],
+      "question": {
+        "text": "What is the marketing slogan of Burger King?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "category:general-knowledge",
+        "category:food-and-drink",
+        "topic:advertising-and-slogans",
+        "food:fast-food"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Burger King's famous tagline highlights customizing each order to suit personal preferences.",
+      "explanation": "Burger King’s Have It Your Way campaign emphasized customized orders and was introduced in 1974."
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951073",
+      "correctAnswer": "Black",
+      "incorrectAnswers": [
+        "White",
+        "Red",
+        "Brown"
+      ],
+      "question": {
+        "text": "What color spots has the common ladybird?"
+      },
+      "tags": [
+        "category:science",
+        "animal:animals",
+        "animal:insects",
+        "science:biology",
+        "topic:colours"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its spots are the same color as the dots on a standard domino.",
+      "explanation": "The common ladybird's red-and-black coloring warns predators that it may taste unpleasant."
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3e7cc59eab6f95226c",
+      "correctAnswer": "Brakes",
+      "incorrectAnswers": [
+        "Steering Wheel",
+        "Engine",
+        "Exhaust Pipe"
+      ],
+      "question": {
+        "text": "In a car, what might be disc or drum?"
+      },
+      "tags": [
+        "category:general-knowledge",
+        "topic:cars-and-motoring"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "They slow the car, and one common design uses pads pressing against a flat rotor.",
+      "explanation": "Brakes can use pads that squeeze a rotor in a disc setup or shoes that press outward inside a drum."
+    },
+    {
+      "category": "science",
+      "id": "65056fda7a97013de78b54d9",
+      "correctAnswer": "Tsunami",
+      "incorrectAnswers": [
+        "Solar wind",
+        "Hurricane",
+        "Comet"
+      ],
+      "question": {
+        "text": "Which phenomenon is usually caused by an earthquake?"
+      },
+      "tags": [
+        "category:science",
+        "science:earth-science",
+        "science:volcanoes-and-earthquakes"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "A quake beneath the ocean can suddenly displace water and send powerful surges toward shore.",
+      "explanation": "Tsunamis are often triggered by undersea earthquakes that displace the seafloor; they can travel across entire ocean basins."
+    },
+    {
+      "category": "science",
+      "id": "6462624aab138b829b81e9d8",
+      "correctAnswer": "Morse code",
+      "incorrectAnswers": [
+        "Binary code",
+        "ASCII code",
+        "Unicode"
+      ],
+      "question": {
+        "text": "What is the name of the communication method represented by a series of dots and dashes?"
+      },
+      "tags": [
+        "category:science",
+        "category:general-knowledge",
+        "science:telecommunications",
+        "topic:alphabets-and-codes"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its signals can be sent as short and long sounds, flashes, or taps.",
+      "explanation": "Morse code was designed for telegraphy, with each letter represented by a distinct pattern of short and long signals."
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f952331",
+      "correctAnswer": "Erosion",
+      "incorrectAnswers": [
+        "Sediment",
+        "Vegetation",
+        "Sublimation"
+      ],
+      "question": {
+        "text": "By what process is rock worn down by the weather?"
+      },
+      "tags": [
+        "category:science",
+        "science:earth-science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -285,429 +330,442 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f9522ad",
-      "correctAnswer": "1 Year",
+      "category": "general_knowledge",
+      "id": "622a1c3e7cc59eab6f95224a",
+      "correctAnswer": "Narcissism",
       "incorrectAnswers": [
-        "1 Day",
-        "28 Days",
-        "1 Month"
+        "Greed",
+        "Ego",
+        "Obsession"
       ],
       "question": {
-        "text": "How long does it take for the Earth to orbit the Sun?"
+        "text": "In the field of psychiatry, which term means self-love?"
       },
       "tags": [
-        "science",
-        "astronomy",
-        "general_knowledge"
+        "category:science",
+        "category:society-and-culture",
+        "science:psychology",
+        "science:medical-terminology",
+        "science:medicine",
+        "topic:language"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "The cycle of spring, summer, fall, and winter tracks this trip.",
-      "explanation": "Earth's orbit takes about 365.25 days, so leap days help keep the calendar aligned with the seasons."
+      "hint": "In Greek myth, a young man became captivated by his own reflection.",
+      "explanation": "Narcissism takes its name from Narcissus, the figure in Greek myth who fell in love with his reflection."
     },
     {
-      "category": "history",
-      "id": "639895755c9a75021f310457",
-      "correctAnswer": "The Steam Engine",
+      "category": "arts_and_literature",
+      "id": "65056e077a97013de78b5250",
+      "correctAnswer": "Jules Verne",
       "incorrectAnswers": [
-        "Electricity",
-        "The Wheel",
-        "The Printing Press"
+        "Edgar Allan Poe",
+        "Harriet Beecher Stowe",
+        "Herman Melville"
       ],
       "question": {
-        "text": "What 18th century invention was considered to be one of the foundations of the Industrial Revolution?"
+        "text": "Who wrote \"Around the World in 80 Days\"?"
       },
       "tags": [
-        "history",
-        "1700's",
-        "inventions"
+        "category:arts-and-literature",
+        "person:jules-verne",
+        "topic:classic-literature",
+        "topic:french-literature",
+        "topic:literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Early versions pumped water out of coal mines before powering factories and locomotives.",
-      "explanation": "The steam engine converted heat into mechanical motion. James Watt's improvements made it much more efficient and useful in the late 18th century."
+      "hint": "The same French novelist imagined Captain Nemo and the Nautilus.",
+      "explanation": "Jules Verne was a French novelist whose other adventure stories include Twenty Thousand Leagues Under the Sea and Journey to the Center of the Earth."
     },
     {
       "category": "geography",
-      "id": "62602db94b176d54800e3ca9",
-      "correctAnswer": "United Kingdom",
+      "id": "623b5834fd6c701a921183a4",
+      "correctAnswer": "Russia",
       "incorrectAnswers": [
-        "United States",
-        "New Zealand",
+        "Bosnia & Herzegovina",
+        "Greece",
+        "Sweden"
+      ],
+      "question": {
+        "text": "In which country would you find the city of Saint Petersburg?"
+      },
+      "tags": [
+        "category:geography",
+        "place:cities",
+        "place:russia",
+        "place:europe",
+        "place:eastern-europe"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The city stands at the eastern end of the Gulf of Finland, beside the Baltic Sea.",
+      "explanation": "Saint Petersburg was founded by Peter the Great and served as Russia's capital before the capital moved back to Moscow."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502c3",
+      "correctAnswer": "Clove",
+      "incorrectAnswers": [
+        "Husk",
+        "Kernel",
+        "Nibbet"
+      ],
+      "question": {
+        "text": "What is a segment of garlic called?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "food:vegetables",
+        "food:herbs-and-spices"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Each piece is wrapped in a thin, papery skin and can be crushed for cooking.",
+      "explanation": "A garlic bulb is made up of several cloves, each wrapped in a thin, papery skin."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950248",
+      "correctAnswer": "Apple",
+      "incorrectAnswers": [
+        "Blackberry",
+        "Strawberry",
+        "Banana"
+      ],
+      "question": {
+        "text": "Which fruit is traditionally covered with toffee at a fairground?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "food:fruit",
+        "food:sweets-and-chocolate",
+        "food:snacks"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This crisp orchard fruit is also a classic filling for pies.",
+      "explanation": "The fairground treat is a toffee apple, often served on a stick with a hard, glossy coating."
+    },
+    {
+      "category": "science",
+      "id": "650570427a97013de78b556a",
+      "correctAnswer": "Africa",
+      "incorrectAnswers": [
+        "Australia",
+        "Europe",
+        "South America"
+      ],
+      "question": {
+        "text": "Which continent are zebras native to?"
+      },
+      "tags": [
+        "category:science",
+        "category:geography",
+        "animal:animals",
+        "animal:mammals",
+        "animal:african-wildlife",
+        "place:africa"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Their native habitat includes the Serengeti, known for its vast herds of migrating wildlife.",
+      "explanation": "Africa is home to several zebra species, including plains, mountain, and Grévy's zebras."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63e4c34c106de6ffa7d4a7ca",
+      "correctAnswer": "Rose",
+      "incorrectAnswers": [
+        "Lily",
+        "Daisy",
+        "Tulip"
+      ],
+      "question": {
+        "text": "What flower has cultural significance for being associated with love?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "topic:symbols-and-signs"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its red variety is a classic romantic gift on Valentine's Day.",
+      "explanation": "The rose is especially associated with romantic love in Western traditions, and its different colors can carry different meanings."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056e657a97013de78b52d3",
+      "correctAnswer": "Trinity",
+      "incorrectAnswers": [
+        "Atonement",
+        "Eucharist",
+        "Apocrypha"
+      ],
+      "question": {
+        "text": "What is the Christian term for Father, Son and the Holy Spirit?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "topic:christianity",
+        "topic:religion"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Christian creeds describe three distinct persons sharing one divine nature.",
+      "explanation": "The Trinity is a central Christian doctrine; its three persons are understood as one God, not three separate gods."
+    },
+    {
+      "category": "geography",
+      "id": "6237353fcfe13103f55eb512",
+      "correctAnswer": "India",
+      "incorrectAnswers": [
+        "United Kingdom",
+        "Indonesia",
         "Ireland"
       ],
       "question": {
-        "text": "In which country is the city of Edinburgh?"
+        "text": "Which region of the world uses '.in' at the end of its web addresses?"
       },
       "tags": [
-        "cities",
-        "europe",
-        "geography"
+        "category:geography",
+        "category:general-knowledge",
+        "topic:country-codes",
+        "place:india",
+        "place:asia",
+        "place:south-asia"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Edinburgh is Scotland’s capital, and Scotland shares an island with England and Wales.",
-      "explanation": "Edinburgh is also home to the Scottish Parliament. Scotland is one of the United Kingdom's four constituent countries."
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f95005c",
-      "correctAnswer": "Adidas",
-      "incorrectAnswers": [
-        "Reebok",
-        "Puma",
-        "Nike"
-      ],
-      "question": {
-        "text": "Which sportswear company uses three stripes as its logo?"
-      },
-      "tags": [
-        "marketing",
-        "logos",
-        "business",
-        "fashion",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its founder, Adolf Dassler, was known by a nickname that begins the brand name.",
-      "explanation": "Adidas was founded by German shoemaker Adi Dassler; its name combines Adi with the beginning of his surname."
-    },
-    {
-      "category": "geography",
-      "id": "623740e7cb85f7ce9e949d2e",
-      "correctAnswer": "Tokyo",
-      "incorrectAnswers": [
-        "Osaka",
-        "Okinawa",
-        "Shanghai"
-      ],
-      "question": {
-        "text": "What is the capital city of Japan?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Japan's Imperial Palace is located in this major city on Honshu.",
-      "explanation": "Tokyo was formerly known as Edo; it was renamed when the emperor moved there in 1868."
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f8c3d2f5c16bfb88334",
-      "correctAnswer": "The crew of a spacecraft encounter a deadly lifeform after investigating a transmission.",
-      "incorrectAnswers": [
-        "The life of the lawyer who became the famed leader of the Indian revolts against the British rule.",
-        "An insurance representative lets a housewife seduce him into a scheme of insurance fraud and murder.",
-        "After the death of a tycoon, reporters scramble to uncover the meaning of his final utterance."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Alien?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "A chest-bursting scene aboard the Nostromo became one of horror cinema’s most famous moments.",
-      "explanation": "Ridley Scott directed Alien, a 1979 science-fiction horror film that launched a long-running franchise."
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "63a0397ec7d86251f9b65c6b",
-      "correctAnswer": "Scrabble",
-      "incorrectAnswers": [
-        "Risk",
-        "Chess",
-        "Monopoly"
-      ],
-      "question": {
-        "text": "What is the name of the classic board game where players must spell words with tiles?"
-      },
-      "tags": [
-        "board_games"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Lettered tiles score extra points when placed on special squares in a grid.",
-      "explanation": "Scrabble was invented by American architect Alfred Mosher Butts, who based the tiles’ letter values partly on how often letters appeared in print."
-    },
-    {
-      "category": "society_and_culture",
-      "id": "639c9d9a929b90846f2fc965",
-      "correctAnswer": "Shari'a",
-      "incorrectAnswers": [
-        "Halakha",
-        "Karma",
-        "Dharma"
-      ],
-      "question": {
-        "text": "What is the name of the Islamic law?"
-      },
-      "tags": [
-        "islam",
-        "religion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its principles are drawn from the Quran and the teachings and practices of the Prophet Muhammad.",
-      "explanation": "Shari'a is an Arabic term meaning “the way” and refers to religious guidance interpreted in different ways across Muslim communities."
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63d95303168979b94b2e4f79",
-      "correctAnswer": "The Simpsons",
-      "incorrectAnswers": [
-        "South Park",
-        "Family Guy",
-        "SpongeBob SquarePants"
-      ],
-      "question": {
-        "text": "Which iconic animated sitcom includes a teenage boy named Bart?"
-      },
-      "tags": [
-        "cartoons",
-        "sitcoms",
-        "tv",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "His father Homer works at Springfield's nuclear power plant.",
-      "explanation": "The Simpsons first appeared as animated shorts on The Tracey Ullman Show before becoming its own series."
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501b0",
-      "correctAnswer": "The Two Towers",
-      "incorrectAnswers": [
-        "Life, the Universe and Everything",
-        "The Mysterious Island",
-        "A Connecticut Yankee in King Arthur's Court"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'Aragorn sped on up the hill.'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "J. R. R. Tolkien's middle volume follows the Fellowship after it breaks apart.",
-      "explanation": "The Two Towers contains two books: one follows Aragorn, Legolas, and Gimli pursuing Merry and Pippin, while the other follows Frodo and Sam toward Mordor."
-    },
-    {
-      "category": "geography",
-      "id": "62373602cfe13103f55eb591",
-      "correctAnswer": "The United Kingdom",
-      "incorrectAnswers": [
-        "Ukraine",
-        "Uzbekistan",
-        "Uganda"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.uk' at the end of its web addresses?"
-      },
-      "tags": [
-        "the_internet",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its capital is London, and it includes England, Scotland, Wales, and Northern Ireland.",
-      "explanation": "The United Kingdom uses the country-code domain .uk; Ukraine, Uzbekistan, and Uganda use .ua, .uz, and .ug, respectively."
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f922",
-      "correctAnswer": "Austin Powers: International Man of Mystery",
-      "incorrectAnswers": [
-        "Die Hard",
-        "The Adventures of Robin Hood",
-        "Pulp Fiction"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Dr. Evil'?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its villain is a bald, pinky-raising parody of a Bond-style supervillain.",
-      "explanation": "Mike Myers plays both Dr. Evil and the British spy, giving the two characters distinct voices and appearances."
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f86e",
-      "correctAnswer": "Football",
-      "incorrectAnswers": [
-        "Snooker",
-        "Cricket",
-        "Motor racing"
-      ],
-      "question": {
-        "text": "With which sport is Cristiano Ronaldo associated?"
-      },
-      "tags": [
-        "people",
-        "general_knowledge",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "He has starred for clubs including Manchester United, Real Madrid, and Juventus.",
-      "explanation": "Cristiano Ronaldo has won the Ballon d’Or multiple times, an individual award recognizing excellence in football."
+      "hint": "The Taj Mahal and Bollywood are both associated with this South Asian country.",
+      "explanation": ".in is the country-code top-level domain for India; Indonesia uses .id, Ireland .ie, and the United Kingdom .uk."
     },
     {
       "category": "science",
-      "id": "63e13a18106de6ffa7d4a792",
-      "correctAnswer": "Triangle",
+      "id": "65056f727a97013de78b544c",
+      "correctAnswer": "Genetics",
       "incorrectAnswers": [
-        "Square",
-        "Parallelogram",
-        "Trapezoid"
+        "Paleontology",
+        "Macrobiology",
+        "Zoology"
       ],
       "question": {
-        "text": "What is the name of a shape with three sides?"
+        "text": "What is the study of heredity?"
       },
       "tags": [
-        "science",
-        "mathematics",
-        "shapes"
+        "category:science",
+        "science:biology",
+        "science:genetics"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Yield signs and many warning signs have this three-sided outline.",
-      "explanation": "A triangle’s interior angles add up to 180 degrees in Euclidean geometry, and its three sides make it the simplest polygon."
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6aa0f7e07bba16e6425b1e62",
-      "correctAnswer": "Pawn",
-      "incorrectAnswers": [
-        "Knight",
-        "Bishop",
-        "Rook"
-      ],
-      "question": {
-        "text": "Which is the only chess piece that can never move backwards?"
-      },
-      "tags": [
-        "chess",
-        "games",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It advances toward the opponent and can capture only diagonally forward.",
-      "explanation": "A pawn that reaches the farthest rank is promoted, usually to a queen."
+      "hint": "It examines how traits pass from parents to offspring.",
+      "explanation": "Genetics studies genes and inheritance; Gregor Mendel's pea-plant experiments helped establish the field."
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eeb",
-      "correctAnswer": "Charles Dickens",
+      "id": "622a1c397cc59eab6f950eb1",
+      "correctAnswer": "J. K. Rowling",
       "incorrectAnswers": [
-        "Oscar Wilde",
-        "Joseph Conrad",
-        "Henryk Sienkiewicz"
+        "Christopher Tolkien",
+        "Philip Pullman",
+        "C. S. Lewis"
       ],
       "question": {
-        "text": "Which author wrote 'Great Expectations'?"
+        "text": "Which author wrote 'Harry Potter and the Chamber of Secrets'?"
       },
       "tags": [
-        "arts_and_literature"
+        "category:arts-and-literature",
+        "topic:literature",
+        "topic:childrens-books",
+        "topic:fantasy",
+        "topic:modern-fiction",
+        "topic:british-literature",
+        "work:harry-potter",
+        "person:authors"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "The same Victorian novelist created Ebenezer Scrooge and Oliver Twist.",
-      "explanation": "Great Expectations follows Pip, an orphan who receives money from an unknown benefactor. Dickens first published the novel in weekly installments."
+      "hint": "The author also wrote the rest of the seven-book series about the young wizard.",
+      "explanation": "J. K. Rowling's second book follows Harry's second year at Hogwarts, where a hidden chamber is reopened and students are mysteriously attacked."
     },
     {
-      "category": "film_and_tv",
-      "id": "63a03974c7d86251f9b65c5e",
-      "correctAnswer": "Ariel",
+      "category": "history",
+      "id": "64824ee57778562fd76a96b2",
+      "correctAnswer": "Stovepipe",
       "incorrectAnswers": [
-        "Belle",
-        "Jasmine",
-        "Elsa"
+        "Tricorne",
+        "Fedora",
+        "Sombrero"
       ],
       "question": {
-        "text": "What is the name of the mermaid in the Disney film The Little Mermaid?"
+        "text": "What type of hat did Abraham Lincoln famously wear?"
       },
       "tags": [
-        "film_and_tv",
-        "disney",
-        "film",
-        "fictitious_characters"
+        "category:history",
+        "category:society-and-culture",
+        "person:abraham-lincoln",
+        "topic:american-history",
+        "topic:fashion",
+        "era:19th-century"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "The red-haired mermaid falls in love with Prince Eric.",
-      "explanation": "Ariel gives up her voice in a bargain with Ursula to become human."
+      "hint": "Its tall, straight-sided crown made it resemble a chimney.",
+      "explanation": "Lincoln's stovepipe hat had room inside its crown for letters and papers, which he sometimes carried there."
     },
     {
       "category": "music",
-      "id": "65056e5f7a97013de78b52cb",
-      "correctAnswer": "Rhythm and Blues",
+      "id": "622a1c357cc59eab6f94ff37",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
-        "Bossa nova",
-        "Polka",
-        "Classical music"
+        "Prince",
+        "Stevie Wonder",
+        "Lionel Richie"
       ],
       "question": {
-        "text": "Which musical genre is widely considered a direct predecessor of rock and roll?"
+        "text": "'Billie Jean' is a song by which musician?"
       },
       "tags": [
-        "music",
-        "rock",
-        "genres"
+        "category:music",
+        "music:michael-jackson",
+        "music:pop"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "explanation": "Rhythm and Blues helped shape early rock and roll, and the term was popularized by Billboard in 1949."
+      "hint": "He performed this hit during the Motown 25 special, where his moonwalk became a sensation.",
+      "explanation": "Michael Jackson's album Thriller features the song, whose distinctive bass line became one of his signature sounds."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60ad50d1a5e051325a6c",
+      "correctAnswer": "Italy",
+      "incorrectAnswers": [
+        "Equatorial Guinea",
+        "Spain",
+        "Austria"
+      ],
+      "question": {
+        "text": "Where in the world would you most expect to be served Lasagna?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "category:geography",
+        "food:italian-cuisine",
+        "food:pasta",
+        "food:world-cuisine",
+        "place:italy",
+        "place:europe",
+        "place:southern-europe"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Bologna is famous for a regional version of this layered pasta dish.",
+      "explanation": "Italy is the traditional home of lasagna, with regional versions such as Bolognese lasagna made with ragù and béchamel."
+    },
+    {
+      "category": "geography",
+      "id": "646339bc01d576cfac3aa3ae",
+      "correctAnswer": "The Spice Islands",
+      "incorrectAnswers": [
+        "The Coral Islands",
+        "The Hidden Islands",
+        "The Sunken Islands"
+      ],
+      "question": {
+        "text": "What was the former name of the Moluccas, islands known for cloves, mace, and nutmeg?"
+      },
+      "tags": [
+        "category:geography",
+        "place:indonesia",
+        "place:asia",
+        "place:southeast-asia",
+        "place:islands",
+        "topic:former-place-names"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "European traders prized the islands for aromatic crops that shaped their historic nickname.",
+      "explanation": "The Spice Islands became a focus of European competition, as merchants sought control of the lucrative trade in their aromatic crops."
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "69a561b52858226c00dd2f81",
+      "correctAnswer": "Her grandmother",
+      "incorrectAnswers": [
+        "Her teacher",
+        "Her friend",
+        "Her neighbor"
+      ],
+      "question": {
+        "text": "In 'Little Red Riding Hood', who does Red Riding Hood visit?"
+      },
+      "tags": [
+        "category:arts-and-literature",
+        "topic:fairy-tales",
+        "topic:literature",
+        "topic:childrens-books"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The person she visits is sick and lives in a cottage in the woods.",
+      "explanation": "Her grandmother is ill in bed, and the wolf reaches the cottage before Red Riding Hood does."
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f95106e",
+      "correctAnswer": "Dermatologist",
+      "incorrectAnswers": [
+        "Permologist",
+        "Skin Clinician",
+        "Visologist"
+      ],
+      "question": {
+        "text": "What is a skin specialist called?"
+      },
+      "tags": [
+        "category:science",
+        "science:medicine",
+        "topic:occupations"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This physician treats rashes, acne, and other conditions affecting the body's outer covering.",
+      "explanation": "Dermatologists also treat disorders of hair and nails, which are closely related to skin."
     }
   ]
 }
