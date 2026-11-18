@@ -1,156 +1,129 @@
 {
-  "gameDate": "2026-11-17",
+  "gameDate": "2026-11-18",
   "difficulty": "medium",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "6af94efea4b633775a2784d8",
-      "correctAnswer": "Enter the Dragon",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94feca",
+      "correctAnswer": "Kate Bush",
       "incorrectAnswers": [
-        "Fist of Fury",
-        "The Way of the Dragon",
-        "Game of Death"
+        "David Bowie",
+        "John Lennon",
+        "George Michael"
       ],
       "question": {
-        "text": "Which 1973 martial arts film was Bruce Lee's last completed movie before his death?"
+        "text": "Which British recording artist released the song 'Wuthering Heights'?"
       },
       "tags": [
-        "category:film-and-tv",
-        "topic:film",
-        "person:actors",
-        "era:1970s",
+        "category:music",
+        "music:musicians",
+        "music:pop"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Her later hit “Running Up That Hill” gained a new wave of popularity through Stranger Things.",
+      "explanation": "Kate Bush wrote the song after being inspired by Emily Brontë’s novel; it became her first UK number-one single."
+    },
+    {
+      "category": "geography",
+      "id": "623388190161109f922aac66",
+      "correctAnswer": "Brandenburg",
+      "incorrectAnswers": [
+        "Bavaria",
+        "Saxony",
+        "Bremen"
+      ],
+      "question": {
+        "text": "Which German federal state surrounds the city of Berlin?"
+      },
+      "tags": [
+        "category:geography",
+        "place:berlin",
+        "place:germany",
+        "place:europe",
+        "place:western-europe",
+        "place:central-europe"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its capital, Potsdam, lies just southwest of Berlin.",
+      "explanation": "Brandenburg’s capital is Potsdam, known for Sanssouci Palace and its gardens."
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f951356",
+      "correctAnswer": "Dadaism",
+      "incorrectAnswers": [
+        "Post Impressionism",
+        "Fauvism",
+        "Nihilism"
+      ],
+      "question": {
+        "text": "Which art movement aimed to create antiart and non art, employing a sense of the absurd?"
+      },
+      "tags": [
+        "category:arts-and-literature",
+        "topic:art",
+        "topic:art-movements",
+        "topic:modern-art",
         "era:20th-century"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Warner Bros. co-produced this landmark, Lee’s only film made with a major Hollywood studio.",
-      "explanation": "Enter the Dragon was a Hong Kong–US co-production between Golden Harvest and Warner Bros., helping introduce Bruce Lee to a global audience."
+      "hint": "Its artists used chance, collage, and nonsensical performances to reject wartime cultural conventions.",
+      "explanation": "Dadaism took shape at Zurich’s Cabaret Voltaire in 1916, where artists challenged traditional ideas of art and culture."
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950617",
-      "correctAnswer": "Zoe Saldana",
+      "category": "geography",
+      "id": "6260309c4b176d54800e3d31",
+      "correctAnswer": "La Paz",
       "incorrectAnswers": [
-        "Catherine Deneuve",
-        "Audrey Hepburn",
-        "Rachel Weisz"
+        "Belo Horizonte",
+        "Buenos Aires",
+        "Caracas"
       ],
       "question": {
-        "text": "Which actress has played the roles of Gamora in the Marvel Cinematic Universe, and of Neytiri in the Avatar films?"
+        "text": "Which of these cities is in Bolivia?"
       },
       "tags": [
-        "category:film-and-tv",
-        "person:actors",
-        "topic:film",
-        "work:marvel",
-        "work:marvel-cinematic-universe"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "She also played Uhura in the rebooted Star Trek films.",
-      "explanation": "Zoe Saldana also portrayed Nyota Uhura in the Star Trek reboot films, making her a star of three major science-fiction franchises."
-    },
-    {
-      "category": "music",
-      "id": "6470d79b423445f16131b4cd",
-      "correctAnswer": "LPs",
-      "incorrectAnswers": [
-        "MP3s",
-        "CDs",
-        "DVDs"
-      ],
-      "question": {
-        "text": "What abbreviation is commonly used to refer to music albums?"
-      },
-      "tags": [
-        "category:music",
-        "category:general-knowledge",
-        "topic:abbreviations-and-acronyms",
-        "music:albums"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Turntables and large vinyl discs are closely associated with this album format.",
-      "explanation": "LPs are long-playing records, a format designed to hold more music than earlier 78 rpm discs."
-    },
-    {
-      "category": "history",
-      "id": "639c9dbf929b90846f2fc9b1",
-      "correctAnswer": "1910",
-      "incorrectAnswers": [
-        "1810",
-        "1710",
-        "2010"
-      ],
-      "question": {
-        "text": "In which year did the Mexican Revolution begin?"
-      },
-      "tags": [
-        "category:history",
-        "event:revolutions",
-        "place:mexico",
-        "place:north-america",
+        "category:geography",
+        "place:cities",
+        "place:bolivia",
+        "place:south-america",
         "place:americas",
         "place:latin-america",
-        "era:1910s",
-        "era:20th-century"
+        "place:andes"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "It began amid growing opposition to Porfirio Díaz's long presidency.",
-      "explanation": "The revolution began after Francisco I. Madero challenged Porfirio Díaz’s rule, a century after Mexico’s independence struggle started."
+      "hint": "It sits high in the Andes and serves as Bolivia's seat of government.",
+      "explanation": "La Paz is Bolivia's seat of government, while Sucre is the country's constitutional capital."
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950dd6",
-      "correctAnswer": "Queen",
+      "category": "society_and_culture",
+      "id": "645bc75b4638d58091b1b9e8",
+      "correctAnswer": "Nevadan",
       "incorrectAnswers": [
-        "Led Zeppelin",
-        "The Who",
-        "Pink Floyd"
+        "Nevadite",
+        "Nevadese",
+        "Nevadanian"
       ],
       "question": {
-        "text": "Which band includes Brian May as its lead guitarist?"
+        "text": "What is the more common term for a person from Nevada?"
       },
       "tags": [
-        "category:music",
-        "music:queen",
-        "music:musicians",
-        "music:rock"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Their flamboyant frontman was Freddie Mercury, and they recorded “We Will Rock You.”",
-      "explanation": "Queen guitarist Brian May is also an astrophysicist; he completed a doctorate decades after his music career began."
-    },
-    {
-      "category": "history",
-      "id": "649b45ba828109028d23623a",
-      "correctAnswer": "The North",
-      "incorrectAnswers": [
-        "The South",
-        "The East",
-        "The West"
-      ],
-      "question": {
-        "text": "Which was the victorious side in the U.S. Civil War?"
-      },
-      "tags": [
-        "category:history",
-        "event:american-civil-war",
-        "topic:american-history",
-        "topic:military",
-        "era:19th-century",
+        "category:society-and-culture",
+        "category:geography",
+        "topic:words",
+        "place:us-states",
         "place:united-states",
         "place:north-america",
         "place:americas"
@@ -159,445 +132,176 @@
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Abraham Lincoln led the federal government whose forces ultimately prevailed.",
-      "explanation": "The North's victory preserved the Union, and the Confederacy's surrender in 1865 brought the war to a close."
+      "hint": "It follows the same naming pattern as the term for someone from Ohio.",
+      "explanation": "Nevadan is the standard English demonym. Nevada's name comes from a Spanish word meaning “snow-covered.”"
     },
     {
-      "category": "society_and_culture",
-      "id": "6266e6c0ff2394bd44dee062",
-      "correctAnswer": "Dix",
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fb8f",
+      "correctAnswer": "\"No Scrubs\" by TLC",
       "incorrectAnswers": [
-        "Dez",
-        "Dieci",
-        "Noir"
+        "\"Hooked on a Feeling\" by B.J. Thomas",
+        "\"Rapper's Delight\" by Sugarhill Gang",
+        "\"Fergalicious\" by Fergie and will.i.am."
       ],
       "question": {
-        "text": "What is the French word for 'ten'?"
+        "text": "Which song begins with the lyrics: \"A scrub is a guy that thinks he's fly and is also known as a busta.\"?"
       },
       "tags": [
-        "category:society-and-culture",
-        "topic:language",
-        "topic:translations",
-        "topic:french-language",
-        "science:numbers"
+        "category:music",
+        "music:song-lyrics",
+        "music:musicians",
+        "music:rnb-and-soul"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "In French counting, it comes immediately after neuf and before onze.",
-      "explanation": "Dix is usually pronounced like “dees” when spoken alone; the Portuguese and Italian forms have different spellings and sounds."
+      "hint": "The same R&B trio behind “Waterfalls” recorded this late-1990s hit.",
+      "explanation": "No Scrubs appeared on TLC’s album FanMail, whose title honors the letters the group received from fans."
     },
     {
       "category": "science",
-      "id": "649d381fe3aef0a3c23f641f",
-      "correctAnswer": "Dividing by zero",
+      "id": "62433368cfaae40c129613dd",
+      "correctAnswer": "A Tom",
       "incorrectAnswers": [
-        "Multiplying by zero",
-        "Adding zero",
-        "Subtracting zero"
+        "A Rooster",
+        "A Boar",
+        "A Buck"
       ],
       "question": {
-        "text": "Which of these is against the rules of mathematics?"
-      },
-      "tags": [
-        "category:science",
-        "science:mathematics"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The related multiplication equation has either no solution or no unique solution for the quotient.",
-      "explanation": "Dividing by zero is undefined: no number multiplied by zero can produce a nonzero dividend, while every number produces zero, so zero divided by zero has no unique result."
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9505bb",
-      "correctAnswer": "Mila Kunis",
-      "incorrectAnswers": [
-        "Jacqueline Bisset",
-        "Sophia Loren",
-        "Madonna"
-      ],
-      "question": {
-        "text": "Which actress has acted in both That '70s Show and Black Swan?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "person:actors",
-        "topic:film",
-        "topic:television"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "She played the wealthy, fashionable Jackie on the sitcom and a rival ballerina in the psychological drama.",
-      "explanation": "Mila Kunis also voices Meg Griffin on Family Guy, a role she has played for many years."
-    },
-    {
-      "category": "geography",
-      "id": "626030954b176d54800e3d2f",
-      "correctAnswer": "Ukraine",
-      "incorrectAnswers": [
-        "Azerbaijan",
-        "Pakistan",
-        "Kazakhstan"
-      ],
-      "question": {
-        "text": "Lviv is a city in which country?"
-      },
-      "tags": [
-        "category:geography",
-        "place:cities",
-        "place:ukraine",
-        "place:europe",
-        "place:eastern-europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It lies in the western part of the Eastern European country whose capital is Kyiv.",
-      "explanation": "Lviv is in western Ukraine, near the border with Poland."
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c3c7cc59eab6f951999",
-      "correctAnswer": "The 5 Continents",
-      "incorrectAnswers": [
-        "The 5 founding countries of the modern Olympics",
-        "The 5 city states of ancient Greece",
-        "The 5 events of the ancient Olympics"
-      ],
-      "question": {
-        "text": "What do the five rings on the Olympic flag represent?"
-      },
-      "tags": [
-        "category:sport-and-leisure",
-        "category:geography",
-        "sport:olympic-games",
-        "sport:sports",
-        "topic:flags",
-        "topic:symbols-and-signs"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The rings symbolize the worldwide reach of the Games and the unity of athletes across the globe.",
-      "explanation": "The 5 Continents refers to the regions represented by the Olympic movement, whose rings symbolize their unity through sport."
-    },
-    {
-      "category": "science",
-      "id": "65056ffb7a97013de78b5507",
-      "correctAnswer": "Wolf",
-      "incorrectAnswers": [
-        "Jaguar",
-        "Skunk",
-        "Tiger"
-      ],
-      "question": {
-        "text": "Which of these animals doesn't live in solitude?"
+        "text": "A male cat is known as what?"
       },
       "tags": [
         "category:science",
         "animal:animals",
         "animal:mammals",
-        "animal:animal-behaviour"
+        "animal:cats",
+        "topic:animal-terminology"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "It is known for living and hunting in family groups called packs.",
-      "explanation": "Wolves live in packs and often cooperate when hunting, unlike the typically solitary jaguar and tiger."
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417db60f96c4efe8d773e2",
-      "correctAnswer": "Seattle Kraken",
-      "incorrectAnswers": [
-        "Seattle Indians",
-        "Seattle Sharks",
-        "Seattle Wizards"
-      ],
-      "question": {
-        "text": "Which of these is a hockey team based in Seattle?"
-      },
-      "tags": [
-        "category:sport-and-leisure",
-        "sport:ice-hockey",
-        "sport:sports"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Seattle's newest NHL franchise began play in the 2021–22 season.",
-      "explanation": "The Seattle Kraken began NHL play in the 2021–22 season as the league’s 32nd franchise."
+      "hint": "The same term is used for an adult male turkey.",
+      "explanation": "A tom is a male cat; the term is often used especially for one that has not been neutered."
     },
     {
       "category": "society_and_culture",
-      "id": "62ab32cb5202de619af28127",
-      "correctAnswer": "Land Rover",
+      "id": "6293ec057f41d6338b96eed1",
+      "correctAnswer": "German Communist philosopher.",
       "incorrectAnswers": [
-        "Fiat",
-        "Alfa Romeo",
-        "Citroën"
+        "Leader of Soviet Communist Party who pursued reform to open Eastern Europe to democracy.",
+        "Diplomat and Renaissance writer considered the father of political science.",
+        "Theoretical physicist and one of the pioneers of quantum mechanics."
       ],
       "question": {
-        "text": "Which car manufacturer makes the Range Rover?"
+        "text": "Which of the following describes Karl Marx?"
       },
       "tags": [
         "category:society-and-culture",
-        "category:general-knowledge",
-        "topic:cars-and-motoring",
-        "topic:business",
-        "org:car-manufacturers",
-        "org:companies"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It also makes the Defender and Discovery, two other well-known SUVs.",
-      "explanation": "Range Rover is Land Rover's luxury SUV line, alongside the Discovery and Defender."
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "647f9ded3a4302a719271677",
-      "correctAnswer": "James and the Giant Peach",
-      "incorrectAnswers": [
-        "John and the Giant Apple",
-        "Jack and the Giant Pear",
-        "Jonah and the Giant Pineapple"
-      ],
-      "question": {
-        "text": "In which book did Roald Dahl tell the story of a boy's adventure in a giant piece of fruit?"
-      },
-      "tags": [
-        "category:arts-and-literature",
-        "person:roald-dahl",
-        "topic:literature",
-        "topic:childrens-books",
-        "topic:british-literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The boy travels with oversized insect companions inside a stone fruit.",
-      "explanation": "In James and the Giant Peach, James travels across the Atlantic inside the fruit with a group of talking insects."
-    },
-    {
-      "category": "geography",
-      "id": "646261c8ab138b829b81e993",
-      "correctAnswer": "Vatican City",
-      "incorrectAnswers": [
-        "Monaco",
-        "Liechtenstein",
-        "San Marino"
-      ],
-      "question": {
-        "text": "Which tiny country has been independent from Italy since 1929 and is the home of the Pope?"
-      },
-      "tags": [
-        "category:geography",
         "category:history",
-        "category:society-and-culture",
-        "place:europe",
-        "place:european-microstates",
-        "era:1920s",
-        "era:20th-century",
-        "topic:independence-and-separatism"
+        "person:philosophers",
+        "topic:philosophy",
+        "topic:political-ideologies"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Its tiny territory is an enclave surrounded by Rome, Italy’s capital.",
-      "explanation": "Vatican City’s sovereignty was established by the Lateran Treaty between Italy and the Holy See in 1929."
+      "hint": "His best-known book is Das Kapital, and he frequently collaborated with Friedrich Engels.",
+      "explanation": "Karl Marx's writings on class struggle and capitalism became a major influence on socialist movements and political theory."
     },
     {
-      "category": "geography",
-      "id": "645bc75b4638d58091b1b9e9",
-      "correctAnswer": "Las Vegas",
+      "category": "science",
+      "id": "65056e7f7a97013de78b52f8",
+      "correctAnswer": "Amphibians",
       "incorrectAnswers": [
-        "Los Angeles",
-        "Lansing",
-        "Louisiana"
+        "Reptiles",
+        "Birds",
+        "Mammals"
       ],
       "question": {
-        "text": "Which city is represented by the airport code LAS?"
-      },
-      "tags": [
-        "category:geography",
-        "category:general-knowledge",
-        "place:las-vegas",
-        "place:united-states",
-        "place:north-america",
-        "place:americas",
-        "topic:aviation",
-        "topic:transport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its famous Strip is lined with casinos and hotels.",
-      "explanation": "LAS is the code for Harry Reid International Airport, which serves Las Vegas."
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ec467f41d6338b96eee4",
-      "correctAnswer": "Louis Daguerre",
-      "incorrectAnswers": [
-        "Isaac Newton",
-        "Guglielmo Marconi",
-        "Claude Monet"
-      ],
-      "question": {
-        "text": "Which French artist developed the first commercially successful photographic process in 1839?"
+        "text": "What animals grow up in water and live as adults mostly on land?"
       },
       "tags": [
         "category:science",
-        "category:history",
-        "category:arts-and-literature",
-        "science:inventions",
-        "person:inventors",
-        "topic:photography",
-        "topic:famous-firsts",
-        "era:19th-century"
+        "animal:amphibians",
+        "animal:animals",
+        "science:biology"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "The process bears his name.",
-      "explanation": "Louis Daguerre announced the daguerreotype process in 1839."
+      "hint": "A frog’s change from tadpole to adult is a familiar example of this life pattern.",
+      "explanation": "Amphibian comes from Greek roots meaning “both lives,” reflecting many species’ shift from aquatic early stages to adult life largely on land."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f4f9da29df7b05f7394",
+      "correctAnswer": "The lives of guards on Death Row are affected by a man accused of child murder and rape.",
+      "incorrectAnswers": [
+        "An archaeologist is hired by the government to find the Ark of the Covenant.",
+        "Two men searching for work in 1920s Mexico convince an old prospector to help them mine for gold.",
+        "After a mathematician accepts secret work in cryptography, his life takes a turn for the nightmarish."
+      ],
+      "question": {
+        "text": "What is the plot of the movie The Green Mile?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The imprisoned John Coffey displays miraculous healing powers, a key element of this Stephen King adaptation.",
+      "explanation": "The Green Mile follows prison guard Paul Edgecomb and his coworkers as they encounter John Coffey, an inmate convicted of raping and murdering two girls who has a miraculous healing gift."
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c3a7cc59eab6f9511db",
-      "correctAnswer": "Ash",
+      "id": "622a1c367cc59eab6f9500f5",
+      "correctAnswer": "Hermes",
       "incorrectAnswers": [
-        "Wood",
-        "Birch",
-        "Charcoal"
+        "Apollo",
+        "Mercury",
+        "Artemis"
       ],
       "question": {
-        "text": "In Egyptian mythology, who is known as the god of the desert and oases?"
+        "text": "Who is the Greek messenger god?"
       },
       "tags": [
         "category:society-and-culture",
-        "topic:mythology",
-        "topic:egyptian-mythology"
+        "topic:greek-mythology",
+        "topic:mythology"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "He was associated with Egypt’s western frontier and the neighboring Libyan desert.",
-      "explanation": "Ash was associated with Egypt’s western desert and the neighboring region of Libya."
+      "hint": "His winged sandals let him travel swiftly between the gods and mortals.",
+      "explanation": "Hermes also served as a guide for travelers and escorted the dead to the underworld."
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eb4",
-      "correctAnswer": "Charles Darwin",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fada",
+      "correctAnswer": "Adrien Brody",
       "incorrectAnswers": [
-        "Percy Bysshe Shelley",
-        "H. Rider Haggard",
-        "Robert Louis Stevenson"
+        "Nicolas Cage",
+        "Michael Caine",
+        "Daniel Day-Lewis"
       ],
       "question": {
-        "text": "Which author wrote 'On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection'?"
+        "text": "Who won the 2002 Academy Award for Best Leading Actor for playing the role of Wladyslaw Szpilman in The Pianist?"
       },
       "tags": [
-        "category:arts-and-literature",
-        "category:science",
-        "topic:non-fiction",
-        "topic:language",
-        "person:charles-darwin",
-        "person:authors",
-        "science:evolution"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "His voyage aboard HMS Beagle helped shape his ideas about evolution.",
-      "explanation": "The essay formed part of a 1858 presentation of ideas on natural selection by Charles Darwin and Alfred Russel Wallace to the Linnean Society."
-    },
-    {
-      "category": "geography",
-      "id": "62628cd452c39217ab0d70f2",
-      "correctAnswer": "The Danube",
-      "incorrectAnswers": [
-        "The Nile",
-        "The Amazon",
-        "The Congo"
-      ],
-      "question": {
-        "text": "Which river has the most capital cities on it?"
-      },
-      "tags": [
-        "category:geography",
-        "place:rivers",
-        "place:europe",
-        "place:central-europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its course runs through Vienna, Bratislava, Budapest, and Belgrade.",
-      "explanation": "The Danube runs through or alongside four national capitals: Vienna, Bratislava, Budapest, and Belgrade."
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63b0692d4799123c67712f5d",
-      "correctAnswer": "Kippah",
-      "incorrectAnswers": [
-        "Topi",
-        "Taqiyah",
-        "Capotain"
-      ],
-      "question": {
-        "text": "What is the traditional Jewish head covering for men?"
-      },
-      "tags": [
-        "category:society-and-culture",
-        "topic:judaism",
-        "topic:religion",
-        "topic:fashion"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It is a small, usually round cap worn on the crown of the head.",
-      "explanation": "A kippah is also commonly known as a yarmulke; Jewish customs around when to wear one vary."
-    },
-    {
-      "category": "music",
-      "id": "64dd35bb9cef2bd3a34a8d57",
-      "correctAnswer": "Alicia Keys",
-      "incorrectAnswers": [
-        "Beyoncé",
-        "Rihanna",
-        "Taylor Swift"
-      ],
-      "question": {
-        "text": "In 2007, which artist had a hit with her song 'No One'?"
-      },
-      "tags": [
-        "category:music",
-        "music:musicians",
-        "music:charts",
-        "music:pop",
-        "music:rnb-and-soul",
+        "category:film-and-tv",
+        "event:academy-awards",
+        "topic:awards-and-honours",
+        "topic:film",
+        "person:actors",
         "era:2000s",
         "era:21st-century"
       ],
@@ -605,192 +309,477 @@
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "The singer is also known for piano-driven R&B hits like 'Fallin'.'",
-      "explanation": "Alicia Keys wrote and performed 'Fallin',' an early hit that helped establish her as a singer-songwriter."
+      "hint": "His win made him the youngest Best Actor winner in Oscar history at the time.",
+      "explanation": "Adrien Brody was 29 when he won, making him the youngest Best Actor winner in Academy Awards history."
     },
     {
-      "category": "arts_and_literature",
-      "id": "645f94f3541c4d4fc8cf2e9a",
-      "correctAnswer": "Charlotte's Web",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94feb4",
+      "correctAnswer": "Beyoncé",
       "incorrectAnswers": [
-        "Animal Farm",
-        "Black Beauty",
-        "Watership Down"
+        "Rihanna",
+        "Alicia Keys",
+        "Ciara"
       ],
       "question": {
-        "text": "Which book published in 1952 features an unusual friendship between a spider and a pig?"
+        "text": "Which American singer, actress and record producer released the song 'Video Phone'?"
       },
       "tags": [
-        "category:arts-and-literature",
-        "topic:literature",
-        "topic:childrens-books",
-        "era:1950s",
+        "category:music",
+        "music:beyonce",
+        "music:pop",
+        "music:rnb-and-soul"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The song appeared on a double album built around the alter ego Sasha Fierce.",
+      "explanation": "Beyoncé included “Video Phone” on her third studio album, I Am... Sasha Fierce; a later remix featured Lady Gaga."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502fa",
+      "correctAnswer": "Bloody Mary",
+      "incorrectAnswers": [
+        "Margarita",
+        "Sangria",
+        "Manhattan"
+      ],
+      "question": {
+        "text": "Which cocktail contains the following ingredients: Vodka, tomato juice, lemon, tabasco sauce, salt, pepper, celery, salt?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "food:cocktails",
+        "food:alcoholic-drinks",
+        "food:drinks",
+        "food:spirits"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This savory brunch favorite is often served with a celery stalk as a garnish.",
+      "explanation": "The Bloody Mary is often served with a celery-stick garnish; its alcohol-free counterpart is called a Virgin Mary."
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fef1",
+      "correctAnswer": "David Bowie",
+      "incorrectAnswers": [
+        "Elton John",
+        "Rod Stewart",
+        "Sting"
+      ],
+      "question": {
+        "text": "Which British musician released the studio album 'Hunky Dory'?"
+      },
+      "tags": [
+        "category:music",
+        "music:david-bowie",
+        "music:albums",
+        "music:rock"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He later became famous for the alien rock persona Ziggy Stardust.",
+      "explanation": "David Bowie’s 1971 album includes “Life on Mars?” and “Changes,” two of his best-known songs."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740ef9da29df7b05f7403",
+      "correctAnswer": "Dead Poets Society",
+      "incorrectAnswers": [
+        "Raging Bull",
+        "Modern Times",
+        "The Wizard of Oz"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'A maverick teacher emboldens his students to new heights of self-expression.'"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "topic:film-plots"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its teacher urges students to seize the day and explore unconventional ways of expressing themselves.",
+      "explanation": "Dead Poets Society centers on English teacher John Keating, played by Robin Williams, whose lessons encourage students to think independently and embrace poetry."
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdb0",
+      "correctAnswer": "Reed",
+      "incorrectAnswers": [
+        "Bell",
+        "Valve",
+        "Pad"
+      ],
+      "question": {
+        "text": "What is the vibrating part of many woodwind instruments that produces the sound called?"
+      },
+      "tags": [
+        "category:music",
+        "category:science",
+        "music:instruments",
+        "science:light-and-sound"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Clarinet and saxophone players place a thin piece of cane against the mouthpiece to make it vibrate.",
+      "explanation": "A reed vibrates as air passes over it; clarinets and saxophones use one, while oboes use a pair."
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6488def050a27f7378a91df9",
+      "correctAnswer": "Loco",
+      "incorrectAnswers": [
+        "Fiesta",
+        "Amigo",
+        "Churro"
+      ],
+      "question": {
+        "text": "Which word, borrowed from Spanish, means \"insane\"?"
+      },
+      "tags": [
+        "category:general-knowledge",
+        "category:society-and-culture",
+        "topic:language",
+        "topic:words",
+        "topic:etymology",
+        "topic:spanish-language"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "A familiar playful phrase pairs this word with “motion” to describe wild, energetic behavior.",
+      "explanation": "Loco is the masculine form; Spanish uses loca with feminine nouns."
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f95008b",
+      "correctAnswer": "Super heavyweight",
+      "incorrectAnswers": [
+        "Flyweight",
+        "Heavyweight",
+        "Maxweight"
+      ],
+      "question": {
+        "text": "What is the heaviest class of weight-lifting?"
+      },
+      "tags": [
+        "category:sport-and-leisure",
+        "sport:sports",
+        "sport:sports-rules-and-terms"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This top division has no upper limit on competitors’ body weight.",
+      "explanation": "Super heavyweight is the highest weight class, with no upper body-weight ceiling of its own."
+    },
+    {
+      "category": "science",
+      "id": "65056fcf7a97013de78b54c9",
+      "correctAnswer": "Chlorine",
+      "incorrectAnswers": [
+        "Helium",
+        "Oxygen",
+        "Carbon dioxide"
+      ],
+      "question": {
+        "text": "Which gas is yellow-green?"
+      },
+      "tags": [
+        "category:science",
+        "science:chemical-elements",
+        "science:chemistry"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its compounds are used to disinfect swimming pools and drinking water.",
+      "explanation": "Chlorine is a halogen, in the same chemical family as fluorine, bromine, and iodine."
+    },
+    {
+      "category": "history",
+      "id": "62611f4e4b176d54800e3d50",
+      "correctAnswer": "1979",
+      "incorrectAnswers": [
+        "1967",
+        "1995",
+        "2002"
+      ],
+      "question": {
+        "text": "In which year was the Iranian Revolution?"
+      },
+      "tags": [
+        "category:history",
+        "category:society-and-culture",
+        "event:revolutions",
+        "topic:politics",
+        "place:iran",
+        "place:asia",
+        "place:middle-east",
+        "era:1970s",
         "era:20th-century"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Its author, E. B. White, also wrote the children's book Stuart Little.",
-      "explanation": "Charlotte's Web was written by E. B. White; Charlotte helps Wilbur by weaving words into her web."
+      "hint": "It came at the end of the decade when the Shah was overthrown and Iran became an Islamic Republic.",
+      "explanation": "The Iranian Revolution took place in 1979, ending the monarchy of Mohammad Reza Shah Pahlavi and leading to the Islamic Republic."
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "65056f857a97013de78b5466",
+      "correctAnswer": "Salvador Dalí",
+      "incorrectAnswers": [
+        "Francisco de Zurbarán",
+        "Georges Seurat",
+        "Johannes Vermeer"
+      ],
+      "question": {
+        "text": "Which Spanish painter was known for his trippy paintings?"
+      },
+      "tags": [
+        "category:arts-and-literature",
+        "person:artists",
+        "topic:art",
+        "topic:art-movements",
+        "topic:modern-art",
+        "topic:painting"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "His surrealist paintings often show dreamlike scenes, including watches that seem to melt.",
+      "explanation": "Salvador Dalí was a leading figure in Surrealism; he also designed the daisy-shaped logo for the Chupa Chups lollipop brand."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6262af904b176d54800e3dd0",
+      "correctAnswer": "Safe For Work",
+      "incorrectAnswers": [
+        "Saturday Friday Wednesday",
+        "So Fucking Weak",
+        "Soda For Weeks"
+      ],
+      "question": {
+        "text": "What do the letters 'SFW' mean on internet chats?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "category:general-knowledge",
+        "topic:abbreviations-and-acronyms",
+        "topic:internet-culture",
+        "topic:slang"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This tag signals that a link can be opened during a regular office day.",
+      "explanation": "Safe For Work labels content generally considered suitable to view in an office; NSFW is the warning for content that may not be."
+    },
+    {
+      "category": "geography",
+      "id": "625ea004796f721e95543fc8",
+      "correctAnswer": "Blue",
+      "incorrectAnswers": [
+        "Black",
+        "Orange",
+        "White"
+      ],
+      "question": {
+        "text": "Which of these colors is included on the flag of Ukraine?"
+      },
+      "tags": [
+        "category:geography",
+        "place:ukraine",
+        "place:europe",
+        "place:eastern-europe",
+        "topic:flags",
+        "topic:national-symbols",
+        "topic:colours"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The flag's upper half is traditionally associated with the country's open skies.",
+      "explanation": "Blue is the upper band of Ukraine's flag, above the yellow band; the colors are commonly linked to the sky and wheat fields."
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd55",
+      "correctAnswer": "Prince",
+      "incorrectAnswers": [
+        "James Brown",
+        "Chris Brown",
+        "Jamiroquai"
+      ],
+      "question": {
+        "text": "With which artist is the funk band The New Power Generation associated?"
+      },
+      "tags": [
+        "category:music",
+        "music:prince",
+        "music:rnb-and-soul"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The Minneapolis musician behind Purple Rain used this group as his backing band.",
+      "explanation": "The New Power Generation was Prince’s backing band and was credited with him on albums such as Diamonds and Pearls."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6488dead50a27f7378a91dca",
+      "correctAnswer": "Vodka",
+      "incorrectAnswers": [
+        "Tequila",
+        "Rum",
+        "Gin"
+      ],
+      "question": {
+        "text": "What is the main alcoholic ingredient typically used in a screwdriver?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "food:drinks",
+        "food:alcoholic-drinks",
+        "food:spirits",
+        "food:cocktails"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its relatively neutral flavor lets the orange juice dominate the cocktail.",
+      "explanation": "Vodka is also used in a Moscow mule, which is typically made with ginger beer and lime."
     },
     {
       "category": "film_and_tv",
-      "id": "64824f247778562fd76a96c7",
-      "correctAnswer": "Rihanna",
+      "id": "62573f909da29df7b05f73a2",
+      "correctAnswer": "In the future, a small waste-collecting robot inadvertently embarks on a space journey.",
       "incorrectAnswers": [
-        "Beyonce",
-        "Adele",
-        "Shakira"
+        "On a journey to find the cure for a curse, a boy finds himself in the middle of a war.",
+        "After a mathematician accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+        "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler."
       ],
       "question": {
-        "text": "Which one-named singer showed off her acting in 'Ocean's 8' as a hacker/stoner named Nine Ball in 2018?"
+        "text": "What is the plot of the movie WALL·E?"
       },
       "tags": [
         "category:film-and-tv",
-        "person:actors",
-        "music:rihanna",
         "topic:film",
-        "era:2010s",
+        "topic:film-plots",
+        "topic:animated-films",
+        "topic:science-fiction",
+        "org:disney",
+        "org:pixar",
+        "era:2000s",
         "era:21st-century"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "The singer behind Umbrella played the tech-savvy member of the heist crew.",
-      "explanation": "Rihanna was born in Barbados and became a global pop star with songs including “Umbrella” and “Diamonds.”"
+      "hint": "A living plant discovered on an abandoned Earth sets this Pixar adventure in motion.",
+      "explanation": "WALL·E is a cleanup robot left on a garbage-covered Earth. After meeting EVE, he follows her aboard the Axiom, a starliner where humans have lived for generations."
     },
     {
       "category": "sport_and_leisure",
-      "id": "63b058654799123c67712f1b",
-      "correctAnswer": "Golf",
+      "id": "622a1c367cc59eab6f950049",
+      "correctAnswer": "Table tennis",
       "incorrectAnswers": [
-        "Cricket",
-        "Rugby",
-        "Tennis"
+        "Golf",
+        "Archery",
+        "Cricket"
       ],
       "question": {
-        "text": "What sport is Scotland widely considered to be the home of?"
+        "text": "In which sport is the 'penholder grip' used?"
       },
       "tags": [
         "category:sport-and-leisure",
-        "category:geography",
-        "category:society-and-culture",
-        "sport:golf",
+        "sport:racket-sports",
         "sport:sports",
-        "place:scotland",
-        "place:united-kingdom",
-        "place:europe",
-        "place:british-isles"
+        "sport:sports-rules-and-terms"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "St Andrews is home to the sport's famous Old Course.",
-      "explanation": "Golf’s rules were shaped in part by the Royal and Ancient Golf Club of St Andrews, founded in 1754."
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe8a",
-      "correctAnswer": "Eminem",
-      "incorrectAnswers": [
-        "50 Cent",
-        "Dr. Dre",
-        "Jay-Z"
-      ],
-      "question": {
-        "text": "Which American rapper, producer and actor released the studio album 'The Marshall Mathers LP'?"
-      },
-      "tags": [
-        "category:music",
-        "music:eminem",
-        "music:hip-hop",
-        "music:albums"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The album title uses the performer’s birth name, Marshall Mathers.",
-      "explanation": "Eminem's birth name is Marshall Bruce Mathers III, which supplies the album's title."
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6239f838a72e7a347ac879d6",
-      "correctAnswer": "Uniform",
-      "incorrectAnswers": [
-        "Unable",
-        "Underneath",
-        "Umbrella"
-      ],
-      "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter U?"
-      },
-      "tags": [
-        "category:general-knowledge",
-        "topic:alphabets-and-codes"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The NATO code words around it are Tango and Victor.",
-      "explanation": "Uniform is the code word for U. The alphabet is designed to make letters easier to distinguish over radio and telephone connections."
-    },
-    {
-      "category": "society_and_culture",
-      "id": "648889155dba6c873ef650cc",
-      "correctAnswer": "Swipe right",
-      "incorrectAnswers": [
-        "Like it",
-        "Thumbs up",
-        "Heart it"
-      ],
-      "question": {
-        "text": "What is the two-word term that the Tinder app has popularized, meaning to accept or approve of something?"
-      },
-      "tags": [
-        "category:society-and-culture",
-        "topic:language",
-        "topic:slang",
-        "topic:internet-culture",
-        "topic:pop-culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Tinder users signal interest by moving a finger across a profile card in a particular direction.",
-      "explanation": "On Tinder, Swipe right signals interest in a profile, while its opposite signals rejection."
+      "hint": "Players hold a short-handled paddle much like a writing instrument.",
+      "explanation": "In table tennis, the penholder grip places the thumb and index finger around the paddle’s handle, with the remaining fingers resting on the blade."
     },
     {
       "category": "film_and_tv",
-      "id": "625699099da29df7b05f72ad",
-      "correctAnswer": "The Ancient One",
+      "id": "622a1c347cc59eab6f94f8c4",
+      "correctAnswer": "Orson Welles",
       "incorrectAnswers": [
-        "Agent Peggy Carter",
-        "Rocket Raccoon",
-        "Valkyrie"
+        "John Travolta",
+        "Bruce Willis",
+        "Robert De Niro"
       ],
       "question": {
-        "text": "Tilda Swinton plays the role of which character in the Marvel Cinematic Universe?"
+        "text": "Which actor played the role of Charles Foster Kane in Citizen Kane?"
       },
       "tags": [
         "category:film-and-tv",
-        "category:society-and-culture",
-        "work:marvel-cinematic-universe",
+        "person:actors",
         "topic:film",
-        "topic:superheroes",
-        "person:actors"
+        "topic:classic-hollywood"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "She is the mystical mentor who trains Stephen Strange in the ways of sorcery.",
-      "explanation": "The Ancient One protects Earth from mystical threats, including Dormammu, and guides Doctor Strange in his training."
+      "hint": "The film's director also portrayed its newspaper magnate.",
+      "explanation": "Orson Welles made his feature-film directing debut with Citizen Kane and also co-wrote and produced it."
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e06",
+      "correctAnswer": "Lewis Carroll",
+      "incorrectAnswers": [
+        "Enid Blyton",
+        "George Orwell",
+        "Charles Dickens"
+      ],
+      "question": {
+        "text": "Which author wrote 'Alice's Adventures in Wonderland'?"
+      },
+      "tags": [
+        "category:arts-and-literature",
+        "topic:literature",
+        "person:authors",
+        "topic:classic-literature",
+        "topic:childrens-books",
+        "topic:british-literature",
+        "work:alices-adventures-in-wonderland"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The same writer created the nonsense poem “Jabberwocky.”",
+      "explanation": "Lewis Carroll was the pen name of Charles Lutwidge Dodgson, a mathematician and writer."
     }
   ]
 }
