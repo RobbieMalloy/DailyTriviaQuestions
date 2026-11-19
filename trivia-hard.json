@@ -1,261 +1,516 @@
 {
-  "gameDate": "2026-11-18",
+  "gameDate": "2026-11-19",
   "difficulty": "hard",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c55",
-      "correctAnswer": "Iron Maiden",
+      "category": "science",
+      "id": "622a1c377cc59eab6f950489",
+      "correctAnswer": "study of human characteristics",
       "incorrectAnswers": [
-        "Judas Priest",
-        "Motörhead",
-        "Saxon"
+        "the eyes",
+        "wood",
+        "the study and psychology of organisms with regard to their functions and structures"
       ],
       "question": {
-        "text": "Which English heavy metal band released the song 'Hallowed Be Thy Name'?"
+        "text": "What is Somatology the study of?"
+      },
+      "tags": [
+        "category:science",
+        "topic:ologies-and-phobias",
+        "science:biology",
+        "science:human-body"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its Greek root, soma, means body.",
+      "explanation": "Somatology comes from Greek soma, meaning body; the field examines bodily form and physical traits."
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bd3",
+      "correctAnswer": "Bon Jovi",
+      "incorrectAnswers": [
+        "Def Leppard",
+        "Mötley Crüe",
+        "Skid Row"
+      ],
+      "question": {
+        "text": "Which rock band from the United States released the song 'It's My Life'?"
+      },
+      "tags": [
+        "category:music",
+        "music:rock",
+        "music:musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The group also made the arena-rock anthem “Livin’ on a Prayer.”",
+      "explanation": "Bon Jovi released “It’s My Life” on its 2000 album Crush; the song became one of the band’s signature hits."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950289",
+      "correctAnswer": "Filo",
+      "incorrectAnswers": [
+        "Choux",
+        "Flaky",
+        "Short crust"
+      ],
+      "question": {
+        "text": "What type of pastry is usually bought frozen in wafer thin slices?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "food:baking"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It is layered into paper-thin sheets and used in dishes such as baklava.",
+      "explanation": "Filo pastry is also used in spanakopita, a savory Greek pie often filled with spinach and cheese."
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951072",
+      "correctAnswer": "The automatic exchange",
+      "incorrectAnswers": [
+        "The hearing aid",
+        "The telegraph",
+        "The microphone"
+      ],
+      "question": {
+        "text": "Which invention, patented in 1891 by American undertaker Almon Strowger, removed the need for human operators to connect calls?"
+      },
+      "tags": [
+        "category:science",
+        "category:history",
+        "science:inventions",
+        "science:technology",
+        "science:telecommunications",
+        "person:inventors",
+        "era:19th-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Strowger's design let dial pulses move electromechanical selectors to the caller's chosen line.",
+      "explanation": "The automatic exchange routed calls through electromechanical switching; Strowger's first commercial system began operating in La Porte, Indiana, in 1892."
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63b069264799123c67712f57",
+      "correctAnswer": "Shuka",
+      "incorrectAnswers": [
+        "Kaftan",
+        "Thobe",
+        "Dashiki"
+      ],
+      "question": {
+        "text": "Which of these is a style of cloth used to make clothing by the Maasai people of East Africa?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "topic:fashion",
+        "topic:indigenous-peoples",
+        "place:eastern-africa",
+        "place:africa"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "A bright red, often checked wrap is closely associated with Maasai dress.",
+      "explanation": "Shuka is a brightly colored cloth commonly worn wrapped around the body by Maasai people; red is especially associated with Maasai dress."
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f85d",
+      "correctAnswer": "Track and field",
+      "incorrectAnswers": [
+        "Tennis",
+        "Figure skating",
+        "Swimming"
+      ],
+      "question": {
+        "text": "With which sport is Wilma Rudolph associated?"
+      },
+      "tags": [
+        "category:sport-and-leisure",
+        "sport:sports",
+        "sport:athletics",
+        "person:sportspeople"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "She won three gold medals in sprint events at the 1960 Rome Olympics.",
+      "explanation": "Wilma Rudolph overcame childhood polio and became one of the world’s fastest sprinters."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f92c",
+      "correctAnswer": "The Good, the Bad, and the Ugly",
+      "incorrectAnswers": [
+        "Chinatown",
+        "Fast Times at Ridgemont High",
+        "The Silence of the Lambs"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Blondie'?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "topic:fictional-characters",
+        "topic:westerns",
+        "era:1960s",
+        "era:20th-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Blondie is a gunslinger in Sergio Leone’s celebrated spaghetti Western trilogy.",
+      "explanation": "The Good, the Bad, and the Ugly is the final film in Sergio Leone's loosely connected Dollars trilogy, with Eastwood reprising the Man with No Name."
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951be5",
+      "correctAnswer": "Black Thursday",
+      "incorrectAnswers": [
+        "Dark Wednesday",
+        "Sorrowful Sunday",
+        "Miserable Monday"
+      ],
+      "question": {
+        "text": "How is the stockmarket collapse of the 24th October 1929 better known?"
+      },
+      "tags": [
+        "category:history",
+        "category:society-and-culture",
+        "event:great-depression",
+        "era:1920s",
+        "era:20th-century",
+        "topic:economics",
+        "topic:money-and-finance"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The date fell one day before the usual final workday of the week.",
+      "explanation": "Black Thursday saw heavy panic selling on Wall Street; the market’s even more notorious plunge came on October 29, known as Black Tuesday."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9506ae",
+      "correctAnswer": "Naomi Watts",
+      "incorrectAnswers": [
+        "Melissa Leo",
+        "Frances Conroy",
+        "Laura Linney"
+      ],
+      "question": {
+        "text": "Which actress has featured in both Birdman and Twin Peaks?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "person:actors",
+        "topic:film",
+        "topic:television",
+        "topic:american-tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "She played the lead in Peter Jackson's 2005 King Kong adventure film.",
+      "explanation": "Naomi Watts plays Lesley in Birdman and Janey-E Jones in Twin Peaks: The Return."
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501a1",
+      "correctAnswer": "Dream of the Red Chamber",
+      "incorrectAnswers": [
+        "Germinal",
+        "Madame Bovary",
+        "The Decameron"
+      ],
+      "question": {
+        "text": "In which book does 'Wang Xifeng' appear?"
+      },
+      "tags": [
+        "category:arts-and-literature",
+        "topic:literature",
+        "topic:classic-literature",
+        "topic:fictional-characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The character belongs to a classic Chinese novel focused on the fortunes of the Jia family.",
+      "explanation": "Dream of the Red Chamber follows the fortunes of the Jia family, with Wang Xifeng among its most influential women."
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bad",
+      "correctAnswer": "BTS",
+      "incorrectAnswers": [
+        "Kara",
+        "2NE1",
+        "Red Velvet"
+      ],
+      "question": {
+        "text": "Which South Korean boy group released the single 'Dynamite'?"
+      },
+      "tags": [
+        "category:music",
+        "music:boy-bands-and-girl-groups",
+        "music:musicians",
+        "music:pop",
+        "music:world-music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The group’s devoted fanbase is known as ARMY.",
+      "explanation": "Dynamite was BTS's first song recorded entirely in English and became the group's first No. 1 on the Billboard Hot 100."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc1d",
+      "correctAnswer": "\"One morning I shot an elephant in my pajamas. How he got in my pajamas, I don't know.\"",
+      "incorrectAnswers": [
+        "\"Soylent Green is people!\"",
+        "\"I’m going to have to science the s*** out of this.\"",
+        "\"Toto, I've a feeling we're not in Kansas anymore.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Animal Crackers'?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "topic:film-quotes",
+        "topic:famous-quotes",
+        "topic:classic-hollywood",
+        "era:1930s",
+        "era:20th-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Groucho Marx delivers the film’s absurd, rapid-fire jokes as part of the Marx Brothers.",
+      "explanation": "Groucho Marx delivers the line as Captain Spaulding, turning a boast about an African expedition into a joke about the wording."
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417ddc0f96c4efe8d773f1",
+      "correctAnswer": "Winnipeg Jets",
+      "incorrectAnswers": [
+        "Winnipeg Padres",
+        "Winnipeg Broncos",
+        "Winnipeg Penguins"
+      ],
+      "question": {
+        "text": "Which of these is a hockey team based in Winnipeg?"
+      },
+      "tags": [
+        "category:sport-and-leisure",
+        "sport:ice-hockey",
+        "sport:sports"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The franchise relocated from Atlanta to Manitoba's capital in 2011.",
+      "explanation": "The current Winnipeg Jets franchise began as the Atlanta Thrashers and moved to Manitoba in 2011."
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60b850d1a5e051325a6f",
+      "correctAnswer": "Aloco",
+      "incorrectAnswers": [
+        "Borscht",
+        "Shawarma",
+        "Dholl Puri"
+      ],
+      "question": {
+        "text": "Which of these dishes is most associated with Côte d'Ivoire?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "category:geography",
+        "food:world-cuisine",
+        "place:ivory-coast",
+        "place:africa",
+        "place:western-africa",
+        "place:sub-saharan-africa"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It is made from ripe plantains, often fried and served as a side dish.",
+      "explanation": "Aloco is a popular Ivorian dish of fried ripe plantains, often served with spicy pepper sauce or grilled fish."
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b7b",
+      "correctAnswer": "Modern Talking",
+      "incorrectAnswers": [
+        "Sodom",
+        "Rage",
+        "Edguy"
+      ],
+      "question": {
+        "text": "Which German synth pop duo released the song 'You're My Heart, You're My Soul'?"
       },
       "tags": [
         "category:music",
         "music:musicians",
-        "music:heavy-metal"
+        "music:punk-and-new-wave",
+        "music:pop"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "The song closes the band's landmark album The Number of the Beast.",
-      "explanation": "Iron Maiden's song closes its 1982 album The Number of the Beast and became a longtime concert favorite."
+      "hint": "Its singers were Thomas Anders and Dieter Bohlen, a pair associated with polished 1980s Eurodisco.",
+      "explanation": "Modern Talking consisted of singer Thomas Anders and songwriter-producer Dieter Bohlen, whose polished sound helped make the duo a major 1980s pop act."
     },
     {
-      "category": "history",
-      "id": "639ae2c6929b90846f2fc8b4",
-      "correctAnswer": "L'Anse aux Meadows",
+      "category": "science",
+      "id": "65056fe17a97013de78b54e3",
+      "correctAnswer": "Low resistance",
       "incorrectAnswers": [
-        "Quebec",
-        "Hedgesville",
-        "Iceland"
+        "High resistance",
+        "High voltage",
+        "High current"
       ],
       "question": {
-        "text": "What was the name of the Viking settlement that was established in Newfoundland, Canada?"
+        "text": "What property is characteristic of good electrical conductors?"
       },
       "tags": [
-        "category:history",
-        "category:geography",
-        "science:archaeology",
-        "place:ancient-sites",
-        "place:canada",
-        "place:atlantic-canada",
-        "place:north-america",
-        "place:americas",
-        "era:viking-age"
+        "category:science",
+        "science:electricity-and-magnetism",
+        "science:physics"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "It is a UNESCO World Heritage site where archaeologists found remains of Norse turf buildings.",
-      "explanation": "L'Anse aux Meadows contains remains of Norse-style buildings, evidence of a European presence in North America centuries before Columbus."
+      "hint": "Copper's freely moving electrons make it a standard choice for wiring.",
+      "explanation": "Low resistance lets current flow with less energy lost as heat; copper is widely used in wiring for this reason."
     },
     {
       "category": "geography",
-      "id": "622a1c387cc59eab6f9508ae",
-      "correctAnswer": "South Africa",
+      "id": "623387b30161109f922aac3e",
+      "correctAnswer": "Ethiopia",
       "incorrectAnswers": [
-        "Lesotho",
-        "Eswatini",
-        "Angola"
+        "Syria",
+        "Egypt",
+        "Azerbaijan"
       ],
       "question": {
-        "text": "Which of these countries borders Botswana?"
+        "text": "Which country was previously called Abyssinia?"
+      },
+      "tags": [
+        "category:geography",
+        "category:history",
+        "place:ethiopia",
+        "place:africa",
+        "place:eastern-africa",
+        "place:horn-of-africa",
+        "place:sub-saharan-africa",
+        "topic:former-place-names"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its capital, Addis Ababa, is the headquarters of the African Union.",
+      "explanation": "Abyssinia was a historical name for the Ethiopian Empire and surrounding region; Ethiopia is the country's modern name."
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f95092a",
+      "correctAnswer": "Democratic Republic of the Congo",
+      "incorrectAnswers": [
+        "Gabon",
+        "Equatorial Guinea",
+        "Rwanda"
+      ],
+      "question": {
+        "text": "Which of these countries borders Central African Republic?"
       },
       "tags": [
         "category:geography",
         "topic:borders",
         "place:africa",
-        "place:southern-africa",
-        "place:sub-saharan-africa",
-        "place:south-africa"
+        "place:central-africa",
+        "place:sub-saharan-africa"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "The nation containing Johannesburg and Cape Town shares a border with Botswana.",
-      "explanation": "South Africa shares Botswana's southern border. Botswana also borders Namibia, Zimbabwe, and Zambia."
+      "hint": "Its capital, Kinshasa, is in a country lying just south of the Central African Republic.",
+      "explanation": "The Democratic Republic of the Congo lies south of the Central African Republic, and the Ubangi River marks much of their shared boundary."
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94feb5",
-      "correctAnswer": "Beyoncé",
+      "id": "622a1c397cc59eab6f950c7b",
+      "correctAnswer": "U2",
       "incorrectAnswers": [
-        "Rihanna",
-        "Alicia Keys",
-        "Ciara"
+        "Public Image Ltd.",
+        "The Script",
+        "The Cure"
       ],
       "question": {
-        "text": "Which American singer, actress and record producer released the studio album '4'?"
+        "text": "Which Irish rock band released the studio album 'No Line on the Horizon'?"
       },
       "tags": [
         "category:music",
-        "music:beyonce",
+        "music:u2",
         "music:albums",
-        "music:pop",
-        "music:rnb-and-soul"
+        "music:rock"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Before her solo career, she was a lead singer in the group Destiny’s Child.",
-      "explanation": "Beyoncé's album 4 includes “Love on Top,” which won a Grammy for Best Traditional R&B Performance."
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950315",
-      "correctAnswer": "William Pitt the Younger",
-      "incorrectAnswers": [
-        "Tony Blair",
-        "David Cameron",
-        "Benjamin Disraeli"
-      ],
-      "question": {
-        "text": "Who was the youngest person ever to become British Prime Minister?"
-      },
-      "tags": [
-        "category:history",
-        "category:society-and-culture",
-        "person:uk-prime-ministers",
-        "topic:uk-politics",
-        "topic:british-history",
-        "era:18th-century"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "His first premiership began in 1783, during George III’s reign.",
-      "explanation": "William Pitt the Younger became prime minister at age 24, during the reign of George III."
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd700dc0dd3b72da64d1b",
-      "correctAnswer": "2001",
-      "incorrectAnswers": [
-        "1998",
-        "2004",
-        "2007"
-      ],
-      "question": {
-        "text": "In which year was A Beautiful Mind released?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "topic:film",
-        "era:2000s",
-        "era:21st-century"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It was released the same year as the first Harry Potter film.",
-      "explanation": "A Beautiful Mind was released in 2001 and won the Academy Award for Best Picture at the 2002 ceremony."
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f952242",
-      "correctAnswer": "Gillettes",
-      "incorrectAnswers": [
-        "Remingtons",
-        "Wahls",
-        "Brauns"
-      ],
-      "question": {
-        "text": "What unit was used to measure the strength of early lasers?"
-      },
-      "tags": [
-        "category:science",
-        "category:general-knowledge",
-        "science:units-of-measurement",
-        "science:light-and-sound",
-        "science:physics",
-        "science:technology"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "A well-known safety-razor brand lent its name to this measure.",
-      "explanation": "Gillettes referred to a laser’s ability to burn through razor blades from that brand; it was an informal benchmark, not an SI unit."
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e31",
-      "correctAnswer": "Jane Austen",
-      "incorrectAnswers": [
-        "Percy Bysshe Shelley",
-        "Stephenie Meyer",
-        "Robert Louis Stevenson"
-      ],
-      "question": {
-        "text": "Which author wrote 'Persuasion'?"
-      },
-      "tags": [
-        "category:arts-and-literature",
-        "topic:literature",
-        "person:authors",
-        "person:jane-austen",
-        "topic:classic-literature",
-        "topic:british-literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The same English novelist also wrote Pride and Prejudice and Emma.",
-      "explanation": "Jane Austen's Persuasion was published posthumously in 1817, alongside Northanger Abbey."
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502d5",
-      "correctAnswer": "Prunes",
-      "incorrectAnswers": [
-        "Figs",
-        "Dates",
-        "Sultanas"
-      ],
-      "question": {
-        "text": "What are dried plums called?"
-      },
-      "tags": [
-        "category:food-and-drink",
-        "food:fruit"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "They’re well known as a natural remedy for constipation.",
-      "explanation": "Prunes are dried plums, and their fiber and sorbitol can help relieve constipation."
+      "hint": "Bono fronts this band, which formed in Dublin.",
+      "explanation": "U2 released No Line on the Horizon in 2009; it was the band’s twelfth studio album."
     },
     {
       "category": "music",
-      "id": "62506411e12f6dec240bdf97",
-      "correctAnswer": "Meredith Brooks",
+      "id": "625063c9e12f6dec240bdf82",
+      "correctAnswer": "Groove Is in the Heart",
       "incorrectAnswers": [
-        "Quiet Riot",
-        "Divinyls",
-        "Bow Wow Wow"
+        "Turn the Beat Around",
+        "Two of Hearts",
+        "In a Big Country"
       ],
       "question": {
-        "text": "'Bitch' was a one hit wonder in 1997 by which artist?"
+        "text": "What song did Deee-Lite have a hit with in 1990?"
       },
       "tags": [
         "category:music",
-        "music:musicians",
         "music:charts",
-        "music:one-hit-wonders",
-        "music:rock",
+        "music:musicians",
+        "music:dance-and-electronic",
         "music:pop",
         "era:1990s",
         "era:20th-century"
@@ -264,472 +519,140 @@
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Her breakthrough album was titled Blurring the Edges.",
-      "explanation": "The song appeared on Meredith Brooks's album Blurring the Edges and became her signature hit."
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951004",
-      "correctAnswer": "Queen Alexandra's Birdwing",
-      "incorrectAnswers": [
-        "Emperor",
-        "Morpho",
-        "Gossamer-winged"
-      ],
-      "question": {
-        "text": "Which is the largest known butterfly?"
-      },
-      "tags": [
-        "category:science",
-        "animal:animals",
-        "animal:insects",
-        "animal:birds",
-        "animal:animal-records"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This enormous species is native to the rainforests of Papua New Guinea.",
-      "explanation": "Queen Alexandra's Birdwing can reach a wingspan of about 11 inches, and females are larger than males."
-    },
-    {
-      "category": "music",
-      "id": "62506477e12f6dec240bdfb5",
-      "correctAnswer": "Mary Jane Girls",
-      "incorrectAnswers": [
-        "OMC",
-        "Digable Planets",
-        "The Vapors"
-      ],
-      "question": {
-        "text": "'In My House' was a one hit wonder by which artist?"
-      },
-      "tags": [
-        "category:music",
-        "music:musicians",
-        "music:rnb-and-soul",
-        "music:boy-bands-and-girl-groups",
-        "music:one-hit-wonders",
-        "music:charts"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Funk star Rick James helped form and mentor this female vocal group.",
-      "explanation": "Mary Jane Girls were an R&B vocal group put together by Rick James, and “In My House” became their biggest hit."
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625698ac9da29df7b05f7296",
-      "correctAnswer": "Aunt May Parker",
-      "incorrectAnswers": [
-        "The Ancient One",
-        "Wanda Maximoff",
-        "Jane Foster"
-      ],
-      "question": {
-        "text": "Marisa Tomei plays the role of which character in the Marvel Cinematic Universe?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "category:society-and-culture",
-        "work:marvel-cinematic-universe",
-        "topic:film",
-        "topic:superheroes",
-        "person:actors"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "She looks after Peter when he is not swinging through New York.",
-      "explanation": "Aunt May Parker first appears in the Marvel Cinematic Universe in Captain America: Civil War."
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd27",
-      "correctAnswer": "Bertrand Russell",
-      "incorrectAnswers": [
-        "Ludwig Wittgenstein",
-        "Friedrich Nietzsche",
-        "Martin Heidegger"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'This is patently absurd; but whoever wishes to become a philosopher must learn not to be frightened by absurdities'?"
-      },
-      "tags": [
-        "category:society-and-culture",
-        "topic:philosophy",
-        "topic:famous-quotes"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The British philosopher and logician also wrote The Problems of Philosophy.",
-      "explanation": "Bertrand Russell received the 1950 Nobel Prize in Literature for his varied and significant writings."
+      "hint": "Rapper Q-Tip and funk bassist Bootsy Collins both contributed to this dance hit.",
+      "explanation": "Groove Is in the Heart features a rap by Q-Tip and samples Herbie Hancock's “Bring Down the Birds.”"
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ef4",
-      "correctAnswer": "Edgar Rice Burroughs",
+      "id": "622a1c397cc59eab6f950f2b",
+      "correctAnswer": "Hans Christian Andersen",
       "incorrectAnswers": [
-        "Jack Vance",
-        "George R. R. Martin",
-        "Robert A. Heinlein"
+        "Beatrix Potter",
+        "Søren Kierkegaard",
+        "Oscar Wilde"
       ],
       "question": {
-        "text": "Which author wrote 'Tarzan of the Apes'?"
+        "text": "Which author wrote 'Thumbelina'?"
       },
       "tags": [
         "category:arts-and-literature",
-        "topic:literature",
         "person:authors",
-        "topic:american-literature",
-        "topic:classic-literature"
+        "topic:literature",
+        "topic:fairy-tales",
+        "topic:childrens-books"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "The same pulp-fiction writer created the Barsoom adventures featuring John Carter.",
-      "explanation": "Edgar Rice Burroughs first introduced Tarzan in a magazine serial in 1912."
+      "hint": "The same Danish storyteller wrote “The Little Mermaid” and “The Ugly Duckling.”",
+      "explanation": "Hans Christian Andersen was a Danish author whose fairy tales also include The Little Mermaid and The Ugly Duckling."
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9505a4",
-      "correctAnswer": "Things which cannot be known",
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b90",
+      "correctAnswer": "Weezer",
       "incorrectAnswers": [
-        "Relationships between living organisms and their environment",
-        "Nerves",
-        "Algae"
+        "LMFAO",
+        "Static-X",
+        "The Black Keys"
       ],
       "question": {
-        "text": "What is Agnoiology the study of?"
+        "text": "Which alternative rock band from the United States released the studio album 'Hurley'?"
       },
       "tags": [
-        "category:science",
-        "category:society-and-culture",
-        "topic:ologies-and-phobias",
-        "topic:philosophy"
+        "category:music",
+        "music:indie-and-alternative",
+        "music:musicians",
+        "music:albums"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Its name shares a Greek root with “agnostic,” a term concerning knowledge.",
-      "explanation": "Agnoiology comes from Greek roots associated with ignorance and examines the limits of human knowledge."
+      "hint": "The band also recorded “Buddy Holly” and “Island in the Sun.”",
+      "explanation": "Weezer’s Hurley features Jorge Garcia, who played Hugo “Hurley” Reyes on Lost, on its cover; the character inspired the album’s title."
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951bc0",
+      "correctAnswer": "32",
+      "incorrectAnswers": [
+        "22",
+        "42",
+        "52"
+      ],
+      "question": {
+        "text": "How old was Alexander the Great when he died ?"
+      },
+      "tags": [
+        "category:history",
+        "person:alexander-the-great",
+        "era:ancient-world"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He became king of Macedon at about twenty and died after more than a decade of conquest.",
+      "explanation": "Alexander the Great was 32 when he died in Babylon, after building an empire that stretched from Greece to northwestern India."
     },
     {
       "category": "geography",
-      "id": "623b57cffd6c701a9211837f",
-      "correctAnswer": "India",
+      "id": "6233868662eaad73716a8cdb",
+      "correctAnswer": "Belgium",
       "incorrectAnswers": [
-        "Hungary",
-        "Israel",
-        "Russia"
+        "New Zealand",
+        "South Africa",
+        "Turkey"
       ],
       "question": {
-        "text": "In which country would you find the UNESCO World Heritage site of Rani-ki-Vav?"
+        "text": "Where is Tongeren?"
       },
       "tags": [
         "category:geography",
-        "place:india",
-        "place:asia",
-        "place:south-asia",
-        "place:landmarks",
-        "place:ancient-sites",
-        "place:world-heritage-sites"
+        "place:cities",
+        "place:belgium",
+        "place:europe",
+        "place:benelux",
+        "place:western-europe"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Gujarat, the western state where the stepwell stands, borders the Arabian Sea.",
-      "explanation": "Rani-ki-Vav is an ornate stepwell in Patan, Gujarat, commissioned by Queen Udayamati in memory of King Bhimdev I."
+      "hint": "It is an ancient city in the Flemish Region, near the Dutch border.",
+      "explanation": "Tongeren is in the province of Limburg and is often regarded as one of the oldest towns in Belgium."
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95063a",
-      "correctAnswer": "Terry Crews",
+      "id": "625fd744dc0dd3b72da64d2f",
+      "correctAnswer": "1993",
       "incorrectAnswers": [
-        "Richard Harris",
-        "Anthony Quinn",
-        "Hugo Weaving"
+        "1989",
+        "1997",
+        "2001"
       ],
       "question": {
-        "text": "Which actor has had roles in both Brooklyn Nine-Nine and Terminator Salvation?"
+        "text": "In which year was Groundhog Day released?"
       },
       "tags": [
         "category:film-and-tv",
         "topic:film",
-        "topic:television",
-        "work:terminator",
-        "person:actors"
+        "topic:comedy",
+        "era:1990s",
+        "era:20th-century"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "His sitcom character is a yogurt-loving NYPD sergeant and devoted father of twin girls.",
-      "explanation": "Terry Crews played Sergeant Terry Jeffords on Brooklyn Nine-Nine; before acting, he was an NFL linebacker."
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fdae",
-      "correctAnswer": "Definitely Maybe",
-      "incorrectAnswers": [
-        "What's the Story (Morning Glory)",
-        "Parklife",
-        "Greatest Hits"
-      ],
-      "question": {
-        "text": "What was Oasis's first UK No. 1 album?"
-      },
-      "tags": [
-        "category:music",
-        "music:oasis",
-        "music:musicians",
-        "music:albums",
-        "music:charts",
-        "music:britpop",
-        "music:indie-and-alternative"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This was the Manchester band's debut album, released before the record featuring “Wonderwall.”",
-      "explanation": "Definitely Maybe was Oasis's debut studio album and introduced songs including Supersonic and Live Forever."
-    },
-    {
-      "category": "history",
-      "id": "647638cef05ea6d6f587a14a",
-      "correctAnswer": "Burkina Faso",
-      "incorrectAnswers": [
-        "Libya",
-        "Nigeria",
-        "Congo"
-      ],
-      "question": {
-        "text": "What is the name of the African country that was formerly known as The Republic of Upper Volta?"
-      },
-      "tags": [
-        "category:history",
-        "category:geography",
-        "place:burkina-faso",
-        "place:africa",
-        "place:western-africa",
-        "place:sahel",
-        "place:sub-saharan-africa",
-        "topic:former-place-names"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Revolutionary leader Thomas Sankara renamed the country in 1984.",
-      "explanation": "Burkina Faso adopted its current name in 1984; it combines words from Mooré and Dioula often translated as “land of upright people.”"
+      "hint": "It opened the same year Jurassic Park brought dinosaurs to theaters.",
+      "explanation": "Groundhog Day was released in 1993. Bill Murray plays TV weatherman Phil Connors, who repeatedly relives February 2."
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e89",
-      "correctAnswer": "C. S. Lewis",
-      "incorrectAnswers": [
-        "Neil Gaiman",
-        "Jack Vance",
-        "Douglas Adams"
-      ],
-      "question": {
-        "text": "Which author wrote 'Prince Caspian'?"
-      },
-      "tags": [
-        "category:arts-and-literature",
-        "topic:literature",
-        "topic:childrens-books",
-        "topic:fantasy",
-        "topic:british-literature",
-        "work:chronicles-of-narnia",
-        "person:authors"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The same author created Narnia, the land reached through a wardrobe.",
-      "explanation": "C. S. Lewis’s Prince Caspian is the second book in publication order in The Chronicles of Narnia."
-    },
-    {
-      "category": "history",
-      "id": "64e6fd220b79e5bedd55c852",
-      "correctAnswer": "a B-52",
-      "incorrectAnswers": [
-        "a C-130",
-        "an F-16",
-        "a UH-1 Huey"
-      ],
-      "question": {
-        "text": "In Hanoi, Vietnam, a small lake in a quiet neighborhood still holds wreckage of which type of U.S. bomber that attacked the city in December 1972?"
-      },
-      "tags": [
-        "category:history",
-        "category:society-and-culture",
-        "era:1970s",
-        "era:20th-century",
-        "event:vietnam-war",
-        "place:cities",
-        "place:vietnam",
-        "place:asia",
-        "place:southeast-asia",
-        "topic:military",
-        "topic:weapons"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It was designed for long-range, high-altitude strategic bombing and has eight engines.",
-      "explanation": "The B-52 wreckage in Hanoi’s Huu Tiep Lake is linked to Operation Linebacker II, the U.S. air campaign against North Vietnam in December 1972."
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f878",
-      "correctAnswer": "Athletics",
-      "incorrectAnswers": [
-        "Boxing",
-        "Motor racing",
-        "Rowing"
-      ],
-      "question": {
-        "text": "With which sport is Kenenisa Bekele associated?"
-      },
-      "tags": [
-        "category:sport-and-leisure",
-        "sport:athletics",
-        "sport:sports",
-        "person:sportspeople"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Bekele is an Ethiopian distance runner known for competing on tracks and cross-country courses.",
-      "explanation": "Kenenisa Bekele is an Ethiopian distance-running champion who won Olympic gold in both events."
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c23",
-      "correctAnswer": "The Who",
-      "incorrectAnswers": [
-        "The Kinks",
-        "The Small Faces",
-        "The Yardbirds"
-      ],
-      "question": {
-        "text": "Which English rock band released the album 'Quadrophenia'?"
-      },
-      "tags": [
-        "category:music",
-        "music:albums",
-        "music:the-who",
-        "music:rock"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Pete Townshend and Roger Daltrey were central members of this British band.",
-      "explanation": "The Who released Quadrophenia in 1973. The double album is a rock opera about a young mod named Jimmy and his search for identity."
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f95007a",
-      "correctAnswer": "Golden Bear",
-      "incorrectAnswers": [
-        "Black Tiger",
-        "Silver Swan",
-        "Red Eagle"
-      ],
-      "question": {
-        "text": "What was Jack Nicklaus' nickname?"
-      },
-      "tags": [
-        "category:sport-and-leisure",
-        "sport:golf",
-        "sport:sports",
-        "person:sportspeople",
-        "topic:nicknames"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "His nickname pairs a metallic hue with a large, shaggy mammal.",
-      "explanation": "Golden Bear was linked to Nicklaus's blond hair and large, powerful build. He won 18 major championships, more than any other golfer in men's professional golf."
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950edf",
-      "correctAnswer": "George R. R. Martin",
-      "incorrectAnswers": [
-        "Stephen King",
-        "Jack Vance",
-        "Edgar Rice Burroughs"
-      ],
-      "question": {
-        "text": "Which author wrote 'Dreamsongs: A RRetrospective'?"
-      },
-      "tags": [
-        "category:arts-and-literature",
-        "topic:literature",
-        "topic:short-stories",
-        "topic:science-fiction",
-        "topic:fantasy",
-        "topic:modern-fiction",
-        "person:authors"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "He also created the fantasy saga A Song of Ice and Fire, adapted as Game of Thrones.",
-      "explanation": "George R. R. Martin's retrospective collects his short fiction and includes autobiographical notes about his writing career."
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417cd30f96c4efe8d77389",
-      "correctAnswer": "Buffalo Bills",
-      "incorrectAnswers": [
-        "Buffalo Raiders",
-        "Buffalo Bears",
-        "Buffalo City"
-      ],
-      "question": {
-        "text": "Which of these is an American Football team based in Buffalo?"
-      },
-      "tags": [
-        "category:sport-and-leisure",
-        "sport:american-football",
-        "sport:sports",
-        "place:cities",
-        "place:new-york-state",
-        "place:united-states",
-        "place:north-america",
-        "place:americas",
-        "place:mid-atlantic"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "They compete in the AFC East alongside the Miami Dolphins, New England Patriots, and New York Jets.",
-      "explanation": "The Buffalo Bills play in the NFL's AFC East division."
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f87",
+      "id": "622a1c397cc59eab6f950f88",
       "correctAnswer": "Agatha Christie",
       "incorrectAnswers": [
         "Robert Louis Stevenson",
@@ -737,76 +660,127 @@
         "Lewis Carroll"
       ],
       "question": {
-        "text": "Which author wrote 'The Mysterious Mr Quin'?"
+        "text": "Which author wrote 'Partners in Crime'?"
       },
       "tags": [
         "category:arts-and-literature",
-        "person:agatha-christie",
-        "person:authors",
-        "topic:british-literature",
-        "topic:classic-literature",
+        "topic:literature",
+        "topic:short-stories",
         "topic:crime-fiction",
-        "topic:short-stories"
+        "topic:classic-literature",
+        "person:agatha-christie"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "The same mystery writer created Hercule Poirot and Miss Marple.",
-      "explanation": "Agatha Christie is also known for her detective novels featuring Hercule Poirot and Miss Marple."
+      "hint": "She also created Hercule Poirot and Miss Marple.",
+      "explanation": "Agatha Christie’s collection follows Tommy and Tuppence as they take on cases inspired by famous fictional detectives."
     },
     {
-      "category": "science",
-      "id": "6243352ccfaae40c1296148d",
-      "correctAnswer": "A Cow",
+      "category": "geography",
+      "id": "62373fdacb85f7ce9e949cc2",
+      "correctAnswer": "Praia",
       "incorrectAnswers": [
-        "A Vixen",
-        "A Ewe",
-        "A Worker"
+        "Santo Domingo",
+        "Doha",
+        "Saint George's"
       ],
       "question": {
-        "text": "What would you call a female rhinoceros?"
+        "text": "What is the capital city of Cabo Verde?"
       },
       "tags": [
-        "category:science",
-        "animal:animals",
-        "animal:mammals",
-        "topic:animal-terminology"
+        "category:geography",
+        "place:capital-cities",
+        "place:africa",
+        "place:western-africa",
+        "place:sub-saharan-africa"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Female elephants and whales are described with the same common livestock term.",
-      "explanation": "A female rhinoceros is called a cow; males are bulls, and their young are calves."
+      "hint": "Cabo Verde's capital is on Santiago, the country's largest island.",
+      "explanation": "Praia is on Santiago, Cabo Verde’s largest and most populous island."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd6fddc0dd3b72da64d1a",
+      "correctAnswer": "1975",
+      "incorrectAnswers": [
+        "1965",
+        "1970",
+        "1980"
+      ],
+      "question": {
+        "text": "In which year was Monty Python and the Holy Grail first released in the cinema?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "topic:british-film",
+        "work:monty-python",
+        "era:1970s",
+        "era:20th-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its cinema debut came the same year that Jaws and One Flew Over the Cuckoo’s Nest were released.",
+      "explanation": "Monty Python and the Holy Grail was released in 1975, the troupe’s first feature built around an original story rather than a collection of sketches."
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd6dbdc0dd3b72da64d10",
+      "correctAnswer": "2001",
+      "incorrectAnswers": [
+        "1998",
+        "2004",
+        "2007"
+      ],
+      "question": {
+        "text": "In which year was Amélie first released in the cinema?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "topic:world-cinema",
+        "topic:romance",
+        "era:2000s",
+        "era:21st-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The first Harry Potter movie also debuted in theaters that year.",
+      "explanation": "Amélie was first released in cinemas in 2001. Jean-Pierre Jeunet directed the French romantic comedy, starring Audrey Tautou."
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd28",
-      "correctAnswer": "Thucydides",
+      "id": "622a1c357cc59eab6f94fcf3",
+      "correctAnswer": "Protagoras",
       "incorrectAnswers": [
-        "Baruch Spinoza",
-        "Heraclitus",
-        "Ludwig Wittgenstein"
+        "Jean-Paul Sartre",
+        "Socrates",
+        "Bertrand Russell"
       ],
       "question": {
-        "text": "Which philosopher famously said 'History is Philosophy teaching by examples'?"
+        "text": "Which philosopher famously said 'Man is the measure of all things'?"
       },
       "tags": [
         "category:society-and-culture",
         "category:history",
         "topic:philosophy",
-        "topic:famous-quotes",
-        "person:philosophers",
-        "era:ancient-greece",
-        "era:ancient-world"
+        "topic:famous-quotes"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "His account of the war between Athens and Sparta became a foundational work of ancient history.",
-      "explanation": "Thucydides wrote the History of the Peloponnesian War, an account of the conflict between Athens and Sparta that became a model for analytical historical writing."
+      "hint": "This ancient Greek sophist is associated with the idea that truth depends on the individual perceiver.",
+      "explanation": "Protagoras was a prominent ancient Greek sophist, and Plato discusses the saying in his dialogue Theaetetus."
     }
   ]
 }
