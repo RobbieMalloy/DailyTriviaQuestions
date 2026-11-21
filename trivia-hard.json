@@ -1,89 +1,472 @@
 {
-  "gameDate": "2026-11-20",
+  "gameDate": "2026-11-21",
   "difficulty": "hard",
   "results": [
     {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fd80",
-      "correctAnswer": "Mark David Chapman",
-      "incorrectAnswers": [
-        "J. D. Salinger",
-        "Lee Harvey Oswald",
-        "John Wilkes Booth"
-      ],
-      "question": {
-        "text": "Who assassinated John Lennon?"
-      },
-      "tags": [
-        "category:general-knowledge",
-        "category:history",
-        "category:society-and-culture",
-        "event:assassinations",
-        "person:criminals-and-outlaws",
-        "topic:law-and-crime"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The suspect was found with a copy of The Catcher in the Rye at the scene.",
-      "explanation": "Mark David Chapman shot Lennon outside the Dakota apartment building in New York City in 1980 and remained at the scene until police arrested him.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/biography/Mark-David-Chapman"
-        ],
-        "checkedAt": "2026-11-18T13:28:46.282Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "622a1c3f7cc59eab6f952352",
-      "correctAnswer": "Southeast Asia",
-      "incorrectAnswers": [
-        "The Amazon",
-        "The European steppes",
-        "Central America"
-      ],
-      "question": {
-        "text": "In which part of the world does the Rafflesia, with the largest single flower of any plant, grow?"
-      },
-      "tags": [
-        "category:science",
-        "category:geography",
-        "place:southeast-asia",
-        "science:botany"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its native range includes the tropical forests of Indonesia, Malaysia, Thailand, and the Philippines.",
-      "explanation": "Rafflesia grows in Southeast Asia. It is a parasitic plant whose enormous flower emerges from a host vine.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/plant/Rafflesiaceae#:~:text=The%20monster%20flower%20genus,Tetrastigma%20vines%20(family%20Vitaceae)"
-        ],
-        "checkedAt": "2026-11-19T08:10:55.092Z"
-      }
-    },
-    {
       "category": "music",
-      "id": "62506496e12f6dec240bdfbe",
-      "correctAnswer": "Rebirth of Slick (Cool Like Dat)",
+      "id": "622a1c357cc59eab6f94ffe0",
+      "correctAnswer": "Poison",
       "incorrectAnswers": [
-        "Tainted Love",
-        "Don't Worry Be Happy",
-        "It Takes Two"
+        "Mötley Crüe",
+        "Warrant",
+        "Ratt"
       ],
       "question": {
-        "text": "Digable Planets had a one hit wonder in 1993 with which song?"
+        "text": "Which band is guitarist C.C. DeVille a member of?"
       },
       "tags": [
         "category:music",
         "music:musicians",
-        "music:hip-hop",
+        "music:heavy-metal"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its frontman Bret Michaels later starred in the reality show Rock of Love.",
+      "explanation": "C.C. DeVille joined Poison in 1985, replacing original guitarist Matt Smith before the band recorded its debut album.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=C.C._DeVille&oldid=1382358723"
+        ],
+        "checkedAt": "2026-11-18T14:42:14.562Z"
+      }
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e48",
+      "correctAnswer": "Jin Yong",
+      "incorrectAnswers": [
+        "C. S. Lewis",
+        "Edgar Rice Burroughs",
+        "J. K. Rowling"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Return of the Condor Heroes'?"
+      },
+      "tags": [
+        "category:arts-and-literature",
+        "topic:literature",
+        "person:authors",
+        "topic:modern-fiction"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its author was a Hong Kong novelist famed for martial-arts adventure stories in the wuxia genre.",
+      "explanation": "Jin Yong was the pen name of Hong Kong writer Louis Cha, whose novels helped popularize wuxia fiction.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-18T18:11:11.152Z"
+      }
+    },
+    {
+      "category": "geography",
+      "id": "623735fccfe13103f55eb58d",
+      "correctAnswer": "Tuvalu",
+      "incorrectAnswers": [
+        "Latvia",
+        "The Vatican",
+        "Tibet"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.tv' at the end of its web addresses?"
+      },
+      "tags": [
+        "category:geography",
+        "topic:country-codes",
+        "place:tuvalu",
+        "place:oceania",
+        "place:polynesia",
+        "place:pacific-islands"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This small Polynesian island country lies in the Pacific, northeast of Fiji.",
+      "explanation": "Tuvalu’s country-code domain, .tv, is popular with television and video websites and generates revenue for the country.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=.tv&oldid=1385531840#:~:text=.tv%20is%20the%20Internet,domain%20(ccTLD)%20for%20Tuvalu"
+        ],
+        "checkedAt": "2026-11-19T08:46:47.936Z"
+      }
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6371624e1bf863c45ca6c369",
+      "correctAnswer": "Omne initium difficile est",
+      "incorrectAnswers": [
+        "Palma non sine pulvere dificultus",
+        "Dies ad irae difficile",
+        "Actus me dificultus invito factus non est meus actus"
+      ],
+      "question": {
+        "text": "Which of these Latin phrases translates to 'Every beginning is difficult'?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "topic:latin",
+        "topic:language"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "A familiar Latin proverb used to reassure people tackling a new project.",
+      "explanation": "In Omne initium difficile est, omne and difficile agree with the neuter noun initium; est supplies “is.”",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-19T14:26:23.798Z"
+      }
+    },
+    {
+      "category": "geography",
+      "id": "622a1c3a7cc59eab6f950ffd",
+      "correctAnswer": "The Hoover Dam",
+      "incorrectAnswers": [
+        "The Glen Canyon Dam",
+        "The Grand Coulee Dam",
+        "The Three Gorges Dam"
+      ],
+      "question": {
+        "text": "Which structure on the Colorado River, completed in 1936, forms Lake Mead?"
+      },
+      "tags": [
+        "category:geography",
+        "category:science",
+        "place:united-states",
+        "place:north-america",
+        "place:americas",
+        "place:landmarks",
+        "place:rivers",
+        "science:engineering",
+        "era:1930s",
+        "era:20th-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its construction flooded Black Canyon near the Nevada-Arizona border.",
+      "explanation": "The Hoover Dam impounds the Colorado River, and its reservoir was named for Elwood Mead, a commissioner of the Bureau of Reclamation.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/topic/Hoover-Dam"
+        ],
+        "checkedAt": "2026-11-18T22:28:16.130Z"
+      }
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d47",
+      "correctAnswer": "Dire Straits",
+      "incorrectAnswers": [
+        "Status Quo",
+        "The Shadows",
+        "The Moody Blues"
+      ],
+      "question": {
+        "text": "Which band includes 'Mark Knopfler'?"
+      },
+      "tags": [
+        "category:music",
+        "music:rock",
+        "music:musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Their breakthrough hit, Sultans of Swing, features Knopfler’s distinctive guitar work.",
+      "explanation": "Dire Straits’ “Money for Nothing” features Sting singing the refrain “I want my MTV.”",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/topic/Dire-Straits#:~:text=Formed%20in%20London%20in,the%20pub%20rock%20movement"
+        ],
+        "checkedAt": "2026-11-18T18:10:19.240Z"
+      }
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8b8",
+      "correctAnswer": "Humphrey Bogart",
+      "incorrectAnswers": [
+        "Dennis Hopper",
+        "Peter O'Toole",
+        "Errol Flynn"
+      ],
+      "question": {
+        "text": "Which actor played the role of Fred C. Dobbs in The Treasure of the Sierra Madre?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "topic:classic-hollywood",
+        "person:actors"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The same actor played Rick Blaine, the nightclub owner in Casablanca.",
+      "explanation": "Humphrey Bogart starred as Dobbs in John Huston's 1948 film, adapted from a novel by B. Traven.",
+      "sources": {
+        "urls": [
+          "https://kids.britannica.com/kids/article/The-Treasure-of-the-Sierra-Madre/544667"
+        ],
+        "checkedAt": "2026-11-18T08:00:56.412Z"
+      }
+    },
+    {
+      "category": "history",
+      "id": "622a1c377cc59eab6f95043c",
+      "correctAnswer": "Four years",
+      "incorrectAnswers": [
+        "One year",
+        "Seven years",
+        "Ten years"
+      ],
+      "question": {
+        "text": "About how long did the American Civil War last?"
+      },
+      "tags": [
+        "category:history",
+        "category:society-and-culture",
+        "event:american-civil-war",
+        "topic:american-history",
+        "topic:military",
+        "place:united-states",
+        "place:north-america",
+        "place:americas",
+        "era:19th-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It began with the attack on Fort Sumter and ended with the Confederacy's surrender at Appomattox.",
+      "explanation": "The American Civil War lasted about four years, from 1861 to 1865. General Robert E. Lee's surrender at Appomattox in April 1865 marked a key turning point toward its end.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/event/American-Civil-War#:~:text=American%20Civil%20War%2C%20four%2Dyear,Confederate%20States%20of%20America"
+        ],
+        "checkedAt": "2026-11-18T16:58:41.144Z"
+      }
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdc5",
+      "correctAnswer": "Meat Loaf",
+      "incorrectAnswers": [
+        "Bob Dylan",
+        "David Bowie",
+        "Marvin Gaye"
+      ],
+      "question": {
+        "text": "Which singer was born Marvin Lee Aday?"
+      },
+      "tags": [
+        "category:music",
+        "music:musicians",
+        "music:rock",
+        "topic:pseudonyms"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "His theatrical rock performances and the album Bat Out of Hell made him famous.",
+      "explanation": "Meatloaf became famous for Bat Out of Hell, a theatrical rock album written by Jim Steinman. He also played Eddie in The Rocky Horror Picture Show.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Meat_Loaf&oldid=1385075371#:~:text=Michael%20Lee%20Aday%20(born,American%20singer%20and%20actor"
+        ],
+        "checkedAt": "2026-11-18T14:40:37.631Z"
+      }
+    },
+    {
+      "category": "food_and_drink",
+      "id": "62500680ea7a97fd2e356d2e",
+      "correctAnswer": "Cavatappi",
+      "incorrectAnswers": [
+        "Orecchiette",
+        "Penne",
+        "Ravioli"
+      ],
+      "question": {
+        "text": "Which pasta's name means 'Corkscrews'?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "food:pasta",
+        "food:italian-cuisine",
+        "topic:language",
+        "topic:italian-language",
+        "topic:translations"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its short, hollow tubes twist into a spiral shape.",
+      "explanation": "Cavatappi has a helical shape, and its ridges and curves help hold thick sauces.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-19T11:51:29.921Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "6af7fc00034e45b04e31bd4e",
+      "correctAnswer": "Theodore Maiman",
+      "incorrectAnswers": [
+        "Charles Townes",
+        "Gordon Gould",
+        "Arthur Schawlow"
+      ],
+      "question": {
+        "text": "Which American physicist built the first working laser in 1960, using a ruby crystal?"
+      },
+      "tags": [
+        "category:science",
+        "person:scientists",
+        "person:inventors",
+        "science:inventions",
+        "science:physics",
+        "science:light-and-sound",
+        "science:technology",
+        "era:1960s",
+        "era:20th-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He developed the device at Hughes Research Laboratories in California.",
+      "explanation": "Theodore Maiman's ruby laser used a flash lamp to excite the crystal, producing brief pulses of red light.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-14T09:03:13.447Z"
+      }
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63b058654799123c67712f19",
+      "correctAnswer": "Tiger",
+      "incorrectAnswers": [
+        "Elephant",
+        "Lion",
+        "Crocodile"
+      ],
+      "question": {
+        "text": "What is the national animal of India?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "category:geography",
+        "category:science",
+        "topic:national-symbols",
+        "place:india",
+        "place:asia",
+        "place:south-asia",
+        "animal:animals",
+        "animal:mammals",
+        "animal:big-cats"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "India's national animal has an orange coat marked with dark stripes.",
+      "explanation": "India's national animal is the Bengal tiger. Project Tiger is a conservation initiative established to protect the species.",
+      "sources": {
+        "urls": [
+          "https://india.gov.in/india-glance/national-symbols#:~:text=The%20combination%20of%20grace%2C,national%20animal%20of%20India"
+        ],
+        "checkedAt": "2026-11-19T16:24:36.793Z"
+      }
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417cd00f96c4efe8d77388",
+      "correctAnswer": "Boston Bruins",
+      "incorrectAnswers": [
+        "Boston United",
+        "Boston Whitecaps",
+        "Boston Bucks"
+      ],
+      "question": {
+        "text": "Which of these is a hockey team based in Boston?"
+      },
+      "tags": [
+        "category:sport-and-leisure",
+        "sport:ice-hockey",
+        "sport:sports"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The team plays in the NHL and is known for its black-and-gold colors.",
+      "explanation": "The Boston Bruins are one of the NHL’s Original Six franchises, alongside teams such as the Montreal Canadiens and New York Rangers.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/topic/Boston-Bruins#:~:text=The%20Boston%20Bruins%20are,and%20based%20in%20Boston"
+        ],
+        "checkedAt": "2026-11-19T10:33:05.375Z"
+      }
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f95065b",
+      "correctAnswer": "Salma Hayek",
+      "incorrectAnswers": [
+        "Frances Fisher",
+        "Rachel Weisz",
+        "Keira Knightley"
+      ],
+      "question": {
+        "text": "Which actress has appeared in films including Traffic and Eternals?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "person:actors",
+        "topic:film",
+        "work:marvel-cinematic-universe"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "She portrayed Mexican painter Frida Kahlo in a biographical film.",
+      "explanation": "Salma Hayek also portrayed artist Frida Kahlo in Frida, earning an Academy Award nomination for the role.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Salma_Hayek&oldid=1384473609"
+        ],
+        "checkedAt": "2026-11-18T17:00:00.644Z"
+      }
+    },
+    {
+      "category": "music",
+      "id": "625064e4e12f6dec240bdfd5",
+      "correctAnswer": "Whoomp! (There It Is)",
+      "incorrectAnswers": [
+        "Electric Avenue",
+        "Barbie Girl",
+        "I Melt With You"
+      ],
+      "question": {
+        "text": "What song did Tag Team have a hit with in 1993?"
+      },
+      "tags": [
+        "category:music",
         "music:one-hit-wonders",
         "music:charts",
+        "music:hip-hop",
         "era:1990s",
         "era:20th-century"
       ],
@@ -91,883 +474,487 @@
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "The trio’s Grammy-winning breakthrough blended hip-hop with a prominent jazz sample.",
-      "explanation": "Rebirth of Slick (Cool Like Dat) has a relaxed jazz-rap sound that draws on a sample from Art Blakey and the Jazz Messengers' “Stretching.”",
+      "hint": "The Atlanta duo's debut single became a high-energy staple at parties and sports arenas.",
+      "explanation": "Whoomp! (There It Is) peaked at No. 2 on the Billboard Hot 100 and became a lasting party anthem.",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Rebirth_of_Slick_%28Cool_Like_Dat%29&oldid=1385963896#:~:text=%22Rebirth%20of%20Slick%22%20peaked,group's%20only%20top%2D40%20single"
+          "https://latimes.com/archives/la-xpm-1993-07-21-ca-15308-story.html#:~:text=The%20song%2C%20Tag%20Team%E2%80%99s,Roll%E2%80%99n%20into%20national%20prominence"
         ],
-        "checkedAt": "2026-11-19T11:52:00.313Z"
-      }
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94febc",
-      "correctAnswer": "Beyoncé",
-      "incorrectAnswers": [
-        "Rihanna",
-        "Alicia Keys",
-        "Ciara"
-      ],
-      "question": {
-        "text": "Which American singer, actress and record producer released the song 'Déjà Vu'?"
-      },
-      "tags": [
-        "category:music",
-        "music:beyonce",
-        "music:pop",
-        "music:rnb-and-soul"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Jay-Z is featured on this track, which appeared on her second solo album.",
-      "explanation": "Beyoncé released “Déjà Vu” as the lead single from her second solo album, B’Day.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-18T14:41:30.467Z"
+        "checkedAt": "2026-11-19T11:52:06.713Z"
       }
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95028a",
-      "correctAnswer": "Choux",
+      "id": "622a1c367cc59eab6f950232",
+      "correctAnswer": "Gin",
       "incorrectAnswers": [
-        "Filo",
-        "Shortcrust",
-        "Puff"
+        "Rum",
+        "Vodka",
+        "Whiskey"
       ],
       "question": {
-        "text": "What type of pastry is used for profiteroles?"
+        "text": "Which spirit is Pimm's No. 1 based on?"
       },
       "tags": [
         "category:food-and-drink",
-        "food:baking",
-        "food:desserts",
-        "food:french-cuisine"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Éclairs are made from the same pastry, which bakes into light, hollow puffs.",
-      "explanation": "Choux pastry puffs up in the oven, creating a hollow center that can be filled with cream.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Choux_pastry&oldid=1372807674#:~:text=The%20pastry%20is%20used,churros%20and%20funnel%20cakes"
-        ],
-        "checkedAt": "2026-11-18T15:45:07.199Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "645c9f1642ea81e2554c5eeb",
-      "correctAnswer": "Halley's Comet",
-      "incorrectAnswers": [
-        "The Moon",
-        "Mars",
-        "Venus"
-      ],
-      "question": {
-        "text": "What was the 1986 Giotto probe designed to study?"
-      },
-      "tags": [
-        "category:science",
-        "science:astronomy",
-        "science:space-exploration",
-        "science:solar-system",
-        "era:1980s",
-        "era:20th-century"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This famous icy visitor returns to Earth's skies roughly every 76 years.",
-      "explanation": "Giotto flew within about 600 kilometers of Halley's Comet's nucleus and returned the first close-up images of a comet nucleus.",
-      "sources": {
-        "urls": [
-          "https://esa.int/About_Us/50_years_of_ESA/Giotto_ESA_s_first_deep-space_mission_25_years_ago#:~:text=In%201986%2C%20ESA's%20Giotto,material%20in%20a%20comet"
-        ],
-        "checkedAt": "2026-11-19T18:23:38.814Z"
-      }
-    },
-    {
-      "category": "food_and_drink",
-      "id": "627164661ba117625baac95d",
-      "correctAnswer": "Kumis",
-      "incorrectAnswers": [
-        "Sombai",
-        "Guaro",
-        "Mama Juana"
-      ],
-      "question": {
-        "text": "Which of these is a popular drink in Mongolia?"
-      },
-      "tags": [
-        "category:food-and-drink",
-        "category:geography",
-        "food:drinks",
         "food:alcoholic-drinks",
-        "food:world-cuisine",
-        "place:mongolia",
-        "place:asia",
-        "place:east-asia"
+        "food:spirits"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Mongolian nomads traditionally make this fermented drink from mare's milk.",
-      "explanation": "Kumis is a tangy, lightly alcoholic drink made from fermented mare’s milk.",
+      "hint": "Juniper berries are the signature botanical of the spirit used as its base.",
+      "explanation": "Gin's juniper-led botanicals form the base of Pimm's No. 1, which is commonly mixed with lemonade and fruit in a Pimm's Cup.",
       "sources": {
         "urls": [
-          "https://britannica.com/place/Mongolia/Daily-life-and-social-customs#:~:text=The%20west%20side%20of,from%20a%20wooden%20stand"
+          "https://www.britannica.com/topic/Pimms-Cup#:~:text=Pimm%E2%80%99s%20Cup%2C%20a%20British,(Pimm%E2%80%99s%20No.%201%20Cup)"
         ],
-        "checkedAt": "2026-11-19T14:24:52.847Z"
+        "checkedAt": "2026-11-18T15:44:46.760Z"
       }
     },
     {
-      "category": "film_and_tv",
-      "id": "625698989da29df7b05f7291",
-      "correctAnswer": "Ned Leeds",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951b24",
+      "correctAnswer": "Battle of Little Bighorn",
       "incorrectAnswers": [
-        "Loki",
-        "Ego",
-        "Groot"
+        "Battle of Gettysburg",
+        "Battle of Cold Harbor",
+        "Battle of Stones River"
       ],
       "question": {
-        "text": "In the Marvel Cinematic Universe, which character is played by Jacob Batalon?"
+        "text": "In which battle was George A. Custer defeated?"
       },
       "tags": [
-        "category:film-and-tv",
-        "category:society-and-culture",
-        "person:actors",
-        "topic:fictional-characters",
-        "topic:superheroes",
-        "work:marvel",
-        "work:marvel-cinematic-universe"
+        "category:history",
+        "event:battles",
+        "topic:military",
+        "era:american-old-west",
+        "era:19th-century"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "He is Peter Parker’s close friend and fellow student at Midtown School.",
-      "explanation": "Ned Leeds learns Peter Parker’s secret identity in Spider-Man: Homecoming and becomes one of his closest allies.",
+      "hint": "The 1876 clash occurred along a river in Montana during the Great Sioux War.",
+      "explanation": "At the Battle of Little Bighorn, Lakota, Cheyenne, and Arapaho warriors overwhelmed Custer's forces.",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Jacob_Batalon&oldid=1383190196#:~:text=Batalon%20achieved%20international%20recognition,Universe%20(MCU)%20superhero%20films"
+          "https://www.britannica.com/print/article/343981"
         ],
-        "checkedAt": "2026-11-19T13:12:09.554Z"
-      }
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd6f",
-      "correctAnswer": "Neil Diamond",
-      "incorrectAnswers": [
-        "Leonard Cohen",
-        "Paul McCartney",
-        "David Bowie"
-      ],
-      "question": {
-        "text": "Which singer released the 1973 album 'Jonathan Livingston Seagull'?"
-      },
-      "tags": [
-        "category:music",
-        "music:musicians",
-        "music:pop",
-        "music:albums",
-        "era:1970s",
-        "era:20th-century"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The singer also had a major hit with “Sweet Caroline.”",
-      "explanation": "Neil Diamond wrote and performed the music for the film adaptation of Richard Bach’s novella of the same name.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Jonathan_Livingston_Seagull_%28soundtrack%29&oldid=1378545675#:~:text=Jonathan%20Livingston%20Seagull%20is,1973%20by%20Columbia%20Records"
-        ],
-        "checkedAt": "2026-11-18T13:28:41.614Z"
-      }
-    },
-    {
-      "category": "music",
-      "id": "622a1c367cc59eab6f950374",
-      "correctAnswer": "Cat Stevens",
-      "incorrectAnswers": [
-        "James Taylor",
-        "Van Morrison",
-        "Neil Young"
-      ],
-      "question": {
-        "text": "Which singer released the 1970 album 'Tea for the Tillerman'?"
-      },
-      "tags": [
-        "category:music",
-        "music:albums",
-        "music:folk",
-        "music:musicians",
-        "era:1970s",
-        "era:20th-century"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "His best-known songs include “Wild World” and “Moonshadow.”",
-      "explanation": "Cat Stevens later became known as Yusuf Islam after converting to Islam and adopting that name.",
-      "sources": {
-        "urls": [
-          "https://catstevens.com/media/albums/tea-for-the-tillerman-1970#:~:text=Undoubtedly%20the%20album%20that,as%20his%20seminal%20work",
-          "https://en.wikipedia.org/w/index.php?title=Cat_Stevens&oldid=1386378453#:~:text=Stevens's%20albums%20Tea%20for,platinum%20in%20the%20US"
-        ],
-        "checkedAt": "2026-11-18T15:46:02.044Z"
+        "checkedAt": "2026-11-19T00:33:29.962Z"
       }
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ee9",
-      "correctAnswer": "Charles Dickens",
+      "id": "622a1c397cc59eab6f950e69",
+      "correctAnswer": "Ivan Turgenev",
       "incorrectAnswers": [
-        "Oscar Wilde",
-        "Joseph Conrad",
-        "Henryk Sienkiewicz"
+        "Leo Tolstoy",
+        "Henryk Sienkiewicz",
+        "Alphonse Daudet"
       ],
       "question": {
-        "text": "Which author wrote 'Dombey and Son'?"
+        "text": "Which author wrote 'Mumu'?"
       },
       "tags": [
         "category:arts-and-literature",
         "topic:literature",
-        "topic:classic-literature",
-        "topic:british-literature",
-        "era:victorian-era",
-        "person:authors",
-        "person:charles-dickens"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The same Victorian novelist created Oliver Twist and Ebenezer Scrooge.",
-      "explanation": "Charles Dickens's novel centers on Paul Dombey, a wealthy merchant who expects his son to carry on the family business.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/topic/Dombey-and-Son#:~:text=Dombey%20and%20Son%2C%20novel,book%20form%20in%201848"
-        ],
-        "checkedAt": "2026-11-18T22:27:06.639Z"
-      }
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e3d",
-      "correctAnswer": "Mikhail Bulgakov",
-      "incorrectAnswers": [
-        "Vladimir Nabokov",
-        "Ayn Rand",
-        "Stanisław Lem"
-      ],
-      "question": {
-        "text": "Which author wrote 'A Country Doctor's Notebook'?"
-      },
-      "tags": [
-        "category:arts-and-literature",
-        "topic:literature",
-        "person:authors",
+        "topic:short-stories",
         "topic:russian-literature",
+        "topic:classic-literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The author also wrote Fathers and Sons, a landmark Russian novel.",
+      "explanation": "Ivan Turgenev is best known for the novel Fathers and Sons; Mumu is one of his shorter works.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/topic/Mumu#:~:text=%22Mumu%22%20is%20a%20short,of%20serfdom%20in%20Russia"
+        ],
+        "checkedAt": "2026-11-18T18:11:19.736Z"
+      }
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f53",
+      "correctAnswer": "Jules Verne",
+      "incorrectAnswers": [
+        "Victor Hugo",
+        "Alphonse Daudet",
+        "Edgar Rice Burroughs"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Adventures of Captain Hatteras'?"
+      },
+      "tags": [
+        "category:arts-and-literature",
+        "person:jules-verne",
+        "topic:literature",
         "topic:classic-literature",
-        "topic:short-stories"
+        "topic:french-literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "The same Russian novelist wrote The Master and Margarita.",
-      "explanation": "Mikhail Bulgakov is also known for The Master and Margarita, a novel blending satire, fantasy, and religious themes.",
+      "hint": "The French novelist also wrote Twenty Thousand Leagues Under the Seas.",
+      "explanation": "Jules Verne’s novel follows an English expedition seeking the North Pole and is part of his Voyages extraordinaires series.",
       "sources": {
         "urls": [
-          "https://pmc.ncbi.nlm.nih.gov/articles/PMC1808177"
+          "https://en.wikipedia.org/w/index.php?title=The_Adventures_of_Captain_Hatteras&oldid=1384272053#:~:text=The%20Adventures%20of%20Captain,Verne%20in%20two%20parts"
         ],
-        "checkedAt": "2026-11-18T18:11:08.410Z"
+        "checkedAt": "2026-11-18T22:27:35.524Z"
       }
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95047e",
-      "correctAnswer": "ends or final causes",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e6d",
+      "correctAnswer": "C. S. Lewis",
       "incorrectAnswers": [
-        "ticks and mites",
-        "bryophytes",
-        "mental processes in living creatures"
+        "Neil Gaiman",
+        "Jack Vance",
+        "Douglas Adams"
       ],
       "question": {
-        "text": "What is Teleology the study of?"
+        "text": "Which author wrote 'The Silver Chair'?"
       },
       "tags": [
-        "category:science",
-        "category:society-and-culture",
-        "topic:philosophy",
-        "topic:ologies-and-phobias"
+        "category:arts-and-literature",
+        "person:authors",
+        "topic:literature",
+        "topic:childrens-books",
+        "topic:fantasy",
+        "work:chronicles-of-narnia"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "An acorn’s development into an oak is a classic example used to illustrate this kind of explanation.",
-      "explanation": "Teleology studies ends or final causes: what something is directed toward. Aristotle’s account also included material, formal, and efficient causes.",
+      "hint": "The same Oxford scholar who created the world of Narnia wrote this fantasy novel.",
+      "explanation": "C. S. Lewis wrote The Silver Chair, the fourth book published in the Chronicles of Narnia, though sixth in the series’ internal chronology.",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Teleology&oldid=1385916013#:~:text=Teleology%20(from%20%CF%84%CE%AD%CE%BB%CE%BF%CF%82%2C%20telos%2C,ends%2C%20purposes%2C%20or%20goals"
+          "https://en.wikipedia.org/w/index.php?title=The_Silver_Chair&oldid=1384227702"
         ],
-        "checkedAt": "2026-11-18T16:58:54.212Z"
-      }
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950035",
-      "correctAnswer": "Michael Schumacher",
-      "incorrectAnswers": [
-        "Mika Häkkinen",
-        "David Coulthard",
-        "Rubens Barrichello"
-      ],
-      "question": {
-        "text": "Which driver won nine Formula One Grands Prix in the 2000 season?"
-      },
-      "tags": [
-        "category:sport-and-leisure",
-        "sport:sports",
-        "sport:formula-one",
-        "sport:motor-racing",
-        "person:sportspeople",
-        "person:michael-schumacher",
-        "era:2000s",
-        "era:21st-century"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The German Ferrari driver clinched his third world title that season.",
-      "explanation": "Michael Schumacher's 2000 championship was his first with Ferrari and ended the team's 21-year wait for a drivers' title.",
-      "sources": {
-        "urls": [
-          "https://www.formula1archive.com/seasons/2000"
-        ],
-        "checkedAt": "2026-11-18T14:42:31.179Z"
-      }
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6496ac48e831b1ab5aa11146",
-      "correctAnswer": "Lapidary",
-      "incorrectAnswers": [
-        "Byzantine",
-        "Iconography",
-        "Philately"
-      ],
-      "question": {
-        "text": "What is the term for the polishing and cutting of stones and gems?"
-      },
-      "tags": [
-        "category:general-knowledge",
-        "category:science",
-        "science:minerals-and-gemstones",
-        "topic:words"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The term derives from a Latin word meaning “stone.”",
-      "explanation": "The term comes from Latin lapidarius, meaning a stonecutter; lapidary can also describe concise, polished writing.",
-      "sources": {
-        "urls": [
-          "https://lizzadromuseum.org/lapidary#:~:text=Lapidary%20is%20the%20art,cutting%20and%20polishing%20stone"
-        ],
-        "checkedAt": "2026-11-19T22:22:13.852Z"
+        "checkedAt": "2026-11-18T18:11:20.773Z"
       }
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c377cc59eab6f950416",
-      "correctAnswer": "Spain",
+      "id": "622a1c357cc59eab6f94fd36",
+      "correctAnswer": "Jeremy Bentham",
       "incorrectAnswers": [
-        "Italy",
-        "France",
-        "Chile"
+        "Jean-Paul Sartre",
+        "Epictetus",
+        "René Descartes"
       ],
       "question": {
-        "text": "In which country do they eat 12 grapes as the clock strikes midnight (one each time the clock chimes) on New Year's Eve?"
+        "text": "Which philosopher famously said 'The greatest happiness of the greatest number is the foundation of morals and legislation'?"
       },
       "tags": [
         "category:society-and-culture",
-        "category:geography",
-        "place:spain",
-        "place:europe",
-        "place:iberia",
-        "place:southern-europe",
-        "event:new-year",
-        "event:holidays-and-festivals",
+        "category:history",
+        "topic:philosophy",
+        "person:philosophers",
+        "topic:famous-quotes"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He founded utilitarianism, the ethical theory that judges actions by their consequences for overall well-being.",
+      "explanation": "Jeremy Bentham was a leading advocate of utilitarianism, and his writings influenced legal and political reform.",
+      "sources": {
+        "urls": [
+          "https://britannica.com/quotes/Jeremy-Bentham"
+        ],
+        "checkedAt": "2026-11-18T13:26:54.578Z"
+      }
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6477bad1550bc819ad646b23",
+      "correctAnswer": "Challah",
+      "incorrectAnswers": [
+        "Matzo",
+        "Bagel",
+        "Pita"
+      ],
+      "question": {
+        "text": "What is the name of the loaf of bread traditionally baked for the Jewish Sabbath?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "category:society-and-culture",
+        "food:bread",
+        "food:jewish-cuisine",
+        "food:world-cuisine",
+        "topic:judaism",
         "topic:customs-and-traditions"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Madrid’s Puerta del Sol is a famous gathering place for this midnight tradition.",
-      "explanation": "In Spain, the custom is called las doce uvas de la suerte, or “the twelve grapes of luck”; each grape is traditionally linked to good fortune for one month of the coming year.",
+      "hint": "It is often a braided, egg-enriched loaf served for Shabbat.",
+      "explanation": "Challah is often served as two loaves on the Sabbath, recalling the double portion of manna gathered before the day of rest.",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Twelve_Grapes&oldid=1353442000"
+          "https://www.britannica.com/topic/challah#:~:text=Challah%20is%20usually%20braided,of%20the%20following%20day"
         ],
-        "checkedAt": "2026-11-18T16:58:33.224Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "62443760746187c5e7be934c",
-      "correctAnswer": "It is used to relieve pain and inflammation.",
-      "incorrectAnswers": [
-        "It is used to preserve food.",
-        "It is used as a solvent for lacquer, floor polishes and resins.",
-        "It is used in thermometers, thermostats, barometers"
-      ],
-      "question": {
-        "text": "What is the chemical magnesium sulphate heptahydrate often used for?"
-      },
-      "tags": [
-        "category:science",
-        "science:chemistry",
-        "science:chemical-compounds",
-        "category:food-and-drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its familiar name is Epsom salt, often dissolved in bathwater after strenuous activity.",
-      "explanation": "Magnesium sulfate heptahydrate is better known as Epsom salt, which is commonly used in bath soaks for sore muscles.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-19T11:50:32.510Z"
-      }
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c614bbadf21197f98f772",
-      "correctAnswer": "Uzbekistan",
-      "incorrectAnswers": [
-        "Guyana",
-        "Switzerland",
-        "Ghana"
-      ],
-      "question": {
-        "text": "Plov is a dish that is most associated with which part of the world?"
-      },
-      "tags": [
-        "category:food-and-drink",
-        "category:geography",
-        "food:world-cuisine",
-        "place:asia",
-        "place:central-asia"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This Central Asian country is famous for Silk Road cities such as Samarkand and Bukhara.",
-      "explanation": "Uzbek plov is commonly made with rice, meat, carrots, and onions, often cooked in a large kazan.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-19T11:51:09.583Z"
-      }
-    },
-    {
-      "category": "food_and_drink",
-      "id": "625006b60d86c8f685d80ef7",
-      "correctAnswer": "Shaped pasta",
-      "incorrectAnswers": [
-        "Soup pasta",
-        "Stuffed pasta",
-        "Strand pasta"
-      ],
-      "question": {
-        "text": "What type of pasta is gemelli?"
-      },
-      "tags": [
-        "category:food-and-drink",
-        "food:pasta",
-        "food:italian-cuisine",
-        "food:world-cuisine"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its Italian name means “twins,” reflecting its intertwined appearance.",
-      "explanation": "Gemelli is classified as shaped pasta. Its name means “twins” in Italian, referring to its twisted shape.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Gemelli_%28pasta%29&oldid=1297815596#:~:text=Gemelli%20are%20not%20twin,twisted%20into%20a%20spiral"
-        ],
-        "checkedAt": "2026-11-19T11:51:32.969Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "622a1c397cc59eab6f950fa6",
-      "correctAnswer": "Giovanni Schiaparelli",
-      "incorrectAnswers": [
-        "Galileo Galiei",
-        "Mary Ward",
-        "John Herschel"
-      ],
-      "question": {
-        "text": "Who was the first person to notice \"canals\" on Mars?"
-      },
-      "tags": [
-        "category:science",
-        "category:history",
-        "person:scientists",
-        "science:astronomy",
-        "science:solar-system",
-        "topic:famous-firsts"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This Italian astronomer mapped Mars during the 19th century and gave its mysterious lines a famous name.",
-      "explanation": "Giovanni Schiaparelli mapped the markings during Mars’s 1877 opposition. His word canali meant channels, but the English translation helped fuel speculation about artificial waterways.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/biography/Giovanni-Virginio-Schiaparelli"
-        ],
-        "checkedAt": "2026-11-18T22:27:56.212Z"
-      }
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe35",
-      "correctAnswer": "The Bronx",
-      "incorrectAnswers": [
-        "Manhattan",
-        "Harlem",
-        "Brooklyn"
-      ],
-      "question": {
-        "text": "What is the only borough of New York City that is not on an island?"
-      },
-      "tags": [
-        "category:geography",
-        "place:new-york-city",
-        "place:new-york-state",
-        "place:united-states",
-        "place:north-america",
-        "place:americas",
-        "place:mid-atlantic"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It shares a land border with Westchester County to the north.",
-      "explanation": "The Bronx connects to the mainland north of the city. Harlem is a neighborhood in Manhattan, not one of New York City's five boroughs.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Boroughs_of_New_York_City&oldid=1384532856#:~:text=The%20Bronx%20(co%2Dextensive%20with,part%20of%20the%20borough)"
-        ],
-        "checkedAt": "2026-11-18T14:41:01.943Z"
-      }
-    },
-    {
-      "category": "geography",
-      "id": "62373ff7cb85f7ce9e949cce",
-      "correctAnswer": "Santiago",
-      "incorrectAnswers": [
-        "Castries",
-        "Manama",
-        "Port Vila"
-      ],
-      "question": {
-        "text": "What is the capital city of Chile?"
-      },
-      "tags": [
-        "category:geography",
-        "place:capital-cities",
-        "place:chile",
-        "place:south-america",
-        "place:americas",
-        "place:latin-america",
-        "place:southern-cone"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It lies in a long central valley between the Andes and the Chilean Coastal Range.",
-      "explanation": "Santiago is Chile's largest city and lies in a valley between the Andes and the Chilean Coastal Range.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/place/Santiago-Chile#:~:text=Santiago%2C%20capital%20of%20Chile"
-        ],
-        "checkedAt": "2026-11-19T08:47:01.635Z"
-      }
-    },
-    {
-      "category": "geography",
-      "id": "623b57a6fd6c701a9211836f",
-      "correctAnswer": "Mexico",
-      "incorrectAnswers": [
-        "Israel",
-        "Indonesia",
-        "Greece"
-      ],
-      "question": {
-        "text": "In which country would you find Chichen Itza?"
-      },
-      "tags": [
-        "category:geography",
-        "category:history",
-        "science:archaeology",
-        "place:mexico",
-        "place:north-america",
-        "place:americas",
-        "place:latin-america",
-        "place:ancient-sites",
-        "era:pre-columbian-americas"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This famous Maya archaeological site stands on the Yucatán Peninsula.",
-      "explanation": "Mexico is home to this ancient Maya city, whose best-known structure is the stepped pyramid El Castillo.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/place/Chichen-Itza#:~:text=Chich%C3%A9n%20Itz%C3%A1%2C%20ruined%20ancient,south%2Dcentral%20Yucat%C3%A1n%20state%2C%20Mexico"
-        ],
-        "checkedAt": "2026-11-19T09:17:44.639Z"
-      }
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63bc3f920e893d6e5a6a0fb9",
-      "correctAnswer": "Yohji Yamamoto",
-      "incorrectAnswers": [
-        "Miu Miu",
-        "Dior",
-        "Felix Malikovich"
-      ],
-      "question": {
-        "text": "Which of the following fashion designers is famous for their use of the color black?"
-      },
-      "tags": [
-        "category:society-and-culture",
-        "topic:fashion",
-        "person:fashion-designers"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "His oversized, asymmetrical designs helped make monochrome black a signature of Japanese avant-garde fashion.",
-      "explanation": "Yohji Yamamoto’s loose, sculptural designs helped shape the look of Japanese avant-garde fashion on international runways.",
-      "sources": {
-        "urls": [
-          "https://www.encyclopedia.com/fashion/encyclopedias-almanacs-transcripts-and-maps/yamamoto-yohji#:~:text=No%20color%20in%20the,Yohji%20Yamamoto%20as%20black"
-        ],
-        "checkedAt": "2026-11-19T16:25:02.101Z"
+        "checkedAt": "2026-11-19T20:36:56.943Z"
       }
     },
     {
       "category": "music",
-      "id": "622a1c347cc59eab6f94fb98",
-      "correctAnswer": "\"1,2 Step\" by Ciara and Missy Elliott",
+      "id": "622a1c357cc59eab6f94fd69",
+      "correctAnswer": "Wagner",
       "incorrectAnswers": [
-        "\"Hooked on a Feeling\" by B.J. Thomas",
-        "\"I'm Real (Murder Remix) by Jennifer Lopez and Ja Rule",
-        "\"Fergalicious\" by Fergie and will.i.am."
+        "Verdi",
+        "Puccini",
+        "Strauss"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"This beat is automatic, supersonic, hypnotic, funky fresh.\"?"
+        "text": "Which composer wrote the operas 'Tannhäuser' and 'Tristan und Isolde'?"
+      },
+      "tags": [
+        "category:music",
+        "music:composers",
+        "music:classical",
+        "music:opera"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "His four-opera Ring cycle draws on Germanic legend and is among opera’s most famous works.",
+      "explanation": "Wagner’s music dramas use recurring leitmotifs—musical themes associated with characters, places, or ideas.",
+      "sources": {
+        "urls": [
+          "https://britannica.com/biography/Richard-Wagner-German-composer#:~:text=Richard%20Wagner%E2%80%99s%20major%20works,of%20the%20Nibelung%20(1869%E2%80%9376)"
+        ],
+        "checkedAt": "2026-11-18T13:28:38.942Z"
+      }
+    },
+    {
+      "category": "music",
+      "id": "64ce98407f0714b9a0ca5e64",
+      "correctAnswer": "The Boardwalk",
+      "incorrectAnswers": [
+        "The Beach",
+        "The Pier",
+        "The Lighthouse"
+      ],
+      "question": {
+        "text": "In the hit song sung by The Drifters, where are they \"on a blanket with my baby\"?"
       },
       "tags": [
         "category:music",
         "music:song-lyrics",
-        "music:musicians",
-        "music:duets-and-collaborations",
-        "music:hip-hop",
         "music:rnb-and-soul"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "A guest verse comes from the rapper behind the playful hit “Work It.”",
-      "explanation": "“1,2 Step” was a dance-pop single from Ciara’s debut album, Goodies, featuring Missy Elliott.",
+      "hint": "The Drifters' song title begins with the words “Under the...”",
+      "explanation": "The Boardwalk is the setting of The Drifters’ 1964 hit “Under the Boardwalk,” written by Kenny Young and Arthur Resnick.",
       "sources": {
         "urls": [],
-        "checkedAt": "2026-11-19T00:30:54.409Z"
+        "checkedAt": "2026-11-20T14:35:16.533Z"
+      }
+    },
+    {
+      "category": "film_and_tv",
+      "id": "624dba3acd90beeca353156a",
+      "correctAnswer": "Sean Connery",
+      "incorrectAnswers": [
+        "Roger Moore",
+        "George Lazenby",
+        "Pierce Brosnan"
+      ],
+      "question": {
+        "text": "Who played the role of James Bond in Diamonds Are Forever?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "work:james-bond",
+        "topic:film",
+        "person:actors",
+        "person:sean-connery"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This Scottish actor had played Bond in several earlier films before returning for this one.",
+      "explanation": "Sean Connery returned as Bond after George Lazenby played him in On Her Majesty’s Secret Service.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-19T11:51:22.437Z"
+      }
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ebc",
+      "correctAnswer": "Mark Twain",
+      "incorrectAnswers": [
+        "Cassandra Clare",
+        "Isabel Allende",
+        "George R. R. Martin"
+      ],
+      "question": {
+        "text": "Which author wrote 'A Connecticut Yankee in King Arthur's Court'?"
+      },
+      "tags": [
+        "category:arts-and-literature",
+        "person:authors",
+        "person:mark-twain",
+        "topic:literature",
+        "topic:classic-literature",
+        "topic:american-literature",
+        "topic:fantasy"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The same American humorist created Tom Sawyer and Huckleberry Finn.",
+      "explanation": "Mark Twain's satirical novel sends a 19th-century American back to King Arthur's court.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/topic/A-Connecticut-Yankee-in-King-Arthurs-Court-novel-by-Twain#:~:text=A%20Connecticut%20Yankee%20in,Twain%2C%20published%20in%201889"
+        ],
+        "checkedAt": "2026-11-18T22:26:55.282Z"
+      }
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f9f6",
+      "correctAnswer": "Michelangelo",
+      "incorrectAnswers": [
+        "Gustav Klimt",
+        "Pablo Picasso",
+        "El Greco"
+      ],
+      "question": {
+        "text": "Which artist painted \"Creation of Adam\"?"
+      },
+      "tags": [
+        "category:arts-and-literature",
+        "person:artists",
+        "person:michelangelo",
+        "topic:art",
+        "topic:painting",
+        "topic:renaissance-art",
+        "era:renaissance",
+        "era:16th-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The scene appears on the ceiling of the Vatican's Sistine Chapel.",
+      "explanation": "Michelangelo painted the scene as part of the Sistine Chapel ceiling, whose central panels depict stories from Genesis.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/topic/The-Creation-of-Adam#:~:text=Michelangelo's%20%22The%20Creation%20of,the%20ceiling%20of%20the"
+        ],
+        "checkedAt": "2026-11-18T09:21:14.237Z"
+      }
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f9500ac",
+      "correctAnswer": "A Driver Has Been Disqualified",
+      "incorrectAnswers": [
+        "The Race Has Been Won",
+        "A Driver Has Died",
+        "The Fastest Lap Has Been Set"
+      ],
+      "question": {
+        "text": "In Formula One what does it mean when they are waving a black flag?"
+      },
+      "tags": [
+        "category:sport-and-leisure",
+        "sport:formula-one",
+        "sport:motor-racing",
+        "sport:sports",
+        "sport:sports-rules-and-terms"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It is shown with a car number and requires that competitor to leave the race.",
+      "explanation": "A black flag tells the driver to return to the pits and stop competing; it is shown with the driver’s number to identify them.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-18T14:43:05.821Z"
       }
     },
     {
       "category": "geography",
-      "id": "62602e7a4b176d54800e3cde",
-      "correctAnswer": "Israel",
+      "id": "623741c0cb85f7ce9e949d86",
+      "correctAnswer": "Skopje",
       "incorrectAnswers": [
-        "Bahrain",
-        "Qatar",
-        "Iran"
+        "Yaounde",
+        "Sarajevo",
+        "Belgrade"
       ],
       "question": {
-        "text": "Haifa is a city in which country?"
+        "text": "What is the capital city of North Macedonia?"
       },
       "tags": [
         "category:geography",
-        "place:cities",
-        "place:israel",
-        "place:asia",
-        "place:middle-east",
-        "place:levant",
-        "place:mediterranean"
+        "place:capital-cities",
+        "place:europe",
+        "place:balkans"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Haifa is a major port on the eastern coast of the Mediterranean Sea.",
-      "explanation": "Haifa is a major port city on Israel’s Mediterranean coast, built along the slopes of Mount Carmel.",
+      "hint": "The Vardar River runs through this Balkan country's largest city.",
+      "explanation": "Skopje is North Macedonia's political and economic center, and the Vardar River runs through it.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/place/Haifa#:~:text=Haifa%2C%20city%2C%20northwestern%20Israel"
+          "https://www.britannica.com/place/Skopje#:~:text=Skopje%2C%20principal%20city%20and%20capital%20of%20North%20Macedonia"
         ],
-        "checkedAt": "2026-11-19T13:14:16.770Z"
+        "checkedAt": "2026-11-19T09:17:04.567Z"
       }
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f951621",
-      "correctAnswer": "Onion",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbd1",
+      "correctAnswer": "\"I drink your milkshake. I drink it up.\"",
       "incorrectAnswers": [
-        "Pepper",
-        "Tomato",
-        "Garlic"
+        "\"I'll be back.\"",
+        "\"I'll get you, my pretty, and your little dog, too!\"",
+        "\"Release the Kraken!\""
       ],
       "question": {
-        "text": "What do you add to a martini to make it a Gibson?"
+        "text": "Which of these quotes is from the film 'There Will Be Blood'?"
       },
       "tags": [
-        "category:food-and-drink",
-        "food:alcoholic-drinks",
-        "food:cocktails",
-        "food:drinks"
+        "category:film-and-tv",
+        "topic:film",
+        "topic:film-quotes"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Its defining garnish is a small pickled vegetable from the allium family.",
-      "explanation": "A Gibson is traditionally garnished with a cocktail onion, while a classic martini is commonly served with an olive.",
+      "hint": "Daniel Plainview's oil-field taunt uses a dessert as a metaphor for siphoning a rival's underground riches.",
+      "explanation": "“I drink your milkshake. I drink it up” is Daniel Plainview’s metaphor for drawing oil from beneath Eli Sunday’s land through wells on his own property.",
       "sources": {
         "urls": [
-          "https://www.merriam-webster.com/dictionary/Gibson"
+          "https://www.acmi.net.au/stories-and-ideas/there-will-be-blood-drink-you-milkshake/#:~:text=There%20Will%20Be%20Blood,%E2%80%9CI%20drink%20your%20milkshake%E2%80%9D"
         ],
-        "checkedAt": "2026-11-19T00:31:37.279Z"
-      }
-    },
-    {
-      "category": "geography",
-      "id": "622a1c3a7cc59eab6f950fde",
-      "correctAnswer": "The Pan-American Highway",
-      "incorrectAnswers": [
-        "The Trans-Canada Highway",
-        "Route 66",
-        "The Silk Road"
-      ],
-      "question": {
-        "text": "Which road network runs from Alaska to Argentina?"
-      },
-      "tags": [
-        "category:geography",
-        "category:general-knowledge",
-        "place:americas",
-        "place:north-america",
-        "place:south-america",
-        "topic:transport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "explanation": "The Pan-American Highway is not one continuous paved road; the Darién Gap between Panama and Colombia breaks the route.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/topic/Pan-American-Highway"
-        ],
-        "checkedAt": "2026-11-18T22:28:08.920Z"
-      }
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64a1c901c1e45722061c31b8",
-      "correctAnswer": "Gap",
-      "incorrectAnswers": [
-        "H&M",
-        "Zara",
-        "Uniqlo"
-      ],
-      "question": {
-        "text": "Which company, originally starting as a single store selling jeans, is the owner of Banana Republic?"
-      },
-      "tags": [
-        "category:society-and-culture",
-        "org:companies",
-        "org:retailers",
-        "topic:business"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its retail family also includes Old Navy and Athleta.",
-      "explanation": "The Gap’s name refers to the generation gap between adults and teenagers. Its first store also sold records alongside jeans."
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd56",
-      "correctAnswer": "Billy Idol",
-      "incorrectAnswers": [
-        "Billie Eilish",
-        "Bill Withers",
-        "Bill Bailey"
-      ],
-      "question": {
-        "text": "Which singer was born William Michael Albert Broad?"
-      },
-      "tags": [
-        "category:music",
-        "music:musicians",
-        "music:punk-and-new-wave",
-        "topic:pseudonyms"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "He fronted the British punk band Generation X before becoming a solo star.",
-      "explanation": "Billy Idol first rose to prominence as the lead singer of the punk band Generation X before launching a successful solo career.",
-      "sources": {
-        "urls": [
-          "https://billyidol.net/about-billy-idol/#:~:text=The%20man%20who%20would,contract%20from%20Sun%20Records"
-        ],
-        "checkedAt": "2026-11-18T13:28:34.949Z"
+        "checkedAt": "2026-11-18T10:19:43.560Z"
       }
     }
   ]
