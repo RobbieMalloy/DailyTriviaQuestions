@@ -1,559 +1,172 @@
 {
-  "gameDate": "2026-11-21",
+  "gameDate": "2026-11-22",
   "difficulty": "easy",
   "results": [
     {
+      "category": "food_and_drink",
+      "id": "622a1c3c7cc59eab6f951954",
+      "correctAnswer": "Pigs in blankets",
+      "incorrectAnswers": [
+        "Little weiners",
+        "Swine rolls",
+        "Porkos"
+      ],
+      "question": {
+        "text": "What is the popular name for little baked sausages wrapped in rashers of streaky bacon?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "food:british-cuisine",
+        "food:meat"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "In Britain, they are a traditional accompaniment to Christmas dinner, often served alongside roast turkey.",
+      "explanation": "In the UK, pigs in blankets are a Christmas dinner favorite; in the US, the same name often refers to sausages wrapped in pastry.",
+      "sources": {
+        "urls": [
+          "https://tasteatlas.com/pigs-in-blankets#:~:text=Also%20known%20as%20kilted,either%20pan%2Dfried%20or%20baked"
+        ],
+        "checkedAt": "2026-11-19T00:32:49.812Z"
+      }
+    },
+    {
       "category": "science",
-      "id": "62433403cfaae40c12961419",
-      "correctAnswer": "A Tadpole",
+      "id": "645b4f1f067ef798d1455087",
+      "correctAnswer": "DNA",
       "incorrectAnswers": [
-        "A Calf",
-        "A Piglet",
-        "A Maggot"
+        "GCI",
+        "ATP",
+        "COD"
       ],
       "question": {
-        "text": "What would you call a baby frog?"
+        "text": "What is the abbreviation for the polymer that carries genetic instructions for living cells?"
       },
       "tags": [
         "category:science",
-        "animal:animals",
-        "animal:amphibians",
-        "topic:animal-terminology"
+        "topic:abbreviations-and-acronyms",
+        "science:biology",
+        "science:genetics"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "It begins life in water with a tail and gills before developing legs.",
-      "explanation": "A tadpole is a frog’s aquatic larval stage; as it develops, it grows legs and loses its tail.",
+      "hint": "Its famous double-helix shape stores hereditary instructions in cells.",
+      "explanation": "DNA’s two strands twist into a double helix, and sequences of its chemical bases encode inherited information.",
       "sources": {
         "urls": [
-          "https://www.merriam-webster.com/dictionary/tadpole"
+          "https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid#:~:text=Deoxyribonucleic%20acid%20(abbreviated%20DNA),functioning%20of%20an%20organism"
         ],
-        "checkedAt": "2026-11-19T11:50:12.288Z"
-      }
-    },
-    {
-      "category": "history",
-      "id": "65056e717a97013de78b52e4",
-      "correctAnswer": "Apollo",
-      "incorrectAnswers": [
-        "Gemini",
-        "Mercury",
-        "Skylab"
-      ],
-      "question": {
-        "text": "Which space program first sent humans to the Moon?"
-      },
-      "tags": [
-        "category:history",
-        "category:science",
-        "event:moon-landings",
-        "era:1960s",
-        "era:20th-century",
-        "science:space-exploration",
-        "science:the-moon",
-        "org:nasa"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Neil Armstrong and Buzz Aldrin made their historic lunar landing under this program.",
-      "explanation": "Apollo 11 achieved the first crewed Moon landing in 1969, with Michael Collins orbiting the Moon while Armstrong and Aldrin descended to the surface.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/topic/Apollo-space-program"
-        ],
-        "checkedAt": "2026-11-20T14:37:28.016Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740839da29df7b05f73e3",
-      "correctAnswer": "After his son is captured and taken to Sydney, a clownfish sets out on a journey to bring him home.",
-      "incorrectAnswers": [
-        "A prince cursed to spend his days as a monster sets out to regain his humanity.",
-        "After he becomes a quadriplegic, an aristocrat hires a young man to be his caregiver.",
-        "A high school student is sent thirty years into the past in a time-traveling car."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Finding Nemo?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "topic:film",
-        "topic:animated-films",
-        "org:disney",
-        "org:pixar"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "A scuba diver’s encounter with a young fish sends the parent across the ocean.",
-      "explanation": "In Finding Nemo, the forgetful blue tang Dory joins Marlin on the search, providing help and comic relief.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Finding_Nemo&oldid=1385998246"
-        ],
-        "checkedAt": "2026-11-19T13:12:55.163Z"
-      }
-    },
-    {
-      "category": "geography",
-      "id": "625ea012796f721e95543fcc",
-      "correctAnswer": "13 horizontal stripes of red and white, with a blue rectangle in the top left containing 50 white stars.",
-      "incorrectAnswers": [
-        "Two equal horizontal bands of blue and yellow.",
-        "Red with a white cross that extends to the edges.",
-        "Green with a yellow diamond in the center with a blue celestial globe."
-      ],
-      "question": {
-        "text": "What does the flag of United States look like?"
-      },
-      "tags": [
-        "category:geography",
-        "topic:flags",
-        "topic:national-symbols",
-        "place:united-states",
-        "place:north-america",
-        "place:americas"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its design honors the original colonies and represents each state in the union.",
-      "explanation": "The stars on the U.S. flag represent the states, while the stripes commemorate the original thirteen colonies.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/topic/flag-of-the-United-States-of-America#:~:text=The%20flag%20of%20the,containing%2050%20white%20stars"
-        ],
-        "checkedAt": "2026-11-19T13:13:36.487Z"
+        "checkedAt": "2026-11-19T18:23:18.579Z"
       }
     },
     {
       "category": "sport_and_leisure",
-      "id": "65056e1e7a97013de78b5271",
-      "correctAnswer": "Baseball",
+      "id": "64626286ab138b829b81ea07",
+      "correctAnswer": "Javelin",
       "incorrectAnswers": [
-        "Handball",
-        "Croquet",
-        "Poker"
+        "Shot put",
+        "Discus",
+        "Hammer throw"
       ],
       "question": {
-        "text": "What sport requires a bat, a ball and a glove?"
+        "text": "Which Olympic sport involves throwing a spear?"
       },
       "tags": [
         "category:sport-and-leisure",
-        "sport:baseball",
+        "sport:athletics",
         "sport:sports",
-        "sport:sports-rules-and-terms"
+        "sport:olympic-games"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Players take turns batting and fielding, with runners advancing around four bases.",
-      "explanation": "In baseball, teams alternate between batting and fielding, and each half-inning ends after three outs.",
+      "hint": "Athletes build speed along a runway before launching a long, narrow implement that must land point-first.",
+      "explanation": "A throw counts only if the javelin’s metal head strikes the ground before any other part.",
       "sources": {
         "urls": [
-          "https://kids.britannica.com/scholars/article/baseball/108487#:~:text=baseball%2C%20game%20played%20with,out%20in%20a%20diamond"
+          "https://www.britannica.com/sports/javelin-throw#:~:text=javelin%20throw%2C%20athletics%20(track%2Dand%2Dfield),of%20the%20pentathlon%20competition"
         ],
-        "checkedAt": "2026-11-20T14:37:03.687Z"
+        "checkedAt": "2026-11-19T20:34:41.382Z"
       }
     },
     {
       "category": "arts_and_literature",
-      "id": "65056e4b7a97013de78b52b0",
-      "correctAnswer": "13",
+      "id": "63a03970c7d86251f9b65c59",
+      "correctAnswer": "Hey Diddle Diddle",
       "incorrectAnswers": [
-        "10",
-        "7",
-        "3"
+        "Humpty Dumpty",
+        "Mary Had a Little Lamb",
+        "Baa Baa Black Sheep"
       ],
       "question": {
-        "text": "How many people are visible in The Last Supper by Leonardo da Vinci?"
+        "text": "What nursery rhyme includes a cow jumping over the moon?"
       },
       "tags": [
         "category:arts-and-literature",
-        "topic:art",
-        "topic:painting",
-        "topic:renaissance-art",
-        "era:renaissance",
-        "person:artists",
-        "person:leonardo-da-vinci"
+        "topic:nursery-rhymes"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Jesus is shown with his twelve apostles gathered around him.",
-      "explanation": "Thirteen people are visible: Jesus and the twelve apostles, arranged in groups of three around the table.",
+      "hint": "A dish and a spoon also run away together in this nonsensical verse.",
+      "explanation": "Hey Diddle Diddle is a whimsical verse that also features a cat playing a fiddle and a dish and spoon running away.",
       "sources": {
         "urls": [
-          "https://britannica.com/question/Who-are-the-13-people-depicted-in-Leonardo-da-Vincis-Last-Supper#:~:text=The%2013%20figures%20depicted,Apostles%2C%20his%20closest%20disciples"
+          "https://www.classicfm.com/discover-music/hey-diddle-diddle-lyrics-meaning-nursery-rhyme#:~:text=If%20we%20take%20it,away%20with%20a%20spoon"
         ],
-        "checkedAt": "2026-11-20T14:37:18.066Z"
-      }
-    },
-    {
-      "category": "geography",
-      "id": "62602d174b176d54800e3c7e",
-      "correctAnswer": "Australia",
-      "incorrectAnswers": [
-        "Ireland",
-        "New Zealand",
-        "Canada"
-      ],
-      "question": {
-        "text": "Sydney is a city in which country?"
-      },
-      "tags": [
-        "category:geography",
-        "place:cities",
-        "place:australia",
-        "place:oceania",
-        "place:australasia"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The country occupies an entire continent and is home to the Great Barrier Reef.",
-      "explanation": "Australia hosted the 2000 Summer Olympics in Sydney, while Canberra is the national capital.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/place/Sydney-New-South-Wales#:~:text=Sydney%2C%20city%2C%20capital%20of,New%20South%20Wales%2C%20Australia"
-        ],
-        "checkedAt": "2026-11-19T13:14:03.113Z"
+        "checkedAt": "2026-11-19T16:23:59.498Z"
       }
     },
     {
       "category": "science",
-      "id": "650570207a97013de78b553b",
-      "correctAnswer": "Black hole",
+      "id": "65056e447a97013de78b52a5",
+      "correctAnswer": "Venom",
       "incorrectAnswers": [
-        "Supernova",
-        "Big bang",
-        "Pulsar"
+        "Stare",
+        "Shock",
+        "Persuasion"
       ],
       "question": {
-        "text": "What is a region of spacetime in which gravity prevents anything from escaping?"
-      },
-      "tags": [
-        "category:science",
-        "science:astronomy",
-        "science:stars-and-galaxies",
-        "science:physics"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its boundary is called the event horizon, beyond which even light cannot return.",
-      "explanation": "A black hole's event horizon marks the point of no return; astronomers detect black holes through their effects on nearby matter and light.",
-      "sources": {
-        "urls": [
-          "https://science.nasa.gov/universe/black-holes/#:~:text=A%20black%20hole%20is,light%20%E2%80%93%20can%20escape"
-        ],
-        "checkedAt": "2026-11-20T16:28:22.740Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9504dd",
-      "correctAnswer": "oceans",
-      "incorrectAnswers": [
-        "non-terrestrial life",
-        "blood serum",
-        "the Earth"
-      ],
-      "question": {
-        "text": "What is Oceanology the study of?"
-      },
-      "tags": [
-        "category:science",
-        "topic:ologies-and-phobias",
-        "science:earth-science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The Pacific, Atlantic, Indian, Southern, and Arctic are all within this field's scope.",
-      "explanation": "Oceanology is also called oceanography, an interdisciplinary field that studies the physical, chemical, biological, and geological processes of the oceans.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Oceanography&oldid=1382441087"
-        ],
-        "checkedAt": "2026-11-18T16:59:07.961Z"
-      }
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6aeec077c08d94fc732de262",
-      "correctAnswer": "Emmental",
-      "incorrectAnswers": [
-        "Gruyère",
-        "Gouda",
-        "Edam"
-      ],
-      "question": {
-        "text": "Which Swiss cheese is famous for its holes?"
-      },
-      "tags": [
-        "category:food-and-drink",
-        "food:cheese",
-        "food:central-european-cuisine",
-        "food:world-cuisine",
-        "place:switzerland",
-        "place:europe",
-        "place:alps",
-        "place:central-europe",
-        "place:western-europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This cheese takes its name from a valley in Switzerland's canton of Bern.",
-      "explanation": "Emmental's holes, traditionally called “eyes,” form when bacteria release carbon dioxide during aging.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-07T09:02:45.584Z"
-      }
-    },
-    {
-      "category": "history",
-      "id": "65056ee37a97013de78b5383",
-      "correctAnswer": "Third Reich",
-      "incorrectAnswers": [
-        "New Holland",
-        "Marburg Republic",
-        "Holy Roman Empire"
-      ],
-      "question": {
-        "text": "What term refers to Germany between 1933 and 1945?"
-      },
-      "tags": [
-        "category:history",
-        "category:society-and-culture",
-        "place:germany",
-        "place:europe",
-        "place:central-europe",
-        "place:western-europe",
-        "event:world-war-ii",
-        "era:20th-century",
-        "era:1930s",
-        "era:1940s",
-        "topic:politics"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The Nazi era's name invokes a sequence of German empires.",
-      "explanation": "Third Reich was a name used for Nazi Germany, which portrayed itself as a successor to the Holy Roman Empire and the German Empire.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/place/Third-Reich#:~:text=Third%20Reich%2C%20official%20Nazi,1933%20to%20May%201945"
-        ],
-        "checkedAt": "2026-11-20T16:26:18.296Z"
-      }
-    },
-    {
-      "category": "society_and_culture",
-      "id": "65056f8e7a97013de78b5473",
-      "correctAnswer": "Constitution",
-      "incorrectAnswers": [
-        "Infestation",
-        "Testimony",
-        "Forbearance"
-      ],
-      "question": {
-        "text": "What is a set of rules that guides how a country should work?"
-      },
-      "tags": [
-        "category:society-and-culture",
-        "topic:politics"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It lays out government powers and often protects citizens' rights.",
-      "explanation": "A constitution sets the framework for a country's government. In the United Kingdom, constitutional rules are spread across laws, court decisions, and conventions rather than collected in one document.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/topic/constitution-politics-and-law#:~:text=Countries%20have%20constitutions%20to,institutions%20entrusted%20with%20governing"
-        ],
-        "checkedAt": "2026-11-20T16:27:28.390Z"
-      }
-    },
-    {
-      "category": "food_and_drink",
-      "id": "63a03949c7d86251f9b65c35",
-      "correctAnswer": "Mozzarella",
-      "incorrectAnswers": [
-        "Gouda",
-        "Blue Cheese",
-        "Feta"
-      ],
-      "question": {
-        "text": "What type of cheese is used on a pizza?"
-      },
-      "tags": [
-        "category:food-and-drink",
-        "food:cheese",
-        "food:italian-cuisine",
-        "food:world-cuisine",
-        "place:italy",
-        "place:europe",
-        "place:southern-europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This mild, stretchy cheese melts smoothly and is commonly sold shredded for pizza.",
-      "explanation": "Mozzarella is prized for its elastic melt; low-moisture versions brown well and release less water on pizza.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/topic/mozzarella#:~:text=Creamy%20white%20or%20pale,main%20ingredient%20in%20pizza"
-        ],
-        "checkedAt": "2026-11-19T16:23:51.849Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "65056e767a97013de78b52eb",
-      "correctAnswer": "Oyster",
-      "incorrectAnswers": [
-        "Cow",
-        "Spider",
-        "Sturgeon"
-      ],
-      "question": {
-        "text": "Which animal can produce pearls?"
+        "text": "What does the king cobra use to kill its prey?"
       },
       "tags": [
         "category:science",
         "animal:animals",
-        "animal:invertebrates",
-        "animal:marine-life",
+        "animal:reptiles",
+        "animal:snakes",
+        "animal:animal-behaviour",
         "science:biology"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "This marine bivalve is a shellfish sometimes served raw.",
-      "explanation": "Oysters can form pearls when they coat an irritant with layers of nacre, the same material that lines their shells.",
+      "hint": "Its long fangs inject a substance that can paralyze prey.",
+      "explanation": "King cobra venom contains neurotoxins that interfere with nerve signaling and can cause paralysis.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/animal/oyster#:~:text=Additionally%2C%20some%20oyster%20species,and%20used%20in%20jewelry"
+          "https://kids.britannica.com/students/article/king-cobra/312003"
         ],
-        "checkedAt": "2026-11-20T14:37:29.767Z"
-      }
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "63a0397ac7d86251f9b65c65",
-      "correctAnswer": "Monopoly",
-      "incorrectAnswers": [
-        "Life",
-        "Risk",
-        "Chess"
-      ],
-      "question": {
-        "text": "What is the name of the classic board game where players must collect properties and build houses and hotels?"
-      },
-      "tags": [
-        "category:sport-and-leisure",
-        "topic:board-games",
-        "topic:games-and-toys",
-        "work:monopoly"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Players buy streets and charge rent when opponents land on them.",
-      "explanation": "Monopoly's board includes a jail space, and players can be sent there by landing on certain spaces or drawing a card.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-19T16:24:01.596Z"
-      }
-    },
-    {
-      "category": "society_and_culture",
-      "id": "65056e5c7a97013de78b52c7",
-      "correctAnswer": "Defense",
-      "incorrectAnswers": [
-        "Energy",
-        "Agriculture",
-        "Housing"
-      ],
-      "question": {
-        "text": "The Pentagon is the headquarters of which US government department?"
-      },
-      "tags": [
-        "category:society-and-culture",
-        "topic:politics",
-        "topic:us-politics"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It oversees the U.S. armed forces and military operations.",
-      "explanation": "The Department of Defense oversees the U.S. armed forces; the Pentagon gets its name from its five-sided shape.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-20T14:33:31.660Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "65056eb67a97013de78b5344",
-      "correctAnswer": "Siemens",
-      "incorrectAnswers": [
-        "Celsius",
-        "Fahrenheit",
-        "Kelvin"
-      ],
-      "question": {
-        "text": "Which is NOT a unit of temperature?"
-      },
-      "tags": [
-        "category:science",
-        "science:units-of-measurement",
-        "science:physics"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Electrical conductance, rather than heat, is measured in this unit.",
-      "explanation": "The siemens measures electrical conductance, or how easily current flows; Celsius, Fahrenheit, and kelvin are temperature units.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-20T14:37:52.985Z"
+        "checkedAt": "2026-11-20T14:37:14.907Z"
       }
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950dc1",
+      "id": "622a1c397cc59eab6f950d02",
       "correctAnswer": "The Beatles",
       "incorrectAnswers": [
         "The Rolling Stones",
-        "Oasis",
-        "Simon & Garfunkel"
+        "The Kinks",
+        "The Who"
       ],
       "question": {
-        "text": "Which band did Paul McCartney belong to?"
+        "text": "Which English rock band released the song 'Yellow Submarine'?"
       },
       "tags": [
         "category:music",
@@ -564,386 +177,761 @@
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "He was part of a famous songwriting partnership with John Lennon.",
-      "explanation": "The Beatles’ classic lineup also included John Lennon, George Harrison, and Ringo Starr. McCartney later co-founded Wings.",
+      "hint": "The band's drummer, Ringo Starr, sings lead on this song.",
+      "explanation": "The Beatles' 1966 recording later became the title track of their animated film, released in 1968.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/topic/the-Beatles#:~:text=The%20principal%20members%20of,Ringo%20Starr%20(born%201940)"
+          "https://www.thebeatles.com/yellow-submarine-0"
         ],
-        "checkedAt": "2026-11-18T18:10:34.390Z"
+        "checkedAt": "2026-11-18T18:10:12.373Z"
       }
     },
     {
-      "category": "science",
-      "id": "65056f357a97013de78b53f6",
-      "correctAnswer": "Arthritis",
+      "category": "food_and_drink",
+      "id": "631e50a1a11f90a3bf2a3bf9",
+      "correctAnswer": "Green",
       "incorrectAnswers": [
-        "Typhus",
-        "Tonsillitis",
-        "Herpes zoster"
+        "Red",
+        "Blue",
+        "Purple"
       ],
       "question": {
-        "text": "People who experience swelling, pain and redness in their joints may have what disease?"
+        "text": "What colour is wasabi?"
       },
       "tags": [
-        "category:science",
-        "science:diseases",
-        "science:medicine"
+        "category:food-and-drink",
+        "category:general-knowledge",
+        "food:sauces-and-condiments",
+        "topic:colours"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "It can result from wear-and-tear or from the immune system attacking joint tissue.",
-      "explanation": "Arthritis means inflammation of one or more joints; osteoarthritis and rheumatoid arthritis are two common forms.",
+      "hint": "Its usual hue matches the color of fresh grass.",
+      "explanation": "Green wasabi is traditionally made by grating the plant’s rhizome; many commercial pastes rely mostly on horseradish and mustard.",
       "sources": {
         "urls": [
-          "https://medlineplus.gov/arthritis.html#:~:text=Pain%2C%20redness%2C%20warmth%2C%20and,are%20common%20arthritis%20symptoms"
+          "https://www.britannica.com/plant/wasabi#:~:text=True%20wasabi%20is%20naturally,has%20green%20colorants%20added"
         ],
-        "checkedAt": "2026-11-20T16:26:52.294Z"
+        "checkedAt": "2026-11-19T14:25:46.692Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "6462628cab138b829b81ea35",
+      "correctAnswer": "The Moon",
+      "incorrectAnswers": [
+        "The Sun",
+        "Halley's Comet",
+        "Mars"
+      ],
+      "question": {
+        "text": "What celestial object was the first for humankind to set foot on?"
+      },
+      "tags": [
+        "category:science",
+        "category:history",
+        "science:the-moon",
+        "science:solar-system",
+        "science:astronomy",
+        "science:space-exploration",
+        "event:moon-landings",
+        "topic:famous-firsts"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Apollo 11 carried the first astronauts to land on Earth's natural satellite.",
+      "explanation": "The Moon was reached by Apollo 11 in 1969, when Neil Armstrong and Buzz Aldrin became the first people to walk on its surface.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/place/Moon#:~:text=The%20Moon%20was%20the,which%20humans%20set%20foot"
+        ],
+        "checkedAt": "2026-11-19T20:34:49.434Z"
       }
     },
     {
       "category": "music",
-      "id": "622a1c387cc59eab6f950b89",
-      "correctAnswer": "The Jimi Hendrix Experience",
+      "id": "622a1c357cc59eab6f94fea3",
+      "correctAnswer": "Elton John",
       "incorrectAnswers": [
-        "Cream",
-        "The Who",
-        "Led Zeppelin"
+        "Rod Stewart",
+        "Sting",
+        "Phil Collins"
       ],
       "question": {
-        "text": "Which English-American psychedelic rock band released the song 'Purple Haze'?"
+        "text": "Which English singer-songwriter released the song 'Rocket Man'?"
       },
       "tags": [
         "category:music",
-        "music:musicians",
+        "music:elton-john",
         "music:rock"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "The band’s guitarist famously set his instrument alight at the Monterey Pop Festival.",
-      "explanation": "The Jimi Hendrix Experience released “Purple Haze” as a single in 1967; it later appeared on the US edition of their debut album, Are You Experienced.",
+      "hint": "His long-running songwriting partnership with Bernie Taupin produced many of his best-known hits.",
+      "explanation": "Elton John released the song in 1972; its full title is “Rocket Man (I Think It’s Going to Be a Long, Long Time).”",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Purple_Haze&oldid=1377647795#:~:text=%22Purple%20Haze%22%20is%20a,in%20the%20United%20Kingdom"
+          "https://en.wikipedia.org/w/index.php?title=Rocket_Man_%28song%29&oldid=1385855965"
         ],
-        "checkedAt": "2026-11-18T18:08:57.588Z"
+        "checkedAt": "2026-11-18T14:41:25.712Z"
       }
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a90",
-      "correctAnswer": "A Gladiator",
+      "category": "science",
+      "id": "6acb19f8fca2905181ea8a26",
+      "correctAnswer": "Columbia",
       "incorrectAnswers": [
-        "A Centurion",
-        "A Dominus",
-        "A Caesar"
+        "Challenger",
+        "Discovery",
+        "Atlantis"
       ],
       "question": {
-        "text": "What was the name of someone who fought professionally in Roman arenas?"
+        "text": "Which American space shuttle broke apart while re-entering the atmosphere in 2003?"
       },
       "tags": [
+        "category:science",
         "category:history",
-        "era:ancient-rome",
-        "era:ancient-world"
+        "category:general-knowledge",
+        "science:space-exploration",
+        "event:disasters",
+        "era:2000s",
+        "era:21st-century"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Their fights were staged for crowds in amphitheaters, sometimes against wild animals.",
-      "explanation": "Gladiators trained in specialized schools called ludi, and some became popular celebrities despite the danger of their bouts.",
-      "sources": {
-        "urls": [
-          "https://www.worldhistory.org/gladiator/"
-        ],
-        "checkedAt": "2026-11-19T00:33:18.694Z"
-      }
-    },
-    {
-      "category": "music",
-      "id": "6463394601d576cfac3aa32b",
-      "correctAnswer": "Jailhouse Rock",
-      "incorrectAnswers": [
-        "All Shook Up",
-        "Hound Dog",
-        "Love Me Tender"
-      ],
-      "question": {
-        "text": "Which Elvis song has the lyrics 'Everybody in the whole cell block was dancin' to the ...'?"
-      },
-      "tags": [
-        "category:music",
-        "music:elvis-presley",
-        "music:rock-and-roll",
-        "music:song-lyrics"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its title combines a place of confinement with a style of music.",
-      "explanation": "Jailhouse Rock was written by Jerry Leiber and Mike Stoller and became the title song of Elvis's 1957 film.",
-      "sources": {
-        "urls": [
-          "https://www.elvisthemusic.com/music/jailhouse-rock#:~:text=Elvis%20Presley%E2%80%99s%20%E2%80%98Jailhouse%20Rock%E2%80%99,GRAMMY%20Hall%20Of%20Fame"
-        ],
-        "checkedAt": "2026-11-19T20:35:12.024Z"
-      }
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64746b075a4c31088dd9d01d",
-      "correctAnswer": "Oysters",
-      "incorrectAnswers": [
-        "Lobsters",
-        "Crabs",
-        "Shrimps"
-      ],
-      "question": {
-        "text": "Which shellfish is said to be an aphrodisiac?"
-      },
-      "tags": [
-        "category:food-and-drink",
-        "food:seafood"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "They are commonly served raw on the half shell, often with lemon.",
-      "explanation": "Oysters' aphrodisiac reputation is often linked to their high zinc content, though evidence that they directly boost desire is limited.",
+      "hint": "It was NASA’s first space-rated shuttle orbiter.",
+      "explanation": "Columbia was lost after launch damage compromised its thermal protection, allowing extreme heat to destroy the orbiter during re-entry.",
       "sources": {
         "urls": [],
-        "checkedAt": "2026-11-19T20:36:24.193Z"
-      }
-    },
-    {
-      "category": "geography",
-      "id": "62602d104b176d54800e3c7c",
-      "correctAnswer": "Germany",
-      "incorrectAnswers": [
-        "Croatia",
-        "Albania",
-        "Switzerland"
-      ],
-      "question": {
-        "text": "In which country is the city of Berlin?"
-      },
-      "tags": [
-        "category:geography",
-        "place:berlin",
-        "place:germany",
-        "place:europe",
-        "place:central-europe",
-        "place:western-europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The Berlin Wall once divided this city during the Cold War.",
-      "explanation": "Germany reunified in 1990, and Berlin became its capital again.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/place/Berlin#:~:text=Berlin%2C%20capital%20and%20chief%20urban%20centre%20of%20Germany"
-        ],
-        "checkedAt": "2026-11-19T13:14:02.781Z"
-      }
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "64a0966bcf8fd58080cefff5",
-      "correctAnswer": "Charlie and the Chocolate Factory",
-      "incorrectAnswers": [
-        "The Sweet Factory",
-        "The Chocolatier's Gamble",
-        "The Candy Kingdom"
-      ],
-      "question": {
-        "text": "Which book contains the character Willy Wonka?"
-      },
-      "tags": [
-        "category:arts-and-literature",
-        "person:roald-dahl",
-        "topic:childrens-books",
-        "topic:fictional-characters",
-        "topic:literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Roald Dahl wrote this story about a boy who wins a tour of an eccentric confectioner's workshop.",
-      "explanation": "Charlie and the Chocolate Factory is a 1964 novel by Roald Dahl; its 1971 film adaptation starred Gene Wilder as Willy Wonka.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/print/article/671415#:~:text=It%20was%20perhaps%20the,factory%20of%20Willy%20Wonka"
-        ],
-        "checkedAt": "2026-11-20T10:30:20.846Z"
-      }
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501a9",
-      "correctAnswer": "Harry Potter",
-      "incorrectAnswers": [
-        "Voyages Extraordinaires",
-        "Percy Jackson & the Olympians",
-        "Twilight"
-      ],
-      "question": {
-        "text": "In which book series does 'Neville Longbottom' appear?"
-      },
-      "tags": [
-        "category:arts-and-literature",
-        "topic:literature",
-        "topic:modern-fiction",
-        "topic:childrens-books",
-        "topic:young-adult-fiction",
-        "topic:fantasy",
-        "topic:fictional-characters",
-        "work:harry-potter"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Neville is a shy student in the house of Gryffindor at Hogwarts.",
-      "explanation": "The Harry Potter books introduce Neville as one of Harry's classmates at Hogwarts; he later becomes an important opponent of Voldemort.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Neville_Longbottom&oldid=1382667057"
-        ],
-        "checkedAt": "2026-11-18T15:44:11.258Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625698689da29df7b05f7285",
-      "correctAnswer": "Captain America",
-      "incorrectAnswers": [
-        "Thor",
-        "The Collector",
-        "Spiderman"
-      ],
-      "question": {
-        "text": "Chris Evans plays the role of which character in the Marvel Cinematic Universe?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "category:society-and-culture",
-        "person:actors",
-        "topic:fictional-characters",
-        "topic:superheroes",
-        "work:marvel",
-        "work:marvel-cinematic-universe"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The character is a super-soldier who carries a star-spangled shield.",
-      "explanation": "Captain America is Steve Rogers, who gains enhanced abilities through the Super Soldier Serum and is known for wielding a shield.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Avengers%3A_Endgame&oldid=1386446912#:~:text=Chris%20Evans%20as%20Steve%20Rogers%20%2F%20Captain%20America"
-        ],
-        "checkedAt": "2026-11-19T11:52:09.749Z"
+        "checkedAt": "2026-11-01T00:00:00.000Z"
       }
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9500ed",
-      "correctAnswer": "David",
+      "id": "622a1c367cc59eab6f95010b",
+      "correctAnswer": "Atlantis",
       "incorrectAnswers": [
-        "Daniel",
-        "John",
-        "Michael"
+        "Gondwana",
+        "Pangea",
+        "Europa"
       ],
       "question": {
-        "text": "Who killed Goliath?"
-      },
-      "tags": [
-        "category:society-and-culture",
-        "topic:christianity",
-        "topic:judaism",
-        "topic:religion",
-        "work:the-bible"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The young shepherd defeated the Philistine champion with a sling and a stone.",
-      "explanation": "The biblical account of David and Goliath appears in 1 Samuel; David later became king of Israel.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-18T14:43:23.451Z"
-      }
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f951ab8",
-      "correctAnswer": "Pegasus",
-      "incorrectAnswers": [
-        "Centaur",
-        "Griffin",
-        "Gorgon"
-      ],
-      "question": {
-        "text": "Which Ancient Greek mythological creature was a winged horse?"
+        "text": "Which ancient continent is said to be submerged?"
       },
       "tags": [
         "category:society-and-culture",
         "topic:greek-mythology",
-        "topic:mythology",
-        "topic:mythical-creatures"
+        "topic:mythology"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "In myth, this creature sprang from Medusa after Perseus beheaded her.",
-      "explanation": "Pegasus sprang from Medusa’s blood when Perseus beheaded her, according to one version of the myth.",
+      "hint": "Plato's dialogues describe it as a powerful island civilization lost beneath the sea.",
+      "explanation": "Atlantis appears in Plato's dialogues Timaeus and Critias as a wealthy power that sank beneath the sea.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-21T23:41:29.608Z"
+      }
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fadd",
+      "correctAnswer": "Tom Hanks",
+      "incorrectAnswers": [
+        "Morgan Freeman",
+        "Nigel Hawthorne",
+        "Paul Newman"
+      ],
+      "question": {
+        "text": "Who won the Academy Award for Best Actor for playing Forrest Gump in Forrest Gump?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "event:academy-awards",
+        "topic:awards-and-honours",
+        "topic:film",
+        "person:actors",
+        "person:tom-hanks"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Nominees in the same category included Morgan Freeman and Nigel Hawthorne.",
+      "explanation": "Tom Hanks won the Academy Award for Best Actor for playing Forrest Gump in Forrest Gump, at the 67th Academy Awards held in 1995.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/topic/Pegasus-Greek-mythology#:~:text=Pegasus%2C%20in%20Greek%20mythology%2C,by%20the%20hero%20Perseus"
+          "https://www.nytimes.com/1995/03/28/movies/forrest-gump-triumphs-with-6-academy-awards.html#:~:text=Robert%20Zemeckis%20won%20the,in%20the%20title%20role"
         ],
-        "checkedAt": "2026-11-19T00:33:20.827Z"
+        "checkedAt": "2026-11-18T10:16:31.042Z"
+      }
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6476390bf05ea6d6f587a178",
+      "correctAnswer": "A cascade",
+      "incorrectAnswers": [
+        "A shuffle",
+        "A fountain",
+        "A reverse"
+      ],
+      "question": {
+        "text": "What is the most basic juggling pattern?"
+      },
+      "tags": [
+        "category:general-knowledge",
+        "category:sport-and-leisure"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Each toss travels diagonally toward the opposite hand, making this the standard beginner pattern.",
+      "explanation": "A cascade is the standard pattern for juggling an odd number of objects, with each object crossing between the hands.",
+      "sources": {
+        "urls": [
+          "https://libraryofjuggling.com/Tricks/3balltricks/Cascade.html#:~:text=The%20Three%20Ball%20Cascade,would%2Dbe%20juggler%20should%20learn"
+        ],
+        "checkedAt": "2026-11-19T20:36:40.998Z"
+      }
+    },
+    {
+      "category": "food_and_drink",
+      "id": "65056e8e7a97013de78b530d",
+      "correctAnswer": "Grain",
+      "incorrectAnswers": [
+        "Cheese",
+        "Wine",
+        "Butter"
+      ],
+      "question": {
+        "text": "What type of food is barley?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "food:nuts-seeds-and-grains"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Like wheat and oats, it is harvested for its edible seeds.",
+      "explanation": "Grain is the food category for barley, which is also malted for brewing beer and whiskey.",
+      "sources": {
+        "urls": [
+          "https://kids.britannica.com/students/article/barley/601884#:~:text=In%20North%20Africa%20and,a%20staple%20food%20grain"
+        ],
+        "checkedAt": "2026-11-20T14:37:37.865Z"
+      }
+    },
+    {
+      "category": "general_knowledge",
+      "id": "65056ef77a97013de78b539f",
+      "correctAnswer": "Adverb",
+      "incorrectAnswers": [
+        "Adjective",
+        "Noun",
+        "Conjunction"
+      ],
+      "question": {
+        "text": "Which part of speech is 'hastily'?"
+      },
+      "tags": [
+        "category:general-knowledge",
+        "category:society-and-culture",
+        "topic:grammar-and-punctuation",
+        "topic:language"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It often tells how an action is performed.",
+      "explanation": "Hastily means doing something in a rushed manner, so it functions as an adverb modifying an action.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/dictionary/hastily#:~:text=hastily%20%2F%CB%88he%C9%AAst%C9%99li%2F%20adverb"
+        ],
+        "checkedAt": "2026-11-20T16:26:25.561Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "65056e9a7a97013de78b531e",
+      "correctAnswer": "Africa",
+      "incorrectAnswers": [
+        "Australia",
+        "Europe",
+        "South America"
+      ],
+      "question": {
+        "text": "On which continent do most of the world's wild cheetahs live?"
+      },
+      "tags": [
+        "category:science",
+        "category:geography",
+        "animal:animals",
+        "animal:mammals",
+        "animal:big-cats",
+        "animal:african-wildlife",
+        "place:africa"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The Serengeti is home to them.",
+      "explanation": "Most wild cheetahs live in sub-Saharan Africa, with a small remnant in Iran.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/animal/cheetah-mammal#:~:text=Nearly%20all%20the%20cheetahs,wild%20live%20in%20Africa"
+        ],
+        "checkedAt": "2026-11-20T14:37:42.428Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "65056ed07a97013de78b5369",
+      "correctAnswer": "3.14",
+      "incorrectAnswers": [
+        "3.41",
+        "4.31",
+        "1.34"
+      ],
+      "question": {
+        "text": "What are the first digits of pi?"
+      },
+      "tags": [
+        "category:science",
+        "category:general-knowledge",
+        "science:mathematics",
+        "science:numbers"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It is the ratio of a circle’s circumference to its diameter, rounded to two decimal places.",
+      "explanation": "3.14 is a common approximation of pi, whose decimal digits continue forever without repeating.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/science/pi-mathematics#:~:text=To%2039%20decimal%20places%2C%20pi%20is%203.141592653589793238462643383279502884197"
+        ],
+        "checkedAt": "2026-11-20T16:26:11.879Z"
+      }
+    },
+    {
+      "category": "general_knowledge",
+      "id": "646140784d46e537ca8cd9c1",
+      "correctAnswer": "Buoyancy",
+      "incorrectAnswers": [
+        "Liquefaction",
+        "Oscillation",
+        "Gravity"
+      ],
+      "question": {
+        "text": "What is the term for the tendency of an object to float, or the upward pressure of fluid in an object?"
+      },
+      "tags": [
+        "category:general-knowledge",
+        "category:science",
+        "science:physics",
+        "science:forces-and-motion"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Archimedes' principle explains why this force helps ships stay afloat.",
+      "explanation": "Buoyancy is the upward force a fluid exerts on an object; by Archimedes' principle, it equals the weight of the fluid the object displaces.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/science/buoyancy"
+        ],
+        "checkedAt": "2026-11-19T18:25:41.486Z"
+      }
+    },
+    {
+      "category": "geography",
+      "id": "65056e477a97013de78b52aa",
+      "correctAnswer": "Dubai",
+      "incorrectAnswers": [
+        "Medina",
+        "Cairo",
+        "Doha"
+      ],
+      "question": {
+        "text": "What is the largest city in the United Arab Emirates?"
+      },
+      "tags": [
+        "category:geography",
+        "place:united-arab-emirates",
+        "place:asia",
+        "place:middle-east",
+        "place:gulf-states",
+        "place:cities"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The world's tallest building, the Burj Khalifa, stands there.",
+      "explanation": "Dubai is also a major international hub for trade and tourism.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-20T14:37:16.310Z"
       }
     },
     {
       "category": "society_and_culture",
-      "id": "6477bb12550bc819ad646b61",
-      "correctAnswer": "Snowflake",
+      "id": "6262884d4b176d54800e3d94",
+      "correctAnswer": "Maybelline",
       "incorrectAnswers": [
-        "Buttercup",
-        "Pumpkin",
-        "Cupcake"
+        "L'Oreal",
+        "CoverGirl",
+        "Levis"
       ],
       "question": {
-        "text": "What slang term refers to a very sensitive person who is easily offended?"
+        "text": "Which brand is associated with the marketing slogan 'Maybe she's born with it'?"
       },
       "tags": [
         "category:society-and-culture",
-        "topic:slang",
-        "topic:words"
+        "category:general-knowledge",
+        "topic:advertising-and-slogans",
+        "topic:business"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Its namesake is a tiny, delicate crystal with a six-sided shape that melts in warmth.",
-      "explanation": "Snowflake is often used as a political insult, drawing on the image of something delicate and easily melted.",
+      "hint": "Its name combines founder Thomas Lyle Williams’s sister Mabel’s name with a petroleum-jelly product.",
+      "explanation": "Maybelline’s name combines Mabel, the founder’s sister, with Vaseline; her homemade lash makeup inspired the company’s first product.",
       "sources": {
         "urls": [
-          "https://www.dictionary.com/culture/slang/snowflake#:~:text=Snowflake%2C%20here%2C%20is%20a,for%20millennials%20and%20liberals"
+          "https://cosmeticsbusiness.com/maybelline-new-york-updates-its-35-year-old-tagline"
         ],
-        "checkedAt": "2026-11-19T20:37:08.595Z"
+        "checkedAt": "2026-11-19T14:24:09.590Z"
+      }
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9507bb",
+      "correctAnswer": "Clint Eastwood",
+      "incorrectAnswers": [
+        "Matt Damon",
+        "Robert De Niro",
+        "Sean Connery"
+      ],
+      "question": {
+        "text": "Which actor has featured in films including The Good, the Bad and the Ugly and Million Dollar Baby?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "person:actors",
+        "person:clint-eastwood"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "His Man with No Name role made him an icon of Sergio Leone's spaghetti westerns.",
+      "explanation": "Clint Eastwood played Blondie, the gunslinger also known as the Man with No Name, in Sergio Leone's film.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-18T17:00:31.678Z"
+      }
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6a97ea0cc9cbd5256545a734",
+      "correctAnswer": "TheFacebook",
+      "incorrectAnswers": [
+        "Friendster",
+        "HarvardConnection",
+        "SocialNet"
+      ],
+      "question": {
+        "text": "What original name did Mark Zuckerberg give the site he launched from his Harvard dorm?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "category:science",
+        "org:social-media-platforms",
+        "science:computing",
+        "science:the-internet",
+        "science:technology"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Harvard distributed printed student directories, and the site's original name echoed those publications.",
+      "explanation": "TheFacebook began as a social network for Harvard students before expanding to other colleges and eventually the wider public.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-04T09:05:18.633Z"
+      }
+    },
+    {
+      "category": "history",
+      "id": "639c9d90929b90846f2fc953",
+      "correctAnswer": "Barack Obama",
+      "incorrectAnswers": [
+        "Bill Clinton",
+        "George W. Bush",
+        "Donald Trump"
+      ],
+      "question": {
+        "text": "Which US president served two terms in office as the first African American president?"
+      },
+      "tags": [
+        "category:history",
+        "category:society-and-culture",
+        "category:general-knowledge",
+        "person:barack-obama",
+        "person:us-presidents",
+        "topic:american-history",
+        "topic:black-history",
+        "topic:famous-firsts"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Before becoming president, he represented Illinois in the U.S. Senate.",
+      "explanation": "Barack Obama taught constitutional law at the University of Chicago Law School before his presidency.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-19T16:23:32.389Z"
+      }
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fef9",
+      "correctAnswer": "Kylie Minogue",
+      "incorrectAnswers": [
+        "Madonna",
+        "Mika",
+        "Hikaru Utada"
+      ],
+      "question": {
+        "text": "Which singer released the song 'I Should Be So Lucky'?"
+      },
+      "tags": [
+        "category:music",
+        "music:kylie-minogue",
+        "music:pop"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The Australian pop star first became famous as Charlene on the soap opera Neighbours.",
+      "explanation": "Kylie Minogue's 1987 hit was written and produced by the British songwriting trio Stock Aitken Waterman, and it became her first UK number-one single.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=I_Should_Be_So_Lucky&oldid=1380132180#:~:text=is%20a%201987%20song,debut%20album%2C%20Kylie%20(1988)"
+        ],
+        "checkedAt": "2026-11-18T14:41:38.931Z"
+      }
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6239f8019129041bf3925cbd",
+      "correctAnswer": "Alpha",
+      "incorrectAnswers": [
+        "Apple",
+        "Animal",
+        "Aeroplan"
+      ],
+      "question": {
+        "text": "What word is used in the NATO Phonetic Alphabet for the letter A?"
+      },
+      "tags": [
+        "category:general-knowledge",
+        "category:society-and-culture",
+        "topic:alphabets-and-codes"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It is the first Greek letter.",
+      "explanation": "Alpha is the NATO phonetic alphabet word for A, from the Greek first letter.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-19T09:17:31.810Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "65056f6f7a97013de78b5447",
+      "correctAnswer": "Chlorine",
+      "incorrectAnswers": [
+        "Sulfur",
+        "Carbon",
+        "Cobalt"
+      ],
+      "question": {
+        "text": "What is used as a disinfectant in swimming pools?"
+      },
+      "tags": [
+        "category:science",
+        "science:chemistry",
+        "science:chemical-elements"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The same halogen is commonly added to drinking water to control microbes.",
+      "explanation": "Chlorine helps kill harmful microbes in pool water. The familiar strong pool odor often comes from chloramines formed when chlorine reacts with contaminants.",
+      "sources": {
+        "urls": [
+          "https://www.cdc.gov/healthy-swimming/safety/what-you-can-do-to-stay-healthy-in-swimming-pools.html#:~:text=Disinfection%20(with%20chlorine%20or,that%20cause%20swimming%2Drelated%20illnesses"
+        ],
+        "checkedAt": "2026-11-20T16:27:16.613Z"
+      }
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "63afff832d1dcedfbb654557",
+      "correctAnswer": "Photography",
+      "incorrectAnswers": [
+        "Painting",
+        "Sculpture",
+        "Architecture"
+      ],
+      "question": {
+        "text": "Which of the following is NOT a type of art commonly associated with the Renaissance?"
+      },
+      "tags": [
+        "category:arts-and-literature",
+        "category:history",
+        "era:renaissance",
+        "topic:art",
+        "topic:art-movements",
+        "topic:renaissance-art"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The Renaissance began centuries before cameras became tools for making images.",
+      "explanation": "Photography emerged in the 19th century, long after the Renaissance, which flourished from the 14th to 16th centuries.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-19T16:24:32.982Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "6505700e7a97013de78b5521",
+      "correctAnswer": "Periscope",
+      "incorrectAnswers": [
+        "Episcope",
+        "Stroboscope",
+        "Stethoscope"
+      ],
+      "question": {
+        "text": "What is used by submarines to observe the surface from a concealed position?"
+      },
+      "tags": [
+        "category:science",
+        "science:technology",
+        "science:scientific-instruments",
+        "topic:transport",
+        "topic:ships-and-boats"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Angled mirrors or prisms let this instrument carry a view from above the waterline down to the viewer.",
+      "explanation": "A periscope redirects light, letting someone see over an obstruction while staying concealed.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/technology/periscope#:~:text=periscope%2C%20optical%20instrument%20used,behind%20armour%2C%20or%20submerged"
+        ],
+        "checkedAt": "2026-11-20T16:28:16.320Z"
+      }
+    },
+    {
+      "category": "music",
+      "id": "65056e377a97013de78b5294",
+      "correctAnswer": "Composer",
+      "incorrectAnswers": [
+        "Scientist",
+        "Politician",
+        "Painter"
+      ],
+      "question": {
+        "text": "What was Wolfgang Amadeus Mozart's profession?"
+      },
+      "tags": [
+        "category:music",
+        "music:classical",
+        "music:composers",
+        "music:wolfgang-amadeus-mozart"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "His works include The Magic Flute and Eine kleine Nachtmusik.",
+      "explanation": "Mozart was a composer whose works include the operas The Magic Flute and Don Giovanni.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart#:~:text=Wolfgang%20Amadeus%20Mozart%20(born,history%20of%20Western%20music"
+        ],
+        "checkedAt": "2026-11-20T14:37:09.644Z"
+      }
+    },
+    {
+      "category": "history",
+      "id": "65056e4f7a97013de78b52b5",
+      "correctAnswer": "1492",
+      "incorrectAnswers": [
+        "1502",
+        "1607",
+        "1776"
+      ],
+      "question": {
+        "text": "In what year did Christopher Columbus first reach the Bahamas?"
+      },
+      "tags": [
+        "category:history",
+        "category:geography",
+        "person:christopher-columbus",
+        "person:explorers",
+        "topic:exploration",
+        "era:age-of-exploration",
+        "era:15th-century",
+        "place:caribbean",
+        "place:north-america",
+        "place:americas"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It was the year Ferdinand and Isabella captured Granada, ending Muslim rule in Iberia.",
+      "explanation": "In 1492, Columbus's first landfall in the Americas was an island in the Bahamas that he named San Salvador; it was inhabited by the Lucayan Taíno.",
+      "sources": {
+        "urls": [
+          "https://britannica.com/topic/Where-Did-Columbus-Land"
+        ],
+        "checkedAt": "2026-11-20T14:37:19.468Z"
       }
     }
   ]
