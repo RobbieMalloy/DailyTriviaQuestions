@@ -1,310 +1,380 @@
 {
-  "gameDate": "2026-11-24",
+  "gameDate": "2026-11-25",
   "difficulty": "medium",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fee6",
-      "correctAnswer": "David Bowie",
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503ff",
+      "correctAnswer": "24th December",
       "incorrectAnswers": [
-        "Elton John",
-        "Rod Stewart",
-        "Sting"
+        "25th December",
+        "26th December",
+        "31st December"
       ],
       "question": {
-        "text": "Which musician released the song 'Let's Dance'?"
+        "text": "The Nordic countries (Denmark, Sweden, Norway notably) tend to celebrate Christmas chiefly on which date?"
       },
       "tags": [
-        "category:music",
-        "music:david-bowie",
-        "music:pop",
-        "music:rock"
+        "category:history",
+        "category:society-and-culture",
+        "place:nordic-countries",
+        "place:europe",
+        "event:christmas",
+        "event:holidays-and-festivals",
+        "topic:customs-and-traditions"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Chic's Nile Rodgers co-produced the song.",
-      "explanation": "David Bowie recorded the song with producer Nile Rodgers, whose work with Chic helped bring a dance-oriented sound to Bowie's album of the same name.",
+      "hint": "The main family celebration is held on the night immediately before Christmas Day.",
+      "explanation": "The 24th of December is Christmas Eve, when families in Denmark, Sweden and Norway traditionally gather for their main Christmas meal and gift-giving.",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Let%27s_Dance_%28David_Bowie_song%29&oldid=1385374808#:~:text=%22Let's%20Dance%22%20is%20a,English%20singer%2Dsongwriter%20David%20Bowie"
+          "https://www.nordiskamuseet.se/en/traditions-celebrations/christmas#:~:text=Christmas%20Eve%20on%2024,the%20Nordic%20Christmas%20tradition"
         ],
-        "checkedAt": "2026-11-18T14:41:35.546Z"
+        "checkedAt": "2026-11-18T16:58:26.336Z"
+      }
+    },
+    {
+      "category": "history",
+      "id": "648889155dba6c873ef650c8",
+      "correctAnswer": "Cuba",
+      "incorrectAnswers": [
+        "Russia",
+        "China",
+        "North Korea"
+      ],
+      "question": {
+        "text": "Which country was declared a socialist nation by its prime minister on May Day, 1961?"
+      },
+      "tags": [
+        "category:history",
+        "category:society-and-culture",
+        "era:1960s",
+        "era:20th-century",
+        "event:revolutions",
+        "place:cuba",
+        "place:north-america",
+        "place:americas",
+        "place:latin-america",
+        "place:caribbean",
+        "topic:politics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Fidel Castro led the revolution in this Caribbean island nation, located just south of Florida.",
+      "explanation": "At a May Day rally in Havana, Fidel Castro proclaimed Cuba a socialist state, formalizing the revolution's political direction.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-19T22:21:20.257Z"
       }
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950bdd",
-      "correctAnswer": "Scorpions",
+      "id": "622a1c357cc59eab6f94ff31",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
-        "Rammstein",
-        "Sodom",
-        "U.D.O."
+        "Prince",
+        "Stevie Wonder",
+        "Lionel Richie"
       ],
       "question": {
-        "text": "Which German rock band released the song 'Rock You Like a Hurricane'?"
+        "text": "'You Are Not Alone' is a song by which musician?"
       },
       "tags": [
         "category:music",
-        "music:heavy-metal",
+        "music:michael-jackson",
+        "music:pop"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This ballad made history as the first single to debut at the top of the Billboard Hot 100.",
+      "explanation": "Michael Jackson's single became the first song to debut at No. 1 on the Billboard Hot 100.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=You_Are_Not_Alone&oldid=1383193950#:~:text=%22You%20Are%20Not%20Alone%22,Future%2C%20Book%20I%20(1995)"
+        ],
+        "checkedAt": "2026-11-18T14:41:44.712Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "6461407d4d46e537ca8cd9d2",
+      "correctAnswer": "Camera obscura",
+      "incorrectAnswers": [
+        "Box camera",
+        "Bridge camera",
+        "Periscope"
+      ],
+      "question": {
+        "text": "What simple type of \"camera\" uses a hole in a screen to create a simply-viewed image of the sun?"
+      },
+      "tags": [
+        "category:science",
+        "science:light-and-sound",
+        "science:technology",
+        "topic:photography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The projected image appears upside down because light passes through a tiny aperture.",
+      "explanation": "A camera obscura forms an inverted image because light rays cross as they pass through the opening.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-19T18:25:44.692Z"
+      }
+    },
+    {
+      "category": "music",
+      "id": "64824e267778562fd76a95fe",
+      "correctAnswer": "Kelly Clarkson",
+      "incorrectAnswers": [
+        "Carrie Underwood",
+        "Jennifer Hudson",
+        "Adam Lambert"
+      ],
+      "question": {
+        "text": "Who won the first season of American Idol?"
+      },
+      "tags": [
+        "category:music",
+        "category:film-and-tv",
+        "topic:television",
+        "topic:reality-tv",
         "music:musicians"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "The same band is known for power ballads such as “Wind of Change” and “Still Loving You.”",
-      "explanation": "Scorpions released the song on their 1984 album Love at First Sting, and it became one of the band’s signature hard-rock anthems.",
+      "hint": "The inaugural champion later scored a major hit with “Since U Been Gone.”",
+      "explanation": "Kelly Clarkson went on to win Grammy Awards and score hits including “Since U Been Gone.”",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Love_at_First_Sting&oldid=1383006673"
+          "https://www.britannica.com/biography/Kelly-Clarkson#:~:text=Kelly%20Clarkson%20rose%20to,American%20Idol%20in%202002"
         ],
-        "checkedAt": "2026-11-18T18:09:15.828Z"
+        "checkedAt": "2026-11-19T22:20:29.581Z"
       }
     },
     {
-      "category": "music",
-      "id": "64879d54a754bb6010f8b03f",
-      "correctAnswer": "A Motif",
+      "category": "geography",
+      "id": "6260308f4b176d54800e3d2d",
+      "correctAnswer": "Ukraine",
       "incorrectAnswers": [
-        "A Chorus",
-        "A Verse",
-        "A Melody"
+        "Kyrgyzstan",
+        "Tajikistan",
+        "Belarus"
       ],
       "question": {
-        "text": "What is a recurring theme in a musical or literary work called?"
+        "text": "In which country is the city of Kharkiv?"
       },
       "tags": [
-        "category:music",
-        "category:arts-and-literature",
-        "music:theory",
-        "topic:literature"
+        "category:geography",
+        "place:cities",
+        "place:ukraine",
+        "place:europe",
+        "place:eastern-europe"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "It can be a repeated image, object, or phrase that gains significance as a work unfolds.",
-      "explanation": "A motif can be a recurring pattern of notes, images, or ideas. A chorus and verse are song sections, while a melody is a sequence of notes.",
+      "hint": "This country lies between Poland and Russia and has Odesa on the Black Sea.",
+      "explanation": "Kharkiv is Ukraine's second-largest city and a major cultural and educational center in the country's northeast.",
       "sources": {
         "urls": [
-          "https://www.oxfordlearnersdictionaries.com/definition/english/motif#:~:text=a%20subject%2C%20an%20idea,a%20piece%20of%20music"
+          "https://www.britannica.com/place/Kharkiv-Ukraine#:~:text=Kharkiv%2C%20city%2C%20northeastern%20Ukraine"
         ],
-        "checkedAt": "2026-11-19T22:20:59.348Z"
+        "checkedAt": "2026-11-19T13:14:28.089Z"
+      }
+    },
+    {
+      "category": "film_and_tv",
+      "id": "649f220febb41911d4cbd6ba",
+      "correctAnswer": "Cannes",
+      "incorrectAnswers": [
+        "Venice",
+        "Nice",
+        "Geneva"
+      ],
+      "question": {
+        "text": "At which city's film festival is the Palme d'Or awarded?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "category:geography",
+        "category:general-knowledge",
+        "place:cities",
+        "place:france",
+        "place:europe",
+        "place:western-europe",
+        "event:film-and-tv-awards",
+        "topic:awards-and-honours"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The festival takes place on Boulevard de la Croisette, on France’s Côte d’Azur.",
+      "explanation": "Cannes awards the Palme d'Or as its festival’s top prize; the trophy’s palm-leaf design is inspired by the palm tree on the city’s coat of arms.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Palme_d%27Or&oldid=1386186381#:~:text=The%20Palme%20d'Or%20(French,the%20Cannes%20Film%20Festival"
+        ],
+        "checkedAt": "2026-11-20T10:30:12.053Z"
       }
     },
     {
       "category": "society_and_culture",
-      "id": "6262af5a4b176d54800e3dc0",
-      "correctAnswer": "For The Win",
+      "id": "639c9d95929b90846f2fc95c",
+      "correctAnswer": "Mecca",
       "incorrectAnswers": [
-        "Free The Whales",
-        "Found This Website",
-        "Food To Wine"
+        "Jerusalem",
+        "Baghdad",
+        "Istanbul"
       ],
       "question": {
-        "text": "What do people mean when type the letters 'FTW' in a message on the internet?"
+        "text": "Which is the holiest city in Islam?"
       },
       "tags": [
         "category:society-and-culture",
-        "category:general-knowledge",
-        "topic:abbreviations-and-acronyms",
-        "topic:internet-culture",
-        "topic:slang",
-        "topic:language"
+        "category:geography",
+        "topic:islam",
+        "topic:religion",
+        "place:cities",
+        "place:saudi-arabia",
+        "place:asia",
+        "place:middle-east",
+        "place:gulf-states"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "It often follows a favorite choice or idea as an enthusiastic endorsement.",
-      "explanation": "For The Win is a celebratory expression used to endorse something or call it excellent, echoing a sports-style shout of victory.",
+      "hint": "The Kaaba, toward which Muslims pray, is located in this Saudi Arabian city.",
+      "explanation": "Mecca is home to the Kaaba, toward which Muslims face during prayer, and the annual Hajj pilgrimage is centered there.",
       "sources": {
         "urls": [
-          "https://dictionary.com/browse/ftw#:~:text=FTW%20is%20an%20abbreviation,phrase%20for%20the%20win"
+          "https://www.britannica.com/place/Mecca#:~:text=As%20the%20holiest%20of,a%20day%20to%20pray"
         ],
-        "checkedAt": "2026-11-19T14:24:21.545Z"
+        "checkedAt": "2026-11-19T16:23:34.474Z"
       }
     },
     {
-      "category": "film_and_tv",
-      "id": "64dd35bb9cef2bd3a34a8d5a",
-      "correctAnswer": "Killer Croc",
+      "category": "arts_and_literature",
+      "id": "6ae82949bb6335621cbf775d",
+      "correctAnswer": "Emma",
       "incorrectAnswers": [
-        "Bad Baboon",
-        "Lethal Lemur",
-        "Raging Rhino"
+        "Pride and Prejudice",
+        "Mansfield Park",
+        "Northanger Abbey"
       ],
       "question": {
-        "text": "Which DC Comics supervillain is a menace to Batman?"
+        "text": "Which Jane Austen novel follows a young woman who plays matchmaker for her friends?"
       },
       "tags": [
-        "category:film-and-tv",
         "category:arts-and-literature",
-        "category:society-and-culture",
-        "topic:comics-and-graphic-novels",
-        "topic:fictional-characters",
-        "topic:superheroes",
-        "work:batman",
-        "work:dc-comics"
+        "person:jane-austen",
+        "topic:literature",
+        "topic:classic-literature",
+        "topic:british-literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "His scaly skin and powerful jaws give him a distinctly reptilian appearance.",
-      "explanation": "Killer Croc was born Waylon Jones and developed a reptilian appearance that made him an imposing Batman foe.",
+      "hint": "The heroine is a wealthy young woman from Highbury whose matchmaking schemes often misfire.",
+      "explanation": "Emma Woodhouse tries to arrange romantic matches for Harriet Smith, though her confidence often leads her to misread people's feelings.",
       "sources": {
         "urls": [
-          "https://www.dc.com/characters/killer-croc#:~:text=Nevertheless%2C%20Croc%E2%80%99s%20brute%20strength,havoc%20on%20Gotham%20City"
+          "https://www.britannica.com/topic/Emma-novel-by-Austen#:~:text=Jane%20Austen%E2%80%99s%20novel%20Emma,is%20an%20excellent%20matchmaker"
         ],
-        "checkedAt": "2026-11-20T14:35:25.665Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95064f",
-      "correctAnswer": "Halle Berry",
-      "incorrectAnswers": [
-        "Frances Fisher",
-        "Salma Hayek",
-        "Rachel Weisz"
-      ],
-      "question": {
-        "text": "Which actress has played roles in both X-Men: Days of Future Past and Die Another Day?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "person:actors",
-        "topic:film",
-        "topic:superheroes",
-        "topic:spy-fiction",
-        "work:marvel",
-        "work:x-men",
-        "work:james-bond"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "She also played the title character in the superhero film Catwoman.",
-      "explanation": "Halle Berry also played NSA agent Jinx in Die Another Day, a James Bond film.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/biography/Halle-Berry#:~:text=Berry%20was%20cast%20in,James%20Bond%20spy%20series"
-        ],
-        "checkedAt": "2026-11-18T16:59:59.946Z"
+        "checkedAt": "2026-11-24T21:48:40.627Z"
       }
     },
     {
       "category": "science",
-      "id": "622a1c3f7cc59eab6f95239c",
-      "correctAnswer": "Prism",
+      "id": "622a1c3c7cc59eab6f951935",
+      "correctAnswer": "Radiocarbon dating",
       "incorrectAnswers": [
-        "Lens",
-        "Polarizer",
-        "Funnel"
+        "Dendrochronology",
+        "Magnetic dating",
+        "Thermoluminescence"
       ],
       "question": {
-        "text": "What is the name for a piece of glass that separates light into the visible spectrum?"
+        "text": "What process is used to date ancient organic objects?"
       },
       "tags": [
         "category:science",
-        "science:light-and-sound",
+        "category:history",
+        "science:archaeology",
+        "science:atoms-and-particles",
         "science:physics"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Newton famously used one to show that white light contains a range of colors.",
-      "explanation": "A prism bends different wavelengths of light by different amounts, separating white light into its component colors.",
+      "hint": "It measures how much of a naturally occurring radioactive isotope remains in once-living material.",
+      "explanation": "Radiocarbon dating estimates age from the decay of carbon-14, whose amount begins to decline after an organism dies.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/science/prism-optics#:~:text=An%20ordinary%20triangular%20prism,colours%2C%20called%20a%20spectrum"
+          "https://britannica.com/science/How-Does-Carbon-Dating-Work#:~:text=Carbon%20dating%2C%20also%20known,(here%20meaning%20%E2%80%9Corganism%2Dderived%E2%80%9D)%20remains",
+          "https://news.uchicago.edu/explainer/what-is-carbon-14-dating#:~:text=Radiocarbon%20dating%2C%20or%20carbon%2D14,as%20approximately%2060%2C000%20years"
         ],
-        "checkedAt": "2026-11-19T08:11:01.179Z"
+        "checkedAt": "2026-11-19T00:32:47.693Z"
       }
     },
     {
-      "category": "science",
-      "id": "6461407e4d46e537ca8cd9e3",
-      "correctAnswer": "Poison ivy",
+      "category": "general_knowledge",
+      "id": "622a1c367cc59eab6f9502be",
+      "correctAnswer": "Butter",
       "incorrectAnswers": [
-        "Stinging nettle",
-        "Giant hogweed",
-        "Jimsonweed"
+        "Yogurt",
+        "Coconut",
+        "Olive oil"
       ],
       "question": {
-        "text": "What plant's oil, called urushiol, causes skin irritation when it comes into contact with human skin?"
+        "text": "What is ghee, a staple of Indian cooking, made from?"
       },
       "tags": [
-        "category:science",
-        "science:botany",
-        "science:biology"
+        "category:general-knowledge",
+        "category:food-and-drink",
+        "food:indian-cuisine"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "A well-known plant is summed up by the saying 'leaves of three, let it be'.",
-      "explanation": "Urushiol, the oily resin of poison ivy, triggers an allergic rash on contact with skin.",
+      "hint": "It is made by slowly heating a dairy spread until its water and milk solids separate.",
+      "explanation": "Ghee is clarified butter; removing water and milk solids gives it a higher smoke point than ordinary butter.",
       "sources": {
-        "urls": [
-          "https://www.britannica.com/science/urushiol"
-        ],
-        "checkedAt": "2026-11-19T18:25:47.175Z"
-      }
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b10",
-      "correctAnswer": "The Cranberries",
-      "incorrectAnswers": [
-        "The Corrs",
-        "Boyzone",
-        "Thin Lizzy"
-      ],
-      "question": {
-        "text": "Which Irish rock band released the single 'Zombie'?"
-      },
-      "tags": [
-        "category:music",
-        "music:musicians",
-        "music:rock",
-        "music:indie-and-alternative"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Dolores O'Riordan was the band's distinctive lead singer.",
-      "explanation": "The Cranberries’ song was written in response to the 1993 Warrington bombings in England.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=The_Cranberries&oldid=1384726540"
-        ],
-        "checkedAt": "2026-11-18T18:08:42.471Z"
+        "urls": [],
+        "checkedAt": "2026-11-18T15:45:17.664Z"
       }
     },
     {
       "category": "geography",
-      "id": "63f394fe989356ef48370bd8",
-      "correctAnswer": "Mount Fuji",
+      "id": "65056e6f7a97013de78b52e2",
+      "correctAnswer": "China",
       "incorrectAnswers": [
-        "Mount Yari",
-        "Mount Ontake",
-        "Mount Hakusan"
+        "Japan",
+        "Vietnam",
+        "Taiwan"
       ],
       "question": {
-        "text": "What is the name of the highest mountain in Japan?"
+        "text": "Hong Kong is located on the southern coast of which country?"
       },
       "tags": [
         "category:geography",
-        "topic:geographical-records",
-        "place:mountains",
-        "place:japan",
+        "place:china",
         "place:asia",
         "place:east-asia"
       ],
@@ -312,194 +382,259 @@
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Its nearly symmetrical volcanic cone is an iconic landmark visible from Tokyo on clear days.",
-      "explanation": "Mount Fuji is an active volcano whose most recent recorded eruption was in 1707.",
+      "hint": "Shenzhen lies immediately north of Hong Kong, across the boundary.",
+      "explanation": "China resumed sovereignty over Hong Kong in 1997, and Hong Kong became a special administrative region.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/place/Mount-Fuji#:~:text=Rising%20to%2012%2C388%20feet,its%20graceful%20conical%20form"
+          "https://www.britannica.com/place/Hong-Kong#:~:text=Hong%20Kong%2C%20special%20administrative,south%20coast%20of%20China"
         ],
-        "checkedAt": "2026-11-19T18:22:54.839Z"
-      }
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950efe",
-      "correctAnswer": "Victor Hugo",
-      "incorrectAnswers": [
-        "Alphonse Daudet",
-        "Jules Verne",
-        "Miguel de Cervantes"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Hunchback of Notre Dame'?"
-      },
-      "tags": [
-        "category:arts-and-literature",
-        "topic:literature",
-        "person:authors",
-        "topic:french-literature",
-        "topic:classic-literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The same French novelist also wrote Les Misérables.",
-      "explanation": "Victor Hugo's novel was originally published in French as Notre-Dame de Paris; its English title highlights the bell-ringer Quasimodo.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/biography/Victor-Hugo"
-        ],
-        "checkedAt": "2026-11-18T22:27:12.825Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f9522d7",
-      "correctAnswer": "Wood fibers",
-      "incorrectAnswers": [
-        "Mud",
-        "Wax",
-        "Silk"
-      ],
-      "question": {
-        "text": "Which material do paper wasps chew to build their nests?"
-      },
-      "tags": [
-        "category:science",
-        "animal:animals",
-        "animal:insects",
-        "animal:animal-behaviour",
-        "science:biology"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Their nests have a papery texture, made from pulp scraped from weathered outdoor surfaces.",
-      "explanation": "Paper wasps mix wood fibers with saliva to make a lightweight pulp that dries into the nest’s walls.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/animal/paper-wasp#:~:text=The%20nest%20is%20made,to%20form%20a%20paste"
-        ],
-        "checkedAt": "2026-11-19T08:10:47.652Z"
-      }
-    },
-    {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f951725",
-      "correctAnswer": "Lee Harvey Oswald",
-      "incorrectAnswers": [
-        "John Wilkes Booth",
-        "Gerald Ford",
-        "Mark David Chapman"
-      ],
-      "question": {
-        "text": "Who assassinated president Kennedy?"
-      },
-      "tags": [
-        "category:history",
-        "category:society-and-culture",
-        "person:john-f-kennedy",
-        "event:assassinations",
-        "topic:american-history",
-        "topic:law-and-crime",
-        "topic:politics",
-        "topic:us-politics",
-        "era:20th-century",
-        "era:1960s"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The former Marine was arrested in Dallas shortly after the shooting.",
-      "explanation": "Lee Harvey Oswald was arrested in Dallas, but Jack Ruby shot him two days later while he was being transferred, so he never stood trial.",
-      "sources": {
-        "urls": [
-          "https://archives.gov/research/jfk/warren-commission-report/chapter-7.html#:~:text=THE%20EVIDENCE%20reviewed%20above,alone%20in%20that%20event"
-        ],
-        "checkedAt": "2026-11-19T00:31:48.495Z"
+        "checkedAt": "2026-11-20T14:37:27.317Z"
       }
     },
     {
       "category": "geography",
-      "id": "65056e9c7a97013de78b5320",
-      "correctAnswer": "India",
+      "id": "65056f5f7a97013de78b5430",
+      "correctAnswer": "Asia",
       "incorrectAnswers": [
-        "Russia",
-        "USA",
-        "Indonesia"
+        "Africa",
+        "South America",
+        "Europe"
       ],
       "question": {
-        "text": "Which of these countries is the most populous?"
+        "text": "On what continent can we find Myanmar?"
       },
       "tags": [
         "category:geography",
-        "place:india",
         "place:asia",
-        "place:south-asia",
-        "topic:geographical-records"
+        "place:southeast-asia"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Its population surpassed China's in 2023, making it the world's most populous country.",
-      "explanation": "India became the world's most populous country in 2023, ahead of China; the United States and Indonesia also have smaller populations.",
+      "hint": "Myanmar lies between India and Thailand, in the region that also includes Vietnam and Cambodia.",
+      "explanation": "Myanmar is part of Southeast Asia and was formerly known internationally as Burma.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/place/India#:~:text=India%20became%20the%20world%E2%80%99s,by%20the%20United%20Nations"
+          "https://www.britannica.com/place/Myanmar#:~:text=Myanmar%20is%20the%20northernmost%20country%20of%20Southeast%20Asia"
         ],
-        "checkedAt": "2026-11-20T14:37:43.138Z"
+        "checkedAt": "2026-11-20T16:27:09.472Z"
       }
     },
     {
-      "category": "food_and_drink",
-      "id": "64e6fda00b79e5bedd55c8ca",
-      "correctAnswer": "Quinoa",
+      "category": "geography",
+      "id": "626030734b176d54800e3d25",
+      "correctAnswer": "El Salvador",
       "incorrectAnswers": [
-        "Amaranth",
-        "Barley",
-        "Buckwheat"
+        "Colombia",
+        "Chile",
+        "Honduras"
       ],
       "question": {
-        "text": "Which high-protein grain, related to spinach, was known as the \"gold of the Incas\"?"
+        "text": "In which country is the city of San Salvador?"
       },
       "tags": [
-        "category:food-and-drink",
-        "category:science",
-        "category:history",
-        "food:nuts-seeds-and-grains",
-        "food:world-cuisine",
-        "science:nutrition",
-        "era:pre-columbian-americas",
-        "place:andes"
+        "category:geography",
+        "place:cities",
+        "place:north-america",
+        "place:americas",
+        "place:central-america",
+        "place:latin-america"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Its cultivation was centered in the Andes, where it was a staple crop long before Europeans arrived.",
-      "explanation": "Quinoa is technically a pseudocereal: it is a seed used like a grain, rather than a true cereal grain.",
+      "hint": "It is the smallest country in Central America and has a Pacific coastline.",
+      "explanation": "San Salvador is the capital and largest city of El Salvador.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/plant/quinoa"
+          "https://www.britannica.com/place/San-Salvador#:~:text=San%20Salvador%2C%20capital%20of%20El%20Salvador"
         ],
-        "checkedAt": "2026-11-20T14:36:15.903Z"
+        "checkedAt": "2026-11-19T13:14:27.087Z"
+      }
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62ab32bd5202de619af28123",
+      "correctAnswer": "Ford",
+      "incorrectAnswers": [
+        "BMW",
+        "AC",
+        "Honda"
+      ],
+      "question": {
+        "text": "Which car manufacturer makes the Model T?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "category:general-knowledge",
+        "topic:cars-and-motoring",
+        "topic:business",
+        "org:car-manufacturers",
+        "org:companies"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its founder helped popularize assembly-line car production, making automobiles more affordable to ordinary families.",
+      "explanation": "Ford introduced the Model T in 1908. The company later used moving assembly lines to produce cars at a scale that helped lower costs.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/technology/Model-T#:~:text=Model%20T%2C%20automobile%20built,from%201908%20until%201927"
+        ],
+        "checkedAt": "2026-11-19T14:25:28.023Z"
+      }
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9501f9",
+      "correctAnswer": "Peter Jackson",
+      "incorrectAnswers": [
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
+      ],
+      "question": {
+        "text": "Which director directed The Lord of the Rings: The Fellowship of the Ring?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "work:middle-earth",
+        "topic:fantasy",
+        "era:2000s",
+        "era:21st-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The New Zealand filmmaker also directed the later Hobbit films.",
+      "explanation": "Peter Jackson is a New Zealand filmmaker who later directed the three-film adaptation of The Hobbit.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring&oldid=1385779646#:~:text=The%20Lord%20of%20the,Philippa%20Boyens%2C%20and%20Jackson"
+        ],
+        "checkedAt": "2026-11-18T15:44:31.695Z"
+      }
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fa5a",
+      "correctAnswer": "Mahershala Ali",
+      "incorrectAnswers": [
+        "Adam Driver",
+        "Sam Elliott",
+        "Richard E. Grant"
+      ],
+      "question": {
+        "text": "Who won the 2018 Academy Award for Best Supporting Actor for playing the role of Dr. Donald Shirley in Green Book?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "event:academy-awards",
+        "topic:awards-and-honours",
+        "person:actors",
+        "era:2010s",
+        "era:21st-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The same actor won an Oscar for playing Juan, who mentors young Chiron in Moonlight.",
+      "explanation": "Mahershala Ali's win for Green Book was his second Academy Award for Best Supporting Actor; his first was for Moonlight.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/biography/Mahershala-Ali#:~:text=Mahershala%20Ali%20won%20an,in%20Green%20Book%20(2018)",
+          "https://www.theguardian.com/film/2019/feb/25/mahershala-ali-wins-best-supporting-actor-oscar-green-book#:~:text=Mahershala%20Ali%20has%20won,the%2091st%20Academy%20Awards"
+        ],
+        "checkedAt": "2026-11-18T09:21:38.704Z"
+      }
+    },
+    {
+      "category": "geography",
+      "id": "65056e4e7a97013de78b52b3",
+      "correctAnswer": "USA",
+      "incorrectAnswers": [
+        "UK",
+        "Australia",
+        "Spain"
+      ],
+      "question": {
+        "text": "Which country is NOT a constitutional monarchy?"
+      },
+      "tags": [
+        "category:geography",
+        "category:society-and-culture",
+        "place:united-states",
+        "place:north-america",
+        "place:americas",
+        "topic:politics",
+        "topic:political-ideologies",
+        "topic:us-politics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its head of state is chosen through elections rather than inherited succession.",
+      "explanation": "The United States is a federal republic with an elected president, while the UK, Australia, and Spain recognize a monarch as head of state.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-20T14:37:18.769Z"
+      }
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056e9f7a97013de78b5325",
+      "correctAnswer": "Spanish",
+      "incorrectAnswers": [
+        "German",
+        "French",
+        "Italian"
+      ],
+      "question": {
+        "text": "Which of the following is NOT an official language of Switzerland?"
+      },
+      "tags": [
+        "category:geography",
+        "category:society-and-culture",
+        "place:switzerland",
+        "place:europe",
+        "place:alps",
+        "place:central-europe",
+        "place:western-europe",
+        "topic:language",
+        "topic:languages-of-the-world"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Switzerland's official languages reflect its neighbors to the north, west, and south, plus the local language Romansh.",
+      "explanation": "Switzerland recognizes German, French, Italian, and Romansh as national languages. Spanish is not among them.",
+      "sources": {
+        "urls": [
+          "https://www.aboutswitzerland.eda.admin.ch/en/language#:~:text=Switzerland%20has%20four%20official,French%2C%20Italian%20and%20Romansh"
+        ],
+        "checkedAt": "2026-11-20T14:37:44.547Z"
       }
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501b6",
-      "correctAnswer": "Oliver Twist",
+      "id": "622a1c367cc59eab6f9501ae",
+      "correctAnswer": "Animal Farm",
       "incorrectAnswers": [
-        "Germinal",
-        "Eine Geschichte des Universums in 100 Sternen",
-        "Madame Bovary"
+        "A Clockwork Orange",
+        "L'Ingénu",
+        "Nineteen Eighty-Four"
       ],
       "question": {
-        "text": "Which piece of written work starts with the line 'Among other public buildings in a certain town, which for many reasons it will be prudent to refrain from mentioning, and to which I will assign no fictitious name, there is one anciently common to most towns, great or small: to wit, a workhouse; and in this workhouse was born; on a day and date which I need not trouble myself to repeat, inasmuch as it can be of no possible consequence to the'?"
+        "text": "Which piece of written work starts with the line 'Mr. Jones, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.'?"
       },
       "tags": [
         "category:arts-and-literature",
@@ -507,461 +642,340 @@
         "topic:literature",
         "topic:classic-literature",
         "topic:british-literature",
-        "person:charles-dickens"
+        "person:george-orwell"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Charles Dickens wrote this Victorian novel about a boy born in a workhouse.",
-      "explanation": "Oliver Twist is one of Dickens's best-known novels; its orphan protagonist's request for more food became one of the story's most famous scenes.",
+      "hint": "George Orwell's political satire opens with a drunken landowner, before a revolution overturns the established order.",
+      "explanation": "Animal Farm is an allegory of the Russian Revolution and the rise of Stalinism, with the animals' rebellion reflecting political upheaval.",
       "sources": {
         "urls": [],
-        "checkedAt": "2026-11-18T15:44:15.959Z"
-      }
-    },
-    {
-      "category": "history",
-      "id": "6acf0e243f96cf426d52e9f7",
-      "correctAnswer": "Vostok 1",
-      "incorrectAnswers": [
-        "Sputnik 2",
-        "Voskhod 1",
-        "Soyuz 1"
-      ],
-      "question": {
-        "text": "Which spacecraft carried Yuri Gagarin on the first crewed spaceflight in 1961?"
-      },
-      "tags": [
-        "category:history",
-        "category:science",
-        "category:general-knowledge",
-        "era:1960s",
-        "era:20th-century",
-        "science:space-exploration",
-        "topic:famous-firsts"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The single-person capsule completed one orbit of Earth during the historic flight.",
-      "explanation": "Vostok 1 completed one orbit of Earth, making Gagarin the first human to travel into space.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-01T00:00:00.000Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95067c",
-      "correctAnswer": "Jodie Foster",
-      "incorrectAnswers": [
-        "Frances Fisher",
-        "Rachel Weisz",
-        "Salma Hayek"
-      ],
-      "question": {
-        "text": "Which actress has starred in both The Silence of the Lambs and Taxi Driver?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "topic:film",
-        "person:actors"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "She won Academy Awards for The Accused and The Silence of the Lambs.",
-      "explanation": "Jodie Foster won the Academy Award for Best Actress for playing Clarice Starling in The Silence of the Lambs.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-18T17:00:03.762Z"
-      }
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9517c7",
-      "correctAnswer": "Captain Vancouver",
-      "incorrectAnswers": [
-        "Captain Alaska",
-        "Captain Washington",
-        "Captain Canada"
-      ],
-      "question": {
-        "text": "Which explorer is best known for exploring and surveying North America's northwest Pacific coast regions?"
-      },
-      "tags": [
-        "category:history",
-        "category:geography",
-        "era:18th-century",
-        "era:age-of-exploration",
-        "person:explorers",
-        "topic:exploration",
-        "place:north-america",
-        "place:pacific-northwest"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The large island off British Columbia’s coast was named in his honor.",
-      "explanation": "Captain Vancouver commanded the expedition aboard HMS Discovery that charted much of the coast. Vancouver Island and the city of Vancouver later took his name.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-19T00:32:07.742Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f7b9da29df7b05f739f",
-      "correctAnswer": "Two magicians in 1890s London engage in a battle to create the ultimate illusion.",
-      "incorrectAnswers": [
-        "An insurance representative lets a housewife seduce him into a scheme of insurance fraud and murder.",
-        "A stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.",
-        "The life of a boxer whose temper led him to the top in the ring, but destroyed his life outside of it."
-      ],
-      "question": {
-        "text": "What is the plot of the movie The Prestige?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "topic:film",
-        "topic:film-plots"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Hugh Jackman and Christian Bale face off in this Christopher Nolan period drama.",
-      "explanation": "The Prestige follows two rival stage conjurers in Victorian London whose competition escalates as each tries to outdo the other with an apparently impossible act.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-19T13:12:34.542Z"
-      }
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950279",
-      "correctAnswer": "England",
-      "incorrectAnswers": [
-        "Netherlands",
-        "Belgium",
-        "France"
-      ],
-      "question": {
-        "text": "Which country is Stilton cheese from?"
-      },
-      "tags": [
-        "category:food-and-drink",
-        "category:geography",
-        "food:cheese",
-        "food:british-cuisine",
-        "food:world-cuisine",
-        "place:england",
-        "place:united-kingdom",
-        "place:europe",
-        "place:british-isles"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its namesake village is in Cambridgeshire, near Peterborough.",
-      "explanation": "England’s Stilton is named after a Cambridgeshire village, but traditional Stilton cheese is produced in Derbyshire, Leicestershire, and Nottinghamshire.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Stilton&oldid=1381003621#:~:text=Stilton%20is%20an%20English,white%2C%20which%20does%20not"
-        ],
-        "checkedAt": "2026-11-18T15:45:03.514Z"
-      }
-    },
-    {
-      "category": "history",
-      "id": "6af5858304b1c90efe25b0f2",
-      "correctAnswer": "Caravanserais",
-      "incorrectAnswers": [
-        "Bazaars",
-        "Madrasas",
-        "Stupas"
-      ],
-      "question": {
-        "text": "What were the fortified roadside inns that sheltered Silk Road merchants and their camels called?"
-      },
-      "tags": [
-        "category:history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "They often had a central courtyard surrounded by rooms and stables.",
-      "explanation": "Caravanserais commonly placed rooms and stables around an enclosed courtyard, giving travelers and their animals a secure place to rest.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-22T09:03:40.858Z"
-      }
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500a6",
-      "correctAnswer": "110-meter hurdles",
-      "incorrectAnswers": [
-        "High jump",
-        "Long jump",
-        "Pole vault"
-      ],
-      "question": {
-        "text": "In which athletics event did Colin Jackson set a world record in 1993?"
-      },
-      "tags": [
-        "category:sport-and-leisure",
-        "sport:athletics",
-        "sport:sports",
-        "sport:sports-trophies-and-records",
-        "person:sportspeople",
-        "era:1990s",
-        "era:20th-century"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The race involves sprinting over ten evenly spaced barriers.",
-      "explanation": "Jackson ran 12.91 seconds at the 1993 World Championships in Stuttgart, and the mark remained the world record for 13 years.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Colin_Jackson&oldid=1383030890"
-        ],
-        "checkedAt": "2026-11-18T14:43:04.465Z"
-      }
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6398984d5c9a75021f310476",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "White",
-        "Rosé",
-        "Sparkling"
-      ],
-      "question": {
-        "text": "What type of wine is Beaujolais Nouveau?"
-      },
-      "tags": [
-        "category:food-and-drink",
-        "food:drinks",
-        "food:alcoholic-drinks",
-        "food:wine",
-        "place:france",
-        "place:europe",
-        "place:western-europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its Gamay grapes have dark skins that tint the wine during fermentation.",
-      "explanation": "Red Beaujolais Nouveau is made mainly from Gamay grapes and is released soon after harvest, so it is meant to be enjoyed young.",
-      "sources": {
-        "urls": [
-          "https://wsetglobal.com/news-insights/insight-opinion/what-is-beaujolais-nouveau"
-        ],
-        "checkedAt": "2026-11-19T16:23:13.228Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "695d82ba48f0bd6da4208112",
-      "correctAnswer": "The facial skeleton",
-      "incorrectAnswers": [
-        "The cranial vault",
-        "The middle ear",
-        "The hyoid region"
-      ],
-      "question": {
-        "text": "Which region of the human skull includes the zygomatic bones and the vomer?"
-      },
-      "tags": [
-        "category:science",
-        "science:biology",
-        "science:human-body",
-        "science:skeleton-and-muscles"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It forms the face.",
-      "explanation": "The zygomatic and vomer are facial bones, part of the facial skeleton.",
-      "sources": {
-        "urls": [
-          "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull"
-        ],
-        "checkedAt": "2026-11-21T15:06:15.579Z"
+        "checkedAt": "2026-11-18T15:44:12.609Z"
       }
     },
     {
       "category": "arts_and_literature",
-      "id": "64b6436f7282fc9eadbafdae",
-      "correctAnswer": "Holes",
+      "id": "65056ecb7a97013de78b5362",
+      "correctAnswer": "Rudyard Kipling",
       "incorrectAnswers": [
-        "The Giver",
-        "To Kill a Mockingbird",
-        "The Hunger Games"
+        "Shel Silverstein",
+        "Dr. Seuss",
+        "Wilson Rawls"
       ],
       "question": {
-        "text": "Which novel by Louis Sachar begins with the line 'There is no lake at Camp Green Lake'?"
+        "text": "Who wrote the Jungle Book?"
       },
       "tags": [
         "category:arts-and-literature",
         "topic:literature",
-        "topic:modern-fiction",
-        "topic:childrens-books"
+        "topic:childrens-books",
+        "topic:classic-literature",
+        "topic:british-literature",
+        "person:authors"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "The title refers to what the boys dig.",
-      "explanation": "Holes by Louis Sachar opens with the line 'There is no lake at Camp Green Lake', and won the 1999 Newbery Medal.",
+      "hint": "The British author also wrote the poem “If—.”",
+      "explanation": "Rudyard Kipling’s 1894 collection includes the stories of Mowgli, a boy raised by wolves in the Indian jungle.",
       "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-20T14:35:10.200Z"
+        "urls": [
+          "https://www.britannica.com/topic/The-Jungle-Book#:~:text=The%20Jungle%20Book%2C%20collection,Kipling%2C%20published%20in%201894"
+        ],
+        "checkedAt": "2026-11-20T16:26:10.457Z"
+      }
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8b6",
+      "correctAnswer": "Marlon Brando",
+      "incorrectAnswers": [
+        "Robert Shaw",
+        "Dustin Hoffman",
+        "Samuel L. Jackson"
+      ],
+      "question": {
+        "text": "Which actor played the role of Vito Corleone in The Godfather?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "person:actors",
+        "work:the-godfather"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He also played Stanley Kowalski in A Streetcar Named Desire.",
+      "explanation": "Marlon Brando won the Academy Award for Best Actor for The Godfather but declined the award.",
+      "sources": {
+        "urls": [
+          "https://www.biography.com/actors/marlon-brando#:~:text=Brando's%20career%20was%20reborn,in%20Francis%20Ford%20Coppola's"
+        ],
+        "checkedAt": "2026-11-18T08:00:56.069Z"
       }
     },
     {
       "category": "society_and_culture",
-      "id": "63b0587f4799123c67712f44",
-      "correctAnswer": "Cinco de Mayo",
+      "id": "649dee4e615f8db40f5422d3",
+      "correctAnswer": "Reindeer",
       "incorrectAnswers": [
-        "Día de la Independencia",
-        "Día de los Muertos",
-        "Día de la Revolución"
+        "Horses",
+        "Buffalo",
+        "Alpacas"
       ],
       "question": {
-        "text": "Which Mexican commemoration celebrates Mexico's victory over France at the Battle of Puebla?"
+        "text": "Which animal is central to the nomadic herding economy of the Sami people?"
       },
       "tags": [
         "category:society-and-culture",
-        "category:history",
-        "place:mexico",
-        "place:north-america",
-        "place:americas",
-        "place:latin-america",
-        "event:holidays-and-festivals",
-        "event:battles",
-        "topic:customs-and-traditions"
+        "category:science",
+        "animal:animals",
+        "animal:mammals",
+        "topic:indigenous-peoples"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "The date is in its name.",
-      "explanation": "Cinco de Mayo marks the Mexican army's 1862 victory over France at the Battle of Puebla.",
+      "hint": "This Arctic-adapted animal is known for both males and females growing antlers.",
+      "explanation": "Reindeer provide the Sami with meat, hides, and other materials, and herds are moved seasonally across northern Scandinavia.",
       "sources": {
         "urls": [
-          "https://www.merriam-webster.com/dictionary/Cinco%20de%20Mayo#:~:text=a%20Mexican%20and%20Mexican%2DAmerican,at%20Puebla%20in%201862"
+          "https://web.archive.org/web/20220108140334/https://www.britannica.com/topic/Sami#:~:text=Reindeer%20herding%20was%20the,economy%20until%20very%20recently"
         ],
-        "checkedAt": "2026-11-19T16:24:47.883Z"
+        "checkedAt": "2026-11-20T10:30:09.578Z"
+      }
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3e7cc59eab6f9522d3",
+      "correctAnswer": "Greek",
+      "incorrectAnswers": [
+        "Roman",
+        "German",
+        "French"
+      ],
+      "question": {
+        "text": "From which language does the term 'eureka' come?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "category:general-knowledge",
+        "topic:language",
+        "topic:etymology"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Socrates and Plato spoke this ancient language, whose alphabet includes letters such as alpha and omega.",
+      "explanation": "Eureka comes from Ancient Greek heureka, meaning I have found it, and is traditionally linked to Archimedes’ discovery.",
+      "sources": {
+        "urls": [
+          "https://www.merriam-webster.com/dictionary/eureka"
+        ],
+        "checkedAt": "2026-11-19T08:10:47.313Z"
       }
     },
     {
       "category": "history",
-      "id": "65056e727a97013de78b52e6",
-      "correctAnswer": "Calcutta",
+      "id": "639898405c9a75021f31046b",
+      "correctAnswer": "Japan",
       "incorrectAnswers": [
-        "Pretoria",
-        "Nairobi",
-        "Jerusalem"
+        "Germany",
+        "Italy",
+        "Russia"
       ],
       "question": {
-        "text": "In which city did Mother Teresa establish the Missionaries of Charity?"
+        "text": "Which country attacked Pearl Harbor in December 1941?"
       },
       "tags": [
         "category:history",
-        "category:society-and-culture",
-        "person:religious-figures",
-        "topic:religion",
-        "topic:christianity",
-        "place:cities",
-        "place:india",
+        "category:geography",
+        "event:world-war-ii",
+        "era:1940s",
+        "era:20th-century",
+        "place:japan",
         "place:asia",
-        "place:south-asia"
+        "place:east-asia",
+        "place:hawaii",
+        "place:united-states",
+        "place:north-america",
+        "place:americas",
+        "place:polynesia",
+        "place:oceania",
+        "topic:american-history",
+        "topic:military"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "This eastern Indian metropolis lies on the Hooghly River and was once the capital of British India.",
-      "explanation": "Calcutta became the Missionaries of Charity’s founding base in 1950; the order is known for serving people in poverty.",
+      "hint": "It is an island nation in East Asia.",
+      "explanation": "Japan launched the surprise attack on Pearl Harbor on 7 December 1941, bringing the US into World War II.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/event/Pearl-Harbor-attack#:~:text=The%20U.S.%20naval%20base,on%20December%207%2C%201941"
+        ],
+        "checkedAt": "2026-11-19T16:23:10.106Z"
+      }
+    },
+    {
+      "category": "geography",
+      "id": "623384e862eaad73716a8c3b",
+      "correctAnswer": "Zanzibar",
+      "incorrectAnswers": [
+        "Australia",
+        "Iceland",
+        "Hispaniola"
+      ],
+      "question": {
+        "text": "What island is known as the Spice Island?"
+      },
+      "tags": [
+        "category:geography",
+        "place:islands",
+        "place:tanzania",
+        "place:africa",
+        "place:eastern-africa",
+        "place:sub-saharan-africa",
+        "place:indian-ocean-islands",
+        "topic:nicknames"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its plantations made it famous for cloves and other aromatic crops.",
+      "explanation": "Zanzibar lies off the coast of Tanzania, and its historic clove production helped earn it the Spice Island nickname.",
       "sources": {
         "urls": [],
-        "checkedAt": "2026-11-20T14:37:28.717Z"
+        "checkedAt": "2026-11-19T08:11:15.057Z"
       }
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f89",
-      "correctAnswer": "Stephen King",
+      "id": "622a1c367cc59eab6f950163",
+      "correctAnswer": "Thomas Hardy",
       "incorrectAnswers": [
-        "H. P. Lovecraft",
-        "Edgar Allan Poe",
-        "Jack Vance"
+        "Jane Austen",
+        "Charles Dickens",
+        "Charlotte Brontë"
       ],
       "question": {
-        "text": "Which author wrote 'The Stand'?"
+        "text": "Who wrote \"Far From The Madding Crowd\"?"
       },
       "tags": [
         "category:arts-and-literature",
         "topic:literature",
-        "topic:modern-fiction",
-        "topic:horror",
-        "person:authors",
-        "person:stephen-king"
+        "topic:classic-literature",
+        "topic:british-literature",
+        "person:thomas-hardy"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Carrie and It are among this horror novelist's best-known books.",
-      "explanation": "Stephen King's post-apocalyptic novel follows survivors of a devastating pandemic and their struggle between good and evil.",
+      "hint": "Its author also set several novels in the fictional region of Wessex.",
+      "explanation": "Thomas Hardy set many of his novels, including this one, in Wessex, a fictional region based on southwest England.",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=The_Stand&oldid=1384881107#:~:text=The%20Stand%20is%20an,in%201978%20by%20Doubleday"
+          "https://britannica.com/topic/Far-from-the-Madding-Crowd-novel-by-Hardy#:~:text=Far%20from%20the%20Madding,name%20the%20same%20year"
         ],
-        "checkedAt": "2026-11-18T22:27:48.616Z"
+        "checkedAt": "2026-11-18T15:43:54.171Z"
       }
     },
     {
-      "category": "science",
-      "id": "65056e3c7a97013de78b529a",
-      "correctAnswer": "Frequency",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbd4",
+      "correctAnswer": "\"What is this? A center for ants? How can we be expected to teach children to learn how to read…if they can’t even fit inside the building?\"",
       "incorrectAnswers": [
-        "Electric capacitance",
-        "Inductance",
-        "Energy"
+        "\"I’m the guy who does his job. You must be the other guy.\"",
+        "\"Of all the gin joints in all the towns in all the world, she walks into mine.\"",
+        "\"I drink your milkshake. I drink it up.\""
       ],
       "question": {
-        "text": "What do we measure in Hertz?"
+        "text": "Which of these quotes is from the film 'Zoolander'?"
       },
       "tags": [
-        "category:science",
-        "science:physics",
-        "science:units-of-measurement"
+        "category:film-and-tv",
+        "topic:film",
+        "topic:film-quotes",
+        "topic:famous-quotes",
+        "topic:comedy"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "A wave’s number of cycles per second is expressed in this unit.",
-      "explanation": "Hertz measures frequency: one hertz is one cycle per second. The unit is named for physicist Heinrich Hertz.",
+      "hint": "Derek's outburst is triggered by a miniature replica of an elementary school.",
+      "explanation": "The line beginning “What is this? A center for ants?” is spoken by Derek Zoolander as he reacts to a school model, mistaking its scale for a design flaw.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/science/hertz#:~:text=The%20frequency%20of%20any,radar%2C%20etc.)%2C%20and%20sound"
+          "https://www.rogerebert.com/reviews/zoolander-2001"
         ],
-        "checkedAt": "2026-11-20T14:37:11.399Z"
+        "checkedAt": "2026-11-18T10:19:44.569Z"
+      }
+    },
+    {
+      "category": "music",
+      "id": "6af79509034e45b04e31bcdd",
+      "correctAnswer": "Roll Over Beethoven",
+      "incorrectAnswers": [
+        "Johnny B. Goode",
+        "Maybellene",
+        "Sweet Little Sixteen"
+      ],
+      "question": {
+        "text": "Which Chuck Berry song name-checks a classical composer in its title?"
+      },
+      "tags": [
+        "category:music",
+        "music:rock-and-roll"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "explanation": "Roll Over Beethoven became a rock-and-roll standard, later covered by artists including the Beatles.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-15T09:05:21.768Z"
+      }
+    },
+    {
+      "category": "society_and_culture",
+      "id": "647f9db03a4302a719271608",
+      "correctAnswer": "Hinduism",
+      "incorrectAnswers": [
+        "Buddhism",
+        "Islam",
+        "Christianity"
+      ],
+      "question": {
+        "text": "Which religion features the gods Ekanetra and Ekarudra?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "topic:hinduism",
+        "topic:religion"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Shiva and Vishnu are two of the best-known deities in this religion.",
+      "explanation": "Hinduism includes many traditions and deities; Rudra is an ancient Vedic deity closely associated with Shiva.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Ekapada&oldid=1356632062#:~:text=The%20Agama%20text%20Amsumadbhedagama,of%20the%20Vidyeshvara%20aspects"
+        ],
+        "checkedAt": "2026-11-19T22:20:06.448Z"
       }
     }
   ]

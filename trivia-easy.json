@@ -1,877 +1,568 @@
 {
-  "gameDate": "2026-11-24",
+  "gameDate": "2026-11-25",
   "difficulty": "easy",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950234",
-      "correctAnswer": "Ronald Mcdonald",
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fbaf",
+      "correctAnswer": "\"Mr. Brightside\" by The Killers",
       "incorrectAnswers": [
-        "The King",
-        "Donald Burger",
-        "Meato"
+        "\"SpongeBob SquarePants Theme\" by Painty the Pirate",
+        "\"Hooked on a Feeling\" by B.J. Thomas",
+        "\"Let's Go Crazy\" by Prince and The Revolution"
       ],
       "question": {
-        "text": "Who is McDonald's mascot?"
+        "text": "Which song begins with the lyrics: \"Coming out of my cage / And I've been doing just fine...\"?"
       },
       "tags": [
-        "category:food-and-drink",
-        "category:society-and-culture",
-        "food:fast-food",
-        "topic:advertising-and-slogans"
+        "category:music",
+        "music:song-lyrics",
+        "music:indie-and-alternative"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "The fast-food chain's cheerful clown wears a yellow jumpsuit and oversized red shoes.",
-      "explanation": "Ronald McDonald first appeared in a 1963 television commercial, portrayed by Willard Scott.",
+      "hint": "Its chorus centers on jealousy and became a staple of early-2000s rock radio.",
+      "explanation": "Mr. Brightside was The Killers' debut single and later appeared on their album Hot Fuss.",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Ronald_McDonald&oldid=1385199655#:~:text=Ronald%20McDonald%20is%20a,McDonald's%20fast%2Dfood%20restaurant%20chain"
+          "https://songfacts.com/lyrics/the-killers/mr-brightside"
         ],
-        "checkedAt": "2026-11-18T15:44:47.095Z"
+        "checkedAt": "2026-11-19T00:30:56.519Z"
+      }
+    },
+    {
+      "category": "history",
+      "id": "622a1c347cc59eab6f94f9c4",
+      "correctAnswer": "William J. Clinton",
+      "incorrectAnswers": [
+        "Rutherford B. Hayes",
+        "Woodrow Wilson",
+        "Dwight Eisenhower"
+      ],
+      "question": {
+        "text": "Who was the 42nd president of the USA, in term during the period 1993–2001?"
+      },
+      "tags": [
+        "category:history",
+        "category:society-and-culture",
+        "person:us-presidents",
+        "topic:american-history",
+        "topic:politics",
+        "place:united-states",
+        "place:north-america",
+        "place:americas",
+        "era:1990s",
+        "era:20th-century",
+        "era:21st-century",
+        "era:2000s"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Before entering the White House, he was governor of Arkansas and played saxophone.",
+      "explanation": "William J. Clinton served as governor of Arkansas before becoming president.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/biography/Bill-Clinton#:~:text=Bill%20Clinton%20was%20the,the%20United%20States%20(1993%E2%80%932001)"
+        ],
+        "checkedAt": "2026-11-18T08:59:30.791Z"
       }
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc11",
-      "correctAnswer": "\"Mrs. Robinson, you're trying to seduce me. Aren't you?\"",
+      "id": "63d9530a168979b94b2e4f85",
+      "correctAnswer": "Friends",
       "incorrectAnswers": [
-        "\"Soylent Green is people!\"",
-        "\"Round up the usual suspects.\"",
-        "\"Just keep swimming.\""
+        "Seinfeld",
+        "The Simpsons",
+        "Frasier"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'The Graduate'?"
+        "text": "Which popular '90s show featured the character of Ross Geller?"
       },
       "tags": [
         "category:film-and-tv",
-        "topic:film",
-        "topic:film-quotes"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "A young graduate says it to an older woman who has been making advances.",
-      "explanation": "Ben Braddock says this line to Mrs. Robinson in the 1967 film The Graduate.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=AFI%27s_100_Years...100_Movie_Quotes&oldid=1380096438"
-        ],
-        "checkedAt": "2026-11-18T13:25:59.703Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "622a1c3f7cc59eab6f9523bb",
-      "correctAnswer": "Tsunami",
-      "incorrectAnswers": [
-        "Kahuna",
-        "Overflow",
-        "Grand Masif"
-      ],
-      "question": {
-        "text": "What is the name for a great wave resulting from an earthquake?"
-      },
-      "tags": [
-        "category:science",
-        "science:earth-science",
-        "science:volcanoes-and-earthquakes"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "An undersea quake can suddenly displace the seafloor and send powerful waves across an ocean.",
-      "explanation": "Tsunamis are caused by large-scale water displacement, often from undersea earthquakes, rather than by ordinary tides.",
-      "sources": {
-        "urls": [
-          "https://oceanservice.noaa.gov/facts/tsunami.html#:~:text=Tsunamis%20are%20giant%20waves,eruptions%20under%20the%20sea"
-        ],
-        "checkedAt": "2026-11-19T08:11:03.548Z"
-      }
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951369",
-      "correctAnswer": "Art deco",
-      "incorrectAnswers": [
-        "Cubism",
-        "Surrealism",
-        "Dadaism"
-      ],
-      "question": {
-        "text": "Which design style prevalent during the 1920s and 1930s was characterized by a sleek use of straight lines and slender forms?"
-      },
-      "tags": [
-        "category:arts-and-literature",
-        "topic:art-movements",
-        "topic:architecture",
-        "era:1920s",
-        "era:1930s",
+        "topic:television",
+        "topic:sitcoms",
+        "topic:american-tv",
+        "work:friends",
+        "era:1990s",
         "era:20th-century"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "The Chrysler Building’s crown is a famous example of this geometric, streamlined look.",
-      "explanation": "Art deco takes its name from a 1925 Paris exposition devoted to decorative and industrial arts.",
+      "hint": "The sitcom followed six young adults navigating life and relationships in New York City.",
+      "explanation": "Friends ran for ten seasons, and Ross Geller was played by David Schwimmer.",
       "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-19T00:31:03.259Z"
+        "urls": [
+          "https://www.britannica.com/biography/David-Schwimmer#:~:text=David%20Schwimmer%20became%20widely,Geller%20on%20Friends%20(1994%E2%80%932004)"
+        ],
+        "checkedAt": "2026-11-19T16:25:13.925Z"
+      }
+    },
+    {
+      "category": "general_knowledge",
+      "id": "65056e547a97013de78b52bc",
+      "correctAnswer": "India",
+      "incorrectAnswers": [
+        "Japan",
+        "Russia",
+        "France"
+      ],
+      "question": {
+        "text": "Where do women traditionally wear a sari?"
+      },
+      "tags": [
+        "category:geography",
+        "category:society-and-culture",
+        "place:india",
+        "place:asia",
+        "place:south-asia",
+        "topic:fashion",
+        "topic:customs-and-traditions"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The country is home to Bollywood and the Taj Mahal.",
+      "explanation": "Sari styles vary across India, with regional differences in draping and textile traditions.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/topic/sari#:~:text=sari%2C%20principal%20outer%20garment,of%20the%20Indian%20subcontinent"
+        ],
+        "checkedAt": "2026-11-20T14:37:21.580Z"
       }
     },
     {
       "category": "science",
-      "id": "65056fe47a97013de78b54e6",
-      "correctAnswer": "Antarctica",
+      "id": "622a1c377cc59eab6f95048d",
+      "correctAnswer": "snakes",
       "incorrectAnswers": [
-        "Australia",
-        "Asia",
-        "Africa"
+        "disease classification",
+        "prehistoric metaphytes",
+        "society"
       ],
       "question": {
-        "text": "On which continent do no bees live?"
+        "text": "What is Serpentology the study of?"
       },
       "tags": [
         "category:science",
-        "category:geography",
         "animal:animals",
-        "animal:insects",
-        "place:antarctica",
-        "place:polar-regions"
+        "animal:reptiles",
+        "animal:snakes",
+        "topic:ologies-and-phobias"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "The continent’s extreme cold and sparse plant life leave bees without the conditions they need.",
-      "explanation": "Antarctica has no native bee populations; its harsh climate and limited flowering plants cannot support them.",
+      "hint": "Its subject is a group of limbless reptiles that shed their skin.",
+      "explanation": "Serpentology concerns snakes; the broader discipline of herpetology covers reptiles and amphibians.",
       "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Bee&oldid=1385869661#:~:text=They%20are%20found%20on,contains%20insect%2Dpollinated%20flowering%20plants"
-        ],
-        "checkedAt": "2026-11-20T16:28:04.903Z"
+        "urls": [],
+        "checkedAt": "2026-11-18T16:58:55.932Z"
       }
     },
     {
       "category": "film_and_tv",
-      "id": "62573f3a3d2f5c16bfb8832f",
-      "correctAnswer": "Historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+      "id": "622a1c347cc59eab6f94fbeb",
+      "correctAnswer": "\"I have had it with these mother—— snakes on this mother—— plane!\"",
       "incorrectAnswers": [
-        "A thief who steals secrets through dreams must plant an idea into the mind of a C.E.O.",
-        "The son of a city's mastermind falls in love with a working-class prophet.",
-        "An insomniac and a soap maker form an underground organisation that evolves into much more."
+        "\"Not my tempo.\"",
+        "\"Oh, Jerry, don't let's ask for the moon. We have the stars.\"",
+        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\""
       ],
       "question": {
-        "text": "What is the plot of the movie Forrest Gump?"
+        "text": "Which of these quotes is from the film 'Snakes on a Plane'?"
       },
       "tags": [
         "category:film-and-tv",
-        "category:society-and-culture",
-        "topic:film"
+        "topic:film",
+        "topic:film-quotes",
+        "topic:horror"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "A childhood leg brace gives way to a famous cross-country run.",
-      "explanation": "Forrest Gump stars Tom Hanks, who won the Academy Award for Best Actor for the role.",
+      "hint": "Samuel L. Jackson delivers the film’s famously furious, profanity-heavy catchphrase.",
+      "explanation": "The line is “I have had it with these mother—— snakes on this mother—— plane!” Samuel L. Jackson delivers it as FBI agent Neville Flynn, and it became the film's signature catchphrase.",
       "sources": {
         "urls": [],
-        "checkedAt": "2026-11-19T13:12:28.211Z"
-      }
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6462624dab138b829b81e9e9",
-      "correctAnswer": "KFC",
-      "incorrectAnswers": [
-        "McDonald's",
-        "Burger King",
-        "Wendy's"
-      ],
-      "question": {
-        "text": "Which fast food is known for a menu that mainly contains fried chicken?"
-      },
-      "tags": [
-        "category:food-and-drink",
-        "category:general-knowledge",
-        "food:fast-food",
-        "org:brands",
-        "org:companies"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Colonel Sanders is the brand's iconic founder and mascot.",
-      "explanation": "KFC originally stood for Kentucky Fried Chicken, and Colonel Harland Sanders became the chain’s longtime public face.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=KFC&oldid=1386195443#:~:text=KFC%20Corporation%2C%20trading%20as,chicken%20and%20chicken%20sandwiches"
-        ],
-        "checkedAt": "2026-11-19T20:34:36.275Z"
+        "checkedAt": "2026-11-18T10:19:51.990Z"
       }
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ea7",
-      "correctAnswer": "J. K. Rowling",
+      "id": "65056ec57a97013de78b535a",
+      "correctAnswer": "Turkey",
       "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
+        "Greece",
+        "Italy",
+        "Egypt"
       ],
       "question": {
-        "text": "Which author wrote 'Quidditch Through the Ages'?"
+        "text": "In which country is the Hagia Sophia located?"
       },
       "tags": [
         "category:arts-and-literature",
-        "topic:literature",
-        "topic:fantasy",
-        "topic:modern-fiction",
-        "work:harry-potter",
-        "person:authors"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The same author created the Harry Potter series.",
-      "explanation": "J. K. Rowling presented the book as a history of the wizarding sport written by the fictional author Kennilworthy Whisp.",
-      "sources": {
-        "urls": [
-          "https://jkrowling.com/quidditch-through-the-ages-illustrated-edition-published-today"
-        ],
-        "checkedAt": "2026-11-18T22:26:50.469Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625741333d2f5c16bfb88345",
-      "correctAnswer": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine.",
-      "incorrectAnswers": [
-        "A Marine observes the effects of war on his fellow recruits from their boot camp training to fighting in a war.",
-        "The lives of mob hitmen, a boxer, a gangster and his wife, and a pair of bandits intertwine in four tales.",
-        "Historical events unfold from the perspective of an Alabama man with an IQ of 75."
-      ],
-      "question": {
-        "text": "What is the plot of the movie The Terminator?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "topic:film",
-        "topic:film-plots",
-        "topic:science-fiction",
-        "work:terminator"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Sarah Connor’s future son is destined to lead the resistance against machines.",
-      "explanation": "The Terminator's plot centers on Sarah Connor and Kyle Reese: Reese travels back in time to protect her from a machine hunting her, because her unborn son will lead the resistance.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/topic/The-Terminator"
-        ],
-        "checkedAt": "2026-11-19T13:13:10.824Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "639ae873929b90846f2fc8df",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Blue",
-        "Green",
-        "Purple"
-      ],
-      "question": {
-        "text": "In Star Wars, what color is Darth Vader's lightsaber?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "category:society-and-culture",
-        "work:star-wars",
-        "topic:science-fiction",
-        "topic:colours"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The Sith's signature blade hue matches the color of fresh blood.",
-      "explanation": "Red fits the Sith tradition: in current Star Wars canon, Sith turn kyber crystals red by corrupting them through the Force, a process called bleeding.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/topic/Darth-Vader#:~:text=Armed%20with%20a%20deadly,the%20heroic%20Rebel%20Alliance"
-        ],
-        "checkedAt": "2026-11-19T16:23:28.880Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "65056f057a97013de78b53b3",
-      "correctAnswer": "Earth",
-      "incorrectAnswers": [
-        "Mars",
-        "Venus",
-        "Jupiter"
-      ],
-      "question": {
-        "text": "What is the third planet from the Sun?"
-      },
-      "tags": [
-        "category:science",
-        "science:astronomy",
-        "science:solar-system"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It is the only planet known to be home to life.",
-      "explanation": "Earth is the only planet known to support life, and liquid water covers most of its surface.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/place/Earth#:~:text=Earth%2C%20third%20planet%20from,of%20size%20and%20mass"
-        ],
-        "checkedAt": "2026-11-20T16:26:31.263Z"
-      }
-    },
-    {
-      "category": "geography",
-      "id": "623b577afd6c701a9211835e",
-      "correctAnswer": "India",
-      "incorrectAnswers": [
-        "Egypt",
-        "Italy",
-        "China"
-      ],
-      "question": {
-        "text": "In which country would you find the Taj Mahal?"
-      },
-      "tags": [
         "category:geography",
-        "place:india",
+        "place:landmarks",
+        "place:religious-buildings",
+        "place:turkey",
         "place:asia",
-        "place:south-asia",
-        "place:landmarks"
+        "place:middle-east",
+        "place:europe"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "The mausoleum stands in Agra, a city on the Yamuna River.",
-      "explanation": "India's Taj Mahal was commissioned by Mughal emperor Shah Jahan as a mausoleum for his wife, Mumtaz Mahal.",
+      "hint": "Its home city, Istanbul, was once known as Constantinople.",
+      "explanation": "Turkey is home to Hagia Sophia in Istanbul; the landmark has served as both a Christian church and a Muslim mosque.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/topic/Taj-Mahal#:~:text=Taj%20Mahal%2C%20white%20marble,Pradesh%20state%2C%20northern%20India"
+          "https://www.britannica.com/topic/Hagia-Sophia#:~:text=As%20Turkey%E2%80%99s%20most%20popular,remains%20open%20to%20visitors"
         ],
-        "checkedAt": "2026-11-19T09:17:40.803Z"
+        "checkedAt": "2026-11-20T16:26:08.322Z"
       }
     },
     {
       "category": "film_and_tv",
-      "id": "62573f569da29df7b05f7396",
-      "correctAnswer": "Back to the Future",
+      "id": "625698509da29df7b05f727f",
+      "correctAnswer": "Samuel L. Jackson",
       "incorrectAnswers": [
-        "The Truman Show",
-        "Raiders of the Lost Ark",
-        "Forrest Gump"
+        "Paul Rudd",
+        "Clark Gregg",
+        "Tom Hiddleston"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'A high school student is sent thirty years into the past in a time-traveling car.'"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "category:society-and-culture",
-        "topic:film",
-        "topic:film-plots",
-        "topic:science-fiction",
-        "work:back-to-the-future"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The time machine is a DeLorean, and the student must help his parents fall in love.",
-      "explanation": "Back to the Future follows teenager Marty McFly and inventor Doc Brown; their DeLorean became one of cinema’s most recognizable cars.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Back_to_the_Future&oldid=1385039574#:~:text=Set%20in%201985%2C%20it,back%20to%20the%20future"
-        ],
-        "checkedAt": "2026-11-19T13:12:30.870Z"
-      }
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8be",
-      "correctAnswer": "Tennis",
-      "incorrectAnswers": [
-        "Badminton",
-        "Swimming",
-        "Cycling"
-      ],
-      "question": {
-        "text": "With which sport is Roger Federer associated?"
-      },
-      "tags": [
-        "category:sport-and-leisure",
-        "sport:sports",
-        "sport:tennis",
-        "sport:racket-sports",
-        "person:sportspeople",
-        "person:roger-federer"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "He became especially famous for his long run of success at Wimbledon.",
-      "explanation": "Federer won a record eight men's singles titles at Wimbledon in the Open Era.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/biography/Roger-Federer#:~:text=Roger%20Federer%2C%20born%20in,the%20early%2021st%20century"
-        ],
-        "checkedAt": "2026-11-18T08:00:54.676Z"
-      }
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "64e6fd5e0b79e5bedd55c87f",
-      "correctAnswer": "A Frisbee",
-      "incorrectAnswers": [
-        "A Boomerang",
-        "A Discus",
-        "A Flying Saucer"
-      ],
-      "question": {
-        "text": "What is the trademark name for a plastic concave throwing disk, often used for recreational purposes?"
-      },
-      "tags": [
-        "category:general-knowledge",
-        "category:sport-and-leisure",
-        "org:brands",
-        "topic:games-and-toys",
-        "topic:toys"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It was popularized by Wham-O, the company that also made the Hula Hoop famous.",
-      "explanation": "Wham-O renamed the flying disc Frisbee, inspired by Frisbie Pie Company tins that people had tossed for fun.",
-      "sources": {
-        "urls": [
-          "https://www.thefreedictionary.com/Frisbee#:~:text=Fris%C2%B7bee%20(fr%C4%ADz%E2%80%B2b%C4%93)%20A%20trademark,players%20throw%20and%20catch"
-        ],
-        "checkedAt": "2026-11-20T14:36:01.147Z"
-      }
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63e4c35a106de6ffa7d4a7da",
-      "correctAnswer": "Green",
-      "incorrectAnswers": [
-        "Blue",
-        "Red",
-        "Yellow"
-      ],
-      "question": {
-        "text": "What is the traditional color associated with St. Patrick's Day?"
-      },
-      "tags": [
-        "category:society-and-culture",
-        "topic:customs-and-traditions",
-        "topic:colours",
-        "event:holidays-and-festivals"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Ireland's three-leaf shamrock is closely tied to this holiday.",
-      "explanation": "Green is linked to the shamrock and Ireland’s nickname, the Emerald Isle. Wearing it is a popular St. Patrick’s Day custom.",
-      "sources": {
-        "urls": [
-          "https://www.history.com/articles/why-we-wear-green-on-st-patricks-day"
-        ],
-        "checkedAt": "2026-11-19T16:25:47.366Z"
-      }
-    },
-    {
-      "category": "geography",
-      "id": "623388b60161109f922aaca4",
-      "correctAnswer": "Pisa",
-      "incorrectAnswers": [
-        "Florence",
-        "Naples",
-        "Turin"
-      ],
-      "question": {
-        "text": "Which Italian city is famous for its leaning tower?"
-      },
-      "tags": [
-        "category:geography",
-        "place:cities",
-        "place:italy",
-        "place:europe",
-        "place:southern-europe",
-        "place:landmarks"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The tower stands in a Tuscan city near the mouth of the Arno River.",
-      "explanation": "Pisa's tower is the freestanding bell tower of its cathedral; it began tilting during construction because its foundation rested on soft, unstable ground.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/topic/Leaning-Tower-of-Pisa#:~:text=Leaning%20Tower%20of%20Pisa%2C,settling%20of%20its%20foundations"
-        ],
-        "checkedAt": "2026-11-19T08:46:29.901Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9507b4",
-      "correctAnswer": "Arnold Schwarzenegger",
-      "incorrectAnswers": [
-        "Sylvester Stallone",
-        "Jason Statham",
-        "Chuck Norris"
-      ],
-      "question": {
-        "text": "Which action star has featured in both Terminator and Predator?"
+        "text": "Which actor plays the role of Nick Fury in the Marvel Cinematic Universe?"
       },
       "tags": [
         "category:film-and-tv",
         "person:actors",
-        "person:arnold-schwarzenegger",
+        "work:marvel",
+        "work:marvel-cinematic-universe",
         "topic:film",
-        "topic:science-fiction",
-        "work:alien-and-predator",
-        "work:terminator"
+        "topic:superheroes"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "He played a cyborg in one film and led a military rescue team in a jungle in the other.",
-      "explanation": "Arnold Schwarzenegger was a professional bodybuilder before becoming a Hollywood action star, and later served as California's governor.",
+      "hint": "He played Jules Winnfield in Pulp Fiction.",
+      "explanation": "The MCU's Nick Fury was modeled on Samuel L. Jackson's likeness in Marvel's Ultimate comics, years before Jackson played the character onscreen.",
       "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-18T17:00:30.991Z"
+        "urls": [
+          "https://www.britannica.com/biography/Samuel-L-Jackson#:~:text=Jackson%20is%20also%20recognized,the%20Marvel%20Cinematic%20Universe",
+          "https://variety.com/2023/tv/features/secret-invasion-samuel-l-jackson-black-nick-fury-1235657493"
+        ],
+        "checkedAt": "2026-11-19T11:52:07.726Z"
       }
     },
     {
       "category": "film_and_tv",
-      "id": "62573f049da29df7b05f7382",
-      "correctAnswer": "The Lord of the Rings: The Fellowship of the Ring",
+      "id": "62573efd9da29df7b05f7380",
+      "correctAnswer": "A man becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
       "incorrectAnswers": [
-        "Star Wars",
-        "Double Indemnity",
-        "Logan"
+        "In order to power the city, beasts have to scare children so that they scream.",
+        "A girl wanders into a world ruled by gods, witches, and spirits, where humans are changed into beasts.",
+        "King Arthur and his Knights embark on a search for a religious relic."
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'A Hobbit and eight companions set out on a journey to destroy the powerful One Ring.'"
+        "text": "What is the plot of the movie Schindler's List?"
       },
       "tags": [
         "category:film-and-tv",
         "topic:film",
         "topic:film-plots",
+        "event:world-war-ii",
+        "event:the-holocaust"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Directed by Spielberg in black and white.",
+      "explanation": "Schindler's List (1993, dir. Steven Spielberg) tells how Oskar Schindler saved Jews employed in his factories.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Schindler%27s_List&oldid=1385972883"
+        ],
+        "checkedAt": "2026-11-19T13:12:23.216Z"
+      }
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3b7cc59eab6f9513b2",
+      "correctAnswer": "The Hobbit",
+      "incorrectAnswers": [
+        "Charlotte's Web",
+        "Alice's Adventures in Wonderland",
+        "Bluebeard"
+      ],
+      "question": {
+        "text": "In which book does 'Bilbo Baggins' appear?"
+      },
+      "tags": [
+        "category:arts-and-literature",
+        "topic:fictional-characters",
+        "topic:literature",
         "topic:fantasy",
+        "topic:childrens-books",
         "work:middle-earth"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Peter Jackson's trilogy adaptation of J.R.R. Tolkien's epic begins with this film.",
-      "explanation": "The Lord of the Rings: The Fellowship of the Ring began Peter Jackson’s trilogy and won four Academy Awards, including for its score and visual effects.",
+      "hint": "Tolkien's fantasy follows a comfort-loving adventurer drawn into a quest alongside a company of dwarves.",
+      "explanation": "In The Hobbit, Bilbo joins Thorin's company on a quest to reclaim their mountain home from the dragon Smaug.",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring&oldid=1385779646"
+          "https://www.britannica.com/topic/The-Hobbit#:~:text=The%20unwilling%20hero%20of,by%20the%20dragon%20Smaug"
         ],
-        "checkedAt": "2026-11-19T13:12:23.550Z"
+        "checkedAt": "2026-11-19T00:31:16.280Z"
       }
     },
     {
-      "category": "science",
-      "id": "65056fab7a97013de78b5499",
-      "correctAnswer": "Ostrich",
+      "category": "sport_and_leisure",
+      "id": "64730759cf09068746f63758",
+      "correctAnswer": "Triple jump",
       "incorrectAnswers": [
-        "Blackbird",
-        "Penguin",
-        "Flamingo"
+        "Long jump",
+        "High jump",
+        "Pole vault"
       ],
       "question": {
-        "text": "What bird lays the largest eggs?"
+        "text": "Which athletics event consists of a hop, a step and a jump?"
       },
       "tags": [
-        "category:science",
-        "animal:birds",
-        "animal:animals",
-        "animal:animal-records",
-        "animal:african-wildlife"
+        "category:sport-and-leisure",
+        "sport:athletics",
+        "sport:sports"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "This flightless African bird is also the world's largest living bird.",
-      "explanation": "An ostrich egg can weigh about 1.4 kilograms, roughly as much as two dozen chicken eggs.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-20T16:27:39.517Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "64e6fce50b79e5bedd55c81d",
-      "correctAnswer": "A light-year",
-      "incorrectAnswers": [
-        "A kilometer",
-        "A parsec",
-        "A meter"
-      ],
-      "question": {
-        "text": "What is the unit used to measure the distance a photon travels in a vacuum in one year?"
-      },
-      "tags": [
-        "category:science",
-        "science:astronomy",
-        "science:units-of-measurement"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Astronomers use this unit to describe the immense distances separating stars and galaxies.",
-      "explanation": "A light-year is a distance, not a measure of time. A parsec is another astronomical distance unit, while kilometers and meters are much smaller units.",
+      "hint": "It has three phases.",
+      "explanation": "The triple jump consists of a hop, a step and a jump, performed in sequence after a run-up.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/science/light-year#:~:text=Light%2Dyear%2C%20in%20astronomy%2C%20the,(186%2C282%20miles%20per%20second)"
+          "https://www.britannica.com/sports/triple-jump#:~:text=triple%20jump%2C%20event%20in,with%20both%20feet%20together"
         ],
-        "checkedAt": "2026-11-20T14:35:42.169Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8d9",
-      "correctAnswer": "Bruce Willis",
-      "incorrectAnswers": [
-        "John Travolta",
-        "Sean Penn",
-        "Al Pacino"
-      ],
-      "question": {
-        "text": "Which actor played the role of John McClane in Die Hard?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "topic:film",
-        "person:actors",
-        "work:die-hard",
-        "era:1980s",
-        "era:20th-century"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "He starred opposite Cybill Shepherd in the TV detective comedy Moonlighting.",
-      "explanation": "Bruce Willis first became widely known as private detective David Addison on the TV series Moonlighting.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/biography/Bruce-Willis#:~:text=Bruce%20Willis%20plays%20the,thriller%20Die%20Hard%20series"
-        ],
-        "checkedAt": "2026-11-18T08:01:05.713Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "65056fe37a97013de78b54e5",
-      "correctAnswer": "Mammals",
-      "incorrectAnswers": [
-        "Insects",
-        "Reptiles",
-        "Birds"
-      ],
-      "question": {
-        "text": "Which class of animals do bats belong to?"
-      },
-      "tags": [
-        "category:science",
-        "animal:animals",
-        "animal:mammals",
-        "animal:rodents-and-small-mammals"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Their mothers feed their young with milk, and they have fur.",
-      "explanation": "Bats are mammals: females nurse their pups with milk, even though bats can fly.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/animal/bat-mammal#:~:text=A%20bat%20is%20any,capable%20of%20true%20flight"
-        ],
-        "checkedAt": "2026-11-20T16:28:04.545Z"
+        "checkedAt": "2026-11-19T20:36:07.240Z"
       }
     },
     {
       "category": "geography",
-      "id": "625e9f74796f721e95543f9e",
-      "correctAnswer": "Green",
+      "id": "623b5859fd6c701a921183b3",
+      "correctAnswer": "Australia",
       "incorrectAnswers": [
-        "Maroon",
-        "Yellow",
-        "Blue"
+        "China",
+        "Italy",
+        "France"
       ],
       "question": {
-        "text": "Which of these colors is included on the flag of Nigeria?"
+        "text": "In which country would you find the Sydney Opera House?"
       },
       "tags": [
         "category:geography",
-        "topic:flags",
-        "topic:national-symbols",
-        "place:nigeria",
-        "place:africa",
-        "place:western-africa",
-        "place:sub-saharan-africa"
+        "place:australia",
+        "place:oceania",
+        "place:australasia",
+        "place:landmarks"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Nigeria's flag has matching outer vertical bands, with a white stripe between them.",
-      "explanation": "Green is associated with Nigeria’s agricultural wealth, while the white stripe is commonly said to represent peace.",
+      "hint": "Sydney lies on the southeastern coast of the world's smallest continent.",
+      "explanation": "Australia is home to the landmark, whose sail-like roof shells were designed by Danish architect Jørn Utzon.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/topic/flag-of-Nigeria#:~:text=flag%20of%20Nigeria%20vertically%20striped%20green%2Dwhite%2Dgreen%20national%20flag"
+          "https://www.britannica.com/topic/Sydney-Opera-House#:~:text=The%20Sydney%20Opera%20House%2C,buildings%20in%20the%20world"
         ],
-        "checkedAt": "2026-11-19T13:13:29.150Z"
-      }
-    },
-    {
-      "category": "general_knowledge",
-      "id": "64e6fd1d0b79e5bedd55c83f",
-      "correctAnswer": "A dishwasher",
-      "incorrectAnswers": [
-        "A vacuum cleaner",
-        "A washing machine",
-        "A microwave"
-      ],
-      "question": {
-        "text": "In the 1880s, Josephine Cochran invented a machine to prevent her servants from chipping plates. What was it?"
-      },
-      "tags": [
-        "category:science",
-        "category:history",
-        "category:general-knowledge",
-        "era:19th-century",
-        "person:inventors",
-        "science:inventions",
-        "science:technology"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It cleaned plates by spraying hot, soapy water over them while they sat in racks.",
-      "explanation": "Josephine Cochran's dishwasher was exhibited at the 1893 World's Columbian Exposition in Chicago.",
-      "sources": {
-        "urls": [
-          "https://www.invent.org/inductees/josephine-garis-cochran#:~:text=Josephine%20Garis%20Cochran%20invented,manufacture%20and%20market%20it"
-        ],
-        "checkedAt": "2026-11-20T14:35:48.147Z"
+        "checkedAt": "2026-11-19T10:33:02.350Z"
       }
     },
     {
       "category": "society_and_culture",
-      "id": "65056df07a97013de78b5230",
-      "correctAnswer": "1",
+      "id": "646339ce01d576cfac3aa3ba",
+      "correctAnswer": "Carol",
       "incorrectAnswers": [
-        "2",
-        "3",
-        "0"
+        "Blessing",
+        "Chant",
+        "Anthem"
       ],
       "question": {
-        "text": "How many eyes does a cyclops have?"
+        "text": "What is the general term for a Christmas song or hymn?"
       },
       "tags": [
         "category:society-and-culture",
-        "topic:greek-mythology",
-        "topic:mythical-creatures"
+        "category:music",
+        "event:christmas",
+        "event:holidays-and-festivals"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "The Greek name is often translated as “round-eyed.”",
-      "explanation": "Cyclopes are traditionally depicted with one eye centered in the forehead; their name is often linked to the Greek for “round-eyed.”",
+      "hint": "Groups often sing these festive songs while going door to door during the holidays.",
+      "explanation": "Carols are festive songs often associated with Christmas, and the tradition of caroling includes singing them in groups.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-19T20:35:36.726Z"
+      }
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f9500f1",
+      "correctAnswer": "Thor",
+      "incorrectAnswers": [
+        "Odin",
+        "Baldur",
+        "Heimdall"
+      ],
+      "question": {
+        "text": "Which Norse god of thunder wields the hammer Mjölnir?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "topic:norse-mythology",
+        "topic:mythology"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "A Marvel superhero shares his name.",
+      "explanation": "Thor is the Norse god of thunder, known for wielding the hammer Mjölnir.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/topic/Cyclops-Greek-mythology#:~:text=Cyclops%2C%20in%20Greek%20legend,of%20histories%20and%20deeds"
+          "https://en.wikipedia.org/w/index.php?title=Thor&oldid=1385983252#:~:text=Thor%20wields%20the%20hammer,owns%20the%20staff%20Gr%C3%AD%C3%B0arv%C3%B6lr"
         ],
-        "checkedAt": "2026-11-20T14:36:46.828Z"
+        "checkedAt": "2026-11-18T14:43:24.807Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "65056ee67a97013de78b5388",
+      "correctAnswer": "Bones",
+      "incorrectAnswers": [
+        "Blood",
+        "Skin",
+        "Brain"
+      ],
+      "question": {
+        "text": "What part of the body is affected by osteoporosis?"
+      },
+      "tags": [
+        "category:science",
+        "science:medicine",
+        "science:diseases",
+        "science:human-body",
+        "science:skeleton-and-muscles"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The condition weakens the body's rigid framework, making fractures more likely.",
+      "explanation": "Osteoporosis reduces bone density, leaving bones more fragile and prone to fractures.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/science/osteoporosis#:~:text=osteoporosis%2C%20disease%20characterized%20by,fractures%20from%20minor%20stresses"
+        ],
+        "checkedAt": "2026-11-20T16:26:19.366Z"
       }
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515fb",
-      "correctAnswer": "Margarita",
+      "id": "648888605dba6c873ef6503d",
+      "correctAnswer": "French toast",
       "incorrectAnswers": [
-        "Bloody Mary",
-        "Mojito",
-        "Martini"
+        "Melba toast",
+        "Flatbread",
+        "Egg bathed toast"
       ],
       "question": {
-        "text": "What cocktail is made with triple sec, tequila, and lime juice?"
+        "text": "What is the name of the dish made by dipping bread in a mixture of eggs and milk and frying until golden brown?"
       },
       "tags": [
         "category:food-and-drink",
-        "food:cocktails",
-        "food:alcoholic-drinks",
-        "food:drinks"
+        "food:breakfast",
+        "food:cooking"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "It is often served in a glass with a salted rim.",
-      "explanation": "A Margarita is often served in a glass with a salted rim, either frozen or over ice.",
+      "hint": "It is often served for breakfast with maple syrup, fruit, or powdered sugar.",
+      "explanation": "French toast is also known as pain perdu, meaning “lost bread,” because it is a traditional way to use stale bread.",
       "sources": {
-        "urls": [
-          "https://www.britannica.com/topic/margarita-cocktail#:~:text=In%20December%201953%20Esquire,salt%20on%20the%20rim"
-        ],
-        "checkedAt": "2026-11-19T00:31:33.431Z"
+        "urls": [],
+        "checkedAt": "2026-11-19T22:21:04.136Z"
       }
     },
     {
-      "category": "general_knowledge",
-      "id": "6af6ac09034e45b04e31bc14",
-      "correctAnswer": "Tower Bridge",
+      "category": "science",
+      "id": "65056f707a97013de78b5448",
+      "correctAnswer": "Chromosome",
       "incorrectAnswers": [
-        "London Bridge",
-        "Westminster Bridge",
-        "Millennium Bridge"
+        "Glucose",
+        "Cobalt",
+        "Electrolyte"
       ],
       "question": {
-        "text": "Which London bridge has a roadway that splits and lifts to let tall ships pass through?"
+        "text": "What consists of DNA and carries our genetic information?"
       },
       "tags": [
-        "category:general-knowledge",
-        "place:bridges",
-        "place:landmarks",
-        "place:london",
+        "category:science",
+        "science:biology",
+        "science:genetics",
+        "science:blood-and-cells"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "In human cells, these are usually found in pairs inside the nucleus.",
+      "explanation": "A chromosome is a long DNA molecule packaged with proteins; most human body cells have 23 pairs.",
+      "sources": {
+        "urls": [
+          "https://www.genome.gov/genetics-glossary/Chromosome#:~:text=Chromosomes%20are%20threadlike%20structures,from%20cell%20to%20cell"
+        ],
+        "checkedAt": "2026-11-20T16:27:16.972Z"
+      }
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c607b50d1a5e051325a5e",
+      "correctAnswer": "England",
+      "incorrectAnswers": [
+        "Mexico",
+        "Philippines",
+        "Spain"
+      ],
+      "question": {
+        "text": "Fish & Chips is a dish that is most associated with which part of the world?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "category:geography",
+        "food:british-cuisine",
+        "food:snacks",
+        "food:seafood",
+        "food:world-cuisine",
         "place:england",
         "place:united-kingdom",
         "place:europe",
@@ -881,75 +572,394 @@
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Its two movable roadway sections are known as bascules, a distinctive type of drawbridge leaf.",
-      "explanation": "Tower Bridge is a bascule bridge; its high-level walkways let pedestrians cross while the roadway is raised.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-13T09:03:09.226Z"
-      }
-    },
-    {
-      "category": "geography",
-      "id": "625e9ede796f721e95543f72",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Gold",
-        "Yellow",
-        "Blue"
-      ],
-      "question": {
-        "text": "Which of these colors would you find on the flag of Japan?"
-      },
-      "tags": [
-        "category:geography",
-        "category:society-and-culture",
-        "place:japan",
-        "place:asia",
-        "place:east-asia",
-        "topic:flags",
-        "topic:national-symbols"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Japan's flag features a large sun disc centered on a white field.",
-      "explanation": "Japan's flag has a red sun disk on a white field; its design is known as the Hinomaru, meaning “circle of the sun.”",
+      "hint": "It is a classic takeaway associated with the largest country on the island of Great Britain.",
+      "explanation": "Fish and chips became a popular working-class meal in 19th-century England, sold from dedicated shops as well as pubs.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/topic/flag-of-Japan"
+          "https://www.bbc.com/travel/article/20130409-chipping-away-at-the-history-of-fish-and-chips#:~:text=Today%2C%20fish%20and%20chips,the%20modern%20English%20diet"
         ],
-        "checkedAt": "2026-11-19T13:13:24.493Z"
+        "checkedAt": "2026-11-19T11:50:57.171Z"
       }
     },
     {
       "category": "society_and_culture",
-      "id": "65056e867a97013de78b5301",
-      "correctAnswer": "Jesus",
+      "id": "622a1c367cc59eab6f950125",
+      "correctAnswer": "Pig",
       "incorrectAnswers": [
-        "Muhammad",
-        "Buddha",
-        "Moses"
+        "Rabbit",
+        "Cow",
+        "Horse"
       ],
       "question": {
-        "text": "Who did the Twelve Apostles follow?"
+        "text": "What animal's meat can a Muslim not eat?"
       },
       "tags": [
         "category:society-and-culture",
+        "category:food-and-drink",
+        "topic:islam",
         "topic:religion",
-        "topic:christianity",
-        "work:the-bible",
-        "person:religious-figures"
+        "food:meat"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "The New Testament Gospels describe them as close disciples of Christianity’s central figure.",
-      "explanation": "Jesus’s twelve apostles were among his closest disciples, and he sent them out to preach his teachings.",
+      "hint": "The same animal is also forbidden under Jewish kosher dietary law.",
+      "explanation": "Islamic dietary rules prohibit eating pigs and products derived from them.",
       "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-20T14:37:35.053Z"
+        "urls": [
+          "https://www.britannica.com/topic/Why-Cant-Muslims-Eat-Pork#:~:text=The%20Qur%CA%BE%C4%81n%20states%20that,be%20haram%20(expressly%20forbidden)"
+        ],
+        "checkedAt": "2026-11-18T15:43:40.767Z"
+      }
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "69a561a52858226c00dd2f7e",
+      "correctAnswer": "Candy",
+      "incorrectAnswers": [
+        "Wood",
+        "Stone",
+        "Leaves"
+      ],
+      "question": {
+        "text": "In 'Hansel and Gretel', what do the children find the witch's house is made of?"
+      },
+      "tags": [
+        "category:arts-and-literature",
+        "topic:fairy-tales",
+        "topic:literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The children are tempted to nibble its walls and roof.",
+      "explanation": "The house is made of candy, helping the witch lure the children inside.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Hansel_and_Gretel&oldid=1387245010#:~:text=the%20witch%20lures%20children,can%20then%20eat%20them"
+        ],
+        "checkedAt": "2026-11-24T00:00:02.460Z"
+      }
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe0d",
+      "correctAnswer": "Asia",
+      "incorrectAnswers": [
+        "Europe",
+        "Africa",
+        "North America"
+      ],
+      "question": {
+        "text": "Which is the Earth's largest continent?"
+      },
+      "tags": [
+        "category:geography",
+        "place:asia"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It contains the world's two most populous countries, China and India.",
+      "explanation": "Asia is home to more than half of the world's population and includes the Himalayas, the planet's highest mountain range.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Asia&oldid=1386025531#:~:text=Asia%20is%20the%20largest%20continent%20on%20Earth"
+        ],
+        "checkedAt": "2026-11-18T14:40:53.798Z"
+      }
+    },
+    {
+      "category": "general_knowledge",
+      "id": "65056df97a97013de78b523c",
+      "correctAnswer": "Uncle",
+      "incorrectAnswers": [
+        "Nephew",
+        "Brother-in-law",
+        "Grandfather"
+      ],
+      "question": {
+        "text": "Who is the brother of your mother?"
+      },
+      "tags": [
+        "category:general-knowledge",
+        "category:society-and-culture",
+        "topic:language",
+        "topic:words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The same family title applies to your father's brother, too.",
+      "explanation": "An uncle can be the brother of either parent; the term is also commonly used for an aunt's husband.",
+      "sources": {
+        "urls": [
+          "https://dictionary.cambridge.org/dictionary/english/uncle#:~:text=the%20brother%20of%20someone's,someone's%20aunt%20or%20uncle%3A"
+        ],
+        "checkedAt": "2026-11-20T14:36:51.054Z"
+      }
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951ae9",
+      "correctAnswer": "1066",
+      "incorrectAnswers": [
+        "1166",
+        "1215",
+        "1415"
+      ],
+      "question": {
+        "text": "In which year was the Battle of Hastings fought?"
+      },
+      "tags": [
+        "category:history",
+        "event:battles",
+        "event:norman-conquest",
+        "topic:military",
+        "topic:british-history",
+        "era:middle-ages",
+        "era:11th-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "William the Conqueror’s invasion of England culminated in this battle.",
+      "explanation": "William defeated King Harold II, and the Norman victory transformed England’s ruling class and language.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/event/Battle-of-Hastings#:~:text=Battle%20of%20Hastings%2C%20battle,the%20rulers%20of%20England"
+        ],
+        "checkedAt": "2026-11-19T00:33:24.701Z"
+      }
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6262881d4b176d54800e3d89",
+      "correctAnswer": "Energizer",
+      "incorrectAnswers": [
+        "Red Cross",
+        "IBM",
+        "FedEx"
+      ],
+      "question": {
+        "text": "'Keeps going and going and going' is a slogan associated with which brand?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "category:general-knowledge",
+        "org:brands",
+        "topic:advertising-and-slogans",
+        "topic:business"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its long-running commercials feature a pink drum-playing bunny powered by batteries.",
+      "explanation": "Energizer introduced its pink toy rabbit in 1989, parodying a rival battery maker’s bunny ads.",
+      "sources": {
+        "urls": [
+          "https://www.aaaa.org/blog/timeline-event/energizer-bunny-campaign-keeps-going-going-going/"
+        ],
+        "checkedAt": "2026-11-19T14:24:05.372Z"
+      }
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6262888a4b176d54800e3da4",
+      "correctAnswer": "Motorola",
+      "incorrectAnswers": [
+        "Sony",
+        "Samsung",
+        "Nokia"
+      ],
+      "question": {
+        "text": "'Hello Moto' is a slogan associated with which communications brand?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "category:general-knowledge",
+        "topic:advertising-and-slogans",
+        "topic:business",
+        "org:brands",
+        "org:companies",
+        "org:tech-companies"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The slogan uses a shortened form of the brand's name.",
+      "explanation": "Motorola's first major product was a car radio; the name combined “motor” and Victrola.",
+      "sources": {
+        "urls": [
+          "https://m.gsmarena.com/new_boot_animation_for_all_moto_devices-news-20790.php#:~:text=%E2%80%9CHello%20Moto%E2%80%9D%20was%20Motorola%E2%80%99s,the%20RAZR%20flip%20phone"
+        ],
+        "checkedAt": "2026-11-19T14:24:14.868Z"
+      }
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff0a",
+      "correctAnswer": "Madonna",
+      "incorrectAnswers": [
+        "Cyndi Lauper",
+        "Kylie Minogue",
+        "Whitney Houston"
+      ],
+      "question": {
+        "text": "Who sung 'Material Girl'?"
+      },
+      "tags": [
+        "category:music",
+        "music:madonna",
+        "music:pop"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The same pop star also had a major hit with “Like a Virgin.”",
+      "explanation": "Madonna’s video for “Material Girl” famously paid homage to Marilyn Monroe’s performance of “Diamonds Are a Girl’s Best Friend.”",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Material_Girl&oldid=1385666483#:~:text=%22%20Material%20Girl%20%22,Like%20a%20Virgin%20(1984)"
+        ],
+        "checkedAt": "2026-11-18T14:41:41.317Z"
+      }
+    },
+    {
+      "category": "society_and_culture",
+      "id": "626288af4b176d54800e3dae",
+      "correctAnswer": "Carlsberg",
+      "incorrectAnswers": [
+        "Heineken",
+        "Fosters",
+        "Budweiser"
+      ],
+      "question": {
+        "text": "'Probably the best lager in the world' is a slogan associated with which beer brand?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "category:general-knowledge",
+        "category:food-and-drink",
+        "topic:advertising-and-slogans",
+        "topic:business",
+        "food:drinks",
+        "food:alcoholic-drinks",
+        "food:beer"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its name combines founder J.C. Jacobsen’s son Carl with the Danish word for hill.",
+      "explanation": "Carlsberg was founded in Copenhagen in 1847 by brewer J.C. Jacobsen.",
+      "sources": {
+        "urls": [
+          "https://faroutmagazine.co.uk/bent-rej-carlsberg-road-trip#:~:text=In%201973%2C%20Carlsberg%2C%20Denmark%E2%80%99s,lager%20in%20the%20world.%E2%80%9D"
+        ],
+        "checkedAt": "2026-11-19T14:24:18.033Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "6505701e7a97013de78b5538",
+      "correctAnswer": "Chlamydia",
+      "incorrectAnswers": [
+        "Parkinson's",
+        "Thyroid cancer",
+        "Gastritis"
+      ],
+      "question": {
+        "text": "Which is an example of a sexually transmitted disease?"
+      },
+      "tags": [
+        "category:science",
+        "science:diseases",
+        "science:medicine",
+        "science:microbiology"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This bacterial infection can be present without noticeable symptoms, which is why screening matters.",
+      "explanation": "Chlamydia is caused by the bacterium Chlamydia trachomatis and is usually curable with antibiotics.",
+      "sources": {
+        "urls": [
+          "https://www.nhs.uk/conditions/chlamydia/#:~:text=Chlamydia%20is%20a%20sexually,(sex%20without%20a%20condom)"
+        ],
+        "checkedAt": "2026-11-20T16:28:21.666Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "65056eb57a97013de78b5343",
+      "correctAnswer": "In a cave",
+      "incorrectAnswers": [
+        "In a desert",
+        "In a forest",
+        "In the kitchen"
+      ],
+      "question": {
+        "text": "Where can we find stalactites?"
+      },
+      "tags": [
+        "category:science",
+        "science:earth-science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "They form where mineral-rich water drips from underground rock ceilings.",
+      "explanation": "Stalactites form on cave ceilings as minerals are deposited; stalagmites grow upward from cave floors.",
+      "sources": {
+        "urls": [
+          "https://nps.gov/subjects/caves/speleothems.htm#:~:text=Stalactites%20are%20the%20most,hanging%20from%20cave%20ceilings"
+        ],
+        "checkedAt": "2026-11-20T14:37:52.635Z"
+      }
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056e497a97013de78b52ad",
+      "correctAnswer": "India",
+      "incorrectAnswers": [
+        "United States",
+        "Pakistan",
+        "Australia"
+      ],
+      "question": {
+        "text": "Where is the film industry of Bollywood located?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "category:film-and-tv",
+        "category:geography",
+        "topic:indian-cinema",
+        "place:india",
+        "place:asia",
+        "place:south-asia"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Mumbai is the city most closely associated with this film industry.",
+      "explanation": "Bollywood is centered in Mumbai, whose former name, Bombay, helped inspire the name Bollywood.",
+      "sources": {
+        "urls": [
+          "https://britannica.com/topic/Bollywood-film-industry-India#:~:text=Bollywood%2C%20a%20portmanteau%20combining,an%20enormous%20film%20empire"
+        ],
+        "checkedAt": "2026-11-20T14:37:17.015Z"
       }
     }
   ]
