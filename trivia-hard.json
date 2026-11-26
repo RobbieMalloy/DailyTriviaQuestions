@@ -1,196 +1,607 @@
 {
-  "gameDate": "2026-11-25",
+  "gameDate": "2026-11-26",
   "difficulty": "hard",
   "results": [
     {
-      "category": "society_and_culture",
-      "id": "645c9f6b42ea81e2554c5f2c",
-      "correctAnswer": "Ash Wednesday",
+      "category": "history",
+      "id": "622a1c367cc59eab6f95033e",
+      "correctAnswer": "Henry VIII",
       "incorrectAnswers": [
-        "Palm Sunday",
-        "Good Friday",
-        "Easter Sunday"
+        "George I",
+        "Henry VI",
+        "Richard III"
       ],
       "question": {
-        "text": "On which day of the week does Lent begin?"
+        "text": "Who was the father of Elizabeth I?"
       },
       "tags": [
-        "category:society-and-culture",
-        "category:general-knowledge",
-        "event:easter",
-        "event:holidays-and-festivals",
-        "topic:christianity",
-        "topic:religion",
-        "topic:customs-and-traditions",
-        "topic:calendar-and-time"
+        "category:history",
+        "person:henry-viii",
+        "person:elizabeth-i",
+        "person:british-monarchs",
+        "person:monarchs",
+        "era:tudor-england",
+        "era:16th-century",
+        "topic:british-history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Many Christians receive a cross-shaped mark on their foreheads at a service that begins this season.",
-      "explanation": "Ash Wednesday is named for the ashes traditionally placed on worshippers’ foreheads, often made from palms blessed the previous year.",
+      "hint": "He was the Tudor monarch who broke with Rome and established the Church of England.",
+      "explanation": "Henry VIII and his second wife, Anne Boleyn, were Elizabeth I’s parents. Elizabeth later succeeded her half-sister Mary I.",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Ash_Wednesday&oldid=1369573734#:~:text=It%20is%20preceded%20by,the%20arrival%20of%20Easter"
+          "https://www.britannica.com/biography/Elizabeth-I"
         ],
-        "checkedAt": "2026-11-19T18:23:52.654Z"
+        "checkedAt": "2026-11-18T15:45:45.877Z"
+      }
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdac",
+      "correctAnswer": "Robert Bell",
+      "incorrectAnswers": [
+        "Mark DuPont",
+        "Lawrence Jones",
+        "Gary Helman"
+      ],
+      "question": {
+        "text": "What was the real name of Kool, of Kool and the Gang fame?"
+      },
+      "tags": [
+        "category:music",
+        "music:musicians",
+        "music:rnb-and-soul",
+        "topic:pseudonyms"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He was the band's bassist and a founding member, alongside his saxophonist brother.",
+      "explanation": "Robert Bell was the band's bassist and co-founder; his brother Ronald also helped start the group.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Robert_%22Kool%22_Bell&oldid=1373937463"
+        ],
+        "checkedAt": "2026-11-18T13:28:57.910Z"
       }
     },
     {
       "category": "geography",
-      "id": "623374c5460f87b3e0e71850",
-      "correctAnswer": "Sheltered harbor",
+      "id": "622a1c387cc59eab6f9508b3",
+      "correctAnswer": "Oman",
       "incorrectAnswers": [
-        "Bright Sun",
-        "Golden Shores",
-        "Trading Post"
+        "Qatar",
+        "Bahrain",
+        "Iran"
       ],
       "question": {
-        "text": "What is the meaning of \"Honolulu\"?"
+        "text": "Which of these countries borders United Arab Emirates?"
       },
       "tags": [
         "category:geography",
-        "category:society-and-culture",
-        "place:cities",
-        "place:hawaii",
-        "place:united-states",
-        "place:polynesia",
-        "place:oceania",
-        "place:north-america",
-        "place:americas",
-        "topic:language",
-        "topic:translations"
+        "topic:borders",
+        "place:united-arab-emirates",
+        "place:asia",
+        "place:middle-east",
+        "place:gulf-states"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "The Hawaiian name reflects the calm conditions boats find along Oahu's south coast.",
-      "explanation": "In Hawaiian, hono refers to a bay or harbor, while lulu means sheltered. The name describes Honolulu’s protected anchorage on Oʻahu.",
+      "hint": "Its capital, Muscat, lies on the southeastern side of the Arabian Peninsula.",
+      "explanation": "Oman shares a land border with the UAE. Qatar and Bahrain are separated from it by the Gulf, while Iran lies across the Persian Gulf.",
       "sources": {
         "urls": [
-          "https://manoa.hawaii.edu/about/honolulu#:~:text=Honolulu%2C%20which%20means%20sheltered,as%202%2C000%20years%20ago"
+          "https://www.britannica.com/place/Oman#:~:text=Oman%20shares%20borders%20with,Arabia%20to%20the%20west"
         ],
-        "checkedAt": "2026-11-19T08:11:06.259Z"
+        "checkedAt": "2026-11-18T17:00:51.942Z"
+      }
+    },
+    {
+      "category": "history",
+      "id": "62611fce4b176d54800e3d72",
+      "correctAnswer": "1976",
+      "incorrectAnswers": [
+        "1964",
+        "1990",
+        "2009"
+      ],
+      "question": {
+        "text": "In which year were the first photographs sent from Mars?"
+      },
+      "tags": [
+        "category:history",
+        "category:science",
+        "category:general-knowledge",
+        "era:1970s",
+        "era:20th-century",
+        "science:space-exploration",
+        "science:solar-system",
+        "science:astronomy"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "NASA's Viking 1 lander sent the first images from the Martian surface in the mid-1970s.",
+      "explanation": "Viking 1 landed on Mars in July 1976 and returned the first image taken from the planet’s surface.",
+      "sources": {
+        "urls": [
+          "https://science.nasa.gov/photojournal/first-photograph-taken-on-mars-surface/"
+        ],
+        "checkedAt": "2026-11-19T13:14:45.062Z"
       }
     },
     {
       "category": "science",
-      "id": "6242caf3d543524f1b19c8fd",
-      "correctAnswer": "A pace",
+      "id": "622a1c377cc59eab6f950523",
+      "correctAnswer": "parasitic worms",
       "incorrectAnswers": [
-        "A cast",
-        "A pride",
-        "A brace"
+        "plankton",
+        "primates",
+        "animal behaviour"
       ],
       "question": {
-        "text": "What is the word for a group of asses?"
+        "text": "What is Helminthology the study of?"
       },
       "tags": [
         "category:science",
         "animal:animals",
-        "animal:mammals",
-        "topic:animal-terminology",
-        "topic:language"
+        "animal:invertebrates",
+        "science:biology",
+        "topic:ologies-and-phobias"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "The same noun also has a familiar use in discussions of walking and running.",
-      "explanation": "A pace is a collective noun for asses; the word also refers to a step or walking speed.",
+      "hint": "The field concerns organisms such as tapeworms and flukes that live in hosts.",
+      "explanation": "Helminthology is a branch of parasitology; its subjects include tapeworms, flukes, and roundworms.",
       "sources": {
         "urls": [
-          "https://www.almanac.com/animal-group-names#:~:text=Donkey%20%7C%20A%20herd%20or%20pace%20of%20asses"
+          "https://en.wikipedia.org/w/index.php?title=Helminthology&oldid=1383021142#:~:text=Helminthology%2C%20from%20Ancient%20Greek,of%20parasitic%20worms%20(helminths)"
         ],
-        "checkedAt": "2026-11-19T11:49:34.845Z"
-      }
-    },
-    {
-      "category": "geography",
-      "id": "6233869d62eaad73716a8ce4",
-      "correctAnswer": "France and Spain",
-      "incorrectAnswers": [
-        "France and Portugal",
-        "Spain and Portugal",
-        "France and Italy"
-      ],
-      "question": {
-        "text": "Which two countries have coastlines on the Bay of Biscay?"
-      },
-      "tags": [
-        "category:geography",
-        "place:oceans-and-seas",
-        "place:france",
-        "place:spain",
-        "place:europe",
-        "place:western-europe",
-        "place:iberia",
-        "place:southern-europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The bay follows the Atlantic-facing shores on either side of the Pyrenees.",
-      "explanation": "France and Spain meet at the Pyrenees, whose western end reaches the Bay of Biscay. The bay is part of the Atlantic Ocean.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/place/Bay-of-Biscay"
-        ],
-        "checkedAt": "2026-11-19T08:46:17.207Z"
+        "checkedAt": "2026-11-18T16:59:20.673Z"
       }
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f93a",
-      "correctAnswer": "The Night of the Hunter",
+      "id": "64dd398a9cef2bd3a34add07",
+      "correctAnswer": "Brad Pitt",
       "incorrectAnswers": [
-        "Jaws",
-        "Fatal Attraction",
-        "The Wizard of Oz"
+        "Matt Damon",
+        "Tom Hanks",
+        "Leonardo DiCaprio"
       ],
       "question": {
-        "text": "Which film contains the character 'Rev. Harry Powell'?"
+        "text": "Who played Oakland A's general manager Billy Beane in the film 'Moneyball'?"
       },
       "tags": [
         "category:film-and-tv",
-        "topic:film",
-        "topic:fictional-characters",
-        "topic:classic-hollywood",
-        "topic:horror"
+        "person:actors",
+        "person:brad-pitt",
+        "topic:film"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Robert Mitchum plays a preacher whose knuckles bear the words LOVE and HATE.",
-      "explanation": "The Night of the Hunter was directed by actor Charles Laughton; it was his only feature film as a director.",
+      "hint": "He played Tyler Durden in Fight Club.",
+      "explanation": "Brad Pitt earned an Academy Award nomination for Best Actor for his portrayal of Billy Beane.",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=The_Night_of_the_Hunter_%28film%29&oldid=1384452943"
+          "https://britannica.com/biography/Billy-Beane#:~:text=He%20became%20a%20celebrity,Brad%20Pitt%20as%20Beane"
         ],
-        "checkedAt": "2026-11-18T08:39:58.140Z"
+        "checkedAt": "2026-11-20T14:35:27.064Z"
+      }
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f952",
+      "correctAnswer": "The Sound and the Fury",
+      "incorrectAnswers": [
+        "Blood Meridian",
+        "In Our Time",
+        "The End of the Affair"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Quentin Compson'?"
+      },
+      "tags": [
+        "category:arts-and-literature",
+        "topic:literature",
+        "topic:classic-literature",
+        "topic:american-literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The novel's title comes from a speech in a Shakespeare tragedy.",
+      "explanation": "Quentin Compson, the suicidal Harvard student, narrates the second section of William Faulkner's novel The Sound and the Fury.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/topic/The-Sound-and-the-Fury-novel-by-Faulkner/Introduction"
+        ],
+        "checkedAt": "2026-11-18T08:59:05.212Z"
+      }
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3c7cc59eab6f95191c",
+      "correctAnswer": "Cabbage Patch Kids",
+      "incorrectAnswers": [
+        "Pokemon Cards",
+        "Hula Hoops",
+        "Yo-Yos"
+      ],
+      "question": {
+        "text": "What toy was in short supply for the 1983 Chirstmas season?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "category:history",
+        "category:sport-and-leisure",
+        "topic:toys",
+        "topic:fads-and-crazes",
+        "era:1980s",
+        "era:20th-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "These soft-faced dolls came with adoption papers and unique names.",
+      "explanation": "Cabbage Patch Kids were created by Xavier Roberts and first marketed as Little People.",
+      "sources": {
+        "urls": [
+          "https://www.nytimes.com/1983/12/11/nyregion/cabbage-dolls-squeeze-is-on.html#:~:text=The%20demand%20for%20Cabbage,far%20exceeding%20the%20supply"
+        ],
+        "checkedAt": "2026-11-19T00:32:45.591Z"
+      }
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbf1",
+      "correctAnswer": "\"Carpe diem. Seize the day, boys. Make your lives extraordinary.\"",
+      "incorrectAnswers": [
+        "\"Listen to them. Children of the night. What music they make.\"",
+        "\"Very nice!\"",
+        "\"I'll have what she's having.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Dead Poets Society'?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "category:society-and-culture",
+        "topic:film-quotes",
+        "topic:film"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Robin Williams plays an unconventional English teacher who inspires students at a strict boarding school.",
+      "explanation": "Robin Williams's teacher John Keating says this line in the 1989 film Dead Poets Society.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=AFI%27s_100_Years...100_Movie_Quotes&oldid=1380096438"
+        ],
+        "checkedAt": "2026-11-18T13:25:51.467Z"
+      }
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "623387560161109f922aac1a",
+      "correctAnswer": "Korea",
+      "incorrectAnswers": [
+        "Japan",
+        "China",
+        "Russia"
+      ],
+      "question": {
+        "text": "Which country developed Tae-Kwan-Do?"
+      },
+      "tags": [
+        "category:sport-and-leisure",
+        "category:geography",
+        "sport:combat-sports",
+        "sport:sports",
+        "place:south-korea",
+        "place:asia",
+        "place:east-asia"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its name combines terms for foot, fist, and a disciplined path in the language of the peninsula where it began.",
+      "explanation": "Korea developed Tae-Kwan-Do; its name is commonly translated as “the way of the foot and fist.”",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/sports/tae-kwon-do#:~:text=tae%20kwon%20do%2C%20Korean,kyon%20and%20on%20karate"
+        ],
+        "checkedAt": "2026-11-19T08:46:21.225Z"
+      }
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e95",
+      "correctAnswer": "Robert E. Howard",
+      "incorrectAnswers": [
+        "Nathaniel Hawthorne",
+        "Henryk Sienkiewicz",
+        "Ivan Turgenev"
+      ],
+      "question": {
+        "text": "Which author wrote 'Conan canonical works'?"
+      },
+      "tags": [
+        "category:arts-and-literature",
+        "person:authors",
+        "topic:literature",
+        "topic:fantasy"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The Texas pulp writer also created Solomon Kane and Kull.",
+      "explanation": "Robert E. Howard introduced Conan in “The Phoenix on the Sword,” published in the pulp magazine Weird Tales in 1932.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/topic/Conan-the-Barbarian-fictional-character"
+        ],
+        "checkedAt": "2026-11-18T22:26:45.639Z"
+      }
+    },
+    {
+      "category": "history",
+      "id": "6396edc26017b1e8e09020d1",
+      "correctAnswer": "Sir Rowland Hill",
+      "incorrectAnswers": [
+        "Sir Alan Sugar",
+        "Sir Thomas Moore",
+        "Sir Richard Stamp"
+      ],
+      "question": {
+        "text": "Who invented the postage stamp, and is seen as the inventor of the modern postal system?"
+      },
+      "tags": [
+        "category:history",
+        "category:science",
+        "person:inventors",
+        "science:inventions"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "His postal reforms led to Britain’s Penny Black, the world’s first adhesive postage stamp.",
+      "explanation": "Sir Rowland Hill campaigned for uniform penny postage paid by the sender, helping make mail simpler and more affordable.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-19T16:23:03.290Z"
+      }
+    },
+    {
+      "category": "history",
+      "id": "63d9530f168979b94b2e4f8b",
+      "correctAnswer": "Liaquat Ali Khan",
+      "incorrectAnswers": [
+        "Benazir Bhutto",
+        "Nawaz Sharif",
+        "Zulfikar Ali Bhutto"
+      ],
+      "question": {
+        "text": "Who was the first Prime Minister of Pakistan?"
+      },
+      "tags": [
+        "category:history",
+        "category:society-and-culture",
+        "person:world-leaders",
+        "place:pakistan",
+        "place:asia",
+        "place:south-asia",
+        "topic:politics"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Pakistan's founding leader Muhammad Ali Jinnah was governor-general, while his close associate led the first government.",
+      "explanation": "Liaquat Ali Khan was assassinated in Rawalpindi in 1951 while addressing a public meeting.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/biography/Liaquat-Ali-Khan#:~:text=Muslim%20leader%20Liaquat%20Ali,from%201947%20to%201951"
+        ],
+        "checkedAt": "2026-11-19T16:25:14.980Z"
       }
     },
     {
       "category": "geography",
-      "id": "625e9ed7796f721e95543f70",
-      "correctAnswer": "Green",
+      "id": "623b57f7fd6c701a9211838d",
+      "correctAnswer": "New Zealand",
       "incorrectAnswers": [
-        "Orange",
-        "Black",
-        "Gold"
+        "Cambodia",
+        "Italy",
+        "Tanzania"
       ],
       "question": {
-        "text": "Which of these colors would you find on the flag of Hungary?"
+        "text": "In which country would you find the Tongariro National Park?"
       },
       "tags": [
         "category:geography",
-        "topic:flags",
-        "topic:national-symbols",
-        "place:hungary",
+        "place:new-zealand",
+        "place:oceania",
+        "place:australasia",
+        "place:national-parks"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It is a southwestern Pacific nation made up mainly of the North and South Islands.",
+      "explanation": "Tongariro was the first national park established in New Zealand, in 1887.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/place/Tongariro-National-Park#:~:text=Tongariro%20National%20Park%20is,part%20of%20North%20Island",
+          "https://en.wikipedia.org/w/index.php?title=Tongariro_National_Park&oldid=1378443620"
+        ],
+        "checkedAt": "2026-11-19T10:32:53.255Z"
+      }
+    },
+    {
+      "category": "food_and_drink",
+      "id": "646089a9de964ebc39016c66",
+      "correctAnswer": "Soda water",
+      "incorrectAnswers": [
+        "Cola",
+        "Lemonade",
+        "Sprite"
+      ],
+      "question": {
+        "text": "What type of carbonated drink is typically added to a gin fizz?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "food:drinks",
+        "food:cocktails"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It adds fizz without making the cocktail taste like a sweet, flavored soft drink.",
+      "explanation": "Soda water adds fizz without the sweetness or flavoring found in many soft drinks. A classic gin fizz also includes gin, citrus juice, and sugar.",
+      "sources": {
+        "urls": [
+          "https://www.spiritsanddistilling.com/dictionary/acref-9780199311132-e-327"
+        ],
+        "checkedAt": "2026-11-19T18:25:20.501Z"
+      }
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c367cc59eab6f9503e1",
+      "correctAnswer": "Gum resin",
+      "incorrectAnswers": [
+        "Herb",
+        "Incense",
+        "Precious Metal"
+      ],
+      "question": {
+        "text": "What is Myrrh?"
+      },
+      "tags": [
+        "category:general-knowledge",
+        "category:science",
+        "science:botany"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It is a fragrant material that oozes from the bark of certain Commiphora trees.",
+      "explanation": "Myrrh is an aromatic tree secretion used in perfumes and incense; it is also traditionally named among the gifts of the Magi.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/topic/myrrh#:~:text=myrrh%2C%20(from%20Arabic%20murr%2C,of%20the%20genus%20Commiphora"
+        ],
+        "checkedAt": "2026-11-18T16:58:20.473Z"
+      }
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951adb",
+      "correctAnswer": "Norway",
+      "incorrectAnswers": [
+        "Denmark",
+        "Sweden",
+        "Finland"
+      ],
+      "question": {
+        "text": "London's Trafalgar Square Christmas tree is traditionally given by which country?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "category:geography",
+        "event:christmas",
+        "event:holidays-and-festivals",
+        "topic:customs-and-traditions",
+        "place:london",
+        "place:england",
+        "place:united-kingdom",
+        "place:europe",
+        "place:british-isles",
+        "place:landmarks",
+        "place:norway",
+        "place:nordic-countries"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The annual gift commemorates Britain's support for this country during World War II.",
+      "explanation": "Norway has sent the tree to London each year since 1947, honoring Britain’s support during World War II.",
+      "sources": {
+        "urls": [
+          "https://www.westminster.gov.uk/news/trafalgar-square-christmas-tree-continues-promote-friendship-and-peace"
+        ],
+        "checkedAt": "2026-11-19T00:33:23.996Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "650570157a97013de78b552c",
+      "correctAnswer": "Birds",
+      "incorrectAnswers": [
+        "Snakes",
+        "Mammals",
+        "Fish"
+      ],
+      "question": {
+        "text": "What are budgerigars?"
+      },
+      "tags": [
+        "category:science",
+        "animal:birds",
+        "animal:animals"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "These small Australian pets are often called budgies.",
+      "explanation": "Budgerigars are small parrots native to Australia; “budgie” is a shortened form of their name.",
+      "sources": {
+        "urls": [
+          "https://www.audubon.org/field-guide/bird/budgerigar#:~:text=The%20Budgerigar%20is%20a,head%2C%20very%20small%20bill"
+        ],
+        "checkedAt": "2026-11-20T16:28:18.816Z"
+      }
+    },
+    {
+      "category": "geography",
+      "id": "623735b3cfe13103f55eb55c",
+      "correctAnswer": "Poland",
+      "incorrectAnswers": [
+        "Palau",
+        "Palestine",
+        "Portugal"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.pl' at the end of its web addresses?"
+      },
+      "tags": [
+        "category:geography",
+        "topic:country-codes",
+        "place:poland",
         "place:europe",
         "place:central-europe"
       ],
@@ -198,26 +609,250 @@
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Hungary's horizontal tricolor ends with the hue commonly associated with leaves.",
-      "explanation": "Hungary's flag has three horizontal bands: red, white, and green.",
+      "hint": "Its capital is Warsaw, and it lies between Germany and Belarus.",
+      "explanation": "Poland's internet country code is .pl. (IANA ccTLD list)",
       "sources": {
         "urls": [
-          "https://www.britannica.com/topic/flag-of-Hungary#:~:text=The%20white%20is%20said,in%20its%20many%20battles"
+          "https://en.wikipedia.org/w/index.php?title=.pl&oldid=1372877640#:~:text=.pl%20is%20the%20Internet,research%20and%20development%20organization"
         ],
-        "checkedAt": "2026-11-19T13:13:24.160Z"
+        "checkedAt": "2026-11-19T08:46:39.576Z"
+      }
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fec2",
+      "correctAnswer": "Kate Bush",
+      "incorrectAnswers": [
+        "David Bowie",
+        "John Lennon",
+        "George Michael"
+      ],
+      "question": {
+        "text": "Which British recording artist, singer, songwriter, musician and record producer released the studio album 'The Red Shoes'?"
+      },
+      "tags": [
+        "category:music",
+        "music:musicians",
+        "music:albums",
+        "music:pop"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Her breakthrough single was inspired by Emily Brontë's novel about Cathy and Heathcliff.",
+      "explanation": "Kate Bush wrote and produced The Red Shoes, which includes the singles “Rubberband Girl” and “Moments of Pleasure.”",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Kate_Bush&oldid=1386099955#:~:text=Bush's%20seventh%20studio%20album%2C,released%20in%20November%201993"
+        ],
+        "checkedAt": "2026-11-18T14:41:31.819Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "64e6536e0b79e5bedd54950d",
+      "correctAnswer": "Novocaine",
+      "incorrectAnswers": [
+        "Lidocaine",
+        "Cocaine",
+        "Morphine"
+      ],
+      "question": {
+        "text": "In 1905, German chemist Alfred Einhorn synthesised which local anesthetic, later widely used in dentistry?"
+      },
+      "tags": [
+        "category:science",
+        "category:history",
+        "science:chemistry",
+        "science:chemical-compounds",
+        "science:medicine",
+        "science:drugs-and-medicines",
+        "era:1900s",
+        "era:20th-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Dentists used its brand name.",
+      "explanation": "Alfred Einhorn synthesised procaine in 1905, marketed as Novocain, a safer local anesthetic than cocaine.",
+      "sources": {
+        "urls": [
+          "https://invent.org/inductees/alfred-einhorn#:~:text=German%20chemist%20Alfred%20Einhorn,recognized%20dental%20anesthetic%20Novocain",
+          "https://www.woodlibrarymuseum.org/museum/novocain/#:~:text=Procaine%20was%20first%20made,a%20German%20born%20chemist"
+        ],
+        "checkedAt": "2026-11-20T14:35:38.306Z"
+      }
+    },
+    {
+      "category": "food_and_drink",
+      "id": "625006d50d86c8f685d80f00",
+      "correctAnswer": "Orzo",
+      "incorrectAnswers": [
+        "Pastina",
+        "Strozzapreti",
+        "Bavette"
+      ],
+      "question": {
+        "text": "Which pasta's name means 'Barley'?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "food:pasta",
+        "food:italian-cuisine",
+        "topic:language",
+        "topic:italian-language",
+        "topic:translations"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This rice-shaped pasta is named for a grain often used in brewing beer.",
+      "explanation": "Orzo is a rice-shaped pasta often used in soups, salads, and pilafs; its name comes from the Italian word for barley.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Orzo&oldid=1380652761#:~:text=The%20name%20orzo%20is,word%20usually%20means%20'barley'"
+        ],
+        "checkedAt": "2026-11-19T11:51:33.980Z"
+      }
+    },
+    {
+      "category": "geography",
+      "id": "623b57fafd6c701a9211838e",
+      "correctAnswer": "Yemen",
+      "incorrectAnswers": [
+        "France",
+        "Australia",
+        "Turkey"
+      ],
+      "question": {
+        "text": "In which country would you find the Socotra Archipelago?"
+      },
+      "tags": [
+        "category:geography",
+        "place:asia",
+        "place:middle-east",
+        "place:indian-ocean-islands",
+        "place:islands"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The islands lie in the Arabian Sea, off the southern coast of the Arabian Peninsula.",
+      "explanation": "Yemen’s Socotra is famed for its unusual dragon’s blood trees and many species found nowhere else.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/place/Socotra#:~:text=Socotra%2C%20island%20in%20the,to%20which%20it%20belongs"
+        ],
+        "checkedAt": "2026-11-19T10:32:53.590Z"
+      }
+    },
+    {
+      "category": "geography",
+      "id": "62373603cfe13103f55eb592",
+      "correctAnswer": "United States Virgin Islands",
+      "incorrectAnswers": [
+        "Bolivia",
+        "Latvia",
+        "Venezuela"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.vi' at the end of its web addresses?"
+      },
+      "tags": [
+        "category:geography",
+        "topic:country-codes",
+        "place:north-america",
+        "place:americas",
+        "place:caribbean"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "This Caribbean island territory lies east of Puerto Rico.",
+      "explanation": "The United States Virgin Islands are a Caribbean territory made up chiefly of St. Thomas, St. John, and St. Croix.",
+      "sources": {
+        "urls": [
+          "https://secure.nic.vi/index.php/knowledgebase/4/FAQ.html#:~:text=The%20.VI%20domain%20is,United%20States%20Virgin%20Islands"
+        ],
+        "checkedAt": "2026-11-19T08:46:49.610Z"
       }
     },
     {
       "category": "film_and_tv",
-      "id": "625741223d2f5c16bfb88341",
-      "correctAnswer": "La Haine",
+      "id": "622a1c347cc59eab6f94f93d",
+      "correctAnswer": "Say Anything...",
       "incorrectAnswers": [
-        "The Lives of Others",
-        "The Big Lebowski",
-        "Three Billboards Outside Ebbing, Missouri"
+        "The Adventures of Robin Hood",
+        "The Silence of the Lambs",
+        "The Treasure of the Sierra Madre"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: '24 hours in the lives of three young men the day after a violent riot.'"
+        "text": "Which film contains the character 'Lloyd Dobler'?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "topic:fictional-characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "John Cusack plays him in a romantic comedy remembered for a boombox held aloft outside a bedroom window.",
+      "explanation": "Say Anything... stars John Cusack as Lloyd Dobler, whose boombox serenade became one of the film’s most iconic scenes.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/topic/Say-Anything#:~:text=was%20in%20the%201989,the%2022%2Dyear%2Dold%20Lloyd%20Dobler"
+        ],
+        "checkedAt": "2026-11-18T08:39:58.809Z"
+      }
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950702",
+      "correctAnswer": "Sandra Bullock",
+      "incorrectAnswers": [
+        "Charlize Theron",
+        "Emma Thompson",
+        "Maggie Smith"
+      ],
+      "question": {
+        "text": "Which actress has starred in films including Gravity and Crash?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "person:actors",
+        "topic:film"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false,
+      "hint": "She played an undercover FBI agent in the comedy Miss Congeniality.",
+      "explanation": "Sandra Bullock won the Academy Award for Best Actress for The Blind Side.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Sandra_Bullock&oldid=1386015027"
+        ],
+        "checkedAt": "2026-11-18T17:00:16.532Z"
+      }
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6257411f3d2f5c16bfb88340",
+      "correctAnswer": "A young boy, left without attention, delves into a life of petty crime.",
+      "incorrectAnswers": [
+        "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat.",
+        "The final secretary for Adolf Hitler tells of the Nazi dictator's final days.",
+        "An aspiring musician enters the Land of the Dead to find his great-great-grandfather."
+      ],
+      "question": {
+        "text": "What is the plot of the movie The 400 Blows?"
       },
       "tags": [
         "category:film-and-tv",
@@ -229,459 +864,85 @@
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "French filmmaker Mathieu Kassovitz directed the film and also plays one of its three central friends.",
-      "explanation": "La Haine won Mathieu Kassovitz the Best Director award at the 1995 Cannes Film Festival.",
+      "hint": "François Truffaut drew partly on his own unhappy childhood when creating the film’s central character.",
+      "explanation": "The 400 Blows follows a neglected schoolboy whose misbehavior leads to petty crime. François Truffaut drew on his own childhood experiences, and the film introduced Antoine Doinel, who returned in later films.",
       "sources": {
         "urls": [],
-        "checkedAt": "2026-11-19T13:13:09.492Z"
-      }
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd26",
-      "correctAnswer": "Socrates",
-      "incorrectAnswers": [
-        "Thomas Hobbes",
-        "Jean-Paul Sartre",
-        "Ludwig Wittgenstein"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'There is only one good, knowledge, and one evil, ignorance'?"
-      },
-      "tags": [
-        "category:society-and-culture",
-        "category:history",
-        "topic:philosophy",
-        "person:philosophers",
-        "topic:famous-quotes",
-        "era:ancient-greece",
-        "era:ancient-world"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The ancient Athenian philosopher who taught Plato was sentenced to die by drinking hemlock.",
-      "explanation": "Socrates left no writings of his own; much of what is known about his ideas comes from accounts by Plato and Xenophon.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-18T13:26:49.110Z"
+        "checkedAt": "2026-11-19T13:13:09.159Z"
       }
     },
     {
       "category": "geography",
-      "id": "6237411acb85f7ce9e949d43",
-      "correctAnswer": "Lesotho",
+      "id": "6237417acb85f7ce9e949d6a",
+      "correctAnswer": "Ulaanbaatar",
       "incorrectAnswers": [
-        "Denmark",
-        "Solomon Islands",
-        "Mozambique"
+        "Skopje",
+        "Gitega",
+        "Niamey"
       ],
       "question": {
-        "text": "Maseru is the capital city of which country?"
+        "text": "What is the capital city of Mongolia?"
       },
       "tags": [
         "category:geography",
         "place:capital-cities",
-        "place:africa",
-        "place:southern-africa",
-        "place:sub-saharan-africa"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This small, mountainous country is completely surrounded by South Africa.",
-      "explanation": "Lesotho is a mountainous kingdom completely enclosed by South Africa, making it one of the world's few enclave countries.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/place/Maseru#:~:text=Maseru%2C%20capital%20and%20largest%20urban%20centre%20of%20Lesotho"
-        ],
-        "checkedAt": "2026-11-19T09:16:54.233Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb1d",
-      "correctAnswer": "Meryl Streep",
-      "incorrectAnswers": [
-        "Julie Andrews",
-        "Jessica Lange",
-        "Sissy Spacek"
-      ],
-      "question": {
-        "text": "Who won the Academy Award for Best Actress for playing Sophie in Sophie's Choice?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "category:society-and-culture",
-        "event:academy-awards",
-        "topic:awards-and-honours",
-        "topic:film",
-        "person:meryl-streep"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Nominees in the same category included Julie Andrews and Jessica Lange.",
-      "explanation": "Meryl Streep won the Academy Award for Best Actress for playing Sophie in Sophie's Choice, at the 55th Academy Awards held in 1983.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/biography/Meryl-Streep"
-        ],
-        "checkedAt": "2026-11-18T10:16:41.519Z"
-      }
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e66",
-      "correctAnswer": "Henryk Sienkiewicz",
-      "incorrectAnswers": [
-        "Leo Tolstoy",
-        "Ivan Turgenev",
-        "Charles Dickens"
-      ],
-      "question": {
-        "text": "Which author wrote 'Quo Vadis'?"
-      },
-      "tags": [
-        "category:arts-and-literature",
-        "topic:literature",
-        "topic:classic-literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This Polish novelist won the Nobel Prize in Literature in 1905.",
-      "explanation": "Henryk Sienkiewicz's novel is set in ancient Rome during the reign of Emperor Nero.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/topic/Quo-Vadis-novel#:~:text=Quo%20Vadis%3F%2C%20historical%20novel,Latin%20title%20in%201896"
-        ],
-        "checkedAt": "2026-11-18T18:11:18.707Z"
-      }
-    },
-    {
-      "category": "music",
-      "id": "6250648ce12f6dec240bdfbb",
-      "correctAnswer": "How Bizarre",
-      "incorrectAnswers": [
-        "Kung Fu Fighting",
-        "Convoy",
-        "Hot Child in the City"
-      ],
-      "question": {
-        "text": "What song did OMC have a hit with in 1997?"
-      },
-      "tags": [
-        "category:music",
-        "music:musicians",
-        "music:charts",
-        "music:one-hit-wonders",
-        "music:pop",
-        "era:1990s",
-        "era:20th-century"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its chorus opens with the repeated observation that wherever the singer looks, something is in his face.",
-      "explanation": "How Bizarre was OMC’s international breakthrough. OMC stands for Ōtara Millionaires Club, a name linked to a suburb of Auckland, New Zealand.",
-      "sources": {
-        "urls": [
-          "https://www.nzhistory.govt.nz/media/video/how-bizzare#:~:text='One%2Dhit%20wonder%E2%80%99%2C%20%E2%80%98rags%20to,record%20of%20all%20time"
-        ],
-        "checkedAt": "2026-11-19T11:51:59.284Z"
-      }
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3a7cc59eab6f951050",
-      "correctAnswer": "An egg laying mammal",
-      "incorrectAnswers": [
-        "A single sailed boat",
-        "A form of colour blindness",
-        "A stringed instrument"
-      ],
-      "question": {
-        "text": "What is a monotreme?"
-      },
-      "tags": [
-        "category:general-knowledge",
-        "category:science",
-        "animal:animals",
-        "animal:mammals",
-        "animal:taxonomy",
-        "science:biology"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The platypus and echidna are its best-known examples, and both reproduce in an unusual way.",
-      "explanation": "Monotremes include the platypus and echidnas; unlike most mammals, they lay eggs.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/animal/monotreme#:~:text=Monotremes%20are%20an%20ancient,birth%20to%20live%20young"
-        ],
-        "checkedAt": "2026-11-18T22:28:35.755Z"
-      }
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa5e",
-      "correctAnswer": "Dutch and Flemish Renaissance",
-      "incorrectAnswers": [
-        "post-impressionism",
-        "Mannerism",
-        "Modernism"
-      ],
-      "question": {
-        "text": "The painting \"Landscape with the Fall of Icarus\" by Pieter Bruegel the Elder is a part of which art movement?"
-      },
-      "tags": [
-        "category:arts-and-literature",
-        "topic:art",
-        "topic:painting",
-        "topic:art-movements",
-        "topic:renaissance-art",
-        "era:renaissance",
-        "person:artists"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Bruegel worked in the Low Countries during the 16th century, north of the Alps.",
-      "explanation": "Bruegel was a leading painter of the Northern Renaissance, which adapted Renaissance ideas in the Low Countries.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Landscape_with_the_Fall_of_Icarus&oldid=1381247809#:~:text=It%20was%20long%20thought,Pieter%20Bruegel%20the%20Elder"
-        ],
-        "checkedAt": "2026-11-18T09:21:40.039Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "64b9a297fa11352f5124c35e",
-      "correctAnswer": "Kansas",
-      "incorrectAnswers": [
-        "Iowa",
-        "Ohio",
-        "Nebraska"
-      ],
-      "question": {
-        "text": "In which US state is the fictional hometown of Superman?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "category:arts-and-literature",
-        "category:geography",
-        "work:superman",
-        "work:dc-comics",
-        "topic:superheroes",
-        "topic:fictional-places",
-        "place:us-states",
-        "place:united-states",
-        "place:north-america",
-        "place:americas",
-        "place:great-plains",
-        "place:midwest"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Smallville is portrayed as a wheat-growing town on the Great Plains.",
-      "explanation": "Kansas is the setting for Smallville, where Clark Kent grows up on the Kents’ farm before becoming Superman.",
-      "sources": {
-        "urls": [
-          "https://www.dccomics.com/characters/superman#:~:text=The%20last%20survivor%20of,heroism%2C%20compassion%20and%20responsibility"
-        ],
-        "checkedAt": "2026-11-20T14:35:11.955Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8c1",
-      "correctAnswer": "Sean Penn",
-      "incorrectAnswers": [
-        "James Stewart",
-        "Johnny Depp",
-        "Arnold Schwarzenegger"
-      ],
-      "question": {
-        "text": "Which actor played the role of Jeff Spicoli in Fast Times at Ridgemont High?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "topic:film",
-        "topic:comedy",
-        "person:actors"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This actor later won Academy Awards for Mystic River and Milk.",
-      "explanation": "Sean Penn later won Academy Awards for Best Actor for Mystic River and Milk.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/biography/Sean-Penn#:~:text=Well%2Dreceived%20performances%20in%20the,at%20Ridgemont%20High%20(1982)"
-        ],
-        "checkedAt": "2026-11-18T08:00:58.121Z"
-      }
-    },
-    {
-      "category": "geography",
-      "id": "62373fdfcb85f7ce9e949cc4",
-      "correctAnswer": "Phnom Penh",
-      "incorrectAnswers": [
-        "Dhaka",
-        "Luanda",
-        "Apia"
-      ],
-      "question": {
-        "text": "What is the capital city of Cambodia?"
-      },
-      "tags": [
-        "category:geography",
-        "place:capital-cities",
+        "place:mongolia",
         "place:asia",
-        "place:southeast-asia"
+        "place:east-asia"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "It lies near the meeting of the Mekong and Tonlé Sap rivers.",
-      "explanation": "Phnom Penh lies at a major river junction, where the Mekong and Tonlé Sap meet near the Bassac River.",
+      "hint": "It is Mongolia’s largest city and lies along the Tuul River.",
+      "explanation": "Ulaanbaatar means “Red Hero” in Mongolian; the city began as a nomadic monastic center before settling at its present site.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/place/Phnom-Penh#:~:text=Phnom%20Penh%2C%20capital%20and%20chief%20city%20of%20Cambodia"
+          "https://www.britannica.com/place/Ulaanbaatar#:~:text=Ulaanbaatar%2C%20capital%20and%20largest%20city%20of%20Mongolia"
         ],
-        "checkedAt": "2026-11-19T08:46:59.967Z"
+        "checkedAt": "2026-11-19T09:17:00.090Z"
       }
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e55",
-      "correctAnswer": "Washington Irving",
+      "category": "geography",
+      "id": "622a1c377cc59eab6f9507e7",
+      "correctAnswer": "North America",
       "incorrectAnswers": [
-        "Suzanne Collins",
-        "James Fenimore Cooper",
-        "Donna Leon"
+        "South America",
+        "Oceania",
+        "Europe"
       ],
       "question": {
-        "text": "Which author wrote 'Le Livre d’esquisses'?"
+        "text": "The country of Saint Kitts and Nevis is on which continent?"
       },
       "tags": [
-        "category:arts-and-literature",
-        "topic:literature",
-        "person:authors",
-        "topic:american-literature",
-        "topic:classic-literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The author also wrote “Rip Van Winkle” and “The Legend of Sleepy Hollow.”",
-      "explanation": "Washington Irving's The Sketch Book includes both “Rip Van Winkle” and “The Legend of Sleepy Hollow.”",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-18T18:11:14.587Z"
-      }
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c606950d1a5e051325a59",
-      "correctAnswer": "Gallo Pinto",
-      "incorrectAnswers": [
-        "Polenta",
-        "Taco",
-        "Ropa Vieja"
-      ],
-      "question": {
-        "text": "Which of these dishes would you most expect to find in Costa Rica?"
-      },
-      "tags": [
-        "category:food-and-drink",
         "category:geography",
-        "food:world-cuisine",
-        "place:costa-rica",
         "place:north-america",
         "place:americas",
-        "place:latin-america",
-        "place:central-america"
+        "place:caribbean"
       ],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "This Central American country is known for a breakfast dish made with rice and beans.",
-      "explanation": "Gallo Pinto means “spotted rooster,” a name inspired by the speckled look of rice mixed with beans.",
+      "hint": "Its islands lie in the Caribbean, within the Lesser Antilles.",
+      "explanation": "Saint Kitts and Nevis lies in the Caribbean, whose islands are generally considered part of North America.",
       "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Gallo_pinto&oldid=1373500410#:~:text=Consisting%20of%20rice%20and,it%20a%20national%20dish"
-        ],
-        "checkedAt": "2026-11-19T11:50:56.157Z"
-      }
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3e7cc59eab6f952225",
-      "correctAnswer": "1945",
-      "incorrectAnswers": [
-        "1935",
-        "1955",
-        "1965"
-      ],
-      "question": {
-        "text": "In which year did civilian production of the Volkswagen Beetle begin at Wolfsburg after the Second World War?"
-      },
-      "tags": [
-        "category:history",
-        "category:society-and-culture",
-        "event:world-war-ii",
-        "era:1940s",
-        "era:20th-century",
-        "topic:cars-and-motoring",
-        "topic:business",
-        "org:companies",
-        "place:cities",
-        "place:germany",
-        "place:europe",
-        "place:central-europe",
-        "place:western-europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It was months after VE Day.",
-      "explanation": "Under British Major Ivan Hirst, series production restarted just after Christmas 1945.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Volkswagen_Beetle&oldid=1386161832"
-        ],
-        "checkedAt": "2026-11-19T08:10:30.145Z"
+        "urls": [],
+        "checkedAt": "2026-11-18T17:00:35.793Z"
       }
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fd9d",
-      "correctAnswer": "Smile",
+      "id": "622a1c397cc59eab6f950c0c",
+      "correctAnswer": "Muse",
       "incorrectAnswers": [
-        "Grin",
-        "Laugh",
-        "Cry"
+        "Tears for Fears",
+        "Bullet For My Valentine",
+        "Enter Shikari"
       ],
       "question": {
-        "text": "Which legendary Beach boys album was never completed?"
+        "text": "Which English rock band released the album 'The Resistance'?"
       },
       "tags": [
         "category:music",
@@ -693,314 +954,11 @@
       "difficulty": "hard",
       "regions": [],
       "isNiche": false,
-      "hint": "Brian Wilson's ambitious follow-up to Pet Sounds was abandoned during the band's 1960s sessions.",
-      "explanation": "Smile was planned as a follow-up to Pet Sounds. Brian Wilson later completed and released his own version in 2004.",
-      "sources": {
-        "urls": [
-          "https://cbsnews.com/news/beach-boys-fabled-work-smile-finally-released#:~:text=After%2044%20years%2C%20The,roll%20album%20in%20history"
-        ],
-        "checkedAt": "2026-11-18T13:28:53.587Z"
-      }
-    },
-    {
-      "category": "food_and_drink",
-      "id": "645ba87ff09106226db2357e",
-      "correctAnswer": "Okara",
-      "incorrectAnswers": [
-        "Soy milk",
-        "Miso Soup",
-        "Nattō"
-      ],
-      "question": {
-        "text": "What is the name of the pulpy leftover when tofu is made from soybeans?"
-      },
-      "tags": [
-        "category:food-and-drink",
-        "food:vegetables",
-        "food:nuts-seeds-and-grains"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "In Japanese cuisine, this soybean byproduct is often simmered with vegetables as a side dish.",
-      "explanation": "Okara is the pulp left after mashed soybeans are strained to make soy milk. In Japan, it is commonly cooked with vegetables as unohana.",
-      "sources": {
-        "urls": [
-          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10345676#:~:text=Okara%20is%20an%20insoluble,tofu%2C%20and%20soy%E2%80%90nuts%20processing"
-        ],
-        "checkedAt": "2026-11-19T18:23:25.320Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "6aacd6ba6c95af194f14a9a3",
-      "correctAnswer": "Howard Florey",
-      "incorrectAnswers": [
-        "Alexander Fleming",
-        "Louis Pasteur",
-        "Robert Koch"
-      ],
-      "question": {
-        "text": "Which scientist led the Oxford team that turned penicillin into a usable medicine?"
-      },
-      "tags": [
-        "category:science",
-        "category:history",
-        "science:medicine",
-        "science:drugs-and-medicines",
-        "person:scientists"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The Adelaide-born pathologist later served as president of the Royal Society.",
-      "explanation": "Howard Florey shared the 1945 Nobel Prize in Physiology or Medicine with Alexander Fleming and Ernst Chain for their work on penicillin.",
-      "sources": {
-        "urls": [
-          "https://britannica.com/story/guns-not-roses--heres-the-true-story-of-penicillins-firstpatient#:~:text=A%20decade%20later%2C%20a,testing%20its%20antimicrobial%20properties"
-        ],
-        "checkedAt": "2026-11-24T19:13:13.308Z"
-      }
-    },
-    {
-      "category": "food_and_drink",
-      "id": "646140784d46e537ca8cd9c6",
-      "correctAnswer": "Poi",
-      "incorrectAnswers": [
-        "Lomi-lomi",
-        "Huli-huli",
-        "Kalua"
-      ],
-      "question": {
-        "text": "What traditional Hawaiian dish is made by pounding cooked taro root into a paste and is traditionally eaten with fingers?"
-      },
-      "tags": [
-        "category:food-and-drink",
-        "place:hawaii",
-        "place:united-states",
-        "place:oceania",
-        "place:polynesia",
-        "place:pacific-islands",
-        "food:world-cuisine"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This smooth, sticky staple is often pale purple and accompanies many traditional Hawaiian meals.",
-      "explanation": "Poi can be eaten fresh or left to ferment, which gives it a tangier flavor.",
+      "hint": "The band also recorded the songs “Uprising” and “Supermassive Black Hole.”",
+      "explanation": "The Resistance was Muse's fifth studio album and features the hit single “Uprising” and the three-part “Exogenesis: Symphony.”",
       "sources": {
         "urls": [],
-        "checkedAt": "2026-11-19T18:25:42.907Z"
-      }
-    },
-    {
-      "category": "history",
-      "id": "622a1c3d7cc59eab6f951be2",
-      "correctAnswer": "116",
-      "incorrectAnswers": [
-        "100",
-        "87",
-        "131"
-      ],
-      "question": {
-        "text": "For how many years did the Hundred Years' War actually last?"
-      },
-      "tags": [
-        "category:history",
-        "event:hundred-years-war",
-        "era:middle-ages",
-        "era:14th-century",
-        "era:15th-century",
-        "topic:military"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its conventional dates run from 1337 to 1453, so the name understates its duration.",
-      "explanation": "The Hundred Years’ War is conventionally dated from 1337 to 1453, a span of 116 years; the name describes the prolonged conflict between England and France rather than its exact length.",
-      "sources": {
-        "urls": [
-          "https://www.worldhistory.org/Hundred%5FYears'%5FWar/"
-        ],
-        "checkedAt": "2026-11-19T00:33:42.638Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "647edb90520523194910c357",
-      "correctAnswer": "Sleepy Hollow",
-      "incorrectAnswers": [
-        "Murdead",
-        "The Headless Horseman",
-        "Ichabod Crane"
-      ],
-      "question": {
-        "text": "In what movie, based on a Washington Irving short story, is the protagonist a policeman sent to investigate a series of decapitations?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "category:arts-and-literature",
-        "topic:film",
-        "topic:film-plots",
-        "topic:horror",
-        "topic:adaptations",
-        "era:1990s",
-        "era:20th-century"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Johnny Depp plays a New York constable in this gothic mystery directed by Tim Burton.",
-      "explanation": "Sleepy Hollow reimagines Ichabod Crane as a New York constable; the film was directed by Tim Burton.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Sleepy_Hollow_%28film%29&oldid=1385797316"
-        ],
-        "checkedAt": "2026-11-19T22:19:54.212Z"
-      }
-    },
-    {
-      "category": "geography",
-      "id": "645cb162602ff42ca52fb437",
-      "correctAnswer": "Illinois",
-      "incorrectAnswers": [
-        "Ohio",
-        "Indiana",
-        "Michigan"
-      ],
-      "question": {
-        "text": "Which US state is home to Willis Tower, McDonald's Museum and Abe Lincoln's Tomb?"
-      },
-      "tags": [
-        "category:geography",
-        "place:us-states",
-        "place:united-states",
-        "place:north-america",
-        "place:americas",
-        "place:midwest",
-        "place:chicago"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Chicago, home to Willis Tower, is this state's largest city.",
-      "explanation": "Illinois became the 21st state in 1818.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-19T18:24:37.247Z"
-      }
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6271641d1ba117625baac948",
-      "correctAnswer": "Soju",
-      "incorrectAnswers": [
-        "Canelazo",
-        "Rakı",
-        "Tuba"
-      ],
-      "question": {
-        "text": "Which of these is a popular drink in Korea?"
-      },
-      "tags": [
-        "category:food-and-drink",
-        "food:drinks",
-        "food:alcoholic-drinks",
-        "food:spirits",
-        "food:world-cuisine",
-        "food:southeast-asian-cuisine",
-        "place:south-korea",
-        "place:asia",
-        "place:east-asia"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It is commonly served in small green bottles at Korean meals.",
-      "explanation": "Soju is one of South Korea’s best-known alcoholic drinks, and its alcohol content varies by style and brand.",
-      "sources": {
-        "urls": [
-          "https://www.cambridge.org/core/books/abs/soju/introduction/B790012B45F757641748C3849B10BEFD#:~:text=Soju%2C%20the%20%E2%80%9Cnational%E2%80%9D%20distilled,world%E2%80%99s%20most%20popular%20drinks"
-        ],
-        "checkedAt": "2026-11-19T14:24:46.161Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa67",
-      "correctAnswer": "Christian Bale",
-      "incorrectAnswers": [
-        "John Hawkes",
-        "Jeremy Renner",
-        "Mark Ruffalo"
-      ],
-      "question": {
-        "text": "Who won the Academy Award for Best Supporting Actor for playing Dicky Eklund in The Fighter?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "category:society-and-culture",
-        "event:academy-awards",
-        "topic:awards-and-honours",
-        "topic:film",
-        "person:actors"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The actor who played Batman in Christopher Nolan’s trilogy took this role.",
-      "explanation": "Christian Bale won the Academy Award for Best Supporting Actor for playing Dicky Eklund in The Fighter, at the 83rd Academy Awards held in 2011.",
-      "sources": {
-        "urls": [
-          "https://web.archive.org/web/20200807020324/https:/www.reuters.com/article/us-oscars-supportactor-idUSTRE71R0OX20110228#:~:text=Welsh%2Dborn%20actor%20Christian%20Bale,champ%20in%20%E2%80%9CThe%20Fighter%E2%80%9D"
-        ],
-        "checkedAt": "2026-11-18T09:21:42.375Z"
-      }
-    },
-    {
-      "category": "food_and_drink",
-      "id": "627164a11ba117625baac96a",
-      "correctAnswer": "Guaro",
-      "incorrectAnswers": [
-        "Unicum",
-        "Sang Som Rum",
-        "Sangria"
-      ],
-      "question": {
-        "text": "Which of these is a popular drink in Costa Rica?"
-      },
-      "tags": [
-        "category:food-and-drink",
-        "category:geography",
-        "food:drinks",
-        "food:alcoholic-drinks",
-        "food:spirits",
-        "food:world-cuisine",
-        "place:costa-rica",
-        "place:north-america",
-        "place:americas",
-        "place:latin-america",
-        "place:central-america"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This clear sugarcane-based liquor is especially associated with Costa Rica.",
-      "explanation": "Guaro is a sugarcane-based liquor popular in Costa Rica. Unicum is Hungarian, Sang Som is Thai rum, and sangria is a wine punch associated with Spain.",
-      "sources": {
-        "urls": [
-          "https://ticotimes.net/2021/07/11/giving-guaro-a-second-sip-2#:~:text=People%20have%20been%20making,Costa%20Rica%20in%201850"
-        ],
-        "checkedAt": "2026-11-19T14:24:58.137Z"
+        "checkedAt": "2026-11-18T18:09:27.222Z"
       }
     }
   ]

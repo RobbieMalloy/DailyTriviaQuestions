@@ -1,59 +1,218 @@
 {
-  "gameDate": "2026-11-25",
+  "gameDate": "2026-11-26",
   "difficulty": "medium",
   "results": [
     {
       "category": "history",
-      "id": "622a1c367cc59eab6f9503ff",
-      "correctAnswer": "24th December",
+      "id": "647638daf05ea6d6f587a168",
+      "correctAnswer": "The Ottoman Empire",
       "incorrectAnswers": [
-        "25th December",
-        "26th December",
-        "31st December"
+        "The Seljuk Empire",
+        "The Safavid Empire",
+        "The Mughal Empire"
       ],
       "question": {
-        "text": "The Nordic countries (Denmark, Sweden, Norway notably) tend to celebrate Christmas chiefly on which date?"
+        "text": "What was the name of the Empire founded by Osman I around 1300AD?"
       },
       "tags": [
         "category:history",
-        "category:society-and-culture",
-        "place:nordic-countries",
-        "place:europe",
-        "event:christmas",
-        "event:holidays-and-festivals",
-        "topic:customs-and-traditions"
+        "place:ottoman-empire",
+        "era:13th-century",
+        "era:middle-ages"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "The main family celebration is held on the night immediately before Christmas Day.",
-      "explanation": "The 24th of December is Christmas Eve, when families in Denmark, Sweden and Norway traditionally gather for their main Christmas meal and gift-giving.",
+      "hint": "Its name derives from a form of its founder Osman's name.",
+      "explanation": "The Ottoman Empire grew from a small Anatolian principality into a vast state spanning parts of Europe, Asia, and Africa.",
       "sources": {
         "urls": [
-          "https://www.nordiskamuseet.se/en/traditions-celebrations/christmas#:~:text=Christmas%20Eve%20on%2024,the%20Nordic%20Christmas%20tradition"
+          "https://www.britannica.com/biography/Osman-I#:~:text=Osman%20I%20(born%20c.,the%20Ottoman%20Turkish%20state"
         ],
-        "checkedAt": "2026-11-18T16:58:26.336Z"
+        "checkedAt": "2026-11-19T20:36:39.044Z"
       }
     },
     {
       "category": "history",
-      "id": "648889155dba6c873ef650c8",
-      "correctAnswer": "Cuba",
+      "id": "646140f34d46e537ca8cda22",
+      "correctAnswer": "France",
       "incorrectAnswers": [
-        "Russia",
-        "China",
-        "North Korea"
+        "Portugal",
+        "Spain",
+        "Netherlands"
       ],
       "question": {
-        "text": "Which country was declared a socialist nation by its prime minister on May Day, 1961?"
+        "text": "Which European nation formed the Indochinese Union in 1887?"
       },
       "tags": [
         "category:history",
         "category:society-and-culture",
-        "era:1960s",
-        "era:20th-century",
-        "event:revolutions",
+        "era:19th-century",
+        "topic:colonialism",
+        "place:france",
+        "place:europe",
+        "place:western-europe",
+        "place:asia"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Paris ran this colonial union.",
+      "explanation": "France combined Tonkin, Annam, Cochinchina and Cambodia into the Indochinese Union in 1887.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/place/Indochina#:~:text=After%20gradually%20establishing%20suzerainty,Union%20to%20govern%20it"
+        ],
+        "checkedAt": "2026-11-19T20:34:18.440Z"
+      }
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f95190e",
+      "correctAnswer": "Abraham Lincoln",
+      "incorrectAnswers": [
+        "George Washington",
+        "John F Kennedy",
+        "John Quincy Adams"
+      ],
+      "question": {
+        "text": "What United States president was in office during the civil war?"
+      },
+      "tags": [
+        "category:history",
+        "category:society-and-culture",
+        "event:american-civil-war",
+        "era:19th-century",
+        "person:abraham-lincoln",
+        "person:us-presidents",
+        "place:united-states",
+        "place:north-america",
+        "place:americas",
+        "topic:american-history",
+        "topic:politics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He issued the Emancipation Proclamation during the war.",
+      "explanation": "Abraham Lincoln issued the Emancipation Proclamation in 1863, declaring enslaved people in rebellious states free.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Abraham_Lincoln&oldid=1385935462"
+        ],
+        "checkedAt": "2026-11-19T00:32:43.825Z"
+      }
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcf2",
+      "correctAnswer": "Indo-European",
+      "incorrectAnswers": [
+        "Uralic",
+        "Dravidian",
+        "Koreanic"
+      ],
+      "question": {
+        "text": "The language 'Spanish' belongs to which language family?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "topic:language",
+        "topic:languages-of-the-world"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Spanish is a Romance language, like French and Italian, and Romance languages descend from Latin.",
+      "explanation": "Spanish is a Romance language descended from Latin; Romance languages are one branch of the Indo-European family, which also includes English, Greek, and Hindi.",
+      "sources": {
+        "urls": [
+          "https://languagecenter.emory.edu/languages/spanish.html#:~:text=Spanish%20belongs%20to%20the,Indo%2DEuropean%20family%20of%20languages"
+        ],
+        "checkedAt": "2026-11-18T13:26:32.679Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "63adbd7c04c68cc1e14b8e4f",
+      "correctAnswer": "Sedimentary Rocks",
+      "incorrectAnswers": [
+        "Igneous Rocks",
+        "Metamorphic Rocks",
+        "Fossils"
+      ],
+      "question": {
+        "text": "What type of rock is formed by the compaction and cementation of particles and organic material?"
+      },
+      "tags": [
+        "category:science",
+        "science:earth-science",
+        "science:minerals-and-gemstones"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Many form in layers at the bottoms of oceans or lakes as material builds up over time.",
+      "explanation": "Sedimentary rocks commonly form in layers and are especially likely to preserve fossils, unlike rocks formed from cooled magma or transformed by heat and pressure.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/science/sedimentary-rock#:~:text=They%20typically%20are%20produced,solidifying%20preexisting%20unconsolidated%20sediments"
+        ],
+        "checkedAt": "2026-11-19T16:24:29.819Z"
+      }
+    },
+    {
+      "category": "geography",
+      "id": "63b058754799123c67712f33",
+      "correctAnswer": "Thar Desert",
+      "incorrectAnswers": [
+        "Rann of Kutch",
+        "Deccan Plateau",
+        "Gobi Desert"
+      ],
+      "question": {
+        "text": "What is the largest desert in India?"
+      },
+      "tags": [
+        "category:geography",
+        "place:india",
+        "place:asia",
+        "place:south-asia",
+        "place:deserts",
+        "topic:geographical-records"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Much of this desert lies in Rajasthan, along India's border with Pakistan.",
+      "explanation": "The Thar Desert is also known as the Great Indian Desert and extends into Pakistan.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-19T16:24:42.340Z"
+      }
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ffd6",
+      "correctAnswer": "Cuba",
+      "incorrectAnswers": [
+        "Mexico",
+        "Ecuador",
+        "Argentina"
+      ],
+      "question": {
+        "text": "With which country is Fidel Castro associated?"
+      },
+      "tags": [
+        "category:geography",
+        "category:history",
+        "category:society-and-culture",
         "place:cuba",
         "place:north-america",
         "place:americas",
@@ -65,346 +224,484 @@
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Fidel Castro led the revolution in this Caribbean island nation, located just south of Florida.",
-      "explanation": "At a May Day rally in Havana, Fidel Castro proclaimed Cuba a socialist state, formalizing the revolution's political direction.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-19T22:21:20.257Z"
-      }
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff31",
-      "correctAnswer": "Michael Jackson",
-      "incorrectAnswers": [
-        "Prince",
-        "Stevie Wonder",
-        "Lionel Richie"
-      ],
-      "question": {
-        "text": "'You Are Not Alone' is a song by which musician?"
-      },
-      "tags": [
-        "category:music",
-        "music:michael-jackson",
-        "music:pop"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This ballad made history as the first single to debut at the top of the Billboard Hot 100.",
-      "explanation": "Michael Jackson's single became the first song to debut at No. 1 on the Billboard Hot 100.",
+      "hint": "He led the Caribbean island nation whose capital is Havana.",
+      "explanation": "Fidel Castro led the Cuban Revolution and governed the island for decades, becoming one of the Cold War's most prominent leaders.",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=You_Are_Not_Alone&oldid=1383193950#:~:text=%22You%20Are%20Not%20Alone%22,Future%2C%20Book%20I%20(1995)"
+          "https://en.wikipedia.org/w/index.php?title=Fidel_Castro&oldid=1386184993#:~:text=Fidel%20Alejandro%20Castro%20Ruz,from%201959%20to%202011"
         ],
-        "checkedAt": "2026-11-18T14:41:44.712Z"
+        "checkedAt": "2026-11-18T14:42:12.530Z"
       }
     },
     {
-      "category": "science",
-      "id": "6461407d4d46e537ca8cd9d2",
-      "correctAnswer": "Camera obscura",
+      "category": "sport_and_leisure",
+      "id": "6384b43883dddfb71ee5e366",
+      "correctAnswer": "Golf",
       "incorrectAnswers": [
-        "Box camera",
-        "Bridge camera",
-        "Periscope"
+        "Cycling",
+        "American Football",
+        "Soccer"
       ],
       "question": {
-        "text": "What simple type of \"camera\" uses a hole in a screen to create a simply-viewed image of the sun?"
+        "text": "Which sport is played at The Masters?"
       },
       "tags": [
-        "category:science",
-        "science:light-and-sound",
-        "science:technology",
-        "topic:photography"
+        "category:sport-and-leisure",
+        "sport:golf",
+        "sport:sports"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "The projected image appears upside down because light passes through a tiny aperture.",
-      "explanation": "A camera obscura forms an inverted image because light rays cross as they pass through the opening.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-19T18:25:44.692Z"
-      }
-    },
-    {
-      "category": "music",
-      "id": "64824e267778562fd76a95fe",
-      "correctAnswer": "Kelly Clarkson",
-      "incorrectAnswers": [
-        "Carrie Underwood",
-        "Jennifer Hudson",
-        "Adam Lambert"
-      ],
-      "question": {
-        "text": "Who won the first season of American Idol?"
-      },
-      "tags": [
-        "category:music",
-        "category:film-and-tv",
-        "topic:television",
-        "topic:reality-tv",
-        "music:musicians"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The inaugural champion later scored a major hit with “Since U Been Gone.”",
-      "explanation": "Kelly Clarkson went on to win Grammy Awards and score hits including “Since U Been Gone.”",
+      "hint": "The champion of this tournament receives a famous green jacket at Augusta National.",
+      "explanation": "Golf's Masters tournament is one of the sport's four major championships, and its winner receives a green jacket.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/biography/Kelly-Clarkson#:~:text=Kelly%20Clarkson%20rose%20to,American%20Idol%20in%202002"
+          "https://www.britannica.com/sports/Masters-Tournament#:~:text=The%20Masters%20Tournament%20is,Club%20in%20Augusta%2C%20Georgia"
         ],
-        "checkedAt": "2026-11-19T22:20:29.581Z"
-      }
-    },
-    {
-      "category": "geography",
-      "id": "6260308f4b176d54800e3d2d",
-      "correctAnswer": "Ukraine",
-      "incorrectAnswers": [
-        "Kyrgyzstan",
-        "Tajikistan",
-        "Belarus"
-      ],
-      "question": {
-        "text": "In which country is the city of Kharkiv?"
-      },
-      "tags": [
-        "category:geography",
-        "place:cities",
-        "place:ukraine",
-        "place:europe",
-        "place:eastern-europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This country lies between Poland and Russia and has Odesa on the Black Sea.",
-      "explanation": "Kharkiv is Ukraine's second-largest city and a major cultural and educational center in the country's northeast.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/place/Kharkiv-Ukraine#:~:text=Kharkiv%2C%20city%2C%20northeastern%20Ukraine"
-        ],
-        "checkedAt": "2026-11-19T13:14:28.089Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "649f220febb41911d4cbd6ba",
-      "correctAnswer": "Cannes",
-      "incorrectAnswers": [
-        "Venice",
-        "Nice",
-        "Geneva"
-      ],
-      "question": {
-        "text": "At which city's film festival is the Palme d'Or awarded?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "category:geography",
-        "category:general-knowledge",
-        "place:cities",
-        "place:france",
-        "place:europe",
-        "place:western-europe",
-        "event:film-and-tv-awards",
-        "topic:awards-and-honours"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The festival takes place on Boulevard de la Croisette, on France’s Côte d’Azur.",
-      "explanation": "Cannes awards the Palme d'Or as its festival’s top prize; the trophy’s palm-leaf design is inspired by the palm tree on the city’s coat of arms.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Palme_d%27Or&oldid=1386186381#:~:text=The%20Palme%20d'Or%20(French,the%20Cannes%20Film%20Festival"
-        ],
-        "checkedAt": "2026-11-20T10:30:12.053Z"
+        "checkedAt": "2026-11-19T14:26:38.984Z"
       }
     },
     {
       "category": "society_and_culture",
-      "id": "639c9d95929b90846f2fc95c",
-      "correctAnswer": "Mecca",
+      "id": "64a094bccf8fd58080ceffe2",
+      "correctAnswer": "The Luxor",
       "incorrectAnswers": [
-        "Jerusalem",
-        "Baghdad",
-        "Istanbul"
+        "Caesars Palace",
+        "The Venetian",
+        "Mandalay Bay"
       ],
       "question": {
-        "text": "Which is the holiest city in Islam?"
+        "text": "The Pyramid Cafe is associated with which hotel in Las Vegas?"
       },
       "tags": [
-        "category:society-and-culture",
         "category:geography",
-        "topic:islam",
-        "topic:religion",
-        "place:cities",
-        "place:saudi-arabia",
-        "place:asia",
-        "place:middle-east",
-        "place:gulf-states"
+        "category:society-and-culture",
+        "place:las-vegas",
+        "place:united-states",
+        "place:north-america",
+        "place:americas",
+        "place:landmarks",
+        "topic:travel-and-tourism"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "The Kaaba, toward which Muslims pray, is located in this Saudi Arabian city.",
-      "explanation": "Mecca is home to the Kaaba, toward which Muslims face during prayer, and the annual Hajj pilgrimage is centered there.",
+      "hint": "Its Egyptian-themed resort is marked by a pyramid-shaped tower and a giant sphinx.",
+      "explanation": "The Luxor is an Egyptian-themed resort, and a giant sphinx statue stands at its entrance.",
       "sources": {
-        "urls": [
-          "https://www.britannica.com/place/Mecca#:~:text=As%20the%20holiest%20of,a%20day%20to%20pray"
-        ],
-        "checkedAt": "2026-11-19T16:23:34.474Z"
-      }
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "6ae82949bb6335621cbf775d",
-      "correctAnswer": "Emma",
-      "incorrectAnswers": [
-        "Pride and Prejudice",
-        "Mansfield Park",
-        "Northanger Abbey"
-      ],
-      "question": {
-        "text": "Which Jane Austen novel follows a young woman who plays matchmaker for her friends?"
-      },
-      "tags": [
-        "category:arts-and-literature",
-        "person:jane-austen",
-        "topic:literature",
-        "topic:classic-literature",
-        "topic:british-literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The heroine is a wealthy young woman from Highbury whose matchmaking schemes often misfire.",
-      "explanation": "Emma Woodhouse tries to arrange romantic matches for Harriet Smith, though her confidence often leads her to misread people's feelings.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/topic/Emma-novel-by-Austen#:~:text=Jane%20Austen%E2%80%99s%20novel%20Emma,is%20an%20excellent%20matchmaker"
-        ],
-        "checkedAt": "2026-11-24T21:48:40.627Z"
+        "urls": [],
+        "checkedAt": "2026-11-20T10:30:19.443Z"
       }
     },
     {
       "category": "science",
-      "id": "622a1c3c7cc59eab6f951935",
-      "correctAnswer": "Radiocarbon dating",
+      "id": "65056e107a97013de78b525d",
+      "correctAnswer": "Geiger counter",
       "incorrectAnswers": [
-        "Dendrochronology",
-        "Magnetic dating",
-        "Thermoluminescence"
+        "Hygrometer",
+        "Theodolite",
+        "Megallograph"
       ],
       "question": {
-        "text": "What process is used to date ancient organic objects?"
+        "text": "What is used to measure radiation?"
       },
       "tags": [
         "category:science",
-        "category:history",
-        "science:archaeology",
-        "science:atoms-and-particles",
-        "science:physics"
+        "science:physics",
+        "science:scientific-instruments"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "It measures how much of a naturally occurring radioactive isotope remains in once-living material.",
-      "explanation": "Radiocarbon dating estimates age from the decay of carbon-14, whose amount begins to decline after an organism dies.",
+      "hint": "Its characteristic clicks become more frequent as it detects ionizing radiation.",
+      "explanation": "The Geiger counter is named for physicist Hans Geiger; each detected event can produce an audible click.",
       "sources": {
         "urls": [
-          "https://britannica.com/science/How-Does-Carbon-Dating-Work#:~:text=Carbon%20dating%2C%20also%20known,(here%20meaning%20%E2%80%9Corganism%2Dderived%E2%80%9D)%20remains",
-          "https://news.uchicago.edu/explainer/what-is-carbon-14-dating#:~:text=Radiocarbon%20dating%2C%20or%20carbon%2D14,as%20approximately%2060%2C000%20years"
+          "https://www.britannica.com/technology/Geiger-counter#:~:text=Geiger%20counter%2C%20type%20of,individual%20particles%20of%20radiation"
         ],
-        "checkedAt": "2026-11-19T00:32:47.693Z"
+        "checkedAt": "2026-11-20T14:36:58.421Z"
       }
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f9502be",
-      "correctAnswer": "Butter",
+      "category": "science",
+      "id": "63e4c345106de6ffa7d4a7c1",
+      "correctAnswer": "Argentinosaurus",
       "incorrectAnswers": [
-        "Yogurt",
-        "Coconut",
-        "Olive oil"
+        "Eodromaeus",
+        "Stegosaurus",
+        "Spinosaurus"
       ],
       "question": {
-        "text": "What is ghee, a staple of Indian cooking, made from?"
+        "text": "Which of the following is widely considered to be the largest dinosaur?"
       },
       "tags": [
-        "category:general-knowledge",
-        "category:food-and-drink",
-        "food:indian-cuisine"
+        "category:science",
+        "animal:animals",
+        "animal:animal-records",
+        "animal:dinosaurs",
+        "science:biology",
+        "science:palaeontology"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "It is made by slowly heating a dairy spread until its water and milk solids separate.",
-      "explanation": "Ghee is clarified butter; removing water and milk solids gives it a higher smoke point than ordinary butter.",
+      "hint": "The leading contender was a gigantic long-necked plant-eater discovered in Patagonia.",
+      "explanation": "Argentinosaurus was a giant titanosaur, and estimates of its size place it among the largest land animals known. Its exact dimensions remain uncertain because the fossil evidence is incomplete.",
       "sources": {
         "urls": [],
-        "checkedAt": "2026-11-18T15:45:17.664Z"
+        "checkedAt": "2026-11-19T16:25:41.464Z"
       }
     },
     {
-      "category": "geography",
-      "id": "65056e6f7a97013de78b52e2",
-      "correctAnswer": "China",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e65",
+      "correctAnswer": "Friedrich Engels",
       "incorrectAnswers": [
-        "Japan",
-        "Vietnam",
-        "Taiwan"
+        "Michael Ende",
+        "Erich Maria Remarque",
+        "Karl May"
       ],
       "question": {
-        "text": "Hong Kong is located on the southern coast of which country?"
+        "text": "Which author wrote 'The Communist Manifesto'?"
       },
       "tags": [
-        "category:geography",
-        "place:china",
-        "place:asia",
-        "place:east-asia"
+        "category:arts-and-literature",
+        "category:history",
+        "category:society-and-culture",
+        "topic:non-fiction",
+        "topic:politics",
+        "topic:political-ideologies",
+        "topic:economics"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Shenzhen lies immediately north of Hong Kong, across the boundary.",
-      "explanation": "China resumed sovereignty over Hong Kong in 1997, and Hong Kong became a special administrative region.",
+      "hint": "He was the German socialist who collaborated closely with Marx throughout his life.",
+      "explanation": "Friedrich Engels co-wrote the pamphlet with Karl Marx and later helped edit Marx's writings.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/place/Hong-Kong#:~:text=Hong%20Kong%2C%20special%20administrative,south%20coast%20of%20China"
+          "https://www.britannica.com/money/Friedrich-Engels"
         ],
-        "checkedAt": "2026-11-20T14:37:27.317Z"
+        "checkedAt": "2026-11-18T18:11:18.363Z"
+      }
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c377cc59eab6f950421",
+      "correctAnswer": "German",
+      "incorrectAnswers": [
+        "English",
+        "Russian",
+        "French"
+      ],
+      "question": {
+        "text": "In what language was the Communist Manifesto written?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "topic:language",
+        "topic:german-language",
+        "topic:political-ideologies"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Marx and Engels wrote it in their own native tongue.",
+      "explanation": "The Communist Manifesto was written in German by Karl Marx and Friedrich Engels and first published in 1848.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=The_Communist_Manifesto&oldid=1384221044#:~:text=Written%20in%20German%2C%20the,had%20a%20dark%2Dgreen%20cover"
+        ],
+        "checkedAt": "2026-11-18T16:58:35.629Z"
+      }
+    },
+    {
+      "category": "music",
+      "id": "625064c9e12f6dec240bdfcd",
+      "correctAnswer": "Achy Breaky Heart",
+      "incorrectAnswers": [
+        "Rock Me Amedeus",
+        "Barbie Girl",
+        "Lovefool"
+      ],
+      "question": {
+        "text": "What song did Billy Ray Cyrus have a hit with in 1992?"
+      },
+      "tags": [
+        "category:music",
+        "music:musicians",
+        "music:country",
+        "music:charts",
+        "era:1990s",
+        "era:20th-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its catchy line-dance routine helped make it a country crossover hit.",
+      "explanation": "Achy Breaky Heart was first recorded by The Marcy Brothers under the title “Don’t Tell My Heart” before Cyrus made it a hit.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/biography/Billy-Ray-Cyrus#:~:text=Billy%20Ray%20Cyrus%20(born,on%20the%20country%20charts"
+        ],
+        "checkedAt": "2026-11-19T11:52:04.353Z"
+      }
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951b3f",
+      "correctAnswer": "1914",
+      "incorrectAnswers": [
+        "1912",
+        "1916",
+        "1918"
+      ],
+      "question": {
+        "text": "In which year did World War I begin?"
+      },
+      "tags": [
+        "category:history",
+        "event:world-war-i",
+        "era:1910s",
+        "era:20th-century",
+        "topic:military"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The assassination of Archduke Franz Ferdinand in Sarajevo set off the crisis that led to war.",
+      "explanation": "World War I began in 1914 after Austria-Hungary declared war on Serbia, triggering a wider conflict through Europe’s alliance system.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-19T00:33:32.418Z"
+      }
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951796",
+      "correctAnswer": "Seychelles",
+      "incorrectAnswers": [
+        "Mauritius",
+        "Maldives",
+        "Madagascar"
+      ],
+      "question": {
+        "text": "Which island nation in the Indian Ocean became independent from Britain in 1976?"
+      },
+      "tags": [
+        "category:history",
+        "category:geography",
+        "era:1970s",
+        "era:20th-century",
+        "event:decolonisation",
+        "place:africa",
+        "place:eastern-africa",
+        "place:sub-saharan-africa",
+        "place:indian-ocean-islands",
+        "place:islands"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its capital, Victoria, is on Mahé, the largest island in an archipelago off East Africa.",
+      "explanation": "Seychelles became a republic when it gained independence and has remained a member of the Commonwealth.",
+      "sources": {
+        "urls": [
+          "https://thecommonwealth.org/our-member-countries/seychelles"
+        ],
+        "checkedAt": "2026-11-19T00:32:00.750Z"
       }
     },
     {
       "category": "geography",
-      "id": "65056f5f7a97013de78b5430",
-      "correctAnswer": "Asia",
+      "id": "625ea007796f721e95543fc9",
+      "correctAnswer": "Blue",
       "incorrectAnswers": [
-        "Africa",
-        "South America",
-        "Europe"
+        "Green",
+        "Gold",
+        "Black"
       ],
       "question": {
-        "text": "On what continent can we find Myanmar?"
+        "text": "Which of these colors would you find on the flag of United Kingdom?"
       },
       "tags": [
         "category:geography",
+        "topic:flags",
+        "topic:national-symbols",
+        "place:united-kingdom",
+        "place:europe",
+        "place:british-isles"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The Union Jack's main field is the color often associated with clear skies and deep oceans.",
+      "explanation": "Blue is the field color; the flag's overlapping crosses represent the patron saints of England, Scotland, and Ireland.",
+      "sources": {
+        "urls": [
+          "https://www.flaginstitute.org/wp/uk-flags/union-flag-specification#:~:text=The%20Union%20Flag%20comprises,red%20St%20Patrick%E2%80%99s%20saltire"
+        ],
+        "checkedAt": "2026-11-19T13:13:36.151Z"
+      }
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8fa",
+      "correctAnswer": "Dustin Hoffman",
+      "incorrectAnswers": [
+        "Robert Duvall",
+        "Michael Douglas",
+        "Kevin Spacey"
+      ],
+      "question": {
+        "text": "Which actor played the role of Raymond Babbitt in Rain Man?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "person:actors",
+        "era:1980s",
+        "era:20th-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The actor also played Benjamin Braddock in The Graduate.",
+      "explanation": "Dustin Hoffman won the Academy Award for Best Actor for his performance in Rain Man.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-18T08:39:39.356Z"
+      }
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbe7",
+      "correctAnswer": "\"I know who I am. I’m the dude playing a dude disguised as another dude!\"",
+      "incorrectAnswers": [
+        "\"I live my life a quarter mile at a time.\"",
+        "\"Mrs. Robinson, you're trying to seduce me. Aren't you?\"",
+        "\"Not my tempo.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Tropic Thunder'?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "topic:film",
+        "topic:film-quotes",
+        "topic:comedy"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Robert Downey Jr.'s character takes method acting to an absurd, layered extreme.",
+      "explanation": "Robert Downey Jr.'s character Kirk Lazarus says this line in Ben Stiller's 2008 comedy Tropic Thunder.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-18T10:19:50.635Z"
+      }
+    },
+    {
+      "category": "history",
+      "id": "6af78934034e45b04e31bcc2",
+      "correctAnswer": "Edward II",
+      "incorrectAnswers": [
+        "Edward I",
+        "Edward III",
+        "Henry V"
+      ],
+      "question": {
+        "text": "Which English king was defeated by Robert the Bruce at the Battle of Bannockburn?"
+      },
+      "tags": [
+        "category:history",
+        "event:battles",
+        "era:middle-ages",
+        "era:14th-century",
+        "topic:british-history",
+        "topic:military",
+        "person:monarchs",
+        "person:british-monarchs",
+        "place:scotland",
+        "place:united-kingdom",
+        "place:europe",
+        "place:british-isles"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He was the first English king to be formally deposed by Parliament.",
+      "explanation": "Edward II fled Bannockburn in 1314 after Robert the Bruce’s forces routed the English army.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/event/Battle-of-Bannockburn#:~:text=Battle%20of%20Bannockburn%2C%20(June,Robert%E2%80%99s%20territory%20and%20influence"
+        ],
+        "checkedAt": "2026-11-25T13:02:16.146Z"
+      }
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e5abff2394bd44dee010",
+      "correctAnswer": "Azul",
+      "incorrectAnswers": [
+        "Blau",
+        "Blauw",
+        "Blanco"
+      ],
+      "question": {
+        "text": "What is the Spanish word for 'blue'?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "topic:language",
+        "topic:translations",
+        "topic:spanish-language",
+        "topic:colours"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Spanish speakers use this color word to describe a clear daytime sky.",
+      "explanation": "Azul stays the same with masculine and feminine singular nouns, but its plural form is azules.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Azul&oldid=1226429462#:~:text=Azul%2C%20meaning%20%22blue%22%20in,Portuguese%2C%20may%20refer%20to%3A"
+        ],
+        "checkedAt": "2026-11-19T14:24:38.071Z"
+      }
+    },
+    {
+      "category": "geography",
+      "id": "623385a462eaad73716a8c83",
+      "correctAnswer": "Saigon",
+      "incorrectAnswers": [
+        "Hue",
+        "Hanoi",
+        "Da Nang"
+      ],
+      "question": {
+        "text": "What was Ho Chi Minh City previously known as?"
+      },
+      "tags": [
+        "category:geography",
+        "topic:former-place-names",
+        "place:cities",
+        "place:vietnam",
         "place:asia",
         "place:southeast-asia"
       ],
@@ -412,570 +709,271 @@
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Myanmar lies between India and Thailand, in the region that also includes Vietnam and Cambodia.",
-      "explanation": "Myanmar is part of Southeast Asia and was formerly known internationally as Burma.",
+      "hint": "It was renamed in 1976 after the revolutionary leader who led North Vietnam.",
+      "explanation": "Saigon is still commonly used in everyday speech, especially for Ho Chi Minh City's central area.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/place/Myanmar#:~:text=Myanmar%20is%20the%20northernmost%20country%20of%20Southeast%20Asia"
+          "https://www.britannica.com/place/Ho-Chi-Minh-City#:~:text=On%20April%2030%2C%201975%2C,Ho%20Chi%20Minh%20City"
         ],
-        "checkedAt": "2026-11-20T16:27:09.472Z"
+        "checkedAt": "2026-11-19T08:46:04.827Z"
       }
     },
     {
       "category": "geography",
-      "id": "626030734b176d54800e3d25",
-      "correctAnswer": "El Salvador",
-      "incorrectAnswers": [
-        "Colombia",
-        "Chile",
-        "Honduras"
-      ],
-      "question": {
-        "text": "In which country is the city of San Salvador?"
-      },
-      "tags": [
-        "category:geography",
-        "place:cities",
-        "place:north-america",
-        "place:americas",
-        "place:central-america",
-        "place:latin-america"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It is the smallest country in Central America and has a Pacific coastline.",
-      "explanation": "San Salvador is the capital and largest city of El Salvador.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/place/San-Salvador#:~:text=San%20Salvador%2C%20capital%20of%20El%20Salvador"
-        ],
-        "checkedAt": "2026-11-19T13:14:27.087Z"
-      }
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62ab32bd5202de619af28123",
-      "correctAnswer": "Ford",
-      "incorrectAnswers": [
-        "BMW",
-        "AC",
-        "Honda"
-      ],
-      "question": {
-        "text": "Which car manufacturer makes the Model T?"
-      },
-      "tags": [
-        "category:society-and-culture",
-        "category:general-knowledge",
-        "topic:cars-and-motoring",
-        "topic:business",
-        "org:car-manufacturers",
-        "org:companies"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its founder helped popularize assembly-line car production, making automobiles more affordable to ordinary families.",
-      "explanation": "Ford introduced the Model T in 1908. The company later used moving assembly lines to produce cars at a scale that helped lower costs.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/technology/Model-T#:~:text=Model%20T%2C%20automobile%20built,from%201908%20until%201927"
-        ],
-        "checkedAt": "2026-11-19T14:25:28.023Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501f9",
-      "correctAnswer": "Peter Jackson",
-      "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
-      ],
-      "question": {
-        "text": "Which director directed The Lord of the Rings: The Fellowship of the Ring?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "topic:film",
-        "work:middle-earth",
-        "topic:fantasy",
-        "era:2000s",
-        "era:21st-century"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The New Zealand filmmaker also directed the later Hobbit films.",
-      "explanation": "Peter Jackson is a New Zealand filmmaker who later directed the three-film adaptation of The Hobbit.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring&oldid=1385779646#:~:text=The%20Lord%20of%20the,Philippa%20Boyens%2C%20and%20Jackson"
-        ],
-        "checkedAt": "2026-11-18T15:44:31.695Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa5a",
-      "correctAnswer": "Mahershala Ali",
-      "incorrectAnswers": [
-        "Adam Driver",
-        "Sam Elliott",
-        "Richard E. Grant"
-      ],
-      "question": {
-        "text": "Who won the 2018 Academy Award for Best Supporting Actor for playing the role of Dr. Donald Shirley in Green Book?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "topic:film",
-        "event:academy-awards",
-        "topic:awards-and-honours",
-        "person:actors",
-        "era:2010s",
-        "era:21st-century"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The same actor won an Oscar for playing Juan, who mentors young Chiron in Moonlight.",
-      "explanation": "Mahershala Ali's win for Green Book was his second Academy Award for Best Supporting Actor; his first was for Moonlight.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/biography/Mahershala-Ali#:~:text=Mahershala%20Ali%20won%20an,in%20Green%20Book%20(2018)",
-          "https://www.theguardian.com/film/2019/feb/25/mahershala-ali-wins-best-supporting-actor-oscar-green-book#:~:text=Mahershala%20Ali%20has%20won,the%2091st%20Academy%20Awards"
-        ],
-        "checkedAt": "2026-11-18T09:21:38.704Z"
-      }
-    },
-    {
-      "category": "geography",
-      "id": "65056e4e7a97013de78b52b3",
-      "correctAnswer": "USA",
-      "incorrectAnswers": [
-        "UK",
-        "Australia",
-        "Spain"
-      ],
-      "question": {
-        "text": "Which country is NOT a constitutional monarchy?"
-      },
-      "tags": [
-        "category:geography",
-        "category:society-and-culture",
-        "place:united-states",
-        "place:north-america",
-        "place:americas",
-        "topic:politics",
-        "topic:political-ideologies",
-        "topic:us-politics"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its head of state is chosen through elections rather than inherited succession.",
-      "explanation": "The United States is a federal republic with an elected president, while the UK, Australia, and Spain recognize a monarch as head of state.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-20T14:37:18.769Z"
-      }
-    },
-    {
-      "category": "society_and_culture",
-      "id": "65056e9f7a97013de78b5325",
-      "correctAnswer": "Spanish",
-      "incorrectAnswers": [
-        "German",
-        "French",
-        "Italian"
-      ],
-      "question": {
-        "text": "Which of the following is NOT an official language of Switzerland?"
-      },
-      "tags": [
-        "category:geography",
-        "category:society-and-culture",
-        "place:switzerland",
-        "place:europe",
-        "place:alps",
-        "place:central-europe",
-        "place:western-europe",
-        "topic:language",
-        "topic:languages-of-the-world"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Switzerland's official languages reflect its neighbors to the north, west, and south, plus the local language Romansh.",
-      "explanation": "Switzerland recognizes German, French, Italian, and Romansh as national languages. Spanish is not among them.",
-      "sources": {
-        "urls": [
-          "https://www.aboutswitzerland.eda.admin.ch/en/language#:~:text=Switzerland%20has%20four%20official,French%2C%20Italian%20and%20Romansh"
-        ],
-        "checkedAt": "2026-11-20T14:37:44.547Z"
-      }
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501ae",
-      "correctAnswer": "Animal Farm",
-      "incorrectAnswers": [
-        "A Clockwork Orange",
-        "L'Ingénu",
-        "Nineteen Eighty-Four"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'Mr. Jones, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.'?"
-      },
-      "tags": [
-        "category:arts-and-literature",
-        "topic:opening-lines",
-        "topic:literature",
-        "topic:classic-literature",
-        "topic:british-literature",
-        "person:george-orwell"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "George Orwell's political satire opens with a drunken landowner, before a revolution overturns the established order.",
-      "explanation": "Animal Farm is an allegory of the Russian Revolution and the rise of Stalinism, with the animals' rebellion reflecting political upheaval.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-18T15:44:12.609Z"
-      }
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056ecb7a97013de78b5362",
-      "correctAnswer": "Rudyard Kipling",
-      "incorrectAnswers": [
-        "Shel Silverstein",
-        "Dr. Seuss",
-        "Wilson Rawls"
-      ],
-      "question": {
-        "text": "Who wrote the Jungle Book?"
-      },
-      "tags": [
-        "category:arts-and-literature",
-        "topic:literature",
-        "topic:childrens-books",
-        "topic:classic-literature",
-        "topic:british-literature",
-        "person:authors"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The British author also wrote the poem “If—.”",
-      "explanation": "Rudyard Kipling’s 1894 collection includes the stories of Mowgli, a boy raised by wolves in the Indian jungle.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/topic/The-Jungle-Book#:~:text=The%20Jungle%20Book%2C%20collection,Kipling%2C%20published%20in%201894"
-        ],
-        "checkedAt": "2026-11-20T16:26:10.457Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8b6",
-      "correctAnswer": "Marlon Brando",
-      "incorrectAnswers": [
-        "Robert Shaw",
-        "Dustin Hoffman",
-        "Samuel L. Jackson"
-      ],
-      "question": {
-        "text": "Which actor played the role of Vito Corleone in The Godfather?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "topic:film",
-        "person:actors",
-        "work:the-godfather"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "He also played Stanley Kowalski in A Streetcar Named Desire.",
-      "explanation": "Marlon Brando won the Academy Award for Best Actor for The Godfather but declined the award.",
-      "sources": {
-        "urls": [
-          "https://www.biography.com/actors/marlon-brando#:~:text=Brando's%20career%20was%20reborn,in%20Francis%20Ford%20Coppola's"
-        ],
-        "checkedAt": "2026-11-18T08:00:56.069Z"
-      }
-    },
-    {
-      "category": "society_and_culture",
-      "id": "649dee4e615f8db40f5422d3",
-      "correctAnswer": "Reindeer",
-      "incorrectAnswers": [
-        "Horses",
-        "Buffalo",
-        "Alpacas"
-      ],
-      "question": {
-        "text": "Which animal is central to the nomadic herding economy of the Sami people?"
-      },
-      "tags": [
-        "category:society-and-culture",
-        "category:science",
-        "animal:animals",
-        "animal:mammals",
-        "topic:indigenous-peoples"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This Arctic-adapted animal is known for both males and females growing antlers.",
-      "explanation": "Reindeer provide the Sami with meat, hides, and other materials, and herds are moved seasonally across northern Scandinavia.",
-      "sources": {
-        "urls": [
-          "https://web.archive.org/web/20220108140334/https://www.britannica.com/topic/Sami#:~:text=Reindeer%20herding%20was%20the,economy%20until%20very%20recently"
-        ],
-        "checkedAt": "2026-11-20T10:30:09.578Z"
-      }
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3e7cc59eab6f9522d3",
-      "correctAnswer": "Greek",
-      "incorrectAnswers": [
-        "Roman",
-        "German",
-        "French"
-      ],
-      "question": {
-        "text": "From which language does the term 'eureka' come?"
-      },
-      "tags": [
-        "category:society-and-culture",
-        "category:general-knowledge",
-        "topic:language",
-        "topic:etymology"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Socrates and Plato spoke this ancient language, whose alphabet includes letters such as alpha and omega.",
-      "explanation": "Eureka comes from Ancient Greek heureka, meaning I have found it, and is traditionally linked to Archimedes’ discovery.",
-      "sources": {
-        "urls": [
-          "https://www.merriam-webster.com/dictionary/eureka"
-        ],
-        "checkedAt": "2026-11-19T08:10:47.313Z"
-      }
-    },
-    {
-      "category": "history",
-      "id": "639898405c9a75021f31046b",
-      "correctAnswer": "Japan",
+      "id": "625e9ef6796f721e95543f79",
+      "correctAnswer": "Israel",
       "incorrectAnswers": [
         "Germany",
-        "Italy",
-        "Russia"
+        "Portugal",
+        "Chile"
       ],
       "question": {
-        "text": "Which country attacked Pearl Harbor in December 1941?"
+        "text": "Which country's flag can be described as 'White with a blue star centered between two equal horizontal blue bands'?"
       },
       "tags": [
-        "category:history",
         "category:geography",
-        "event:world-war-ii",
-        "era:1940s",
-        "era:20th-century",
-        "place:japan",
+        "category:society-and-culture",
+        "place:israel",
         "place:asia",
-        "place:east-asia",
-        "place:hawaii",
-        "place:united-states",
-        "place:north-america",
-        "place:americas",
-        "place:polynesia",
-        "place:oceania",
-        "topic:american-history",
-        "topic:military"
+        "place:middle-east",
+        "place:levant",
+        "topic:flags",
+        "topic:national-symbols"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "It is an island nation in East Asia.",
-      "explanation": "Japan launched the surprise attack on Pearl Harbor on 7 December 1941, bringing the US into World War II.",
+      "hint": "Its flag's design echoes the Jewish prayer shawl known as a tallit.",
+      "explanation": "Israel's flag design was inspired by the tallit, a Jewish prayer shawl.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/event/Pearl-Harbor-attack#:~:text=The%20U.S.%20naval%20base,on%20December%207%2C%201941"
+          "https://catalog.archives.gov.il/site/en/chapter/flag#:~:text=The%20flag%20of%20Israel,edges%20of%20the%20flag"
         ],
-        "checkedAt": "2026-11-19T16:23:10.106Z"
-      }
-    },
-    {
-      "category": "geography",
-      "id": "623384e862eaad73716a8c3b",
-      "correctAnswer": "Zanzibar",
-      "incorrectAnswers": [
-        "Australia",
-        "Iceland",
-        "Hispaniola"
-      ],
-      "question": {
-        "text": "What island is known as the Spice Island?"
-      },
-      "tags": [
-        "category:geography",
-        "place:islands",
-        "place:tanzania",
-        "place:africa",
-        "place:eastern-africa",
-        "place:sub-saharan-africa",
-        "place:indian-ocean-islands",
-        "topic:nicknames"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its plantations made it famous for cloves and other aromatic crops.",
-      "explanation": "Zanzibar lies off the coast of Tanzania, and its historic clove production helped earn it the Spice Island nickname.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-19T08:11:15.057Z"
+        "checkedAt": "2026-11-19T13:13:25.822Z"
       }
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950163",
-      "correctAnswer": "Thomas Hardy",
+      "id": "622a1c3b7cc59eab6f9513c8",
+      "correctAnswer": "His Dark Materials trilogy",
       "incorrectAnswers": [
-        "Jane Austen",
-        "Charles Dickens",
-        "Charlotte Brontë"
+        "Voyages Extraordinaires",
+        "The Hunger Games",
+        "Mortal Engines Quartet"
       ],
       "question": {
-        "text": "Who wrote \"Far From The Madding Crowd\"?"
+        "text": "In which book series does 'Lyra Belacqua' appear?"
       },
       "tags": [
         "category:arts-and-literature",
+        "topic:fictional-characters",
         "topic:literature",
-        "topic:classic-literature",
-        "topic:british-literature",
-        "person:thomas-hardy"
+        "topic:young-adult-fiction",
+        "topic:childrens-books",
+        "topic:fantasy",
+        "work:his-dark-materials"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Its author also set several novels in the fictional region of Wessex.",
-      "explanation": "Thomas Hardy set many of his novels, including this one, in Wessex, a fictional region based on southwest England.",
+      "hint": "Lyra's world includes animal companions called daemons, which are connected to their human partners.",
+      "explanation": "His Dark Materials trilogy follows Lyra through Northern Lights, The Subtle Knife, and The Amber Spyglass.",
       "sources": {
         "urls": [
-          "https://britannica.com/topic/Far-from-the-Madding-Crowd-novel-by-Hardy#:~:text=Far%20from%20the%20Madding,name%20the%20same%20year"
+          "https://en.wikipedia.org/w/index.php?title=Lyra_Belacqua&oldid=1346780389"
         ],
-        "checkedAt": "2026-11-18T15:43:54.171Z"
+        "checkedAt": "2026-11-19T00:31:17.334Z"
       }
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbd4",
-      "correctAnswer": "\"What is this? A center for ants? How can we be expected to teach children to learn how to read…if they can’t even fit inside the building?\"",
+      "category": "science",
+      "id": "650570087a97013de78b5519",
+      "correctAnswer": "Tooth enamel",
       "incorrectAnswers": [
-        "\"I’m the guy who does his job. You must be the other guy.\"",
-        "\"Of all the gin joints in all the towns in all the world, she walks into mine.\"",
-        "\"I drink your milkshake. I drink it up.\""
+        "Finger nail",
+        "Eardrum",
+        "Heel bone"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Zoolander'?"
+        "text": "What is the hardest substance in the human body?"
       },
       "tags": [
-        "category:film-and-tv",
-        "topic:film",
-        "topic:film-quotes",
-        "topic:famous-quotes",
-        "topic:comedy"
+        "category:science",
+        "science:biology",
+        "science:human-body",
+        "science:materials",
+        "science:skeleton-and-muscles"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Derek's outburst is triggered by a miniature replica of an elementary school.",
-      "explanation": "The line beginning “What is this? A center for ants?” is spoken by Derek Zoolander as he reacts to a school model, mistaking its scale for a design flaw.",
+      "hint": "It is the glossy outer layer that protects the chewing surfaces of your molars.",
+      "explanation": "Tooth enamel is made mostly of mineral crystals, making it harder than bone. It cannot repair itself once damaged.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-20T16:28:13.819Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "6486be6759bc33d1c362f33c",
+      "correctAnswer": "Heart",
+      "incorrectAnswers": [
+        "Liver",
+        "Lung",
+        "Stomach"
+      ],
+      "question": {
+        "text": "Which organ has a mitral valve and semilunar valves?"
+      },
+      "tags": [
+        "category:science",
+        "science:biology",
+        "science:human-body",
+        "science:organs-and-systems"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its four chambers use valves to keep blood moving in one direction.",
+      "explanation": "The heart has a mitral valve between its left atrium and left ventricle, and semilunar valves at the exits to the aorta and pulmonary artery.",
       "sources": {
         "urls": [
-          "https://www.rogerebert.com/reviews/zoolander-2001"
+          "https://www.britannica.com/science/valve-anatomy"
         ],
-        "checkedAt": "2026-11-18T10:19:44.569Z"
+        "checkedAt": "2026-11-19T22:20:57.178Z"
       }
     },
     {
       "category": "music",
-      "id": "6af79509034e45b04e31bcdd",
-      "correctAnswer": "Roll Over Beethoven",
+      "id": "622a1c347cc59eab6f94fbbc",
+      "correctAnswer": "\"Gangsta's Paradise\" by Coolio feat. L.V.",
       "incorrectAnswers": [
-        "Johnny B. Goode",
-        "Maybellene",
-        "Sweet Little Sixteen"
+        "\"Rapper's Delight\" by Sugarhill Gang",
+        "\"I Write Sins Not Tragedies\" by Panic! at the Disco",
+        "\"Welcome to the Black Parade\" by My Chemical Romance"
       ],
       "question": {
-        "text": "Which Chuck Berry song name-checks a classical composer in its title?"
+        "text": "Which song begins with the lyrics: \"As I walk through the valley of the shadow of death / I take a look at my life and realize there's not much left...\"?"
       },
       "tags": [
         "category:music",
-        "music:rock-and-roll"
+        "music:song-lyrics",
+        "music:hip-hop",
+        "music:musicians"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "explanation": "Roll Over Beethoven became a rock-and-roll standard, later covered by artists including the Beatles.",
+      "hint": "The track was featured in the 1995 film Dangerous Minds, starring Michelle Pfeiffer as a teacher.",
+      "explanation": "Gangsta's Paradise prominently samples Stevie Wonder's 1976 song Pastime Paradise, and singer L.V. performs its sung chorus.",
       "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-15T09:05:21.768Z"
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Gangsta%27s_Paradise&oldid=1385520461#:~:text=%22Gangsta's%20Paradise%22%20is%20a,featuring%20American%20singer%20L.V"
+        ],
+        "checkedAt": "2026-11-18T10:19:38.499Z"
       }
     },
     {
-      "category": "society_and_culture",
-      "id": "647f9db03a4302a719271608",
-      "correctAnswer": "Hinduism",
+      "category": "geography",
+      "id": "648888d35dba6c873ef6507b",
+      "correctAnswer": "South",
       "incorrectAnswers": [
-        "Buddhism",
-        "Islam",
-        "Christianity"
+        "East",
+        "West",
+        "North"
       ],
       "question": {
-        "text": "Which religion features the gods Ekanetra and Ekarudra?"
+        "text": "What direction comes before \"Sudan\" in the name of a country in Africa?"
       },
       "tags": [
-        "category:society-and-culture",
-        "topic:hinduism",
-        "topic:religion"
+        "category:geography",
+        "place:africa",
+        "place:eastern-africa",
+        "place:sub-saharan-africa"
       ],
       "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false,
-      "hint": "Shiva and Vishnu are two of the best-known deities in this religion.",
-      "explanation": "Hinduism includes many traditions and deities; Rudra is an ancient Vedic deity closely associated with Shiva.",
+      "hint": "On standard maps, this direction is at the bottom.",
+      "explanation": "South Sudan became independent from Sudan in 2011; Juba is its capital.",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Ekapada&oldid=1356632062#:~:text=The%20Agama%20text%20Amsumadbhedagama,of%20the%20Vidyeshvara%20aspects"
+          "https://kids.britannica.com/kids/article/South-Sudan/570992#:~:text=South%20Sudan%20is%20a%20country%20in%20Africa"
         ],
-        "checkedAt": "2026-11-19T22:20:06.448Z"
+        "checkedAt": "2026-11-19T22:21:08.809Z"
+      }
+    },
+    {
+      "category": "history",
+      "id": "63989c285c9a75021f310486",
+      "correctAnswer": "Newton's Laws of Motion",
+      "incorrectAnswers": [
+        "Darwin's Theory of Evolution",
+        "Einstein's Theory of Relativity",
+        "Mendel's Laws of Genetics"
+      ],
+      "question": {
+        "text": "Which of the following was a major scientific discovery of the 17th century?"
+      },
+      "tags": [
+        "category:history",
+        "category:science",
+        "era:17th-century",
+        "science:forces-and-motion",
+        "science:physics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Their author also formulated the theory of universal gravitation.",
+      "explanation": "Newton's Laws of Motion appeared in Principia Mathematica in 1687. Darwin's theory, Mendel's genetic principles, and Einstein's relativity all came later.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/science/Newtons-laws-of-motion#:~:text=Newton%E2%80%99s%20laws%20of%20motion%2C,foundation%20of%20classical%20mechanics"
+        ],
+        "checkedAt": "2026-11-19T16:23:16.348Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950ff5",
+      "correctAnswer": "Computer mouse",
+      "incorrectAnswers": [
+        "Touchscreen",
+        "Floppy disk",
+        "Laser printer"
+      ],
+      "question": {
+        "text": "Which device did Douglas Engelbart invent in 1964?"
+      },
+      "tags": [
+        "category:science",
+        "science:computing",
+        "science:technology",
+        "science:inventions",
+        "person:inventors",
+        "era:1960s",
+        "era:20th-century"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its first prototype was a small wooden block with two metal wheels underneath.",
+      "explanation": "Douglas Engelbart’s first Computer mouse prototype was wooden and used two wheels to track movement; he called the device an X-Y position indicator.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/biography/Douglas-Engelbart#:~:text=Douglas%20Engelbart%20is%20most,computer%20mouse%20in%201963%E2%80%9364"
+        ],
+        "checkedAt": "2026-11-18T22:28:14.067Z"
       }
     }
   ]
