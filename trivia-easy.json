@@ -1,113 +1,334 @@
 {
-  "gameDate": "2026-11-26",
+  "gameDate": "2026-11-27",
   "difficulty": "easy",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "62573efd9da29df7b05f7380",
-      "correctAnswer": "A man becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "category": "society_and_culture",
+      "id": "6293ebc77f41d6338b96eebf",
+      "correctAnswer": "Christopher Columbus",
       "incorrectAnswers": [
-        "In order to power the city, beasts have to scare children so that they scream.",
-        "A girl wanders into a world ruled by gods, witches, and spirits, where humans are changed into beasts.",
-        "King Arthur and his Knights embark on a search for a religious relic."
+        "Napoleon Bonaparte",
+        "Martin Luther",
+        "Marco Polo"
       ],
       "question": {
-        "text": "What is the plot of the movie Schindler's List?"
+        "text": "Which of these people was an Italian explorer who landed in America?"
       },
       "tags": [
-        "category:film-and-tv",
-        "topic:film",
-        "topic:film-plots",
-        "event:world-war-ii",
-        "event:the-holocaust"
+        "category:society-and-culture",
+        "category:history",
+        "person:christopher-columbus",
+        "person:explorers",
+        "topic:exploration",
+        "era:age-of-exploration",
+        "topic:american-history"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Directed by Spielberg in black and white.",
-      "explanation": "Schindler's List (1993, dir. Steven Spielberg) tells how Oskar Schindler saved Jews employed in his factories.",
+      "hint": "His 1492 westward voyage, sponsored by Spain, reached Caribbean islands.",
+      "explanation": "Christopher Columbus was born in Genoa but sailed under the Spanish crown; his 1492 expedition reached the Caribbean.",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Schindler%27s_List&oldid=1385972883"
+          "https://en.wikipedia.org/w/index.php?title=Christopher_Columbus&oldid=1386382701#:~:text=Columbus%20left%20the%20Port,as%20the%20pre%2DColumbian%20era"
         ],
-        "checkedAt": "2026-11-19T13:12:23.216Z"
+        "checkedAt": "2026-11-19T14:25:05.170Z"
       }
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c3b7cc59eab6f9513b2",
-      "correctAnswer": "The Hobbit",
+      "id": "622a1c367cc59eab6f950161",
+      "correctAnswer": "J.R.R. Tolkien",
       "incorrectAnswers": [
-        "Charlotte's Web",
-        "Alice's Adventures in Wonderland",
-        "Bluebeard"
+        "Roald Dahl",
+        "George R.R. Martin",
+        "Brandon Sanderson"
       ],
       "question": {
-        "text": "In which book does 'Bilbo Baggins' appear?"
+        "text": "Who wrote \"The Hobbit\"?"
       },
       "tags": [
         "category:arts-and-literature",
-        "topic:fictional-characters",
+        "person:authors",
         "topic:literature",
-        "topic:fantasy",
+        "topic:british-literature",
+        "topic:classic-literature",
         "topic:childrens-books",
+        "topic:fantasy",
         "work:middle-earth"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Tolkien's fantasy follows a comfort-loving adventurer drawn into a quest alongside a company of dwarves.",
-      "explanation": "In The Hobbit, Bilbo joins Thorin's company on a quest to reclaim their mountain home from the dragon Smaug.",
+      "hint": "The same English author created Middle-earth and wrote The Lord of the Rings.",
+      "explanation": "J.R.R. Tolkien first wrote The Hobbit as a children's story; its success helped inspire The Lord of the Rings.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/topic/The-Hobbit#:~:text=The%20unwilling%20hero%20of,by%20the%20dragon%20Smaug"
+          "https://www.britannica.com/topic/The-Hobbit"
         ],
-        "checkedAt": "2026-11-19T00:31:16.280Z"
+        "checkedAt": "2026-11-18T15:43:53.836Z"
+      }
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f95012c",
+      "correctAnswer": "December",
+      "incorrectAnswers": [
+        "September",
+        "April",
+        "November"
+      ],
+      "question": {
+        "text": "In what month is Christmas observed?"
+      },
+      "tags": [
+        "category:society-and-culture",
+        "category:general-knowledge",
+        "event:christmas",
+        "event:holidays-and-festivals",
+        "topic:calendar-and-time"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It is the final month of the calendar year.",
+      "explanation": "December comes from the Latin word for ten; it was the tenth month in the early Roman calendar, which began in March.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/topic/Christmas#:~:text=Christmas%20is%20celebrated%20on,particularly%20in%20the%20West"
+        ],
+        "checkedAt": "2026-11-18T15:43:43.115Z"
+      }
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "69a43d87e6e1ab72dd3a5556",
+      "correctAnswer": "Vincent van Gogh",
+      "incorrectAnswers": [
+        "Salvador Dalí",
+        "Henri Matisse",
+        "Georgia O'Keeffe"
+      ],
+      "question": {
+        "text": "Which painter is famous for sunflowers and starry night scenes?"
+      },
+      "tags": [
+        "category:arts-and-literature",
+        "person:vincent-van-gogh",
+        "topic:art",
+        "topic:painting",
+        "topic:impressionism"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "His thick, expressive brushstrokes and time in southern France are hallmarks of his work.",
+      "explanation": "Vincent van Gogh was Dutch, though he created many of his best-known paintings while living in France.",
+      "sources": {
+        "urls": [
+          "https://biography.com/artists/vincent-van-gogh#:~:text=Vincent%20van%20Gogh%20was,until%20after%20his%20death"
+        ],
+        "checkedAt": "2026-11-23T23:59:56.546Z"
+      }
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950285",
+      "correctAnswer": "Grog",
+      "incorrectAnswers": [
+        "Guppy",
+        "Roller",
+        "Meal"
+      ],
+      "question": {
+        "text": "What was the name of the highly diluted rum that was once given to British sailors?"
+      },
+      "tags": [
+        "category:food-and-drink",
+        "category:history",
+        "food:drinks",
+        "food:alcoholic-drinks",
+        "food:spirits"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It was mixed with water to keep sailors from drinking their rum neat.",
+      "explanation": "Grog was named for Admiral Edward Vernon, nicknamed Old Grog because he wore a grogram coat.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Grog&oldid=1384370872"
+        ],
+        "checkedAt": "2026-11-18T15:45:06.190Z"
       }
     },
     {
       "category": "sport_and_leisure",
-      "id": "64730759cf09068746f63758",
-      "correctAnswer": "Triple jump",
+      "id": "65056fa17a97013de78b548c",
+      "correctAnswer": "Copper",
       "incorrectAnswers": [
-        "Long jump",
-        "High jump",
-        "Pole vault"
+        "Gold",
+        "Silver",
+        "Bronze"
       ],
       "question": {
-        "text": "Which athletics event consists of a hop, a step and a jump?"
+        "text": "Which of these medals is NOT awarded at the Olympic games?"
       },
       "tags": [
         "category:sport-and-leisure",
-        "sport:athletics",
+        "sport:olympic-games",
         "sport:sports"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "It has three phases.",
-      "explanation": "The triple jump consists of a hop, a step and a jump, performed in sequence after a run-up.",
+      "hint": "This metal is widely used in electrical wiring.",
+      "explanation": "Copper is not a separate Olympic medal category, though it is a major component of bronze medals.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-20T16:27:36.300Z"
+      }
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d49",
+      "correctAnswer": "One Direction",
+      "incorrectAnswers": [
+        "Boyzone",
+        "Backstreet Boys",
+        "Blur"
+      ],
+      "question": {
+        "text": "Which band did Harry Styles start his career with?"
+      },
+      "tags": [
+        "category:music",
+        "music:musicians",
+        "music:boy-bands-and-girl-groups",
+        "music:pop"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He auditioned for The X Factor as a solo singer before joining four other contestants in a group.",
+      "explanation": "Harry Styles auditioned as a solo singer on The X Factor, then joined four other contestants to form One Direction.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-18T18:10:19.924Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "624333a2cfaae40c129613f4",
+      "correctAnswer": "A Doe",
+      "incorrectAnswers": [
+        "A Pen",
+        "A Mare",
+        "A Nanny"
+      ],
+      "question": {
+        "text": "A female deer is known as what?"
+      },
+      "tags": [
+        "category:science",
+        "science:biology",
+        "animal:animals",
+        "animal:mammals",
+        "topic:animal-terminology"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The male counterpart is commonly called a buck.",
+      "explanation": "A doe is also an adult female rabbit; an adult male deer is called a buck.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/sports/triple-jump#:~:text=triple%20jump%2C%20event%20in,with%20both%20feet%20together"
+          "https://wildlife.ca.gov/Regions/6/Mule-Deer/Natural-History"
         ],
-        "checkedAt": "2026-11-19T20:36:07.240Z"
+        "checkedAt": "2026-11-19T11:50:06.216Z"
+      }
+    },
+    {
+      "category": "history",
+      "id": "65056e517a97013de78b52b7",
+      "correctAnswer": "Soviet Union",
+      "incorrectAnswers": [
+        "Japan",
+        "Egypt",
+        "France"
+      ],
+      "question": {
+        "text": "Which superpower opposed the United States during the Cold War?"
+      },
+      "tags": [
+        "category:history",
+        "category:society-and-culture",
+        "event:cold-war",
+        "place:soviet-union",
+        "era:20th-century",
+        "topic:politics"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its capital was Moscow, and its government was communist-led.",
+      "explanation": "The Soviet Union dissolved in 1991, leaving 15 independent republics, including Russia.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Cold_War&oldid=1386377813#:~:text=The%20Cold%20War%20was,and%20communist%20Eastern%20Bloc"
+        ],
+        "checkedAt": "2026-11-20T14:37:20.174Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "65056fc17a97013de78b54b6",
+      "correctAnswer": "Parasite",
+      "incorrectAnswers": [
+        "Herbivore",
+        "Omnivore",
+        "Decomposer"
+      ],
+      "question": {
+        "text": "What kind of organism is a leech?"
+      },
+      "tags": [
+        "category:science",
+        "science:biology",
+        "animal:animals",
+        "animal:invertebrates"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It often attaches to an animal and feeds on its blood.",
+      "explanation": "A leech is a parasite because it feeds on a host; many species use suckers to attach to animals.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-20T16:27:48.107Z"
       }
     },
     {
       "category": "geography",
-      "id": "623b5859fd6c701a921183b3",
-      "correctAnswer": "Australia",
+      "id": "646140774d46e537ca8cd9bb",
+      "correctAnswer": "The Great Barrier Reef",
       "incorrectAnswers": [
-        "China",
-        "Italy",
-        "France"
+        "The Northern Lights",
+        "The Galapagos Islands",
+        "The Mariana Trench"
       ],
       "question": {
-        "text": "In which country would you find the Sydney Opera House?"
+        "text": "What is the name of the natural wonder that stretches over 1,250 miles off the east coast of Australia?"
       },
       "tags": [
         "category:geography",
@@ -120,566 +341,376 @@
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Sydney lies on the southeastern coast of the world's smallest continent.",
-      "explanation": "Australia is home to the landmark, whose sail-like roof shells were designed by Danish architect Jørn Utzon.",
+      "hint": "Queensland’s coastline borders the Coral Sea, where this immense ecosystem is made of countless coral formations.",
+      "explanation": "The Great Barrier Reef is a vast coral ecosystem made up of thousands of individual reefs and hundreds of islands.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/topic/Sydney-Opera-House#:~:text=The%20Sydney%20Opera%20House%2C,buildings%20in%20the%20world"
+          "https://www.britannica.com/place/Great-Barrier-Reef#:~:text=Great%20Barrier%20Reef%2C%20complex,complex%20in%20the%20world"
         ],
-        "checkedAt": "2026-11-19T10:33:02.350Z"
-      }
-    },
-    {
-      "category": "society_and_culture",
-      "id": "646339ce01d576cfac3aa3ba",
-      "correctAnswer": "Carol",
-      "incorrectAnswers": [
-        "Blessing",
-        "Chant",
-        "Anthem"
-      ],
-      "question": {
-        "text": "What is the general term for a Christmas song or hymn?"
-      },
-      "tags": [
-        "category:society-and-culture",
-        "category:music",
-        "event:christmas",
-        "event:holidays-and-festivals"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Groups often sing these festive songs while going door to door during the holidays.",
-      "explanation": "Carols are festive songs often associated with Christmas, and the tradition of caroling includes singing them in groups.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-19T20:35:36.726Z"
-      }
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9500f1",
-      "correctAnswer": "Thor",
-      "incorrectAnswers": [
-        "Odin",
-        "Baldur",
-        "Heimdall"
-      ],
-      "question": {
-        "text": "Which Norse god of thunder wields the hammer Mjölnir?"
-      },
-      "tags": [
-        "category:society-and-culture",
-        "topic:norse-mythology",
-        "topic:mythology"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "A Marvel superhero shares his name.",
-      "explanation": "Thor is the Norse god of thunder, known for wielding the hammer Mjölnir.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Thor&oldid=1385983252#:~:text=Thor%20wields%20the%20hammer,owns%20the%20staff%20Gr%C3%AD%C3%B0arv%C3%B6lr"
-        ],
-        "checkedAt": "2026-11-18T14:43:24.807Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "65056ee67a97013de78b5388",
-      "correctAnswer": "Bones",
-      "incorrectAnswers": [
-        "Blood",
-        "Skin",
-        "Brain"
-      ],
-      "question": {
-        "text": "What part of the body is affected by osteoporosis?"
-      },
-      "tags": [
-        "category:science",
-        "science:medicine",
-        "science:diseases",
-        "science:human-body",
-        "science:skeleton-and-muscles"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The condition weakens the body's rigid framework, making fractures more likely.",
-      "explanation": "Osteoporosis reduces bone density, leaving bones more fragile and prone to fractures.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/science/osteoporosis#:~:text=osteoporosis%2C%20disease%20characterized%20by,fractures%20from%20minor%20stresses"
-        ],
-        "checkedAt": "2026-11-20T16:26:19.366Z"
+        "checkedAt": "2026-11-19T18:25:40.061Z"
       }
     },
     {
       "category": "food_and_drink",
-      "id": "648888605dba6c873ef6503d",
-      "correctAnswer": "French toast",
+      "id": "622a1c3b7cc59eab6f951557",
+      "correctAnswer": "Texas",
       "incorrectAnswers": [
-        "Melba toast",
-        "Flatbread",
-        "Egg bathed toast"
+        "Florida",
+        "California",
+        "Georgia"
       ],
       "question": {
-        "text": "What is the name of the dish made by dipping bread in a mixture of eggs and milk and frying until golden brown?"
-      },
-      "tags": [
-        "category:food-and-drink",
-        "food:breakfast",
-        "food:cooking"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "It is often served for breakfast with maple syrup, fruit, or powdered sugar.",
-      "explanation": "French toast is also known as pain perdu, meaning “lost bread,” because it is a traditional way to use stale bread.",
-      "sources": {
-        "urls": [],
-        "checkedAt": "2026-11-19T22:21:04.136Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "65056f707a97013de78b5448",
-      "correctAnswer": "Chromosome",
-      "incorrectAnswers": [
-        "Glucose",
-        "Cobalt",
-        "Electrolyte"
-      ],
-      "question": {
-        "text": "What consists of DNA and carries our genetic information?"
-      },
-      "tags": [
-        "category:science",
-        "science:biology",
-        "science:genetics",
-        "science:blood-and-cells"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "In human cells, these are usually found in pairs inside the nucleus.",
-      "explanation": "A chromosome is a long DNA molecule packaged with proteins; most human body cells have 23 pairs.",
-      "sources": {
-        "urls": [
-          "https://www.genome.gov/genetics-glossary/Chromosome#:~:text=Chromosomes%20are%20threadlike%20structures,from%20cell%20to%20cell"
-        ],
-        "checkedAt": "2026-11-20T16:27:16.972Z"
-      }
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c607b50d1a5e051325a5e",
-      "correctAnswer": "England",
-      "incorrectAnswers": [
-        "Mexico",
-        "Philippines",
-        "Spain"
-      ],
-      "question": {
-        "text": "Fish & Chips is a dish that is most associated with which part of the world?"
+        "text": "Which US state is most associated with Chilli Con Carne?"
       },
       "tags": [
         "category:food-and-drink",
         "category:geography",
-        "food:british-cuisine",
-        "food:snacks",
-        "food:seafood",
+        "food:american-cuisine",
         "food:world-cuisine",
-        "place:england",
-        "place:united-kingdom",
-        "place:europe",
-        "place:british-isles"
+        "place:texas",
+        "place:united-states",
+        "place:us-states",
+        "place:north-america",
+        "place:americas",
+        "place:us-south"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "It is a classic takeaway associated with the largest country on the island of Great Britain.",
-      "explanation": "Fish and chips became a popular working-class meal in 19th-century England, sold from dedicated shops as well as pubs.",
+      "hint": "Its nickname is the Lone Star State, and San Antonio is closely tied to its chili tradition.",
+      "explanation": "Texas-style chili is often made without beans, emphasizing meat and chile peppers.",
       "sources": {
-        "urls": [
-          "https://www.bbc.com/travel/article/20130409-chipping-away-at-the-history-of-fish-and-chips#:~:text=Today%2C%20fish%20and%20chips,the%20modern%20English%20diet"
-        ],
-        "checkedAt": "2026-11-19T11:50:57.171Z"
+        "urls": [],
+        "checkedAt": "2026-11-19T00:31:20.844Z"
       }
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950125",
-      "correctAnswer": "Pig",
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950092",
+      "correctAnswer": "Black",
       "incorrectAnswers": [
-        "Rabbit",
-        "Cow",
-        "Horse"
+        "White",
+        "Red",
+        "Yellow"
       ],
       "question": {
-        "text": "What animal's meat can a Muslim not eat?"
+        "text": "What color is the 8 ball in pool?"
       },
       "tags": [
-        "category:society-and-culture",
-        "category:food-and-drink",
-        "topic:islam",
-        "topic:religion",
-        "food:meat"
+        "category:sport-and-leisure",
+        "sport:snooker-and-darts",
+        "sport:sports",
+        "sport:sports-rules-and-terms"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "The same animal is also forbidden under Jewish kosher dietary law.",
-      "explanation": "Islamic dietary rules prohibit eating pigs and products derived from them.",
+      "hint": "In a standard set, it is the darkest ball and carries the number eight.",
+      "explanation": "The 8 ball is black; in eight-ball, a player must pocket their group before legally sinking it to win.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/topic/Why-Cant-Muslims-Eat-Pork#:~:text=The%20Qur%CA%BE%C4%81n%20states%20that,be%20haram%20(expressly%20forbidden)"
+          "https://en.wikipedia.org/w/index.php?title=Eight-ball&oldid=1386243804#:~:text=The%20object%20balls%20include,the%20black%208%20ball"
         ],
-        "checkedAt": "2026-11-18T15:43:40.767Z"
+        "checkedAt": "2026-11-18T14:42:58.679Z"
+      }
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f95077c",
+      "correctAnswer": "Christian Bale",
+      "incorrectAnswers": [
+        "Keanu Reeves",
+        "Dan Aykroyd",
+        "Donald Sutherland"
+      ],
+      "question": {
+        "text": "Which actor played Batman in the Dark Knight trilogy?"
+      },
+      "tags": [
+        "category:film-and-tv",
+        "category:society-and-culture",
+        "person:actors",
+        "topic:film",
+        "topic:superheroes",
+        "work:batman",
+        "work:dc-comics"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He also played Patrick Bateman in American Psycho.",
+      "explanation": "Christian Bale won the Academy Award for Best Supporting Actor for The Fighter.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Christian_Bale&oldid=1385993331"
+        ],
+        "checkedAt": "2026-11-18T17:00:25.152Z"
       }
     },
     {
       "category": "arts_and_literature",
-      "id": "69a561a52858226c00dd2f7e",
-      "correctAnswer": "Candy",
+      "id": "622a1c3a7cc59eab6f95139b",
+      "correctAnswer": "Harry Potter",
       "incorrectAnswers": [
-        "Wood",
-        "Stone",
-        "Leaves"
+        "Voyages Extraordinaires",
+        "Percy Jackson & the Olympians",
+        "Twilight"
       ],
       "question": {
-        "text": "In 'Hansel and Gretel', what do the children find the witch's house is made of?"
+        "text": "In which book series does 'Ginny Weasley' appear?"
       },
       "tags": [
         "category:arts-and-literature",
-        "topic:fairy-tales",
-        "topic:literature"
+        "topic:literature",
+        "topic:fantasy",
+        "topic:childrens-books",
+        "topic:young-adult-fiction",
+        "topic:fictional-characters",
+        "work:harry-potter"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "The children are tempted to nibble its walls and roof.",
-      "explanation": "The house is made of candy, helping the witch lure the children inside.",
+      "hint": "She is Ron Weasley's younger sister and a student at Hogwarts.",
+      "explanation": "Ginny Weasley joins Dumbledore's Army, a student group that practices defensive magic.",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Hansel_and_Gretel&oldid=1387245010#:~:text=the%20witch%20lures%20children,can%20then%20eat%20them"
+          "https://en.wikipedia.org/w/index.php?title=Ginny_Weasley&oldid=1385317484"
         ],
-        "checkedAt": "2026-11-24T00:00:02.460Z"
+        "checkedAt": "2026-11-19T00:31:11.360Z"
       }
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe0d",
-      "correctAnswer": "Asia",
+      "category": "science",
+      "id": "65056e217a97013de78b5274",
+      "correctAnswer": "Anaconda",
       "incorrectAnswers": [
-        "Europe",
-        "Africa",
-        "North America"
+        "Black mamba",
+        "Rattlesnake",
+        "King cobra"
       ],
       "question": {
-        "text": "Which is the Earth's largest continent?"
+        "text": "What is the largest snake?"
       },
       "tags": [
-        "category:geography",
-        "place:asia"
+        "category:science",
+        "animal:animals",
+        "animal:animal-records",
+        "animal:reptiles",
+        "animal:snakes"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "It contains the world's two most populous countries, China and India.",
-      "explanation": "Asia is home to more than half of the world's population and includes the Himalayas, the planet's highest mountain range.",
+      "hint": "This enormous South American constrictor often lurks in rivers and swamps.",
+      "explanation": "Anacondas are generally considered the largest snakes by weight, though reticulated pythons can grow longer.",
       "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Asia&oldid=1386025531#:~:text=Asia%20is%20the%20largest%20continent%20on%20Earth"
-        ],
-        "checkedAt": "2026-11-18T14:40:53.798Z"
-      }
-    },
-    {
-      "category": "general_knowledge",
-      "id": "65056df97a97013de78b523c",
-      "correctAnswer": "Uncle",
-      "incorrectAnswers": [
-        "Nephew",
-        "Brother-in-law",
-        "Grandfather"
-      ],
-      "question": {
-        "text": "Who is the brother of your mother?"
-      },
-      "tags": [
-        "category:general-knowledge",
-        "category:society-and-culture",
-        "topic:language",
-        "topic:words"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The same family title applies to your father's brother, too.",
-      "explanation": "An uncle can be the brother of either parent; the term is also commonly used for an aunt's husband.",
-      "sources": {
-        "urls": [
-          "https://dictionary.cambridge.org/dictionary/english/uncle#:~:text=the%20brother%20of%20someone's,someone's%20aunt%20or%20uncle%3A"
-        ],
-        "checkedAt": "2026-11-20T14:36:51.054Z"
-      }
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951ae9",
-      "correctAnswer": "1066",
-      "incorrectAnswers": [
-        "1166",
-        "1215",
-        "1415"
-      ],
-      "question": {
-        "text": "In which year was the Battle of Hastings fought?"
-      },
-      "tags": [
-        "category:history",
-        "event:battles",
-        "event:norman-conquest",
-        "topic:military",
-        "topic:british-history",
-        "era:middle-ages",
-        "era:11th-century"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "William the Conqueror’s invasion of England culminated in this battle.",
-      "explanation": "William defeated King Harold II, and the Norman victory transformed England’s ruling class and language.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/event/Battle-of-Hastings#:~:text=Battle%20of%20Hastings%2C%20battle,the%20rulers%20of%20England"
-        ],
-        "checkedAt": "2026-11-19T00:33:24.701Z"
-      }
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262881d4b176d54800e3d89",
-      "correctAnswer": "Energizer",
-      "incorrectAnswers": [
-        "Red Cross",
-        "IBM",
-        "FedEx"
-      ],
-      "question": {
-        "text": "'Keeps going and going and going' is a slogan associated with which brand?"
-      },
-      "tags": [
-        "category:society-and-culture",
-        "category:general-knowledge",
-        "org:brands",
-        "topic:advertising-and-slogans",
-        "topic:business"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its long-running commercials feature a pink drum-playing bunny powered by batteries.",
-      "explanation": "Energizer introduced its pink toy rabbit in 1989, parodying a rival battery maker’s bunny ads.",
-      "sources": {
-        "urls": [
-          "https://www.aaaa.org/blog/timeline-event/energizer-bunny-campaign-keeps-going-going-going/"
-        ],
-        "checkedAt": "2026-11-19T14:24:05.372Z"
-      }
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262888a4b176d54800e3da4",
-      "correctAnswer": "Motorola",
-      "incorrectAnswers": [
-        "Sony",
-        "Samsung",
-        "Nokia"
-      ],
-      "question": {
-        "text": "'Hello Moto' is a slogan associated with which communications brand?"
-      },
-      "tags": [
-        "category:society-and-culture",
-        "category:general-knowledge",
-        "topic:advertising-and-slogans",
-        "topic:business",
-        "org:brands",
-        "org:companies",
-        "org:tech-companies"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "The slogan uses a shortened form of the brand's name.",
-      "explanation": "Motorola's first major product was a car radio; the name combined “motor” and Victrola.",
-      "sources": {
-        "urls": [
-          "https://m.gsmarena.com/new_boot_animation_for_all_moto_devices-news-20790.php#:~:text=%E2%80%9CHello%20Moto%E2%80%9D%20was%20Motorola%E2%80%99s,the%20RAZR%20flip%20phone"
-        ],
-        "checkedAt": "2026-11-19T14:24:14.868Z"
+        "urls": [],
+        "checkedAt": "2026-11-20T14:37:04.737Z"
       }
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94ff0a",
-      "correctAnswer": "Madonna",
+      "id": "6266bc4eb0e62e469cf43e91",
+      "correctAnswer": "Stringed",
       "incorrectAnswers": [
-        "Cyndi Lauper",
-        "Kylie Minogue",
-        "Whitney Houston"
+        "Brass",
+        "Percussion",
+        "Woodwind"
       ],
       "question": {
-        "text": "Who sung 'Material Girl'?"
+        "text": "What type of instrument is a guitar?"
       },
       "tags": [
         "category:music",
-        "music:madonna",
-        "music:pop"
+        "music:instruments"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "The same pop star also had a major hit with “Like a Virgin.”",
-      "explanation": "Madonna’s video for “Material Girl” famously paid homage to Marilyn Monroe’s performance of “Diamonds Are a Girl’s Best Friend.”",
+      "hint": "A player usually makes its sound by plucking or strumming, not by blowing into it.",
+      "explanation": "A guitar is a stringed instrument; its body helps amplify the vibrations that create its sound.",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Material_Girl&oldid=1385666483#:~:text=%22%20Material%20Girl%20%22,Like%20a%20Virgin%20(1984)"
+          "https://www.britannica.com/art/guitar#:~:text=guitar%2C%20plucked%20stringed%20musical,body%20and%20four%20strings"
         ],
-        "checkedAt": "2026-11-18T14:41:41.317Z"
+        "checkedAt": "2026-11-19T14:24:34.563Z"
       }
     },
     {
-      "category": "society_and_culture",
-      "id": "626288af4b176d54800e3dae",
-      "correctAnswer": "Carlsberg",
+      "category": "arts_and_literature",
+      "id": "64e6fd5e0b79e5bedd55c874",
+      "correctAnswer": "C. S. Lewis",
       "incorrectAnswers": [
-        "Heineken",
-        "Fosters",
-        "Budweiser"
+        "J. R. R. Tolkien",
+        "George Orwell",
+        "Agatha Christie"
       ],
       "question": {
-        "text": "'Probably the best lager in the world' is a slogan associated with which beer brand?"
+        "text": "Which Narnia author's first published work was the 1919 poetry collection 'Spirits in Bondage'?"
       },
       "tags": [
-        "category:society-and-culture",
+        "category:arts-and-literature",
+        "person:authors",
+        "person:poets",
+        "topic:british-literature",
+        "topic:classic-literature",
+        "topic:literature",
+        "topic:poetry",
+        "era:1910s",
+        "era:20th-century",
+        "work:chronicles-of-narnia"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "He was a prominent member of the Oxford literary circle known as the Inklings.",
+      "explanation": "C. S. Lewis published the poetry collection under the pseudonym Clive Hamilton, before becoming best known for The Chronicles of Narnia.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/biography/C-S-Lewis#:~:text=In%20his%20youth%20Lewis,writing%20and%20prose%20fiction"
+        ],
+        "checkedAt": "2026-11-20T14:35:59.390Z"
+      }
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6239f80b9129041bf3925cc1",
+      "correctAnswer": "Echo",
+      "incorrectAnswers": [
+        "Elton",
+        "Elbow",
+        "Enable"
+      ],
+      "question": {
+        "text": "What word is used in the NATO Phonetic Alphabet for the letter E?"
+      },
+      "tags": [
         "category:general-knowledge",
-        "category:food-and-drink",
-        "topic:advertising-and-slogans",
-        "topic:business",
-        "food:drinks",
-        "food:alcoholic-drinks",
-        "food:beer"
+        "topic:alphabets-and-codes"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Its name combines founder J.C. Jacobsen’s son Carl with the Danish word for hill.",
-      "explanation": "Carlsberg was founded in Copenhagen in 1847 by brewer J.C. Jacobsen.",
+      "hint": "In the NATO sequence, it comes between the code words for D and F: Delta and Foxtrot.",
+      "explanation": "Echo is the code word for E, helping distinguish the letter in spoken communications when audio is unclear.",
       "sources": {
-        "urls": [
-          "https://faroutmagazine.co.uk/bent-rej-carlsberg-road-trip#:~:text=In%201973%2C%20Carlsberg%2C%20Denmark%E2%80%99s,lager%20in%20the%20world.%E2%80%9D"
-        ],
-        "checkedAt": "2026-11-19T14:24:18.033Z"
+        "urls": [],
+        "checkedAt": "2026-11-19T09:17:33.190Z"
       }
     },
     {
-      "category": "science",
-      "id": "6505701e7a97013de78b5538",
-      "correctAnswer": "Chlamydia",
+      "category": "history",
+      "id": "65056e067a97013de78b524e",
+      "correctAnswer": "Trumpets",
       "incorrectAnswers": [
-        "Parkinson's",
-        "Thyroid cancer",
-        "Gastritis"
+        "Battering rams",
+        "Trojan Horse",
+        "Fire from heaven"
       ],
       "question": {
-        "text": "Which is an example of a sexually transmitted disease?"
+        "text": "In the Bible, what causes the destruction of the walls of Jericho?"
       },
       "tags": [
-        "category:science",
-        "science:diseases",
-        "science:medicine",
-        "science:microbiology"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "This bacterial infection can be present without noticeable symptoms, which is why screening matters.",
-      "explanation": "Chlamydia is caused by the bacterium Chlamydia trachomatis and is usually curable with antibiotics.",
-      "sources": {
-        "urls": [
-          "https://www.nhs.uk/conditions/chlamydia/#:~:text=Chlamydia%20is%20a%20sexually,(sex%20without%20a%20condom)"
-        ],
-        "checkedAt": "2026-11-20T16:28:21.666Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "65056eb57a97013de78b5343",
-      "correctAnswer": "In a cave",
-      "incorrectAnswers": [
-        "In a desert",
-        "In a forest",
-        "In the kitchen"
-      ],
-      "question": {
-        "text": "Where can we find stalactites?"
-      },
-      "tags": [
-        "category:science",
-        "science:earth-science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "They form where mineral-rich water drips from underground rock ceilings.",
-      "explanation": "Stalactites form on cave ceilings as minerals are deposited; stalagmites grow upward from cave floors.",
-      "sources": {
-        "urls": [
-          "https://nps.gov/subjects/caves/speleothems.htm#:~:text=Stalactites%20are%20the%20most,hanging%20from%20cave%20ceilings"
-        ],
-        "checkedAt": "2026-11-20T14:37:52.635Z"
-      }
-    },
-    {
-      "category": "society_and_culture",
-      "id": "65056e497a97013de78b52ad",
-      "correctAnswer": "India",
-      "incorrectAnswers": [
-        "United States",
-        "Pakistan",
-        "Australia"
-      ],
-      "question": {
-        "text": "Where is the film industry of Bollywood located?"
-      },
-      "tags": [
+        "category:history",
         "category:society-and-culture",
-        "category:film-and-tv",
+        "topic:christianity",
+        "work:the-bible"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "The priests' signal came from a musical instrument, not a weapon.",
+      "explanation": "In Joshua, seven priests sound trumpets made from ram's horns, and the people shout before Jericho's walls collapse.",
+      "sources": {
+        "urls": [
+          "https://en.wikipedia.org/w/index.php?title=Joshua_6&oldid=1362920119#:~:text=With%20the%20extended%20blast,city%20and%20destroy%20it"
+        ],
+        "checkedAt": "2026-11-20T14:36:54.565Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "648891b84cd3f064f443dc3c",
+      "correctAnswer": "A Triangle",
+      "incorrectAnswers": [
+        "A Square",
+        "A Circle",
+        "A Rectangle"
+      ],
+      "question": {
+        "text": "What type of shape might be obtuse or isosceles?"
+      },
+      "tags": [
+        "category:science",
+        "science:mathematics",
+        "science:geometry"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its three interior angles add up to 180 degrees.",
+      "explanation": "A triangle's angles total 180 degrees; obtuse describes one angle greater than 90 degrees, while isosceles means two sides are equal.",
+      "sources": {
+        "urls": [],
+        "checkedAt": "2026-11-19T22:21:30.262Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "65056e3f7a97013de78b529e",
+      "correctAnswer": "Concrete",
+      "incorrectAnswers": [
+        "Porcelain",
+        "Gypsum",
+        "Chalk"
+      ],
+      "question": {
+        "text": "What is made out of gravel, sand, cement and water?"
+      },
+      "tags": [
+        "category:science",
+        "science:materials",
+        "science:engineering"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "It is poured into forms to make foundations, sidewalks, and bridges.",
+      "explanation": "Concrete hardens as cement reacts with water, binding the sand and gravel together.",
+      "sources": {
+        "urls": [
+          "https://www.britannica.com/technology/concrete-building-material#:~:text=Concrete%20consists%20of%20a,by%20cement%20and%20water"
+        ],
+        "checkedAt": "2026-11-20T14:37:12.451Z"
+      }
+    },
+    {
+      "category": "geography",
+      "id": "623740bfcb85f7ce9e949d1e",
+      "correctAnswer": "New Delhi",
+      "incorrectAnswers": [
+        "Kolkata",
+        "Jaipur",
+        "Mumbai"
+      ],
+      "question": {
+        "text": "What is the capital city of India?"
+      },
+      "tags": [
         "category:geography",
-        "topic:indian-cinema",
+        "place:capital-cities",
         "place:india",
         "place:asia",
         "place:south-asia"
@@ -688,271 +719,234 @@
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Mumbai is the city most closely associated with this film industry.",
-      "explanation": "Bollywood is centered in Mumbai, whose former name, Bombay, helped inspire the name Bollywood.",
+      "hint": "India's Parliament and central government are based in this city.",
+      "explanation": "New Delhi became India's capital in 1911, replacing Kolkata, which was then known as Calcutta.",
       "sources": {
         "urls": [
-          "https://britannica.com/topic/Bollywood-film-industry-India#:~:text=Bollywood%2C%20a%20portmanteau%20combining,an%20enormous%20film%20empire"
+          "https://www.britannica.com/place/New-Delhi#:~:text=New%20Delhi%2C%20national%20capital%20of%20India"
         ],
-        "checkedAt": "2026-11-20T14:37:17.015Z"
+        "checkedAt": "2026-11-19T09:16:49.073Z"
       }
     },
     {
-      "category": "science",
-      "id": "62433403cfaae40c12961419",
-      "correctAnswer": "A Tadpole",
+      "category": "general_knowledge",
+      "id": "622a1c3d7cc59eab6f951b87",
+      "correctAnswer": "Apple",
       "incorrectAnswers": [
-        "A Calf",
-        "A Piglet",
-        "A Maggot"
+        "Blackberry",
+        "Microsoft",
+        "Google"
       ],
       "question": {
-        "text": "What would you call a baby frog?"
+        "text": "Which computer company was set up by Steven Jobs and Stephen Wozniak?"
       },
       "tags": [
-        "category:science",
-        "animal:animals",
-        "animal:amphibians",
-        "topic:animal-terminology"
+        "category:general-knowledge",
+        "category:society-and-culture",
+        "org:apple",
+        "org:companies",
+        "org:tech-companies",
+        "topic:business"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "It begins life in water with a tail and gills before developing legs.",
-      "explanation": "A tadpole is a frog’s aquatic larval stage; as it develops, it grows legs and loses its tail.",
+      "hint": "Its famous logo has a bite taken from a piece of fruit.",
+      "explanation": "Apple's Apple II became one of the first highly successful mass-market personal computers.",
       "sources": {
         "urls": [
-          "https://www.merriam-webster.com/dictionary/tadpole"
+          "https://en.wikipedia.org/w/index.php?title=Apple_Inc.&oldid=1386426245"
         ],
-        "checkedAt": "2026-11-19T11:50:12.288Z"
-      }
-    },
-    {
-      "category": "history",
-      "id": "65056e717a97013de78b52e4",
-      "correctAnswer": "Apollo",
-      "incorrectAnswers": [
-        "Gemini",
-        "Mercury",
-        "Skylab"
-      ],
-      "question": {
-        "text": "Which space program first sent humans to the Moon?"
-      },
-      "tags": [
-        "category:history",
-        "category:science",
-        "event:moon-landings",
-        "era:1960s",
-        "era:20th-century",
-        "science:space-exploration",
-        "science:the-moon",
-        "org:nasa"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Neil Armstrong and Buzz Aldrin made their historic lunar landing under this program.",
-      "explanation": "Apollo 11 achieved the first crewed Moon landing in 1969, with Michael Collins orbiting the Moon while Armstrong and Aldrin descended to the surface.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/topic/Apollo-space-program"
-        ],
-        "checkedAt": "2026-11-20T14:37:28.016Z"
-      }
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625740839da29df7b05f73e3",
-      "correctAnswer": "After his son is captured and taken to Sydney, a clownfish sets out on a journey to bring him home.",
-      "incorrectAnswers": [
-        "A prince cursed to spend his days as a monster sets out to regain his humanity.",
-        "After he becomes a quadriplegic, an aristocrat hires a young man to be his caregiver.",
-        "A high school student is sent thirty years into the past in a time-traveling car."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Finding Nemo?"
-      },
-      "tags": [
-        "category:film-and-tv",
-        "topic:film",
-        "topic:animated-films",
-        "org:disney",
-        "org:pixar"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "A scuba diver’s encounter with a young fish sends the parent across the ocean.",
-      "explanation": "In Finding Nemo, the forgetful blue tang Dory joins Marlin on the search, providing help and comic relief.",
-      "sources": {
-        "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Finding_Nemo&oldid=1385998246"
-        ],
-        "checkedAt": "2026-11-19T13:12:55.163Z"
-      }
-    },
-    {
-      "category": "geography",
-      "id": "625ea012796f721e95543fcc",
-      "correctAnswer": "13 horizontal stripes of red and white, with a blue rectangle in the top left containing 50 white stars.",
-      "incorrectAnswers": [
-        "Two equal horizontal bands of blue and yellow.",
-        "Red with a white cross that extends to the edges.",
-        "Green with a yellow diamond in the center with a blue celestial globe."
-      ],
-      "question": {
-        "text": "What does the flag of United States look like?"
-      },
-      "tags": [
-        "category:geography",
-        "topic:flags",
-        "topic:national-symbols",
-        "place:united-states",
-        "place:north-america",
-        "place:americas"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its design honors the original colonies and represents each state in the union.",
-      "explanation": "The stars on the U.S. flag represent the states, while the stripes commemorate the original thirteen colonies.",
-      "sources": {
-        "urls": [
-          "https://www.britannica.com/topic/flag-of-the-United-States-of-America#:~:text=The%20flag%20of%20the,containing%2050%20white%20stars"
-        ],
-        "checkedAt": "2026-11-19T13:13:36.487Z"
+        "checkedAt": "2026-11-19T00:33:36.999Z"
       }
     },
     {
       "category": "arts_and_literature",
-      "id": "65056e4b7a97013de78b52b0",
-      "correctAnswer": "13",
+      "id": "646262f6ab138b829b81ea69",
+      "correctAnswer": "Thee",
       "incorrectAnswers": [
-        "10",
-        "7",
-        "3"
+        "Himself",
+        "His mother",
+        "The moon"
       ],
       "question": {
-        "text": "How many people are visible in The Last Supper by Leonardo da Vinci?"
+        "text": "In sonnet 18, who is Shakespeare comparing to a summer's day?"
       },
       "tags": [
         "category:arts-and-literature",
-        "topic:art",
-        "topic:painting",
-        "topic:renaissance-art",
-        "era:renaissance",
-        "person:artists",
-        "person:leonardo-da-vinci"
+        "person:william-shakespeare",
+        "topic:poetry",
+        "topic:literature",
+        "topic:classic-literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "Jesus is shown with his twelve apostles gathered around him.",
-      "explanation": "Thirteen people are visible: Jesus and the twelve apostles, arranged in groups of three around the table.",
+      "hint": "The speaker addresses a loved one directly in the opening line.",
+      "explanation": "“Thee” is the person addressed in the sonnet; Shakespeare says the poem will preserve that person’s beauty beyond the changing seasons.",
       "sources": {
-        "urls": [
-          "https://britannica.com/question/Who-are-the-13-people-depicted-in-Leonardo-da-Vincis-Last-Supper#:~:text=The%2013%20figures%20depicted,Apostles%2C%20his%20closest%20disciples"
-        ],
-        "checkedAt": "2026-11-20T14:37:18.066Z"
+        "urls": [],
+        "checkedAt": "2026-11-19T20:34:57.820Z"
       }
     },
     {
-      "category": "geography",
-      "id": "62602d174b176d54800e3c7e",
-      "correctAnswer": "Australia",
+      "category": "society_and_culture",
+      "id": "64f6d9bd660c3a8d960101ef",
+      "correctAnswer": "Lutheran",
       "incorrectAnswers": [
-        "Ireland",
-        "New Zealand",
-        "Canada"
+        "Catholic",
+        "Muslim",
+        "Hindu"
       ],
       "question": {
-        "text": "Sydney is a city in which country?"
+        "text": "What is the most widely practiced religion in Finland?"
       },
       "tags": [
-        "category:geography",
-        "place:cities",
-        "place:australia",
-        "place:oceania",
-        "place:australasia"
+        "category:society-and-culture",
+        "topic:religion",
+        "topic:christianity",
+        "place:finland",
+        "place:europe",
+        "place:nordic-countries"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "The country occupies an entire continent and is home to the Great Barrier Reef.",
-      "explanation": "Australia hosted the 2000 Summer Olympics in Sydney, while Canberra is the national capital.",
+      "hint": "Finland’s largest church belongs to a Protestant tradition named for a German Reformer.",
+      "explanation": "Lutheranism took hold in Finland during the Reformation, and the Evangelical Lutheran Church remains the country’s largest religious community.",
       "sources": {
         "urls": [
-          "https://www.britannica.com/place/Sydney-New-South-Wales#:~:text=Sydney%2C%20city%2C%20capital%20of,New%20South%20Wales%2C%20Australia"
+          "https://www.britannica.com/place/Finland/Religion#:~:text=The%20great%20majority%20of,in%20the%2019th%20century"
         ],
-        "checkedAt": "2026-11-19T13:14:03.113Z"
-      }
-    },
-    {
-      "category": "science",
-      "id": "650570207a97013de78b553b",
-      "correctAnswer": "Black hole",
-      "incorrectAnswers": [
-        "Supernova",
-        "Big bang",
-        "Pulsar"
-      ],
-      "question": {
-        "text": "What is a region of spacetime in which gravity prevents anything from escaping?"
-      },
-      "tags": [
-        "category:science",
-        "science:astronomy",
-        "science:stars-and-galaxies",
-        "science:physics"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false,
-      "hint": "Its boundary is called the event horizon, beyond which even light cannot return.",
-      "explanation": "A black hole's event horizon marks the point of no return; astronomers detect black holes through their effects on nearby matter and light.",
-      "sources": {
-        "urls": [
-          "https://science.nasa.gov/universe/black-holes/#:~:text=A%20black%20hole%20is,light%20%E2%80%93%20can%20escape"
-        ],
-        "checkedAt": "2026-11-20T16:28:22.740Z"
+        "checkedAt": "2026-11-20T14:36:28.557Z"
       }
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f9504dd",
-      "correctAnswer": "oceans",
+      "id": "650570357a97013de78b5557",
+      "correctAnswer": "8",
       "incorrectAnswers": [
-        "non-terrestrial life",
-        "blood serum",
-        "the Earth"
+        "6",
+        "10",
+        "14"
       ],
       "question": {
-        "text": "What is Oceanology the study of?"
+        "text": "How many limbs does an octopus have?"
       },
       "tags": [
         "category:science",
-        "topic:ologies-and-phobias",
-        "science:earth-science"
+        "animal:animals",
+        "animal:invertebrates",
+        "animal:marine-life",
+        "science:biology"
       ],
       "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false,
-      "hint": "The Pacific, Atlantic, Indian, Southern, and Arctic are all within this field's scope.",
-      "explanation": "Oceanology is also called oceanography, an interdisciplinary field that studies the physical, chemical, biological, and geological processes of the oceans.",
+      "hint": "A human has four limbs; this animal has twice that many.",
+      "explanation": "An octopus has 8 limbs, usually called arms. They contain no bones, which helps the animal squeeze through narrow spaces.",
       "sources": {
         "urls": [
-          "https://en.wikipedia.org/w/index.php?title=Oceanography&oldid=1382441087"
+          "https://www.britannica.com/animal/octopus-mollusk#:~:text=An%20octopus%20is%20a,of%20the%20order%20Octopoda"
         ],
-        "checkedAt": "2026-11-18T16:59:07.961Z"
+        "checkedAt": "2026-11-20T16:28:31.307Z"
+      }
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3c7cc59eab6f9519d1",
+      "correctAnswer": "Red",
+      "incorrectAnswers": [
+        "Purple",
+        "Yellow",
+        "Blue"
+      ],
+      "question": {
+        "text": "What color are holly berries?"
+      },
+      "tags": [
+        "category:science",
+        "science:biology",
+        "science:botany",
+        "topic:colours"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Their vivid hue is also used on stop signs and classic Santa suits.",
+      "explanation": "Red holly berries are a familiar Christmas motif, contrasting with the plant’s glossy green leaves.",
+      "sources": {
+        "urls": [
+          "https://web.archive.org/web/20120503152922/http:/www.kew.org/plants-fungi/Ilex-aquifolium.htm"
+        ],
+        "checkedAt": "2026-11-19T00:33:02.467Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "65056fcd7a97013de78b54c6",
+      "correctAnswer": "Carbon",
+      "incorrectAnswers": [
+        "Phosphorus",
+        "Magnesium",
+        "Lithium"
+      ],
+      "question": {
+        "text": "The chemistry of life centers around which element?"
+      },
+      "tags": [
+        "category:science",
+        "science:biology",
+        "science:chemical-elements",
+        "science:chemistry"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its atoms can form four covalent bonds, making long chains and complex molecular frameworks possible.",
+      "explanation": "Carbon has four valence electrons, allowing it to form stable bonds with many elements and build the chains and rings found in biomolecules.",
+      "sources": {
+        "urls": [
+          "https://britannica.com/science/carbon-chemical-element/Properties-and-uses#:~:text=Carbon%20is%20essential%20for,in%20all%20organic%20compounds"
+        ],
+        "checkedAt": "2026-11-20T16:27:53.470Z"
+      }
+    },
+    {
+      "category": "science",
+      "id": "65056e1c7a97013de78b526e",
+      "correctAnswer": "Richter",
+      "incorrectAnswers": [
+        "Beaufort",
+        "Schweizer",
+        "Hammer"
+      ],
+      "question": {
+        "text": "Which scale is used to classify the magnitude of earthquakes?"
+      },
+      "tags": [
+        "category:science",
+        "science:earth-science",
+        "science:units-of-measurement",
+        "science:volcanoes-and-earthquakes"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false,
+      "hint": "Its namesake was an American seismologist who developed the scale with Beno Gutenberg.",
+      "explanation": "Charles F. Richter and Beno Gutenberg introduced the scale in 1935. It is logarithmic, so each whole-number increase represents a tenfold increase in measured wave amplitude.",
+      "sources": {
+        "urls": [
+          "https://www.usgs.gov/media/images/richterscalegif"
+        ],
+        "checkedAt": "2026-11-20T14:37:02.985Z"
       }
     }
   ]
